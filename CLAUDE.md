@@ -17,3 +17,9 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 
 - **Kết quả**: đã làm gì, đã kiểm chứng ra sao (hoặc chưa kiểm chứng được gì).
 - **Bước tiếp theo**: việc nên làm tiếp, nếu có.
+
+## Skills
+
+- `.claude/skills/` chứa 292 skills lấy từ [ECC](https://github.com/affaan-m/ECC) (giấy phép MIT, xem `third_party/ecc/LICENSE`). Phiên bản đang dùng ghi trong `third_party/ecc/SOURCE`.
+- Không sửa trực tiếp các skill ECC: lần đồng bộ sau sẽ ghi đè. Muốn tùy biến thì tạo skill mới với tên khác.
+- Cập nhật từ upstream: `scripts/sync-ecc-skills.sh` (hoặc `scripts/sync-ecc-skills.sh <tag>` để chọn phiên bản).
