@@ -1,0 +1,708 @@
+{
+  "title": "One Piece: Dòng thời gian 800 năm và bí ẩn Thế kỷ trống",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler One Piece tới hết arc Egghead trong anime. Arc Elbaph đang phát năm 2026 chỉ được nhắc rất nhẹ."
+      },
+      "image_prompt": "an ancient stone tablet half-buried in sand, glowing faintly under a stormy sky",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết Egghead"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Tám trăm năm trước, hai mươi vị vua đứng trên đỉnh một bức tường đá khổng lồ chia đôi thế giới. Họ vừa thắng một cuộc chiến, và quyết định rằng thế giới sẽ quên đi những gì đã xảy ra."
+      },
+      "image_prompt": "twenty regal silhouettes standing atop a colossal red cliff wall at sunset, banners snapping in the wind",
+      "on_screen_text": "800 năm trước",
+      "video_prompt": "banners snap in the wind as the twenty silhouettes turn away from the edge, clouds racing below, slow crane up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Một trăm năm lịch sử trước đó bị xóa sạch. Ai tìm hiểu về nó thì bị coi là tội phạm. Người ta gọi khoảng thời gian đó là Thế kỷ trống."
+      },
+      "image_prompt": "a thick history book with a hundred blank pages in the middle, torn edges glowing",
+      "on_screen_text": "Thế kỷ trống"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hôm nay Kaku trải một cuộn giấy thật dài, và xếp lại mọi mốc thời gian mà One Piece đã hé lộ, từ trước Thế kỷ trống cho tới hiện tại."
+      },
+      "image_prompt": "a very long scroll unrolling across a wooden floor, dates and small drawings along its length"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Mỗi chương hôm nay là một mốc thời gian. Những gì truyện đã xác nhận, Kaku nói là sự thật. Những gì còn là suy đoán, Kaku gắn nhãn lý thuyết thật rõ."
+      },
+      "image_prompt": "the owl mascot pinning two labels onto the scroll: a solid pin and a dotted question-mark pin",
+      "on_screen_text": "Sự thật · Lý thuyết",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot pins the two labels and the scroll unrolls further across the floor on its own, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "One Piece thường tính thời gian theo kiểu bao nhiêu năm trước hiện tại. Hiện tại là thời điểm nhân vật chính đang ra khơi."
+      },
+      "image_prompt": "a timeline arrow with a glowing marker labeled NOW at the right end",
+      "chapter": "Cách đọc dòng thời gian",
+      "on_screen_text": "Tính từ hiện tại"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Thế kỷ trống kéo dài một trăm năm, từ khoảng chín trăm năm trước tới tám trăm năm trước. Sau đó là tám thế kỷ dưới sự cai trị của Chính phủ Thế giới."
+      },
+      "image_prompt": "a timeline with a dark gap between 900 and 800 years ago, then a long lighter segment to the present",
+      "on_screen_text": "900 → 800 năm trước"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nguồn thông tin về quá khứ rất ít: những phiến đá cổ khắc chữ không ai đọc được, lời kể của vài người sống sót, và vài lời tiết lộ gây sốc ở những arc gần đây."
+      },
+      "image_prompt": "a desk with a stone rubbing, an old diary and a crackling radio transmitter"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Vì vậy, dòng thời gian này giống một bức tranh ghép còn thiếu rất nhiều mảnh. Kaku sẽ chỉ ghép những mảnh đã chắc chắn."
+      },
+      "image_prompt": "a jigsaw puzzle of a world map with many missing pieces, a few pieces in the owl mascot's wing",
+      "use_mascot": true
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Trước khi đi ngược thời gian, hãy nhìn bản đồ thế giới One Piece ở hiện tại, vì chính bản đồ này là kết quả của tám trăm năm lịch sử."
+      },
+      "image_prompt": "a stylized world map mostly ocean, split by a red vertical wall and a blue horizontal band",
+      "chapter": "Bản đồ thế giới hôm nay",
+      "on_screen_text": "Bản đồ hiện tại"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Thế giới bị chia làm bốn phần bởi hai đường lớn. Đường thẳng đứng là Red Line, một bức tường đá đỏ khổng lồ chạy vòng quanh hành tinh. Đường nằm ngang là Grand Line, vùng biển nguy hiểm nhất."
+      },
+      "image_prompt": "the red rock wall and the dangerous sea route crossing each other in a giant cross shape",
+      "on_screen_text": "Red Line × Grand Line"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Hai bên Grand Line là hai vùng biển lặng không có gió, nơi những con thủy quái khổng lồ sinh sống. Tàu thường gần như không thể băng qua."
+      },
+      "image_prompt": "a windless sea with a small becalmed ship and enormous sea monster shadows beneath it",
+      "on_screen_text": "Vùng biển lặng"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Bốn phần còn lại là bốn vùng biển, Đông, Tây, Nam, Bắc. Nhân vật chính xuất phát từ biển Đông, được xem là vùng biển yên bình nhất."
+      },
+      "image_prompt": "four quadrants of ocean labeled with compass icons, a tiny boat setting out from one of them",
+      "on_screen_text": "Bốn biển"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và thủ đô của Chính phủ Thế giới nằm ngay trên đỉnh bức tường đá đỏ. Nghĩa là những người cai trị đứng, theo đúng nghĩa đen, trên đỉnh thế giới."
+      },
+      "image_prompt": "a palace glittering on top of the red wall, far above clouds and tiny ships",
+      "on_screen_text": "Thủ đô trên đỉnh tường"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Kaku ghi chú: nhớ bản đồ này nhé, vì lát nữa ở mốc biển dâng, bạn sẽ nhìn nó theo một cách hoàn toàn khác."
+      },
+      "image_prompt": "the owl mascot tapping the map with a wing, a small wave icon hovering above",
+      "use_mascot": true
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Điểm xa nhất: trước khi Thế kỷ trống bắt đầu. Truyện gần như không kể gì về thời kỳ này, ngoài vài dấu vết kỳ lạ."
+      },
+      "image_prompt": "a misty ancient landscape with ruins of strange architecture, too advanced for its era",
+      "chapter": "Trước Thế kỷ trống",
+      "on_screen_text": "Hơn 900 năm trước"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Dấu vết lớn nhất là công nghệ. Trên hòn đảo khoa học ở arc Egghead, người ta tìm thấy những thứ cho thấy thời cổ đại từng có công nghệ vượt xa hiện tại."
+      },
+      "image_prompt": "a futuristic lab discovering an ancient machine part covered in moss, scientists staring in awe"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Nhà khoa học thiên tài nhất thế giới hiện tại từng thừa nhận: nhiều phát minh của ông chỉ là tái tạo lại những gì người xưa đã làm được."
+      },
+      "image_prompt": "a scientist silhouette comparing his blueprint to an ancient carved diagram that looks nearly identical",
+      "on_screen_text": "Công nghệ cổ vượt xa hiện tại"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Một người máy khổng lồ cổ đại, được tìm thấy trong trạng thái ngủ, là bằng chứng rõ ràng nhất cho nền văn minh đó."
+      },
+      "image_prompt": "a colossal ancient robot slumped over and covered in vines, birds nesting on its shoulders",
+      "on_screen_text": "Người máy cổ đại"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Kaku ghi chú: một thế giới có công nghệ cao, rồi tụt lùi về thời thuyền buồm. Chuyện gì đã xảy ra? Câu trả lời nằm trong trăm năm bị xóa."
+      },
+      "image_prompt": "the owl mascot holding an ancient gear in one wing and a wooden ship wheel in the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Bước vào Thế kỷ trống. Truyện xác nhận rằng trong thời kỳ này có một vương quốc lớn, được gọi là Vương quốc Vĩ đại."
+      },
+      "image_prompt": "a radiant ancient city with towering spires, bathed in golden light, its name hidden by fog",
+      "chapter": "Thế kỷ trống: 900 đến 800 năm trước",
+      "on_screen_text": "Vương quốc Vĩ đại"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Vương quốc này có một tư tưởng mà Chính phủ Thế giới sau này coi là mối đe dọa. Tư tưởng đó là gì, truyện vẫn chưa nói rõ."
+      },
+      "image_prompt": "a glowing idea symbol above an ancient city, dark hands reaching toward it from the edges"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Trong thời kỳ này có một người tên Joy Boy, được xem là hải tặc đầu tiên. Ông để lại những lời hứa với nhiều nơi trên thế giới, và không phải lời hứa nào cũng được giữ."
+      },
+      "image_prompt": "a lone laughing silhouette at the bow of a ship under a blazing sun",
+      "on_screen_text": "Joy Boy"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Ở hòn đảo người cá dưới đáy biển, có một phiến đá cổ chứa lời xin lỗi của Joy Boy vì đã không thể giữ lời hứa với họ."
+      },
+      "image_prompt": "an ancient stone tablet deep under the sea, surrounded by glowing coral and curious fish",
+      "on_screen_text": "Lời xin lỗi dưới đáy biển"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Cũng trong thời kỳ này, những phiến đá cổ gọi là poneglyph được khắc ra. Chúng không thể bị phá hủy, và chứa những thông tin mà kẻ chiến thắng muốn xóa đi."
+      },
+      "image_prompt": "a massive cube of indestructible stone carved with ancient glyphs, cracks of light along the text",
+      "on_screen_text": "Poneglyph"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku ghi chú: người ta khắc lịch sử vào đá không thể phá hủy, vì họ biết có người sẽ cố xóa nó. Đó là một hành động rất can đảm."
+      },
+      "image_prompt": "the owl mascot carefully carving a tiny symbol into a small stone with a chisel",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Tám trăm năm trước, cuộc chiến kết thúc. Một liên minh hai mươi vị vua đánh bại Vương quốc Vĩ đại và lập ra Chính phủ Thế giới."
+      },
+      "image_prompt": "twenty crowns placed in a circle on a great stone table, a treaty scroll in the middle",
+      "chapter": "800 năm trước: ngày thành lập Chính phủ Thế giới",
+      "on_screen_text": "Liên minh 20 vị vua"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Mười chín gia tộc hoàng gia chuyển tới sống trên đỉnh bức tường đá đỏ chạy vòng quanh thế giới. Hậu duệ của họ trở thành tầng lớp cao nhất, đứng trên mọi luật lệ."
+      },
+      "image_prompt": "a gleaming palace city atop a red rock wall that circles the world, clouds below it",
+      "on_screen_text": "19 gia tộc lên đỉnh"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Nhưng có một gia tộc từ chối. Họ ở lại vương quốc sa mạc của mình và sống như những người bình thường. Chi tiết này sẽ trở nên rất quan trọng."
+      },
+      "image_prompt": "a single royal family silhouette walking back toward a desert kingdom while the others ascend",
+      "on_screen_text": "1 gia tộc ở lại"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Trong thánh địa trên đỉnh tường đá có một chiếc ngai được gọi là ngai trống, tượng trưng cho việc không ai đứng trên ai trong số các vị vua."
+      },
+      "image_prompt": "an empty throne under a beam of light in a vast hall, twenty swords planted around it",
+      "on_screen_text": "Ngai trống"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Nhưng truyện đã cho thấy: chiếc ngai đó không hề trống. Có một nhân vật bí ẩn ngồi trên nó, và người đó dường như đã tồn tại rất, rất lâu."
+      },
+      "image_prompt": "a shadowy figure seated on the empty throne, only a pair of glowing eyes visible",
+      "on_screen_text": "Ngai không hề trống"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kaku ghi chú: một chính phủ dựng lên biểu tượng bình đẳng, nhưng sau biểu tượng đó là một người cai trị giấu mặt. Đây là một trong những hình ảnh mạnh nhất của One Piece."
+      },
+      "image_prompt": "the owl mascot peeking behind a curtain and gasping",
+      "use_mascot": true
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Ở arc Egghead, nhà khoa học thiên tài phát đi một thông điệp cho cả thế giới, và tiết lộ một sự thật gây sốc về tám trăm năm trước."
+      },
+      "image_prompt": "a giant holographic broadcast screen floating over the ocean, crowds on islands looking up",
+      "chapter": "Cũng 800 năm trước: biển dâng",
+      "on_screen_text": "Thông điệp từ Egghead"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Theo thông điệp đó, trong cuộc chiến cổ đại, vũ khí cổ đại đã được sử dụng, và mực nước biển trên toàn thế giới đã dâng lên khoảng hai trăm mét."
+      },
+      "image_prompt": "a cross-section of ancient cities being swallowed by rising water, a measuring line showing 200 meters",
+      "on_screen_text": "Biển dâng ~200 m",
+      "video_prompt": "sea water rises and swallows the ancient cities layer by layer, slow push-in on the measuring line",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Điều đó có nghĩa là rất nhiều vùng đất của thế giới cũ đang nằm dưới đáy biển. Thế giới đầy đảo mà ta thấy hôm nay có thể là kết quả của một thảm họa."
+      },
+      "image_prompt": "a map morphing from large continents into scattered islands as water rises"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Và ông cảnh báo rằng thế giới có thể chìm thêm nữa. Vũ khí cổ đại không chỉ là truyền thuyết, mà là thứ đã định hình lại cả hành tinh."
+      },
+      "image_prompt": "a coastal city with water creeping up its streets, people looking worried"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku ghi chú: tự nhiên cái tên Grand Line, những vùng biển kỳ lạ, những hòn đảo trên trời, tất cả đều có thể có lời giải thích mới."
+      },
+      "image_prompt": "the owl mascot redrawing a map with a pencil, erasing coastlines",
+      "use_mascot": true
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Sau khi thành lập, Chính phủ Thế giới cấm tuyệt đối việc nghiên cứu Thế kỷ trống và đọc poneglyph. Vi phạm là tội chết."
+      },
+      "image_prompt": "a notice board with an official decree nailed to it, a skull stamp at the bottom",
+      "chapter": "Tám thế kỷ im lặng",
+      "on_screen_text": "Cấm nghiên cứu"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Các poneglyph bị phân tán khắp thế giới. Có phiến chứa thông tin về vũ khí cổ đại, có phiến chỉ đường tới hòn đảo cuối cùng, có phiến kể lại lịch sử thật."
+      },
+      "image_prompt": "a world map with scattered glowing stone icons of different colors",
+      "on_screen_text": "Poneglyph khắp thế giới"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Có một đất nước khép kín biên giới suốt nhiều thế kỷ. Gia tộc cai trị ở đó nắm giữ kỹ thuật khắc đá, và có liên quan mật thiết tới những phiến đá cổ."
+      },
+      "image_prompt": "a mountainous island nation surrounded by towering cliffs and waterfalls, a closed gate at its harbor"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Trong tám trăm năm, lịch sử thật chỉ còn sống trong những phiến đá im lặng, và trong ký ức của những người không bao giờ được phép nói ra."
+      },
+      "image_prompt": "a quiet stone monument covered in moss, a single candle burning before it"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Nhảy tới gần hiện tại hơn. Khoảng ba mươi tám năm trước, ở một hòn đảo tên là Thung lũng Thần, xảy ra một sự kiện lớn mà Chính phủ Thế giới cố xóa khỏi bản đồ."
+      },
+      "image_prompt": "an island being erased from a map by a giant eraser, smoke rising where it once was",
+      "chapter": "38 năm trước: thời của những huyền thoại",
+      "on_screen_text": "38 năm trước"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Tại đó, một băng hải tặc khổng lồ bị đánh bại bởi sự hợp sức bất ngờ của một hải quân huyền thoại và một hải tặc trẻ tuổi, người sau này trở thành Vua Hải Tặc."
+      },
+      "image_prompt": "a navy hero and a young pirate standing back to back against a massive pirate fleet silhouette"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Chi tiết về sự kiện này vẫn đang được hé lộ dần. Kaku chỉ ghi lại điều chắc chắn: đó là khởi đầu cho thời đại của những nhân vật huyền thoại."
+      },
+      "image_prompt": "a dusty history page with only a few lines legible, the rest smudged"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku ghi chú: Chính phủ có thói quen xóa những hòn đảo khỏi bản đồ khi có điều gì bất lợi xảy ra. Thế kỷ trống không phải lần duy nhất."
+      },
+      "image_prompt": "the owl mascot holding a map with several islands cut out as holes",
+      "use_mascot": true
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Khoảng hai mươi lăm năm trước, băng hải tặc của Gol D. Roger đến được hòn đảo cuối cùng của Grand Line, nơi chưa ai từng đặt chân tới."
+      },
+      "image_prompt": "a weathered pirate ship approaching a mysterious island under a golden sky",
+      "chapter": "25 năm trước: hòn đảo cuối cùng",
+      "on_screen_text": "25 năm trước"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Theo truyện, khi biết được sự thật ở đó, ông bật cười, và đặt tên cho hòn đảo là Laugh Tale, câu chuyện khiến người ta bật cười."
+      },
+      "image_prompt": "a crew silhouette laughing on a beach, tears of laughter shining in the light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ông cũng nói rằng họ đến quá sớm. Nghĩa là thứ họ tìm thấy cần một thời điểm khác, và có thể một người khác, để hoàn thành."
+      },
+      "image_prompt": "a hand placing an hourglass on a treasure chest, sand still flowing",
+      "on_screen_text": "Đến quá sớm"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Để đến được hòn đảo, cần đọc bốn phiến đá chỉ đường. Và trong băng của ông có một người đọc được chữ trên đá, người đến từ đất nước khép kín kia."
+      },
+      "image_prompt": "four red stone cubes placed on a map, lines connecting them to a hidden point"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kaku ghi chú: cái tên Laugh Tale có lẽ là manh mối lớn nhất. Vì sao sự thật cuối cùng lại khiến người ta cười?"
+      },
+      "image_prompt": "the owl mascot chuckling nervously at a closed treasure chest",
+      "use_mascot": true
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Hai mươi bốn năm trước, Vua Hải Tặc bị hành quyết trước đám đông. Nhưng trước khi chết, ông nói một câu làm thay đổi cả thế giới."
+      },
+      "image_prompt": "a crowd gathered in a town square before an execution platform, a man smiling calmly",
+      "chapter": "24 năm trước: cái chết mở ra một kỷ nguyên",
+      "on_screen_text": "24 năm trước"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Ông nói kho báu của ông đang ở đó, ai muốn thì cứ việc đi tìm. Hàng nghìn người ra khơi. Kỷ nguyên hải tặc vĩ đại bắt đầu."
+      },
+      "image_prompt": "hundreds of ships setting sail from a harbor at dawn, flags of every design flying",
+      "on_screen_text": "Kỷ nguyên hải tặc"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Chính phủ muốn buổi hành quyết là lời cảnh cáo. Kết quả lại ngược lại: nó trở thành lời mời gọi lớn nhất lịch sử."
+      },
+      "image_prompt": "a warning poster being torn apart by the wind and turning into a treasure map"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku ghi chú: cũng giống như Thế kỷ trống, càng cố cấm người ta tìm hiểu, người ta càng muốn biết."
+      },
+      "image_prompt": "the owl mascot trying to hold a door shut as light and curious faces push through",
+      "use_mascot": true
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Hai mươi hai năm trước, trên đảo Ohara, có những học giả lén nghiên cứu poneglyph suốt nhiều năm. Họ đã đọc được một phần lịch sử bị cấm."
+      },
+      "image_prompt": "a giant ancient tree housing a library, scholars working by lamplight among towering bookshelves",
+      "chapter": "22 năm trước: Ohara",
+      "on_screen_text": "22 năm trước: Ohara",
+      "video_prompt": "lamplight flickers across the tree library as pages turn in a soft breeze, slow dolly through the shelves",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Chính phủ phát hiện ra. Họ ra lệnh tấn công bằng lực lượng hủy diệt, bắn phá hòn đảo cho tới khi không còn gì."
+      },
+      "image_prompt": "warships surrounding a small island, cannon fire lighting up the night sky"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Các học giả ném sách xuống hồ để cứu lấy tri thức, dù biết mình không thể thoát. Một người trong số họ còn cố nói to những gì đã biết trước khi bị bắn."
+      },
+      "image_prompt": "scholars forming a chain to throw books into a lake as the great tree burns behind them",
+      "on_screen_text": "Cứu sách"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Chỉ có một cô bé tám tuổi sống sót. Cô đọc được chữ trên đá, và trở thành người duy nhất còn lại có thể đọc poneglyph."
+      },
+      "image_prompt": "a small girl on a tiny boat drifting away from a burning island, clutching a book",
+      "on_screen_text": "Người sống sót duy nhất",
+      "video_prompt": "the small boat drifts away as embers float across the dark water, slow pull back",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Cô bé ấy bị truy nã từ năm tám tuổi, không phải vì đã làm gì, mà vì những gì cô có thể đọc được."
+      },
+      "image_prompt": "a wanted poster with a child's silhouette pinned to a harbor wall in the rain"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là mốc thời gian buồn nhất trên cuộn giấy của Kaku. Tri thức bị coi là tội ác."
+      },
+      "image_prompt": "the owl mascot holding a single rescued book close to its chest",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Và giờ là hiện tại. Một chàng trai mang trái ác quỷ gắn với truyền thuyết thần mặt trời, vị thần giải phóng người khác bằng tiếng cười, đang tiến gần hòn đảo cuối cùng."
+      },
+      "image_prompt": "a young pirate silhouette on a ship's figurehead, sun rising behind him, laughter shaped clouds",
+      "chapter": "Hiện tại: thế giới rung chuyển",
+      "on_screen_text": "Hiện tại"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Thông điệp từ Egghead đã đến tai cả thế giới. Người dân bắt đầu hỏi những câu hỏi mà tám trăm năm nay không ai dám hỏi."
+      },
+      "image_prompt": "crowds in many towns gathered around radio snails and screens, whispering to each other"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Ở arc Elbaph đang phát năm 2026, băng hải tặc đến vùng đất của người khổng lồ, nơi có những câu chuyện rất cổ xưa. Kaku sẽ dừng ở đây để không spoiler."
+      },
+      "image_prompt": "a colossal tree towering above clouds in a land of giants, a small ship approaching",
+      "on_screen_text": "Elbaph (đang phát)"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Có thể nói, lần đầu tiên sau tám trăm năm, Thế kỷ trống đang dần có chữ trở lại."
+      },
+      "image_prompt": "blank pages of a history book slowly filling with glowing ink",
+      "on_screen_text": "Thế kỷ trống đang có chữ"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Tới phần lý thuyết. Kaku nhắc lại: phần này là suy đoán của fan và của Kaku, không phải sự thật đã được xác nhận."
+      },
+      "image_prompt": "a big dotted question-mark pin placed on the scroll, a THEORY stamp next to it",
+      "chapter": "Lý thuyết: Vương quốc Vĩ đại muốn gì?",
+      "on_screen_text": "LÝ THUYẾT"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Lý thuyết một: Vương quốc Vĩ đại muốn một thế giới không có tường ngăn cách, cả nghĩa đen lẫn nghĩa bóng. Và bức tường đá đỏ cùng các vùng biển chia cắt chính là thứ họ chống lại."
+      },
+      "image_prompt": "a red wall splitting the world, with ancient figures trying to build a bridge across it",
+      "on_screen_text": "Lý thuyết 1"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Lý thuyết hai: chữ D bí ẩn trong tên của nhiều nhân vật có liên quan tới những người thuộc phe thua cuộc tám trăm năm trước. Kẻ thù tự nhiên của những người ngồi trên đỉnh tường."
+      },
+      "image_prompt": "a single glowing letter D carved into ancient stone, surrounded by faded names",
+      "on_screen_text": "Lý thuyết 2"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Lý thuyết ba: Laugh Tale khiến người ta cười vì sự thật ở đó vừa vĩ đại vừa giản dị đến mức buồn cười, như một câu chuyện mà ai cũng đáng được biết."
+      },
+      "image_prompt": "a treasure chest opening to reveal warm light and a simple drawing, people laughing around it",
+      "on_screen_text": "Lý thuyết 3"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Bạn tin lý thuyết nào? Hay bạn có lý thuyết riêng? Đây là lúc tuyệt vời nhất để đoán, vì câu trả lời có thể không còn xa nữa."
+      },
+      "image_prompt": "the owl mascot holding three theory cards fanned out like a magician",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nhìn toàn bộ cuộn giấy, Kaku thấy One Piece đang kể một câu chuyện rất cũ: lịch sử luôn do người thắng viết."
+      },
+      "image_prompt": "the owl mascot standing at the end of the long scroll, looking back along it",
+      "chapter": "Góc nhìn của Kaku: ai viết lịch sử?",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hai mươi vị vua thắng, nên họ xóa một trăm năm. Chính phủ sợ tri thức, nên họ đốt Ohara. Mỗi lần có sự thật bất lợi, một hòn đảo biến mất khỏi bản đồ."
+      },
+      "image_prompt": "a victorious hand holding a pen, erasing lines from a history book while ashes fall"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nhưng những người thua cũng không im lặng. Họ khắc sự thật vào đá. Họ ném sách xuống hồ. Họ truyền lại lời hứa qua tám trăm năm."
+      },
+      "image_prompt": "a montage of hands: one carving stone, one throwing a book into water, one passing a straw hat"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và câu chuyện về một nhóm hải tặc tìm kho báu hóa ra lại là câu chuyện về việc tìm lại sự thật đã bị chôn vùi."
+      },
+      "image_prompt": "a pirate crew standing before an ancient stone tablet at sunrise, reading it together"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku nghĩ đó là lý do One Piece có thể kéo dài gần ba mươi năm mà người ta vẫn chờ đợi: ai cũng muốn biết trang giấy trắng kia viết gì."
+      },
+      "image_prompt": "blank pages fluttering in the wind over the sea, a few words beginning to appear"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Trước khi tổng kết, Kaku chấm độ chắc chắn của từng mốc, để bạn biết đâu là nền móng vững, đâu là cát lún."
+      },
+      "image_prompt": "a scroll with small colored flags: green, yellow and red, pinned along its length",
+      "chapter": "Độ chắc chắn của từng mốc",
+      "on_screen_text": "Độ chắc chắn"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Màu xanh, chắc chắn: việc thành lập Chính phủ Thế giới tám trăm năm trước, lệnh cấm nghiên cứu, cuộc tấn công Ohara, và buổi hành quyết Vua Hải Tặc. Truyện nói rõ nhiều lần."
+      },
+      "image_prompt": "green flags on the government founding, the ban, the burning tree and the execution platform",
+      "on_screen_text": "Xanh: chắc chắn"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Màu vàng, đã xác nhận nhưng còn thiếu chi tiết: Vương quốc Vĩ đại, Joy Boy, nước biển dâng hai trăm mét, và sự kiện Thung lũng Thần. Ta biết chúng có thật, nhưng chưa biết đầy đủ."
+      },
+      "image_prompt": "yellow flags on the ancient city, the laughing silhouette, rising water and an erased island",
+      "on_screen_text": "Vàng: thiếu chi tiết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Màu đỏ, gần như chưa biết: tư tưởng của Vương quốc Vĩ đại, nội dung đầy đủ của Laugh Tale, và danh tính thật của người ngồi trên ngai trống."
+      },
+      "image_prompt": "red flags on a glowing idea symbol, a closed treasure chest and a shadowy throne",
+      "on_screen_text": "Đỏ: chưa biết"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku ghi chú: thú vị là những câu hỏi lớn nhất đều nằm ở màu đỏ. One Piece giữ những bí mật quan trọng nhất cho tới cuối cùng."
+      },
+      "image_prompt": "the owl mascot guarding a small pile of red flags, looking excited",
+      "use_mascot": true
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Tổng kết cả cuộn giấy. Hơn chín trăm năm trước: một nền văn minh có công nghệ vượt xa hiện tại."
+      },
+      "image_prompt": "the scroll's leftmost section lighting up with an ancient machine drawing",
+      "chapter": "Toàn bộ dòng thời gian",
+      "on_screen_text": "> 900 năm trước"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Chín trăm tới tám trăm năm trước: Thế kỷ trống, Vương quốc Vĩ đại, Joy Boy và các poneglyph. Tám trăm năm trước: hai mươi vị vua thắng, lập Chính phủ Thế giới, và biển dâng khoảng hai trăm mét."
+      },
+      "image_prompt": "the middle sections of the scroll lighting up with crowns, stones and rising water",
+      "on_screen_text": "900 → 800 năm trước"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Ba mươi tám năm trước: Thung lũng Thần. Hai mươi lăm năm trước: Laugh Tale. Hai mươi bốn năm trước: Vua Hải Tặc bị hành quyết. Hai mươi hai năm trước: Ohara."
+      },
+      "image_prompt": "the recent sections of the scroll lighting up with an island, a laughing crew, an execution and a burning tree",
+      "on_screen_text": "38 · 25 · 24 · 22"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Và hiện tại: thông điệp từ Egghead, và một con tàu đang tiến dần tới hòn đảo cuối cùng."
+      },
+      "image_prompt": "the rightmost end of the scroll glowing with a small ship icon pointing forward",
+      "on_screen_text": "Hiện tại"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu được đọc một poneglyph duy nhất, bạn muốn nó kể về điều gì? Viết vào phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a blank stone tablet and a pencil toward the viewer",
+      "on_screen_text": "Bạn muốn đọc gì?",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tới sẽ đổi hướng: Kaku cầm kính lúp lên, điều tra một bí ẩn khác chưa có lời giải, Lục địa Đen trong Hunter x Hunter."
+      },
+      "image_prompt": "a magnifying glass over a dark unexplored map edge, a compass spinning wildly",
+      "chapter": "Kết",
+      "on_screen_text": "Tiếp theo: bí ẩn Lục địa Đen"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku cuộn giấy lại đây. Tám trăm năm, gói gọn trong mười lăm phút. Hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the long scroll and tying it with a red ribbon",
+      "use_mascot": true
+    }
+  ]
+}

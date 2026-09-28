@@ -37,8 +37,8 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 16 | 2026-11-17 | Nếu bạn sống trong thế giới yêu quái + người ngoài hành tinh | Dandadan | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2026-11-17-neu-ban-song-trong-dandadan/` | Kịch bản xong — chờ kiểm nguồn |
 | 17 | 2026-11-21 | Bảng chỉ số: tỉ lệ giải phóng sức mạnh và chỉ số quái thú | Kaiju No. 8 | F · Bảng chỉ số kiểu game | 4 | ? | 4 | 5 | 13 | `videos/2026-11-21-bang-chi-so-kaiju-no-8/` | Kịch bản xong — chờ kiểm nguồn |
 | 18 | 2026-11-24 | Từ Shikai đến Bankai | Bleach (phần cuối vừa phát xong) | G · Bậc thang tiến hóa | 4 | ? | 4 | 4 | 12 | `videos/2026-11-24-shikai-bankai-bleach/` | Kịch bản xong — chờ kiểm nguồn |
-| 19 | 2026-11-28 | Dòng thời gian 800 năm và Thế kỷ trống | One Piece | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2026-11-28-dong-thoi-gian-800-nam-one-piece/` | Chưa viết |
-| 20 | 2026-12-01 | Bí ẩn Lục địa Đen (lý thuyết có gắn nhãn) | Hunter x Hunter | N · Điều tra bí ẩn | 4 | ? | 4 | 4 | 12 | `videos/2026-12-01-bi-an-luc-dia-den-hunter-x-hunter/` | Chưa viết |
+| 19 | 2026-11-28 | Dòng thời gian 800 năm và Thế kỷ trống | One Piece | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2026-11-28-dong-thoi-gian-800-nam-one-piece/` | Kịch bản xong — chờ kiểm nguồn |
+| 20 | 2026-12-01 | Bí ẩn Lục địa Đen (lý thuyết có gắn nhãn) | Hunter x Hunter | N · Điều tra bí ẩn | 4 | ? | 4 | 4 | 12 | `videos/2026-12-01-bi-an-luc-dia-den-hunter-x-hunter/` | Kịch bản xong — chờ kiểm nguồn |
 | 21 | 2026-12-05 | Phân tích chiến thuật trận Tanjiro vs Rui | Kimetsu no Yaiba | M · Phân tích trận đấu | 4 | ? | 4 | 3 | 11 | `videos/2026-12-05-phan-tich-tran-tanjiro-rui/` | Chưa viết |
 | 22 | 2026-12-08 | Những chi tiết cài cắm từ tập 1 | Attack on Titan | R · Cài cắm và chi tiết ẩn | 5 | ? | 4 | 3 | 12 | `videos/2026-12-08-cai-cam-attack-on-titan/` | Chưa viết |
 | 23 | 2026-12-12 | 10 hiểu lầm phổ biến | Naruto | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2026-12-12-10-hieu-lam-naruto/` | Chưa viết |

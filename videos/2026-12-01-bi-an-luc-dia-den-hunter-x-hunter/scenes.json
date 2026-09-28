@@ -1,0 +1,707 @@
+{
+  "title": "Hunter x Hunter: Điều tra bí ẩn Lục địa Đen",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Hunter x Hunter tới arc Chọn chủ tịch trong anime, và phần mở đầu arc Lục địa Đen trong manga, tức những chương chưa từng được làm anime."
+      },
+      "image_prompt": "a torn map edge dissolving into total darkness, a compass needle spinning",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: manga sau anime"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy mở bản đồ thế giới Hunter x Hunter ra. Những quốc gia, thành phố và khu rừng mà ta đã theo nhân vật chính đi qua suốt bao nhiêu năm."
+      },
+      "image_prompt": "a detailed fantasy world map on parchment with cities, forests and mountains"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Giờ hãy lùi ra xa. Rất xa. Toàn bộ tấm bản đồ đó chỉ là một chấm nhỏ nằm giữa một cái hồ khổng lồ. Và bên ngoài cái hồ là một thứ chưa ai khám phá hết: Lục địa Đen."
+      },
+      "image_prompt": "a zoomed-out view where the entire known map is a tiny island inside a vast lake, surrounded by a dark unexplored landmass",
+      "on_screen_text": "Lục địa Đen",
+      "video_prompt": "the camera pulls back and back until the whole known map becomes a tiny island in a vast lake ringed by darkness, slow continuous zoom out",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hôm nay Kaku không giải thích, mà điều tra. Kaku sẽ đặt từng manh mối có thật lên bàn, rồi mới đưa ra giả thuyết. Và mọi giả thuyết sẽ có phần phản biện."
+      },
+      "image_prompt": "the owl mascot in a detective coat laying photographs and notes on a table under a lamp",
+      "on_screen_text": "Manh mối → Giả thuyết → Phản biện",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot slides photographs across the table as the desk lamp flickers, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku, thám tử hôm nay. Nhắc trước: truyện chưa trả lời câu hỏi lớn này, nên cuối video sẽ không có đáp án. Chỉ có những suy luận tốt nhất ta có thể làm."
+      },
+      "image_prompt": "the owl mascot opening a case file stamped UNSOLVED",
+      "on_screen_text": "Vụ án chưa có lời giải",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Hunter x Hunter là manga của Togashi Yoshihiro, bắt đầu từ năm 1998. Truyện nổi tiếng với hệ thống Nen chặt chẽ, và cũng nổi tiếng với những lần tạm dừng rất dài."
+      },
+      "image_prompt": "a case file with a photo of a manga desk and a calendar with many crossed-out months",
+      "chapter": "Hồ sơ vụ án",
+      "on_screen_text": "Manga từ 1998"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Nếu bạn muốn hiểu Nen trước, Kaku đã có video số một của kênh. Video hôm nay không cần biết Nen, chỉ cần biết thế giới này rộng hơn ta tưởng rất nhiều."
+      },
+      "image_prompt": "the owl mascot pointing at a small hexagon diagram pinned to the corner of the case board",
+      "on_screen_text": "Xem video số 1 về Nen"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Arc Lục địa Đen bắt đầu ngay sau arc Chọn chủ tịch Hiệp hội Thợ săn. Đây là phần anime năm 2011 chưa làm tới."
+      },
+      "image_prompt": "a timeline of story arcs with the final one shaded dark and marked with a question mark"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Câu hỏi của vụ án: Lục địa Đen là gì, trong đó có gì, và vì sao cả thế giới loài người phải cấm người đi vào?"
+      },
+      "image_prompt": "three question cards pinned to a corkboard connected by red string",
+      "on_screen_text": "3 câu hỏi của vụ án"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là vụ án khó nhất mà Kaku từng nhận, vì chính tác giả cũng chưa đóng hồ sơ."
+      },
+      "image_prompt": "the owl mascot sipping tea nervously beside a towering stack of files",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Manh mối đầu tiên là tấm bản đồ. Truyện tiết lộ rằng toàn bộ thế giới loài người biết đến nằm gọn giữa một cái hồ cực lớn."
+      },
+      "image_prompt": "an evidence photo of the lake map with the tiny known world circled in red",
+      "chapter": "Manh mối 1: Tấm bản đồ thật",
+      "on_screen_text": "Manh mối 1"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Lục địa Đen bao quanh cái hồ đó, lớn hơn thế giới loài người rất nhiều lần. Những gì nhân vật chính từng khám phá chỉ là một phần rất nhỏ."
+      },
+      "image_prompt": "a scale comparison: a tiny island versus an enormous dark continent stretching to the edges of the frame"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Con người không vẽ được bản đồ đầy đủ của Lục địa Đen. Chỉ có những ghi chép rời rạc của rất ít người từng đi rồi trở về."
+      },
+      "image_prompt": "a blank map with only a few scattered sketches along its edges, marked with small warning symbols"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Điều này khiến ta nhìn lại mọi thứ: những con quái vật, những vùng đất nguy hiểm mà ta từng thấy trong truyện có thể chỉ là phần rìa ngoài của một thế giới lớn hơn nhiều."
+      },
+      "image_prompt": "a familiar-looking monster standing at the edge of a vast darkness, looking small"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Giữa thế giới loài người và Lục địa Đen còn có những vùng đệm và những con đường được canh giữ. Truyện cho thấy việc đi qua đó thôi cũng đã là một thử thách lớn."
+      },
+      "image_prompt": "a narrow guarded passage along the lake shore, fog rolling over watchtowers"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là một cú lật bàn cờ. Tất cả những gì bạn tưởng là cả thế giới, hóa ra chỉ là sân sau."
+      },
+      "image_prompt": "the owl mascot staring at a globe that suddenly grows much larger behind a tiny one",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Manh mối thứ hai: lịch sử các chuyến thám hiểm. Loài người đã từng cố gắng đến Lục địa Đen nhiều lần, và phần lớn đều kết thúc bằng thảm họa."
+      },
+      "image_prompt": "a wall of faded expedition photographs, most of them marked with black ribbons",
+      "chapter": "Manh mối 2: Những chuyến thám hiểm thất bại",
+      "on_screen_text": "Manh mối 2"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Rất ít người trở về. Và những người trở về đôi khi mang theo những thứ khủng khiếp hơn cả cái chết của những người ở lại."
+      },
+      "image_prompt": "a lone battered ship returning to harbor, a strange dark mist trailing behind it",
+      "video_prompt": "the battered ship drifts into harbor as dark mist spills over its sides onto the water, slow dolly in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Truyện nhắc tới năm tai họa lớn đã từng được mang về thế giới loài người từ Lục địa Đen. Mỗi tai họa đủ sức gây ra thảm cảnh trên diện rộng."
+      },
+      "image_prompt": "five sealed containers in a vault, each with a different ominous glow",
+      "on_screen_text": "5 tai họa lớn"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nhưng cũng có những thứ quý giá được mang về, những báu vật mà con người khao khát, như thuốc chữa bách bệnh hay nguồn năng lượng vô tận."
+      },
+      "image_prompt": "a small glowing vial and a strange shining fruit on a velvet cushion behind glass",
+      "on_screen_text": "Báu vật"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Đó là lý do con người vẫn muốn đi: hy vọng và tai họa luôn đi cùng nhau. Bạn không thể mang về báu vật mà không có nguy cơ mang về thảm họa."
+      },
+      "image_prompt": "a balance scale with a glowing treasure on one side and a dark sealed box on the other"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Manh mối thứ ba: năm quốc gia lớn nhất của thế giới loài người đã ký hiệp ước cấm mọi người tự ý đến Lục địa Đen."
+      },
+      "image_prompt": "five national flags around a treaty table, a bold stamp marked FORBIDDEN on the document",
+      "chapter": "Manh mối 3: Hiệp ước cấm",
+      "on_screen_text": "Manh mối 3"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Để đi hợp pháp, cần sự cho phép của họ, và phải đi qua những con đường được kiểm soát chặt chẽ."
+      },
+      "image_prompt": "a guarded gate at the edge of a vast lake, soldiers checking papers"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Hiệp ước này nói lên điều gì? Rằng những người có quyền lực nhất thế giới hiểu rất rõ mức độ nguy hiểm, có thể rõ hơn họ công bố."
+      },
+      "image_prompt": "officials whispering behind closed doors, a dark map on the table between them"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhưng cũng có một khả năng khác: họ muốn kiểm soát báu vật. Ai nắm con đường tới Lục địa Đen thì nắm nguồn lợi khổng lồ."
+      },
+      "image_prompt": "a greedy hand reaching toward a glowing vial through bars"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku ghi chú: hãy để ý manh mối này, vì cuộc thám hiểm hiện tại xảy ra chính vì có người muốn phá hiệp ước."
+      },
+      "image_prompt": "the owl mascot circling the treaty in red ink",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Manh mối thứ tư là một cuốn sách. Truyện nhắc tới một cuốn ghi chép về Lục địa Đen, được viết bởi một nhà thám hiểm tên là Don Freecss."
+      },
+      "image_prompt": "an old leather-bound travel journal with a faded compass on its cover",
+      "chapter": "Manh mối 4: Cuốn sách của một người họ Freecss",
+      "on_screen_text": "Manh mối 4"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Bạn không nghe nhầm đâu: Freecss, cùng họ với nhân vật chính Gon và cha cậu là Ging. Đây là một người trong dòng họ của họ."
+      },
+      "image_prompt": "a family tree sketch with a question mark linking an old explorer to a boy and his father"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Cuốn sách được cho là chia làm nhiều phần, và chỉ một phần được biết tới rộng rãi. Những phần còn lại chưa từng công bố."
+      },
+      "image_prompt": "a book with only one chapter legible and the rest sealed with wax",
+      "on_screen_text": "Chỉ một phần được biết"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Điều này gợi ý rằng dòng họ Freecss có một mối liên hệ đặc biệt với Lục địa Đen, và có lẽ đó là lý do cha con họ đều có máu thám hiểm đến vậy."
+      },
+      "image_prompt": "a father and son silhouette standing on a cliff, looking toward the same dark horizon"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Kaku ghi chú: trong một bộ truyện mà nhân vật chính bắt đầu bằng hành trình đi tìm cha, việc tổ tiên của họ là người viết về vùng đất bí ẩn nhất thế giới không thể là ngẫu nhiên."
+      },
+      "image_prompt": "the owl mascot holding a magnifying glass over a family crest",
+      "use_mascot": true
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Manh mối thứ năm liên quan tới arc đáng sợ nhất anime: kiến chimera. Truyện cho biết loài sinh vật này có nguồn gốc từ Lục địa Đen."
+      },
+      "image_prompt": "a massive insect queen silhouette washed ashore on a beach, waves crashing around it",
+      "chapter": "Manh mối 5: Loài kiến chimera",
+      "on_screen_text": "Manh mối 5"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Hãy nhớ lại arc đó. Chỉ một con kiến chúa trôi dạt vào bờ đã sinh ra một đội quân suýt hủy diệt cả một quốc gia và buộc cả Hiệp hội Thợ săn phải dốc toàn lực."
+      },
+      "image_prompt": "a ruined kingdom under a dark sky, insect soldiers silhouetted on the horizon"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Và kẻ mạnh nhất sinh ra từ đó đã khiến người mạnh nhất thế giới loài người phải dùng tới vũ khí cuối cùng."
+      },
+      "image_prompt": "a giant explosion lighting up a desert night, a mushroom-shaped cloud rising"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Giờ hãy đặt điều đó cạnh manh mối số hai: đó mới chỉ là một sinh vật đi lạc, không phải tai họa lớn nhất. Nó không nằm trong năm tai họa được ghi chép."
+      },
+      "image_prompt": "a small insect figurine placed beside five much larger dark containers"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku ghi chú: nếu thứ trôi dạt ngẫu nhiên đã khủng khiếp như vậy, thì những thứ còn ở trong Lục địa Đen sẽ ra sao? Đây là manh mối khiến Kaku lạnh sống lưng nhất."
+      },
+      "image_prompt": "the owl mascot pulling its scarf up tightly, shivering",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Manh mối thứ sáu nằm ngay trong gia đình sát thủ nổi tiếng nhất truyện. Một người em trong nhà có một năng lực kỳ lạ: một thực thể có thể thực hiện gần như mọi điều ước."
+      },
+      "image_prompt": "a small figure with a dark blank face sitting quietly in a dim room, a glowing aura of wishes around it",
+      "chapter": "Manh mối 6: Nanika",
+      "on_screen_text": "Manh mối 6"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Thực thể đó được gọi là Nanika. Nó thực hiện điều ước, nhưng đòi hỏi những yêu cầu đổi lại, và nếu không đáp ứng đúng luật, cái giá rất khủng khiếp."
+      },
+      "image_prompt": "a set of glowing rule cards floating around a dark figure, one card crumbling into dust",
+      "on_screen_text": "Điều ước có luật"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Khi truyện giới thiệu năm tai họa của Lục địa Đen, một trong số đó được mô tả với hình dạng khiến rất nhiều độc giả liên tưởng ngay tới Nanika."
+      },
+      "image_prompt": "a sketch in an old journal of a smoky creature with a blank dark face, next to a similar silhouette"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Giả thuyết phổ biến của fan là năng lực này thật ra là một sinh vật từ Lục địa Đen. Kaku gắn nhãn: đây là lý thuyết, dù manh mối khá mạnh."
+      },
+      "image_prompt": "a THEORY stamp pressed onto a file linking two silhouettes with red string",
+      "on_screen_text": "LÝ THUYẾT"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Nếu đúng, thì Lục địa Đen đã hiện diện trong truyện từ rất lâu trước khi được gọi tên."
+      },
+      "image_prompt": "a shadow of a vast dark continent falling across a family mansion on a mountain"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Manh mối thứ bảy đến từ người cha của nhân vật chính. Trong một cuộc trò chuyện hiếm hoi giữa hai cha con, ông nói về điều mình thật sự muốn làm."
+      },
+      "image_prompt": "a father and son sitting on top of a gigantic tree at sunset, the world far below",
+      "chapter": "Manh mối 7: Cái cây và người cha",
+      "on_screen_text": "Manh mối 7"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Ông nói ông muốn leo lên một cái cây khổng lồ nằm ở rìa thế giới, gọi là Cây Thế giới, để nhìn thấy những gì ở bên kia."
+      },
+      "image_prompt": "an impossibly tall tree at the edge of a vast lake, its top vanishing into clouds",
+      "on_screen_text": "Cây Thế giới",
+      "video_prompt": "clouds part around the colossal tree as the camera tilts up its endless trunk, slow tilt up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Với một thợ săn đã khám phá gần như mọi thứ trong thế giới loài người, mục tiêu cuối cùng chỉ có thể nằm ở bên ngoài."
+      },
+      "image_prompt": "a lone explorer's silhouette at the foot of the colossal tree, looking up"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Và ông đã tham gia cuộc thám hiểm hiện tại. Có vẻ người cha luôn chạy trước con mình một bước, và bước tiếp theo ấy dẫn thẳng vào Lục địa Đen."
+      },
+      "image_prompt": "footprints leading from a small village toward a great ship at a harbor"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Manh mối cuối cùng là cuộc thám hiểm đang diễn ra trong truyện. Nó được khởi xướng bởi con trai của cựu chủ tịch Hiệp hội Thợ săn, người mạnh nhất thế giới loài người."
+      },
+      "image_prompt": "a tall imposing man in a dark coat standing on a dock before a massive ship",
+      "chapter": "Manh mối 8: Cuộc thám hiểm hiện tại",
+      "on_screen_text": "Manh mối 8"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Người này công khai tuyên bố sẽ đến Lục địa Đen, bất chấp hiệp ước. Và thay vì bị ngăn lại, một vương quốc lớn đã đứng ra tài trợ, biến nó thành chuyến đi chính thức."
+      },
+      "image_prompt": "a royal fleet flag being raised above an enormous ship, crowds cheering below"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Hiệp hội Thợ săn buộc phải tham gia để giám sát, và cử những thợ săn giỏi nhất lên tàu. Trên con tàu đó còn diễn ra một cuộc tranh giành ngôi vị đầy máu giữa các hoàng tử."
+      },
+      "image_prompt": "a gigantic ship at sea with countless lit windows, tension visible through silhouettes behind curtains",
+      "on_screen_text": "Con tàu khổng lồ"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Cho tới những chương mới nhất, con tàu vẫn chưa tới nơi. Nghĩa là ta vẫn chưa thật sự thấy bên trong Lục địa Đen."
+      },
+      "image_prompt": "a ship's silhouette sailing endlessly toward a dark horizon that never gets closer",
+      "on_screen_text": "Vẫn chưa tới nơi",
+      "video_prompt": "the ship sails forward while the dark horizon keeps receding, waves rolling, slow tracking shot",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Điều thú vị là cuộc thám hiểm này quy tụ những thợ săn giỏi nhất, những kẻ có tham vọng riêng, và cả những người muốn lợi dụng nó. Con tàu giống một phiên bản thu nhỏ của thế giới loài người."
+      },
+      "image_prompt": "a cross-section of a ship with many decks, each deck showing different groups plotting in secret"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Kaku ghi chú: một arc tên là Lục địa Đen, mà suốt nhiều năm nhân vật vẫn chưa đặt chân lên đó. Chỉ có Togashi mới dám làm vậy."
+      },
+      "image_prompt": "the owl mascot laughing helplessly while holding a calendar full of crossed-out years",
+      "use_mascot": true
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Một thám tử giỏi không chỉ thu thập manh mối, mà còn loại bỏ những lời đồn không có căn cứ. Đây là ba lời đồn Kaku thấy rất nhiều trên mạng."
+      },
+      "image_prompt": "the owl mascot dropping three crumpled papers into a wastebasket marked RUMORS",
+      "chapter": "Những lời đồn cần loại khỏi hồ sơ",
+      "on_screen_text": "Loại lời đồn",
+      "use_mascot": true
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Lời đồn một: Lục địa Đen là nơi Nen được sinh ra. Truyện chưa hề nói như vậy. Nen được giới thiệu là sức mạnh sự sống có trong mọi con người."
+      },
+      "image_prompt": "a crumpled note with a hexagon doodle crossed out in red",
+      "on_screen_text": "1. Nen sinh ra ở đó? Chưa có căn cứ"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Lời đồn hai: nhân vật chính chắc chắn sẽ lấy lại Nen ở Lục địa Đen. Đây là mong muốn của rất nhiều fan, nhưng hiện chưa có dấu hiệu nào trong truyện."
+      },
+      "image_prompt": "a crumpled note with a fishing rod doodle and a question mark"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Lời đồn ba: Hiệp hội Thợ săn biết mọi thứ về Lục địa Đen. Ngược lại, họ tham gia cuộc thám hiểm chủ yếu để kiểm soát tình hình, và chính họ cũng mù mờ về nhiều điều."
+      },
+      "image_prompt": "officials in suits looking confused at a mostly blank map on a table",
+      "on_screen_text": "3. Hiệp hội cũng mù mờ"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku ghi chú: loại bỏ lời đồn giúp ta thấy rõ hơn cái thật sự còn thiếu. Và cái còn thiếu nhiều hơn ta tưởng."
+      },
+      "image_prompt": "a cleaner corkboard with fewer but clearer pinned clues",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Giờ đặt các manh mối cạnh nhau và đưa ra giả thuyết. Nhắc lại lần nữa: phần này là suy luận, không phải sự thật của truyện."
+      },
+      "image_prompt": "the owl mascot pinning three large cards labeled A, B and C to the corkboard",
+      "chapter": "Giả thuyết A: Nguồn gốc của những sức mạnh lạ",
+      "on_screen_text": "Phần giả thuyết",
+      "use_mascot": true
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Giả thuyết A: nhiều sức mạnh kỳ lạ nhất trong thế giới loài người, như kiến chimera hay năng lực thực hiện điều ước, đều có nguồn gốc từ Lục địa Đen."
+      },
+      "image_prompt": "red strings connecting an insect queen photo and a dark wish-granting silhouette to a map of the dark continent",
+      "on_screen_text": "Giả thuyết A"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Bằng chứng ủng hộ: kiến chimera được xác nhận là từ Lục địa Đen. Và hình mô tả một tai họa rất giống thực thể trong gia đình sát thủ."
+      },
+      "image_prompt": "two evidence photos with green check marks beside them"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Phản biện: truyện chưa khẳng định thực thể đó đến từ Lục địa Đen. Và không phải mọi sức mạnh lạ đều cần một nguồn gốc bên ngoài. Nen là sức mạnh của chính con người."
+      },
+      "image_prompt": "a red counter-argument card pinned over part of the red string",
+      "on_screen_text": "Phản biện"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Giả thuyết B: dòng họ Freecss có một sứ mệnh hoặc một mối liên kết đặc biệt với Lục địa Đen, được truyền qua nhiều thế hệ."
+      },
+      "image_prompt": "an old explorer, a father and a boy standing in a line, each holding a compass",
+      "chapter": "Giả thuyết B: Dòng họ Freecss",
+      "on_screen_text": "Giả thuyết B"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Bằng chứng ủng hộ: tổ tiên viết sách về Lục địa Đen, người cha muốn leo Cây Thế giới, và nhân vật chính có tài năng thiên bẩm hiếm thấy."
+      },
+      "image_prompt": "three evidence items on the table: a journal, a tree sketch and a fishing rod"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Phản biện: có thể đó chỉ là tính cách thích phiêu lưu chạy trong dòng máu, không phải sứ mệnh bí ẩn nào cả. Và nhân vật chính hiện đang không còn dùng được Nen."
+      },
+      "image_prompt": "a red counter-argument card over a photo of a boy fishing peacefully by a lake",
+      "on_screen_text": "Phản biện"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku ghi chú: Kaku thích giả thuyết này nhất, vì nó nối cái kết của hành trình tìm cha với một hành trình mới lớn hơn."
+      },
+      "image_prompt": "the owl mascot drawing a line from a small village to the dark continent on a map",
+      "use_mascot": true
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Giả thuyết C, táo bạo hơn: năm tai họa không chỉ là quái vật, mà là hình ảnh của những khao khát lớn nhất của con người."
+      },
+      "image_prompt": "five sealed containers, each with a faint human silhouette reflected in its glass",
+      "chapter": "Giả thuyết C: Năm tai họa là năm khao khát",
+      "on_screen_text": "Giả thuyết C"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Bằng chứng ủng hộ: mỗi tai họa đi kèm một báu vật mà con người muốn có, như sự sống lâu hay sức mạnh vô hạn. Hy vọng và thảm họa như hai mặt của một đồng xu."
+      },
+      "image_prompt": "a coin spinning in the air, one face bright with a treasure, the other dark with a monster"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Phản biện: đây là cách đọc mang tính biểu tượng, truyện không nói thẳng như vậy. Có thể Togashi chỉ đơn giản muốn tạo ra những con quái vật đáng sợ nhất có thể."
+      },
+      "image_prompt": "a red counter-argument card pinned over a symbolic diagram"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: dù đúng hay sai, giả thuyết này giải thích vì sao con người cứ quay lại dù biết nguy hiểm. Vì thứ họ tìm kiếm chính là thứ họ khao khát nhất."
+      },
+      "image_prompt": "a crowd at a harbor staring longingly at a dark horizon",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Thử tưởng tượng Kaku được mời lên con tàu thám hiểm. Dựa trên các manh mối, Kaku sẽ chuẩn bị những gì?"
+      },
+      "image_prompt": "the owl mascot packing a tiny backpack on a dock beside an enormous ship",
+      "chapter": "Nếu Kaku được lên tàu",
+      "on_screen_text": "Kaku lên tàu",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Thứ nhất: một người dẫn đường. Theo những gì truyện hé lộ, đi đúng con đường và có người dẫn đường là điều kiện quan trọng bậc nhất để sống sót."
+      },
+      "image_prompt": "a hooded guide holding a lantern at the start of a narrow path into darkness",
+      "on_screen_text": "1. Người dẫn đường"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Thứ hai: đồ bảo hộ chống bệnh và chất độc, vì trong năm tai họa có những thứ lây lan chứ không chỉ tấn công trực diện."
+      },
+      "image_prompt": "protective masks and sealed suits hanging in a ship's storage room",
+      "on_screen_text": "2. Đồ bảo hộ"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Thứ ba: một cuốn sổ thật dày. Vì nếu trở về được, điều quý giá nhất không phải báu vật, mà là ghi chép để người sau không phải trả giá như người trước."
+      },
+      "image_prompt": "a thick blank notebook and a pen placed carefully in a waterproof box",
+      "on_screen_text": "3. Sổ ghi chép"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và thứ tư: một vé khứ hồi. Kaku nghiêm túc đấy. Trong lịch sử truyện, đi thì dễ, trở về mới là phần khó nhất."
+      },
+      "image_prompt": "the owl mascot clutching a return ticket tightly with both wings",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Tổng hợp bảng điều tra. Chắc chắn: thế giới loài người chỉ là một phần nhỏ giữa hồ lớn, có hiệp ước cấm, có năm tai họa, và kiến chimera đến từ Lục địa Đen."
+      },
+      "image_prompt": "a corkboard with solid green pins on four evidence photos",
+      "chapter": "Bảng manh mối",
+      "on_screen_text": "Chắc chắn"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Đã xác nhận nhưng còn mờ: cuốn sách của người họ Freecss, ước mơ leo Cây Thế giới, và cuộc thám hiểm đang diễn ra."
+      },
+      "image_prompt": "yellow pins on a journal, a giant tree sketch and a ship photo",
+      "on_screen_text": "Còn mờ"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Lý thuyết: nguồn gốc của thực thể thực hiện điều ước, sứ mệnh của dòng họ Freecss, và ý nghĩa biểu tượng của năm tai họa."
+      },
+      "image_prompt": "red dotted pins on three theory cards connected by string",
+      "on_screen_text": "Lý thuyết"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và câu hỏi lớn nhất vẫn chưa ai trả lời được: bên trong Lục địa Đen thật sự có gì?"
+      },
+      "image_prompt": "a single card in the center of the board with only a large question mark on it"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Vì sao một bí ẩn chưa có lời giải lại khiến người ta bàn luận suốt nhiều năm như vậy?"
+      },
+      "image_prompt": "the owl mascot sitting on a lighthouse, looking out at a dark sea",
+      "chapter": "Góc nhìn của Kaku: sức hút của một vùng tối",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku nghĩ là vì Hunter x Hunter bắt đầu bằng một câu chuyện về khát khao khám phá. Nhân vật chính trở thành thợ săn để đi tìm cha, người đã bỏ mọi thứ để phiêu lưu."
+      },
+      "image_prompt": "a small boy with a fishing rod staring at a ship leaving his island"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Lục địa Đen là phiên bản lớn nhất của khát khao đó: một nơi mà ngay cả những thợ săn giỏi nhất cũng chưa hiểu hết."
+      },
+      "image_prompt": "a vast dark landscape with a tiny lantern moving across it"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và có lẽ Togashi cố tình giữ nó trong bóng tối. Một vùng đất càng ít được nhìn thấy, trí tưởng tượng của người đọc càng lấp đầy nó bằng những điều kỳ diệu và đáng sợ nhất."
+      },
+      "image_prompt": "a reader's silhouette with a glowing imagination cloud full of creatures above their head"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nó cũng làm tất cả những trận đánh trước đó có thêm ý nghĩa. Những nhân vật mạnh nhất ta từng thấy có thể chỉ là người mới bắt đầu trước những gì đang chờ ngoài kia."
+      },
+      "image_prompt": "a mighty warrior silhouette looking small at the edge of an immense dark landscape"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Kaku thấy cách kể chuyện này rất đáng học: đôi khi điều chưa nói ra lại mạnh hơn điều đã nói."
+      },
+      "image_prompt": "a closed door with light seeping through the gap underneath"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Tóm lại vụ án: Lục địa Đen bao quanh thế giới loài người, bị cấm đi vào, đã từng gây ra năm tai họa, là nơi sinh ra loài kiến chimera, và có liên quan tới dòng họ Freecss."
+      },
+      "image_prompt": "the owl mascot closing a case file stamped STILL OPEN",
+      "chapter": "Kết: câu hỏi mở",
+      "on_screen_text": "Hồ sơ vẫn mở"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Và hồ sơ này vẫn chưa đóng. Câu hỏi cho bạn: bạn nghĩ bên trong Lục địa Đen có gì? Hay bạn có giả thuyết D của riêng mình? Viết vào phần bình luận để Kaku thêm vào bảng điều tra nhé."
+      },
+      "image_prompt": "a blank card labeled D pinned to the corkboard next to A, B and C",
+      "on_screen_text": "Giả thuyết D của bạn?",
+      "use_mascot": true
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Video tới, Kaku rời phòng điều tra để phân tích từng đường kiếm trong một trận đấu kinh điển: trận chiến trên núi của Kimetsu no Yaiba."
+      },
+      "image_prompt": "a moonlit forest with fine threads glinting between trees and a sword's glint",
+      "on_screen_text": "Tiếp theo: phân tích trận đấu"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Đăng ký kênh để không bỏ lỡ nhé. Thám tử Kaku treo áo khoác lên đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot hanging a tiny detective coat on a hook and waving",
+      "use_mascot": true
+    }
+  ]
+}
