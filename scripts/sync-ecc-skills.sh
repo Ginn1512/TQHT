@@ -7,6 +7,9 @@
 #
 # Chỉ thay các skill có tên trong third_party/ecc/skills.txt (lần đồng bộ trước)
 # hoặc có trong ECC; skill bạn tự viết trong .claude/skills/ không bị động tới.
+#
+# Nếu có third_party/ecc/keep.txt thì chỉ chép các skill liệt kê trong đó
+# (mỗi dòng một tên, dòng bắt đầu bằng # là ghi chú). Xoá keep.txt để lấy lại đủ bộ.
 set -euo pipefail
 
 REPO_URL="https://github.com/affaan-m/ECC.git"
@@ -15,6 +18,7 @@ ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SKILLS_DIR="$ROOT/.claude/skills"
 META_DIR="$ROOT/third_party/ecc"
 MANIFEST="$META_DIR/skills.txt"
+KEEP="$META_DIR/keep.txt"
 
 TMP="$(mktemp -d)"
 trap 'rm -rf "$TMP"' EXIT
@@ -31,10 +35,32 @@ if [[ -f "$MANIFEST" ]]; then
   done < "$MANIFEST"
 fi
 
+if [[ -f "$KEEP" ]]; then
+  names=()
+  while IFS= read -r line; do
+    name="${line%%#*}"
+    name="${name//[[:space:]]/}"
+    [[ -z "$name" ]] && continue
+    if [[ ! "$name" =~ ^[a-z0-9][a-z0-9-]*$ ]]; then
+      echo "Bỏ qua tên không hợp lệ trong keep.txt: $line" >&2
+      continue
+    fi
+    names+=("$name")
+  done < "$KEEP"
+else
+  names=()
+  for dir in "$TMP/ECC/skills"/*/; do
+    names+=("$(basename "$dir")")
+  done
+fi
+
 : > "$MANIFEST.new"
-for dir in "$TMP/ECC/skills"/*/; do
-  name="$(basename "$dir")"
-  [[ -f "$dir/SKILL.md" ]] || continue
+for name in "${names[@]}"; do
+  dir="$TMP/ECC/skills/$name"
+  if [[ ! -f "$dir/SKILL.md" ]]; then
+    echo "Cảnh báo: ECC không có skill '$name'" >&2
+    continue
+  fi
   cp -R "$dir" "$SKILLS_DIR/$name"
   echo "$name" >> "$MANIFEST.new"
 done

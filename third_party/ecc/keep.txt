@@ -1,3 +1,8 @@
+# Các skill ECC được giữ lại cho dự án kênh YouTube anime.
+# Mỗi dòng một tên. Thêm/bớt tên rồi chạy scripts/sync-ecc-skills.sh.
+# Xoá file này để lấy lại đủ bộ ECC.
+
+# Nội dung, video, thương hiệu
 content-engine
 video-editing
 remotion-video-creation
@@ -7,11 +12,15 @@ brand-voice
 brand-discovery
 article-writing
 seo
+
+# Nghiên cứu
 market-research
 research-ops
 competitive-platform-analysis
 search-first
 prompt-optimizer
+
+# Viết công cụ Python
 python-patterns
 python-testing
 error-handling
@@ -20,6 +29,8 @@ content-hash-cache-pattern
 cost-aware-llm-pipeline
 verification-loop
 git-workflow
+
+# Lập kế hoạch và rút kinh nghiệm
 blueprint
 architecture-decision-records
 strategic-compact
