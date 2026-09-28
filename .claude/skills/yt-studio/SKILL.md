@@ -23,7 +23,7 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 
 ## 2. Kịch bản → `script.vi.md`
 
-- Khoảng 1.700–2.000 từ (≈ 10–12 phút), theo **Cấu trúc video chuẩn** và **Giọng văn** trong profile.
+- **Khoảng 2.600–3.500 từ (≈ 15–20 phút; không được dưới 15 phút)**, theo **Cấu trúc video chuẩn** và **Giọng văn** trong profile.
 - 30 giây đầu: đưa ra lời hứa hoặc câu hỏi, không chào hỏi dài dòng. Nếu có spoiler, cảnh báo ngay trong câu đầu.
 - Cứ 60–90 giây có một điểm gây bất ngờ. Kêu gọi đăng ký ở gần cuối, không đặt ở đầu video.
 - Tự kiểm tra trước khi đi tiếp:
@@ -34,14 +34,14 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 
 ## 3. Chia cảnh → `scenes.json` (cấu trúc xem trong `tools/scenes.py`)
 
-- Mỗi cảnh gồm 1–3 câu, dài 8–15 giây (khoảng 100–190 ký tự tiếng Việt). Id đặt theo dạng `s01`, `s02`, …
+- Mỗi cảnh gồm 1–3 câu, dài 8–15 giây (khoảng 100–190 ký tự tiếng Việt), tổng khoảng 90–110 cảnh. Id đặt theo dạng `s01`, `s02`, …
 - Chép `style_prompt` và `mascot_prompt` từ profile vào đầu file.
 - `image_prompt` (tiếng Anh):
   - Mô tả một bố cục tự nghĩ ra.
   - **Không ghi tên nhân vật hay tên anime.** Không mô tả lại trang phục hoặc kiểu tóc đặc trưng của nhân vật có bản quyền. Thay vào đó dùng nhân vật kiểu mẫu chung, bóng người, đồ vật tượng trưng, phong cảnh, hoặc cảnh sơ đồ/so sánh.
 - `on_screen_text` tối đa 8 từ, ưu tiên tên riêng và con số. Chữ này được in cứng vào hình và **mọi bản lồng tiếng đều thấy**, nên đừng viết câu dài.
 - `use_mascot: true` cho mở đầu, chuyển đoạn và kết thúc (khoảng 15% số cảnh).
-- `chapter` ở 3–6 cảnh bắt đầu phần mới. Cảnh đầu tiên luôn có chapter.
+- `chapter` ở 6–9 cảnh bắt đầu phần mới. Cảnh đầu tiên luôn có chapter.
 
 ## 4. Báo chi phí và chờ duyệt
 

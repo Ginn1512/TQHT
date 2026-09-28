@@ -39,6 +39,16 @@ def fit_to_scene(speech_s: float, scene_s: float, max_tempo: float = config.MAX_
     return Fit(tempo=round(tempo, 4), pad_s=0.0)
 
 
+def length_problem(total_s: float) -> str:
+    """Trả về mô tả lỗi nếu video nằm ngoài khoảng độ dài của kênh, rỗng nếu đạt."""
+    minutes = total_s / 60
+    if minutes < config.MIN_VIDEO_MINUTES:
+        return f"video dài {minutes:.1f} phút, ngắn hơn tối thiểu {config.MIN_VIDEO_MINUTES} phút"
+    if minutes > config.MAX_VIDEO_MINUTES:
+        return f"video dài {minutes:.1f} phút, vượt tối đa {config.MAX_VIDEO_MINUTES} phút"
+    return ""
+
+
 def starts(durations: list[float]) -> list[float]:
     out, t = [], 0.0
     for d in durations:

@@ -62,3 +62,10 @@ def test_build_srt_spans_speech_of_each_scene():
     assert len(blocks) == 3
     assert blocks[0].splitlines()[1] == "00:00:00,000 --> 00:00:01,000"
     assert blocks[2].splitlines()[1] == "00:00:03,000 --> 00:00:04,000"
+
+
+def test_length_problem_enforces_15_to_20_minutes():
+    assert "ngắn hơn" in timing.length_problem(14 * 60)
+    assert timing.length_problem(15 * 60) == ""
+    assert timing.length_problem(20 * 60) == ""
+    assert "vượt" in timing.length_problem(21 * 60)

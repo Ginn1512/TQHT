@@ -12,7 +12,7 @@ import datetime as dt
 import json
 from pathlib import Path
 
-from tools import config, scenes
+from tools import config, scenes, timing
 
 COST_FILE = "cost.json"
 
@@ -90,6 +90,12 @@ def main() -> None:
         for lang, s in est["tts_seconds"].items():
             print(f"Giọng {lang}: ~{s / 60:.1f} phút")
         print(f"Ước tính: ~{est['usd']:.2f} USD")
+        speech = sum(len(s.narration.get(config.PRIMARY_LANGUAGE, "")) for s in board.scenes)
+        total_s = speech / config.CHARS_PER_SECOND[config.PRIMARY_LANGUAGE] + len(board.scenes) * config.SCENE_PADDING_S
+        print(f"Độ dài video ước tính: ~{total_s / 60:.1f} phút")
+        problem = timing.length_problem(total_s)
+        if problem:
+            print(f"CẢNH BÁO: {problem}. Sửa kịch bản trước khi tạo.")
         print(f"Đã chi tháng này: {spent:.2f} / {config.MONTHLY_BUDGET_USD:.0f} USD")
         if spent + est["usd"] > config.MONTHLY_BUDGET_USD:
             print("CẢNH BÁO: vượt ngân sách tháng nếu chạy tiếp.")

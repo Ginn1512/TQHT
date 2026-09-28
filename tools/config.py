@@ -42,6 +42,8 @@ CHARS_PER_SECOND = {"vi": 13.0, "en": 14.0, "pt-BR": 14.0, "hi": 12.0, "zh-TW": 
 # --- Video ---
 WIDTH, HEIGHT = 1920, 1080
 FPS = 30
+MIN_VIDEO_MINUTES = 15  # yêu cầu của kênh: video dài 15–20 phút
+MAX_VIDEO_MINUTES = 20
 SCENE_PADDING_S = 0.4  # khoảng lặng sau mỗi câu thoại
 MAX_TEMPO = 1.2  # tăng tốc tối đa khi khớp bản lồng tiếng vào độ dài cảnh
 MUSIC_VOLUME = 0.08

@@ -211,7 +211,7 @@ def run(
     )
 
     # 3. Các bản lồng tiếng khác (nếu đã tạo giọng).
-    report = {"total_s": total, "languages": {primary: "ok"}}
+    report = {"total_s": total, "length_problem": timing.length_problem(total), "languages": {primary: "ok"}}
     for lang in board.languages:
         if lang == primary:
             continue
@@ -309,7 +309,10 @@ def main() -> None:
     final = run(video_dir, music=args.music)
     info = media.probe(final)
     print(f"\nXong: {final} ({info.duration_s:.1f}s)")
-    print(json.loads((final.parent / "report.json").read_text(encoding="utf-8"))["languages"])
+    report = json.loads((final.parent / "report.json").read_text(encoding="utf-8"))
+    print(report["languages"])
+    if report["length_problem"] and not args.demo:
+        print(f"CẢNH BÁO: {report['length_problem']}")
 
 
 if __name__ == "__main__":

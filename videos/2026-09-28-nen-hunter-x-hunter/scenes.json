@@ -1,0 +1,814 @@
+{
+  "title": "Hunter x Hunter: Nen hoạt động thế nào?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Hunter x Hunter đến hết arc Kiến Chimera, và nhắc ngắn một chi tiết ở arc Thừa kế. Nếu bạn chưa xem tới đó, hãy lưu video lại nhé."
+      },
+      "image_prompt": "a dark theater stage with a single spotlight on a closed ancient book with a glowing hexagon on its cover",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Có một cậu bé mười bốn tuổi, trong cơn giận, đã biến mình thành một chiến binh trưởng thành mạnh tới mức kẻ thù phải run sợ."
+      },
+      "image_prompt": "silhouette of a tall adult warrior with long wild hair standing in a ruined forest, overwhelming dark orange aura rising like flames, back view"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nhưng cái giá của khoảnh khắc đó là mọi thứ. Sau trận đấu, cậu không còn dùng được, thậm chí không còn nhìn thấy sức mạnh từng là của mình."
+      },
+      "image_prompt": "a small boy silhouette sitting alone on a hospital bed by a window at dawn, faint fading aura particles drifting away"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Vì sao lại như vậy? Câu trả lời nằm trong một hệ thống sức mạnh được xem là chặt chẽ bậc nhất anime: Nen."
+      },
+      "image_prompt": "a glowing golden hexagon diagram floating above an open ancient book in a dark library",
+      "on_screen_text": "Nen là gì?"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình sẽ giải mã Nen từ con số không: khí là gì, bốn nguyên tắc, sáu hệ, và luật giao ước."
+      },
+      "image_prompt": "the owl mascot opening a big glowing notebook on a wooden desk in a cozy library, waving to the viewer",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Xem hết video, bạn sẽ tự trả lời được vì sao Gon mất Nen, và tự đoán được một nhân vật thuộc hệ nào chỉ qua cách họ chiến đấu."
+      },
+      "image_prompt": "the owl mascot pointing at a chalkboard showing a question mark inside a hexagon",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trong Hunter x Hunter, mọi sinh vật sống đều tỏa ra một dòng năng lượng sống, gọi là khí, hay aura."
+      },
+      "image_prompt": "a calm city street crowd where every person is surrounded by a faint translucent glow, soft watercolor light",
+      "chapter": "Nen là gì?",
+      "on_screen_text": "Khí = năng lượng sống"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Với người thường, khí chỉ rò rỉ ra ngoài một cách vô thức qua các lỗ khí trên cơ thể, rồi tan đi, không để làm gì."
+      },
+      "image_prompt": "anatomical style anime illustration of a human silhouette with small glowing points across the body leaking thin wisps of light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Nen là kỹ năng kiểm soát dòng khí đó: giữ nó lại, dồn nó đi, và biến nó thành sức mạnh."
+      },
+      "image_prompt": "a martial artist silhouette in meditation, glowing aura gathering into a controlled sphere around the body"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Tên gọi Nen có nghĩa là niệm, ý niệm. Người dùng được gọi là người dùng Nen, và phần lớn thợ săn chuyên nghiệp đều phải thành thạo nó."
+      },
+      "image_prompt": "an old scroll unrolling with an elegant brush-stroke symbol glowing gold, calligraphy style, no readable text"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Có một chi tiết thú vị: lúc đầu, thầy Wing không dạy Gon và Killua Nen thật. Thầy dạy một phiên bản khác, chỉ nói về ý chí."
+      },
+      "image_prompt": "a gentle martial arts teacher silhouette with glasses in a small apartment, two children sitting on the floor listening"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Lý do rất đơn giản: Nen thật nguy hiểm. Mở lỗ khí sai cách, hoặc bị kẻ xấu tấn công bằng khí khi chưa phòng thủ, có thể chết."
+      },
+      "image_prompt": "a warning sign made of glowing red aura cracks on a dark wall, ominous atmosphere"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Có hai cách để đánh thức Nen. Cách chậm là thiền định, mở từng lỗ khí một cách tự nhiên. Cách này an toàn nhưng rất lâu."
+      },
+      "image_prompt": "a lone student meditating under a waterfall at sunrise, slow gentle glow appearing around the body",
+      "on_screen_text": "Cách 1: thiền định"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Cách nhanh là để một người đã thành thạo truyền khí vào cơ thể bạn, ép tất cả lỗ khí bật mở cùng lúc."
+      },
+      "image_prompt": "a teacher's glowing palm near a student's back, a burst of light forcing open glowing points across the body",
+      "on_screen_text": "Cách 2: ép mở"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Cách này được xem là cấm kỵ, vì người không đủ tố chất có thể kiệt sức hoặc chết. Gon và Killua sống sót, nhưng không phải ai cũng may mắn như vậy."
+      },
+      "image_prompt": "two small silhouettes standing inside a raging vortex of released aura, both holding their ground"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Khí không phải phép thuật từ bên ngoài, mà là sức sống của chính cơ thể. Vì thế người kiệt sức hay bị thương nặng cũng sẽ có dòng khí yếu đi."
+      },
+      "image_prompt": "a tired traveler silhouette with a dim flickering aura resting against a tree at dusk"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và vì khí gắn với sự sống, bị tấn công bằng khí khi không phòng thủ có thể gây thương tổn nặng hơn nhiều so với một đòn đánh thường."
+      },
+      "image_prompt": "a glowing strike hitting an unprotected silhouette, shockwave rings, dramatic impact frame"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kaku ghi chú: Nen giống như học bơi. Ai cũng có khí, nhưng chỉ người học mới biết giữ mình không chìm, rồi mới bơi nhanh được."
+      },
+      "image_prompt": "the owl mascot wearing tiny swimming goggles, floating in a pool of glowing aura with a notebook",
+      "use_mascot": true
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Mọi kỹ năng Nen đều xây trên bốn nguyên tắc cơ bản: Ten, Zetsu, Ren và Hatsu. Hãy đi lần lượt từng cái."
+      },
+      "image_prompt": "four glowing stone pillars in a row inside a temple, each carved with a different abstract symbol",
+      "chapter": "Bốn nguyên tắc",
+      "on_screen_text": "Ten · Zetsu · Ren · Hatsu"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Ten, hay Triền, là giữ các lỗ khí mở nhưng không cho khí trôi đi. Khí bao quanh cơ thể như một lớp áo mỏng."
+      },
+      "image_prompt": "a person silhouette wrapped in a smooth, even, thin layer of blue glowing aura, calm pose",
+      "on_screen_text": "Ten: giữ khí quanh người"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Lớp áo này giúp chống lại đòn tấn công bằng khí, và theo lời trong truyện, còn giúp cơ thể chậm già đi."
+      },
+      "image_prompt": "a glowing aura shield deflecting dark sparks around a calm figure"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Zetsu, hay Tuyệt, thì ngược lại: đóng toàn bộ lỗ khí. Khí gần như biến mất, người khác khó cảm nhận được bạn."
+      },
+      "image_prompt": "a figure fading into the shadows of a dark alley, no aura visible, only faint outline",
+      "on_screen_text": "Zetsu: tắt khí, ẩn mình"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Zetsu rất hợp để ẩn nấp và hồi sức. Nhưng khi đã tắt khí, bạn cũng không còn lớp áo phòng thủ, trúng một đòn Nen là cực kỳ nguy hiểm."
+      },
+      "image_prompt": "a hidden figure behind a tree while a glowing fist of aura strikes the ground nearby, tension"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Ren, hay Luyện, là đẩy khí ra mạnh hơn bình thường, để tăng sức mạnh và độ bền của cơ thể."
+      },
+      "image_prompt": "a fighter flaring a large burst of aura outward, dust and wind blowing around, dramatic low angle",
+      "on_screen_text": "Ren: dồn khí mạnh hơn"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Người dùng Ren lâu, giữ được lượng khí lớn trong thời gian dài, sẽ có lợi thế rất rõ trong chiến đấu kéo dài."
+      },
+      "image_prompt": "a progress bar made of glowing aura energy filling up inside a stylized training dojo"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Hatsu, hay Phát, là bước cuối: dùng khí để tạo ra một năng lực riêng. Đây là phần mà mỗi người Nen khác nhau hoàn toàn."
+      },
+      "image_prompt": "a hand releasing a unique glowing shape of energy, like a signature, sparks forming an abstract emblem",
+      "on_screen_text": "Hatsu: năng lực riêng"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Nếu Ten, Zetsu và Ren là bảng chữ cái, thì Hatsu là bài thơ bạn tự viết ra bằng bảng chữ cái đó."
+      },
+      "image_prompt": "the owl mascot writing a glowing poem with a quill, letters of light floating from the page",
+      "use_mascot": true
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Từ bốn nguyên tắc, người dùng Nen kết hợp chúng thành những kỹ năng nâng cao. Có bảy cái hay được nhắc tới nhất."
+      },
+      "image_prompt": "seven glowing orbs arranged in a circle on a dark background, each a different color",
+      "chapter": "Kỹ năng nâng cao",
+      "on_screen_text": "7 kỹ năng nâng cao"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Gyo, hay Ngưng, là dồn khí vào một bộ phận, thường là mắt. Nhờ vậy bạn nhìn thấy những khí bị giấu đi."
+      },
+      "image_prompt": "close-up of a glowing eye with aura concentrated around it, revealing hidden ghostly threads in the air",
+      "on_screen_text": "Gyo: dồn khí vào mắt"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "In, hay Ẩn, là phiên bản cao cấp của Zetsu: giấu khí của đòn tấn công để đối phương không nhìn thấy nó, trừ khi họ dùng Gyo."
+      },
+      "image_prompt": "an invisible blade shimmering faintly in the air, almost transparent, a figure unaware of it",
+      "on_screen_text": "In: giấu khí"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Chính vì thế In và Gyo là cặp đấu trí: một người giấu, một người soi. Ai lơ là Gyo sẽ trúng đòn mà không biết đòn đến từ đâu."
+      },
+      "image_prompt": "two figures facing each other, one hiding a transparent weapon, the other with glowing eyes scanning"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "En, hay Viên, là mở rộng lớp Ten ra xa, thành một vùng cảm nhận. Bất cứ thứ gì bước vào vùng đó, bạn đều biết."
+      },
+      "image_prompt": "a fighter at the center of a huge translucent dome of aura covering a forest, small creatures detected inside",
+      "on_screen_text": "En: vùng cảm nhận"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Vùng En càng rộng càng khó giữ. Người bình thường chỉ duy trì được vài mét, còn những kẻ quái vật có thể trải En rất rộng."
+      },
+      "image_prompt": "a comparison diagram of a small aura circle and an enormous aura circle over a landscape, map style"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Shu, hay Chu, là bọc khí lên đồ vật, như bọc lên cây gậy hay lá bài, biến món đồ thường thành vũ khí nguy hiểm."
+      },
+      "image_prompt": "an ordinary playing card and a wooden stick wrapped in sharp glowing aura, cutting through a metal pipe",
+      "on_screen_text": "Shu: bọc khí lên đồ vật"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Ko, hay Ngạnh, là dồn toàn bộ khí vào một điểm, phần còn lại của cơ thể dùng Zetsu. Sức công phá cực lớn, nhưng chỗ khác gần như không được bảo vệ."
+      },
+      "image_prompt": "a fist glowing with blinding concentrated aura while the rest of the body is dark, dramatic contrast",
+      "on_screen_text": "Ko: tất tay một điểm"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Ken, hay Kiên, là giữ Ren quanh toàn thân trong thời gian dài, như một bộ giáp để đỡ đòn từ mọi phía."
+      },
+      "image_prompt": "a fighter surrounded by a thick sphere-shaped armor of aura, arrows of energy bouncing off",
+      "on_screen_text": "Ken: giáp toàn thân"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Ryu, hay Lưu, là chia khí trong từng khoảnh khắc: dồn bảy phần vào tay khi đánh, rồi chuyển sang tay kia khi đỡ."
+      },
+      "image_prompt": "a percentage diagram over a fighter's body showing seventy percent aura in the right fist and thirty percent spread over the body",
+      "on_screen_text": "Ryu: chia khí theo phần trăm"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Trong truyện, Gon và Killua tập Ryu bằng cách đấu tay đôi, vừa đánh vừa chuyển khí liên tục. Đó là bài tập nền tảng của chiến đấu Nen."
+      },
+      "image_prompt": "two young silhouettes sparring on a rocky field, glowing aura shifting between their hands and legs"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kaku tóm lại: Gyo để thấy, In để giấu, En để cảm nhận, Shu để bọc đồ, Ko để tất tay, Ken để thủ, Ryu để chia khí."
+      },
+      "image_prompt": "the owl mascot pointing at a neat chart of seven glowing icons on a chalkboard",
+      "use_mascot": true
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Giờ tới phần nổi tiếng nhất: sáu hệ Nen. Ai sinh ra cũng thuộc sẵn một hệ, và hệ đó quyết định bạn giỏi loại năng lực nào."
+      },
+      "image_prompt": "a large glowing hexagon floating in a starry void, six vertices each with a distinct color",
+      "chapter": "Sáu hệ và hình lục giác",
+      "on_screen_text": "6 hệ Nen"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Hệ thứ nhất là Cường hóa: tăng sức mạnh cho chính cơ thể hoặc đồ vật. Đơn giản, bền bỉ, rất hợp chiến đấu trực diện."
+      },
+      "image_prompt": "a muscular fist punching a boulder into pieces, orange aura bursting outward",
+      "on_screen_text": "Cường hóa"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Gon là người Cường hóa. Chiêu Oẳn tù tì của cậu, dồn khí vào nắm đấm rồi tung ra, chính là Cường hóa ở dạng thuần nhất."
+      },
+      "image_prompt": "a small fighter silhouette crouching low with one fist glowing brighter and brighter, energy gathering",
+      "on_screen_text": "Gon: Cường hóa"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Hệ thứ hai là Biến hóa: thay đổi tính chất của khí, biến nó thành điện, thành thứ dính như kẹo cao su."
+      },
+      "image_prompt": "a hand with aura transforming into crackling blue lightning on one side and stretchy pink elastic on the other",
+      "on_screen_text": "Biến hóa"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Killua biến khí thành điện, còn Hisoka biến khí thành thứ vừa dính như kẹo cao su vừa đàn hồi. Cả hai đều là Biến hóa."
+      },
+      "image_prompt": "split image: blue lightning arcing between fingers, and a stretchy pink elastic thread connecting two cards"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Hệ thứ ba là Phóng xuất: tách khí khỏi cơ thể và bắn đi, như đạn khí hay quả cầu năng lượng."
+      },
+      "image_prompt": "a figure firing glowing spheres of aura from their palms across a field, trails of light",
+      "on_screen_text": "Phóng xuất"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Hệ thứ tư là Cụ hiện hóa: dùng khí tạo ra đồ vật hữu hình. Kurapika tạo ra những sợi xích, mỗi sợi mang một năng lực."
+      },
+      "image_prompt": "glowing chains materializing from thin air around an outstretched hand, each chain tip a different shape",
+      "on_screen_text": "Cụ hiện hóa"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Hệ thứ năm là Thao tác: điều khiển vật hoặc sinh vật khác, như điều khiển người bằng kim cắm vào cơ thể."
+      },
+      "image_prompt": "puppet strings of glowing aura connected to a wooden mannequin that moves on its own",
+      "on_screen_text": "Thao tác"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Hệ thứ sáu là Đặc chất: những năng lực không xếp được vào năm hệ còn lại, như đọc tương lai hay đánh cắp năng lực người khác."
+      },
+      "image_prompt": "a mysterious floating book and a glowing eye above it, abstract swirling symbols, purple tones",
+      "on_screen_text": "Đặc chất"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Sáu hệ được xếp thành một hình lục giác. Thứ tự vòng quanh là: Cường hóa, Biến hóa, Cụ hiện hóa, Đặc chất, Thao tác, Phóng xuất."
+      },
+      "image_prompt": "clean infographic style hexagon with six colored nodes connected by glowing lines, no text",
+      "on_screen_text": "Thứ tự vòng lục giác"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Hình lục giác cho biết bạn học được hệ khác tốt tới đâu. Hệ của chính mình: một trăm phần trăm."
+      },
+      "image_prompt": "a single hexagon node glowing brightly at full intensity, the others dim",
+      "on_screen_text": "Hệ của mình: 100%"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Hai hệ đứng cạnh: khoảng tám mươi phần trăm. Hai hệ cách một ô: khoảng sáu mươi. Hệ đối diện: chỉ khoảng bốn mươi."
+      },
+      "image_prompt": "hexagon diagram where node brightness fades step by step from one vertex to the opposite vertex",
+      "on_screen_text": "Cạnh 80% · Cách 1 ô 60% · Đối diện 40%"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Vì thế Gon, một người Cường hóa, học Biến hóa và Phóng xuất khá tốt, nhưng rất yếu với Đặc chất nằm ở phía đối diện."
+      },
+      "image_prompt": "a small fighter silhouette at one vertex of a glowing hexagon, a distant dim vertex across from them"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Riêng hệ Đặc chất có một điều lạ: nó thường không có từ đầu, mà xuất hiện sau, do hoàn cảnh hoặc do tính cách người đó."
+      },
+      "image_prompt": "a purple vertex of the hexagon flickering into existence out of mist"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku mẹo nhỏ: khi xem một trận đấu, hãy hỏi 'người này đang làm gì với khí?'. Mạnh thêm, đổi chất, bắn đi, tạo đồ, điều khiển, hay kỳ lạ. Đó là hệ của họ."
+      },
+      "image_prompt": "the owl mascot holding a magnifying glass over a hexagon diagram, curious expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Vậy làm sao biết mình thuộc hệ nào? Trong truyện có một bài kiểm tra rất gọn: bói nước."
+      },
+      "image_prompt": "a clear glass of water on a wooden table with a single green leaf floating on top, soft window light",
+      "chapter": "Bói nước và tính cách",
+      "on_screen_text": "Bói nước"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Bạn đặt một chiếc lá lên cốc nước đầy, rồi đặt hai tay quanh cốc và dùng Ren. Cách cốc nước thay đổi sẽ cho biết hệ của bạn."
+      },
+      "image_prompt": "two hands cupped around a glass of water with a leaf, aura glowing gently into the water"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Nước dâng lên nhiều hơn là Cường hóa. Khi Gon thử, nước trào ra khỏi cốc."
+      },
+      "image_prompt": "a glass of water overflowing onto a table, leaf riding the rising water",
+      "on_screen_text": "Nước dâng: Cường hóa"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Vị nước thay đổi là Biến hóa. Killua nếm thử và thấy nước có vị ngọt."
+      },
+      "image_prompt": "a glass of water with sparkling sweet-looking shimmer, a small tongue-taste icon floating beside it",
+      "on_screen_text": "Đổi vị: Biến hóa"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Màu nước đổi là Phóng xuất. Nước xuất hiện cặn lạ là Cụ hiện hóa. Chiếc lá tự chuyển động là Thao tác."
+      },
+      "image_prompt": "three glasses side by side: one with changed color water, one with tiny crystals appearing, one with a leaf spinning",
+      "on_screen_text": "Màu · Cặn · Lá xoay"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Còn nếu có một thay đổi khác hẳn, không giống năm kiểu trên, thì đó là Đặc chất."
+      },
+      "image_prompt": "a glass of water where the leaf withers and glows with strange purple runes, mysterious",
+      "on_screen_text": "Khác hẳn: Đặc chất"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Ngoài ra, Hisoka có một thuyết vui về tính cách: người Cường hóa đơn giản và quyết đoán, người Biến hóa thất thường và hay nói dối."
+      },
+      "image_prompt": "a playing card spread fanned out on a table, each card showing an abstract personality icon, playful mood"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Người Phóng xuất nóng tính, người Cụ hiện hóa hay căng thẳng, người Thao tác lý trí và thích lý lẽ, còn người Đặc chất thì cá tính riêng biệt."
+      },
+      "image_prompt": "six small chibi silhouettes in different moods: determined, sly, angry, nervous, thoughtful, aloof"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Chính Hisoka nói đây chỉ là kiểu xem nhóm máu đoán tính cách. Đừng coi là luật, nhưng nó giải thích vì sao nhân vật cùng hệ lại hay giống nhau."
+      },
+      "image_prompt": "the owl mascot shrugging with a small smile, a question mark floating above a personality chart",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Biết hệ của mình rồi, bước tiếp theo là thiết kế Hatsu, năng lực riêng. Và đây là chỗ nhiều người dùng Nen tự làm hỏng mình."
+      },
+      "image_prompt": "a blueprint style drawing of a glowing energy weapon being designed on a drafting table",
+      "chapter": "Hatsu: năng lực riêng",
+      "on_screen_text": "Thiết kế năng lực riêng"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Nguyên tắc vàng: năng lực nên hợp với hệ của mình. Người Cường hóa nên làm năng lực đánh mạnh, không nên cố tạo ra đồ vật phức tạp."
+      },
+      "image_prompt": "a signpost with two paths, one bright path toward a glowing fist icon, one dim path toward a complex machine icon"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Trong truyện có một ví dụ đau lòng: một võ sĩ tên Kastro, rất tài năng, nhưng chọn một năng lực nằm xa hệ tự nhiên của mình."
+      },
+      "image_prompt": "a proud martial artist silhouette in a tournament arena, a transparent double of himself standing beside him"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Hisoka gọi đó là tràn bộ nhớ: dồn quá nhiều công sức vào một năng lực không hợp, nên không còn chỗ để tiến xa hơn."
+      },
+      "image_prompt": "an overflowing cup of glowing energy spilling over a small container, metaphor for capacity",
+      "on_screen_text": "Tràn bộ nhớ"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kết quả là Kastro thua. Bài học rất rõ: năng lực mạnh nhất chưa chắc là năng lực ngầu nhất, mà là năng lực hợp với mình nhất."
+      },
+      "image_prompt": "a fallen fighter's silhouette in an empty arena, dramatic spotlight, falling petals"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Năng lực tốt thường có ba điều: hợp hệ, hợp tính cách, và có một ý tưởng rõ ràng mà người dùng tin tuyệt đối."
+      },
+      "image_prompt": "three glowing check marks stacked vertically beside a small energy emblem",
+      "on_screen_text": "Hợp hệ · Hợp tính cách · Tin tuyệt đối"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Kaku chấm điểm: nếu năng lực của bạn cần giải thích quá ba câu, có lẽ nó đang dùng nhiều khí hơn mức cần thiết."
+      },
+      "image_prompt": "the owl mascot holding a scorecard with three stars, sitting on a stack of books",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và giờ, phần quan trọng nhất để hiểu chuyện của Gon: giới hạn và giao ước."
+      },
+      "image_prompt": "an ancient contract scroll sealed with a glowing wax seal shaped like a chain link",
+      "chapter": "Giới hạn và giao ước",
+      "on_screen_text": "Giới hạn & giao ước"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Luật rất đơn giản: tự đặt ra điều kiện càng khắt khe cho năng lực của mình, năng lực đó càng mạnh."
+      },
+      "image_prompt": "a balance scale with a heavy glowing chain on one side and a burst of power on the other, rising"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Điều kiện có thể là 'chỉ dùng được với một loại kẻ thù', 'chỉ dùng khi đứng yên', hay 'nếu phá luật, ta sẽ chết'."
+      },
+      "image_prompt": "three floating glowing contract clauses shown as abstract icons: a target, a standing figure, a skull"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kurapika là ví dụ kinh điển. Cậu tự thề sợi xích mạnh nhất chỉ được dùng với băng Ảo Ảnh, nếu dùng với người khác, chính cậu sẽ chết."
+      },
+      "image_prompt": "a glowing chain wrapped around a heart-shaped light, with a spider-shaped silhouette target far away",
+      "on_screen_text": "Xích chỉ dùng cho kẻ thù"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nhờ giao ước khắc nghiệt đó, sợi xích đủ mạnh để trói những kẻ vượt xa cậu về kinh nghiệm."
+      },
+      "image_prompt": "a glowing chain binding a large shadowy figure against a stone wall"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Về sau, truyện cho thấy năng lực Emperor Time của Kurapika còn phải trả giá bằng chính tuổi thọ của cậu mỗi khi dùng."
+      },
+      "image_prompt": "an hourglass with glowing sand draining quickly, a chain wrapped around it",
+      "on_screen_text": "Trả bằng tuổi thọ"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Giao ước không chỉ là luật chơi. Nó là cái giá mà người dùng Nen chấp nhận trả để đổi lấy sức mạnh."
+      },
+      "image_prompt": "a merchant-style balance weighing a glowing gem of power against a fading candle of life"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku nhắc: giao ước càng đổi lấy thứ quý giá, sức mạnh càng lớn. Và không có thứ gì quý giá hơn tương lai của chính mình."
+      },
+      "image_prompt": "the owl mascot looking serious, holding a small glowing hourglass carefully",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Giờ quay lại câu hỏi ban đầu. Trong arc Kiến Chimera, Gon biết người thầy Kite của mình không thể cứu được nữa."
+      },
+      "image_prompt": "a boy silhouette kneeling in a dark forest clearing, rain falling, distant fallen figure",
+      "chapter": "Vì sao Gon mất Nen?",
+      "on_screen_text": "Quay lại câu hỏi đầu"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Cơn giận và tuyệt vọng đẩy Gon đến một giao ước chưa từng có: đổi tất cả những gì mình có để có đủ sức mạnh ngay lúc đó."
+      },
+      "image_prompt": "a small figure with a dark aura spiraling upward like a storm, cracks forming in the ground"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Cậu ép cơ thể lớn vượt tuổi, đạt tới sức mạnh mà lẽ ra phải cả đời tu luyện mới có, và đánh bại kẻ thù."
+      },
+      "image_prompt": "a tall adult silhouette with overwhelming aura towering above a smaller shadowy creature, back view"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nhưng thứ bị đem ra đổi chính là tương lai: toàn bộ tiềm năng và Nen mà Gon lẽ ra sẽ có trong suốt cuộc đời."
+      },
+      "image_prompt": "a glowing path into the future crumbling into pieces behind a figure",
+      "on_screen_text": "Cái giá: cả tương lai"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Gon suýt chết. Sau khi được cứu, cậu còn sống, nhưng khi nói chuyện với cha là Ging, Gon cho biết mình không dùng được Nen nữa."
+      },
+      "image_prompt": "a boy silhouette holding a phone at a sunny hilltop, a faint aura around him that he cannot see"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Chi tiết đáng chú ý: Ging vẫn thấy khí quanh Gon. Nghĩa là Gon không mất khí, mà mất khả năng cảm nhận và điều khiển nó."
+      },
+      "image_prompt": "a diagram: a figure with a soft aura glow, but the eyes of the figure are covered by a gentle mist",
+      "on_screen_text": "Còn khí, mất khả năng dùng"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Theo luật giao ước, chuyện này hoàn toàn hợp lý: Gon đã trả trước toàn bộ tương lai, nên hiện tại không còn gì để dùng."
+      },
+      "image_prompt": "a balance scale fully tilted, one side holding a burst of past power, the other side empty"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Liệu Gon có lấy lại được Nen không? Truyện chưa trả lời chắc chắn. Nhiều fan tin là có, nhưng hiện tại đó vẫn chỉ là lý thuyết."
+      },
+      "image_prompt": "a single green sprout growing from cracked ground at dawn, hopeful light",
+      "on_screen_text": "Còn lấy lại được? (lý thuyết)"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Trước khi tổng kết, Kaku muốn bàn thêm một câu hỏi: vì sao rất nhiều fan xem Nen là hệ thống sức mạnh hay nhất trong anime?"
+      },
+      "image_prompt": "the owl mascot sitting on a pile of books with several other power-system symbols floating around, thoughtful",
+      "chapter": "Vì sao Nen được yêu thích?",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Lý do đầu tiên: Nen có luật rõ ràng. Người xem hiểu được giới hạn của từng nhân vật, nên khi ai đó thắng, chiến thắng đó có lý do."
+      },
+      "image_prompt": "a clean rulebook with glowing pages opened on a stone table, rays of light",
+      "on_screen_text": "1. Luật rõ ràng"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Ở nhiều bộ khác, nhân vật chính mạnh lên nhờ một cơn giận hay một cú bộc phát khó giải thích. Trong Hunter x Hunter, ngay cả cơn giận của Gon cũng phải trả giá theo luật."
+      },
+      "image_prompt": "a comparison of two paths: a chaotic explosion of energy versus a neat glowing contract with a price tag"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Lý do thứ hai: thông tin là vũ khí. Biết năng lực và điều kiện của đối phương quan trọng không kém sức mạnh thô."
+      },
+      "image_prompt": "a detective style board with glowing threads connecting clue cards, dark room",
+      "on_screen_text": "2. Thông tin là vũ khí"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Vì thế nhiều trận đấu giống một ván bài lật ngửa dần: ai giấu được lá bài của mình lâu hơn, người đó có lợi thế."
+      },
+      "image_prompt": "a table with face-down glowing playing cards being slowly turned over one by one"
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Lý do thứ ba: người yếu hơn vẫn có thể thắng. Một năng lực nhỏ nhưng thông minh, cộng với giao ước đúng, có thể lật đổ kẻ mạnh hơn nhiều."
+      },
+      "image_prompt": "a small figure standing confidently before a giant shadow, holding a tiny glowing chain",
+      "on_screen_text": "3. Kẻ yếu vẫn có cửa"
+    },
+    {
+      "id": "s93",
+      "narration": {
+        "vi": "Điều này làm mỗi trận đấu khó đoán. Bạn không thể chỉ so ai có nhiều khí hơn, mà phải xem ai dùng khí thông minh hơn."
+      },
+      "image_prompt": "two balance scales side by side, one weighing raw energy and one weighing a lightbulb of ideas"
+    },
+    {
+      "id": "s94",
+      "narration": {
+        "vi": "Lý do thứ tư: Nen phản ánh tính cách. Năng lực của mỗi người nói lên họ là ai, họ mong muốn gì, và họ sẵn sàng hy sinh điều gì."
+      },
+      "image_prompt": "a mirror reflecting a person's silhouette as a glowing emblem shaped like their inner self",
+      "on_screen_text": "4. Năng lực = tính cách"
+    },
+    {
+      "id": "s95",
+      "narration": {
+        "vi": "Kurapika sống vì trả thù, nên năng lực của cậu là những sợi xích trói buộc và đổi bằng mạng sống. Gon sống thẳng thắn, nên năng lực của cậu là một cú đấm."
+      },
+      "image_prompt": "split image: a coiled glowing chain on one side, a single glowing fist on the other, symmetric composition"
+    },
+    {
+      "id": "s96",
+      "narration": {
+        "vi": "Khi năng lực gắn với tính cách, trận đấu cũng là câu chuyện. Người xem không chỉ hỏi ai mạnh hơn, mà hỏi ai sẽ phải hy sinh điều gì."
+      },
+      "image_prompt": "a dramatic stage with two silhouettes facing each other under a single spotlight, falling feathers"
+    },
+    {
+      "id": "s97",
+      "narration": {
+        "vi": "Và cuối cùng, Nen có giá. Không có sức mạnh nào miễn phí. Chính điều đó làm khoảnh khắc Gon biến đổi vừa đẹp, vừa đau."
+      },
+      "image_prompt": "a single glowing flower blooming from cracked dark stone, bittersweet mood",
+      "on_screen_text": "5. Sức mạnh luôn có giá"
+    },
+    {
+      "id": "s98",
+      "narration": {
+        "vi": "Kaku nghĩ đây là bài học lớn nhất của Nen: mọi thứ mạnh mẽ đều cần kỷ luật, lựa chọn đúng, và sẵn sàng trả giá."
+      },
+      "image_prompt": "the owl mascot closing its eyes calmly, a tiny glowing hexagon floating above its head",
+      "use_mascot": true
+    },
+    {
+      "id": "s99",
+      "narration": {
+        "vi": "Tóm lại: khí là năng lượng sống. Bốn nguyên tắc để giữ, tắt, dồn và phát khí. Bảy kỹ năng nâng cao để chiến đấu."
+      },
+      "image_prompt": "a summary infographic with glowing icons arranged in rows on a dark background, no text",
+      "chapter": "Tóm tắt",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s100",
+      "narration": {
+        "vi": "Sáu hệ trên hình lục giác quyết định bạn giỏi gì. Và giới hạn cùng giao ước cho phép đổi cái giá lấy sức mạnh."
+      },
+      "image_prompt": "a glowing hexagon connected by a chain to a sealed contract scroll, symmetric composition"
+    },
+    {
+      "id": "s101",
+      "narration": {
+        "vi": "Chính vì mọi sức mạnh đều có luật và có giá, các trận đấu trong Hunter x Hunter mới căng thẳng như một ván cờ."
+      },
+      "image_prompt": "two figures facing each other on a giant chessboard made of glowing tiles, strategic mood"
+    },
+    {
+      "id": "s102",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu tự làm bói nước, bạn nghĩ mình thuộc hệ nào, và bạn sẽ đặt giao ước gì cho năng lực của mình? Viết xuống phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a glass of water with a leaf, looking at the viewer with curiosity",
+      "on_screen_text": "Bạn thuộc hệ nào?",
+      "use_mascot": true
+    },
+    {
+      "id": "s103",
+      "narration": {
+        "vi": "Nếu video giúp bạn hiểu Nen rõ hơn, hãy đăng ký kênh. Video sau Kaku sẽ giải mã Haki trong One Piece."
+      },
+      "image_prompt": "the owl mascot pointing at a glowing subscribe-style button shape without any text, stack of books behind",
+      "use_mascot": true
+    },
+    {
+      "id": "s104",
+      "narration": {
+        "vi": "Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing a big glowing notebook and waving goodbye in a warm library at night",
+      "use_mascot": true
+    }
+  ]
+}

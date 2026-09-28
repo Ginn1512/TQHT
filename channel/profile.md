@@ -7,7 +7,7 @@
 ## 1. Định vị (đã chốt)
 
 - **Ngách:** phân tích / giải thích anime: sức mạnh, bí ẩn, lý thuyết, top 10, so sánh.
-- **Định dạng:** video dài 10–15 phút. Shorts làm sau.
+- **Định dạng:** video dài **15–20 phút** (bắt buộc, không làm ngắn hơn 15 phút). Shorts làm sau.
 - **Hình ảnh:** tranh AI tự vẽ theo phong cách anime, cộng chữ trên màn hình và sơ đồ. **Không dùng cảnh phim, ảnh chụp màn hình, trang manga hay art chính thức.**
 - **Ngôn ngữ:** tiếng Việt là chính. Lồng tiếng thêm theo lộ trình:
   - video 1–3: chỉ tiếng Việt (`vi`)
@@ -44,7 +44,7 @@
 
 - **0–30 giây:** một câu hỏi cụ thể + lời hứa trả lời ("Vì sao Gon mất hết Nen? Hết video này bạn sẽ hiểu luật Nen đủ để tự đoán."). Cảnh báo spoiler nếu có. Kaku chào bằng câu cửa miệng.
 - **30–90 giây:** bối cảnh tối thiểu, chỉ những gì cần cho câu hỏi.
-- **Thân bài 3–5 phần**, mỗi phần là một chương, mở bằng một câu hỏi con và khép bằng một điểm bất ngờ hoặc một sơ đồ tổng kết.
+- **Thân bài 5–7 phần** (mỗi phần 2–3 phút), mỗi phần là một chương, mở bằng một câu hỏi con và khép bằng một điểm bất ngờ hoặc một sơ đồ tổng kết.
 - **Kết:** tóm tắt bằng một sơ đồ; câu hỏi cho phần bình luận; kêu gọi đăng ký nằm ở đây, không đặt ở đầu.
 - **Nhịp:** đổi hình mỗi 8–15 giây; cứ 60–90 giây có một điểm gây bất ngờ.
 
