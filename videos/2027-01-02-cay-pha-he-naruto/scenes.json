@@ -1,0 +1,727 @@
+{
+  "title": "Naruto: Cây phả hệ Otsutsuki, Uchiha, Senju và Uzumaki",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler toàn bộ Naruto Shippuden, phim The Last, và nhắc nhẹ phần mở đầu của Boruto."
+      },
+      "image_prompt": "a colossal ancient tree silhouetted against a full moon, roots spreading across a vast land",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler toàn bộ Naruto"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hai cậu bé cùng lớp, một người bị cả làng xa lánh, một người là thiên tài của gia tộc danh giá. Họ là bạn, là đối thủ, và suýt giết nhau nhiều lần."
+      },
+      "image_prompt": "two boys standing back to back on a cliff at sunset, one with a warm smile and one with a cold stare"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nhưng nếu lần ngược lên cây phả hệ, bạn sẽ thấy câu chuyện của họ đã bắt đầu từ hàng nghìn năm trước, từ một cái cây và một trái cây bị cấm."
+      },
+      "image_prompt": "a glowing fruit hanging from a gigantic tree, a lone figure reaching up toward it",
+      "on_screen_text": "Bắt đầu từ một trái cây",
+      "video_prompt": "the glowing fruit pulses with light as the figure's hand reaches closer, leaves swaying, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ là một tấm giấy thật lớn, và Kaku sẽ vẽ cây phả hệ của thế giới Naruto, từ gốc tới ngọn."
+      },
+      "image_prompt": "the owl mascot unrolling a huge sheet of paper and holding a brush, a tree sketch beginning",
+      "on_screen_text": "Cây phả hệ Naruto",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Bốn cái tên chính hôm nay: Otsutsuki, Uchiha, Senju và Uzumaki. Và cuối video, bạn sẽ thấy gần như mọi nhân vật quan trọng đều là họ hàng xa của nhau."
+      },
+      "image_prompt": "four family crests arranged around a tree trunk, connected by glowing lines"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trước khi vẽ, Kaku quy ước vài ký hiệu để bạn dễ theo dõi."
+      },
+      "image_prompt": "a legend box drawn in the corner of a large sheet with small symbols",
+      "chapter": "Cách đọc cây của Kaku",
+      "on_screen_text": "Ký hiệu"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Đường liền là quan hệ huyết thống. Đường chấm là chuyển thế, khi chakra hay linh hồn của một người được cho là tái sinh ở người khác."
+      },
+      "image_prompt": "a solid line and a dotted line drawn side by side with small labels"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Kaku còn thêm hai loại nhánh đặc biệt: nhánh ghép, khi một phần sức mạnh của gia tộc này được cấy vào người khác, và nhánh bị mất, những dòng họ gần như đã biến mất."
+      },
+      "image_prompt": "a grafted branch tied with cloth and a broken branch lying on the ground",
+      "on_screen_text": "Nhánh ghép · Nhánh mất"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Kaku ghi chú: cây phả hệ Naruto khá rối, nên nếu bạn thấy chóng mặt, hãy tạm dừng video và nhìn lại sơ đồ nhé."
+      },
+      "image_prompt": "the owl mascot spinning slightly dizzy in front of a complicated tree diagram",
+      "use_mascot": true
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Ở tận gốc là một cái cây khổng lồ gọi là Thần thụ. Truyện kể rằng cứ nghìn năm, cây này kết một trái duy nhất, chứa nguồn năng lượng mà sau này người ta gọi là chakra."
+      },
+      "image_prompt": "a gigantic otherworldly tree with roots like mountains, a single glowing fruit at its top",
+      "chapter": "Gốc cây: Thần thụ và trái chakra",
+      "on_screen_text": "Thần thụ"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Thời đó, con người chưa có chakra. Không có nhẫn thuật, không có ninja. Chiến tranh diễn ra bằng gươm giáo và sức người."
+      },
+      "image_prompt": "an ancient battlefield of ordinary soldiers with spears, a giant tree visible on the horizon"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Rồi một người phụ nữ ăn trái cây đó, và trở thành người đầu tiên có chakra trên thế giới. Từ đây, mọi thứ bắt đầu."
+      },
+      "image_prompt": "a woman's silhouette holding a glowing fruit, light spreading from her hands",
+      "on_screen_text": "Người đầu tiên có chakra"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Về sau, truyện tiết lộ người phụ nữ ấy thuộc một tộc từ ngoài hành tinh, đến Trái Đất để lấy trái của Thần thụ. Tộc đó tên là Otsutsuki."
+      },
+      "image_prompt": "a starry sky with a faint path of light descending toward a single tree on Earth",
+      "on_screen_text": "Tộc Otsutsuki"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và vì chakra bắt nguồn từ một trái cây bị lấy cắp khỏi Thần thụ, nên theo một nghĩa nào đó, mọi ninja đều thừa hưởng một thứ vốn không thuộc về loài người."
+      },
+      "image_prompt": "a single glowing seed passed down through many hands across generations"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Kaku ghi chú: vậy nên gốc của cây phả hệ không nằm trên Trái Đất. Nó nằm ở đâu đó giữa các vì sao."
+      },
+      "image_prompt": "the owl mascot looking up at the stars through a small telescope",
+      "use_mascot": true
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Người phụ nữ đó tên là Kaguya Otsutsuki. Với sức mạnh của chakra, bà chấm dứt chiến tranh và được tôn thờ như một nữ thần."
+      },
+      "image_prompt": "a pale ethereal goddess figure standing above kneeling crowds, war banners lowered",
+      "chapter": "Thân cây: Kaguya",
+      "on_screen_text": "Kaguya"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Nhưng quyền lực tuyệt đối dần biến bà thành một người cai trị đáng sợ. Bà coi con người chỉ là thứ để dùng."
+      },
+      "image_prompt": "a cold figure on a high throne looking down at tiny people in a vast hall"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Bà có hai người con trai, được sinh ra đã mang chakra. Họ là hai nhánh lớn đầu tiên của cây phả hệ."
+      },
+      "image_prompt": "a tree trunk splitting into two large branches, each glowing with a different color",
+      "on_screen_text": "Hai người con"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Cuối cùng, Kaguya hợp nhất với Thần thụ, trở thành một con quái vật khổng lồ gọi là Thập vĩ. Hai người con phải chiến đấu với chính mẹ mình."
+      },
+      "image_prompt": "a colossal ten-tailed shadow rising from a giant tree, two small figures standing before it",
+      "on_screen_text": "Thập vĩ"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Họ phong ấn bà vào một khối đá khổng lồ và đưa nó lên bầu trời. Theo truyện, khối đá đó chính là Mặt Trăng."
+      },
+      "image_prompt": "a giant sphere of rock rising into the night sky, becoming the moon",
+      "on_screen_text": "Mặt Trăng",
+      "video_prompt": "the giant sphere of rock lifts into the night sky and becomes the moon, slow tilt up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Người con cả là Hagoromo, sau này được gọi là Lục đạo tiên nhân, người sáng lập ninshu, tiền thân của nhẫn thuật. Ông muốn dùng chakra để kết nối con người với nhau."
+      },
+      "image_prompt": "an elderly sage with a staff standing on a hill, lines of light connecting people below",
+      "chapter": "Hai nhánh lớn: Hagoromo và Hamura",
+      "on_screen_text": "Hagoromo: Lục đạo tiên nhân"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Hagoromo đã chia chakra của Thập vĩ thành chín vĩ thú mà Kaku nói ở video mười hiểu lầm. Ông là người đặt tên cho từng con."
+      },
+      "image_prompt": "an elderly sage surrounded by nine small glowing creatures in a circle"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Người con thứ hai là Hamura. Sau trận chiến, ông cùng một phần dòng tộc chuyển lên Mặt Trăng để canh giữ người mẹ bị phong ấn."
+      },
+      "image_prompt": "a calm figure standing on the surface of the moon, looking down at the Earth",
+      "on_screen_text": "Hamura: lên Mặt Trăng"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Từ đây, cây phả hệ chia làm hai nửa: nửa của Hagoromo ở lại Trái Đất, nửa của Hamura có một phần ở Mặt Trăng và một phần ở lại Trái Đất."
+      },
+      "image_prompt": "a tree diagram with two main branches, one reaching toward a moon drawn at the top"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku ghi chú: nhớ nhánh Hamura nhé. Nó ít được nhắc tới, nhưng sẽ gặp lại nhánh Hagoromo ở cuối cây phả hệ theo một cách rất đẹp."
+      },
+      "image_prompt": "the owl mascot tying a small ribbon on one branch as a reminder",
+      "use_mascot": true
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Những người thuộc dòng của Hamura ở lại Trái Đất trở thành tổ tiên của gia tộc Hyuga, những người sở hữu đôi mắt nhìn xuyên vật thể gọi là Byakugan."
+      },
+      "image_prompt": "a traditional estate with a pale-eyed family crest, calm figures practicing martial arts in the courtyard",
+      "chapter": "Nhánh Hamura: Hyuga và Mặt Trăng",
+      "on_screen_text": "Gia tộc Hyuga"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Đôi mắt đó thật ra thừa hưởng từ chính Kaguya. Nên Hyuga là một trong những nhánh gần gốc nhất của cây phả hệ."
+      },
+      "image_prompt": "a thin glowing line connecting a family crest back to the tree's trunk"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Phần dòng tộc lên Mặt Trăng thì sống ở đó hàng nghìn năm. Phim The Last cho thấy hậu duệ cuối cùng của họ trên Mặt Trăng."
+      },
+      "image_prompt": "a lonely palace on the moon surface with empty halls and a single figure",
+      "on_screen_text": "Nhánh trên Mặt Trăng"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Trong gia tộc Hyuga còn có một luật khắc nghiệt: chia thành nhà chính và nhà phụ, người nhà phụ bị đóng một dấu ấn để bảo vệ nhà chính. Đó là nguồn gốc nỗi đau của một nhân vật mà Kaku đã nhắc ở video trước."
+      },
+      "image_prompt": "two branches of a family seated apart, one with a faint seal mark on their foreheads"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Gia tộc Hyuga còn có một phong cách chiến đấu riêng, dùng đôi mắt để nhìn thấy các điểm huyệt chakra trong cơ thể đối thủ và đánh thẳng vào đó."
+      },
+      "image_prompt": "a martial artist striking precise points on a training dummy covered in a faint network of glowing lines"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Kaku ghi chú: một cây phả hệ không chỉ truyền sức mạnh, mà còn truyền cả những luật lệ và nỗi đau."
+      },
+      "image_prompt": "the owl mascot looking sadly at a branch with a small chain around it",
+      "use_mascot": true
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Quay lại nhánh Hagoromo. Ông có hai người con trai, và cuộc chiến giữa họ là nguồn gốc của mọi xung đột trong Naruto."
+      },
+      "image_prompt": "an elderly sage with two young sons standing on either side of him",
+      "chapter": "Hai nhánh của Hagoromo: Indra và Asura",
+      "on_screen_text": "Indra và Asura"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Người anh là Indra, thiên tài bẩm sinh, thừa hưởng đôi mắt và sức mạnh tinh thần của cha. Anh tin rằng sức mạnh là thứ để đạt mục tiêu."
+      },
+      "image_prompt": "a sharp-eyed young man mastering a technique effortlessly while others watch in awe"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Người em là Asura, không có tài năng nổi bật, nhưng thừa hưởng thể chất và nguồn sống mạnh mẽ. Anh mạnh lên nhờ nỗ lực và nhờ những người giúp đỡ mình."
+      },
+      "image_prompt": "a warm young man working alongside villagers, lifting logs together"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Hagoromo chọn Asura làm người kế thừa. Indra không chấp nhận, và hai anh em trở thành kẻ thù. Mối thù đó kéo dài qua hàng trăm năm."
+      },
+      "image_prompt": "two brothers turning their backs on each other, a crack running across the ground between them",
+      "on_screen_text": "Mối thù bắt đầu"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Từ Indra sinh ra gia tộc Uchiha. Từ Asura sinh ra gia tộc Senju, và cả gia tộc Uzumaki, họ hàng xa của Senju."
+      },
+      "image_prompt": "the branch splitting again: one side labeled with one crest, the other with two more crests",
+      "on_screen_text": "Uchiha · Senju · Uzumaki"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là thứ Kaku đã nhắc ở hiểu lầm số mười trong video trước. Giờ bạn thấy nó nằm ở đâu trên cây."
+      },
+      "image_prompt": "the owl mascot pointing at the fork where two branches separate",
+      "use_mascot": true
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhánh Uchiha nổi tiếng với đôi mắt Sharingan, và với một đặc điểm đau lòng: sức mạnh của họ mạnh lên cùng với cảm xúc, đặc biệt là nỗi đau mất mát."
+      },
+      "image_prompt": "a family crest above a dark estate at night",
+      "chapter": "Nhánh Uchiha",
+      "on_screen_text": "Uchiha"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Những cái tên lớn nhất của nhánh này gồm Madara, người đồng sáng lập làng Lá rồi trở thành kẻ thù của nó, Itachi, người anh diệt tộc vì nhiệm vụ, và Sasuke, người cuối cùng còn lại."
+      },
+      "image_prompt": "three silhouettes on branches of the same limb: a warrior, a quiet older brother and a young avenger"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku đã phân tích sự tiến hóa của Sharingan và cái giá của nó ở video số tám. Ở đây chỉ cần nhớ: nhánh này mang trong mình tinh thần của Indra."
+      },
+      "image_prompt": "the owl mascot tapping a small red eye diagram pinned to the branch",
+      "on_screen_text": "Xem video số 8"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Nhánh Uchiha gần như bị cắt đứt sau cuộc thảm sát, chỉ còn lại rất ít người sống sót."
+      },
+      "image_prompt": "a nearly bare branch with only a couple of leaves left, fallen leaves below it",
+      "on_screen_text": "Gần như bị cắt đứt"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Gia tộc Uchiha cũng từng là một trong hai trụ cột sáng lập làng Lá cùng Senju. Nhưng sự nghi kỵ giữa hai bên kéo dài nhiều thế hệ, dẫn tới việc Uchiha dần bị đẩy ra rìa."
+      },
+      "image_prompt": "two founders shaking hands at a village gate, then a later image of a walled clan district at the edge of the village"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kaku ghi chú: một gia tộc mạnh nhất lại gần như biến mất. Cây phả hệ Naruto đầy những nhánh như vậy."
+      },
+      "image_prompt": "the owl mascot holding a single fallen leaf carefully",
+      "use_mascot": true
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Nhánh Senju nổi tiếng với thể chất mạnh mẽ và nguồn chakra dồi dào, cùng khả năng dùng nhiều loại nhẫn thuật."
+      },
+      "image_prompt": "a family crest of a stylized tree above a large wooden house in a forest",
+      "chapter": "Nhánh Senju",
+      "on_screen_text": "Senju"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Người nổi bật nhất là Hashirama, Hokage đệ nhất và người sáng lập làng Lá, cùng với đối thủ kiêm bạn cũ Madara."
+      },
+      "image_prompt": "two young men sitting by a river skipping stones, a future village drawn faintly behind them",
+      "on_screen_text": "Hashirama"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Hashirama có năng lực mộc độn, tạo ra cả một khu rừng bằng chakra. Em trai ông, Tobirama, là Hokage đệ nhị và người sáng tạo nhiều kỹ thuật nổi tiếng."
+      },
+      "image_prompt": "a vast forest sprouting from the ground in seconds, a figure with arms outstretched in the center",
+      "video_prompt": "trees burst upward from the ground in seconds around the central figure, leaves swirling, slow crane up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Cháu gái của Hashirama là Tsunade, Hokage đệ ngũ và là một trong những ninja y thuật giỏi nhất."
+      },
+      "image_prompt": "a strong confident woman healing a wounded ninja with glowing green hands",
+      "on_screen_text": "Tsunade"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ý tưởng lớn nhất của Hashirama là lập ra một ngôi làng nơi các gia tộc không còn giết nhau. Làng Lá chính là cách ông cố chấm dứt mối thù từ thời Indra và Asura."
+      },
+      "image_prompt": "several clan banners placed together under one large leaf-shaped symbol at a village gate"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Về sau, nhánh Senju dần hòa vào làng Lá, không còn là một gia tộc riêng biệt mạnh mẽ như trước."
+      },
+      "image_prompt": "a branch blending into a larger tree labeled with a leaf-shaped symbol"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Nhánh Uzumaki là họ hàng xa của Senju. Họ nổi tiếng với sinh lực mạnh mẽ, sống lâu, và đặc biệt giỏi thuật phong ấn."
+      },
+      "image_prompt": "a swirling spiral crest on a banner above a seaside village",
+      "chapter": "Nhánh Uzumaki",
+      "on_screen_text": "Uzumaki"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Họ từng có làng riêng, và có quan hệ thân thiết với làng Lá. Vợ của Hokage đệ nhất cũng là người nhà Uzumaki."
+      },
+      "image_prompt": "a bridge across the sea connecting a spiral-crested village with a leaf-crested village"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Nhờ sinh lực mạnh, người Uzumaki thường được chọn làm nhân trụ lực, người mang vĩ thú trong mình. Mẹ của Naruto là một trong số đó."
+      },
+      "image_prompt": "a woman with chains of light protecting a baby wrapped in cloth",
+      "on_screen_text": "Nhân trụ lực"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Naruto mang họ của mẹ, Uzumaki, dù cha cậu là Hokage đệ tứ. Nhờ vậy, cậu thuộc về nhánh của Asura qua dòng máu Uzumaki."
+      },
+      "image_prompt": "a family photo sketch: a smiling father, a laughing mother and a baby between them"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Thuật phong ấn của Uzumaki mạnh đến mức ngay cả vĩ thú mạnh nhất cũng có thể bị giam giữ trong một con người. Đó vừa là món quà, vừa là gánh nặng của gia tộc."
+      },
+      "image_prompt": "intricate glowing seal patterns spiraling across a scroll, a giant shadow contained within them"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku ghi chú: nhiều người không để ý, nhưng cái tên Uzumaki mang nghĩa xoáy nước, và biểu tượng xoắn ốc xuất hiện khắp nơi trong làng Lá."
+      },
+      "image_prompt": "the owl mascot pointing at a spiral symbol on the back of a vest hanging on a hook",
+      "use_mascot": true
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Giờ tới đường chấm trên cây: chuyển thế. Truyện tiết lộ chakra của Indra và Asura không mất đi, mà tái sinh qua nhiều thế hệ."
+      },
+      "image_prompt": "dotted glowing lines looping from old branches to new leaves across generations",
+      "chapter": "Chuyển thế: những chiếc lá quay về",
+      "on_screen_text": "Chuyển thế"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Chakra của Indra tái sinh ở Madara, rồi ở Sasuke. Chakra của Asura tái sinh ở Hashirama, rồi ở Naruto."
+      },
+      "image_prompt": "two dotted lines: one linking three dark silhouettes, the other linking three warm silhouettes",
+      "on_screen_text": "Indra → Madara → Sasuke"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Nên mỗi thế hệ, cuộc chiến giữa hai anh em lại lặp lại dưới những cái tên khác: Madara và Hashirama bên bờ sông, rồi Sasuke và Naruto ở thung lũng tận cùng."
+      },
+      "image_prompt": "two pairs of rivals fighting at the same waterfall valley in two different eras",
+      "video_prompt": "the waterfall valley shifts between two eras as the rival pairs clash, water spraying, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Và vòng lặp đó chỉ kết thúc khi Naruto và Sasuke, sau trận chiến cuối cùng, hiểu và chấp nhận nhau."
+      },
+      "image_prompt": "two exhausted young men lying side by side on broken rocks, both smiling faintly",
+      "on_screen_text": "Vòng lặp kết thúc"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là chỗ cây phả hệ biến thành một câu chuyện. Không chỉ là ai sinh ra ai, mà là thù hận được truyền lại thế nào, và được cắt đứt thế nào."
+      },
+      "image_prompt": "the owl mascot cutting a dark dotted line with small scissors",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Một đặc điểm kỳ lạ của cây phả hệ Naruto là rất nhiều nhánh ghép: sức mạnh của gia tộc này được cấy vào người của gia tộc khác."
+      },
+      "image_prompt": "a gardener grafting a branch onto a different tree, tying it with cloth",
+      "chapter": "Nhánh ghép: tế bào và đôi mắt",
+      "on_screen_text": "Nhánh ghép"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Tế bào của Hashirama được dùng trong nhiều thí nghiệm bí mật, cấy vào những người khác để họ có được một phần sức mạnh của ông, kể cả khả năng mộc độn."
+      },
+      "image_prompt": "a dim laboratory with glass tanks and a small sprouting tree growing from a sample dish"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Đôi mắt Sharingan cũng được cấy sang người ngoài tộc Uchiha. Một ninja của làng Lá mang một con mắt như vậy từ người bạn thân đã hy sinh."
+      },
+      "image_prompt": "a ninja with one eye hidden in deep shadow, a faint red glow within it"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Có những kẻ còn cố ghép cả sức mạnh của Senju lẫn Uchiha vào một cơ thể, để có được thứ mà Lục đạo tiên nhân từng có."
+      },
+      "image_prompt": "two different glowing branches forced together onto one trunk, cracks appearing at the joint"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kaku ghi chú: những nhánh ghép cho thấy một mặt tối của thế giới ninja: sức mạnh bị coi như tài sản, có thể cắt ra và cấy vào."
+      },
+      "image_prompt": "the owl mascot frowning at a jar labeled with a leaf icon",
+      "use_mascot": true
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Cây phả hệ nào cũng có những nhánh bị gãy. Và trong Naruto, có rất nhiều."
+      },
+      "image_prompt": "a large tree with several broken branches lying on the ground beneath it",
+      "chapter": "Những nhánh bị mất",
+      "on_screen_text": "Nhánh bị mất"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Làng của gia tộc Uzumaki bị hủy diệt trong chiến tranh, vì các làng khác sợ sức mạnh phong ấn của họ. Người Uzumaki còn sống phải tản mát khắp nơi."
+      },
+      "image_prompt": "a ruined seaside village with a broken spiral banner fluttering in the wind"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Gia tộc Uchiha gần như bị xóa sổ trong một đêm. Và nhánh Hamura trên Mặt Trăng chỉ còn lại một người cuối cùng."
+      },
+      "image_prompt": "an empty clan district at night and a lonely palace on the moon side by side"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku ghi chú: điều buồn nhất là phần lớn những nhánh này không mất vì thiên tai, mà vì con người sợ nhau. Đây cũng là chủ đề mà Naruto luôn quay lại."
+      },
+      "image_prompt": "the owl mascot planting a small sapling next to a broken branch",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Trước khi nhìn lên ngọn cây, Kaku trả lời nhanh vài câu hỏi về họ hàng mà nhiều người thắc mắc."
+      },
+      "image_prompt": "a small signboard at the base of the tree with question cards pinned to it",
+      "chapter": "Hỏi nhanh về họ hàng",
+      "on_screen_text": "Hỏi nhanh"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hỏi: Tsunade có họ hàng với Naruto không? Đáp: có, dù khá xa. Bà nội của Tsunade là người nhà Uzumaki, vợ của Hokage đệ nhất. Nên Tsunade có dòng máu Uzumaki, giống mẹ của Naruto."
+      },
+      "image_prompt": "two silhouettes, an older woman and a young man, connected by a thin spiral-patterned thread",
+      "on_screen_text": "Tsunade và Naruto"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Hỏi: Uchiha và Hyuga có liên quan không? Đáp: rất xa, qua Kaguya. Uchiha đi từ Hagoromo, Hyuga đi từ Hamura. Đôi mắt của cả hai đều có gốc từ bà."
+      },
+      "image_prompt": "two eye symbols on distant branches both tracing thin lines back to the trunk"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Hỏi: Uchiha và Senju có phải kẻ thù truyền kiếp? Đáp: đúng, và nguồn gốc là hai anh em Indra và Asura. Nói cách khác, hai gia tộc thù nhau nhất lại là anh em họ xa."
+      },
+      "image_prompt": "two warriors facing off, their shadows forming two brothers holding hands as children",
+      "on_screen_text": "Kẻ thù là anh em họ"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Hỏi: vì sao Naruto và Sasuke mạnh vượt trội so với bạn cùng lứa? Đáp: một phần vì chuyển thế và dòng máu, nhưng phần lớn là vì những năm tháng luyện tập và những trận chiến sinh tử."
+      },
+      "image_prompt": "two young men training under a waterfall in different styles"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kaku ghi chú: làng Lá thật ra giống một đại gia đình, chỉ là mọi người không biết mình là họ hàng của nhau."
+      },
+      "image_prompt": "the owl mascot drawing tiny lines between houses in a village sketch",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Và giờ tới phần đẹp nhất của cây phả hệ: ngọn cây, nơi các nhánh tưởng như xa nhau lại gặp lại nhau."
+      },
+      "image_prompt": "the top of a tall tree where several branches intertwine and bloom with flowers",
+      "chapter": "Ngọn cây: thế hệ mới",
+      "on_screen_text": "Ngọn cây"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Naruto, mang dòng máu Uzumaki thuộc nhánh Asura, kết hôn với Hinata, người nhà Hyuga thuộc nhánh Hamura. Hai nhánh đã tách nhau từ thời hai người con của Kaguya, giờ nhập lại."
+      },
+      "image_prompt": "two branches from opposite sides of the tree curving toward each other and joining",
+      "on_screen_text": "Nhánh Hagoromo gặp nhánh Hamura",
+      "video_prompt": "the two branches curve toward each other and join as blossoms open along them, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Con của họ mang trong mình cả hai dòng máu. Truyện Boruto cho thấy chúng thừa hưởng những đôi mắt đặc biệt từ phía mẹ."
+      },
+      "image_prompt": "two children standing under a blooming branch, one with a faint pale glow in their eyes"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Sasuke, người cuối cùng của nhánh Uchiha, cũng lập gia đình, và con gái của anh mang trong mình Sharingan. Nhánh tưởng như đã chết lại đâm chồi."
+      },
+      "image_prompt": "a nearly bare branch sprouting a single fresh green leaf",
+      "on_screen_text": "Nhánh Uchiha đâm chồi"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku ghi chú: cây phả hệ bắt đầu bằng một người mẹ và hai người con chống lại nhau. Nó kết thúc, ít nhất là trong Naruto, bằng những gia đình hòa hợp."
+      },
+      "image_prompt": "the owl mascot sitting on the top branch among blossoms, smiling",
+      "use_mascot": true
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nhìn toàn bộ cây phả hệ, Kaku thấy Naruto dùng dòng máu như một cách kể về lịch sử thù hận."
+      },
+      "image_prompt": "the owl mascot stepping back to look at the whole tree drawing on the wall",
+      "chapter": "Góc nhìn của Kaku: cây và vòng lặp thù hận",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Từ Kaguya tới hai người con, từ Indra tới Asura, từ Madara tới Hashirama, mỗi thế hệ đều thừa hưởng không chỉ sức mạnh mà cả mối thù."
+      },
+      "image_prompt": "a long chain of rival pairs drawn along a tree trunk, each pair facing each other"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Nhưng câu trả lời của truyện không phải là dòng máu quyết định tất cả. Naruto phá vỡ vòng lặp không phải vì cậu mạnh nhất, mà vì cậu chọn thấu hiểu thay vì trả thù."
+      },
+      "image_prompt": "a young man extending a hand across a chasm toward a rival on the other side"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Kaku nghĩ đó là thông điệp đẹp nhất: ta không chọn được cây mà mình mọc ra, nhưng ta chọn được mình sẽ trổ ra loại hoa nào."
+      },
+      "image_prompt": "a single flower blooming on a branch that grew from a scarred part of the trunk"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Tổng kết cây phả hệ. Gốc là Thần thụ và tộc Otsutsuki từ ngoài vũ trụ. Thân là Kaguya, người đầu tiên có chakra."
+      },
+      "image_prompt": "the complete tree diagram with the root and trunk lighting up",
+      "chapter": "Cây hoàn chỉnh",
+      "on_screen_text": "Gốc · Thân"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Hai nhánh lớn: Hagoromo ở lại Trái Đất, Hamura với nhánh Hyuga và nhánh trên Mặt Trăng. Từ Hagoromo tách ra Indra với Uchiha, và Asura với Senju cùng Uzumaki."
+      },
+      "image_prompt": "the main branches lighting up with their family crests",
+      "on_screen_text": "Các nhánh lớn"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Đường chấm là chuyển thế từ Indra, Asura tới Madara, Hashirama, rồi Sasuke, Naruto. Và ở ngọn, các nhánh gặp lại nhau trong thế hệ mới."
+      },
+      "image_prompt": "dotted lines glowing across the tree and blossoms appearing at the top",
+      "on_screen_text": "Chuyển thế · Thế hệ mới"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu được sinh ra trong một gia tộc ninja, bạn muốn thuộc nhánh nào? Uchiha, Senju, Uzumaki hay Hyuga?"
+      },
+      "image_prompt": "the owl mascot holding up four small family crests like cards",
+      "on_screen_text": "Bạn thuộc nhánh nào?",
+      "use_mascot": true
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Video tới là video số ba mươi, và Kaku sẽ làm một việc đặc biệt: đặt ba thế giới phép thuật lên cùng một bàn cân: Frieren, Black Clover và Witch Hat Atelier."
+      },
+      "image_prompt": "three different magic books side by side on a table under warm light",
+      "chapter": "Kết",
+      "on_screen_text": "Tiếp theo: so sánh 3 hệ phép thuật"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Đăng ký kênh để không bỏ lỡ nhé. Kaku cuộn tấm giấy phả hệ lại đây. Hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up a large sheet with a tree drawing and waving",
+      "use_mascot": true
+    }
+  ]
+}
