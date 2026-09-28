@@ -1,7 +1,7 @@
 # Brief — Naruto: Sharingan tiến hóa thế nào? Từ 1 tomoe đến Rinnegan
 
 - **Anime:** Naruto / Naruto Shippuden (manga Kishimoto Masashi; anime Pierrot)
-- **Dạng video:** Tiến hóa theo cấp
+- **Dạng video:** G · Bậc thang tiến hóa (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Sharingan tiến hóa qua những nấc nào, và mỗi nấc phải trả cái giá gì?
 - **Mức spoiler:** Đến hết Đại chiến Ninja lần thứ tư
 - **Độ dài mục tiêu:** 15–20 phút.

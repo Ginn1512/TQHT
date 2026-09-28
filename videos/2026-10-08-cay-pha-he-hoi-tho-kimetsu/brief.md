@@ -1,7 +1,7 @@
 # Brief — Kimetsu no Yaiba: Cây phả hệ các kiểu Hơi thở
 
 - **Anime:** Kimetsu no Yaiba (manga Gotouge Koyoharu; anime ufotable)
-- **Dạng video:** Cây phả hệ
+- **Dạng video:** D · Cây phả hệ (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Các kiểu hơi thở bắt nguồn từ đâu và liên quan với nhau thế nào?
 - **Mức spoiler:** Đến hết manga (có arc Vô Hạn Thành)
 - **Độ dài mục tiêu:** 15–20 phút.

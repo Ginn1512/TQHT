@@ -1,7 +1,7 @@
 # Brief — Jujutsu Kaisen: Bành trướng lãnh địa hoạt động thế nào?
 
 - **Anime:** Jujutsu Kaisen (manga Gege Akutami; anime MAPPA)
-- **Dạng video:** Giải thích + luật đấu
+- **Dạng video:** B · Luật chơi và cách phá (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Vì sao lãnh địa là 'tất sát' và làm sao để sống sót trong lãnh địa?
 - **Mức spoiler:** Đến arc Trò chơi tử thần (đang chiếu)
 - **Độ dài mục tiêu:** 15–20 phút.

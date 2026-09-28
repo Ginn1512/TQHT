@@ -1,7 +1,7 @@
 # Brief — Chakra vs Nen vs Chú lực: Hệ thống sức mạnh nào chặt chẽ nhất?
 
 - **Anime:** Naruto, Hunter x Hunter, Jujutsu Kaisen
-- **Dạng video:** So sánh chéo (chấm điểm 6 tiêu chí)
+- **Dạng video:** I · So sánh chéo có chấm điểm (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Trong ba hệ thống sức mạnh nổi tiếng, hệ nào được thiết kế chặt chẽ nhất?
 - **Mức spoiler:** Naruto đến hết Đại chiến; HxH đến arc Kiến Chimera; JJK đến arc Trò chơi tử thần
 - **Độ dài mục tiêu:** 15–20 phút.

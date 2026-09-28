@@ -1,7 +1,7 @@
 # Brief — Solo Leveling: Hệ thống cấp bậc thợ săn và cổng hoạt động thế nào?
 
 - **Anime:** Solo Leveling (webnovel Chugong; anime A-1 Pictures)
-- **Dạng video:** Giải thích + xếp hạng
+- **Dạng video:** F · Bảng chỉ số kiểu game (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Cổng và hạng thợ săn vận hành ra sao, và vì sao Jinwoo phá vỡ được luật đó?
 - **Mức spoiler:** Đến hết anime mùa 2 (arc đảo Jeju)
 - **Độ dài mục tiêu:** 15–20 phút.

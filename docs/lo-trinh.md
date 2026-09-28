@@ -2,7 +2,7 @@
 
 > Bản chính của lộ trình. Bản xem trên điện thoại: https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f
 > Khi cập nhật file này, cập nhật cả trang đó.
-> Cập nhật lần cuối: 2026-09-28.
+> Cập nhật lần cuối: 2026-09-28 (thêm 30 chủ đề, danh mục dạng video, kịch bản 12–30).
 
 ## Mục tiêu và quyết định đã chốt
 
@@ -17,16 +17,18 @@ Một kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, đ�
 ## Trạng thái
 
 - [x] 30 skill ECC trong repo
-- [x] Công cụ Python (`tools/`), 47 test đạt
-- [x] Skill `/yt-analyzer` và `/yt-studio`
+- [x] Công cụ Python (`tools/`), 61 test đạt; thêm `plan_check` (luật dạng video + độ dài) và `prompt_check` (quét tên riêng trong prompt)
+- [x] Skill `/yt-analyzer`, `/yt-research`, `/yt-studio`, `/yt-seedance`
 - [x] Clip demo dựng thử
 - [x] `channel/profile.md` bản sơ bộ (từ tìm kiếm web, chưa có lời thoại video)
+- [x] Nghiên cứu ngách 2026 và nhật ký học hỏi (`channel/references/`)
+- [x] Danh mục 18 dạng video (`channel/formats.md`) và 30 chủ đề (`channel/topics.md`)
+- [x] Kịch bản video 1–30, mỗi video 15,3–16,2 phút, dùng 17 dạng khác nhau (`docs/ke-hoach-noi-dung.md`)
 - [ ] Cài `TRANSCRIPT_API_KEY`, `GEMINI_API_KEY`, mở kết nối `transcriptapi.com` — xem [hướng dẫn có hình](https://claude.ai/artifact/CLeMBD8BXXfBLhcVfbzT6S)
 - [ ] Phân tích 5 kênh mẫu bằng dữ liệu thật, chốt profile
-- [x] Video 1 chuẩn bị xong: brief, kịch bản 16 phút, 104 cảnh (`videos/2026-09-28-nen-hunter-x-hunter/`)
-- [ ] Video 1: kiểm lại nguồn, tạo giọng + ảnh, dựng, đăng (cần key)
-- [x] Kịch bản video 2–11 (15,3–16 phút mỗi video), xem `docs/ke-hoach-noi-dung.md`
-- [ ] Video 2–11: kiểm nguồn, tạo giọng + ảnh, dựng, đăng
+- [ ] Kiểm lại nguồn trong `brief.md` của 30 video
+- [ ] Video 1: tạo giọng + ảnh, dựng, đăng (cần key)
+- [ ] Video 2–30: tạo giọng + ảnh, dựng, đăng theo lịch (2 video/tuần từ tháng 11)
 - [ ] Thêm bản lồng tiếng Anh + Bồ Đào Nha
 - [ ] Thêm Hindi + Trung, Shorts
 - [ ] YPP: 1.000 người đăng ký + 4.000 giờ xem
@@ -37,7 +39,7 @@ Một kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, đ�
 |---|---|---|
 | Cài đặt và phân tích | Tuần 1 | Cài 2 key, phân tích 5 kênh mẫu, chốt hồ sơ kênh |
 | 3 video thử | Tuần 2–4 | Chỉ tiếng Việt; đo chi phí và thời gian thật |
-| Nhịp đều + lồng tiếng | Tháng 2 | 2 video/tuần; thêm Anh, Bồ Đào Nha; đọc số liệu hằng tuần |
+| Nhịp đều + lồng tiếng | Tháng 2–4 | 2 video/tuần (video 12–30); thêm Anh, Bồ Đào Nha; đọc số liệu hằng tuần; chạy `/yt-research` trước mỗi đợt |
 | Mở rộng | Tháng 3 | Thêm Hindi, Trung phồn thể; cắt Shorts từ video dài |
 | Tăng trưởng tới YPP | Tháng 4–12 | 1.000 người đăng ký + 4.000 giờ xem |
 
@@ -68,4 +70,5 @@ Nếu dùng Seedance qua API, mỗi video khoảng 10,5 USD nên chỉ đủ kho
 ## Lệnh cần gõ (trong phiên mới, sau khi có key)
 
 1. `/yt-analyzer @quinquinreview @canalmangaq @hashiranosekai @meoluoilongtieng @mikoreview-f6t` — khoảng 50 credit.
-2. `/yt-studio` — video 1, khoảng 3,6 USD, có bước chờ duyệt.
+2. `/yt-research` — cập nhật số liệu kênh tham khảo và nhật ký học hỏi.
+3. `/yt-studio` — video 1, khoảng 3,6 USD, có bước chờ duyệt.

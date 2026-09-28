@@ -1,7 +1,7 @@
 # Brief — One Piece: Haki hoạt động thế nào? 3 loại và bí mật bá vương
 
 - **Anime:** One Piece (manga Oda Eiichiro; anime Toei)
-- **Dạng video:** Giải thích hệ thống
+- **Dạng video:** A · Giải thích hệ thống (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Haki là gì, 3 loại khác nhau ra sao, và vì sao Haki bá vương phủ lên đòn đánh là đỉnh cao?
 - **Mức spoiler:** Đến hết arc Wano
 - **Độ dài mục tiêu:** 15–20 phút.

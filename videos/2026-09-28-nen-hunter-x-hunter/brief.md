@@ -1,6 +1,7 @@
 # Brief — Video 1: Nen hoạt động thế nào?
 
 - **Anime:** Hunter x Hunter (manga của Togashi Yoshihiro, anime 2011).
+- **Dạng video:** A · Giải thích hệ thống (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Vì sao Gon mất hết Nen sau trận với Pitou? Để trả lời, giải thích toàn bộ luật Nen: khí, 4 nguyên tắc, kỹ năng nâng cao, 6 hệ, bói nước, năng lực riêng (Hatsu) và "giới hạn và giao ước".
 - **Góc nhìn:** giải mã hệ thống sức mạnh bằng sơ đồ (hình lục giác 6 hệ, bảng phần trăm, sơ đồ giao ước).
 - **Mức spoiler:** hết arc Kiến Chimera; nhắc ngắn Emperor Time của Kurapika (arc Thừa kế). Cảnh báo ở câu đầu.

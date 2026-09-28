@@ -1,0 +1,197 @@
+# Từ cấm trong image_prompt / video_prompt (tools/prompt_check.py).
+# Mỗi dòng một từ. Mặc định khớp đúng chữ hoa/thường và nguyên từ (tránh báo nhầm "stand", "rui").
+# Dòng bắt đầu bằng "i:" thì khớp không phân biệt hoa/thường (dùng cho chi tiết thiết kế đặc trưng).
+
+# Tên nhân vật, tác giả, studio, bộ truyện
+Witch Hat
+Coco
+Qifrey
+Agott
+Tetia
+Richeh
+Brimhat
+JoJo
+Joestar
+Gyro
+Johnny
+Zeppeli
+Valentine
+Clover
+Asta
+Yuno
+Noelle
+Yami
+Julius
+Gojo
+Sukuna
+Yuji
+Itadori
+Megumi
+Nobara
+Kenjaku
+Geto
+Getou
+Dandadan
+Momo
+Okarun
+Turbo
+Kaiju
+Kafka
+Kikoru
+Hoshina
+Narumi
+Bleach
+Ichigo
+Rukia
+Byakuya
+Aizen
+Zangetsu
+Kenpachi
+Luffy
+Joy Boy
+Imu
+Roger
+Robin
+Ohara
+Gon
+Killua
+Netero
+Nanika
+Kimetsu
+Tanjiro
+Nezuko
+Rui
+Giyu
+Titan
+Eren
+Ymir
+Mikasa
+Armin
+Reiner
+Grisha
+Naruto
+Sasuke
+Kakashi
+Itachi
+Madara
+Hashirama
+Kaguya
+Hagoromo
+Indra
+Asura
+Boruto
+Goku
+Vegeta
+Gohan
+Saiyan
+Senku
+Chrome
+Tsukasa
+Xeno
+Maomao
+Jinshi
+Frieren
+Fern
+Himmel
+Zoltraak
+Dio
+Jonathan
+Joseph
+Jotaro
+Hamon
+Stand
+Uchiha
+Senju
+Uzumaki
+Otsutsuki
+Sharingan
+Rinnegan
+Byakugan
+Susanoo
+Kurama
+Paradis
+Marley
+Heian
+Tengen
+Uraume
+Shinomiya
+Ashiro
+Pokemon
+Shonen Jump
+Oda
+Togashi
+Araki
+Toriyama
+Kishimoto
+Isayama
+Gotouge
+Kubo
+Shirahama
+Tabata
+Inagaki
+Boichi
+Hyuga
+Pierrot
+MAPPA
+Toei
+Netflix
+Crunchyroll
+Hunter x Hunter
+Jujutsu
+One Piece
+Dragon Ball
+Solo Leveling
+Chainsaw Man
+Attack on Titan
+Dr. Stone
+Apothecary
+Sung Jinwoo
+Makima
+Denji
+Pochita
+Zenitsu
+Inosuke
+Shinobu
+Rengoku
+Muzan
+Levi
+Shanks
+Zoro
+Nami
+Sanji
+Kaido
+Whitebeard
+Hisoka
+Kurapika
+Leorio
+Chrollo
+Meruem
+Lisa Lisa
+Kars
+Toneri
+Hinata
+Sarada
+Minato
+Kushina
+Tsunade
+Jiraiya
+Obito
+Rock Lee
+Neji
+
+# Chi tiết thiết kế đặc trưng của nhân vật có bản quyền
+i:straw hat
+i:blindfold
+i:haori
+i:checkered
+i:top hat
+i:tomoe
+i:birthmark
+i:forehead protector
+i:whisker marks
+i:orange jumpsuit
+i:green jumpsuit
+i:x-shaped scar
+i:red-haired
+i:white-haired
+i:third eye

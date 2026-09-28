@@ -1,7 +1,7 @@
 # Brief — Frieren: Ma thuật hoạt động thế nào? Vì sao Zoltraak thành phép phổ thông
 
 - **Anime:** Sousou no Frieren (manga Yamada Kanehito, Abe Tsukasa; anime Madhouse)
-- **Dạng video:** Giải thích + lịch sử
+- **Dạng video:** C · Lịch sử / tiến hóa (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Vì sao ma pháp giết người thành phép phổ thông, và vì sao Frieren mạnh?
 - **Mức spoiler:** Đến hết arc thi pháp sư hạng nhất
 - **Độ dài mục tiêu:** 15–20 phút.

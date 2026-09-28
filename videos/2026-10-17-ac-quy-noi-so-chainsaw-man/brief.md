@@ -1,7 +1,7 @@
 # Brief — Chainsaw Man: Luật ác quỷ và nỗi sợ hoạt động thế nào?
 
 - **Anime:** Chainsaw Man (manga Fujimoto Tatsuki; anime MAPPA)
-- **Dạng video:** Giải thích luật
+- **Dạng video:** B · Luật chơi và cách phá (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Vì sao sức mạnh của quỷ đến từ nỗi sợ, khế ước vận hành ra sao, và vì sao quỷ cưa máy đặc biệt?
 - **Mức spoiler:** Đến hết phần 1 của manga
 - **Độ dài mục tiêu:** 15–20 phút.

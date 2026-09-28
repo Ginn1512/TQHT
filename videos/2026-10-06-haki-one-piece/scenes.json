@@ -93,7 +93,7 @@
       "narration": {
         "vi": "Luffy trải qua cả hai. Cậu bộc phát vô thức ở những lúc cảm xúc lên đến đỉnh, rồi sau đó luyện tập hai năm để kiểm soát nó."
       },
-      "image_prompt": "a young pirate silhouette in a straw hat training alone on a jungle island, a mentor watching from a rock"
+      "image_prompt": "a young pirate silhouette training alone on a jungle island, a mentor watching from a rock"
     },
     {
       "id": "s12",
@@ -326,7 +326,7 @@
       "narration": {
         "vi": "Thú vị hơn, Haki bá vương còn ảnh hưởng đến động vật. Những con thú hung dữ có thể phục tùng người mang khí chất vua."
       },
-      "image_prompt": "a giant beast bowing its head before a small figure in a straw hat on a jungle path"
+      "image_prompt": "a giant beast bowing its head before a small figure on a jungle path"
     },
     {
       "id": "s42",
@@ -417,7 +417,7 @@
       "narration": {
         "vi": "Và những Tứ Hoàng như Shanks là ví dụ của Haki bá vương ở mức khiến cả một đội quân ngừng thở. Chỉ sự hiện diện của họ đã là vũ khí."
       },
-      "image_prompt": "a red-haired captain silhouette stepping onto a ship deck as a wave of pressure bends the sails"
+      "image_prompt": "a calm captain silhouette stepping onto a ship deck as a wave of pressure bends the sails"
     },
     {
       "id": "s54",
@@ -589,14 +589,14 @@
       "narration": {
         "vi": "Vì vậy khi Luffy dùng Haki bá vương, đó không chỉ là một chiêu thức. Nó thể hiện ý chí không chịu khuất phục của cậu."
       },
-      "image_prompt": "a straw hat resting on a rock at sunrise, faint black lightning fading around it"
+      "image_prompt": "a weathered pirate flag resting on a rock at sunrise, faint black lightning fading around it"
     },
     {
       "id": "s76",
       "narration": {
         "vi": "Kaku thấy đây là điểm hay của One Piece: hệ thống sức mạnh và chủ đề câu chuyện là một. Hiểu Haki là hiểu tinh thần của cả bộ truyện."
       },
-      "image_prompt": "the owl mascot holding a straw hat respectfully, looking at the sea",
+      "image_prompt": "the owl mascot holding a small pirate flag respectfully, looking at the sea",
       "use_mascot": true
     },
     {

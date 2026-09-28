@@ -1,7 +1,7 @@
 # Brief — One Piece: Hồ sơ trái ác quỷ — 3 loại, thức tỉnh và bí mật của Luffy
 
 - **Anime:** One Piece (manga Oda Eiichiro; anime Toei)
-- **Dạng video:** Hồ sơ bách khoa
+- **Dạng video:** E · Hồ sơ bách khoa (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Trái ác quỷ vận hành theo luật nào, loại nào mạnh nhất, và vì sao trái của Luffy bị giấu tên?
 - **Mức spoiler:** Đến hết arc Wano
 - **Độ dài mục tiêu:** 15–20 phút.

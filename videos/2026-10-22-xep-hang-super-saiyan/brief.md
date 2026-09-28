@@ -1,7 +1,7 @@
 # Brief — Dragon Ball: Xếp hạng các dạng Super Saiyan theo sức mạnh và cái giá
 
 - **Anime:** Dragon Ball Z / Dragon Ball Super (Toriyama Akira; anime Toei)
-- **Dạng video:** Xếp hạng có tiêu chí
+- **Dạng video:** J · Xếp hạng có tiêu chí (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Các dạng biến hình của người Saiyan mạnh tới đâu, cần điều kiện gì, và phải trả giá gì?
 - **Mức spoiler:** Đến arc Kẻ sống sót trên hành tinh và phim Super Hero
 - **Độ dài mục tiêu:** 15–20 phút.

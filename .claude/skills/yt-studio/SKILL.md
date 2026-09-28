@@ -41,6 +41,7 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 - `image_prompt` (tiếng Anh):
   - Mô tả một bố cục tự nghĩ ra.
   - **Không ghi tên nhân vật hay tên anime.** Không mô tả lại trang phục hoặc kiểu tóc đặc trưng của nhân vật có bản quyền. Thay vào đó dùng nhân vật kiểu mẫu chung, bóng người, đồ vật tượng trưng, phong cảnh, hoặc cảnh sơ đồ/so sánh.
+- Chạy `python -m tools.prompt_check videos/<thư-mục>`: phải báo "không có vi phạm". Gặp tên hoặc chi tiết đặc trưng mới thì thêm vào `channel/prompt-blocklist.txt`.
 - `on_screen_text` tối đa 8 từ, ưu tiên tên riêng và con số. Chữ này được in cứng vào hình và **mọi bản lồng tiếng đều thấy**, nên đừng viết câu dài.
 - `use_mascot: true` cho mở đầu, chuyển đoạn và kết thúc (khoảng 15% số cảnh).
 - `chapter` ở 6–9 cảnh bắt đầu phần mới. Cảnh đầu tiên luôn có chapter.
