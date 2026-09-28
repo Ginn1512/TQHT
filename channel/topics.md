@@ -48,7 +48,7 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 27 | 2026-12-26 | Nhập môn: hậu cung, thuốc và độc | Dược sư tự sự (mùa 3 đang phát) | Q · Nhập môn | 5 | ? | 4 | 4 | 13 | `videos/2026-12-26-nhap-mon-duoc-su-tu-su/` | Kịch bản xong — chờ kiểm nguồn |
 | 28 | 2026-12-29 | Lịch sử từ Hamon đến Stand | JoJo | C · Lịch sử / tiến hóa | 4 | ? | 4 | 4 | 12 | `videos/2026-12-29-lich-su-hamon-stand-jojo/` | Kịch bản xong — chờ kiểm nguồn |
 | 29 | 2027-01-02 | Cây phả hệ Otsutsuki, Uchiha, Senju, Uzumaki | Naruto | D · Cây phả hệ | 4 | ? | 3 | 4 | 11 | `videos/2027-01-02-cay-pha-he-naruto/` | Kịch bản xong — chờ kiểm nguồn |
-| 30 | 2027-01-05 | Ma thuật Frieren vs Black Clover vs Witch Hat Atelier | Frieren / Black Clover / Witch Hat Atelier | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2027-01-05-so-sanh-ma-thuat-3-the-gioi/` | Chưa viết |
+| 30 | 2027-01-05 | Ma thuật Frieren vs Black Clover vs Witch Hat Atelier | Frieren / Black Clover / Witch Hat Atelier | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2027-01-05-so-sanh-ma-thuat-3-the-gioi/` | Kịch bản xong — chờ kiểm nguồn |
 
 Chi phí và chi tiết từng video: xem `docs/ke-hoach-noi-dung.md`.
 

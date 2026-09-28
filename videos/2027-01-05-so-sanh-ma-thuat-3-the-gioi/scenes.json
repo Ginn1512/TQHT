@@ -1,0 +1,744 @@
+{
+  "title": "Frieren vs Black Clover vs Witch Hat Atelier: Hệ phép thuật nào hay nhất?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler nhẹ của Frieren tới kỳ thi pháp sư hạng nhất, Black Clover tới hết anime mùa một, và Witch Hat Atelier ở mức nhập môn. Kaku đã có ba video riêng cho ba bộ này, số ba, số mười bốn và số mười hai."
+      },
+      "image_prompt": "three different magic books lying side by side on a round wooden table under warm lamplight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler nhẹ cả ba bộ"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một ngọn nến chưa thắp đặt giữa bàn. Ba pháp sư từ ba thế giới khác nhau ngồi quanh nó. Nhiệm vụ rất đơn giản: thắp ngọn nến bằng phép thuật."
+      },
+      "image_prompt": "an unlit candle in the center of a table, three shadowy mage silhouettes seated around it",
+      "on_screen_text": "Thắp một ngọn nến",
+      "video_prompt": "candlelight flickers across the three seated silhouettes as the camera slowly circles the table, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Một người sẽ vẽ. Một người sẽ mở sách. Một người sẽ nhắm mắt tưởng tượng. Ba cách làm đó nói lên toàn bộ sự khác nhau giữa ba hệ thống phép thuật."
+      },
+      "image_prompt": "three hands: one holding a pen over paper, one opening a grimoire, one resting calmly with eyes closed"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay là video số ba mươi của kênh, và Kaku tổ chức một giải đấu nhỏ: năm vòng thử thách, mỗi vòng chấm từ một tới mười điểm."
+      },
+      "image_prompt": "the owl mascot as a referee with a tiny whistle, a scoreboard with three columns behind it",
+      "on_screen_text": "5 vòng · 3 thế giới",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Ba đấu thủ: ma thuật của Frieren, ma thuật của Black Clover, và ma thuật của Witch Hat Atelier. Cuối video có kết quả, và có thể không như bạn đoán đâu."
+      },
+      "image_prompt": "three banners hanging in a small arena: one with a flower, one with a clover, one with a pointed hat",
+      "on_screen_text": "Frieren · Black Clover · Witch Hat Atelier"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trước khi thi, giới thiệu nhanh ba đấu thủ. Đấu thủ thứ nhất: Frieren. Phép thuật dựa trên ma lực và trí tưởng tượng. Muốn dùng một phép, pháp sư phải hình dung được nó thật rõ ràng."
+      },
+      "image_prompt": "a calm elf-like mage with a staff standing in a field of flowers, a spell forming from pure imagination",
+      "chapter": "Ba đấu thủ trong một phút",
+      "on_screen_text": "Frieren: tưởng tượng"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trong thế giới đó, phép thuật là một ngành nghiên cứu. Có những phép tấn công mạnh, và cũng có hàng nghìn phép nhỏ bé cho đời sống thường ngày."
+      },
+      "image_prompt": "a library of old grimoires, some thick with battle spells, others thin with everyday charms"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Đấu thủ thứ hai: Black Clover. Gần như ai cũng có ma lực. Năm mười lăm tuổi, mỗi người nhận một cuốn grimoire, và mỗi người chỉ có một thuộc tính phép như lửa, nước hay gió."
+      },
+      "image_prompt": "a teenager receiving a floating grimoire in a tall tower, elemental symbols circling around",
+      "on_screen_text": "Black Clover: grimoire + thuộc tính"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Đấu thủ thứ ba: Witch Hat Atelier. Phép thuật được vẽ ra bằng một loại mực đặc biệt, theo hình tròn ba lớp: ký hiệu trung tâm, các dấu điều khiển, và vòng tròn khép kín. Ai biết cách vẽ đều dùng được, nên nó bị giữ bí mật."
+      },
+      "image_prompt": "a glowing three-layer circle drawn in ink on a wooden floor, a pen and ink bottle beside it",
+      "on_screen_text": "Witch Hat: vẽ phép"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: một hệ dựa vào đầu óc, một hệ dựa vào cuốn sách, một hệ dựa vào ngòi bút. Giờ thì bắt đầu thi thôi!"
+      },
+      "image_prompt": "the owl mascot blowing its whistle as three small banners flutter",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Trước khi vào vòng một, trọng tài Kaku công bố luật chấm điểm, để không ai nói Kaku thiên vị."
+      },
+      "image_prompt": "the owl mascot standing at a podium with a tiny gavel and a rulebook",
+      "chapter": "Luật chấm điểm của trọng tài",
+      "on_screen_text": "Luật chấm điểm",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Mỗi vòng là một thử thách cụ thể, chấm từ một tới mười điểm cho mỗi hệ. Năm vòng cộng lại, tối đa năm mươi điểm."
+      },
+      "image_prompt": "a scoreboard with five rows and a maximum of 50 written at the bottom",
+      "on_screen_text": "Tối đa 50 điểm"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Kaku chấm hệ thống phép thuật, không chấm nhân vật mạnh nhất. Một hệ có thể có nhân vật rất mạnh, nhưng luật lại lỏng lẻo, và ngược lại."
+      },
+      "image_prompt": "two scales: one weighing a powerful character, one weighing a rulebook, the second one highlighted"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và Kaku chỉ dùng những gì đã có trong phần truyện mà ba video riêng của kênh đã giới thiệu, để không spoiler thêm."
+      },
+      "image_prompt": "three small notebooks labeled with video numbers stacked beside the scoreboard"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Có một khác biệt nền tảng giữa ba hệ mà Kaku muốn chỉ ra trước: sức mạnh nằm ở đâu?"
+      },
+      "image_prompt": "three glowing spheres labeled with icons: a person, a book, and an ink bottle",
+      "chapter": "Sức mạnh nằm ở đâu?",
+      "on_screen_text": "Sức mạnh nằm ở đâu?"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Ở Frieren, sức mạnh nằm trong chính pháp sư: lượng ma lực tích lũy qua nhiều năm và khả năng tưởng tượng. Người luyện càng lâu càng mạnh, và có thể giấu nó đi."
+      },
+      "image_prompt": "a calm mage with a faint aura that grows brighter as years pass behind her"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Ở Black Clover, sức mạnh nằm ở cả người lẫn cuốn sách: ma lực bẩm sinh quyết định nhiều thứ, và grimoire khuếch đại nó. Quý tộc thường sinh ra đã có nhiều ma lực hơn."
+      },
+      "image_prompt": "a noble with a bright aura and a commoner with a faint one, each holding a grimoire"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Còn ở Witch Hat Atelier, sức mạnh nằm phần lớn trong mực và hình vẽ. Người vẽ cần kỹ năng và kiến thức, nhưng không cần sinh ra đã mạnh. Đây là lý do nó nguy hiểm nếu lọt ra ngoài."
+      },
+      "image_prompt": "an ordinary hand drawing a powerful glowing circle with a simple pen"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kaku ghi chú: khác biệt này sẽ ảnh hưởng tới gần như mọi vòng thi phía sau. Hãy để ý nhé."
+      },
+      "image_prompt": "the owl mascot circling the ink bottle sphere on a chalkboard",
+      "use_mascot": true
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Vòng một chấm hai điều: ai dùng được phép, và luật có rõ ràng không. Thử thách là thắp ngọn nến."
+      },
+      "image_prompt": "the unlit candle in the center of the table, a small scorecard beside it",
+      "chapter": "Vòng 1: Thắp ngọn nến",
+      "on_screen_text": "Vòng 1: Phổ cập · Luật"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Pháp sư Witch Hat Atelier vẽ một ký hiệu lửa, thêm một dấu cường độ nhỏ, khép vòng tròn. Ngọn lửa nhỏ bùng lên đúng như dự tính. Luật rõ tới mức bạn có thể đoán trước kết quả."
+      },
+      "image_prompt": "a small ink circle glowing under the candle as a neat little flame appears on the wick",
+      "video_prompt": "the ink circle glows and a neat little flame blooms on the wick, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và ai học cách vẽ cũng làm được, kể cả một cô bé con nhà thợ may. Vấn đề duy nhất là kiến thức đó bị giữ bí mật. Kaku chấm chín điểm."
+      },
+      "image_prompt": "a scorecard showing 9 under a pointed hat icon",
+      "on_screen_text": "Witch Hat: 9"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Pháp sư Frieren chọn một phép lửa mình đã học, hình dung ngọn lửa thật rõ, rồi thi triển. Ngọn nến sáng lên. Nhưng luật của hệ này mềm hơn: cùng một phép, người tưởng tượng giỏi hơn sẽ dùng tốt hơn."
+      },
+      "image_prompt": "a calm mage pointing a staff at the candle, a soft flame appearing as if imagined into being"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Và muốn thành pháp sư thì phải học lâu năm, có thầy, có tài năng về ma lực. Kaku chấm bảy điểm."
+      },
+      "image_prompt": "a scorecard showing 7 under a flower icon",
+      "on_screen_text": "Frieren: 7"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Pháp sư Black Clover thì phụ thuộc vào may mắn. Nếu thuộc tính của bạn là lửa, bạn thắp ngọn nến trong một nốt nhạc. Nếu thuộc tính là nước hay gió, bạn sẽ phải đi mượn bật lửa."
+      },
+      "image_prompt": "a fire-attribute mage lighting the candle instantly while a water-attribute mage shrugs with a dripping hand"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Thật ra ở Black Clover, người không đúng thuộc tính vẫn có thể nhờ đồ vật phép hay nhờ đồng đội. Nhưng tự mình làm thì gần như không được."
+      },
+      "image_prompt": "a mage handing a small glowing lantern to a friend who cannot make fire"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Luật thuộc tính rất rõ, nhưng có nhiều ngoại lệ và nhiều phép hiếm khó đoán. Kaku chấm sáu điểm."
+      },
+      "image_prompt": "a scorecard showing 6 under a clover icon",
+      "on_screen_text": "Black Clover: 6"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Vòng hai chấm khả năng sáng tạo: một pháp sư có thể học hoặc tạo ra phép mới dễ đến đâu?"
+      },
+      "image_prompt": "a blank page in a spellbook with a question mark drawn in the center",
+      "chapter": "Vòng 2: Học một phép mới",
+      "on_screen_text": "Vòng 2: Sáng tạo"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Witch Hat Atelier gần như là hệ sáng tạo nhất Kaku từng thấy. Phép là sự kết hợp của ký hiệu và dấu. Chỉ cần sắp xếp lại, bạn có một phép hoàn toàn mới, như lắp ráp đồ chơi xếp hình."
+      },
+      "image_prompt": "puzzle-like pieces of glowing symbols being rearranged into a brand-new circle",
+      "on_screen_text": "Lắp ghép như xếp hình"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nhân vật chính của bộ này còn dùng góc nhìn của người ngoài để nghĩ ra những cách vẽ mà phù thủy lâu năm không nghĩ tới. Kaku chấm mười điểm."
+      },
+      "image_prompt": "a scorecard showing 10 under a pointed hat icon",
+      "on_screen_text": "Witch Hat: 10"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Frieren cũng rất mạnh ở vòng này. Phép thuật được nghiên cứu, phân tích và cải tiến qua nhiều thế hệ. Một phép giết người đáng sợ của ma tộc, sau vài chục năm bị phân tích, đã thành phép tấn công phổ thông."
+      },
+      "image_prompt": "scholars analyzing a dark spell diagram, then the same diagram appearing in a textbook",
+      "on_screen_text": "Phép được nghiên cứu"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Và Frieren thì sưu tầm cả những phép nhỏ bé, như phép làm hoa nở hay phép lau sạch một bức tượng. Kaku chấm tám điểm."
+      },
+      "image_prompt": "a scorecard showing 8 under a flower icon, a small field of blooming flowers beside it",
+      "on_screen_text": "Frieren: 8"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Frieren còn có một chi tiết Kaku rất thích: phép thuật mà người đời cho là vô dụng hôm nay có thể trở thành chìa khóa ngày mai. Không có kiến thức nào hoàn toàn thừa."
+      },
+      "image_prompt": "a dusty spellbook with a small bookmark glowing on a page of a seemingly useless charm"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Black Clover thì phép mới thường tự xuất hiện trong grimoire khi người dùng trưởng thành, hoặc được khai phá trong những trận chiến sinh tử. Sáng tạo có, nhưng nằm trong khuôn thuộc tính."
+      },
+      "image_prompt": "a grimoire page lighting up with a new spell as its owner stands up from defeat"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku chấm bảy điểm."
+      },
+      "image_prompt": "a scorecard showing 7 under a clover icon",
+      "on_screen_text": "Black Clover: 7"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Vòng ba chấm cái giá: hệ thống nào khiến phép thuật có hậu quả rõ ràng nhất? Kaku cho điểm cao cho hệ nào có cái giá khiến câu chuyện căng thẳng hơn."
+      },
+      "image_prompt": "a balance scale with a glowing spell on one side and a dark shadow on the other",
+      "chapter": "Vòng 3: Cái giá",
+      "on_screen_text": "Vòng 3: Cái giá"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Witch Hat Atelier có cái giá rất rõ: vẽ sai một nét là thảm họa. Người thường thấy cách vẽ phép thì bị xóa ký ức. Và phép cấm có thể gây ra những hậu quả không đảo ngược được."
+      },
+      "image_prompt": "a cracked crystal room and a figure with memories drifting away as light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Kaku chấm tám điểm."
+      },
+      "image_prompt": "a scorecard showing 8 under a pointed hat icon",
+      "on_screen_text": "Witch Hat: 8"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Frieren có cái giá kiểu khác: thời gian. Phép thuật mạnh cần hàng trăm năm luyện tập, và một pháp sư sống lâu sẽ nhìn những người mình yêu thương già đi rồi mất."
+      },
+      "image_prompt": "an ageless mage standing at a grave on a hill, seasons changing rapidly around her"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Ngoài ra còn có những cái giá chiến thuật, như giấu ma lực suốt cả đời để đánh lừa kẻ thù. Kaku chấm tám điểm."
+      },
+      "image_prompt": "a scorecard showing 8 under a flower icon",
+      "on_screen_text": "Frieren: 8"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Và phép thuật mạnh tới đâu cũng không cứu được người đã mất. Truyện nhắc lại điều đó nhiều lần, rất nhẹ nhàng mà đau lòng."
+      },
+      "image_prompt": "a mage standing quietly beside a memorial stone with a small bouquet, wind in the grass"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Black Clover có cái giá chủ yếu là ma lực và thể lực. Phần đáng sợ nhất là những sức mạnh đến từ ác quỷ, luôn có nguy cơ nuốt chửng người dùng. Nhưng phần lớn thời gian, nhân vật hồi phục khá nhanh."
+      },
+      "image_prompt": "a warrior with a black wing collapsing, then standing back up bandaged a few scenes later"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kaku chấm bảy điểm."
+      },
+      "image_prompt": "a scorecard showing 7 under a clover icon",
+      "on_screen_text": "Black Clover: 7"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Vòng bốn là vòng mà nhiều người chờ nhất: hệ nào tạo ra những trận đánh mãn nhãn nhất?"
+      },
+      "image_prompt": "a stormy arena with three glowing circles of light on the ground",
+      "chapter": "Vòng 4: Trận chiến",
+      "on_screen_text": "Vòng 4: Trận chiến"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Black Clover thắng rõ ràng ở vòng này. Mỗi người một thuộc tính, mỗi hội hiệp sĩ một phong cách, và phản ma thuật xóa phép giữa trận. Trận đánh luôn ồn ào, nhiều màu và dồn dập."
+      },
+      "image_prompt": "a spectacular clash of fire, water, wind and black anti-magic energy in a ruined city",
+      "on_screen_text": "Mãn nhãn nhất",
+      "video_prompt": "elemental blasts collide and black anti-magic sweeps through them in a burst, slow motion wide shot",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku chấm mười điểm."
+      },
+      "image_prompt": "a scorecard showing 10 under a clover icon",
+      "on_screen_text": "Black Clover: 10"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Frieren có những trận đánh ít phô trương hơn, nhưng rất thông minh: đọc ma lực đối thủ, giấu sức mạnh thật, và kết thúc chỉ bằng một đòn đúng lúc."
+      },
+      "image_prompt": "a quiet mage standing calmly as a single precise beam of light ends a duel",
+      "on_screen_text": "Ít phô trương, rất thông minh"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku chấm tám điểm."
+      },
+      "image_prompt": "a scorecard showing 8 under a flower icon",
+      "on_screen_text": "Frieren: 8"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Trận đánh ở Frieren còn có một yếu tố riêng: đọc lượng ma lực của đối thủ để đánh giá sức mạnh. Và vì có người giấu ma lực, việc đánh giá sai có thể phải trả giá bằng mạng sống."
+      },
+      "image_prompt": "a mage squinting at an opponent's faint aura while a hidden immense power lurks beneath it"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Witch Hat Atelier thì không được làm ra để đánh nhau. Có những pha nguy hiểm và căng thẳng, nhưng phép thuật chủ yếu được dùng để cứu người, giải quyết vấn đề và tạo ra những điều đẹp đẽ."
+      },
+      "image_prompt": "an apprentice drawing a floating circle to rescue someone falling from a cliff"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Kaku chấm năm điểm. Không phải vì yếu, mà vì trận chiến không phải mục đích của nó."
+      },
+      "image_prompt": "a scorecard showing 5 under a pointed hat icon",
+      "on_screen_text": "Witch Hat: 5"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Vòng cuối chấm điều Kaku coi trọng nhất: hệ thống phép thuật giúp câu chuyện nói được điều gì sâu sắc?"
+      },
+      "image_prompt": "a single glowing feather quill resting on an open book in soft light",
+      "chapter": "Vòng 5: Ý nghĩa",
+      "on_screen_text": "Vòng 5: Ý nghĩa"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Frieren dùng phép thuật để nói về thời gian và ký ức. Một pháp sư sống hàng nghìn năm học cách trân trọng những khoảnh khắc ngắn ngủi với con người. Những phép vô dụng lại chứa những kỷ niệm quý nhất."
+      },
+      "image_prompt": "an ageless mage casting a small spell that makes a field of flowers bloom, a memory of old friends in the petals",
+      "video_prompt": "flowers bloom outward across the field in a gentle wave, petals lifting into the air, slow crane up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku chấm mười điểm."
+      },
+      "image_prompt": "a scorecard showing 10 under a flower icon",
+      "on_screen_text": "Frieren: 10"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Witch Hat Atelier dùng phép thuật để nói về kiến thức, quyền lực và đạo đức: ai được phép biết, và biết rồi thì phải chịu trách nhiệm thế nào."
+      },
+      "image_prompt": "a young apprentice holding a pen before a giant locked door of knowledge"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku chấm chín điểm."
+      },
+      "image_prompt": "a scorecard showing 9 under a pointed hat icon",
+      "on_screen_text": "Witch Hat: 9"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Và phép thuật trong bộ này rất gần với nghệ thuật. Mỗi vòng tròn giống một bức tranh, và người vẽ đặt cả tâm hồn mình vào đó."
+      },
+      "image_prompt": "a gallery wall of framed glowing magic circles, each one unique like a painting"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Black Clover dùng phép thuật để nói về định kiến và nỗ lực: một thế giới xếp hạng con người theo ma lực, và một cậu bé không có ma lực vẫn không bỏ cuộc."
+      },
+      "image_prompt": "a boy with no aura standing tall among glowing nobles, sword planted in the ground"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Kaku chấm tám điểm."
+      },
+      "image_prompt": "a scorecard showing 8 under a clover icon",
+      "on_screen_text": "Black Clover: 8"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Trước khi công bố kết quả, một thử thách phụ không tính điểm: nếu một đứa trẻ muốn học phép, nó sẽ đi con đường nào ở mỗi thế giới?"
+      },
+      "image_prompt": "a curious child standing at a crossroads with three signposts",
+      "chapter": "Thử thách phụ: dạy phép cho một đứa trẻ",
+      "on_screen_text": "Thử thách phụ"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Ở Witch Hat Atelier, đứa trẻ phải được một phù thủy nhận làm học trò và sống trong xưởng vẽ của thầy, học từng ký hiệu, từng nét vẽ, như học một nghề thủ công."
+      },
+      "image_prompt": "a cozy atelier where a child copies circles from a teacher's sketchbook",
+      "on_screen_text": "Học nghề trong xưởng"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Ở Black Clover, đứa trẻ chờ tới năm mười lăm tuổi để nhận grimoire, rồi thi vào các hội hiệp sĩ ma pháp. Tài năng bẩm sinh và cuốn sách nhận được quyết định rất nhiều."
+      },
+      "image_prompt": "a line of teenagers waiting outside a tall tower on grimoire day"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Ở Frieren, đứa trẻ cần một người thầy, và con đường có thể kéo dài hàng chục năm. Truyện cho thấy những sợi dây thầy trò nối qua nhiều thế hệ, từ thầy của Frieren tới Frieren, rồi tới học trò của cô."
+      },
+      "image_prompt": "three silhouettes in a line across time, each teaching the next under the same tree",
+      "on_screen_text": "Thầy trò qua nhiều thế hệ"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku ghi chú: cả ba thế giới đều đồng ý ở một điều: phép thuật không học một mình được. Luôn cần một người đi trước."
+      },
+      "image_prompt": "the owl mascot holding the hand of a smaller owl, walking along a path",
+      "use_mascot": true
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Giờ cộng điểm. Black Clover: sáu, bảy, bảy, mười, tám. Tổng cộng ba mươi tám điểm."
+      },
+      "image_prompt": "a scoreboard filling in the clover column with a final total of 38",
+      "chapter": "Kết quả chung cuộc",
+      "on_screen_text": "Black Clover: 38"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Frieren: bảy, tám, tám, tám, mười. Tổng cộng bốn mươi mốt điểm."
+      },
+      "image_prompt": "the flower column filling in with a total of 41",
+      "on_screen_text": "Frieren: 41"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Witch Hat Atelier: chín, mười, tám, năm, chín. Tổng cộng cũng là bốn mươi mốt điểm."
+      },
+      "image_prompt": "the pointed hat column filling in with a total of 41, matching the flower column",
+      "on_screen_text": "Witch Hat: 41"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Hòa! Frieren và Witch Hat Atelier bằng điểm nhau ở vị trí số một. Và Kaku quyết định không phá thế hòa, vì trận chung kết này cần một trọng tài công bằng hơn Kaku: chính là bạn."
+      },
+      "image_prompt": "two banners side by side at the top of a podium, a blank tiebreaker card between them",
+      "on_screen_text": "Hòa 41 – 41",
+      "video_prompt": "the two banners flutter side by side as confetti drifts down over the podium, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku nhắc: điểm số hoàn toàn là ý kiến của Kaku. Nếu bạn thích xem đánh nhau, Black Clover có thể là số một của bạn. Không có hệ thống nào sai cả."
+      },
+      "image_prompt": "the owl mascot holding up a sign saying opinion, with a small smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Ngoài bảng tổng, Kaku trao vài giải thưởng phụ, giống lễ trao giải thật."
+      },
+      "image_prompt": "three small trophies on a velvet cloth, each with a ribbon",
+      "chapter": "Giải thưởng phụ",
+      "on_screen_text": "Giải phụ"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Giải hệ thống dễ đoán nhất: Witch Hat Atelier, vì bạn có thể tự vẽ ra kết quả trước khi phép được dùng."
+      },
+      "image_prompt": "a trophy with a pointed hat engraving and a small circle diagram",
+      "on_screen_text": "Dễ đoán nhất"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Giải trận đánh đã mắt nhất: Black Clover. Giải phép thuật khiến Kaku khóc nhiều nhất: phép làm hoa nở của Frieren."
+      },
+      "image_prompt": "two trophies: one with a clover engraving, one with a tiny flower bouquet tied to it",
+      "on_screen_text": "Đã mắt · Cảm động"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và giải đặc biệt: hệ phép thuật Kaku muốn được sống trong đó nhất. Kaku chọn Witch Hat Atelier, vì Kaku thích vẽ. Nhưng Kaku sẽ rất cẩn thận để không vẽ sai nét nào."
+      },
+      "image_prompt": "the owl mascot holding a pen very carefully over a glowing circle, sweating",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Một trò vui nhỏ: dựa trên tính cách, bạn hợp với thế giới phép thuật nào nhất?"
+      },
+      "image_prompt": "three doors side by side, each with a small emblem: flower, clover, pointed hat",
+      "chapter": "Bạn hợp với thế giới nào?",
+      "on_screen_text": "Bạn hợp thế giới nào?"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nếu bạn kiên nhẫn, thích quan sát, thích những điều nhỏ bé và không vội vàng, thế giới của Frieren có lẽ là của bạn."
+      },
+      "image_prompt": "a quiet figure sitting in a meadow collecting small flowers into a book",
+      "on_screen_text": "Kiên nhẫn → Frieren"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn nhiều năng lượng, thích thử thách và càng bị coi thường càng muốn chứng minh bản thân, Black Clover đang gọi bạn."
+      },
+      "image_prompt": "an energetic figure training at dawn, shouting with determination",
+      "on_screen_text": "Năng lượng → Black Clover"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nếu bạn thích vẽ, thích tự tay làm ra mọi thứ và luôn tò mò vì sao mọi thứ hoạt động, bạn sẽ hạnh phúc trong xưởng vẽ của Witch Hat Atelier."
+      },
+      "image_prompt": "a figure sketching intricate diagrams at a desk covered in ink bottles and notes",
+      "on_screen_text": "Tò mò → Witch Hat"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Viết thế giới bạn chọn vào phần bình luận. Kaku sẽ đếm, và biết đâu đó chính là cách phá thế hòa."
+      },
+      "image_prompt": "the owl mascot holding a tally board with three columns of marks",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Trước khi kết, một trò chơi tưởng tượng. Nhắc rõ: đây hoàn toàn là giả thuyết vui của Kaku, không có trong truyện nào cả."
+      },
+      "image_prompt": "three portals opening into one shared field, a THEORY stamp in the corner",
+      "chapter": "Nếu ba thế giới gặp nhau",
+      "on_screen_text": "Trò chơi tưởng tượng"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu một vòng tròn phép của Witch Hat Atelier gặp phản ma thuật của Black Clover? Theo luật của phản ma thuật, vòng tròn đó có lẽ sẽ tan biến ngay khi bị chém. Kẻ vẽ phép sẽ phải vẽ ở nơi lưỡi kiếm không với tới."
+      },
+      "image_prompt": "a black blade slicing through a glowing ink circle, the ink scattering like smoke"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nếu một pháp sư của Frieren, người giấu ma lực suốt cả đời, gặp những hiệp sĩ Black Clover quen cảm nhận ma lực đối thủ? Có lẽ họ sẽ đánh giá thấp cô, và đó sẽ là sai lầm cuối cùng của họ."
+      },
+      "image_prompt": "a mage with almost no visible aura standing calmly as confident knights approach, unaware"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Và nếu cô bé học trò của Witch Hat Atelier được đọc những cuốn sách phép kỳ lạ mà Frieren sưu tầm? Kaku nghĩ cô sẽ vẽ ra những phép mà chưa thế giới nào từng thấy."
+      },
+      "image_prompt": "a young apprentice surrounded by floating old grimoires, sketching excitedly"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Bạn nghĩ sao? Viết kịch bản gặp gỡ của bạn vào phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding three small portals like cards, grinning",
+      "use_mascot": true
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Đây là video thứ ba mươi của kênh. Kaku muốn dành một phút nhìn lại."
+      },
+      "image_prompt": "the owl mascot sitting on a stack of thirty small notebooks, looking back",
+      "chapter": "Video số 30: Kaku nhìn lại",
+      "on_screen_text": "Video số 30",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Ba mươi video, từ Nen trong Hunter x Hunter tới phép thuật hôm nay. Có video giải thích, có video xếp hạng, có video điều tra, có video đưa bạn vào thế giới đó để tự lựa chọn."
+      },
+      "image_prompt": "a long shelf of thirty notebooks, each with a different small symbol on its spine"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Điều Kaku học được nhiều nhất là thế này: một hệ thống sức mạnh hay không phải vì nó mạnh nhất, mà vì nó giúp câu chuyện nói được điều gì đó về con người."
+      },
+      "image_prompt": "a single glowing thread connecting many small symbols into one picture of a human silhouette"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Cảm ơn bạn đã xem, bình luận và gợi ý chủ đề. Nhiều video trên kênh ra đời từ chính câu hỏi của người xem."
+      },
+      "image_prompt": "a warm wall covered in comment cards and small thank-you notes"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Và cuốn sổ của Kaku vẫn còn rất nhiều trang trắng."
+      },
+      "image_prompt": "a notebook open to a fresh blank page, a pen resting on it, morning light"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Tóm lại: Frieren là phép thuật của tưởng tượng và thời gian. Black Clover là phép thuật của thuộc tính và nỗ lực. Witch Hat Atelier là phép thuật của ngòi bút và bí mật."
+      },
+      "image_prompt": "three magic books glowing side by side, each with a small symbol: flower, clover, pointed hat",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Kết quả: Frieren và Witch Hat Atelier hòa bốn mươi mốt điểm, Black Clover ba mươi tám điểm, nhưng đứng đầu ở vòng trận chiến."
+      },
+      "image_prompt": "a final scoreboard with two tied columns and one slightly lower column with a battle trophy"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Câu hỏi quan trọng nhất: bạn sẽ phá thế hòa thế nào? Frieren hay Witch Hat Atelier? Hay bạn nghĩ Black Clover mới là số một? Bình chọn trong phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a ballot box and three small voting cards",
+      "on_screen_text": "Bạn phá thế hòa?",
+      "use_mascot": true
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Hãy đăng ký kênh để đi cùng Kaku tới những video tiếp theo. Kaku thổi tắt ngọn nến đây. Hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot gently blowing out the candle on the table, a thin trail of smoke rising",
+      "use_mascot": true
+    }
+  ]
+}
