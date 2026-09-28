@@ -30,9 +30,9 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 9 | 2026-10-17 | Ác quỷ và nỗi sợ | Chainsaw Man | B · Luật chơi và cách phá | 4 | ? | 4 | 3 | 11 | `videos/2026-10-17-ac-quy-noi-so-chainsaw-man/` | Kịch bản xong — chờ kiểm nguồn |
 | 10 | 2026-10-20 | Chakra vs Nen vs Chú lực | Naruto / HxH / JJK | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2026-10-20-chakra-nen-chu-luc-so-sanh/` | Kịch bản xong — chờ kiểm nguồn |
 | 11 | 2026-10-22 | Các dạng Super Saiyan theo sức mạnh và cái giá | Dragon Ball | J · Xếp hạng có tiêu chí | 4 | ? | 3 | 4 | 11 | `videos/2026-10-22-xep-hang-super-saiyan/` | Kịch bản xong — chờ kiểm nguồn |
-| 12 | 2026-11-03 | Nhập môn: ma thuật được vẽ ra | Witch Hat Atelier (hot xuân 2026) | Q · Nhập môn | 4 | ? | 5 | 5 | 14 | `videos/2026-11-03-nhap-mon-witch-hat-atelier/` | Chưa viết |
-| 13 | 2026-11-07 | "Xoay" và tỉ lệ vàng: khoa học có thật không? | JoJo: Steel Ball Run (đang phát) | P · Khoa học trong anime | 4 | ? | 5 | 4 | 13 | `videos/2026-11-07-khoa-hoc-xoay-steel-ball-run/` | Chưa viết |
-| 14 | 2026-11-10 | Hồ sơ grimoire 3, 4, 5 lá và phản ma thuật | Black Clover (mùa 2 đang phát) | E · Hồ sơ bách khoa | 5 | ? | 4 | 4 | 13 | `videos/2026-11-10-ho-so-grimoire-black-clover/` | Chưa viết |
+| 12 | 2026-11-03 | Nhập môn: ma thuật được vẽ ra | Witch Hat Atelier (hot xuân 2026) | Q · Nhập môn | 4 | ? | 5 | 5 | 14 | `videos/2026-11-03-nhap-mon-witch-hat-atelier/` | Kịch bản xong — chờ kiểm nguồn |
+| 13 | 2026-11-07 | "Xoay" và tỉ lệ vàng: khoa học có thật không? | JoJo: Steel Ball Run (đang phát) | P · Khoa học trong anime | 4 | ? | 5 | 4 | 13 | `videos/2026-11-07-khoa-hoc-xoay-steel-ball-run/` | Kịch bản xong — chờ kiểm nguồn |
+| 14 | 2026-11-10 | Hồ sơ grimoire 3, 4, 5 lá và phản ma thuật | Black Clover (mùa 2 đang phát) | E · Hồ sơ bách khoa | 5 | ? | 4 | 4 | 13 | `videos/2026-11-10-ho-so-grimoire-black-clover/` | Kịch bản xong — chờ kiểm nguồn |
 | 15 | 2026-11-14 | 10 hiểu lầm phổ biến | Jujutsu Kaisen | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2026-11-14-10-hieu-lam-jujutsu-kaisen/` | Chưa viết |
 | 16 | 2026-11-17 | Nếu bạn sống trong thế giới yêu quái + người ngoài hành tinh | Dandadan | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2026-11-17-neu-ban-song-trong-dandadan/` | Chưa viết |
 | 17 | 2026-11-21 | Bảng chỉ số: tỉ lệ giải phóng sức mạnh và chỉ số quái thú | Kaiju No. 8 | F · Bảng chỉ số kiểu game | 4 | ? | 4 | 5 | 13 | `videos/2026-11-21-bang-chi-so-kaiju-no-8/` | Chưa viết |

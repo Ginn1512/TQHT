@@ -1,0 +1,706 @@
+{
+  "title": "JoJo Steel Ball Run: Kỹ thuật Xoay và tỉ lệ vàng — khoa học có thật không?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler nhẹ JoJo Steel Ball Run, tới khoảng chặng thứ ba của cuộc đua. Các cấp độ sức mạnh về sau, Kaku sẽ không nhắc tới."
+      },
+      "image_prompt": "a dusty desert trail at sunrise with hoofprints leading toward the horizon",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler nhẹ tới chặng 3"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một quả cầu thép xoay trong lòng bàn tay. Nó không phát sáng, không có năng lượng thần bí, chỉ xoay. Nhưng khi ném ra, nó có thể làm những điều mà phép thuật cũng phải ghen tị."
+      },
+      "image_prompt": "a polished steel ball spinning rapidly on a gloved palm, wind swirling around it",
+      "on_screen_text": "Chỉ là xoay?",
+      "video_prompt": "the steel ball spins faster and faster, air swirling into a visible spiral, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Và bí quyết của nó, theo truyện, là một con số: một phẩy sáu một tám. Tỉ lệ vàng."
+      },
+      "image_prompt": "the number 1.618 glowing in golden light above a spiral drawn in the sand",
+      "on_screen_text": "1,618"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hôm nay Kaku không giải thích như mọi khi. Kaku sẽ mang thước kẻ, máy tính và sách vật lý ra, để hỏi một câu thôi: điều này có thật không?"
+      },
+      "image_prompt": "the owl mascot wearing tiny safety goggles, surrounded by a ruler, calculator and physics book",
+      "on_screen_text": "Điều này có thật không?",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Mỗi chương hôm nay sẽ có ba bước: truyện nói gì, khoa học nói gì, và truyện đã phóng tay tới đâu. Cuối mỗi chương là điểm độ thật, từ không tới mười."
+      },
+      "image_prompt": "the owl mascot opening a notebook to a page with three columns and a score box",
+      "on_screen_text": "Truyện · Khoa học · Điểm độ thật",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot flips the notebook open and the three columns light up one by one, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Steel Ball Run là phần thứ bảy của loạt JoJo, do Araki Hirohiko sáng tác. Câu chuyện bắt đầu năm 1890 với một cuộc đua ngựa xuyên nước Mỹ."
+      },
+      "image_prompt": "a vintage poster-style illustration of horses racing across a vast American plain, 1890 aesthetic",
+      "chapter": "Bối cảnh: cuộc đua xuyên nước Mỹ",
+      "on_screen_text": "Năm 1890"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Hàng nghìn tay đua xuất phát từ bờ biển phía tây, đích đến là New York, cách khoảng sáu nghìn cây số. Người thắng nhận giải thưởng khổng lồ."
+      },
+      "image_prompt": "a map of a continent with a dotted route from the west coast to the east coast, a trophy at the end",
+      "on_screen_text": "Khoảng 6.000 km"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trong số đó có hai nhân vật chính: Gyro, một người đàn ông đến từ nước Ý với hai quả cầu thép, và Johnny, một cựu nài ngựa bị liệt đôi chân."
+      },
+      "image_prompt": "two riders silhouetted at dawn, one with steel balls on his belt, the other in a wheelchair beside a horse",
+      "on_screen_text": "Hai nhân vật chính"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Trong tập đầu, Johnny vô tình chạm vào quả cầu đang xoay của Gyro, và đôi chân đã liệt của anh bỗng cử động trong giây lát. Từ đó anh quyết theo Gyro để tìm hiểu bí mật của kỹ thuật Xoay."
+      },
+      "image_prompt": "a hand touching a spinning steel ball as faint golden ripples travel down toward motionless legs",
+      "on_screen_text": "Đôi chân cử động"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là bộ JoJo mà nhiều fan đánh giá cao nhất. Bản anime phát tập đầu trên Netflix tháng 3 năm 2026, và phát hằng tuần từ cuối tháng 9."
+      },
+      "image_prompt": "the owl mascot riding a tiny toy horse across a map on a desk",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Theo truyện, Xoay là kỹ thuật được truyền lại trong gia tộc của Gyro qua nhiều thế hệ. Nó được dùng trong y thuật, và cả trong nghề hành hình của gia tộc."
+      },
+      "image_prompt": "an old family crest on a stone wall, a pair of steel balls resting on a velvet cloth below it",
+      "chapter": "Kỹ thuật Xoay là gì?",
+      "on_screen_text": "Kỹ thuật gia truyền"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Người dùng xoay một vật, thường là quả cầu thép, với độ chính xác cực cao. Khi chạm vào mục tiêu, lực xoay truyền vào và gây ra đủ loại hiệu ứng."
+      },
+      "image_prompt": "a steel ball striking a stone wall, spiral ripples spreading outward across the surface"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nó có thể làm vỡ vật cứng, làm cơ bắp co giật, làm da chuyển động, và thậm chí điều khiển cơ thể người khác trong thời gian ngắn."
+      },
+      "image_prompt": "four small panels: a cracked stone, a twitching arm, rippling skin, and a puppet-like pose",
+      "on_screen_text": "Nhiều hiệu ứng"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nhưng Xoay chỉ mạnh khi đủ hoàn hảo. Và theo truyện, thước đo của sự hoàn hảo đó là hình chữ nhật vàng."
+      },
+      "image_prompt": "a golden rectangle drawn over a spinning ball, the spiral inside it glowing brightly"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Vậy để kiểm tra Xoay, trước hết ta phải hiểu tỉ lệ vàng là gì. Đi thôi!"
+      },
+      "image_prompt": "the owl mascot pulling a golden measuring tape out of its scarf",
+      "use_mascot": true
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Tỉ lệ vàng là một con số, xấp xỉ một phẩy sáu một tám. Người ta thường viết nó bằng chữ cái Hy Lạp phi."
+      },
+      "image_prompt": "the Greek letter phi glowing in gold on a chalkboard, 1.618 written beneath it",
+      "chapter": "Tỉ lệ vàng là gì?",
+      "on_screen_text": "φ ≈ 1,618"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Định nghĩa rất gọn: chia một đoạn thẳng thành hai phần, sao cho cả đoạn chia cho phần dài bằng đúng phần dài chia cho phần ngắn. Tỉ số đó chính là phi."
+      },
+      "image_prompt": "a line segment split into two parts with arcs showing the matching ratio",
+      "on_screen_text": "Cả đoạn / phần dài = phần dài / phần ngắn"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Hình chữ nhật vàng là hình chữ nhật có cạnh dài gấp phi lần cạnh ngắn. Nó có một tính chất kỳ diệu: cắt đi một hình vuông, phần còn lại lại là một hình chữ nhật vàng nhỏ hơn."
+      },
+      "image_prompt": "a golden rectangle with a square removed, revealing a smaller golden rectangle inside",
+      "on_screen_text": "Cắt hình vuông → lại là hình chữ nhật vàng"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Cứ cắt mãi như vậy, bạn được vô số hình vuông nhỏ dần. Nối các góc của chúng bằng những cung tròn, ta có xoắn ốc vàng, một đường xoắn không bao giờ kết thúc về mặt toán học."
+      },
+      "image_prompt": "nested squares shrinking inward with a golden spiral curving through them endlessly",
+      "on_screen_text": "Xoắn ốc vàng",
+      "video_prompt": "squares shrink inward endlessly while the golden spiral draws itself through them, slow zoom in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Đây là chỗ truyện lấy ý tưởng: một vòng xoay đi theo xoắn ốc vô tận thì cũng có thể tạo ra năng lượng vô tận. Nghe rất hay. Nhưng khoa học có đồng ý không?"
+      },
+      "image_prompt": "a steel ball tracing a golden spiral path, an infinity symbol glowing faintly above it"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku ghi chú: phần toán học ở trên là hoàn toàn đúng. Tỉ lệ vàng và xoắn ốc vàng là kiến thức toán học thật, học sinh phổ thông cũng có thể tự vẽ."
+      },
+      "image_prompt": "the owl mascot drawing a neat spiral with a compass on graph paper",
+      "use_mascot": true
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Truyện nói: tỉ lệ vàng có mặt trong tự nhiên, và người dùng Xoay học theo tự nhiên để xoay hoàn hảo hơn. Đây là một ý tưởng rất phổ biến, cả ngoài đời lẫn trên mạng."
+      },
+      "image_prompt": "a collage of a sunflower, a seashell, a pinecone and a classical statue, each overlaid with a spiral",
+      "chapter": "Kiểm tra 1: Tỉ lệ vàng có mặt khắp tự nhiên?",
+      "on_screen_text": "Truyện: tỉ lệ vàng ở khắp nơi"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Khoa học nói: có những chỗ đúng thật. Hạt hướng dương và vảy quả thông xếp theo các đường xoắn, và số đường xoắn thường là các số Fibonacci liền nhau, như ba mươi bốn và năm mươi lăm."
+      },
+      "image_prompt": "a close-up of a sunflower head with two sets of spirals highlighted in different colors, numbers 34 and 55",
+      "on_screen_text": "Hướng dương: có thật"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Lý do là mỗi hạt mới mọc lệch hạt trước một góc khoảng một trăm ba mươi bảy phẩy năm độ, gọi là góc vàng. Góc này giúp hạt xếp khít nhất mà không chồng lên nhau."
+      },
+      "image_prompt": "a diagram of seeds placed one by one at a rotating angle, forming a tight spiral pattern",
+      "on_screen_text": "Góc vàng ≈ 137,5°"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhưng cũng có nhiều chỗ bị thổi phồng. Vỏ ốc anh vũ là một đường xoắn ốc thật, nhưng các phép đo cho thấy tỉ lệ của nó thường không phải tỉ lệ vàng."
+      },
+      "image_prompt": "a spiral seashell with a measuring tape, a small red cross next to the number 1.618",
+      "on_screen_text": "Vỏ ốc: bị thổi phồng"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Tương tự, những khẳng định kiểu khuôn mặt đẹp hay công trình cổ được xây theo đúng tỉ lệ vàng thường thiếu bằng chứng chặt chẽ."
+      },
+      "image_prompt": "a classical temple facade with golden rectangles drawn over it, several question marks floating nearby"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Điểm độ thật cho kiểm tra này: sáu trên mười. Tỉ lệ vàng có mặt trong tự nhiên thật, nhưng không có mặt ở khắp nơi như người ta thường nói."
+      },
+      "image_prompt": "a score card showing 6 out of 10 with a golden sunflower icon",
+      "on_screen_text": "Độ thật: 6/10"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Truyện nói: quả cầu xoay càng chuẩn thì càng mạnh và càng khó bị chặn lại. Hãy thử kiểm tra phần đầu: xoay có làm vật ổn định hơn không?"
+      },
+      "image_prompt": "a steel ball flying straight through the air with a perfect spiral trail behind it",
+      "chapter": "Kiểm tra 2: Vật xoay có ổn định hơn?"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Khoa học nói: có, và rất rõ ràng. Một vật đang xoay có mô men động lượng, và nó chống lại việc bị đổi hướng trục xoay. Đó là lý do con quay đứng vững khi xoay, nhưng đổ ngay khi dừng."
+      },
+      "image_prompt": "a spinning top balancing upright beside a stopped top lying on its side",
+      "on_screen_text": "Con quay: xoay thì đứng vững"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nòng súng trường có rãnh xoắn để làm viên đạn xoay khi bay ra, giúp nó bay thẳng và ổn định hơn. Người ném bóng bầu dục cũng xoáy bóng vì lý do tương tự."
+      },
+      "image_prompt": "a cross-section of a rifled barrel with spiral grooves, a spinning projectile leaving it",
+      "on_screen_text": "Rãnh xoắn nòng súng"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Xoay còn làm đường bay cong đi. Trái bóng xoáy trong bóng đá bẻ cong quỹ đạo nhờ hiệu ứng Magnus, khi không khí bị kéo lệch ở hai bên quả bóng."
+      },
+      "image_prompt": "a soccer ball curving around a wall of players, air flow lines bending around it",
+      "on_screen_text": "Hiệu ứng Magnus",
+      "video_prompt": "the spinning ball curves around the wall of players, air flow lines bending, slow side tracking",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Trong truyện, Gyro thường ném quả cầu theo những quỹ đạo cong khó đoán. Về nguyên lý, điều này hoàn toàn có cơ sở."
+      },
+      "image_prompt": "a steel ball arcing around a rock in a curved path, dust trail following it"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Điểm độ thật: chín trên mười. Xoay giúp vật ổn định và bay cong là vật lý chuẩn. Chỉ có mức độ chính xác trong truyện là hơi siêu phàm."
+      },
+      "image_prompt": "a score card showing 9 out of 10 with a spinning top icon",
+      "on_screen_text": "Độ thật: 9/10"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Đây là tuyên bố lớn nhất: vòng xoay đi theo xoắn ốc vàng có thể tạo ra năng lượng gần như vô tận."
+      },
+      "image_prompt": "a glowing golden spiral spinning into infinity, sparks of energy flowing outward",
+      "chapter": "Kiểm tra 3: Năng lượng xoay vô hạn?",
+      "on_screen_text": "Truyện: năng lượng vô tận"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Khoa học nói: một vật đang xoay đúng là tích trữ năng lượng. Năng lượng đó phụ thuộc vào khối lượng, cách phân bố khối lượng và tốc độ xoay."
+      },
+      "image_prompt": "a heavy flywheel spinning in a lab with an energy meter beside it",
+      "on_screen_text": "Vật xoay tích trữ năng lượng"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Người ta còn dùng bánh đà, một khối nặng xoay rất nhanh, để trữ năng lượng trong một số hệ thống điện và máy móc. Nên ý tưởng quả cầu xoay mang năng lượng là có thật."
+      },
+      "image_prompt": "a cutaway of a modern flywheel energy storage unit glowing softly"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Nhưng năng lượng vô hạn thì không. Định luật bảo toàn năng lượng nói rằng năng lượng không tự sinh ra. Và ma sát, sức cản không khí luôn lấy dần năng lượng của vật xoay."
+      },
+      "image_prompt": "a spinning ball slowly losing speed, heat waves and air swirls stealing energy from it",
+      "on_screen_text": "Bảo toàn năng lượng"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Một đường xoắn ốc vô tận trên giấy chỉ là hình học. Hình dạng của chuyển động không thể tự tạo ra năng lượng. Nếu làm được, con người đã có máy chuyển động vĩnh cửu từ lâu."
+      },
+      "image_prompt": "a crossed-out sketch of a perpetual motion machine on an old blueprint",
+      "on_screen_text": "Không có máy vĩnh cửu"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Điểm độ thật: một trên mười. Một điểm cho ý tưởng vật xoay tích trữ năng lượng. Phần vô hạn là trí tưởng tượng thuần túy, nhưng là trí tưởng tượng rất đẹp."
+      },
+      "image_prompt": "a score card showing 1 out of 10 with an infinity symbol icon",
+      "on_screen_text": "Độ thật: 1/10"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku ghi chú: đừng buồn nhé. Chính truyện cũng coi vòng xoay vô tận là thứ gần như không thể đạt được, và điều đó làm nó quý giá."
+      },
+      "image_prompt": "the owl mascot patting a small crying infinity symbol on the head",
+      "use_mascot": true
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Truyện nói: lực xoay có thể truyền qua da và cơ bắp, làm cơ co giật hay khiến cơ thể cử động ngoài ý muốn."
+      },
+      "image_prompt": "a glowing spiral ripple traveling along an arm, muscles tensing beneath the skin",
+      "chapter": "Kiểm tra 4: Xoay truyền qua cơ thể"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Khoa học nói: rung động có thể lan truyền qua cơ thể thật. Y học dùng rung động và sóng âm trong nhiều việc, như siêu âm để chụp hình bên trong cơ thể, hay máy rung để thư giãn cơ."
+      },
+      "image_prompt": "a medical ultrasound probe with sound waves drawn entering a stylized body outline",
+      "on_screen_text": "Rung động trong y học"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Cộng hưởng là một hiện tượng có thật khác: khi rung đúng tần số tự nhiên, một vật có thể dao động rất mạnh. Ví dụ quen thuộc là ly thủy tinh bị vỡ bởi âm thanh đúng tần số."
+      },
+      "image_prompt": "a wine glass shattering as a sound wave of matching frequency hits it",
+      "on_screen_text": "Cộng hưởng"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Nhưng để điều khiển chính xác từng nhóm cơ của người khác chỉ bằng một quả cầu xoay thì hoàn toàn nằm ngoài khoa học hiện nay. Cơ bắp được điều khiển bằng tín hiệu thần kinh, không phải bằng lực xoay từ bên ngoài."
+      },
+      "image_prompt": "a diagram of nerves sending electric signals to muscles, a spinning ball marked with a question mark"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Điểm độ thật: ba trên mười. Rung động và cộng hưởng là thật. Điều khiển cơ thể người khác là phần truyện phóng tay."
+      },
+      "image_prompt": "a score card showing 3 out of 10 with a vibrating wave icon",
+      "on_screen_text": "Độ thật: 3/10"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Đây là chi tiết Kaku thích nhất. Truyện nói có một kỹ thuật nâng cao gọi là Xoay vàng: để con ngựa chạy đúng nhịp tự nhiên nhất của nó, năng lượng từ bước chạy sẽ tạo ra lực xoay hoàn hảo."
+      },
+      "image_prompt": "a horse galloping at sunset with golden spiral patterns trailing from its hooves",
+      "chapter": "Kiểm tra 5: Con ngựa và nhịp chạy hoàn hảo",
+      "on_screen_text": "Xoay vàng",
+      "video_prompt": "the horse gallops in slow motion, golden spiral patterns trailing from each hoofbeat, tracking shot",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Theo truyện, năng lượng đó truyền qua bàn đạp yên ngựa lên cơ thể người cưỡi, rồi vào cánh tay và quả cầu thép."
+      },
+      "image_prompt": "a diagram of energy flowing from a horse's stride up through the stirrups into a rider's arm"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Khoa học nói: điều bất ngờ là phần đầu có cơ sở thật. Ngựa có các dáng chạy khác nhau như đi bộ, chạy nước kiệu và phi nước đại."
+      },
+      "image_prompt": "three horse silhouettes showing walking, trotting and galloping gaits side by side",
+      "on_screen_text": "Đi bộ · Nước kiệu · Phi nước đại"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Các nhà khoa học đã đo và thấy rằng trong mỗi dáng chạy, ngựa tự chọn một tốc độ tốn ít năng lượng nhất trên mỗi mét đường. Tức là thật sự có một nhịp chạy tự nhiên hiệu quả nhất."
+      },
+      "image_prompt": "a graph with three U-shaped curves, each with a glowing lowest point marked by a small horse icon",
+      "on_screen_text": "Mỗi dáng có tốc độ tối ưu"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Về lịch sử, bàn đạp yên ngựa đúng là một phát minh quan trọng, giúp người cưỡi đứng vững hơn khi chiến đấu trên lưng ngựa. Còn chuyện kỹ thuật Xoay được phát minh cùng bàn đạp chỉ là lịch sử trong truyện."
+      },
+      "image_prompt": "an antique iron stirrup on display in a museum case, soft spotlight",
+      "on_screen_text": "Bàn đạp: phát minh thật"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Điểm độ thật: năm trên mười. Nhịp chạy tối ưu là thật, bàn đạp là thật. Nhưng biến bước chạy của ngựa thành lực xoay ném ra từ tay thì là JoJo."
+      },
+      "image_prompt": "a score card showing 5 out of 10 with a horseshoe icon",
+      "on_screen_text": "Độ thật: 5/10"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kiểm tra cuối: một quả cầu thép cỡ quả bóng tennis ném bằng tay có đủ sức làm vỡ đá hay xuyên qua vật cứng không?"
+      },
+      "image_prompt": "a steel ball the size of a tennis ball next to a cracked boulder, a ruler for scale",
+      "chapter": "Kiểm tra 6: Quả cầu thép có đủ sức?"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Khoa học nói: thép đặc nặng gần gấp tám lần nước, nên một quả cầu thép cỡ đó nặng hơn một ký, khoảng một phẩy hai ký. Ném mạnh, nó mang động năng đáng kể, đủ gây sát thương nghiêm trọng."
+      },
+      "image_prompt": "a scale weighing a steel ball, a small note showing about 1.2 kilograms",
+      "on_screen_text": "Khoảng 1,2 kg"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nhưng làm vỡ đá cứng hay xuyên qua tường dày thì cần năng lượng lớn hơn nhiều. Cánh tay người khó ném một vật hơn một ký đủ nhanh để làm điều đó."
+      },
+      "image_prompt": "a figure throwing a heavy ball with visible strain, the ball bouncing off a thick stone wall"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Ở đây, truyện dùng lực xoay để bù vào phần thiếu. Và như ta đã thấy ở kiểm tra ba, xoay không tự tạo thêm năng lượng."
+      },
+      "image_prompt": "an energy bar chart comparing a throw, a spin, and the energy needed to break stone"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Điểm độ thật: bốn trên mười. Quả cầu thép là vũ khí nguy hiểm thật, nhưng những pha phá đá trong truyện đã được phóng đại nhiều lần."
+      },
+      "image_prompt": "a score card showing 4 out of 10 with a steel ball icon",
+      "on_screen_text": "Độ thật: 4/10"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Thử một câu hỏi vui: nếu đưa Gyro vào thể thao thật, anh ấy sẽ đứng ở đâu?"
+      },
+      "image_prompt": "a steel ball resting on a modern sports field beside a baseball and a bowling ball",
+      "chapter": "Nếu Gyro là vận động viên thật",
+      "on_screen_text": "Gyro ngoài đời thật?"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kỷ lục ném bóng chày nhanh nhất vào khoảng một trăm bảy mươi cây số một giờ, với quả bóng chỉ nặng khoảng một trăm bốn mươi lăm gram."
+      },
+      "image_prompt": "a baseball blurring through the air with a speed gauge showing about 170 km/h",
+      "on_screen_text": "≈ 170 km/h"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Quả cầu thép của Gyro nặng gấp khoảng tám lần. Với cùng sức tay, vật càng nặng thì càng khó ném nhanh, nên tốc độ thật của nó sẽ thấp hơn nhiều."
+      },
+      "image_prompt": "a balance scale with one baseball on one side and a steel ball outweighing eight baseballs on the other",
+      "on_screen_text": "Nặng gấp ~8 lần"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Nhưng về độ xoáy, người thật cũng rất đáng nể. Một cú ném bóng chày xoáy của vận động viên chuyên nghiệp có thể đạt khoảng hai nghìn năm trăm vòng mỗi phút."
+      },
+      "image_prompt": "a curveball spinning with motion lines, a counter showing about 2500 rpm",
+      "on_screen_text": "≈ 2.500 vòng/phút"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Và cũng như Gyro, những vận động viên đó không dựa vào sức mạnh thô. Họ luyện hàng nghìn giờ để kiểm soát từng ngón tay khi thả bóng."
+      },
+      "image_prompt": "close-up of fingers gripping a ball along its seams, chalk dust in the air"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nên nếu hỏi Kaku, Gyro sẽ là một vận động viên ném bóng xoáy xuất sắc. Hoặc một cao thủ bowling mà không ai muốn đấu cùng."
+      },
+      "image_prompt": "the owl mascot at a bowling alley holding a tiny steel ball, all pins already knocked down",
+      "use_mascot": true
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Điểm chung giữa truyện và đời thật là đây: độ xoáy là kỹ năng luyện được, không phải phép màu."
+      },
+      "image_prompt": "a training ground at dusk with rows of practice balls and worn gloves"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Có thể bạn hỏi: JoJo nổi tiếng với Stand, vậy khoa học nói gì về Stand?"
+      },
+      "image_prompt": "a shadowy guardian spirit silhouette rising behind a person, glowing faintly",
+      "chapter": "Còn Stand thì sao?"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Câu trả lời ngắn: Stand là năng lực siêu nhiên, là hình ảnh của tinh thần con người. Nó không có cơ chế vật lý nào để kiểm tra."
+      },
+      "image_prompt": "a translucent spirit figure with a big question mark where its engine would be",
+      "on_screen_text": "Stand: siêu nhiên"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Điều thú vị là Steel Ball Run đặt hai thứ cạnh nhau: Stand là sức mạnh của tinh thần, còn Xoay là sức mạnh của kỹ thuật và luyện tập."
+      },
+      "image_prompt": "a split image: a glowing spirit on one side, a pair of hands training with steel balls on the other",
+      "on_screen_text": "Tinh thần và kỹ thuật"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và theo truyện, hai thứ này có thể kết hợp với nhau. Chi tiết đó Kaku để dành, vì nó thuộc về những chặng đua sau."
+      },
+      "image_prompt": "the owl mascot hiding a glowing envelope behind its back, winking",
+      "use_mascot": true
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Giờ hãy đặt tất cả lên bảng điểm."
+      },
+      "image_prompt": "a chalkboard with six rows and a score column, chalk dust in the air",
+      "chapter": "Bảng điểm độ thật",
+      "on_screen_text": "Bảng điểm"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Xoay giúp vật ổn định và bay cong: chín điểm. Tỉ lệ vàng trong tự nhiên: sáu điểm. Nhịp chạy hoàn hảo của ngựa: năm điểm."
+      },
+      "image_prompt": "the top three rows of the chalkboard lighting up: 9, 6, 5",
+      "on_screen_text": "9 · 6 · 5"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Sức phá của quả cầu thép: bốn điểm. Xoay điều khiển cơ thể: ba điểm. Năng lượng vô hạn: một điểm."
+      },
+      "image_prompt": "the bottom three rows lighting up: 4, 3, 1",
+      "on_screen_text": "4 · 3 · 1"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Trung bình khoảng bốn phẩy sáu trên mười. Với một bộ truyện có Stand và thánh tích bí ẩn, đây là con số rất đáng nể."
+      },
+      "image_prompt": "a large score of 4.6 out of 10 glowing at the bottom of the board with a small medal",
+      "on_screen_text": "Trung bình ≈ 4,6/10"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Điều đáng khen là tác giả không bịa ra một khái niệm hoàn toàn mới, mà lấy kiến thức thật làm nền rồi mới phóng đại lên."
+      },
+      "image_prompt": "a sturdy stone foundation with a fantastical tower rising on top of it"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Vì sao Araki chọn tỉ lệ vàng, chứ không phải một nguồn năng lượng thần bí nào đó?"
+      },
+      "image_prompt": "the owl mascot looking at a golden spiral on a canvas in an art studio",
+      "chapter": "Góc nhìn của Kaku: vì sao lại là tỉ lệ vàng?",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Araki là một họa sĩ rất yêu điêu khắc và hội họa cổ điển châu Âu. Tỉ lệ vàng từ lâu gắn với những cuộc bàn luận về vẻ đẹp và sự cân đối trong nghệ thuật."
+      },
+      "image_prompt": "a sculptor's studio with classical statues and sketches of proportions pinned to the wall"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nên trong Steel Ball Run, sức mạnh lớn nhất không đến từ cơn giận hay dòng máu, mà đến từ sự hài hòa với tự nhiên, như một họa sĩ tìm ra tỉ lệ đẹp nhất."
+      },
+      "image_prompt": "a rider and horse moving in perfect harmony through a golden meadow, spiral patterns in the grass"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Kỹ thuật Xoay cũng đòi hỏi luyện tập và quan sát, không có lối tắt. Nhân vật phải học cách nhìn thế giới trước, rồi mới xoay được."
+      },
+      "image_prompt": "a student carefully studying the curve of a leaf with a magnifying glass, a steel ball beside them"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Kaku nghĩ đó là thông điệp đẹp nhất của phần này: sự hoàn hảo không nằm ở sức mạnh, mà nằm ở cách ta quan sát và hòa hợp với thế giới."
+      },
+      "image_prompt": "the owl mascot sitting quietly in a meadow, watching a sunflower turn toward the sun",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Muốn tự thấy tỉ lệ vàng? Đây là hai thử nghiệm an toàn bạn làm được ngay."
+      },
+      "image_prompt": "a desk with a sunflower, a ruler, a sheet of paper and colored pencils",
+      "chapter": "Thử nghiệm tại nhà (an toàn)",
+      "on_screen_text": "Thử tại nhà"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Thứ nhất: lấy một bông hướng dương hoặc một quả thông, đếm số đường xoắn theo chiều kim đồng hồ và ngược chiều. Rất có thể bạn sẽ được hai số Fibonacci liền nhau."
+      },
+      "image_prompt": "hands counting spirals on a pinecone, small numbers written on sticky notes",
+      "on_screen_text": "Đếm đường xoắn"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Thứ hai: trên giấy kẻ ô, vẽ hai hình vuông cạnh một ô, rồi hình vuông cạnh hai, ba, năm, tám. Nối các góc bằng cung tròn, bạn sẽ có một xoắn ốc rất gần xoắn ốc vàng."
+      },
+      "image_prompt": "graph paper with squares of sizes 1, 1, 2, 3, 5, 8 and a spiral drawn through them",
+      "on_screen_text": "Vẽ xoắn ốc Fibonacci"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Còn ném cầu thép thì làm ơn đừng thử nhé. Kaku không muốn nhận bình luận về cửa kính nhà bạn."
+      },
+      "image_prompt": "the owl mascot holding a sign with a crossed-out steel ball and a cracked window",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Tóm lại: tỉ lệ vàng và xoắn ốc vàng là toán học thật. Xoay giúp vật bay ổn định và bay cong là vật lý thật. Ngựa có nhịp chạy tối ưu cũng là khoa học thật."
+      },
+      "image_prompt": "a summary board with three green check marks next to small icons",
+      "chapter": "Kết",
+      "on_screen_text": "Có thật"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Còn năng lượng vô hạn và điều khiển cơ thể người khác là phần JoJo, nơi khoa học dừng lại và trí tưởng tượng bắt đầu."
+      },
+      "image_prompt": "a road where solid pavement ends and a glowing golden spiral path continues into the sky"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: còn chi tiết nào trong anime mà bạn muốn Kaku mang thước và máy tính ra kiểm tra? Viết vào phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding up a ruler and a calculator like a detective",
+      "on_screen_text": "Kiểm tra gì tiếp?",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tới quay về thế giới phép thuật: Kaku sẽ mở hồ sơ các cuốn sách phép trong Black Clover, từ ba lá, bốn lá đến năm lá."
+      },
+      "image_prompt": "an old grimoire with a glowing clover emblem on its cover, resting on a stone pedestal",
+      "on_screen_text": "Tiếp theo: hồ sơ grimoire"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Hãy đăng ký kênh nếu bạn thấy video thú vị. Kaku tháo kính bảo hộ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot taking off tiny safety goggles and waving in a sunny lab",
+      "use_mascot": true
+    }
+  ]
+}
