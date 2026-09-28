@@ -1,0 +1,764 @@
+{
+  "title": "Naruto: Sharingan tiến hóa thế nào? Từ 1 tomoe đến Rinnegan",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Naruto và Naruto Shippuden đến hết cuộc Đại chiến Ninja lần thứ tư. Nếu chưa xem hết, hãy lưu video lại nhé."
+      },
+      "image_prompt": "a dark scroll unrolling on a wooden floor, a single red glowing eye symbol drawn on it",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Trong Naruto, có một đôi mắt được cả thế giới ninja vừa thèm muốn vừa sợ hãi. Nó sao chép được nhẫn thuật, nhìn thấu chuyển động, và giam người khác trong ảo ảnh."
+      },
+      "image_prompt": "close-up of a crimson eye with three dark comma-shaped marks glowing in the dark, rain reflections",
+      "video_prompt": "the comma marks slowly spin in the crimson eye as rain reflections ripple, macro close-up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nhưng đôi mắt ấy có một bí mật đau đớn: nó càng mạnh khi chủ nhân càng đau khổ."
+      },
+      "image_prompt": "a figure standing alone in the rain before a graveyard, eyes glowing red",
+      "on_screen_text": "Mắt mạnh lên nhờ đau khổ"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đó là Sharingan. Và hôm nay mình sẽ đi theo từng nấc tiến hóa của nó, từ một dấu phẩy nhỏ tới con mắt của thần."
+      },
+      "image_prompt": "a staircase of glowing eye symbols evolving from simple to complex, rising into clouds",
+      "on_screen_text": "Các nấc tiến hóa"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ sẽ vẽ một bậc thang tiến hóa: mỗi nấc có sức mạnh gì, và phải trả cái giá gì."
+      },
+      "image_prompt": "the owl mascot opening a glowing notebook, its round glasses reflecting a red light",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot opens the notebook and a red glow reflects across its glasses, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Xem hết video, bạn sẽ hiểu vì sao lịch sử của đôi mắt này cũng là lịch sử của thù hận trong thế giới ninja."
+      },
+      "image_prompt": "the owl mascot looking serious, holding a small red lantern",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước khi leo bậc thang, cần hiểu nền tảng của thế giới Naruto: chakra, năng lượng mà mọi ninja dùng để thực hiện nhẫn thuật."
+      },
+      "image_prompt": "a ninja silhouette with glowing blue energy lines flowing through the body like veins",
+      "chapter": "Nền tảng: chakra và nhẫn thuật",
+      "on_screen_text": "Chakra"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Chakra được tạo ra từ hai phần: năng lượng thể chất trong từng tế bào và năng lượng tinh thần từ sự rèn luyện. Hai phần hòa vào nhau thành chakra."
+      },
+      "image_prompt": "two streams of light, one warm and physical, one calm and mental, merging into a glowing blue orb",
+      "on_screen_text": "Thể chất + tinh thần"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Ninja dùng chakra theo ba nhóm chính: nhẫn thuật như cầu lửa hay phân thân, ảo thuật đánh lừa giác quan, và thể thuật dùng cơ thể chiến đấu."
+      },
+      "image_prompt": "three panels: a fireball, a swirling illusion, a flying kick",
+      "on_screen_text": "Nhẫn · Ảo · Thể thuật"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Hầu hết nhẫn thuật cần kết ấn tay để điều khiển chakra. Người càng giỏi, kết ấn càng nhanh, có người rút gọn tới mức gần như không cần ấn."
+      },
+      "image_prompt": "a blur of hands forming seals at incredible speed, motion trails behind each finger"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Sharingan đặc biệt vì nó can thiệp vào cả ba nhóm: nhìn thấu nhẫn thuật, tạo và phá ảo thuật, và đọc trước thể thuật."
+      },
+      "image_prompt": "a red eye at the center of a triangle connecting the three technique types",
+      "on_screen_text": "Sharingan chạm cả 3 nhóm"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku ghi chú: đó là lý do một đôi mắt lại có thể thay đổi cục diện trận đấu. Nó không thêm một chiêu mới, mà nâng mọi chiêu lên một tầm."
+      },
+      "image_prompt": "the owl mascot peering through a red-tinted magnifying glass at a scroll",
+      "use_mascot": true
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Sharingan là huyết kế giới hạn, một năng lực di truyền, chỉ xuất hiện ở gia tộc Uchiha. Người ngoài gia tộc không thể tự thức tỉnh nó."
+      },
+      "image_prompt": "a village compound with a red-and-white fan emblem painted on the walls at dusk",
+      "chapter": "Nấc 0: đôi mắt của một gia tộc",
+      "on_screen_text": "Huyết kế giới hạn Uchiha"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nhưng không phải thành viên Uchiha nào cũng có. Sharingan chỉ thức tỉnh khi người đó trải qua cảm xúc cực mạnh, thường là trong nguy hiểm hoặc mất mát."
+      },
+      "image_prompt": "a young ninja silhouette protecting a friend in battle, eyes suddenly flashing red"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Truyện giải thích rằng Uchiha là gia tộc có tình yêu rất sâu. Khi tình yêu đó bị tổn thương, nó biến thành nỗi đau, và nỗi đau đánh thức đôi mắt."
+      },
+      "image_prompt": "a warm family silhouette under a lantern, then the same scene shattered like glass with a red glow",
+      "on_screen_text": "Tình yêu → nỗi đau → sức mạnh"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Đây là nền tảng của mọi thứ phía sau: Sharingan không chỉ là năng lực, mà là tấm gương phản chiếu trái tim của người sở hữu."
+      },
+      "image_prompt": "a mirror reflecting a heart that glows red, cracks spreading across the glass"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku ghi chú: hãy nhớ quy luật này nhé. Ở mỗi nấc tiếp theo, cái giá luôn lớn hơn nấc trước."
+      },
+      "image_prompt": "the owl mascot writing a single rule on a chalkboard with a red chalk",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Khi mới thức tỉnh, Sharingan thường có một dấu phẩy quanh con ngươi. Dấu phẩy này được gọi là tomoe."
+      },
+      "image_prompt": "a crimson eye with a single black comma mark, close-up, soft glow",
+      "chapter": "Nấc 1: Sharingan một, hai, ba dấu phẩy",
+      "on_screen_text": "1 tomoe",
+      "video_prompt": "the eye gains a second then a third comma mark in sequence, soft pulse of light, static close-up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Theo thời gian và kinh nghiệm chiến đấu, số tomoe tăng lên hai, rồi ba. Mỗi dấu phẩy thêm vào là khả năng nhìn rõ hơn, nhanh hơn."
+      },
+      "image_prompt": "a sequence of three eyes side by side showing one, two, and three comma marks",
+      "on_screen_text": "1 → 2 → 3 tomoe"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Năng lực thứ nhất: nhìn thấy dòng chakra. Người dùng phân biệt được nhẫn thuật thật và ảo ảnh, thấy được chakra đang dồn về đâu."
+      },
+      "image_prompt": "a figure seen through a red filter, glowing chakra lines flowing through their body"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Năng lực thứ hai: đọc chuyển động. Sharingan thấy đòn đánh tới trước khi nó chạm, giúp né và phản công gần như hoàn hảo."
+      },
+      "image_prompt": "a ninja dodging a kunai by a hair's breadth, ghost trails showing its predicted path",
+      "on_screen_text": "Đọc chuyển động"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Năng lực thứ ba, nổi tiếng nhất: sao chép. Người dùng nhìn một nhẫn thuật và có thể học lại nó, miễn là cơ thể đủ khả năng thực hiện."
+      },
+      "image_prompt": "a ninja mirroring another ninja's hand signs perfectly, glowing lines linking their hands",
+      "on_screen_text": "Sao chép nhẫn thuật"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Tuy nhiên, Sharingan không sao chép được huyết kế giới hạn của gia tộc khác, vì đó là năng lực gắn với cơ thể chứ không phải kỹ thuật."
+      },
+      "image_prompt": "a copy diagram with a red cross over a unique bloodline symbol"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Năng lực thứ tư: ảo thuật. Chỉ cần đối thủ nhìn vào mắt, người dùng có thể kéo họ vào ảo ảnh."
+      },
+      "image_prompt": "two ninjas locking eyes, the background dissolving into swirling red illusion",
+      "on_screen_text": "Ảo thuật"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku tóm lại: nấc một là đôi mắt của một thiên tài chiến đấu. Nhìn thấu, đọc trước, sao chép và đánh lừa."
+      },
+      "image_prompt": "the owl mascot wearing a small red monocle, peering at a scroll",
+      "use_mascot": true
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Có một ngoại lệ nổi tiếng: Kakashi, không phải Uchiha nhưng có một mắt Sharingan được cấy ghép từ người bạn thân Obito."
+      },
+      "image_prompt": "a masked ninja silhouette with one eye covered by a headband, a faint red glow beneath it",
+      "chapter": "Người ngoài dùng Sharingan: trường hợp Kakashi",
+      "on_screen_text": "Sharingan cấy ghép"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Vì không mang dòng máu Uchiha, cơ thể Kakashi không hợp với Sharingan. Anh không thể tắt nó, nên phải che mắt bằng băng trán."
+      },
+      "image_prompt": "a headband being pulled down over a glowing red eye"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Mỗi lần dùng, Sharingan tiêu hao chakra của anh rất nhanh. Dùng quá sức, anh có thể ngã quỵ sau trận đấu."
+      },
+      "image_prompt": "an exhausted ninja collapsing onto one knee, steam rising from his body"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Dù vậy, Kakashi vẫn được gọi là Ninja Sao Chép, với hàng nghìn nhẫn thuật đã học được. Đây là minh chứng cho việc nỗ lực có thể bù đắp dòng máu."
+      },
+      "image_prompt": "a library of countless glowing scrolls behind a relaxed masked ninja reading a book",
+      "on_screen_text": "Ninja Sao Chép"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nấc tiến hóa thứ hai là Mangekyo Sharingan, và cái giá để có nó khủng khiếp hơn nhiều."
+      },
+      "image_prompt": "a crimson eye with an intricate pinwheel-like pattern replacing the comma marks",
+      "chapter": "Nấc 2: Mangekyo Sharingan",
+      "on_screen_text": "Mangekyo"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Theo truyện, Mangekyo thức tỉnh khi người dùng trải qua nỗi đau cực độ, thường là mất đi người thân yêu nhất, có khi là chính tay mình gây ra."
+      },
+      "image_prompt": "a figure kneeling in shock before a fallen silhouette, their eyes transforming into a new pattern"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Mỗi Mangekyo có hoa văn riêng, và mỗi người nhận được những năng lực riêng. Không có hai Mangekyo nào giống hệt nhau."
+      },
+      "image_prompt": "a grid of six unique abstract pinwheel eye patterns, each glowing differently",
+      "on_screen_text": "Mỗi người một hoa văn"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Có năng lực tạo ra ảo thuật thời gian, nơi vài giây ngoài đời bằng nhiều ngày tra tấn trong ảo ảnh."
+      },
+      "image_prompt": "a red moonlit illusion world where a clock spins wildly while a figure is bound",
+      "on_screen_text": "Ảo thuật thời gian"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Có năng lực tạo ra ngọn lửa đen không thể dập tắt, đốt cháy mọi thứ mà người dùng nhìn vào."
+      },
+      "image_prompt": "black flames erupting on a target and spreading unstoppably across a stone wall",
+      "on_screen_text": "Lửa đen"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Có năng lực dịch chuyển đồ vật hoặc chính mình sang một không gian khác, khiến đòn đánh xuyên qua người dùng như không có gì."
+      },
+      "image_prompt": "a swirling vortex warping space around a masked figure as attacks pass through him",
+      "on_screen_text": "Dịch chuyển không gian"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Và khi thức tỉnh Mangekyo ở cả hai mắt, người dùng có thể gọi ra một chiến binh khổng lồ bằng chakra bao quanh cơ thể, vừa là khiên vừa là vũ khí."
+      },
+      "image_prompt": "a colossal translucent armored warrior of glowing chakra surrounding a small ninja silhouette",
+      "on_screen_text": "Chiến binh chakra khổng lồ",
+      "video_prompt": "the translucent chakra warrior forms rib by rib around the small ninja, camera tilts up slowly",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là lúc Sharingan đi từ đôi mắt của thiên tài thành vũ khí có thể thay đổi cả một cuộc chiến."
+      },
+      "image_prompt": "the owl mascot looking up in awe at a giant glowing warrior silhouette",
+      "use_mascot": true
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhưng Mangekyo có một cái giá tàn nhẫn: mỗi lần sử dụng, thị lực người dùng giảm dần. Dùng càng nhiều, càng tiến gần tới mù lòa."
+      },
+      "image_prompt": "an eye with a faint crack spreading across it, vision blurring into darkness",
+      "chapter": "Cái giá của Mangekyo",
+      "on_screen_text": "Cái giá: mù dần"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Những năng lực mạnh nhất còn khiến mắt chảy máu, cơ thể kiệt quệ ngay sau khi dùng."
+      },
+      "image_prompt": "a ninja clutching one bleeding eye, the other still glowing red, kneeling in the rain"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Điều này tạo ra một bi kịch: đôi mắt được sinh ra từ nỗi đau mất người thân, rồi lại lấy đi ánh sáng của chính người sở hữu."
+      },
+      "image_prompt": "a figure alone in a darkening room, a single candle slowly going out"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Và nó giải thích vì sao trong truyện, những người có Mangekyo luôn tìm cách vượt qua giới hạn đó, dù cái giá tiếp theo còn đen tối hơn."
+      },
+      "image_prompt": "a staircase continuing downward into shadows beyond a red-lit landing"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Cách để thoát khỏi mù lòa là nấc thứ ba: Mangekyo vĩnh hằng. Và cách đạt được nó khiến người ta rùng mình."
+      },
+      "image_prompt": "an eye with a pattern merged from two different pinwheel designs, glowing steadily",
+      "chapter": "Nấc 3: Mangekyo vĩnh hằng",
+      "on_screen_text": "Mangekyo vĩnh hằng"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Người dùng phải cấy ghép đôi mắt Mangekyo của một người ruột thịt, thường là anh em. Hai hoa văn hòa vào nhau thành một hoa văn mới."
+      },
+      "image_prompt": "two pinwheel eye patterns overlapping and merging into a new combined design"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kết quả: người dùng không còn bị mù dần nữa, và sức mạnh của Mangekyo tăng lên rõ rệt."
+      },
+      "image_prompt": "a figure opening newly clear eyes, a stronger and brighter chakra warrior forming around them",
+      "on_screen_text": "Không mù + mạnh hơn"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Trong lịch sử truyện, chỉ vài người đạt được nấc này, và mỗi lần đều gắn với một câu chuyện anh em đầy đau đớn."
+      },
+      "image_prompt": "two brother silhouettes back to back on a cliff at sunset, one fading like smoke"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku ghi chú: đến đây, bạn có thể thấy quy luật: mỗi nấc tiến hóa đều được trả bằng thứ quý giá hơn. Mắt của mình, rồi mắt của người thân."
+      },
+      "image_prompt": "the owl mascot drawing a staircase of price tags getting larger with each step",
+      "use_mascot": true
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Bên cạnh các nấc tiến hóa, Sharingan còn có những thuật cấm, mạnh đến mức gia tộc Uchiha phải hạn chế sử dụng."
+      },
+      "image_prompt": "an old locked chest sealed with red talismans in a dark Uchiha shrine",
+      "chapter": "Những thuật cấm: Izanagi và Izanami",
+      "on_screen_text": "Thuật cấm"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Izanagi cho phép người dùng viết lại thực tại trong một thời gian ngắn: những gì bất lợi xảy ra với họ có thể biến thành như chưa từng xảy ra."
+      },
+      "image_prompt": "a scene rewinding like a film strip, a fatal wound disappearing as if it never happened",
+      "on_screen_text": "Izanagi: viết lại thực tại"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Cái giá: con mắt dùng Izanagi sẽ vĩnh viễn mất ánh sáng. Một con mắt đổi lấy vài giây như một vị thần."
+      },
+      "image_prompt": "a single eye closing permanently, turning grey, while the figure stands unharmed"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Izanami được tạo ra như thuật để chấm dứt Izanagi: nó giam đối thủ trong một vòng lặp cho tới khi họ chấp nhận sự thật về bản thân."
+      },
+      "image_prompt": "a figure trapped in a repeating loop of the same moment, drawn as a circular film strip",
+      "on_screen_text": "Izanami: vòng lặp"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Hai thuật này cho thấy một ý tưởng sâu sắc của truyện: sức mạnh lớn nhất không phải trốn tránh thực tại, mà là chấp nhận nó."
+      },
+      "image_prompt": "a figure stepping out of a circular loop into a calm sunrise"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Mỗi nấc tiến hóa gắn với những nhân vật cụ thể. Hãy điểm qua vài người để thấy mỗi người dùng Sharingan theo một cách rất riêng."
+      },
+      "image_prompt": "a row of six silhouettes with glowing red eyes standing on a misty hill",
+      "chapter": "Những người sở hữu tiêu biểu",
+      "on_screen_text": "Người sở hữu tiêu biểu"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Itachi được biết đến với ảo thuật cực mạnh và tài năng từ nhỏ. Anh dùng Sharingan không để phô diễn mà để kết thúc trận đấu nhanh nhất có thể."
+      },
+      "image_prompt": "a calm ninja silhouette in a cloak with crows scattering around him under a red moon"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Sasuke là người đi hết gần như toàn bộ bậc thang: từ một dấu phẩy, tới Mangekyo, Mangekyo vĩnh hằng, rồi Rinnegan. Hành trình của anh cũng là hành trình của thù hận và chuộc lỗi."
+      },
+      "image_prompt": "a young ninja silhouette climbing a long staircase of glowing eyes, darkness below and light above"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Madara là huyền thoại của gia tộc, người đầu tiên đạt Mangekyo vĩnh hằng được biết đến và sau này là Rinnegan. Sức mạnh của ông định hình cả lịch sử làng Lá."
+      },
+      "image_prompt": "a legendary warrior silhouette with long wild hair standing on a colossal chakra warrior over a battlefield"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Shisui được nhắc tới với một ảo thuật có thể thay đổi suy nghĩ của người khác mà họ không hề hay biết, được xem là một trong những ảo thuật mạnh nhất."
+      },
+      "image_prompt": "a gentle ninja silhouette on a cliff, an eye glowing with a unique pattern, soft light around a village below"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Obito cho thấy mặt tối của Sharingan: một người từng muốn trở thành Hokage, nhưng mất mát đã đẩy anh vào con đường khác hẳn."
+      },
+      "image_prompt": "a masked figure standing in front of a swirling vortex, a broken goggle lying on the ground"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku nhận xét: cùng một đôi mắt, nhưng mỗi người dùng nó theo cách phản ánh con người họ. Lại là quy luật sức mạnh gắn với tính cách."
+      },
+      "image_prompt": "the owl mascot looking at six small portraits pinned on a wall",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Sharingan không phải đôi mắt đặc biệt duy nhất. Trong Naruto còn có những huyết kế giới hạn liên quan tới mắt khác, nổi bật nhất là Byakugan."
+      },
+      "image_prompt": "two eye symbols side by side: a red eye with comma marks and a pale white eye with visible veins",
+      "chapter": "Sharingan so với các đôi mắt khác",
+      "on_screen_text": "Sharingan vs Byakugan"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Byakugan của gia tộc Hyuga cho tầm nhìn gần như ba trăm sáu mươi độ, nhìn xuyên vật cản, và thấy rõ hệ thống kinh mạch chakra trong cơ thể."
+      },
+      "image_prompt": "a pale-eyed ninja seeing through walls, a glowing network of chakra points visible inside a target"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Nếu Sharingan là đôi mắt của sao chép và ảo thuật, thì Byakugan là đôi mắt của nhìn thấu và đánh chính xác vào điểm yếu."
+      },
+      "image_prompt": "a split image: a red eye copying a hand seal, a pale eye targeting glowing points on a body"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Điểm khác lớn: Byakugan không có bậc thang tiến hóa đau đớn như Sharingan. Nó ổn định hơn, nhưng cũng ít biến đổi hơn."
+      },
+      "image_prompt": "a flat stable line next to a dramatic staircase, both glowing"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Sự khác biệt này phản ánh hai gia tộc: một bên bị cuốn vào cảm xúc mãnh liệt, một bên đề cao truyền thống và kỷ luật."
+      },
+      "image_prompt": "two family crests on banners, one red fan, one pale symbol, fluttering in wind"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Ở đỉnh bậc thang tiến hóa là Rinnegan, con mắt được xem là huyền thoại, gắn với vị tổ của thế giới ninja."
+      },
+      "image_prompt": "a pale purple eye with concentric rings glowing softly against a starry background",
+      "chapter": "Nấc cuối: Rinnegan",
+      "on_screen_text": "Rinnegan",
+      "video_prompt": "concentric rings ripple outward across the pale eye as stars drift behind, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Theo truyện, Rinnegan thức tỉnh khi Sharingan kết hợp với sức mạnh của gia tộc Senju, hai dòng máu vốn cùng một nguồn gốc xa xưa."
+      },
+      "image_prompt": "two ancient energies, one red and one green, spiraling together and forming concentric rings",
+      "on_screen_text": "Uchiha + Senju"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Người có Rinnegan dùng được nhiều loại năng lực khác nhau: điều khiển lực hút và lực đẩy, và cả những năng lực liên quan đến sự sống và cái chết."
+      },
+      "image_prompt": "a figure pushing away debris with an invisible force while pulling another object toward them",
+      "on_screen_text": "Lực hút · Lực đẩy"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Ở giai đoạn cuối cuộc chiến, còn xuất hiện một dạng Rinnegan có cả dấu phẩy của Sharingan, với sức mạnh ở tầm thần thoại."
+      },
+      "image_prompt": "a third eye glowing on a forehead with rings and comma marks, above a moonlit battlefield",
+      "on_screen_text": "Tầm thần thoại"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: ở nấc này, truyện chuyển từ chuyện gia tộc sang chuyện nguồn gốc của cả thế giới. Đôi mắt trở thành chìa khóa của lịch sử."
+      },
+      "image_prompt": "the owl mascot holding a small key shaped like a ringed eye in front of an ancient door",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Trước khi tổng kết, cùng gỡ vài hiểu lầm phổ biến về Sharingan."
+      },
+      "image_prompt": "a notice board with four pinned cards with red question marks",
+      "chapter": "Những hiểu lầm về Sharingan",
+      "on_screen_text": "Hiểu lầm"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Hiểu lầm một: Sharingan sao chép được mọi thứ. Nó không sao chép được huyết kế giới hạn, và người dùng vẫn cần đủ chakra và thể lực để làm lại nhẫn thuật."
+      },
+      "image_prompt": "a copy diagram with a large red cross over a unique bloodline icon",
+      "on_screen_text": "1. Không sao chép mọi thứ"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hiểu lầm hai: Uchiha nào cũng có Mangekyo. Thực tế rất ít người đạt được nó, vì nó đòi hỏi một nỗi đau mà không ai muốn trải qua."
+      },
+      "image_prompt": "a crowd of silhouettes with ordinary red eyes and only one with a pinwheel pattern",
+      "on_screen_text": "2. Mangekyo rất hiếm"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Hiểu lầm ba: Sharingan là thứ mạnh nhất trong Naruto. Nhiều nhân vật không có nó vẫn đứng ở hàng mạnh nhất nhờ chakra, kỹ năng và ý chí."
+      },
+      "image_prompt": "a ninja with no special eyes standing confidently with swirling orange energy around him",
+      "on_screen_text": "3. Không phải mạnh nhất"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Hiểu lầm bốn: cấy mắt là cách dễ để mạnh lên. Người không hợp dòng máu bị tiêu hao chakra nặng, và việc cấy ghép luôn kèm theo những câu chuyện đau lòng."
+      },
+      "image_prompt": "a tired ninja clutching a covered eye, surrounded by shadows",
+      "on_screen_text": "4. Cấy mắt không dễ"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Giờ một trò vui: nếu bạn sinh ra trong gia tộc Uchiha, bạn sẽ đi tới nấc nào? Đây chỉ là trò chơi thôi nhé."
+      },
+      "image_prompt": "a quiz card with a staircase of eye symbols and a small figure at the bottom",
+      "chapter": "Trắc nghiệm: nếu bạn sinh ra trong gia tộc Uchiha",
+      "on_screen_text": "Trắc nghiệm vui"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nếu bạn sống bình yên và may mắn không mất ai, có lẽ bạn sẽ dừng ở một đến ba dấu phẩy. Và thành thật mà nói, đó là cái kết hạnh phúc nhất."
+      },
+      "image_prompt": "a peaceful figure with a gentle red glow in their eyes sitting under a cherry tree",
+      "on_screen_text": "Ba dấu phẩy: hạnh phúc nhất"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn trải qua mất mát lớn, Mangekyo có thể thức tỉnh. Nhưng bạn sẽ phải chọn: dùng nó và mất dần ánh sáng, hay cất nó đi."
+      },
+      "image_prompt": "a figure standing at a fork between a dark path and a gentle path, eyes glowing with a new pattern",
+      "on_screen_text": "Mangekyo: phải chọn"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và nếu bạn bị cuốn vào vòng thù hận, bạn có thể leo cao hơn nữa. Nhưng như truyện đã cho thấy, mỗi bậc thang đó đều trả bằng một phần trái tim."
+      },
+      "image_prompt": "a figure climbing a staircase into darkness, leaving pieces of light behind on each step",
+      "on_screen_text": "Leo cao: trả bằng trái tim"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku chọn ở lại nấc đầu, uống trà và đọc sách. Còn bạn thì sao?"
+      },
+      "image_prompt": "the owl mascot sipping tea with a small red glint in its glasses, smiling",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Trước khi đi tiếp, hãy nhìn lại toàn bộ bậc thang một lượt, như một bảng tóm tắt nhanh."
+      },
+      "image_prompt": "a vertical infographic of five glowing eye stages from bottom to top on a dark scroll",
+      "chapter": "Nhìn lại bậc thang",
+      "on_screen_text": "Nhìn lại bậc thang"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nấc một, một đến ba dấu phẩy: đổi bằng một khoảnh khắc cảm xúc mạnh. Đây là nấc duy nhất mà cái giá vẫn còn nhẹ."
+      },
+      "image_prompt": "the bottom step glowing softly with a single comma-marked eye and a small heart icon"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nấc hai, Mangekyo: đổi bằng mất mát người thân và ánh sáng của chính đôi mắt mình."
+      },
+      "image_prompt": "the second step with a pinwheel eye and a cracked heart icon"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nấc ba, Mangekyo vĩnh hằng: đổi bằng đôi mắt của anh em ruột, cái giá mà nhiều người không bao giờ tha thứ cho bản thân."
+      },
+      "image_prompt": "the third step with a merged eye pattern and two linked silhouettes fading"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Nấc cuối, Rinnegan: đổi bằng sự hòa trộn hai dòng máu cổ xưa, thường đi kèm những biến cố làm rung chuyển cả thế giới."
+      },
+      "image_prompt": "the top step glowing purple with concentric rings above a trembling world map"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nhìn như vậy, bạn sẽ thấy Sharingan không phải món quà, mà là một khoản vay. Và thế giới ninja luôn bắt người vay trả lại."
+      },
+      "image_prompt": "a ledger book with red entries, a quill resting on the open page"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Nhìn toàn bộ bậc thang, ta thấy một điều đáng sợ: mỗi nấc sức mạnh đều được mua bằng mất mát."
+      },
+      "image_prompt": "the owl mascot standing at the bottom of a red staircase lined with fading lanterns",
+      "chapter": "Góc nhìn của Kaku: lời nguyền của thù hận",
+      "use_mascot": true
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Truyện gọi đây là lời nguyền của thù hận. Tình yêu sâu sắc biến thành nỗi đau, nỗi đau biến thành sức mạnh, và sức mạnh lại gây ra thêm nỗi đau."
+      },
+      "image_prompt": "a circular diagram with three arrows: a heart, a broken heart, and a glowing eye, looping endlessly",
+      "on_screen_text": "Vòng lặp thù hận"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Đó là lý do nhiều thế hệ Uchiha rơi vào bi kịch. Gia tộc mạnh nhất cũng là gia tộc chịu nhiều mất mát nhất."
+      },
+      "image_prompt": "a quiet abandoned compound with fan emblems fading on the walls under a grey sky"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Nhưng truyện cũng cho thấy lối thoát: những nhân vật chọn tin tưởng và tha thứ thay vì thù hận đã phá được vòng lặp đó."
+      },
+      "image_prompt": "two hands reaching out to each other across a broken bridge at sunrise",
+      "on_screen_text": "Lối thoát: tha thứ"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "So với Nen hay hơi thở trong Kimetsu mà mình từng giải thích, Sharingan là hệ thống gắn chặt nhất với cảm xúc. Sức mạnh là câu chuyện, và câu chuyện là sức mạnh."
+      },
+      "image_prompt": "three symbols side by side: a hexagon, a pair of lungs, and a red eye, each glowing"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Tóm lại: Sharingan thức tỉnh từ cảm xúc mạnh, tăng từ một tới ba dấu phẩy, giúp nhìn chakra, đọc chuyển động, sao chép và tạo ảo thuật."
+      },
+      "image_prompt": "a summary ladder of eye symbols from one comma to three",
+      "chapter": "Tóm tắt",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Mangekyo đến từ mất mát lớn, cho năng lực riêng nhưng làm mù dần. Mangekyo vĩnh hằng đổi bằng đôi mắt của người thân."
+      },
+      "image_prompt": "two eye patterns merging above a small price tag"
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Và ở đỉnh là Rinnegan, con mắt nối Sharingan với nguồn gốc của thế giới ninja."
+      },
+      "image_prompt": "a ringed purple eye at the top of the staircase glowing softly"
+    },
+    {
+      "id": "s93",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu có Mangekyo, bạn muốn năng lực gì, và bạn có chấp nhận cái giá đi kèm không? Viết xuống phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a red lantern and a small scale, thinking",
+      "on_screen_text": "Bạn chọn năng lực gì?",
+      "use_mascot": true
+    },
+    {
+      "id": "s94",
+      "narration": {
+        "vi": "Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ giải mã luật ác quỷ và nỗi sợ trong Chainsaw Man."
+      },
+      "image_prompt": "the owl mascot pointing at a shadowy figure with a chainsaw motif made of abstract shapes",
+      "use_mascot": true
+    },
+    {
+      "id": "s95",
+      "narration": {
+        "vi": "Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing a glowing notebook and waving goodbye under a moonlit sky",
+      "use_mascot": true
+    }
+  ]
+}
