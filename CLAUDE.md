@@ -35,7 +35,9 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 
 - `channel/profile.md`: hồ sơ kênh, nguồn sự thật duy nhất về giọng văn, cấu trúc, phong cách hình và danh sách CẤM.
 - `channel/references/<handle>.md`: phân tích từng kênh mẫu.
-- `channel/topics.md`: danh sách chủ đề đã chấm điểm.
+- `channel/topics.md`: danh sách chủ đề đã chấm điểm, kèm dạng video và ngày đăng.
+- `channel/formats.md`: danh mục dạng video (A–R) và khung của từng dạng.
+- `channel/references/nghien-cuu-nganh-<năm>.md` và `nhat-ky-hoc-hoi.md`: nghiên cứu ngách và 3 điều học được mỗi đợt.
 - `channel/costs.md`: sổ chi phí.
 - `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
 - `tools/`: công cụ Python (TranscriptAPI, Gemini TTS/ảnh, ffmpeg). Cài bằng `pip install -r tools/requirements.txt`, chạy test bằng `pytest tools/tests`.
@@ -43,14 +45,16 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 ### Quy trình
 
 1. `/yt-analyzer`: phân tích kênh mẫu, cập nhật `channel/profile.md`.
-2. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh và gói thông tin đăng tải.
-3. `/yt-seedance` (tuỳ chọn): tối đa 6 clip Seedance 2.5 × 5 giây cho cảnh "đinh"; mặc định làm thủ công trên app Dreamina/CapCut.
+2. `/yt-research`: **luôn chạy trước mỗi đợt kịch bản** (hoặc khi nhật ký học hỏi đã quá 2 tuần). Tìm anime hot, xem các kênh anime khác làm gì, ghi 3 điều học được.
+3. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh và gói thông tin đăng tải.
+4. `/yt-seedance` (tuỳ chọn): tối đa 6 clip Seedance 2.5 × 5 giây cho cảnh "đinh"; mặc định làm thủ công trên app Dreamina/CapCut.
 
 ### Quy tắc cứng
 
 - **Không dùng cảnh phim, ảnh chụp màn hình, trang manga hay art chính thức.** Chỉ dùng hình AI tự tạo, chữ và sơ đồ.
 - Mọi thông tin thật trong kịch bản phải có nguồn, ghi trong `brief.md`.
-- Khi viết kịch bản, không nạp transcript của kênh mẫu; chỉ dùng `channel/profile.md`.
-- **Trước mỗi lần gọi API tốn tiền** (tạo ảnh, giọng đọc): báo ước tính chi phí bằng `python tools/costs.py estimate` và chờ người dùng đồng ý.
+- Khi viết kịch bản, không nạp transcript của kênh mẫu; chỉ dùng `channel/profile.md` và `nhat-ky-hoc-hoi.md`.
+- Mỗi video theo một dạng trong `channel/formats.md`: không có 2 video liền nhau cùng dạng, mỗi dạng tối đa 2 lần trong 30 video. Kiểm tra bằng `python -m tools.plan_check`.
+- **Trước mỗi lần gọi API tốn tiền** (tạo ảnh, giọng đọc): báo ước tính chi phí bằng `python -m tools.costs estimate` và chờ người dùng đồng ý.
 - Key API chỉ đọc từ biến môi trường `TRANSCRIPT_API_KEY` và `GEMINI_API_KEY`. Không bao giờ yêu cầu người dùng dán key vào chat.
 - Video MP4 gửi cho người dùng bằng SendUserFile, không commit lên git.

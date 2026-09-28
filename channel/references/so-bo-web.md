@@ -11,6 +11,12 @@
 | @meoluoilongtieng | Không tìm thấy; theo tên kênh, có thể là lồng tiếng Việt cảnh anime (rủi ro bản quyền cao). | — |
 | @mikoreview-f6t | Không tìm thấy thông tin. | — |
 
+## Lần chạy `/yt-analyzer` thứ hai (2026-09-28, vẫn chưa có key)
+
+- Tìm lại 3 kênh Việt (@quinquinreview, @meoluoilongtieng, @mikoreview-f6t) bằng tìm kiếm web: vẫn không có kết quả. Cần TranscriptAPI để đọc danh sách video.
+- Mở rộng sang kênh tham khảo quốc tế (Gigguk, Mother's Basement) và xu hướng 2026: xem `nghien-cuu-nganh-2026.md`.
+- 3 điều học được đã ghi vào `nhat-ky-hoc-hoi.md`.
+
 ## Rút ra tạm thời
 
 - Hai kênh Brazil lớn đều sống nhờ **người dẫn có cá tính** và **chuyên sâu vài bộ dài kỳ** (One Piece, HxH). Kênh AI cần linh vật dẫn chuyện để thay cho người dẫn thật.

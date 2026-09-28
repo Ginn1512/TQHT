@@ -33,6 +33,13 @@ def estimate(board: scenes.Storyboard, languages: list[str] | None = None, image
     return {"images": n_images, "clip_seconds": clip_s, "tts_seconds": seconds, "usd": round(usd, 3)}
 
 
+def video_seconds(board: scenes.Storyboard) -> float:
+    """Độ dài video ước tính từ lời thoại ngôn ngữ chính (giọng + khoảng lặng mỗi cảnh)."""
+    lang = config.PRIMARY_LANGUAGE
+    speech = sum(len(s.narration.get(lang, "")) for s in board.scenes)
+    return speech / config.CHARS_PER_SECOND[lang] + len(board.scenes) * config.SCENE_PADDING_S
+
+
 def load_usage(video_dir: Path) -> dict:
     path = Path(video_dir) / COST_FILE
     if path.exists():
@@ -98,8 +105,7 @@ def main() -> None:
         for lang, s in est["tts_seconds"].items():
             print(f"Giọng {lang}: ~{s / 60:.1f} phút")
         print(f"Ước tính: ~{est['usd']:.2f} USD")
-        speech = sum(len(s.narration.get(config.PRIMARY_LANGUAGE, "")) for s in board.scenes)
-        total_s = speech / config.CHARS_PER_SECOND[config.PRIMARY_LANGUAGE] + len(board.scenes) * config.SCENE_PADDING_S
+        total_s = video_seconds(board)
         print(f"Độ dài video ước tính: ~{total_s / 60:.1f} phút")
         problem = timing.length_problem(total_s)
         if problem:

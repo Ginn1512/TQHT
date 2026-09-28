@@ -16,6 +16,8 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 
 ## 1. Nghiên cứu → `videos/<YYYY-MM-DD>-<slug>/brief.md`
 
+- Nếu mục mới nhất trong `channel/references/nhat-ky-hoc-hoi.md` đã quá 2 tuần, hoặc bộ anime chưa từng làm: chạy skill `/yt-research` trước.
+- Chọn dạng video trong `channel/formats.md` theo `channel/topics.md` và **theo đúng khung của dạng đó** (mở đầu, chương đặc thù, cách kết). Không lặp khung của video trước.
 - Chủ đề, góc nhìn, câu hỏi mà video trả lời cho người xem.
 - Mức spoiler: tới chương hoặc tập nào.
 - **Danh sách sự thật kèm URL nguồn** (wiki, nguồn chính thức, phỏng vấn tác giả), tìm bằng WebSearch. Lý thuyết của fan phải ghi rõ là lý thuyết.
