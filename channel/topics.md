@@ -42,7 +42,7 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 21 | 2026-12-05 | Phân tích chiến thuật trận Tanjiro vs Rui | Kimetsu no Yaiba | M · Phân tích trận đấu | 4 | ? | 4 | 3 | 11 | `videos/2026-12-05-phan-tich-tran-tanjiro-rui/` | Kịch bản xong — chờ kiểm nguồn |
 | 22 | 2026-12-08 | Những chi tiết cài cắm từ tập 1 | Attack on Titan | R · Cài cắm và chi tiết ẩn | 5 | ? | 4 | 3 | 12 | `videos/2026-12-08-cai-cam-attack-on-titan/` | Kịch bản xong — chờ kiểm nguồn |
 | 23 | 2026-12-12 | 10 hiểu lầm phổ biến | Naruto | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2026-12-12-10-hieu-lam-naruto/` | Kịch bản xong — chờ kiểm nguồn |
-| 24 | 2026-12-15 | Nếu bạn tập trong Phòng Thời Gian Tinh Thần | Dragon Ball | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 5 | 14 | `videos/2026-12-15-phong-thoi-gian-tinh-than-dragon-ball/` | Chưa viết |
+| 24 | 2026-12-15 | Nếu bạn tập trong Phòng Thời Gian Tinh Thần | Dragon Ball | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 5 | 14 | `videos/2026-12-15-phong-thoi-gian-tinh-than-dragon-ball/` | Kịch bản xong — chờ kiểm nguồn |
 | 25 | 2026-12-19 | Dòng thời gian 1.000 năm từ thời Heian | Jujutsu Kaisen | O · Dòng thời gian | 4 | ? | 4 | 4 | 12 | `videos/2026-12-19-dong-thoi-gian-jujutsu-kaisen/` | Chưa viết |
 | 26 | 2026-12-22 | Khoa học thật đằng sau các phát minh của Senku | Dr. Stone (mùa cuối 2026) | P · Khoa học trong anime | 4 | ? | 5 | 5 | 14 | `videos/2026-12-22-khoa-hoc-that-dr-stone/` | Chưa viết |
 | 27 | 2026-12-26 | Nhập môn: hậu cung, thuốc và độc | Dược sư tự sự (mùa 3 đang phát) | Q · Nhập môn | 5 | ? | 4 | 4 | 13 | `videos/2026-12-26-nhap-mon-duoc-su-tu-su/` | Chưa viết |
