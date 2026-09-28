@@ -29,6 +29,8 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 
 Kênh tiếng Việt, video phân tích/giải thích anime dài 10–15 phút, hình AI tự vẽ, lồng tiếng thêm theo lộ trình ghi trong `channel/profile.md`.
 
+Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả trang xem trên điện thoại https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f).
+
 ### Cấu trúc
 
 - `channel/profile.md`: hồ sơ kênh, nguồn sự thật duy nhất về giọng văn, cấu trúc, phong cách hình và danh sách CẤM.
