@@ -210,16 +210,26 @@
 
 **s88** — So với các hệ thống mình đã giải thích, Chainsaw Man là hệ thống duy nhất mà sức mạnh không nằm trong nhân vật, mà nằm trong đầu của cả loài người.
 
+## Nỗi sợ ngoài đời thật
+
+**s89** — Trước khi tổng kết, thử áp luật của Chainsaw Man vào thế giới thật một chút. Nếu nỗi sợ tạo ra quỷ, thì quỷ nào sẽ mạnh nhất hôm nay?
+
+**s90** — Có thể là nỗi sợ bệnh tật, nỗi sợ thất nghiệp, nỗi sợ bị bỏ lại phía sau. Những nỗi sợ này không có hình dạng, nhưng rất nhiều người cùng mang.
+
+**s91** — Bài học nhẹ nhàng mà truyện gợi ra: nỗi sợ càng được nuôi lớn thì càng mạnh. Hiểu nó, gọi tên nó, là cách đầu tiên để nó nhỏ lại.
+
+**s92** — Kaku không phải chuyên gia tâm lý, nhưng Kaku biết một điều: kể nỗi sợ cho người mình tin tưởng thường giúp nó nhẹ đi rất nhiều.
+
 ## Tóm tắt
 
-**s89** — Tóm lại: quỷ sinh ra từ nỗi sợ của con người, và con người càng sợ thì quỷ càng mạnh.
+**s93** — Tóm lại: quỷ sinh ra từ nỗi sợ của con người, và con người càng sợ thì quỷ càng mạnh.
 
-**s90** — Quỷ tái sinh giữa địa ngục và trái đất. Con người chiến đấu bằng khế ước, trả giá bằng cơ thể hoặc tuổi thọ.
+**s94** — Quỷ tái sinh giữa địa ngục và trái đất. Con người chiến đấu bằng khế ước, trả giá bằng cơ thể hoặc tuổi thọ.
 
-**s91** — Và con quỷ cưa máy đặc biệt vì khi ăn quỷ, nó xóa cả khái niệm đó khỏi thế giới.
+**s95** — Và con quỷ cưa máy đặc biệt vì khi ăn quỷ, nó xóa cả khái niệm đó khỏi thế giới.
 
-**s92** — Câu hỏi cho bạn: nỗi sợ nào của bạn, nếu thành quỷ, sẽ mạnh nhất? Viết xuống phần bình luận nhé, nhưng đừng sợ quá kẻo nó mạnh lên đấy.
+**s96** — Câu hỏi cho bạn: nỗi sợ nào của bạn, nếu thành quỷ, sẽ mạnh nhất? Viết xuống phần bình luận nhé, nhưng đừng sợ quá kẻo nó mạnh lên đấy.
 
-**s93** — Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ so sánh Chakra, Nen và Chú lực: hệ thống nào chặt chẽ nhất?
+**s97** — Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ so sánh Chakra, Nen và Chú lực: hệ thống nào chặt chẽ nhất?
 
-**s94** — Kaku gấp sổ đây, hẹn gặp lại!
+**s98** — Kaku gấp sổ đây, hẹn gặp lại!

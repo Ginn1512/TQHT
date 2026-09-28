@@ -405,9 +405,9 @@
       "narration": {
         "vi": "Denji là người lai với quỷ cưa máy. Anh kéo sợi dây trên ngực, và cưa máy mọc ra từ đầu và tay."
       },
-      "image_prompt": "a figure with chainsaws emerging from head and arms, revving loudly in a dark alley",
+      "image_prompt": "a hooded silhouette wielding two roaring saw blades of light in a dark alley",
       "on_screen_text": "Denji: kéo dây",
-      "video_prompt": "the cord is pulled and chainsaws burst out with sparks and smoke, camera shakes then settles",
+      "video_prompt": "the cord is pulled and glowing saw blades burst out with sparks and smoke, camera shakes then settles",
       "clip_seconds": 5
     },
     {
@@ -461,7 +461,7 @@
       "narration": {
         "vi": "Và giờ tới bí ẩn lớn nhất phần một: vì sao con quỷ cưa máy lại được những thế lực mạnh nhất săn lùng?"
       },
-      "image_prompt": "a mysterious figure with chainsaws silhouetted against a blood-red moon, shadows watching from rooftops",
+      "image_prompt": "a mysterious hooded silhouette with glowing saw blades against a blood-red moon, shadows watching from rooftops",
       "chapter": "Con quỷ cưa máy: vì sao đặc biệt?",
       "on_screen_text": "Bí ẩn cưa máy"
     },
@@ -494,7 +494,7 @@
       "narration": {
         "vi": "Vì thế, trong địa ngục, những con quỷ sợ con quỷ cưa máy. Nó được gọi là anh hùng của địa ngục, thứ đáng sợ với cả quỷ."
       },
-      "image_prompt": "countless devil silhouettes fleeing in a pale hellscape as a single figure with chainsaws approaches",
+      "image_prompt": "countless devil silhouettes fleeing in a pale hellscape as a single hooded figure with glowing saw blades approaches",
       "on_screen_text": "Anh hùng của địa ngục"
     },
     {
@@ -567,7 +567,7 @@
       "narration": {
         "vi": "Chính giấc mơ nhỏ bé đó làm anh trở thành một nhân vật đặc biệt. Trong một thế giới đầy nỗi sợ, anh chiến đấu vì những điều giản dị."
       },
-      "image_prompt": "a figure with chainsaws standing protectively in front of a small warm window with light inside"
+      "image_prompt": "a hooded silhouette with glowing saw blades standing protectively in front of a small warm window with light inside"
     },
     {
       "id": "s72",
@@ -663,7 +663,7 @@
       "narration": {
         "vi": "Hiểu lầm bốn: Denji mạnh vì cưa máy sắc. Sức mạnh thật của anh nằm ở năng lực độc nhất của con quỷ cưa máy, và ở việc anh không bao giờ chịu bỏ cuộc."
       },
-      "image_prompt": "a battered figure with chainsaws standing up again in the rain, determined",
+      "image_prompt": "a battered hooded figure with glowing saw blades standing up again in the rain, determined",
       "on_screen_text": "4. Sức mạnh thật ở chỗ khác"
     },
     {
@@ -710,6 +710,37 @@
     {
       "id": "s89",
       "narration": {
+        "vi": "Trước khi tổng kết, thử áp luật của Chainsaw Man vào thế giới thật một chút. Nếu nỗi sợ tạo ra quỷ, thì quỷ nào sẽ mạnh nhất hôm nay?"
+      },
+      "image_prompt": "a modern city at night with faint shadows rising from glowing phone screens and news tickers",
+      "chapter": "Nỗi sợ ngoài đời thật",
+      "on_screen_text": "Nỗi sợ hôm nay"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Có thể là nỗi sợ bệnh tật, nỗi sợ thất nghiệp, nỗi sợ bị bỏ lại phía sau. Những nỗi sợ này không có hình dạng, nhưng rất nhiều người cùng mang."
+      },
+      "image_prompt": "a crowd of silhouettes each carrying a small shadow on their back, walking through a busy street"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Bài học nhẹ nhàng mà truyện gợi ra: nỗi sợ càng được nuôi lớn thì càng mạnh. Hiểu nó, gọi tên nó, là cách đầu tiên để nó nhỏ lại."
+      },
+      "image_prompt": "a person shining a small flashlight at a large shadow, which shrinks into a small harmless shape"
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Kaku không phải chuyên gia tâm lý, nhưng Kaku biết một điều: kể nỗi sợ cho người mình tin tưởng thường giúp nó nhẹ đi rất nhiều."
+      },
+      "image_prompt": "the owl mascot sitting next to a small friend on a bench under a streetlight, talking quietly",
+      "use_mascot": true
+    },
+    {
+      "id": "s93",
+      "narration": {
         "vi": "Tóm lại: quỷ sinh ra từ nỗi sợ của con người, và con người càng sợ thì quỷ càng mạnh."
       },
       "image_prompt": "a summary diagram: human fear flowing into a growing devil silhouette",
@@ -717,21 +748,21 @@
       "on_screen_text": "Tóm tắt"
     },
     {
-      "id": "s90",
+      "id": "s94",
       "narration": {
         "vi": "Quỷ tái sinh giữa địa ngục và trái đất. Con người chiến đấu bằng khế ước, trả giá bằng cơ thể hoặc tuổi thọ."
       },
       "image_prompt": "a looping arrow between two worlds next to a contract with a price tag"
     },
     {
-      "id": "s91",
+      "id": "s95",
       "narration": {
         "vi": "Và con quỷ cưa máy đặc biệt vì khi ăn quỷ, nó xóa cả khái niệm đó khỏi thế giới."
       },
       "image_prompt": "an eraser wiping a word off an old book page, leaving a blank space"
     },
     {
-      "id": "s92",
+      "id": "s96",
       "narration": {
         "vi": "Câu hỏi cho bạn: nỗi sợ nào của bạn, nếu thành quỷ, sẽ mạnh nhất? Viết xuống phần bình luận nhé, nhưng đừng sợ quá kẻo nó mạnh lên đấy."
       },
@@ -740,7 +771,7 @@
       "use_mascot": true
     },
     {
-      "id": "s93",
+      "id": "s97",
       "narration": {
         "vi": "Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ so sánh Chakra, Nen và Chú lực: hệ thống nào chặt chẽ nhất?"
       },
@@ -748,7 +779,7 @@
       "use_mascot": true
     },
     {
-      "id": "s94",
+      "id": "s98",
       "narration": {
         "vi": "Kaku gấp sổ đây, hẹn gặp lại!"
       },

@@ -208,16 +208,26 @@
 
 **s88** — Kaku nhắc: nếu bạn muốn một video riêng về bí ẩn của cổng và những thế lực đứng sau, có spoiler đầy đủ, hãy bình luận để mình biết nhé.
 
+## Nếu Solo Leveling có phần tiếp theo trong đời bạn
+
+**s89** — Trước khi tổng kết, Kaku muốn bàn một câu hỏi nhỏ: vì sao câu chuyện về một người lên cấp lại khiến nhiều người muốn thay đổi bản thân đến vậy?
+
+**s90** — Có lẽ vì Solo Leveling nói điều mà ai cũng muốn nghe: vị trí xuất phát không quyết định vị trí kết thúc.
+
+**s91** — Trong truyện, người khác bị khóa ở hạng của mình. Ngoài đời, may mắn là chúng ta không bị khóa như vậy. Ai cũng có thể lên cấp, chỉ là chậm hơn và không có màn hình báo điểm.
+
+**s92** — Và đó là lý do Kaku nghĩ nhiệm vụ hằng ngày là bài học hay nhất của bộ truyện, hay hơn cả những trận đấu hoành tráng.
+
 ## Tóm tắt
 
-**s89** — Tóm lại: cổng mở ra hầm ngục, không dọn kịp thì quái vật tràn ra. Cổng và thợ săn đều được xếp hạng từ E đến S.
+**s93** — Tóm lại: cổng mở ra hầm ngục, không dọn kịp thì quái vật tràn ra. Cổng và thợ săn đều được xếp hạng từ E đến S.
 
-**s90** — Hạng thợ săn gần như cố định suốt đời, và nó quyết định tiền bạc, địa vị và sự an toàn của họ.
+**s94** — Hạng thợ săn gần như cố định suốt đời, và nó quyết định tiền bạc, địa vị và sự an toàn của họ.
 
-**s91** — Jinwoo phá vỡ luật đó nhờ Hệ thống, rồi trở thành chủ nhân của một đội quân bóng tối ngày càng lớn.
+**s95** — Jinwoo phá vỡ luật đó nhờ Hệ thống, rồi trở thành chủ nhân của một đội quân bóng tối ngày càng lớn.
 
-**s92** — Câu hỏi cho bạn: nếu thức tỉnh, bạn muốn đóng vai trò nào trong đội: đỡ đòn, pháp sư, hồi phục hay sát thủ? Viết xuống phần bình luận nhé.
+**s96** — Câu hỏi cho bạn: nếu thức tỉnh, bạn muốn đóng vai trò nào trong đội: đỡ đòn, pháp sư, hồi phục hay sát thủ? Viết xuống phần bình luận nhé.
 
-**s93** — Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ giải mã sự tiến hóa của Sharingan trong Naruto.
+**s97** — Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ giải mã sự tiến hóa của Sharingan trong Naruto.
 
-**s94** — Kaku gấp sổ đây, hẹn gặp lại!
+**s98** — Kaku gấp sổ đây, hẹn gặp lại!

@@ -1,0 +1,778 @@
+{
+  "title": "Dragon Ball: Xếp hạng các dạng Super Saiyan theo sức mạnh và cái giá",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Dragon Ball Z, Dragon Ball Super đến arc Kẻ sống sót trên hành tinh và phim Super Hero. Nếu chưa xem tới đó, hãy lưu video lại nhé."
+      },
+      "image_prompt": "a rocky wasteland at dusk with a single glowing golden light on the horizon",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Có lẽ không có biến hình nào nổi tiếng hơn khoảnh khắc mái tóc chuyển sang màu vàng, đôi mắt xanh lạnh lùng, và hào quang bùng lên như ngọn lửa."
+      },
+      "image_prompt": "a silhouette with spiky hair turning golden, a blazing golden aura exploding upward against a dark sky",
+      "video_prompt": "the hair flickers and turns golden as the aura erupts upward, rocks lift off the ground, slow low-angle push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Đó là Super Saiyan. Nhưng từ lần đầu tiên xuất hiện tới nay, nó đã có hàng loạt phiên bản mới: tóc dài hơn, màu đỏ, màu xanh, rồi cả những dạng không còn gọi là Super Saiyan nữa."
+      },
+      "image_prompt": "a lineup of silhouettes with auras of different colors: gold, red, blue, silver",
+      "on_screen_text": "Rất nhiều dạng biến hình"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hôm nay mình sẽ xếp hạng các dạng đó theo ba tiêu chí: sức mạnh, điều kiện kích hoạt, và cái giá phải trả. Không chỉ ai mạnh hơn, mà còn đắt hơn."
+      },
+      "image_prompt": "a ranking board with three columns labeled by icons: a fist, a key, and a price tag",
+      "on_screen_text": "Sức mạnh · Điều kiện · Cái giá"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ sẽ thành một bảng xếp hạng, và mình sẽ đi từ dưới lên trên."
+      },
+      "image_prompt": "the owl mascot opening a glowing notebook as its feathers flare slightly golden",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot opens the notebook and its feathers flare golden for a moment, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Xem hết video, bạn sẽ hiểu vì sao dạng mạnh nhất chưa chắc là dạng tốt nhất, và vì sao có những dạng mà chính nhân vật cũng hạn chế dùng."
+      },
+      "image_prompt": "the owl mascot holding a small scale balancing a golden flame and a price tag",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước hết, người Saiyan là một tộc chiến binh ngoài hành tinh, sinh ra để chiến đấu. Họ mạnh lên sau mỗi trận chiến, đặc biệt là sau khi hồi phục từ vết thương nặng."
+      },
+      "image_prompt": "a warrior race silhouette with a tail standing on a cliff under a red planet sky",
+      "chapter": "Nền tảng: người Saiyan và khí",
+      "on_screen_text": "Người Saiyan"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Sức mạnh trong Dragon Ball được đo bằng khí, năng lượng bên trong cơ thể. Khí có thể dùng để bay, bắn chưởng, và cảm nhận đối thủ."
+      },
+      "image_prompt": "a figure flying above clouds, a sphere of glowing energy forming in their hands",
+      "on_screen_text": "Khí"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Biến hình là cách người Saiyan nhân sức mạnh của mình lên nhiều lần trong một thời gian ngắn. Mỗi dạng biến hình là một bước nhảy vọt."
+      },
+      "image_prompt": "a staircase where each step multiplies in size, glowing brighter as it rises"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nhưng biến hình không miễn phí. Nó tiêu hao thể lực, và càng lên cao, cơ thể càng phải chịu áp lực lớn hơn."
+      },
+      "image_prompt": "a figure breathing heavily with a flickering aura, sweat dripping, cracks in the ground around them"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kaku ghi chú: Dragon Ball ít luật chi tiết hơn Nen hay Chú lực, nên bảng xếp hạng này dựa trên những gì truyện và phim thể hiện, cộng với ý kiến của Kaku."
+      },
+      "image_prompt": "the owl mascot adjusting its glasses and holding up a notebook labeled with a small star",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Đứng ở nền móng là dạng kinh điển: Super Saiyan. Tóc dựng đứng màu vàng, mắt xanh, hào quang vàng rực."
+      },
+      "image_prompt": "a spiky-haired silhouette with golden hair and a steady golden aura, rocky battlefield",
+      "chapter": "Hạng 10: Super Saiyan",
+      "on_screen_text": "Super Saiyan"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Điều kiện kích hoạt lần đầu: một cơn giận dữ cực độ, thường là khi mất đi người thân yêu. Goku biến hình lần đầu trên hành tinh Namek khi chứng kiến bạn thân bị giết."
+      },
+      "image_prompt": "a kneeling figure screaming as lightning strikes around them and their hair begins to turn gold",
+      "on_screen_text": "Kích hoạt: cơn giận"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Theo các sách hướng dẫn chính thức, Super Saiyan tăng sức mạnh lên khoảng năm mươi lần so với trạng thái thường."
+      },
+      "image_prompt": "a multiplier gauge jumping dramatically, a glowing x50 symbol",
+      "on_screen_text": "Khoảng ×50"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Cái giá: ban đầu, dạng này tiêu hao nhiều thể lực và làm người dùng hung hăng hơn. Về sau, Goku và Gohan luyện để giữ trạng thái này liên tục mà không mệt."
+      },
+      "image_prompt": "two figures relaxing with golden hair at home, eating calmly, aura barely visible"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku chấm: sức mạnh thấp nhất bảng, điều kiện khó ở lần đầu, nhưng cái giá rẻ khi đã quen. Đây là nền tảng cho mọi dạng phía sau."
+      },
+      "image_prompt": "the owl mascot placing a golden card at the bottom of a ranking ladder",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Ngay sau Super Saiyan là những cấp trung gian mà nhiều fan hay quên: dạng cơ bắp phình to lên để tăng sức mạnh thô."
+      },
+      "image_prompt": "a golden-haired silhouette with visibly bulked muscles, aura dense and heavy",
+      "chapter": "Hạng 9: các cấp trung gian",
+      "on_screen_text": "Cấp trung gian"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Dạng này tăng sức mạnh, nhưng cơ bắp quá lớn khiến tốc độ giảm mạnh. Trong trận đấu thực tế, người dùng chậm tới mức không đánh trúng ai."
+      },
+      "image_prompt": "a massive muscular figure swinging slowly while a faster opponent dodges easily"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Đây là một bài học được chính truyện đưa ra: sức mạnh lớn hơn chưa chắc là tốt hơn, nếu đánh đổi mất thứ quan trọng khác."
+      },
+      "image_prompt": "a balance scale with a huge muscle icon on one side and a lightning bolt icon on the other, tipping wrong"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Kaku chấm: sức mạnh nhỉnh hơn một chút, nhưng cái giá là tốc độ, rất đắt trong chiến đấu. Vì vậy nó đứng thấp trong bảng của Kaku."
+      },
+      "image_prompt": "the owl mascot trying to lift a giant dumbbell and toppling over",
+      "use_mascot": true
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Super Saiyan 2 trông gần giống dạng đầu, nhưng tóc dựng hơn, hào quang có những tia điện xanh lóe lên."
+      },
+      "image_prompt": "a golden-haired silhouette with sharper spikes and crackling blue electric sparks in the aura",
+      "chapter": "Hạng 8: Super Saiyan 2",
+      "on_screen_text": "Super Saiyan 2"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Lần xuất hiện nổi tiếng nhất là khi Gohan, còn là một cậu bé, bùng nổ trong trận đấu Cell Games sau khi chịu đựng quá nhiều đau đớn."
+      },
+      "image_prompt": "a young fighter with electric sparks around him standing calmly over a battlefield, his aura crackling"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Theo sách hướng dẫn, Super Saiyan 2 mạnh gấp đôi Super Saiyan, tức khoảng một trăm lần trạng thái thường."
+      },
+      "image_prompt": "a multiplier gauge showing a glowing x100 symbol",
+      "on_screen_text": "Khoảng ×100"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Cái giá: tiêu hao thể lực nhiều hơn dạng đầu, và cần luyện tập hoặc một cú bộc phát cảm xúc rất lớn mới đạt được."
+      },
+      "image_prompt": "a tired figure kneeling with fading sparks, breathing hard"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là dạng cân bằng rất tốt. Mạnh hơn nhiều nhưng không đánh mất tốc độ như các cấp trung gian."
+      },
+      "image_prompt": "the owl mascot giving a thumbs up with a small electric spark on its feather",
+      "use_mascot": true
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Super Saiyan 3 là dạng dễ nhận ra nhất: tóc dài tới tận thắt lưng, lông mày biến mất, và hào quang cực lớn."
+      },
+      "image_prompt": "a silhouette with extremely long golden hair reaching the waist, no eyebrows, massive aura",
+      "chapter": "Hạng 7: Super Saiyan 3",
+      "on_screen_text": "Super Saiyan 3",
+      "video_prompt": "the golden hair grows down to the waist in a surge of light, aura expanding, slow tilt down",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Theo sách hướng dẫn, dạng này mạnh khoảng bốn trăm lần trạng thái thường, gấp bốn lần Super Saiyan 2."
+      },
+      "image_prompt": "a multiplier gauge exploding upward to a glowing x400 symbol",
+      "on_screen_text": "Khoảng ×400"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Nhưng cái giá rất đắt: nó tiêu hao năng lượng cực nhanh. Truyện cho thấy Goku không duy trì được lâu, và việc biến hình còn mất thời gian."
+      },
+      "image_prompt": "a figure whose long golden hair flickers as an energy bar drains rapidly beside them",
+      "on_screen_text": "Cái giá: cạn năng lượng rất nhanh"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Có chi tiết thú vị: khi Goku dùng Super Saiyan 3 trong lúc chỉ còn ở dạng linh hồn, thời gian còn lại ở thế giới người sống bị rút ngắn."
+      },
+      "image_prompt": "a spectral figure with a halo above his head and long golden hair, an hourglass emptying beside him"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kaku chấm: sức mạnh cao, nhưng cái giá khiến nó ít hữu dụng trong trận đấu dài. Đây là ví dụ rõ nhất cho việc mạnh chưa chắc là tốt."
+      },
+      "image_prompt": "the owl mascot looking worried at a rapidly draining battery icon",
+      "use_mascot": true
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Trước khi đi tiếp, cần nhắc Super Saiyan 4, dạng xuất hiện trong Dragon Ball GT, với bộ lông đỏ và mái tóc đen dài."
+      },
+      "image_prompt": "a silhouette with dark long hair and red fur on the upper body, a monkey tail, red aura",
+      "chapter": "Ngoại truyện: Super Saiyan 4",
+      "on_screen_text": "Super Saiyan 4"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Dạng này gắn với sức mạnh của khỉ đột khổng lồ nguyên thủy, và cần có đuôi để đạt được."
+      },
+      "image_prompt": "a colossal golden ape silhouette under a full moon transforming into a smaller warrior form"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Vì Dragon Ball GT không nằm trong mạch truyện chính của Dragon Ball Super, Kaku để Super Saiyan 4 ở mục riêng, không xếp chung bảng."
+      },
+      "image_prompt": "a separate display case holding a red-furred silhouette, apart from the main ranking ladder",
+      "on_screen_text": "Không xếp chung bảng"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Dù vậy, rất nhiều fan coi đây là thiết kế đẹp nhất trong lịch sử Dragon Ball. Nếu bạn cũng vậy, hãy bình luận để Kaku biết nhé."
+      },
+      "image_prompt": "the owl mascot wearing a tiny red fur scarf, admiring its reflection",
+      "use_mascot": true
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Ngoài bảng xếp hạng chính, Dragon Ball còn có vài dạng đặc biệt chỉ xuất hiện ở một nhân vật, và mỗi dạng kể một câu chuyện riêng."
+      },
+      "image_prompt": "a side gallery with three glowing silhouettes in display cases: green-gold, blue-gold, and red",
+      "chapter": "Những dạng đặc biệt khác",
+      "on_screen_text": "Dạng đặc biệt"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Super Saiyan huyền thoại là dạng của một chiến binh sinh ra với sức mạnh bẩm sinh khổng lồ, hào quang xanh lục và cơ thể phình to vì cơn thịnh nộ không kiểm soát."
+      },
+      "image_prompt": "a towering muscular silhouette with a green-gold aura roaring on a frozen battlefield",
+      "on_screen_text": "Super Saiyan huyền thoại"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Super Saiyan cuồng nộ là dạng xuất hiện khi một người trẻ tuổi dồn toàn bộ cơn giận và nỗi đau mất mát để bảo vệ những gì còn lại."
+      },
+      "image_prompt": "a young swordsman silhouette with a blue-gold aura crackling violently in a ruined future city",
+      "on_screen_text": "Super Saiyan cuồng nộ"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Và có một kỹ thuật không phải biến hình nhưng hay đi kèm: nhân sức mạnh lên nhiều lần bằng cách ép khí, đổi lại cơ thể phải chịu áp lực khủng khiếp."
+      },
+      "image_prompt": "a figure wrapped in a violent red aura, veins glowing, the ground cracking beneath",
+      "on_screen_text": "Kỹ thuật tăng lực"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Những dạng này cho thấy một điều quen thuộc: mọi biến hình đều sinh ra từ một cảm xúc hoặc hoàn cảnh cụ thể, và đều có mặt trái của nó."
+      },
+      "image_prompt": "three silhouettes in a row, each casting a long shadow shaped like a different emotion"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Bước sang Dragon Ball Super, biến hình không còn chỉ dựa vào cơn giận nữa. Super Saiyan God là dạng đầu tiên mang sức mạnh của thần."
+      },
+      "image_prompt": "a slimmer silhouette with crimson hair and a flickering red-orange aura, calm expression",
+      "chapter": "Hạng 6: Super Saiyan God",
+      "on_screen_text": "Super Saiyan God"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Điều kiện kích hoạt rất đặc biệt: cần một nghi lễ với năm người Saiyan có trái tim trong sáng truyền năng lượng cho người thứ sáu."
+      },
+      "image_prompt": "six figures in a circle holding hands, a column of light rising into the one at the center",
+      "on_screen_text": "Nghi lễ 6 người Saiyan"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Dạng này không tăng cơ bắp, mà giúp người dùng cảm nhận và dùng khí thần, một loại năng lượng mà người thường không cảm nhận được."
+      },
+      "image_prompt": "a figure surrounded by a subtle shimmering aura, while ordinary fighters around them look confused"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Cái giá: sức mạnh ban đầu chỉ tạm thời. Nhưng sau khi trải qua nó, cơ thể người dùng tiếp thu một phần khí thần, nền tảng cho các dạng tiếp theo."
+      },
+      "image_prompt": "a fading red aura leaving behind a faint glow inside a figure's chest"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku chấm: điều kiện khó nhất bảng vì cần năm người khác. Nhưng nó mở ra một tầng sức mạnh mới hoàn toàn."
+      },
+      "image_prompt": "the owl mascot holding hands with five small birds in a circle",
+      "use_mascot": true
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Super Saiyan Blue kết hợp khí thần của dạng God với biến hình Super Saiyan. Tóc và hào quang chuyển sang màu xanh."
+      },
+      "image_prompt": "a silhouette with vivid blue spiky hair and a calm but intense blue aura, cosmic background",
+      "chapter": "Hạng 5: Super Saiyan Blue",
+      "on_screen_text": "Super Saiyan Blue"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Dạng này mạnh hơn hẳn các dạng trước, và giúp Goku và Vegeta đứng ngang hàng với những đối thủ cấp thần."
+      },
+      "image_prompt": "two silhouettes with blue auras standing side by side facing a towering godlike figure"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Cái giá: nó đòi hỏi kiểm soát khí cực tốt và tiêu hao nhiều năng lượng. Mất bình tĩnh là lãng phí sức mạnh."
+      },
+      "image_prompt": "a blue aura flickering unstably as a figure loses focus mid-battle",
+      "on_screen_text": "Cái giá: cần kiểm soát hoàn hảo"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Có một biến thể liều lĩnh: kết hợp Blue với kỹ thuật tăng sức mạnh gấp nhiều lần, đổi lại cơ thể chịu tổn thương nặng nếu kéo dài."
+      },
+      "image_prompt": "a blue aura wrapped in a violent red outer layer, veins glowing, cracks in the ground",
+      "on_screen_text": "Blue + tăng lực: rất rủi ro"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku chấm: sức mạnh rất cao, điều kiện là luyện tập nghiêm túc, cái giá vừa phải nếu biết kiểm soát. Đây là dạng cân bằng nhất ở tầng thần."
+      },
+      "image_prompt": "the owl mascot meditating calmly with a faint blue glow",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Bản năng vô cực không phải dạng Super Saiyan. Nó là một kỹ thuật của các thiên thần, nơi cơ thể tự phản ứng mà không cần suy nghĩ."
+      },
+      "image_prompt": "a silhouette with silver hair and a calm silver aura, moving effortlessly between incoming attacks",
+      "chapter": "Hạng 4: Bản năng vô cực",
+      "on_screen_text": "Bản năng vô cực"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Ở dạng này, người dùng né đòn và phản công theo bản năng, nhanh hơn cả ý nghĩ của đối thủ."
+      },
+      "image_prompt": "a figure dodging a flurry of attacks with eyes closed, ghostly motion trails all around",
+      "video_prompt": "the silver figure glides between attacks with afterimages trailing, slow orbit camera",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Điều kiện: phải tách được cảm xúc khỏi chuyển động của cơ thể, điều mà ngay cả thần hủy diệt cũng thấy khó. Goku mất rất lâu mới làm chủ được."
+      },
+      "image_prompt": "a figure meditating in a quiet void, emotions drawn as fading shapes drifting away",
+      "on_screen_text": "Điều kiện: tách cảm xúc"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Cái giá: lúc đầu, cơ thể không chịu nổi và kiệt sức ngay sau khi dùng. Chỉ khi luyện đủ lâu mới duy trì được."
+      },
+      "image_prompt": "a silver aura fading as a figure collapses exhausted onto a floating stone"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là dạng thú vị nhất về triết lý. Trong khi Super Saiyan dựa vào cơn giận, Bản năng vô cực lại mạnh nhờ sự bình tĩnh tuyệt đối."
+      },
+      "image_prompt": "the owl mascot sitting perfectly still as leaves swirl around it",
+      "use_mascot": true
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Nếu Goku chọn con đường của thiên thần, Vegeta chọn con đường của thần hủy diệt: Bản ngã tối thượng."
+      },
+      "image_prompt": "a silhouette with dark purple hair and a violet aura, fierce expression, cosmic destruction energy",
+      "chapter": "Hạng 3: Bản ngã tối thượng",
+      "on_screen_text": "Bản ngã tối thượng"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Dạng này dựa trên niềm kiêu hãnh và bản năng chiến đấu. Người dùng càng chịu đòn, càng mạnh lên, và càng thích thú với trận đấu."
+      },
+      "image_prompt": "a battered figure grinning as their violet aura grows larger with each hit they take",
+      "on_screen_text": "Càng chịu đòn càng mạnh",
+      "video_prompt": "the violet aura swells larger with each impact while the figure grins, camera shakes then settles",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Đây là đối lập hoàn hảo với Bản năng vô cực: một bên né mọi đòn, một bên lao vào nhận đòn để mạnh hơn."
+      },
+      "image_prompt": "a split image: a silver figure dodging gracefully and a violet figure charging headfirst"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Cái giá: cơ thể phải chịu tổn thương thật. Người dùng không tránh đòn, nên luôn đi trên ranh giới giữa sức mạnh và gục ngã."
+      },
+      "image_prompt": "a figure standing unsteadily covered in wounds, violet aura blazing brighter than ever"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Kaku chấm: sức mạnh cực cao trong trận dài, nhưng cái giá là chính cơ thể. Nó hợp hoàn hảo với tính cách của Vegeta."
+      },
+      "image_prompt": "the owl mascot flexing a tiny wing with a small purple flame, looking proud",
+      "use_mascot": true
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Gohan, người từng là thiên tài mạnh nhất thế hệ trẻ, trở lại với một dạng mới trong phim Super Hero: Beast."
+      },
+      "image_prompt": "a silhouette with tall spiky silver-white hair and glowing red eyes, a crimson-purple aura",
+      "chapter": "Hạng 2: Beast",
+      "on_screen_text": "Beast"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Dạng này thức tỉnh khi Gohan bùng nổ cảm xúc để bảo vệ người thân, giống như lần đầu cậu đạt Super Saiyan 2 nhiều năm trước."
+      },
+      "image_prompt": "a protective figure shielding a small child as their aura explodes and their hair turns silver-white"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nó được xem là giải phóng hoàn toàn tiềm năng bị ngủ quên của Gohan, thứ mà nhiều nhân vật đã nhắc tới từ rất lâu."
+      },
+      "image_prompt": "a locked door breaking open with blinding light pouring out"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Vì đây là dạng mới, truyện chưa cho biết nhiều về cái giá. Kaku sẽ không suy đoán quá nhiều, và chờ những gì truyện kể tiếp."
+      },
+      "image_prompt": "a question mark glowing next to a silver-haired silhouette",
+      "on_screen_text": "Cái giá: chưa rõ"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku ghi chú: fan tranh cãi rất nhiều về việc Beast, Bản năng vô cực và Bản ngã tối thượng dạng nào mạnh hơn. Thứ tự ở đây là ý kiến của Kaku, không phải kết luận chính thức."
+      },
+      "image_prompt": "the owl mascot shrugging between three glowing silhouettes of silver, violet, and white",
+      "use_mascot": true
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Đứng đầu bảng của Kaku là dạng hoàn thiện của Bản năng vô cực, khi Goku làm chủ được kỹ thuật này và giữ được nó trong chiến đấu thật."
+      },
+      "image_prompt": "a calm silver-haired silhouette standing in a vast arena, an overwhelming but serene silver aura",
+      "chapter": "Hạng 1: dạng hoàn thiện của Bản năng vô cực",
+      "on_screen_text": "Dạng hoàn thiện"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Ở dạng hoàn thiện, cơ thể tự né và tự tấn công, cả phòng thủ lẫn tấn công đều vượt ngoài suy nghĩ."
+      },
+      "image_prompt": "a figure landing a precise strike while dodging three attacks simultaneously, motion trails everywhere"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nó từng giúp Goku đứng ngang hàng với những đối thủ mạnh nhất vũ trụ trong Giải đấu sức mạnh."
+      },
+      "image_prompt": "a crumbling floating arena in space, a single silver figure standing among falling debris"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Cái giá: điều kiện gần như không thể với người thường, cần sự bình tĩnh tuyệt đối và cơ thể được rèn luyện ở tầm thiên thần."
+      },
+      "image_prompt": "a staircase of light stretching into infinity with a single figure near the top"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku chấm: sức mạnh cao nhất bảng, điều kiện khó nhất, và cái giá là cả một hành trình. Đây là đỉnh cao của triết lý bình tĩnh."
+      },
+      "image_prompt": "the owl mascot sitting perfectly still at the top of a tiny staircase, eyes closed",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Trước khi tổng kết, cùng gỡ vài hiểu lầm hay gặp về các dạng biến hình."
+      },
+      "image_prompt": "a notice board with four pinned cards marked with red question marks",
+      "chapter": "Những hiểu lầm về biến hình",
+      "on_screen_text": "Hiểu lầm"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hiểu lầm một: dạng sau luôn mạnh hơn dạng trước trong mọi tình huống. Không đúng. Dạng mạnh nhưng tiêu hao nhanh có thể thua trong một trận đánh dài."
+      },
+      "image_prompt": "a strong but exhausted figure losing to a calmer opponent who paced themselves",
+      "on_screen_text": "1. Mạnh hơn chưa chắc thắng"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Hiểu lầm hai: chỉ cần giận là biến hình được. Cơn giận chỉ là cánh cửa đầu tiên. Những dạng cao hơn cần luyện tập, kiểm soát và cả điều kiện đặc biệt."
+      },
+      "image_prompt": "a figure screaming in frustration while nothing happens, a training ground in the background",
+      "on_screen_text": "2. Giận chưa đủ"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Hiểu lầm ba: Bản năng vô cực là một dạng Super Saiyan. Thực ra nó là kỹ thuật của thiên thần, không gắn với dòng máu Saiyan."
+      },
+      "image_prompt": "a silver-haired figure beside a serene angel silhouette, both in the same calm stance",
+      "on_screen_text": "3. Không phải Super Saiyan"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Hiểu lầm bốn: hệ số sức mạnh là con số chính thức mọi lúc. Những con số năm mươi, một trăm, bốn trăm lần đến từ sách hướng dẫn, và về sau truyện không còn dùng chúng nữa."
+      },
+      "image_prompt": "an old guidebook with faded numbers next to a new book with no numbers at all",
+      "on_screen_text": "4. Hệ số chỉ là tham khảo"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Giờ một trò vui: dựa trên tính cách, bạn hợp với dạng biến hình nào nhất? Chỉ là trò chơi thôi nhé."
+      },
+      "image_prompt": "a quiz card with five glowing aura colors arranged in a circle",
+      "chapter": "Trắc nghiệm: bạn hợp với dạng nào?",
+      "on_screen_text": "Trắc nghiệm vui"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn bùng nổ khi thấy bất công và luôn đứng ra bảo vệ người khác, Super Saiyan cổ điển là của bạn."
+      },
+      "image_prompt": "a figure stepping in front of a smaller person as a golden aura flares",
+      "on_screen_text": "Bảo vệ → Super Saiyan"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nếu bạn điềm tĩnh, ít nói và thích làm chủ bản thân, Bản năng vô cực có lẽ hợp với bạn."
+      },
+      "image_prompt": "a quiet figure meditating by a still lake, a faint silver glow",
+      "on_screen_text": "Điềm tĩnh → Bản năng vô cực"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Nếu bạn kiêu hãnh, thích thử thách và càng bị dồn vào đường cùng càng hăng, Bản ngã tối thượng là lựa chọn."
+      },
+      "image_prompt": "a proud figure grinning while surrounded by opponents, violet aura blazing",
+      "on_screen_text": "Kiêu hãnh → Bản ngã tối thượng"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Nếu bạn hiền lành nhưng sẽ không bao giờ để ai làm hại gia đình mình, có khi Beast đang ngủ yên trong bạn."
+      },
+      "image_prompt": "a gentle figure reading a book to a child, a faint silver-white glow hidden behind them",
+      "on_screen_text": "Hiền lành → Beast"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku thì chọn Super Saiyan cổ điển, vì màu vàng hợp với cặp kính của Kaku."
+      },
+      "image_prompt": "the owl mascot with golden spiky feathers, admiring its reflection in a mirror",
+      "use_mascot": true
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nhìn toàn bộ bảng xếp hạng, có một câu chuyện thú vị mà Dragon Ball kể qua các dạng biến hình."
+      },
+      "image_prompt": "the owl mascot looking at a long ranking ladder glowing from gold to silver",
+      "chapter": "Góc nhìn của Kaku: từ cơn giận đến sự bình tĩnh",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Ở thời Dragon Ball Z, sức mạnh đến từ cơn giận: mất người thân, gào thét, tóc chuyển vàng. Cảm xúc càng mãnh liệt, sức mạnh càng lớn."
+      },
+      "image_prompt": "a screaming golden-haired figure with lightning and debris flying, raw emotion",
+      "on_screen_text": "Z: sức mạnh từ cơn giận"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Ở Dragon Ball Super, sức mạnh cao nhất lại đến từ sự bình tĩnh và kỹ thuật. Người mạnh nhất không phải người giận dữ nhất, mà là người điềm tĩnh nhất."
+      },
+      "image_prompt": "a calm silver-haired figure with closed eyes as chaos swirls harmlessly around them",
+      "on_screen_text": "Super: sức mạnh từ sự bình tĩnh"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Đây là sự trưởng thành của cả bộ truyện: từ một cậu bé chiến đấu bằng cảm xúc, thành một võ sĩ hiểu rằng kiểm soát bản thân mới là sức mạnh thật."
+      },
+      "image_prompt": "a timeline from an angry young fighter to a calm mature fighter meditating"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "So với các hệ thống mình từng giải thích, Dragon Ball ít luật nhất, nhưng có một thông điệp rõ ràng: vượt qua giới hạn của chính mình là con đường không bao giờ kết thúc."
+      },
+      "image_prompt": "a hexagon, a dark dome, a red eye, and a golden flame side by side, the golden flame reaching upward"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Trước khi tổng kết, cùng nghĩ xem điều gì khiến một dạng biến hình trở nên đáng nhớ, không chỉ trong Dragon Ball mà trong mọi bộ truyện."
+      },
+      "image_prompt": "a sketchbook page with several transformation silhouettes and notes in the margins",
+      "chapter": "Điều gì làm nên một biến hình hay?",
+      "on_screen_text": "Biến hình hay là gì?"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Thứ nhất là khoảnh khắc: biến hình đáng nhớ nhất luôn xuất hiện đúng lúc cảm xúc câu chuyện lên đỉnh điểm, không phải lúc ngẫu nhiên."
+      },
+      "image_prompt": "a dramatic moment frozen in time, a figure mid-transformation as friends watch in tears"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Thứ hai là thiết kế dễ nhận ra: chỉ cần nhìn bóng dáng hay màu tóc, người xem biết ngay đó là dạng nào."
+      },
+      "image_prompt": "five silhouettes in a row distinguishable only by hair shape and aura color"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Thứ ba là cái giá: biến hình có giới hạn thì mỗi lần dùng đều căng thẳng. Biến hình vô hạn thì nhanh chóng trở nên nhàm chán."
+      },
+      "image_prompt": "an hourglass placed next to a glowing aura, sand running out"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Kaku nghĩ Super Saiyan đầu tiên là ví dụ hoàn hảo cho cả ba điều. Đó là lý do nó vẫn là biểu tượng sau bao nhiêu năm."
+      },
+      "image_prompt": "the owl mascot saluting a golden silhouette on a distant cliff at sunset",
+      "use_mascot": true
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Tóm lại: từ Super Saiyan tới Super Saiyan 3, sức mạnh tăng khoảng năm mươi, một trăm, rồi bốn trăm lần, nhưng cái giá về thể lực cũng tăng theo."
+      },
+      "image_prompt": "a summary ladder of golden forms with multiplier icons",
+      "chapter": "Tóm tắt",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Super Saiyan God và Blue đưa sức mạnh lên tầm thần. Bản năng vô cực và Bản ngã tối thượng là hai con đường đối lập: né mọi đòn và nhận mọi đòn."
+      },
+      "image_prompt": "a split image of silver and violet auras facing each other"
+    },
+    {
+      "id": "s93",
+      "narration": {
+        "vi": "Và theo bảng của Kaku, đứng đầu là dạng hoàn thiện của Bản năng vô cực, đỉnh cao của sự bình tĩnh."
+      },
+      "image_prompt": "a single silver figure at the top of the ranking ladder glowing softly"
+    },
+    {
+      "id": "s94",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: bạn xếp hạng các dạng này thế nào, và dạng biến hình yêu thích của bạn là gì? Viết xuống phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a blank ranking card and a pencil",
+      "on_screen_text": "Dạng bạn thích nhất?",
+      "use_mascot": true
+    },
+    {
+      "id": "s95",
+      "narration": {
+        "vi": "Nếu video hữu ích, hãy đăng ký kênh. Hãy bình luận hệ thống sức mạnh bạn muốn Kaku giải mã tiếp theo."
+      },
+      "image_prompt": "the owl mascot pointing at a suggestion box glowing on a desk",
+      "use_mascot": true
+    },
+    {
+      "id": "s96",
+      "narration": {
+        "vi": "Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing a glowing notebook and waving goodbye on a rocky cliff at sunset",
+      "use_mascot": true
+    }
+  ]
+}

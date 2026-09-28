@@ -28,7 +28,7 @@ Cách làm cho mỗi clip: chọn ảnh → video, tải ảnh tham chiếu làm
 - Lời thoại cảnh này: Denji là người lai với quỷ cưa máy. Anh kéo sợi dây trên ngực, và cưa máy mọc ra từ đầu và tay.
 
 ```text
-5-second cinematic anime shot, 16:9. Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only. Scene: a figure with chainsaws emerging from head and arms, revving loudly in a dark alley. Motion and camera: the cord is pulled and chainsaws burst out with sparks and smoke, camera shakes then settles. Keep the exact art style, colors and characters of the reference image. No text, no logos, no watermark, no dialogue, no lip-sync. Original characters only, do not depict any existing anime character.
+5-second cinematic anime shot, 16:9. Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only. Scene: a hooded silhouette wielding two roaring saw blades of light in a dark alley. Motion and camera: the cord is pulled and glowing saw blades burst out with sparks and smoke, camera shakes then settles. Keep the exact art style, colors and characters of the reference image. No text, no logos, no watermark, no dialogue, no lip-sync. Original characters only, do not depict any existing anime character.
 ```
 
 ## s60 — 5 giây

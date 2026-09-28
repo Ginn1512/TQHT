@@ -25,7 +25,8 @@ Một kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, đ�
 - [ ] Phân tích 5 kênh mẫu bằng dữ liệu thật, chốt profile
 - [x] Video 1 chuẩn bị xong: brief, kịch bản 16 phút, 104 cảnh (`videos/2026-09-28-nen-hunter-x-hunter/`)
 - [ ] Video 1: kiểm lại nguồn, tạo giọng + ảnh, dựng, đăng (cần key)
-- [ ] Video 2–3 (tiếng Việt)
+- [x] Kịch bản video 2–11 (15,3–16 phút mỗi video), xem `docs/ke-hoach-noi-dung.md`
+- [ ] Video 2–11: kiểm nguồn, tạo giọng + ảnh, dựng, đăng
 - [ ] Thêm bản lồng tiếng Anh + Bồ Đào Nha
 - [ ] Thêm Hindi + Trung, Shorts
 - [ ] YPP: 1.000 người đăng ký + 4.000 giờ xem

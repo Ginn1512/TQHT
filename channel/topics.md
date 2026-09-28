@@ -11,13 +11,18 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 
 | # | Chủ đề | Anime | Nhu cầu | Bằng chứng | Góc nhìn | Dễ minh họa | Tổng | Trạng thái |
 |---|--------|-------|---------|------------|----------|-------------|------|------------|
-| 1 | Nen hoạt động thế nào? 6 hệ và luật "giao ước" | Hunter x Hunter | 5 | ? | 5 | 5 | 15 | Đề xuất video 1 |
-| 2 | 3 loại Haki và Haki bá vương "phủ" là gì | One Piece | 5 | ? | 4 | 5 | 14 | |
-| 3 | Bành trướng lãnh địa: luật và cách phá | Jujutsu Kaisen | 5 | ? | 4 | 4 | 13 | |
-| 4 | Trái ác quỷ thức tỉnh khác gì bình thường | One Piece | 5 | ? | 4 | 4 | 13 | |
-| 5 | Hệ thống cấp bậc thợ săn và cổng | Solo Leveling | 4 | ? | 4 | 5 | 13 | |
-| 6 | Hơi thở: vì sao mỗi trụ cột một kiểu | Kimetsu no Yaiba | 4 | ? | 4 | 4 | 12 | |
-| 7 | Ma thuật trong Frieren: vì sao "ma thuật diệt quỷ" là phổ thông | Frieren | 4 | ? | 5 | 3 | 12 | |
-| 8 | Các cấp Sharingan và cái giá phải trả | Naruto | 4 | ? | 3 | 4 | 11 | |
-| 9 | Ác quỷ và nỗi sợ: luật sức mạnh | Chainsaw Man | 4 | ? | 4 | 3 | 11 | |
-| 10 | Các dạng Super Saiyan xếp theo sức mạnh | Dragon Ball | 4 | ? | 2 | 4 | 10 | |
+| 1 | Nen hoạt động thế nào? 6 hệ và luật "giao ước" | Hunter x Hunter | 5 | ? | 5 | 5 | 15 | Kịch bản xong — chờ kiểm nguồn (video 1) |
+| 2 | Bành trướng lãnh địa: luật và cách phá | Jujutsu Kaisen | 5 | ? | 4 | 4 | 13 | Kịch bản xong — chờ kiểm nguồn (video 2) |
+| 3 | Ma thuật Frieren, vì sao Zoltraak thành phổ thông | Frieren | 4 | ? | 5 | 3 | 12 | Kịch bản xong — chờ kiểm nguồn (video 3) |
+| 4 | 3 loại Haki và Haki bá vương "phủ" | One Piece | 5 | ? | 4 | 5 | 14 | Kịch bản xong — chờ kiểm nguồn (video 4) |
+| 5 | Cây phả hệ các kiểu Hơi thở | Kimetsu no Yaiba | 4 | ? | 4 | 4 | 12 | Kịch bản xong — chờ kiểm nguồn (video 5) |
+| 6 | Hồ sơ trái ác quỷ, thức tỉnh | One Piece | 5 | ? | 4 | 4 | 13 | Kịch bản xong — chờ kiểm nguồn (video 6) |
+| 7 | Hệ thống cấp bậc thợ săn và cổng | Solo Leveling | 4 | ? | 4 | 5 | 13 | Kịch bản xong — chờ kiểm nguồn (video 7) |
+| 8 | Sharingan tiến hóa và cái giá | Naruto | 4 | ? | 3 | 4 | 11 | Kịch bản xong — chờ kiểm nguồn (video 8) |
+| 9 | Ác quỷ và nỗi sợ | Chainsaw Man | 4 | ? | 4 | 3 | 11 | Kịch bản xong — chờ kiểm nguồn (video 9) |
+| 10 | Chakra vs Nen vs Chú lực | Naruto / HxH / JJK | 4 | ? | 5 | 4 | 13 | Kịch bản xong — chờ kiểm nguồn (video 10) |
+| 11 | Các dạng Super Saiyan theo sức mạnh và cái giá | Dragon Ball | 4 | ? | 3 | 4 | 11 | Kịch bản xong — chờ kiểm nguồn (video 11) |
+
+Lịch đăng dự kiến và chi phí: xem `docs/ke-hoach-noi-dung.md`.
+
+Ý tưởng tiếp theo (chưa viết): bí ẩn cổng trong Solo Leveling (có spoiler), bảng xếp hạng lớn các hệ thống sức mạnh, Chakra và các nguyên tố trong Naruto, Bankai trong Bleach, Stand trong JoJo.
