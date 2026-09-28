@@ -1,0 +1,699 @@
+{
+  "title": "Dr. Stone: Phát minh nào của Senku làm được ngoài đời thật?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Dr. Stone tới hết anime, kể cả mùa cuối phát năm 2026. Và một cảnh báo quan trọng hơn: video chỉ nói nguyên lý khoa học, không phải hướng dẫn. Nhiều thứ trong video rất nguy hiểm nếu tự làm."
+      },
+      "image_prompt": "a stone-age workshop with glass flasks and a large warning sign painted on a wooden board",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Chỉ nguyên lý, KHÔNG phải hướng dẫn"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy tưởng tượng bạn tỉnh dậy sau ba nghìn bảy trăm năm. Mọi thành phố đã thành rừng. Không điện, không thuốc, không cả một cục xà phòng. Chỉ có bạn và những gì bạn nhớ trong đầu."
+      },
+      "image_prompt": "a figure breaking free from a stone shell in a lush overgrown forest where a city once stood",
+      "on_screen_text": "3.700 năm sau",
+      "video_prompt": "stone flakes crack and fall away as the figure breaks free, birds scattering from the overgrown ruins, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Đó là tình cảnh của Senku, nhân vật chính của Dr. Stone. Và cậu quyết định xây lại toàn bộ nền văn minh, từ con số không, chỉ bằng khoa học."
+      },
+      "image_prompt": "a young scientist silhouette standing on a hill, looking at a vast untouched wilderness with determination"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku, và hôm nay Kaku hỏi một câu thôi: những phát minh của Senku, ngoài đời thật có làm được không, và mất bao lâu?"
+      },
+      "image_prompt": "the owl mascot wearing safety goggles, opening a notebook beside a rustic lab bench",
+      "on_screen_text": "Làm được không? Mất bao lâu?",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Cuối video, Kaku sẽ xếp tất cả lên một bảng khả thi, từ dễ như nấu ăn tới khó như lên Mặt Trăng."
+      },
+      "image_prompt": "the owl mascot pinning a long chart on a wooden wall, from a campfire icon to a rocket icon",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Dr. Stone là manga do Inagaki Riichiro viết, Boichi vẽ, đăng từ năm 2017 tới 2022. Bản anime kết thúc năm 2026 với mùa cuối có tên Science Future."
+      },
+      "image_prompt": "a stack of manga volumes beside a small model rocket and a glass flask",
+      "chapter": "Thế giới đá",
+      "on_screen_text": "Manga 2017–2022"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Một ngày, một luồng sáng xanh bí ẩn quét qua Trái Đất và biến toàn bộ loài người thành đá. Senku giữ được ý thức bằng cách đếm từng giây, suốt hàng nghìn năm."
+      },
+      "image_prompt": "a wave of green light sweeping across a modern city, people frozen mid-step as stone statues",
+      "on_screen_text": "Luồng sáng hóa đá",
+      "video_prompt": "the green light sweeps across the city and people freeze into stone mid-step, slow wide pan",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Khi tỉnh dậy, cậu biết chính xác mình đã ở trong đá bao lâu. Và cậu bắt đầu làm những việc đầu tiên: tìm nước, tìm lửa, rồi tìm cách hồi sinh người khác."
+      },
+      "image_prompt": "a young scientist carving tally marks on a cave wall, a small campfire burning beside him"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Câu cửa miệng của Senku là mười tỉ phần trăm, dùng mỗi khi cậu chắc chắn về một điều gì đó bằng khoa học."
+      },
+      "image_prompt": "a big glowing number 10,000,000,000 percent written on a stone wall in chalk",
+      "on_screen_text": "10 tỉ phần trăm"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: điểm hay nhất của bộ này là mỗi phát minh đều dựa trên một phát minh trước đó. Không có gì từ trên trời rơi xuống."
+      },
+      "image_prompt": "the owl mascot stacking small blocks labeled with simple icons into a staircase",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Với mỗi phát minh, Kaku chấm ba thứ. Thứ nhất: khả thi hay không, với ba mức: làm được, làm được nhưng rất khó, và không thực tế."
+      },
+      "image_prompt": "three colored badges: green, yellow and red, each with a small icon",
+      "chapter": "Thang đo của Kaku",
+      "on_screen_text": "Khả thi: 3 mức"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Thứ hai: ngoài đời, loài người đã mất bao lâu để phát minh ra nó lần đầu tiên. Thứ ba: độ nguy hiểm nếu một người bình thường tự làm."
+      },
+      "image_prompt": "an hourglass and a warning triangle placed next to the three badges",
+      "on_screen_text": "Thời gian thật · Độ nguy hiểm"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhắc lại một lần nữa: Kaku sẽ không nói cách làm chi tiết. Nhiều phát minh dùng hóa chất và nhiệt độ có thể gây bỏng, ngộ độc hay cháy nổ."
+      },
+      "image_prompt": "a locked cabinet of chemical bottles with a bold do-not-try sign on the door",
+      "on_screen_text": "Không tự làm"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và thuốc thì tuyệt đối không tự chế. Thuốc thật cần được kiểm định bởi các chuyên gia và cơ quan y tế, không phải bởi một người trong phim hoạt hình."
+      },
+      "image_prompt": "a medicine bottle behind glass in a pharmacy, a stamp of approval on its label",
+      "on_screen_text": "Không tự chế thuốc"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Phát minh đầu tiên của Senku là dung dịch phá lớp đá hóa. Trong truyện, nó được pha từ axit nitric và cồn."
+      },
+      "image_prompt": "a small clay pot with a glowing liquid dripping onto a stone statue's crack",
+      "chapter": "Phát minh 1: dung dịch hồi sinh",
+      "on_screen_text": "Dung dịch hồi sinh"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Điều thú vị là hỗn hợp axit nitric pha trong cồn có thật ngoài đời. Nó được dùng trong ngành luyện kim để ăn mòn nhẹ bề mặt kim loại, giúp soi rõ cấu trúc bên trong dưới kính hiển vi."
+      },
+      "image_prompt": "a metallurgy lab with a polished metal sample under a microscope, grain patterns visible",
+      "on_screen_text": "Có thật trong luyện kim"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Để có axit nitric, Senku phải tìm nguồn nitrat trong tự nhiên, như trong hang có nhiều phân dơi, rồi chế biến qua nhiều bước."
+      },
+      "image_prompt": "a dark cave with bats hanging from the ceiling, a torch lighting the entrance"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Nhưng tất nhiên, ngoài đời không có lớp đá hóa nào để phá. Việc hóa đá con người và hồi sinh bằng dung dịch là phần khoa học viễn tưởng của truyện."
+      },
+      "image_prompt": "a stone statue in a park with a question mark hovering above it"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Chấm điểm: khả thi, không thực tế, vì hiện tượng hóa đá không tồn tại. Độ nguy hiểm: rất cao, axit nitric có thể gây bỏng nặng. Kaku khuyên bạn đứng thật xa."
+      },
+      "image_prompt": "a red badge and a large warning triangle on a scorecard",
+      "on_screen_text": "Không thực tế · Nguy hiểm cao"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Tiếp theo là những phát minh cơ bản hơn, nhưng quan trọng không kém. Senku nung vỏ sò để tạo ra vôi."
+      },
+      "image_prompt": "a pile of seashells beside a stone kiln glowing with heat",
+      "chapter": "Phát minh 2: vôi từ vỏ sò",
+      "on_screen_text": "Vôi từ vỏ sò"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Khoa học: vỏ sò chứa nhiều canxi cacbonat. Khi nung ở nhiệt độ cao, nó biến thành vôi sống. Vôi được dùng làm vữa xây, quét tường, và làm nguyên liệu cho nhiều phản ứng khác."
+      },
+      "image_prompt": "a simple diagram of a shell turning into white powder in a kiln, arrows showing heat"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Ngoài đời, con người đã làm vôi từ hàng nghìn năm trước. Nhiều công trình cổ đại dùng vữa vôi và vẫn còn đứng tới ngày nay."
+      },
+      "image_prompt": "an ancient stone aqueduct standing tall under a blue sky",
+      "on_screen_text": "Hàng nghìn năm trước"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Chấm điểm: làm được. Đây là công nghệ cổ xưa. Độ nguy hiểm: trung bình, vì vôi sống gây bỏng khi dính nước và có thể làm tổn thương mắt."
+      },
+      "image_prompt": "a green badge and a yellow warning triangle on a scorecard",
+      "on_screen_text": "Làm được · Nguy hiểm vừa"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Trong truyện, vôi còn là bước đệm để làm ra những thứ khác. Nhiều phản ứng hóa học quan trọng cần một chất kiềm, và vôi là chất kiềm dễ kiếm nhất ở một thế giới đá."
+      },
+      "image_prompt": "a row of clay jars labeled with simple icons, a bowl of white lime powder in the center"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku ghi chú: nghe có vẻ tầm thường, nhưng không có vôi thì không có vữa, không có nhà vững, và không có nhiều phản ứng hóa học sau này."
+      },
+      "image_prompt": "the owl mascot building a tiny stone wall with a little trowel",
+      "use_mascot": true
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Phát minh thứ ba giúp cả làng sống khỏe hơn: xà phòng."
+      },
+      "image_prompt": "a bar of rough handmade soap on a wooden ledge beside a stream",
+      "chapter": "Phát minh 3: xà phòng",
+      "on_screen_text": "Xà phòng"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Khoa học: xà phòng được tạo ra khi chất béo phản ứng với một chất kiềm. Phản ứng này có tên là xà phòng hóa. Ngày xưa, người ta lấy chất kiềm từ tro gỗ."
+      },
+      "image_prompt": "a diagram of fat droplets and ash combining into soap molecules, labeled simply"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Ngoài đời, có những bằng chứng về việc làm chất giống xà phòng từ gần năm nghìn năm trước ở vùng Lưỡng Hà cổ đại."
+      },
+      "image_prompt": "an ancient clay tablet with carved symbols beside a small clay pot",
+      "on_screen_text": "~5.000 năm trước"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Xà phòng quan trọng hơn ta tưởng: rửa tay bằng xà phòng giúp giảm mạnh việc lây lan nhiều bệnh truyền nhiễm. Ở một thế giới không có thuốc, nó là tấm khiên đầu tiên."
+      },
+      "image_prompt": "hands being washed with soap under running water, bubbles glowing softly"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Chấm điểm: làm được. Độ nguy hiểm: trung bình, vì dung dịch kiềm đậm đặc có thể gây bỏng da. Ngày nay mua xà phòng vẫn an toàn và rẻ hơn nhiều."
+      },
+      "image_prompt": "a green badge and a yellow warning triangle on a scorecard",
+      "on_screen_text": "Làm được · Nguy hiểm vừa"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Muốn làm thí nghiệm hóa học thì phải có dụng cụ. Nên Senku làm thủy tinh."
+      },
+      "image_prompt": "a glowing blob of molten glass on the end of a long pipe in a stone furnace",
+      "chapter": "Phát minh 4: thủy tinh",
+      "on_screen_text": "Thủy tinh",
+      "video_prompt": "molten glass glows and slowly stretches on the end of the pipe, sparks drifting, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Khoa học: thủy tinh thường được làm từ cát, một chất trợ chảy giúp hạ nhiệt độ nóng chảy, và vôi để thủy tinh bền hơn. Tất cả được nung tới nhiệt độ hơn một nghìn độ C."
+      },
+      "image_prompt": "three small piles labeled sand, flux and lime beside a roaring furnace",
+      "on_screen_text": "Hơn 1.000°C"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Để đạt nhiệt độ đó, cần một lò nung tốt và ống thổi để đưa thêm không khí vào lửa. Trong truyện, cả làng phải thay nhau thổi."
+      },
+      "image_prompt": "several villagers pumping bellows in rhythm beside a glowing furnace"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Ngoài đời, thủy tinh đã được làm từ hơn bốn nghìn năm trước ở vùng Lưỡng Hà và Ai Cập cổ đại."
+      },
+      "image_prompt": "ancient colorful glass beads and small vessels displayed in a museum case",
+      "on_screen_text": "> 4.000 năm trước"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Chấm điểm: làm được nhưng rất khó, vì cần kiểm soát nhiệt độ rất cao. Độ nguy hiểm: cao, bỏng nhiệt và mảnh vỡ sắc."
+      },
+      "image_prompt": "a yellow badge and a red warning triangle on a scorecard",
+      "on_screen_text": "Khó · Nguy hiểm cao"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku ghi chú: một cái cốc thủy tinh bình thường trên bàn bạn là kết quả của bốn nghìn năm kinh nghiệm."
+      },
+      "image_prompt": "the owl mascot holding a glass cup up to the light, admiring it",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Đây là phát minh cảm động nhất ở mùa một: Senku chế thuốc kháng khuẩn để cứu một người đang bệnh nặng trong làng."
+      },
+      "image_prompt": "a village hut at night, a figure lying ill while others wait anxiously outside",
+      "chapter": "Phát minh 5: thuốc kháng khuẩn",
+      "on_screen_text": "Thuốc kháng khuẩn"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Trong truyện, đó là một loại thuốc thuộc nhóm sulfa. Ngoài đời, đây là nhóm thuốc kháng khuẩn tổng hợp đầu tiên được dùng rộng rãi, xuất hiện vào những năm 1930."
+      },
+      "image_prompt": "an old pharmacy shelf from the 1930s with glass bottles and handwritten labels",
+      "on_screen_text": "Thuốc sulfa: thập niên 1930"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Nhà khoa học tìm ra hiệu quả của loại thuốc đầu tiên trong nhóm này được trao giải Nobel năm 1939. Trước đó, một vết nhiễm trùng nhỏ cũng có thể gây chết người."
+      },
+      "image_prompt": "a vintage award medal on a velvet cushion beside a stack of research notes",
+      "on_screen_text": "Nobel 1939"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Để làm ra nó, Senku phải đi qua cả một chuỗi dài: tạo ra nhiều hóa chất trung gian, từng bước một. Truyện cho thấy cả làng phải góp sức rất lâu."
+      },
+      "image_prompt": "a long chain of glass flasks connected by tubes, villagers carrying materials along it"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Chấm điểm: không thực tế với một người tự làm. Thuốc thật phải được sản xuất trong điều kiện kiểm soát, đúng liều, đúng độ tinh khiết. Độ nguy hiểm: cực cao. Nhắc lại: không bao giờ tự chế thuốc."
+      },
+      "image_prompt": "a red badge and a red warning triangle, and a doctor figure behind a pharmacy counter",
+      "on_screen_text": "Không tự chế · Cực nguy hiểm"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kaku ghi chú: cảnh này cho thấy vì sao khoa học đáng quý. Một viên thuốc ngày nay ta mua dễ dàng là kết quả của hàng chục năm nghiên cứu."
+      },
+      "image_prompt": "the owl mascot looking at a small pill with great respect",
+      "use_mascot": true
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Bước tiếp theo đưa làng đá vào một kỷ nguyên mới: điện."
+      },
+      "image_prompt": "a simple hand-cranked generator with copper coils and a magnet on a wooden stand",
+      "chapter": "Phát minh 6: điện",
+      "on_screen_text": "Điện"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Khoa học: khi một nam châm chuyển động gần một cuộn dây đồng, dòng điện xuất hiện trong cuộn dây. Hiện tượng này gọi là cảm ứng điện từ, được Faraday phát hiện năm 1831."
+      },
+      "image_prompt": "a magnet moving through a coil of wire, small sparks of current shown flowing",
+      "on_screen_text": "Cảm ứng điện từ: 1831"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Trong truyện, cái khó nhất không phải nguyên lý, mà là làm ra dây đồng đủ dài và đủ mảnh, và làm ra nam châm đủ mạnh."
+      },
+      "image_prompt": "villagers pulling a thin copper wire through a hole in a metal plate, coils of wire stacked nearby"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Ngoài đời, từ lúc biết điện tới lúc có máy phát điện thực dụng mất hàng chục năm. Senku rút ngắn điều đó nhờ biết trước câu trả lời."
+      },
+      "image_prompt": "a timeline of early electrical devices from a simple coil to a large generator"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Chấm điểm: làm được nhưng rất khó. Độ nguy hiểm: cao, điện giật và cháy. Kaku nhắc: dòng điện trong nhà bạn đủ mạnh để gây chết người."
+      },
+      "image_prompt": "a yellow badge and a red warning triangle on a scorecard",
+      "on_screen_text": "Khó · Nguy hiểm cao"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Có điện rồi thì làm đèn. Và Senku chọn một nguyên liệu bất ngờ cho dây tóc bóng đèn: tre."
+      },
+      "image_prompt": "a glass bulb glowing warmly with a thin carbonized bamboo filament inside",
+      "chapter": "Phát minh 7: bóng đèn tre",
+      "on_screen_text": "Bóng đèn tre",
+      "video_prompt": "the bamboo filament flickers and then glows steadily inside the bulb, warm light spreading, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Đây là một chi tiết lịch sử có thật. Những năm 1880, xưởng của Thomas Edison đã thử hàng nghìn vật liệu, và dùng sợi tre cacbon hóa từ Nhật Bản làm dây tóc, cho bóng đèn sáng hơn một nghìn giờ."
+      },
+      "image_prompt": "a vintage laboratory with rows of experimental bulbs and bundles of bamboo on a shelf",
+      "on_screen_text": "Edison và tre Nhật Bản"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Khoa học: dây tóc phải phát sáng khi nóng mà không cháy. Muốn vậy, bên trong bóng đèn phải gần như không có không khí, vì không có khí oxy thì dây tóc không bị đốt cháy."
+      },
+      "image_prompt": "a cross-section of a bulb showing an empty vacuum inside and a glowing filament"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Chấm điểm: làm được nhưng rất khó, cái khó nhất là hút chân không. Độ nguy hiểm: trung bình, thủy tinh có thể vỡ và điện có thể gây giật."
+      },
+      "image_prompt": "a yellow badge and a yellow warning triangle on a scorecard",
+      "on_screen_text": "Khó · Nguy hiểm vừa"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Ngày nay, bóng đèn dây tóc đã gần như được thay bằng đèn LED, tiết kiệm điện hơn rất nhiều. Nhưng nguyên lý đầu tiên, làm một sợi dây phát sáng khi nóng, vẫn là cột mốc đưa loài người ra khỏi bóng tối."
+      },
+      "image_prompt": "an old filament bulb beside a modern LED bulb on a table, both glowing"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Kaku ghi chú: ánh sáng đầu tiên trong đêm của một thế giới đá. Cảnh đó trong anime khiến Kaku nổi da gà."
+      },
+      "image_prompt": "the owl mascot looking up at a single light bulb glowing in a dark forest village",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Tiếp theo là liên lạc từ xa: điện thoại, rồi radio. Đây là những phát minh giúp vương quốc khoa học thắng được một cuộc chiến mà không cần sức mạnh cơ bắp."
+      },
+      "image_prompt": "two tin-can style telephones connected by a long wire across a forest",
+      "chapter": "Phát minh 8: điện thoại và radio",
+      "on_screen_text": "Điện thoại · Radio"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Khoa học: điện thoại biến âm thanh thành tín hiệu điện rồi biến ngược lại. Radio đi xa hơn: truyền tín hiệu qua sóng vô tuyến, không cần dây."
+      },
+      "image_prompt": "a diagram of sound waves turning into electrical signals and radio waves spreading from a tower"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Để làm radio, Senku cần những linh kiện rất khó như ống chân không, nam châm, dây dẫn và cả những tinh thể đặc biệt. Mỗi thứ là một phát minh riêng."
+      },
+      "image_prompt": "a wooden workbench cluttered with glass tubes, coils and crystals under lamplight"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Ngoài đời, từ điện thoại đầu tiên cuối thế kỷ mười chín tới radio phát sóng rộng rãi đầu thế kỷ hai mươi mất vài chục năm, với rất nhiều nhà phát minh."
+      },
+      "image_prompt": "a timeline with a vintage telephone on the left and an old radio set on the right",
+      "on_screen_text": "Vài chục năm"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Chấm điểm: làm được nhưng cực khó với một nhóm nhỏ. Độ nguy hiểm: trung bình. Kaku ghi chú: trong truyện, lời nói qua radio có lúc mạnh hơn cả vũ khí."
+      },
+      "image_prompt": "the owl mascot speaking into an old microphone, sound waves spreading out",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Và phát minh cuối cùng, tham vọng nhất: một tên lửa đưa người lên Mặt Trăng, để tìm hiểu nguồn gốc của luồng sáng hóa đá."
+      },
+      "image_prompt": "a tall rocket on a wooden launch tower at dawn, the moon faint in the sky",
+      "chapter": "Phát minh 9: tên lửa lên Mặt Trăng",
+      "on_screen_text": "Tên lửa lên Mặt Trăng",
+      "video_prompt": "steam and smoke billow at the base of the wooden launch tower as the rocket begins to rise, slow tilt up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Khoa học: tên lửa bay nhờ đẩy khí ra phía sau với tốc độ cực lớn, theo định luật ba của Newton. Nhưng để thoát khỏi lực hút Trái Đất, cần năng lượng khổng lồ và vật liệu cực bền."
+      },
+      "image_prompt": "a diagram of exhaust pushing down and a rocket pushing up, with a small Newton's third law label"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Ngoài đời, chương trình đưa người lên Mặt Trăng của Mỹ cần tới khoảng bốn trăm nghìn người làm việc cùng nhau trong nhiều năm, với nền công nghiệp của cả một quốc gia."
+      },
+      "image_prompt": "a huge crowd of engineers and workers silhouetted before a giant rocket",
+      "on_screen_text": "~400.000 người"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Chấm điểm: không thực tế nếu bắt đầu từ con số không trong vài năm. Đây là phần khoa học viễn tưởng, nhưng là viễn tưởng dựa trên đúng con đường mà loài người thật đã đi."
+      },
+      "image_prompt": "a red badge on a scorecard beside a small moon icon",
+      "on_screen_text": "Không thực tế"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku ghi chú: truyện rất thông minh khi để việc lên Mặt Trăng là cái đích cuối cùng. Nó cho thấy mọi thứ trước đó, từ vôi, xà phòng, thủy tinh, tất cả đều là bậc thang dẫn tới đây."
+      },
+      "image_prompt": "the owl mascot at the top of a staircase of small inventions, looking at the moon",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Trước khi xếp bảng, hãy nhìn các phát minh như một cây công nghệ trong game chiến thuật. Mỗi ô chỉ mở được khi ô trước đã mở."
+      },
+      "image_prompt": "a game-style technology tree drawn on parchment, glowing nodes connected by lines",
+      "chapter": "Cây công nghệ: vì sao thứ tự quan trọng",
+      "on_screen_text": "Cây công nghệ"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Có lửa thì mới nung được vôi và thủy tinh. Có thủy tinh thì mới có dụng cụ để làm hóa học. Có hóa học thì mới có thuốc và vật liệu mới."
+      },
+      "image_prompt": "the first branches of the tree lighting up: flame, shell, glass, flask"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Có kim loại và nam châm thì mới có điện. Có điện thì mới có đèn, điện thoại và radio. Và có tất cả những thứ đó, cộng với nhiên liệu và máy móc, mới nghĩ tới chuyện lên trời."
+      },
+      "image_prompt": "the upper branches lighting up: magnet, bulb, radio, and at the top a small rocket"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Senku luôn biết mình đang ở ô nào và ô tiếp theo cần gì. Đó là lý do cậu không bao giờ cố làm radio khi còn chưa có thủy tinh."
+      },
+      "image_prompt": "a young scientist pointing at the next node on a glowing tree while villagers watch"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: đây cũng là cách học rất tốt ngoài đời. Muốn giỏi một thứ khó, hãy tìm xem nó đứng trên những thứ dễ hơn nào."
+      },
+      "image_prompt": "the owl mascot climbing a small tree of glowing nodes, branch by branch",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Loài người thật mất bao lâu để đi từ lửa tới tên lửa? Hàng chục nghìn năm, nếu tính từ những đống lửa đầu tiên. Còn Senku chỉ mất vài năm."
+      },
+      "image_prompt": "a very long timeline scroll next to a tiny calendar with only a few pages",
+      "chapter": "Thời gian thật và thời gian trong truyện",
+      "on_screen_text": "Hàng chục nghìn năm vs vài năm"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Có ba lý do khiến truyện nhanh như vậy. Một: Senku đã biết câu trả lời, không phải thử sai hàng nghìn lần như những nhà phát minh thật."
+      },
+      "image_prompt": "a scientist walking straight through a maze while others wander its paths"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hai: cậu có rất nhiều người giúp, và những người đó học rất nhanh. Ba: truyện cần nhịp nhanh để hấp dẫn, nên nhiều bước bị lược đi."
+      },
+      "image_prompt": "a busy workshop montage with villagers learning new skills at a rapid pace"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nhưng cũng có những thứ Senku không thể rút ngắn: chờ nguyên liệu, chờ lò đủ nóng, chờ người bệnh hồi phục. Truyện vẫn tôn trọng những giới hạn đó."
+      },
+      "image_prompt": "an hourglass placed next to a slowly heating furnace and a sleeping patient",
+      "on_screen_text": "Có thứ không rút ngắn được"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kaku ghi chú: biết trước câu trả lời giúp đi nhanh gấp trăm lần. Đó là sức mạnh thật sự của giáo dục."
+      },
+      "image_prompt": "the owl mascot holding a textbook like a treasure map",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Giờ xếp tất cả lên bảng. Làm được: vôi từ vỏ sò, xà phòng. Đây là công nghệ hàng nghìn năm tuổi."
+      },
+      "image_prompt": "a chart with green badges next to a seashell and a soap bar",
+      "chapter": "Bảng khả thi",
+      "on_screen_text": "Làm được"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Làm được nhưng rất khó: thủy tinh, điện, bóng đèn tre, điện thoại và radio. Nguyên lý đơn giản, nhưng làm ra thì cần kỹ năng, dụng cụ và rất nhiều người."
+      },
+      "image_prompt": "yellow badges next to a glass cup, a coil, a bulb and a radio"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Không thực tế: dung dịch phá đá hóa, vì hiện tượng không có thật, thuốc tự chế, vì quá nguy hiểm, và tên lửa lên Mặt Trăng trong vài năm."
+      },
+      "image_prompt": "red badges next to a stone statue, a pill bottle and a rocket"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Vậy Dr. Stone có thật không? Kaku chấm: phần lớn nguyên lý là thật, còn tốc độ thì được đẩy nhanh hơn thực tế rất, rất nhiều."
+      },
+      "image_prompt": "a large stamp reading REAL PRINCIPLES, FAST FORWARD on the chart",
+      "on_screen_text": "Nguyên lý thật, tốc độ phim"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Có một câu nói nổi tiếng của Isaac Newton: nếu tôi nhìn được xa hơn, đó là nhờ tôi đứng trên vai những người khổng lồ."
+      },
+      "image_prompt": "a small figure standing on the shoulders of a towering statue, looking far into the distance",
+      "chapter": "Góc nhìn của Kaku: khoa học là cầu thang",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Senku làm được mọi thứ vì cậu mang trong đầu kiến thức của hàng nghìn năm loài người. Cậu không phát minh lại từ đầu, cậu nhớ lại con đường mà người khác đã mở."
+      },
+      "image_prompt": "a glowing path of footprints stretching back through history behind a young scientist"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Và truyện cũng cho thấy một mình Senku không làm được gì. Cần người thợ làm dây, người thổi lửa, người đi tìm nguyên liệu. Khoa học là việc của cả một cộng đồng."
+      },
+      "image_prompt": "a whole village working together at different stations of a rustic workshop"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Kaku nghĩ đó là thông điệp đẹp nhất: mọi thứ ta dùng mỗi ngày, từ cốc thủy tinh tới bóng đèn, là món quà của hàng triệu người ta không biết tên."
+      },
+      "image_prompt": "a modern kitchen with a glass cup, a light bulb and a bar of soap, softly lit"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Và muốn đi tiếp, ta chỉ cần làm điều Senku làm: tò mò, kiên nhẫn, và đi từng bậc một."
+      },
+      "image_prompt": "a single step of a staircase glowing in the dark, ready to be climbed"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Tóm lại: nhiều phát minh trong Dr. Stone dựa trên khoa học và lịch sử có thật, từ vôi, xà phòng, thủy tinh cho tới dây tóc bằng tre. Phần khó tin nhất là tốc độ, và hiện tượng hóa đá."
+      },
+      "image_prompt": "a summary board of inventions from a seashell to a rocket, connected by arrows",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu tỉnh dậy sau ba nghìn bảy trăm năm, thứ đầu tiên bạn muốn làm lại là gì? Kaku thì chọn xà phòng, vì Kaku rất sợ bẩn."
+      },
+      "image_prompt": "the owl mascot holding a bar of soap proudly, bubbles floating around",
+      "on_screen_text": "Bạn làm lại thứ gì trước?",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tới, Kaku đổi sang một thế giới khác hẳn: hậu cung, thuốc men và những vụ bí ẩn trong Dược sư tự sự, bộ đang phát mùa ba. Một video nhập môn cho người mới."
+      },
+      "image_prompt": "an elegant palace courtyard at night with lanterns and a small herb basket on a bench",
+      "on_screen_text": "Tiếp theo: nhập môn Dược sư tự sự"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Đăng ký kênh để không bỏ lỡ nhé. Kaku tháo kính bảo hộ đây. Mười tỉ phần trăm hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot taking off safety goggles and waving in a rustic lab",
+      "use_mascot": true
+    }
+  ]
+}
