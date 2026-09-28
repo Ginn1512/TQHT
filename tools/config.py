@@ -24,6 +24,9 @@ IMAGE_MODEL = os.environ.get("YT_IMAGE_MODEL", "gemini-3.1-flash-lite-image")
 PRICE_PER_IMAGE = 0.0336
 # TTS tính theo token âm thanh đầu ra: 6 USD / 1 triệu token, 25 token mỗi giây.
 PRICE_TTS_PER_SECOND = 6.0 / 1_000_000 * 25
+# Seedance 2.5, 720p, không có video đầu vào. Replicate khoảng 0,23 USD/giây, fal khoảng 0,47.
+# Làm thủ công trên app Dreamina/CapCut thì trả bằng credit của gói, không qua API.
+PRICE_VIDEO_PER_SECOND = 0.23
 MONTHLY_BUDGET_USD = 38.0
 
 # --- Ngôn ngữ ---

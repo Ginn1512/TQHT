@@ -50,8 +50,9 @@ Chỉ tăng tần suất và thêm ngôn ngữ khi video trước đạt chất 
 | Giọng đọc tiếng Việt | 0,009/phút | khoảng 0,15–0,2 |
 | Mỗi bản lồng tiếng thêm | 0,009/phút | khoảng 0,15–0,2 |
 | TranscriptAPI | 100 credit miễn phí | 0 |
+| Clip Seedance 2.5 (tuỳ chọn, 6 × 5 giây) | 0,23/giây qua API | khoảng 6,9 (0 nếu dùng credit app Dreamina/CapCut) |
 
-Giá lấy từ nguồn thứ ba tháng 9/2026; giá giọng đọc được báo sẽ tăng gấp đôi từ 01/01/2027.
+Nếu dùng Seedance qua API, mỗi video khoảng 10,5 USD nên chỉ đủ khoảng 3 video/tháng; vì vậy mặc định làm clip trên app. Giá lấy từ nguồn thứ ba tháng 9/2026; giá giọng đọc được báo sẽ tăng gấp đôi từ 01/01/2027.
 
 ## Rủi ro
 

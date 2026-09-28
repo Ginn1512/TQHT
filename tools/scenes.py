@@ -14,7 +14,9 @@ Cấu trúc::
           "narration": {"vi": "Lời thoại...", "en": "..."},
           "image_prompt": "wide shot of ...",
           "on_screen_text": "Chữ hiện trên màn hình", # tuỳ chọn
-          "use_mascot": false                          # tuỳ chọn
+          "use_mascot": false,                         # tuỳ chọn
+          "video_prompt": "slow push-in as ...",       # tuỳ chọn: cảnh "đinh" làm clip Seedance
+          "clip_seconds": 5                            # tuỳ chọn, 4–10 giây
         }
       ]
     }
@@ -44,6 +46,8 @@ class Scene:
     on_screen_text: str = ""
     chapter: str = ""
     use_mascot: bool = False
+    video_prompt: str = ""
+    clip_seconds: int = 0
 
 
 @dataclass
@@ -87,6 +91,10 @@ def parse(data: dict) -> Storyboard:
                 errors.append(f"{where}: thiếu lời thoại '{lang}'")
         if not str(raw.get("image_prompt", "")).strip():
             errors.append(f"{where}: thiếu image_prompt")
+        video_prompt = str(raw.get("video_prompt", "")).strip()
+        clip_seconds = int(raw.get("clip_seconds", 5 if video_prompt else 0))
+        if video_prompt and not 4 <= clip_seconds <= 10:
+            errors.append(f"{where}: clip_seconds phải từ 4 đến 10")
 
         scenes.append(
             Scene(
@@ -96,6 +104,8 @@ def parse(data: dict) -> Storyboard:
                 on_screen_text=str(raw.get("on_screen_text", "")).strip(),
                 chapter=str(raw.get("chapter", "")).strip(),
                 use_mascot=bool(raw.get("use_mascot", False)),
+                video_prompt=video_prompt,
+                clip_seconds=clip_seconds if video_prompt else 0,
             )
         )
 

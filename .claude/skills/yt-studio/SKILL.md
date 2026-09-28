@@ -59,6 +59,8 @@ python -m tools.images videos/<thư-mục>
 python -m tools.assemble videos/<thư-mục>        # thêm --music <file> nếu người dùng có nhạc không bản quyền
 ```
 
+- Muốn có clip chuyển động thật cho vài cảnh "đinh": làm theo skill `/yt-seedance` trước khi chạy `tools.assemble` (tối đa 6 clip × 5 giây).
+
 - Dùng Read xem ngẫu nhiên khoảng 5 ảnh. Nếu ảnh có chữ lạ, dị dạng, hoặc quá giống nhân vật có bản quyền, sửa `image_prompt` rồi vẽ lại bằng `python -m tools.images videos/<thư-mục> --only s03,s07`. Ảnh cũ nằm trong cache, không tốn lại.
 - Sửa lời thoại một cảnh thì chỉ cảnh đó bị tạo giọng lại.
 - Xem `render/report.json` và trích 2–3 khung hình để kiểm tra.

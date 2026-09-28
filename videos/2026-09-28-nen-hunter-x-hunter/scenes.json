@@ -20,7 +20,9 @@
       "narration": {
         "vi": "Có một cậu bé mười bốn tuổi, trong cơn giận, đã biến mình thành một chiến binh trưởng thành mạnh tới mức kẻ thù phải run sợ."
       },
-      "image_prompt": "silhouette of a tall adult warrior with long wild hair standing in a ruined forest, overwhelming dark orange aura rising like flames, back view"
+      "image_prompt": "silhouette of a tall adult warrior with long wild hair standing in a ruined forest, overwhelming dark orange aura rising like flames, back view",
+      "video_prompt": "the aura surges upward like roaring flames, hair and debris lifted by wind, slow low-angle push-in toward the silhouette, embers drifting, no face shown",
+      "clip_seconds": 5
     },
     {
       "id": "s03",
@@ -43,7 +45,9 @@
         "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình sẽ giải mã Nen từ con số không: khí là gì, bốn nguyên tắc, sáu hệ, và luật giao ước."
       },
       "image_prompt": "the owl mascot opening a big glowing notebook on a wooden desk in a cozy library, waving to the viewer",
-      "use_mascot": true
+      "use_mascot": true,
+      "video_prompt": "the owl mascot flips open the notebook, golden light bursts from the pages and lights its glasses, it turns to the camera and waves one wing, gentle handheld camera",
+      "clip_seconds": 5
     },
     {
       "id": "s06",
@@ -313,7 +317,9 @@
       },
       "image_prompt": "a large glowing hexagon floating in a starry void, six vertices each with a distinct color",
       "chapter": "Sáu hệ và hình lục giác",
-      "on_screen_text": "6 hệ Nen"
+      "on_screen_text": "6 hệ Nen",
+      "video_prompt": "the hexagon slowly rotates in space, each vertex lights up one after another in a clockwise sweep, subtle particle trails, slow orbit camera",
+      "clip_seconds": 5
     },
     {
       "id": "s41",
@@ -446,7 +452,9 @@
         "vi": "Nước dâng lên nhiều hơn là Cường hóa. Khi Gon thử, nước trào ra khỏi cốc."
       },
       "image_prompt": "a glass of water overflowing onto a table, leaf riding the rising water",
-      "on_screen_text": "Nước dâng: Cường hóa"
+      "on_screen_text": "Nước dâng: Cường hóa",
+      "video_prompt": "the water level rises and spills over the rim of the glass while the leaf rides the surface, macro close-up, shallow depth of field, static camera",
+      "clip_seconds": 5
     },
     {
       "id": "s58",
@@ -555,7 +563,9 @@
       },
       "image_prompt": "an ancient contract scroll sealed with a glowing wax seal shaped like a chain link",
       "chapter": "Giới hạn và giao ước",
-      "on_screen_text": "Giới hạn & giao ước"
+      "on_screen_text": "Giới hạn & giao ước",
+      "video_prompt": "the wax seal cracks with a burst of light, a glowing chain unwinds from the scroll and wraps around the frame, slow dolly-in",
+      "clip_seconds": 5
     },
     {
       "id": "s72",
@@ -630,7 +640,9 @@
       "narration": {
         "vi": "Cậu ép cơ thể lớn vượt tuổi, đạt tới sức mạnh mà lẽ ra phải cả đời tu luyện mới có, và đánh bại kẻ thù."
       },
-      "image_prompt": "a tall adult silhouette with overwhelming aura towering above a smaller shadowy creature, back view"
+      "image_prompt": "a tall adult silhouette with overwhelming aura towering above a smaller shadowy creature, back view",
+      "video_prompt": "the aura explodes outward in a shockwave, ground cracks spread, the silhouette stands still at the center, camera pulls back fast then settles, no face shown",
+      "clip_seconds": 5
     },
     {
       "id": "s82",

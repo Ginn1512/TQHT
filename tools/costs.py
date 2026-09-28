@@ -24,8 +24,13 @@ def estimate(board: scenes.Storyboard, languages: list[str] | None = None, image
         for lang in langs
     }
     n_images = len(board.scenes) if images else 0
-    usd = n_images * config.PRICE_PER_IMAGE + sum(seconds.values()) * config.PRICE_TTS_PER_SECOND
-    return {"images": n_images, "tts_seconds": seconds, "usd": round(usd, 3)}
+    clip_s = sum(s.clip_seconds for s in board.scenes) if images else 0
+    usd = (
+        n_images * config.PRICE_PER_IMAGE
+        + sum(seconds.values()) * config.PRICE_TTS_PER_SECOND
+        + clip_s * config.PRICE_VIDEO_PER_SECOND
+    )
+    return {"images": n_images, "clip_seconds": clip_s, "tts_seconds": seconds, "usd": round(usd, 3)}
 
 
 def load_usage(video_dir: Path) -> dict:
@@ -87,6 +92,9 @@ def main() -> None:
         est = estimate(board, args.lang, images=not args.no_images)
         spent = month_total()
         print(f"Ảnh: {est['images']} × {config.PRICE_PER_IMAGE} USD")
+        if est["clip_seconds"]:
+            n = sum(1 for s in board.scenes if s.clip_seconds)
+            print(f"Clip Seedance: {n} clip, {est['clip_seconds']} giây × {config.PRICE_VIDEO_PER_SECOND} USD (qua API; làm trên app thì trừ credit)")
         for lang, s in est["tts_seconds"].items():
             print(f"Giọng {lang}: ~{s / 60:.1f} phút")
         print(f"Ước tính: ~{est['usd']:.2f} USD")

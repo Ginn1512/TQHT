@@ -103,6 +103,29 @@ def render_segment(
     )
 
 
+def render_clip_segment(
+    clip: Path, overlay: Path | None, frames: int, out: Path, size: tuple[int, int], fps: int
+) -> None:
+    """Cảnh dùng clip AI (Seedance): cắt/lặp cho đủ độ dài cảnh, bỏ tiếng, phủ chữ nếu có."""
+    w, h = size
+    chain = f"[0:v]scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h},fps={fps},setsar=1"
+    args = ["-stream_loop", "-1", "-i", str(clip)]
+    if overlay:
+        args += ["-i", str(overlay)]
+        chain += "[bg];[bg][1:v]overlay=0:0"
+    chain += ",format=yuv420p[v]"
+    media.run_ffmpeg(
+        [
+            *args,
+            "-filter_complex", chain,
+            "-map", "[v]", "-an",
+            "-frames:v", str(frames),
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(fps),
+            str(out),
+        ]
+    )
+
+
 def encode_audio(track_wav: Path, out: Path, total_s: float, music: Path | None, video: Path | None = None) -> None:
     """Mã hoá AAC, trộn nhạc nền (lặp lại cho đủ dài). Nếu có video thì ghép luôn thành MP4."""
     args: list[str] = []
@@ -174,7 +197,9 @@ def run(
 
     images = [assets / "images" / f"{s.id}.png" for s in board.scenes]
     main_audio = [assets / "audio" / primary / f"{s.id}.wav" for s in board.scenes]
-    missing = [str(p) for p in images + main_audio if not p.exists()]
+    clips = [assets / "clips" / f"{s.id}.mp4" for s in board.scenes]
+    missing = [str(img) for img, clip in zip(images, clips) if not img.exists() and not clip.exists()]
+    missing += [str(p) for p in main_audio if not p.exists()]
     if missing:
         raise SystemExit("Thiếu file, hãy chạy tools.images / tools.tts trước:\n- " + "\n- ".join(missing))
 
@@ -192,7 +217,10 @@ def run(
             overlay = tmp / f"overlay_{scene.id}.png"
             render_overlay(scene.on_screen_text, overlay, size)
         seg = tmp / f"seg_{i:03d}.mp4"
-        render_segment(image, overlay, frames[i], i, seg, size, fps)
+        if clips[i].exists():
+            render_clip_segment(clips[i], overlay, frames[i], seg, size, fps)
+        else:
+            render_segment(image, overlay, frames[i], i, seg, size, fps)
         segments.append(seg)
         print(f"Cảnh {i + 1}/{len(board.scenes)} ({scene.id}, {dur:.1f}s)", flush=True)
     concat_list = tmp / "segments.txt"
