@@ -1,0 +1,736 @@
+{
+  "title": "Jujutsu Kaisen: 10 hiểu lầm mà gần như ai cũng từng tin",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Jujutsu Kaisen tới hết anime mùa hai, arc Shibuya, và một ít đầu arc Trò chơi tử diệt trong mùa ba."
+      },
+      "image_prompt": "a dark city intersection at night with a faint purple barrier over the skyline",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết mùa 2"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Câu này bạn chắc chắn đã nghe: Hắc thiểm là tuyệt chiêu mà nhân vật mạnh có thể tung ra bất cứ lúc nào. Nghe hợp lý, đúng không?"
+      },
+      "image_prompt": "a sticky note on a wall reading a common belief, with a large red X slowly drawn across it",
+      "on_screen_text": "Ai cũng tin…",
+      "video_prompt": "a red marker slowly draws a large X across the sticky note, paper trembling, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Sai. Và đó mới chỉ là hiểu lầm đầu tiên trong mười hiểu lầm mà Kaku gom được từ bình luận, diễn đàn và chính những lần Kaku tự hiểu sai."
+      },
+      "image_prompt": "a wall covered with ten pinned notes, each with a red question mark, a detective lamp shining on them",
+      "on_screen_text": "10 hiểu lầm"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Với mỗi hiểu lầm, Kaku sẽ trả lời ba câu: người ta tin gì, truyện thực sự nói gì, và vì sao lại dễ hiểu nhầm đến vậy."
+      },
+      "image_prompt": "the owl mascot holding a red marker in one wing and an open notebook in the other",
+      "on_screen_text": "Tin gì · Truyện nói gì · Vì sao nhầm",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và như mọi danh sách hay, hiểu lầm lớn nhất, cũng là hiểu lầm Kaku thấy nhiều nhất, được để dành tới cuối."
+      },
+      "image_prompt": "the owl mascot hiding one note behind its back with a mischievous smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Người ta tin: Hắc thiểm là một đòn đánh đặc biệt, nhân vật mạnh có thể dùng khi cần, giống như tung một chiêu cuối."
+      },
+      "image_prompt": "a figure winding up a punch with black lightning crackling around the fist",
+      "chapter": "Hiểu lầm 1: Hắc thiểm là tuyệt chiêu",
+      "on_screen_text": "Tin: tung lúc nào cũng được"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Truyện nói: Hắc thiểm không phải kỹ thuật, mà là một hiện tượng. Nó xảy ra khi chú lực chạm vào đối thủ chỉ trong khoảng một phần triệu giây sau cú đánh vật lý."
+      },
+      "image_prompt": "a stopwatch frozen at an impossibly small fraction of a second beside a fist striking",
+      "on_screen_text": "Hiện tượng, không phải chiêu"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Khi trùng khớp đúng khoảnh khắc đó, không gian bị bóp méo, tia sét đen lóe lên, và sức mạnh cú đánh tăng vọt. Truyện mô tả nó mạnh hơn đòn thường theo cấp số mũ."
+      },
+      "image_prompt": "a distortion ripple in the air as black lightning bursts from a point of impact",
+      "video_prompt": "space warps around the point of impact and black lightning bursts outward, slow motion",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Không ai tạo ra Hắc thiểm theo ý muốn một cách chắc chắn. Ngay cả những chú thuật sư mạnh nhất cũng chỉ có thể tăng cơ hội, chứ không bảo đảm."
+      },
+      "image_prompt": "a dartboard with a single tiny bullseye glowing black, most darts scattered around it"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì anime thể hiện nó quá ngầu, với tên gọi và hiệu ứng riêng, nên trông giống hệt một chiêu cuối trong game đối kháng."
+      },
+      "image_prompt": "a video game health bar and a flashy special move icon, crossed out"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Chi tiết hay: người từng tạo ra Hắc thiểm được cho là hiểu chú lực ở một tầm khác. Kaku nghĩ nó giống cảm giác vào guồng của vận động viên sau một cú đánh hoàn hảo."
+      },
+      "image_prompt": "the owl mascot swinging a tiny bat and hitting a perfect shot, sparkles around it",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Người ta tin: chú linh chỉ là quái vật, không có suy nghĩ, chỉ biết tấn công con người."
+      },
+      "image_prompt": "a grotesque shapeless creature lurking in a dark school hallway",
+      "chapter": "Hiểu lầm 2: Chú linh là quái vật vô tri",
+      "on_screen_text": "Tin: quái vật vô tri"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Truyện nói: chú linh sinh ra từ cảm xúc tiêu cực của con người, như sợ hãi, căm ghét, lo âu. Phần lớn đúng là yếu và vô tri, nhưng những chú linh cấp cao thì hoàn toàn khác."
+      },
+      "image_prompt": "a crowd of people with dark wisps rising from their heads, merging into a shadow above them",
+      "on_screen_text": "Sinh ra từ cảm xúc tiêu cực"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Có những chú linh cấp đặc biệt biết nói, biết lập kế hoạch, và còn có triết lý riêng. Một số sinh ra từ nỗi sợ thiên nhiên của loài người, như sợ núi lửa, sợ rừng, sợ biển."
+      },
+      "image_prompt": "three shadowy intelligent figures standing on a volcano, in a forest and by the sea",
+      "on_screen_text": "Chú linh thiên tai"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Có chú linh còn tự coi mình là loài người thật sự, vì chúng là cảm xúc thuần khiết của con người mà không có lớp vỏ giả tạo."
+      },
+      "image_prompt": "a humanoid shadow looking into a mirror that reflects a human crowd"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Vì vậy, trong thế giới này, càng nhiều người cùng sợ một thứ, chú linh sinh ra từ nỗi sợ đó càng mạnh. Nỗi sợ tập thể là nguồn sức mạnh đáng sợ nhất."
+      },
+      "image_prompt": "a city skyline where countless tiny dark wisps gather into one enormous shadow above the rooftops",
+      "on_screen_text": "Nỗi sợ tập thể"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: những tập đầu chỉ cho thấy chú linh yếu, hình thù kỳ dị. Khán giả gắn hình ảnh đó cho mọi chú linh."
+      },
+      "image_prompt": "a row of small ugly creatures, then a tall intelligent shadow stepping out from behind them"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Người ta tin: nếu chăm chỉ, chú thuật sư có thể học được thuật thức mới, giống học một chiêu mới trong võ thuật."
+      },
+      "image_prompt": "a student bowing in a dojo in front of a scroll of techniques",
+      "chapter": "Hiểu lầm 3: Thuật thức luyện tập mà có",
+      "on_screen_text": "Tin: học được thuật thức mới"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Truyện nói: thuật thức bẩm sinh được khắc sẵn trong cơ thể từ khi sinh ra. Người có thì có, người không có thì không. Không thể tự học thêm một thuật thức khác."
+      },
+      "image_prompt": "a glowing pattern engraved inside a silhouette's body like a circuit, visible from birth",
+      "on_screen_text": "Thuật thức là bẩm sinh"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Luyện tập thay đổi cách dùng: mở rộng thuật thức, dùng ngược lại, hay đẩy tới mức tối đa. Nhưng gốc rễ vẫn là thứ có sẵn từ lúc sinh ra."
+      },
+      "image_prompt": "a single seed growing into a tree with many branches, each branch labeled with a small icon"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Nhiều gia tộc chú thuật truyền thuật thức theo dòng máu, và coi đó là tài sản quý nhất, đến mức đánh giá con cái theo thuật thức chúng nhận được."
+      },
+      "image_prompt": "an old clan house with family crests, children lined up while elders inspect them"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Cũng có những trường hợp đặc biệt trong truyện cho phép dùng thuật thức của người khác, nhưng đó là ngoại lệ hiếm hoi và luôn có một cái giá hay một điều kiện rất riêng."
+      },
+      "image_prompt": "a rare glowing key hovering over a locked box, surrounded by warning symbols"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì nhân vật mạnh lên rất nhanh trong truyện. Nhưng thứ họ học được là kỹ năng dùng chú lực, không phải thuật thức mới."
+      },
+      "image_prompt": "the owl mascot pointing at two jars: one labeled born and one labeled trained",
+      "use_mascot": true
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Người ta tin: nhân vật chính Yuji ban đầu yếu vì không có thuật thức riêng như các bạn."
+      },
+      "image_prompt": "a young fighter in a school uniform standing beside classmates with glowing techniques",
+      "chapter": "Hiểu lầm 4: Không có thuật thức thì yếu",
+      "on_screen_text": "Tin: không thuật thức = yếu"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Truyện nói: Yuji có thể lực phi thường ngay từ đầu, chạy nhanh, đánh mạnh ở mức khiến chú thuật sư lâu năm cũng kinh ngạc."
+      },
+      "image_prompt": "a teenager throwing a shot put so far it disappears beyond a stadium",
+      "on_screen_text": "Thể lực phi thường"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Cậu còn có năng khiếu đặc biệt với Hắc thiểm. Trong một trận đấu, cậu tạo ra bốn Hắc thiểm liên tiếp, cân bằng kỷ lục của một chú thuật sư kỳ cựu."
+      },
+      "image_prompt": "four black lightning flashes in a row lighting up a forest battlefield",
+      "on_screen_text": "4 Hắc thiểm liên tiếp"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Trong thế giới này, không có thuật thức không đồng nghĩa với yếu. Có cả những nhân vật mạnh khủng khiếp mà hầu như không dùng chú lực."
+      },
+      "image_prompt": "a silhouette with a heavy weapon standing calmly amid defeated sorcerers"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì phần lớn thời lượng tập trung vào thuật thức hào nhoáng, nên thứ sức mạnh thuần túy của cơ thể dễ bị xem nhẹ."
+      },
+      "image_prompt": "a spotlight on flashy spell effects while a fighter stands in the shadow beside it"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Người ta tin: ai dùng được chú lực đảo ngược là gần như bất tử, và có thể chữa lành cho bất kỳ ai."
+      },
+      "image_prompt": "a glowing healing light around a figure, wounds closing instantly",
+      "chapter": "Hiểu lầm 5: Chú lực đảo ngược chữa được mọi thứ",
+      "on_screen_text": "Tin: gần như bất tử"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Truyện nói: chú lực đảo ngược được tạo ra bằng cách nhân hai nguồn năng lượng âm với nhau để có năng lượng dương, giống như âm nhân âm ra dương trong toán học."
+      },
+      "image_prompt": "a chalkboard showing minus times minus equals plus with glowing energy symbols",
+      "on_screen_text": "Âm × Âm = Dương"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Nó rất khó học. Chỉ một số ít chú thuật sư làm được, và đa số chỉ chữa được cho chính mình."
+      },
+      "image_prompt": "a single sorcerer glowing with healing light while many others around them cannot"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Chữa cho người khác còn hiếm hơn nữa. Trong trường chú thuật, có một bác sĩ nổi tiếng chính vì làm được điều đó."
+      },
+      "image_prompt": "a calm doctor in a white coat in an infirmary, a gentle glow from her hands over a patient",
+      "on_screen_text": "Chữa cho người khác: rất hiếm"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Và nó không phải phép màu: nó cần chú lực, tốn sức, và không đưa được người đã chết trở lại."
+      },
+      "image_prompt": "a fading hourglass beside a healing glow that flickers out"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì những nhân vật mạnh nhất dùng nó quá nhẹ nhàng, khiến người xem tưởng ai cũng làm được."
+      },
+      "image_prompt": "the owl mascot trying to multiply two small dark clouds together, getting only a puff of smoke",
+      "use_mascot": true
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Người ta tin: lời thề ràng buộc là thứ hiếm, chỉ xuất hiện trong những giao kèo lớn và kịch tính."
+      },
+      "image_prompt": "two figures shaking hands in a storm as glowing chains wrap around their wrists",
+      "chapter": "Hiểu lầm 6: Lời thề ràng buộc chỉ có trong trận lớn",
+      "on_screen_text": "Tin: hiếm và kịch tính"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Truyện nói: lời thề ràng buộc có mặt ở khắp nơi, kể cả trong những thói quen nhỏ. Tự đặt giới hạn cho mình thì được thưởng thêm sức mạnh."
+      },
+      "image_prompt": "a daily planner with small glowing chains linking certain entries",
+      "on_screen_text": "Có mặt khắp nơi"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Ví dụ nổi tiếng là chú thuật sư làm việc như nhân viên văn phòng: ông tự giới hạn giờ làm, và khi phải làm thêm giờ, sức mạnh của ông tăng lên."
+      },
+      "image_prompt": "a tired office worker loosening his tie as a clock passes six in the evening, his aura intensifying",
+      "on_screen_text": "Làm thêm giờ → mạnh hơn"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Một dạng khác rất phổ biến: tiết lộ thuật thức của mình cho đối thủ. Tự làm mình bất lợi thì thuật thức được tăng sức mạnh."
+      },
+      "image_prompt": "a fighter explaining their technique with diagrams while their aura grows brighter",
+      "on_screen_text": "Tiết lộ thuật thức → mạnh hơn"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Lời thề cũng có thể được lập giữa hai người. Nhưng phá vỡ lời thề thì sẽ phải chịu hậu quả, và hậu quả đó không phải lúc nào cũng biết trước được."
+      },
+      "image_prompt": "two glowing chains linking two hands, one chain snapping with a dark spark"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì trong nhiều bộ khác, nhân vật giải thích chiêu thức chỉ để khán giả hiểu. Ở đây, việc giải thích là một phần của chiến thuật."
+      },
+      "image_prompt": "a speech bubble with a small power-up arrow inside it"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kaku ghi chú: nên lần sau thấy nhân vật giải thích dài dòng giữa trận, đừng vội chê. Họ đang mạnh lên đấy."
+      },
+      "image_prompt": "the owl mascot lecturing at a chalkboard while a tiny power meter beside it fills up",
+      "use_mascot": true
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Người ta tin: đã bị kéo vào lãnh địa là thua, vì mọi đòn trong lãnh địa đều trúng một trăm phần trăm."
+      },
+      "image_prompt": "a figure trapped inside a dark dome as countless attacks rain down",
+      "chapter": "Hiểu lầm 7: Lãnh địa là không thể đỡ",
+      "on_screen_text": "Tin: vào lãnh địa là thua"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Truyện nói: đòn trong lãnh địa được bảo đảm trúng, nhưng vẫn có nhiều cách chống đỡ. Có kỹ thuật tạo một vùng nhỏ quanh cơ thể để vô hiệu hóa đòn chắc chắn trúng."
+      },
+      "image_prompt": "a small glowing circle around a figure's feet inside a dark dome, attacks bouncing off it",
+      "on_screen_text": "Có cách chống"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Cách mạnh nhất là mở lãnh địa của chính mình. Hai lãnh địa va chạm thì bên nào tinh xảo hơn sẽ lấn át bên kia."
+      },
+      "image_prompt": "two domes of different colors colliding and pushing against each other"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku đã giải thích chi tiết luật và các cách phá lãnh địa ở video số hai của kênh. Ở đây chỉ cần nhớ: lãnh địa rất mạnh, nhưng không phải chiến thắng tự động."
+      },
+      "image_prompt": "the owl mascot pointing at a small thumbnail of a dark dome pinned to its notebook",
+      "on_screen_text": "Xem video số 2",
+      "use_mascot": true
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì lần đầu xuất hiện, lãnh địa được thể hiện như một đòn kết thúc tuyệt đối, và cảm giác đó ở lại với người xem."
+      },
+      "image_prompt": "a first-time viewer's silhouette frozen in shock in front of a glowing screen"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Người ta tin: người được gọi là mạnh nhất có một lá chắn vô hạn, nên không gì có thể chạm vào anh ta."
+      },
+      "image_prompt": "a figure standing calmly as punches and blades stop an inch away from his body",
+      "chapter": "Hiểu lầm 8: Người mạnh nhất không thể bị chạm vào",
+      "on_screen_text": "Tin: không thể chạm vào"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Truyện nói: lá chắn đó dựa trên khái niệm vô hạn trong toán học. Thứ gì tiến lại gần sẽ chậm dần và không bao giờ tới nơi, giống như đi mãi một nửa quãng đường còn lại."
+      },
+      "image_prompt": "a diagram of an arrow moving half the remaining distance again and again, never reaching a wall",
+      "on_screen_text": "Đi mãi một nửa quãng đường",
+      "video_prompt": "the arrow keeps halving its distance and slowing, never reaching the wall, slow side tracking",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Nhưng lá chắn vẫn có giới hạn. Trong quá khứ, anh từng bị một người không có chú lực đâm xuyên, nhờ một vũ khí đặc biệt có thể vô hiệu hóa thuật thức."
+      },
+      "image_prompt": "a jagged dagger piercing through a shimmering invisible barrier, the barrier cracking",
+      "on_screen_text": "Có vũ khí phá được"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Sau lần đó, anh tìm cách để lá chắn luôn tự động hoạt động. Nhưng câu chuyện đã chứng minh: không có sức mạnh nào là tuyệt đối."
+      },
+      "image_prompt": "a barrier re-forming around a figure, glowing with new strength after a close call"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Lá chắn cũng tiêu hao chú lực và cần tính toán cực kỳ chính xác. Anh làm được là nhờ đôi mắt đặc biệt giúp nhìn thấy dòng chú lực đến từng chi tiết nhỏ."
+      },
+      "image_prompt": "a pair of glowing blue eyes reflecting intricate streams of energy like a circuit map"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì anh gần như luôn thắng dễ dàng trong mùa một, khiến người xem nghĩ lá chắn là vô địch. Mùa hai mới cho thấy vết nứt."
+      },
+      "image_prompt": "a perfect glass sphere with a single hairline crack catching the light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Người ta tin: Megumi, người bạn trầm tính của Yuji, chỉ là nhân vật phụ yếu hơn, sinh ra để hỗ trợ."
+      },
+      "image_prompt": "a quiet student making shadow shapes with his hands, standing slightly behind his friends",
+      "chapter": "Hiểu lầm 9: Megumi chỉ là nhân vật phụ",
+      "on_screen_text": "Tin: nhân vật phụ yếu"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Truyện nói: thuật thức của Megumi, Thập chủng ảnh pháp, là một trong những thuật thức nổi tiếng nhất lịch sử chú thuật. Cậu gọi thức thần từ bóng của mình."
+      },
+      "image_prompt": "shadow creatures rising from a dark pool at a boy's feet: a dog, a bird, a toad",
+      "on_screen_text": "Thập chủng ảnh pháp",
+      "video_prompt": "shadow creatures rise one by one from the dark pool, eyes glowing, slow crane up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Theo truyện, nhiều thế kỷ trước, người mang thuật thức này từng đấu ngang ngửa với người mang sức mạnh của kẻ mạnh nhất hiện tại, và cả hai cùng gục ngã."
+      },
+      "image_prompt": "an ancient battlefield painting of two sorcerers striking each other, a shadow beast and a burst of light",
+      "on_screen_text": "Từng đấu ngang người mạnh nhất"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Trong bóng của cậu còn ẩn một thức thần mà chưa ai từng thuần phục, mạnh đến mức triệu hồi nó giống như đặt cược cả mạng sống."
+      },
+      "image_prompt": "a massive shadowy silhouette with a wheel above its head looming behind a small figure",
+      "on_screen_text": "Thức thần chưa ai thuần phục"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì Megumi hay tự kìm hãm bản thân và chưa dùng hết tiềm năng. Truyện nhiều lần nhắc rằng cậu mạnh hơn mình nghĩ."
+      },
+      "image_prompt": "a boy looking at his own shadow, which looms much larger than he is",
+      "use_mascot": true
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Trước khi tới hiểu lầm lớn nhất, Kaku tặng thêm một hiểu lầm nhỏ về cấp bậc, vì câu hỏi này xuất hiện trong bình luận rất nhiều."
+      },
+      "image_prompt": "the owl mascot pulling a small gift box out of its scarf, a note inside",
+      "chapter": "Hiểu lầm tặng kèm: cấp bậc",
+      "on_screen_text": "Tặng kèm",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Người ta tin: cấp đặc biệt chỉ mạnh hơn cấp một một chút, giống như bậc tiếp theo trên cùng một cái thang."
+      },
+      "image_prompt": "a ladder with rungs labeled 4, 3, 2, 1, and a special rung just slightly above",
+      "on_screen_text": "Tin: chỉ hơn một bậc"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Truyện nói: chú linh và chú thuật sư đều được xếp từ cấp bốn lên cấp một, rồi tới cấp đặc biệt. Truyện còn so sánh sức mạnh theo vũ khí của người thường để dễ hình dung."
+      },
+      "image_prompt": "a chart pairing curse grades with everyday weapons, from a wooden bat to heavier weapons",
+      "on_screen_text": "Cấp 4 → Cấp 1 → Đặc biệt"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Cấp bốn thì một cây gậy gỗ là đủ. Cấp ba cần tới súng ngắn. Cấp hai cần súng săn. Còn cấp một, ngay cả xe tăng cũng chưa chắc đã đủ."
+      },
+      "image_prompt": "four panels: a wooden bat, a handgun, a shotgun, and a tank looking uncertain",
+      "on_screen_text": "Gậy → Súng → Xe tăng"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Và cấp đặc biệt thì nằm hẳn ngoài thang đo đó. Truyện nói phải cần tới ném bom rải thảm mới có thể xử lý được."
+      },
+      "image_prompt": "a giant shadow towering over a city, far beyond the top of a chart",
+      "on_screen_text": "Đặc biệt: ngoài thang đo"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì chữ đặc biệt nghe như một bậc nữa trên thang. Thực ra nó giống một thang đo hoàn toàn khác. Và số chú thuật sư cấp đặc biệt đếm được trên đầu ngón tay."
+      },
+      "image_prompt": "the owl mascot counting on the tips of its wing feathers, looking amazed",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và đây là hiểu lầm lớn nhất. Người ta tin: Sukuna, vua nguyền rủa, là một con quỷ, một chú linh từ thời xa xưa."
+      },
+      "image_prompt": "an ancient scroll painting of a fearsome multi-armed demon with two faces in a burning city",
+      "chapter": "Hiểu lầm 10: Sukuna là một con quỷ",
+      "on_screen_text": "Tin: Sukuna là quỷ"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Truyện nói: Sukuna vốn là một con người, một chú thuật sư sống vào thời Heian, khoảng một nghìn năm trước, khi thế giới chú thuật ở thời kỳ hưng thịnh nhất."
+      },
+      "image_prompt": "an ancient imperial capital at night with lanterns and silhouettes of robed sorcerers",
+      "on_screen_text": "Là con người, thời Heian"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Hắn mạnh đến mức các chú thuật sư thời đó hợp sức lại cũng không thể đánh bại. Sau khi chết, hai mươi ngón tay của hắn trở thành những chú vật không thể phá hủy."
+      },
+      "image_prompt": "twenty withered fingers sealed in wooden boxes with paper talismans, arranged in rows",
+      "on_screen_text": "20 ngón tay chú vật",
+      "video_prompt": "paper talismans flutter on the sealed boxes as a faint dark mist leaks out, slow dolly across the rows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Cái tên Sukuna còn mượn từ một nhân vật trong truyền thuyết Nhật Bản cổ, được mô tả là có hai mặt và bốn tay. Vì thế hình tượng quỷ dữ gắn chặt với hắn."
+      },
+      "image_prompt": "a faded ancient manuscript page with an ink drawing of a two-faced figure",
+      "on_screen_text": "Mượn từ truyền thuyết"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Vì sao dễ nhầm: vì hắn sống trong cơ thể Yuji như một chú linh, được gọi là vua nguyền rủa, và hành động không có chút nhân tính nào."
+      },
+      "image_prompt": "a teenager's reflection in a puddle showing a sinister smiling face instead of his own"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku nghĩ đây là chi tiết đáng sợ nhất của truyện: con quỷ đáng sợ nhất lịch sử chú thuật hóa ra lại là một con người."
+      },
+      "image_prompt": "the owl mascot staring at a mirror where its reflection looks slightly darker",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Giờ kiểm tra xem bạn nhớ bao nhiêu. Kaku đọc năm câu, bạn trả lời đúng hay sai trong đầu trước khi Kaku công bố nhé."
+      },
+      "image_prompt": "the owl mascot holding up two paddles, one green and one red",
+      "chapter": "Trắc nghiệm: đúng hay sai?",
+      "on_screen_text": "Đúng hay sai?",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Câu một: Hắc thiểm xảy ra khi chú lực chạm vào đối thủ gần như cùng lúc với cú đánh. Đáp án: đúng. Khoảng cách chỉ khoảng một phần triệu giây."
+      },
+      "image_prompt": "a green check mark next to a fist and a tiny stopwatch",
+      "on_screen_text": "Câu 1: Đúng"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Câu hai: có thể học thêm một thuật thức mới nếu luyện tập đủ lâu. Đáp án: sai. Thuật thức là bẩm sinh, luyện tập chỉ mở rộng cách dùng."
+      },
+      "image_prompt": "a red X next to a scroll labeled with a new technique",
+      "on_screen_text": "Câu 2: Sai"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Câu ba: tiết lộ thuật thức cho đối thủ có thể làm nó mạnh hơn. Đáp án: đúng. Đó là một dạng lời thề ràng buộc."
+      },
+      "image_prompt": "a green check mark next to a speech bubble with a power-up arrow",
+      "on_screen_text": "Câu 3: Đúng"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Câu bốn: chú lực đảo ngược có thể hồi sinh người đã chết. Đáp án: sai. Nó chữa thương, nhưng không đưa người chết trở lại."
+      },
+      "image_prompt": "a red X next to an empty hourglass",
+      "on_screen_text": "Câu 4: Sai"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Câu năm: Sukuna sống vào thời Heian. Đáp án: đúng. Khoảng một nghìn năm trước, và khi đó hắn là một con người."
+      },
+      "image_prompt": "a green check mark next to an ancient lantern-lit capital",
+      "on_screen_text": "Câu 5: Đúng"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn đúng cả năm câu, chúc mừng, bạn đã sẵn sàng làm chú thuật sư cấp một. Còn nếu sai nhiều, đừng lo, cứ xem lại video này nhé."
+      },
+      "image_prompt": "the owl mascot pinning a small gold badge on a paper certificate",
+      "use_mascot": true
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nhìn lại mười hiểu lầm, Kaku thấy chúng có ba nguyên nhân chung."
+      },
+      "image_prompt": "the owl mascot arranging ten notes into three piles on a desk",
+      "chapter": "Góc nhìn của Kaku: vì sao Jujutsu Kaisen dễ bị hiểu nhầm?",
+      "on_screen_text": "3 nguyên nhân",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Thứ nhất, luật của thế giới được giải thích rải rác, thường giữa những trận đánh rất nhanh. Chỉ cần lơ đãng vài giây là bỏ lỡ một luật quan trọng."
+      },
+      "image_prompt": "a fast-moving battle with tiny rule notes flying off in the wind"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Thứ hai, anime quá đẹp. Hiệu ứng hình ảnh mạnh khiến mọi thứ trông như chiêu cuối, dù truyện đang nói về một hiện tượng hay một giới hạn."
+      },
+      "image_prompt": "a dazzling explosion of color with a small plain rulebook almost hidden in the corner"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Thứ ba, truyện thích lật ngược kỳ vọng. Người mạnh nhất có vết nứt, nhân vật phụ có tiềm năng khổng lồ, con quỷ hóa ra là người."
+      },
+      "image_prompt": "a playing card flipping over to reveal the opposite image on its back"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Thêm nữa, cộng đồng fan rất đông và bàn luận rất sôi nổi. Một cách hiểu sai được lặp lại đủ nhiều lần trên mạng thì dần dần được coi như sự thật."
+      },
+      "image_prompt": "a chain of speech bubbles repeating the same wrong note, growing larger each time"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Và Kaku nghĩ đó chính là điểm hay nhất: mỗi lần xem lại, bạn lại hiểu thêm một luật mà lần trước mình đã hiểu sai."
+      },
+      "image_prompt": "a stack of rewatched notebooks growing taller, each with more notes"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Tổng hợp nhanh mười hiểu lầm. Một: Hắc thiểm là hiện tượng, không phải chiêu. Hai: chú linh cấp cao thông minh và có triết lý."
+      },
+      "image_prompt": "a summary board with ten rows, the first two lighting up",
+      "chapter": "Bảng tổng hợp",
+      "on_screen_text": "1 · 2"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Ba: thuật thức là bẩm sinh. Bốn: không có thuật thức vẫn có thể rất mạnh. Năm: chú lực đảo ngược rất hiếm, và chữa cho người khác còn hiếm hơn."
+      },
+      "image_prompt": "rows three to five lighting up on the summary board",
+      "on_screen_text": "3 · 4 · 5"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Sáu: lời thề ràng buộc có ở khắp nơi. Bảy: lãnh địa có cách chống. Tám: người mạnh nhất vẫn có thể bị chạm vào."
+      },
+      "image_prompt": "rows six to eight lighting up on the summary board",
+      "on_screen_text": "6 · 7 · 8"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Chín: Megumi mang một trong những thuật thức nổi tiếng nhất lịch sử. Và mười: Sukuna là con người, không phải quỷ."
+      },
+      "image_prompt": "the final two rows lighting up, the last one glowing red",
+      "on_screen_text": "9 · 10"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: bạn từng tin hiểu lầm nào trong số này? Hoặc còn hiểu lầm nào Kaku chưa nhắc tới? Viết vào phần bình luận, biết đâu sẽ có phần hai."
+      },
+      "image_prompt": "the owl mascot holding a blank sticky note and a red pen toward the viewer",
+      "on_screen_text": "Bạn từng tin điều nào?",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Video tới sẽ rất khác: Kaku không giải thích, không sửa lỗi, mà mời chính bạn bước vào một thế giới nơi yêu quái và người ngoài hành tinh cùng tồn tại."
+      },
+      "image_prompt": "a quiet suburban street at night with a ghostly figure on one side and a UFO light on the other",
+      "chapter": "Kết",
+      "on_screen_text": "Tiếp theo: bạn sống trong Dandadan"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Bạn sẽ phải tự đưa ra lựa chọn, và Kaku sẽ tính xem bạn sống sót được bao lâu."
+      },
+      "image_prompt": "a choose-your-path signpost with two arrows glowing in the dark"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku cất cây bút đỏ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot capping a red marker and waving in front of a board full of crossed-out notes",
+      "use_mascot": true
+    }
+  ]
+}

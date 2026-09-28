@@ -33,8 +33,8 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 12 | 2026-11-03 | Nhập môn: ma thuật được vẽ ra | Witch Hat Atelier (hot xuân 2026) | Q · Nhập môn | 4 | ? | 5 | 5 | 14 | `videos/2026-11-03-nhap-mon-witch-hat-atelier/` | Kịch bản xong — chờ kiểm nguồn |
 | 13 | 2026-11-07 | "Xoay" và tỉ lệ vàng: khoa học có thật không? | JoJo: Steel Ball Run (đang phát) | P · Khoa học trong anime | 4 | ? | 5 | 4 | 13 | `videos/2026-11-07-khoa-hoc-xoay-steel-ball-run/` | Kịch bản xong — chờ kiểm nguồn |
 | 14 | 2026-11-10 | Hồ sơ grimoire 3, 4, 5 lá và phản ma thuật | Black Clover (mùa 2 đang phát) | E · Hồ sơ bách khoa | 5 | ? | 4 | 4 | 13 | `videos/2026-11-10-ho-so-grimoire-black-clover/` | Kịch bản xong — chờ kiểm nguồn |
-| 15 | 2026-11-14 | 10 hiểu lầm phổ biến | Jujutsu Kaisen | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2026-11-14-10-hieu-lam-jujutsu-kaisen/` | Chưa viết |
-| 16 | 2026-11-17 | Nếu bạn sống trong thế giới yêu quái + người ngoài hành tinh | Dandadan | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2026-11-17-neu-ban-song-trong-dandadan/` | Chưa viết |
+| 15 | 2026-11-14 | 10 hiểu lầm phổ biến | Jujutsu Kaisen | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2026-11-14-10-hieu-lam-jujutsu-kaisen/` | Kịch bản xong — chờ kiểm nguồn |
+| 16 | 2026-11-17 | Nếu bạn sống trong thế giới yêu quái + người ngoài hành tinh | Dandadan | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2026-11-17-neu-ban-song-trong-dandadan/` | Kịch bản xong — chờ kiểm nguồn |
 | 17 | 2026-11-21 | Bảng chỉ số: tỉ lệ giải phóng sức mạnh và chỉ số quái thú | Kaiju No. 8 | F · Bảng chỉ số kiểu game | 4 | ? | 4 | 5 | 13 | `videos/2026-11-21-bang-chi-so-kaiju-no-8/` | Chưa viết |
 | 18 | 2026-11-24 | Từ Shikai đến Bankai | Bleach (phần cuối vừa phát xong) | G · Bậc thang tiến hóa | 4 | ? | 4 | 4 | 12 | `videos/2026-11-24-shikai-bankai-bleach/` | Chưa viết |
 | 19 | 2026-11-28 | Dòng thời gian 800 năm và Thế kỷ trống | One Piece | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2026-11-28-dong-thoi-gian-800-nam-one-piece/` | Chưa viết |
