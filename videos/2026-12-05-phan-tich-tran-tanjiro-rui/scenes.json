@@ -1,0 +1,718 @@
+{
+  "title": "Kimetsu no Yaiba: Phân tích chiến thuật trận Tanjiro vs Rui",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video phân tích chi tiết trận đấu trên núi Natagumo trong Kimetsu no Yaiba mùa một, bao gồm cả kết quả. Nếu chưa xem, hãy xem trước rồi quay lại nhé."
+      },
+      "image_prompt": "a dark mountain forest at night, fine silver threads glinting between the trees under the moon",
+      "chapter": "Mở đầu: tỉ số trước trận",
+      "on_screen_text": "Spoiler: núi Natagumo"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Nếu có nhà cái nào nhận cược trận này, tỉ lệ sẽ chênh lệch tới mức nực cười. Một bên là kiếm sĩ cấp thấp nhất của Sát Quỷ Đoàn. Bên kia là một trong mười hai con quỷ mạnh nhất dưới trướng chúa quỷ."
+      },
+      "image_prompt": "a betting board with two silhouettes: a small swordsman and a child-sized figure on a web, odds wildly uneven",
+      "on_screen_text": "Tỉ số trước trận",
+      "video_prompt": "threads tremble across the web as the odds on the board flicker and swap, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trên giấy tờ, cậu kiếm sĩ gần như không có cửa thắng. Và đúng là cậu không thắng theo cách mà ta nghĩ."
+      },
+      "image_prompt": "a sword stuck in the ground before a giant web glowing red in the dark"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hôm nay Kaku phân tích trận đấu này như một huấn luyện viên xem lại băng hình. Chia thành sáu hiệp, mỗi hiệp ba câu hỏi: mục tiêu là gì, lựa chọn là gì, và cái giá là gì."
+      },
+      "image_prompt": "the owl mascot with a whistle and clipboard in front of a tactical board with six columns",
+      "on_screen_text": "6 hiệp · Mục tiêu · Lựa chọn · Cái giá",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ là bảng chiến thuật, và Kaku sẽ vẽ bằng mũi tên, không phải bằng cảnh phim."
+      },
+      "image_prompt": "the owl mascot drawing arrows and circles on a chalk tactical board",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Kimetsu no Yaiba là manga của Gotouge Koyoharu, được studio ufotable chuyển thể thành anime từ năm 2019. Trận đấu hôm nay nằm ở cuối mùa một."
+      },
+      "image_prompt": "a stack of manga volumes beside a film reel tied with a simple red ribbon",
+      "chapter": "Bối cảnh: ngọn núi của những sợi tơ",
+      "on_screen_text": "Anime từ 2019"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Tanjiro, một thiếu niên làm nghề bán than, trở thành kiếm sĩ diệt quỷ sau khi gia đình bị giết và em gái Nezuko bị biến thành quỷ. Cô bé vẫn giữ được lý trí và đi cùng anh."
+      },
+      "image_prompt": "a young swordsman carrying a wooden box on his back walking through a snowy mountain path"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhiệm vụ đưa cậu tới núi Natagumo, nơi một nhóm kiếm sĩ đã mất tích. Ngọn núi đầy tơ nhện, và những người mắc vào tơ bị điều khiển như con rối."
+      },
+      "image_prompt": "a misty mountain slope covered in spider webs, puppet-like silhouettes hanging from threads",
+      "on_screen_text": "Núi Natagumo"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Trên núi có cả một gia đình quỷ nhện: mẹ, cha, anh, chị. Nhưng đó là gia đình giả, bị ép vào vai diễn bởi đứa con nhỏ nhất, kẻ mạnh nhất."
+      },
+      "image_prompt": "a group of demon silhouettes posed like a family portrait, invisible threads pulling their limbs",
+      "on_screen_text": "Gia đình giả"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: trước khi tới trận chính, Tanjiro và đồng đội đã phải đánh qua mẹ và cha của gia đình đó. Nghĩa là cậu bước vào trận này khi đã rất mệt."
+      },
+      "image_prompt": "the owl mascot pointing at a stamina bar already half empty",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Hồ sơ bên thứ nhất: Tanjiro. Cấp bậc: thấp nhất trong Sát Quỷ Đoàn, vừa mới vào nghề. Vũ khí: kiếm Nhật Luân. Kỹ thuật: Hơi thở của Nước."
+      },
+      "image_prompt": "a stat card of a young swordsman with a water wave emblem and a low rank badge",
+      "chapter": "Hồ sơ hai bên",
+      "on_screen_text": "Tanjiro"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Điểm mạnh: khứu giác cực nhạy, có thể ngửi thấy khe hở trong phòng thủ của đối thủ. Tinh thần không bao giờ bỏ cuộc. Và một em gái có năng lực của quỷ đứng về phía mình."
+      },
+      "image_prompt": "a swordsman sniffing the air as faint colored threads of scent reveal a gap in a defense"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Điểm yếu: kinh nghiệm ít, thân thể đã bị thương từ các trận trước, và thanh kiếm chưa đủ sắc để chém vật cứng."
+      },
+      "image_prompt": "a cracked sword blade and bandaged arm under a dim lantern"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Hồ sơ bên thứ hai: Rui. Cấp bậc: Hạ Huyền Ngũ, thứ năm trong sáu con quỷ Hạ Huyền. Năng lực: điều khiển những sợi tơ còn cứng hơn thép."
+      },
+      "image_prompt": "a stat card of a small pale figure standing on a web, a rank mark glowing in one eye",
+      "on_screen_text": "Rui: Hạ Huyền Ngũ"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Điểm mạnh: tấn công từ xa, bẫy khắp khu rừng, và có thể làm tơ cứng hơn nữa bằng cách truyền máu vào, khiến tơ chuyển màu đỏ."
+      },
+      "image_prompt": "white threads turning deep red as they harden, slicing through a tree trunk",
+      "on_screen_text": "Tơ máu đỏ"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Điểm yếu: tự tin thái quá, và một nỗi ám ảnh về gia đình khiến hắn dễ bị cảm xúc chi phối."
+      },
+      "image_prompt": "a lonely child silhouette sitting on a web, looking at a family portrait with torn edges"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Trước khi phân tích, cần biết luật của trận đấu. Quỷ trong thế giới này tái tạo cơ thể gần như ngay lập tức. Chém tay, tay mọc lại. Chém chân, chân mọc lại."
+      },
+      "image_prompt": "a demon silhouette regenerating a severed arm in a swirl of dark energy",
+      "chapter": "Luật thắng thua",
+      "on_screen_text": "Quỷ tái tạo"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Chỉ có hai cách giết quỷ: cho chúng tiếp xúc với ánh mặt trời, hoặc chém đứt đầu bằng kiếm Nhật Luân, loại kiếm rèn từ quặng hấp thụ ánh mặt trời."
+      },
+      "image_prompt": "a split image: morning sunlight burning away a shadow, and a glowing blade aimed at a neck",
+      "on_screen_text": "Mặt trời hoặc chém cổ"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Trận này diễn ra giữa đêm, bình minh còn rất xa. Vậy Tanjiro chỉ có một mục tiêu duy nhất: cái cổ của Rui."
+      },
+      "image_prompt": "a tactical board with a single red circle drawn around a neck icon",
+      "on_screen_text": "Mục tiêu duy nhất: cổ"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Còn Rui thì chỉ cần giữ Tanjiro ở ngoài tầm kiếm. Một bên cần lao vào, một bên cần giữ khoảng cách. Toàn bộ trận đấu xoay quanh khoảng cách."
+      },
+      "image_prompt": "two range circles on a tactical board, one small around a sword and one very large around a web"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Trước khi vào trận, cần hiểu vì sao cách thở lại quan trọng như vậy trong Kimetsu no Yaiba."
+      },
+      "image_prompt": "a swordsman meditating by a waterfall, visible breath forming steady swirls",
+      "chapter": "Nhịp thở là vũ khí",
+      "on_screen_text": "Vì sao hơi thở?"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kiếm sĩ diệt quỷ được luyện một kỹ thuật thở đặc biệt, giúp đưa thật nhiều không khí vào cơ thể, tăng sức mạnh, tốc độ và sức bền lên vượt mức người thường."
+      },
+      "image_prompt": "a diagram of lungs glowing brighter, muscles and heart highlighted in warm light",
+      "on_screen_text": "Thở → sức mạnh"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Mỗi trường phái hơi thở có phong cách riêng. Hơi thở của Nước uyển chuyển, thích hợp để phản ứng và thay đổi hướng. Kaku đã vẽ cây phả hệ các kiểu hơi thở ở video số năm."
+      },
+      "image_prompt": "the owl mascot pointing at a small family tree diagram of breathing styles pinned to the board",
+      "on_screen_text": "Xem video số 5"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Nhưng hơi thở cũng là giới hạn. Khi phổi và cơ thể kiệt sức, mọi thế kiếm đều yếu đi. Nên trong trận này, sức bền cũng là một chiến trường."
+      },
+      "image_prompt": "a stamina meter shaped like lungs, slowly draining as a swordsman pants"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Hãy nhớ điều này, vì bước ngoặt của trận đấu đến chính từ việc Tanjiro thay đổi cách thở."
+      },
+      "image_prompt": "a single breath of air turning from blue to red in slow motion"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku vẽ ba vòng tròn trên bảng chiến thuật. Vòng trong cùng là tầm kiếm của Tanjiro, chỉ khoảng một cánh tay cộng chiều dài lưỡi kiếm."
+      },
+      "image_prompt": "a chalk diagram with a tiny inner circle around a swordsman icon",
+      "chapter": "Sơ đồ khoảng cách",
+      "on_screen_text": "Vòng 1: tầm kiếm"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Vòng giữa là tầm tơ của Rui: vài chục mét, bao trùm cả một khoảng rừng. Trong vòng này, tơ có thể tới từ bất kỳ hướng nào."
+      },
+      "image_prompt": "a larger circle filled with crisscrossing lines around a small central figure",
+      "on_screen_text": "Vòng 2: tầm tơ"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Vòng ngoài cùng là khu rừng đã giăng bẫy sẵn, nơi Rui kiểm soát mọi lối đi. Tanjiro đang đứng ngay trong lãnh thổ của đối thủ."
+      },
+      "image_prompt": "an outer ring of the diagram shaded with web patterns and trap marks",
+      "on_screen_text": "Vòng 3: rừng bẫy"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Để thắng, Tanjiro phải đi xuyên qua vòng hai, nơi mỗi bước chân có thể mất một cánh tay. Đây là bài toán của cả trận đấu."
+      },
+      "image_prompt": "an arrow trying to pierce from the outer ring to the center through a dense mesh"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kaku ghi chú: trong võ thuật thật, người ta gọi đây là cuộc chiến giữa người đánh xa và người đánh gần. Người đánh gần luôn phải trả giá để vào được tầm."
+      },
+      "image_prompt": "the owl mascot holding a tiny spear and a tiny sword, comparing their lengths",
+      "use_mascot": true
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Hiệp một. Mục tiêu của Tanjiro: đánh giá sức mạnh của tơ và tìm đường tiếp cận. Mục tiêu của Rui: dạy cho kẻ xâm nhập biết vị trí của mình."
+      },
+      "image_prompt": "a swordsman in a ready stance facing a web of threads, both sides studying each other",
+      "chapter": "Hiệp 1: thăm dò",
+      "on_screen_text": "Hiệp 1"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Lựa chọn của Tanjiro: dùng các thế của Hơi thở của Nước, vốn uyển chuyển như dòng chảy, để né và cắt tơ trên đường lao tới."
+      },
+      "image_prompt": "a swordsman flowing through threads with water-like arcs trailing from his blade"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kết quả: Tanjiro cắt được tơ thường. Nhưng Rui không vội. Hắn đang quan sát, giống như một người chơi cờ nhường vài nước đầu."
+      },
+      "image_prompt": "cut threads falling like silver hair as a calm figure watches from above"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Cái giá: Tanjiro tiêu hao sức và để lộ gần hết các thế kiếm của mình. Rui thì chưa dùng tới sức mạnh thật."
+      },
+      "image_prompt": "a stamina bar dropping for the swordsman while the opponent's bar stays full",
+      "on_screen_text": "Cái giá: lộ bài"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku có một suy luận: giữa một khu rừng phủ kín tơ, khứu giác của Tanjiro khó cho cậu biết sợi nào sắp lao tới. Truyện không nói rõ điều này, nhưng nó giải thích vì sao cậu bị động ở hiệp đầu."
+      },
+      "image_prompt": "a swordsman sniffing the air in confusion as nearly invisible threads approach from behind"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Nhận xét của Kaku: hiệp này Rui thắng về thông tin. Hắn biết Tanjiro làm được gì, còn Tanjiro chưa biết hắn làm được gì."
+      },
+      "image_prompt": "the owl mascot moving a chess piece while its opponent's pieces remain hidden",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Hiệp hai. Rui truyền máu vào tơ. Những sợi tơ chuyển sang màu đỏ, cứng hơn hẳn trước."
+      },
+      "image_prompt": "white threads flushing red and humming with tension in the moonlight",
+      "chapter": "Hiệp 2: thanh kiếm gãy",
+      "on_screen_text": "Hiệp 2: tơ đỏ"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Lựa chọn của Tanjiro: vẫn chém thẳng vào tơ để mở đường. Và rồi điều tồi tệ nhất với một kiếm sĩ xảy ra: thanh kiếm của cậu gãy."
+      },
+      "image_prompt": "a sword blade snapping in half against a taut red thread, fragments flying",
+      "on_screen_text": "Kiếm gãy",
+      "video_prompt": "the blade strikes the red thread and snaps, fragments spinning in slow motion, side angle",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Về chiến thuật, đây là khoảnh khắc khủng hoảng. Người đánh gần mất vũ khí đánh gần. Mục tiêu duy nhất, cái cổ, giờ gần như không thể với tới."
+      },
+      "image_prompt": "a tactical board where the inner sword circle is crossed out in red"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Cái giá: không chỉ là thanh kiếm. Tơ bắt đầu cắt vào người Tanjiro. Mỗi giây đứng yên là thêm một vết thương."
+      },
+      "image_prompt": "a swordsman surrounded by a tightening cage of red threads, small cuts on his arms"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Nhận xét của Kaku: sai lầm ở đây là chém trực diện vào thứ mình chưa biết độ cứng. Nhưng một kiếm sĩ mới vào nghề không có nhiều lựa chọn khác."
+      },
+      "image_prompt": "the owl mascot looking at a broken toy sword with a sigh",
+      "use_mascot": true
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Hiệp ba không diễn ra bằng kiếm. Rui chứng kiến Nezuko liều mình che chắn cho anh trai, và nảy ra một ý: hắn muốn cô bé làm em gái của hắn."
+      },
+      "image_prompt": "a small figure on a web reaching out toward a girl shielding her brother",
+      "chapter": "Hiệp 3: đòn tâm lý",
+      "on_screen_text": "Hiệp 3"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Đây là chiến thuật tâm lý: chia rẽ hai người, lấy đi điểm tựa tinh thần lớn nhất của Tanjiro."
+      },
+      "image_prompt": "a thread pulling two silhouettes apart as they reach for each other"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Rui bắt Nezuko, treo cô bé lên bằng tơ, và bắt đầu rút máu của cô. Tanjiro phải chứng kiến tất cả mà không thể lại gần."
+      },
+      "image_prompt": "a girl suspended high in a web of threads, a brother on the ground below reaching up",
+      "on_screen_text": "Nezuko bị bắt"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Lựa chọn của Tanjiro: từ chối mọi thỏa hiệp. Cậu hét lên rằng mối liên kết của hai anh em không phải thứ có thể cướp đi bằng sợ hãi."
+      },
+      "image_prompt": "a swordsman shouting defiantly with a broken sword in hand, threads all around him"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Cái giá: Tanjiro nổi giận và lao vào, bất chấp nguy hiểm. Về chiến thuật, cơn giận đã giúp cậu tiến vào vòng hai, nhưng cũng khiến cậu mất bình tĩnh."
+      },
+      "image_prompt": "an arrow on the tactical board plunging recklessly into the middle circle"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Hiệp bốn là khoảnh khắc nổi tiếng nhất. Bị dồn vào đường cùng, sắp chết, Tanjiro nhớ lại hình ảnh người cha múa giữa trời tuyết."
+      },
+      "image_prompt": "a man dancing gracefully with a torch in a snowy night, flames tracing circles in the air",
+      "chapter": "Hiệp 4: điệu múa của thần lửa",
+      "on_screen_text": "Hiệp 4"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Đó là điệu múa thần lửa, được gia đình cậu múa mỗi dịp năm mới, suốt từ đêm tới sáng, để cầu nguyện với thần lửa. Người cha dù yếu ớt vẫn múa được trọn đêm, nhờ cách thở đúng."
+      },
+      "image_prompt": "a family watching a dance under snowfall, the dancer's breath visible as steady clouds",
+      "on_screen_text": "Điệu múa thần lửa",
+      "video_prompt": "the dancer's torch traces glowing circles through falling snow, slow orbit around him",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Lựa chọn của Tanjiro: bỏ Hơi thở của Nước, chuyển sang nhịp thở của điệu múa. Một nhịp thở mà cơ thể cậu chưa từng được huấn luyện để dùng trong chiến đấu."
+      },
+      "image_prompt": "a swordsman's breath changing from blue water swirls to red flame swirls"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Cùng lúc đó, Nezuko trong cơn mê tỉnh dậy và dùng năng lực máu của mình. Máu của cô bốc cháy, đốt đứt những sợi tơ, và lan lên cả lưỡi kiếm gãy của anh trai."
+      },
+      "image_prompt": "a girl in the web igniting in pink flame, the fire racing along the threads toward the swordsman's blade",
+      "on_screen_text": "Máu bốc cháy"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Đây là sự phối hợp hoàn hảo: nhịp thở mới cho Tanjiro sức mạnh, lửa của Nezuko cho lưỡi kiếm khả năng cắt tơ. Không ai trong hai người làm được một mình."
+      },
+      "image_prompt": "a tactical board with two arrows, red and pink, merging into one and piercing the center"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Tanjiro vượt qua vòng tơ và chém trúng cổ của Rui. Trong anime, cảnh này được xem là một trong những khoảnh khắc đẹp nhất của cả bộ."
+      },
+      "image_prompt": "a burning blade slicing through a storm of threads in a spiral of fire, dramatic low angle",
+      "on_screen_text": "Chém trúng cổ",
+      "video_prompt": "the burning blade spirals through the storm of threads in a ring of fire, slow motion low angle",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Cái giá: cơ thể Tanjiro hoàn toàn kiệt quệ. Cậu dùng một nhịp thở mà cơ thể chưa quen, và phải trả bằng mọi sức lực còn lại."
+      },
+      "image_prompt": "a swordsman collapsing onto the forest floor, smoke rising from his broken blade",
+      "on_screen_text": "Cái giá: kiệt sức"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nhưng khi Tanjiro ngã xuống, tưởng đã thắng, Rui vẫn đứng đó. Chuyện gì đã xảy ra?"
+      },
+      "image_prompt": "a pale figure standing untouched among falling ash, head intact",
+      "chapter": "Hiệp 5: cú lừa",
+      "on_screen_text": "Hiệp 5"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Hóa ra ngay trước khi lưỡi kiếm chạm tới, Rui đã tự cắt đầu mình bằng tơ. Đầu hắn rời ra do chính hắn, không phải do kiếm Nhật Luân, nên hắn không chết."
+      },
+      "image_prompt": "a slow-motion diagram showing a thread cutting just ahead of a blade's path"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Về chiến thuật, đây là một cú lừa thông minh. Tanjiro tưởng đã đạt mục tiêu, và buông lỏng đúng lúc nguy hiểm nhất."
+      },
+      "image_prompt": "a tactical board with a green check mark that turns into a red question mark",
+      "on_screen_text": "Cú lừa"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Cái giá của Rui: gần như không có. Hắn chỉ cần nối đầu lại. Còn Tanjiro giờ nằm bất động, không còn sức đứng dậy."
+      },
+      "image_prompt": "a regenerating neck stitched together by threads, a fallen swordsman in the background"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Nhận xét của Kaku: bài học lớn nhất của hiệp này là đừng bao giờ ăn mừng trước khi chắc chắn. Với quỷ, chưa thấy tan biến là chưa thắng."
+      },
+      "image_prompt": "the owl mascot stopping itself mid-celebration, confetti frozen in the air",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hiệp cuối. Rui chuẩn bị kết liễu Tanjiro bằng đòn tơ mạnh nhất của mình. Đúng lúc đó, một kiếm sĩ khác xuất hiện: một Trụ cột của Sát Quỷ Đoàn, người dùng Hơi thở của Nước."
+      },
+      "image_prompt": "a calm swordsman in a plain dark cloak stepping between a fallen boy and a web of threads",
+      "chapter": "Hiệp 6: người thứ ba",
+      "on_screen_text": "Hiệp 6"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Anh dùng một thế kiếm do chính mình tạo ra, gọi là Lặng sóng. Trong phạm vi của thế kiếm này, mọi đòn tấn công đi vào đều bị vô hiệu hóa, như mặt nước phẳng lặng hoàn toàn."
+      },
+      "image_prompt": "a perfectly still water surface around a standing swordsman, threads dissolving as they enter it",
+      "on_screen_text": "Lặng sóng",
+      "video_prompt": "the water surface stays perfectly still as incoming threads dissolve on contact, slow dolly in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Đòn tơ mạnh nhất của Rui, thứ đã suýt giết Tanjiro, tan biến trước một người đứng yên. Rồi đầu của Rui rơi xuống, lần này là thật."
+      },
+      "image_prompt": "a single clean arc of light, a thread web collapsing like falling snow"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Về chiến thuật, đây là minh họa khoảng cách giữa người mới vào nghề và một Trụ cột. Không phải vì kỹ thuật khác nhau, cả hai đều dùng Hơi thở của Nước, mà vì độ tinh luyện."
+      },
+      "image_prompt": "a tactical board with two water wave icons, one small and rough, one large and perfectly smooth"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Nhận xét của Kaku: nhưng đừng nghĩ Tanjiro thua. Cậu đã làm được điều không ai ngờ: buộc một Hạ Huyền phải dùng tới cú lừa để sống sót."
+      },
+      "image_prompt": "the owl mascot giving a small medal to a sleeping swordsman figurine",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Trận của Tanjiro không diễn ra một mình. Trên cùng ngọn núi, cùng lúc, đồng đội của cậu cũng đang chiến đấu với những thành viên khác của gia đình quỷ nhện."
+      },
+      "image_prompt": "a mountain map with several glowing battle markers scattered across it",
+      "chapter": "Những trận đấu song song",
+      "on_screen_text": "Các trận song song"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Một đồng đội nhút nhát nhưng cực nhanh phải đối mặt với con quỷ có độc biến người thành nhện. Người kia, kiếm sĩ đội đầu lợn rừng, đối đầu với con quỷ cha to lớn."
+      },
+      "image_prompt": "two separate battles: a trembling swordsman facing a spider-like creature, and a wild fighter facing a hulking brute"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Về chiến thuật, việc bị chia cắt là điều tồi tệ. Ba người mới vào nghề, mỗi người một nơi, không ai hỗ trợ được ai."
+      },
+      "image_prompt": "a tactical board with three isolated friendly markers surrounded by red zones",
+      "on_screen_text": "Bị chia cắt"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Đó là lý do Sát Quỷ Đoàn phải cử tới hai Trụ cột. Khi đối thủ là một Hạ Huyền, những kiếm sĩ cấp thấp chỉ có thể cầm cự chờ viện binh."
+      },
+      "image_prompt": "two powerful silhouettes running through the forest at night toward the battle markers"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: bài học ở đây rất thực tế. Khi bước vào lãnh thổ của đối thủ, đừng tách nhóm nếu không có kế hoạch liên lạc."
+      },
+      "image_prompt": "the owl mascot holding three tiny walkie-talkies, handing them out",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Huấn luyện viên nào cũng thích hỏi nếu. Đây là ba kịch bản khác của trận đấu, theo suy luận của Kaku."
+      },
+      "image_prompt": "the owl mascot flipping between three alternate tactical boards",
+      "chapter": "Nếu… thì: ba kịch bản khác",
+      "on_screen_text": "3 kịch bản khác",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nếu Tanjiro không chém thẳng vào tơ đỏ ở hiệp hai, thanh kiếm có thể không gãy. Nhưng cậu cũng không biết được tơ cứng tới mức nào, và có thể thua theo cách khác."
+      },
+      "image_prompt": "an unbroken sword and a question mark over a still-intact red web"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nếu Nezuko không tỉnh dậy đúng lúc, lưỡi kiếm gãy của Tanjiro gần như chắc chắn không cắt nổi tơ đỏ. Trận đấu đã kết thúc sớm hơn nhiều."
+      },
+      "image_prompt": "a broken blade bouncing off a red thread, sparks flying uselessly"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu Trụ cột đến sớm hơn năm phút, Tanjiro có lẽ không bao giờ nhớ lại điệu múa của cha. Và câu chuyện sau này sẽ mất đi một trong những bước ngoặt quan trọng nhất."
+      },
+      "image_prompt": "a clock showing five minutes earlier, with a faint image of a fire dance fading away"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và một kịch bản vui: nếu Tanjiro giả vờ đồng ý để Rui nhận Nezuko làm em, rồi bất ngờ tấn công? Kaku nghĩ Tanjiro không làm được. Cậu là người không biết nói dối, và truyện cũng cho thấy cậu nói dối rất tệ."
+      },
+      "image_prompt": "a swordsman trying to fake a smile but his face twisting awkwardly, a sweat drop on his forehead"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku ghi chú: đôi khi trận thua lại quan trọng hơn trận thắng, vì nó mở ra một cánh cửa mà trận thắng dễ dàng không bao giờ mở."
+      },
+      "image_prompt": "a door opening in a dark forest with warm firelight pouring out",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Tổng kết lại, trận đấu này để lại năm bài học chiến thuật."
+      },
+      "image_prompt": "a tactical board with five numbered chalk notes",
+      "chapter": "Bài học chiến thuật",
+      "on_screen_text": "5 bài học"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Một: xác định mục tiêu duy nhất. Với quỷ, chỉ có cái cổ. Mọi động tác thừa đều là lãng phí sức lực."
+      },
+      "image_prompt": "a single red circle on a neck icon, all other targets crossed out",
+      "on_screen_text": "1. Một mục tiêu"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Hai: thu thập thông tin trước khi dồn sức. Hiệp một và hai cho thấy cái giá của việc tấn công khi chưa biết đối thủ mạnh tới đâu."
+      },
+      "image_prompt": "a magnifying glass over a red thread, measuring its thickness",
+      "on_screen_text": "2. Thông tin trước"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Ba: phối hợp tạo ra thứ mà một người không làm được. Nhịp thở mới cộng với lửa của em gái mới đủ phá được lồng tơ."
+      },
+      "image_prompt": "two hands, one holding a sword and one wreathed in pink flame, gripping the same hilt",
+      "on_screen_text": "3. Phối hợp"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Bốn: đừng ăn mừng sớm. Năm: độ tinh luyện quan trọng hơn số lượng chiêu thức. Một thế kiếm hoàn hảo đánh bại mười thế kiếm vội vàng."
+      },
+      "image_prompt": "a single perfect ripple on water beside a messy splash",
+      "on_screen_text": "4 · 5"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Bỏ bảng chiến thuật sang một bên, Kaku muốn nói về điều khiến trận đấu này đáng nhớ hơn mọi đường kiếm."
+      },
+      "image_prompt": "the owl mascot setting down its whistle and sitting quietly by a campfire",
+      "chapter": "Góc nhìn của Kaku: gia đình giả và sợi dây thật",
+      "use_mascot": true
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Rui dùng tơ để trói buộc một gia đình giả. Mọi thành viên phải đóng đúng vai, ai sai thì bị trừng phạt. Hắn nghĩ sợi dây trói càng chặt thì gia đình càng bền."
+      },
+      "image_prompt": "puppet-like figures connected to a small central figure by taut red threads"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Tanjiro và Nezuko không có sợi dây nào nối với nhau. Nhưng khi anh sắp chết, em gái tỉnh dậy. Khi em bị treo lên, anh không bỏ cuộc."
+      },
+      "image_prompt": "a brother and sister back to back in the forest, no threads between them, warm light around them"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Về sau, truyện cho thấy Rui từng là một đứa trẻ ốm yếu. Hắn đã hiểu sai về gia đình từ rất sớm, và trả giá bằng cả cuộc đời mình."
+      },
+      "image_prompt": "a small sick child in a futon looking out a window at his parents in the garden"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Kaku nghĩ đó là lý do trận đấu này được nhớ lâu: nó không chỉ là cuộc chiến giữa kiếm và tơ, mà giữa hai cách hiểu về gia đình."
+      },
+      "image_prompt": "a single broken red thread drifting down onto the forest floor at dawn"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Tóm lại: một kiếm sĩ cấp thấp nhất gặp một Hạ Huyền trong lãnh thổ của hắn. Mất kiếm, mất em gái, suýt mất mạng, nhưng nhờ điệu múa của cha và lửa của em, cậu chạm tới được cổ của đối thủ."
+      },
+      "image_prompt": "a summary tactical board with six columns, each with a small icon",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Và dù người kết liễu Rui là một Trụ cột, trận đấu này là lúc Tanjiro thật sự trở thành một kiếm sĩ."
+      },
+      "image_prompt": "a young swordsman sleeping peacefully under a tree as sunrise breaks over the mountain"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: bạn muốn Kaku phân tích trận đấu nào tiếp theo bằng bảng chiến thuật? Viết tên trận vào phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding up a blank tactical board toward the viewer",
+      "on_screen_text": "Trận nào tiếp theo?",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Video tới, Kaku mở lại tập một của một bộ truyện khác, và chỉ cho bạn những chi tiết cài cắm mà tác giả đã giấu từ những trang đầu tiên: Attack on Titan."
+      },
+      "image_prompt": "a very first page of a book with tiny hidden symbols glowing in the margins",
+      "on_screen_text": "Tiếp theo: cài cắm AoT"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Đăng ký kênh nếu bạn thấy phân tích hữu ích. Huấn luyện viên Kaku thổi còi hết giờ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot blowing a whistle and waving from the sideline of a chalk field",
+      "use_mascot": true
+    }
+  ]
+}
