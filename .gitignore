@@ -1,0 +1,10 @@
+# File sinh ra khi làm video: nặng, tạo lại được, không đưa lên git
+videos/*/assets/
+videos/*/render/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

@@ -20,6 +20,34 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 
 ## Skills
 
-- `.claude/skills/` chứa 292 skills lấy từ [ECC](https://github.com/affaan-m/ECC) (giấy phép MIT, xem `third_party/ecc/LICENSE`). Phiên bản đang dùng ghi trong `third_party/ecc/SOURCE`.
+- `.claude/skills/` chứa 30 skill chọn lọc từ [ECC](https://github.com/affaan-m/ECC) (giấy phép MIT, xem `third_party/ecc/LICENSE`), liệt kê trong `third_party/ecc/keep.txt`. Phiên bản đang dùng ghi trong `third_party/ecc/SOURCE`.
 - Không sửa trực tiếp các skill ECC: lần đồng bộ sau sẽ ghi đè. Muốn tùy biến thì tạo skill mới với tên khác.
-- Cập nhật từ upstream: `scripts/sync-ecc-skills.sh` (hoặc `scripts/sync-ecc-skills.sh <tag>` để chọn phiên bản).
+- Cập nhật từ upstream: `scripts/sync-ecc-skills.sh` (hoặc `scripts/sync-ecc-skills.sh <tag>` để chọn phiên bản). Thêm/bớt skill: sửa `keep.txt` rồi chạy lại script.
+- Skill riêng của dự án (tên bắt đầu bằng `yt-`) không nằm trong ECC, được sửa trực tiếp.
+
+## Dự án: kênh YouTube phân tích anime
+
+Kênh tiếng Việt, video phân tích/giải thích anime dài 10–15 phút, hình AI tự vẽ, lồng tiếng thêm theo lộ trình ghi trong `channel/profile.md`.
+
+### Cấu trúc
+
+- `channel/profile.md`: hồ sơ kênh, nguồn sự thật duy nhất về giọng văn, cấu trúc, phong cách hình và danh sách CẤM.
+- `channel/references/<handle>.md`: phân tích từng kênh mẫu.
+- `channel/topics.md`: danh sách chủ đề đã chấm điểm.
+- `channel/costs.md`: sổ chi phí.
+- `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
+- `tools/`: công cụ Python (TranscriptAPI, Gemini TTS/ảnh, ffmpeg). Cài bằng `pip install -r tools/requirements.txt`, chạy test bằng `pytest tools/tests`.
+
+### Quy trình
+
+1. `/yt-analyzer`: phân tích kênh mẫu, cập nhật `channel/profile.md`.
+2. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh và gói thông tin đăng tải.
+
+### Quy tắc cứng
+
+- **Không dùng cảnh phim, ảnh chụp màn hình, trang manga hay art chính thức.** Chỉ dùng hình AI tự tạo, chữ và sơ đồ.
+- Mọi thông tin thật trong kịch bản phải có nguồn, ghi trong `brief.md`.
+- Khi viết kịch bản, không nạp transcript của kênh mẫu; chỉ dùng `channel/profile.md`.
+- **Trước mỗi lần gọi API tốn tiền** (tạo ảnh, giọng đọc): báo ước tính chi phí bằng `python tools/costs.py estimate` và chờ người dùng đồng ý.
+- Key API chỉ đọc từ biến môi trường `TRANSCRIPT_API_KEY` và `GEMINI_API_KEY`. Không bao giờ yêu cầu người dùng dán key vào chat.
+- Video MP4 gửi cho người dùng bằng SendUserFile, không commit lên git.
