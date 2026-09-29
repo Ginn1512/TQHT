@@ -1,0 +1,696 @@
+{
+  "title": "Netero vs Meruem: Phân tích từng hiệp — lời cầu nguyện, số không và bông hồng",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói trọn trận Netero đấu Meruem và cái kết của arc Kiến Chimera trong Hunter x Hunter. Nếu bạn chưa xem tới tập 126 bản 2011, hãy lưu video lại cho sau này."
+      },
+      "image_prompt": "a closed old notebook on a stone floor beside a spoiler warning card, close-up, dim dusty light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: trọn arc Kiến Chimera"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một ông lão hơn trăm tuổi. Đối diện là một sinh vật mới ra đời chưa được bao lâu, nhưng được sinh ra để đứng trên đỉnh chuỗi thức ăn. Người mạnh nhất loài người, đấu với kẻ sinh ra để thay thế loài người."
+      },
+      "image_prompt": "an elderly silhouette and a tall slender armored silhouette facing each other across a vast empty desert at dusk, wide shot, dramatic amber light",
+      "on_screen_text": "Người vs Vua"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nhiều người gọi đây là trận đấu hay nhất anime. Nhưng điều thú vị là trận này không kết thúc bằng một cú đấm. Nó kết thúc bằng một lựa chọn mà người thắng lại là kẻ đã thua."
+      },
+      "image_prompt": "a single rose lying on cracked stone ground in a ruined arena, extreme close-up, somber golden light",
+      "on_screen_text": "Kết thúc bằng một lựa chọn"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku phân tích trận Netero đấu Meruem theo từng hiệp: mỗi bên muốn gì, chọn gì, và trả giá gì. Cuối video là sơ đồ chiến thuật cả trận trong một trang."
+      },
+      "image_prompt": "the owl mascot at a desk with a chess board and a stopwatch, opening a notebook with a serious face",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Kaku nhắc trước: trận này có những khoảnh khắc rất nặng nề. Kaku sẽ kể nhẹ nhàng, không đi vào chi tiết đau đớn, nhưng không né tránh ý nghĩa của nó."
+      },
+      "image_prompt": "a small candle burning steadily on a stone ledge in a dark hall, close-up, soft warm light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Bên trái sàn đấu: Isaac Netero, Chủ tịch Hiệp hội Hunter, được xem là người sử dụng Niệm mạnh nhất thế giới loài người. Kinh nghiệm hơn một thế kỷ."
+      },
+      "image_prompt": "an elderly figure in simple loose clothing sitting cross-legged in meditation on a mountain ledge, back view, wide shot, calm morning light",
+      "chapter": "Trước trận: tỉ số trên giấy",
+      "on_screen_text": "Netero: hơn 100 năm kinh nghiệm"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Bên phải sàn đấu: Meruem, Vua Kiến Chimera. Sinh ra đã mạnh hơn mọi thuộc hạ, và mỗi lần ăn một người có Niệm mạnh, nó lại mạnh thêm."
+      },
+      "image_prompt": "a tall slender armored silhouette standing on a palace balcony above a kneeling crowd of shadowy guards, low-angle shot, cold regal light",
+      "on_screen_text": "Meruem: Vua Kiến"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trên giấy, tỉ số nghiêng hẳn về Meruem. Tốc độ, sức mạnh, độ bền, khả năng học: Vua vượt trội ở gần như mọi chỉ số."
+      },
+      "image_prompt": "a hand-drawn comparison chart on parchment with two columns of bars, one column much taller than the other, amber ink close-up",
+      "on_screen_text": "Trên giấy: nghiêng về Vua"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Netero chỉ có hai thứ: kinh nghiệm, và một kỹ thuật đã mài giũa suốt cả đời. Câu hỏi của trận đấu là: hai thứ đó có đủ không?"
+      },
+      "image_prompt": "an old weathered hand resting beside a single well-worn training glove on a wooden floor, extreme close-up, warm light",
+      "on_screen_text": "Kinh nghiệm + kỹ thuật"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và cả hai bên đều biết: nếu Vua thắng, loài người có thể mất vị trí trên đỉnh thế giới. Đây không chỉ là một trận đấu tay đôi."
+      },
+      "image_prompt": "a globe on a desk with a crack spreading across it, close-up, tense dim light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Năm bốn mươi sáu tuổi, Netero cảm thấy võ công của mình đã chạm giới hạn. Ông lên núi, và bắt đầu một bài tập kỳ lạ: mỗi ngày một vạn cú đấm cảm tạ."
+      },
+      "image_prompt": "an elderly figure climbing a narrow mountain path alone with a small bundle on their back, wide shot, misty dawn light",
+      "chapter": "Hồ sơ hai đấu thủ",
+      "on_screen_text": "Một vạn cú đấm cảm tạ"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Trước mỗi cú đấm, ông chắp tay cầu nguyện, tỏ lòng biết ơn với võ đạo. Lúc đầu, một vạn cú đấm mất mười tám tiếng. Ông kiệt sức, ngủ gục, rồi hôm sau lại tiếp tục."
+      },
+      "image_prompt": "two hands pressed together in prayer in front of a rising sun on a mountain peak, close-up, soft golden light",
+      "on_screen_text": "18 tiếng mỗi ngày"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhiều năm sau, ông đấm xong một vạn cú trong chưa tới một tiếng, và cú đấm nhanh hơn cả tiếng động của nó. Khi xuống núi, ông đã thành một người khác."
+      },
+      "image_prompt": "a blur of countless fists in the air around a praying figure on a mountaintop, dynamic wide shot, radiant morning light",
+      "on_screen_text": "Nhanh hơn âm thanh",
+      "video_prompt": "countless fist afterimages blur faster and faster around the praying figure",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Từ đó sinh ra năng lực Bách Thức Quan Âm: một pho tượng khổng lồ bằng Niệm, với vô số bàn tay, ra đòn ngay khi ông chắp tay cầu nguyện."
+      },
+      "image_prompt": "a colossal translucent golden figure with countless hands rising behind a small praying silhouette, dramatic low-angle shot, radiant light",
+      "on_screen_text": "Bách Thức Quan Âm"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Còn Meruem thì ngược lại hoàn toàn. Không cần luyện tập, chỉ cần quan sát là học được. Vua học một trò chơi mới, và chỉ sau vài ván đã thắng những kỳ thủ giỏi nhất."
+      },
+      "image_prompt": "a board game table with scattered pieces and several defeated shadowy opponents slumped around it, wide shot, cold dim light",
+      "on_screen_text": "Học bằng quan sát"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Nhưng có một người Vua không thắng nổi: Komugi, một cô gái mù vô địch môn cờ quân sự gọi là Gungi. Và những ván cờ ấy đang thay đổi Vua từ bên trong."
+      },
+      "image_prompt": "a small hand placing a game piece on a wooden board with calm precision, a larger clawed hand hesitating opposite, extreme close-up, warm lamp light",
+      "on_screen_text": "Ván cờ đổi thay Vua"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku để ý: hai đấu thủ đại diện cho hai kiểu mạnh. Một người mạnh nhờ lặp lại một điều suốt nửa đời. Một kẻ mạnh nhờ học mọi thứ gần như ngay lập tức."
+      },
+      "image_prompt": "the owl mascot holding a worn training glove in one wing and a fresh open book in the other, weighing them",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Mục tiêu đầu tiên của Netero: tách Vua khỏi ba cận vệ Hoàng gia. Ở cung điện, Vua có người bảo vệ. Ở nơi hoang vắng, Vua chỉ có một mình."
+      },
+      "image_prompt": "a map on parchment showing a palace with three guard icons and an arrow leading far away to an empty region, amber ink close-up",
+      "chapter": "Hiệp 0: đưa Vua ra khỏi cung điện",
+      "on_screen_text": "Mục tiêu: tách Vua ra"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kế hoạch được chuẩn bị kỹ: một cuộc tấn công từ trên trời làm cả cung điện rối loạn, trong khi các Hunter khác kéo từng cận vệ ra xa."
+      },
+      "image_prompt": "a rain of glowing dragon-shaped energy falling from the night sky onto a distant palace, dramatic wide shot, intense light",
+      "on_screen_text": "Tấn công đồng loạt"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Và điều bất ngờ nhất: Netero không phải lôi Vua đi. Vua tự nguyện đi theo ông, tới một vùng đất trống cách xa cung điện."
+      },
+      "image_prompt": "two small silhouettes flying side by side over a moonlit wasteland, wide shot, cold silver light",
+      "on_screen_text": "Vua tự nguyện đi theo"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Vì sao? Meruem khi đó đã tò mò về loài người, và muốn nói chuyện với người mạnh nhất của họ. Vua không coi Netero là mối đe dọa, mà là một người đối thoại."
+      },
+      "image_prompt": "a tall slender silhouette with head tilted in curiosity, facing a small old figure, medium shot, soft moonlight"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: hiệp 0 là của Netero. Ông có được thứ ông muốn nhất, là một trận tay đôi, mà không mất một giọt sức nào."
+      },
+      "image_prompt": "a small scorecard with a tick in the first box under the elderly figure icon, amber ink close-up",
+      "on_screen_text": "Hiệp 0: Netero"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Tới nơi, Meruem đưa ra một đề nghị: hai bên nói chuyện, không cần đánh. Vua muốn hiểu loài người, và muốn biết Netero có thể chấp nhận điều kiện gì."
+      },
+      "image_prompt": "a tall slender silhouette extending an open hand toward an elderly figure across a stone floor, medium shot, dim dusty light",
+      "chapter": "Hiệp 1: lời đề nghị và lời từ chối",
+      "on_screen_text": "Lời đề nghị"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Netero từ chối. Với ông, đây là nhiệm vụ: loài Kiến Chimera là mối đe dọa với loài người, và Vua phải bị ngăn lại."
+      },
+      "image_prompt": "an elderly figure shaking their head calmly with hands tucked in wide sleeves, close-up, stern dim light",
+      "on_screen_text": "Lời từ chối"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhưng có một lý do sâu hơn. Netero đã già, và từ lâu ông không còn tìm được đối thủ xứng tầm. Đứng trước Vua, ông lại cảm thấy mình là kẻ thách đấu."
+      },
+      "image_prompt": "an elderly face with a faint hungry smile and sharp eyes, extreme close-up, dramatic side light",
+      "on_screen_text": "Được làm kẻ thách đấu"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Meruem đưa ra một điều kiện: nếu Netero đánh trúng được Vua một lần, Vua sẽ nghe ông. Vua tự tin tới mức cho đối thủ ra đòn trước."
+      },
+      "image_prompt": "a tall slender silhouette standing with arms relaxed, inviting an attack, low-angle shot, cold confident light",
+      "on_screen_text": "Cứ đánh trước đi"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Netero nhận lời ngay. Với một võ sĩ, được ra đòn trước là món quà lớn nhất mà đối thủ có thể tặng."
+      },
+      "image_prompt": "an elderly figure slowly raising both hands toward a prayer position, close-up, focused golden light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kaku để ý: đây là sai lầm chiến thuật đầu tiên của Vua. Coi thường đối thủ không phải là kiêu ngạo, mà là chưa có đủ dữ liệu. Và Vua sắp có rất nhiều dữ liệu."
+      },
+      "image_prompt": "the owl mascot scribbling a big question mark next to a crown doodle",
+      "use_mascot": true
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Netero chắp tay. Pho tượng Quan Âm hiện ra sau lưng ông, và bàn tay khổng lồ giáng xuống trước khi Vua kịp nhìn thấy."
+      },
+      "image_prompt": "a colossal golden hand of light slamming down onto a tall slender silhouette, dynamic wide shot, blinding golden light",
+      "chapter": "Hiệp 2: Bách Thức Quan Âm áp đảo",
+      "on_screen_text": "Ra đòn trước khi thấy",
+      "video_prompt": "the golden hand slams down as dust bursts outward in a ring",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Bí mật nằm ở lời cầu nguyện. Nhờ một vạn cú đấm mỗi ngày trong nhiều năm, động tác chắp tay của Netero nhanh tới mức nhanh hơn cả phản xạ của Vua."
+      },
+      "image_prompt": "two hands snapping together so fast they leave afterimages, extreme close-up, bright motion blur light",
+      "on_screen_text": "Chắp tay nhanh hơn phản xạ"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Và mỗi tư thế tay lại ứng với một đòn khác nhau. Tay này là cú đập, tay kia là cú tát ngang, tay kia nữa là cú chụp. Vua không đoán được đòn tiếp theo."
+      },
+      "image_prompt": "a diagram on parchment of several hand gestures, each linked by an arrow to a different attack symbol, amber ink close-up",
+      "on_screen_text": "Mỗi tư thế, một đòn"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Vua bị đánh văng hết lần này tới lần khác. Hàng trăm, rồi hàng nghìn đòn. Một cỗ máy chiến đấu không có bất kỳ khe hở nào."
+      },
+      "image_prompt": "a tall slender silhouette flung repeatedly through the air by countless golden hands in a dusty stone arena, dynamic wide shot, intense golden light",
+      "on_screen_text": "Hàng nghìn đòn"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nhưng có một vấn đề. Mỗi đòn đều trúng, mà Vua gần như không bị thương. Lớp vỏ của Meruem quá cứng. Netero đang thắng trên điểm số, nhưng không thể hạ gục đối thủ."
+      },
+      "image_prompt": "a single hairline crack on an otherwise flawless dark armored shoulder, extreme close-up, cold light",
+      "on_screen_text": "Trúng mà không thắng"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: hiệp 2 vẫn là của Netero, nhưng đồng hồ đang chạy ngược lại ông. Mỗi đòn đánh tiêu hao sức của một ông lão hơn trăm tuổi."
+      },
+      "image_prompt": "the owl mascot looking anxiously at an hourglass while tallying marks on a scorecard",
+      "use_mascot": true
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Trong lúc bị đánh, Meruem làm điều Vua giỏi nhất: quan sát. Đòn nào tới trước, tay nào theo sau, nhịp chắp tay dài bao lâu."
+      },
+      "image_prompt": "a pair of calm focused eyes reflecting countless golden hands, extreme close-up, cold analytical light",
+      "chapter": "Hiệp 3: Vua học",
+      "on_screen_text": "Vua quan sát"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Vua nhận ra một điều: mọi đòn của Quan Âm đều bắt đầu từ lời cầu nguyện. Nếu ngăn được Netero chắp tay, pho tượng không thể ra đòn."
+      },
+      "image_prompt": "a diagram on parchment showing praying hands with an arrow to a giant statue and a big red cross over the hands, amber ink close-up",
+      "on_screen_text": "Điểm yếu: phải chắp tay"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Cùng lúc, Netero bắt đầu chậm lại. Không nhiều, chỉ một chút. Nhưng với một đối thủ như Vua, một chút là đủ."
+      },
+      "image_prompt": "an elderly figure breathing hard with a single bead of sweat on their brow, close-up, harsh dusty light",
+      "on_screen_text": "Netero chậm lại"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Và trong một khoảnh khắc, Vua hành động. Netero mất một chân, rồi mất một cánh tay. Kaku không đi vào chi tiết: điều quan trọng là, ông không còn chắp tay theo cách cũ được nữa."
+      },
+      "image_prompt": "a single torn sleeve drifting down through dusty air in a ruined stone hall, symbolic close-up, somber light",
+      "on_screen_text": "Không còn chắp tay"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Nhưng Netero vẫn đứng đó, và vẫn mỉm cười. Còn Vua lại hỏi một câu lạ: Vua muốn biết tên của ông."
+      },
+      "image_prompt": "a tall slender silhouette standing over a kneeling elderly figure, both still, wide shot, dusty golden light",
+      "on_screen_text": "Vua hỏi tên"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku để ý: đây là lúc Vua thay đổi. Kẻ sinh ra để coi loài người là thức ăn, giờ muốn nhớ tên một con người. Những ván cờ với Komugi đang lên tiếng."
+      },
+      "image_prompt": "the owl mascot writing a name tag with great care, holding it up gently",
+      "use_mascot": true
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: hiệp 3 là của Meruem. Vua tìm ra điểm yếu duy nhất của một kỹ thuật không có khe hở, và khai thác nó."
+      },
+      "image_prompt": "a scorecard with a tick in the third box under the crown icon, amber ink close-up",
+      "on_screen_text": "Hiệp 3: Meruem"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Netero còn một con bài: đòn cuối cùng của Bách Thức Quan Âm, gọi là Linh Thủ, lòng bàn tay số không. Đòn này dồn toàn bộ Niệm còn lại vào một phát duy nhất."
+      },
+      "image_prompt": "a colossal golden figure with all its hands closing into a single embrace around a tiny silhouette, dramatic wide shot, blinding golden light",
+      "chapter": "Hiệp 4: Linh Thủ, lòng bàn tay số không",
+      "on_screen_text": "Linh Thủ: đòn cuối"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Pho tượng ôm lấy Vua, và bắn ra một luồng sáng khổng lồ. Cả khu vực rung chuyển, mặt đất bị xé toạc."
+      },
+      "image_prompt": "a pillar of blinding light erupting into the sky from a desert and shaking the ground in a wide shockwave, dramatic wide shot, intense light",
+      "on_screen_text": "Luồng sáng khổng lồ",
+      "video_prompt": "the pillar of light erupts upward and the shockwave rolls across the desert",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Khi khói bụi tan, Netero không còn là ông lão khỏe mạnh lúc đầu. Dồn hết Niệm, cơ thể ông như già thêm chục năm trong một khoảnh khắc."
+      },
+      "image_prompt": "a frail elderly figure kneeling in settling dust, visibly thinner and more worn, wide shot, pale fading light",
+      "on_screen_text": "Cạn sạch Niệm"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Còn Vua? Vẫn đứng. Bị thương, nhưng đứng. Đòn mạnh nhất của người mạnh nhất loài người không đủ để hạ gục Vua Kiến."
+      },
+      "image_prompt": "a tall slender armored silhouette standing in a crater with scorched but intact armor, low-angle shot, cold light through dust",
+      "on_screen_text": "Vua vẫn đứng"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku để ý: Linh Thủ không thất bại vì Netero yếu. Nó thất bại vì con số trên giấy từ đầu đã đúng. Về sức mạnh thuần túy, loài người không thể thắng."
+      },
+      "image_prompt": "the owl mascot quietly closing a chart of bar graphs with a sad nod",
+      "use_mascot": true
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: hiệp 4 thuộc về Meruem. Và nếu trận đấu chỉ là sức mạnh, đây là lúc nó kết thúc."
+      },
+      "image_prompt": "a scorecard with a tick in the fourth box under the crown icon, amber ink close-up",
+      "on_screen_text": "Hiệp 4: Meruem"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Nhưng Netero đã tính trước điều này. Ngay từ đầu, ông biết mình có thể không thắng bằng võ công. Ông mang theo phương án cuối cùng."
+      },
+      "image_prompt": "an elderly figure with eyes closed and a calm faint smile in the settling dust, close-up, soft dim light",
+      "chapter": "Hiệp 5: bông hồng của kẻ nghèo",
+      "on_screen_text": "Phương án cuối cùng"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Trong cơ thể Netero có một quả bom thu nhỏ, tên là Bông Hồng Của Kẻ Nghèo. Nó được nối với nhịp tim của ông, và chỉ kích hoạt khi tim ông ngừng đập."
+      },
+      "image_prompt": "a small glowing rose-shaped mechanism resting inside a clockwork heart diagram on parchment, symbolic close-up, ominous red light",
+      "on_screen_text": "Bông Hồng Của Kẻ Nghèo"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Trước khi kích hoạt, Netero nói với Vua, đại ý: ngươi không hiểu gì về loài người cả. Ác ý của con người là không có đáy."
+      },
+      "image_prompt": "an elderly figure looking up with a piercing calm stare at a tall silhouette, extreme close-up, dramatic red side light",
+      "on_screen_text": "Ác ý không có đáy"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Và theo lời người kể chuyện, đó là lần đầu tiên Meruem cảm thấy sợ hãi."
+      },
+      "image_prompt": "a tall slender silhouette taking a single step backward, its shadow trembling on the stone wall, medium shot, dim red light",
+      "on_screen_text": "Lần đầu Vua sợ"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Netero chọn hy sinh chính mình. Bông hồng nở ra thành một vụ nổ khổng lồ, hình dáng như một đóa hồng lửa trên sa mạc."
+      },
+      "image_prompt": "a giant rose-shaped blossom of fire blooming over a distant desert at dusk, seen from very far away, wide shot, eerie orange light",
+      "on_screen_text": "Bông hồng nở",
+      "video_prompt": "the fiery rose slowly blooms over the distant desert horizon",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Nhiều người đọc thấy quả bom này như một phép ẩn dụ cho vũ khí hủy diệt của loài người ngoài đời thật. Tác giả đặt nó vào tay người anh hùng, và điều đó khiến trận đấu trở nên rất khó chịu."
+      },
+      "image_prompt": "a withered rose lying on a historical-style map of the world with faint shadows over it, symbolic close-up, grey somber light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: hiệp 5 là của Netero, nhưng không phải chiến thắng của ông. Đó là chiến thắng của thứ ông mang theo, thứ mà chính ông cũng không tự hào."
+      },
+      "image_prompt": "a scorecard with the fifth box ticked in a faded grey ink under a small rose icon, amber ink close-up",
+      "on_screen_text": "Hiệp 5: bông hồng"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Meruem sống sót qua vụ nổ. Cận vệ Hoàng gia tìm thấy và chữa trị cho Vua. Nhưng bông hồng còn một thứ nữa: chất độc."
+      },
+      "image_prompt": "a faint violet mist drifting across a scorched desert under a pale sky, wide shot, eerie cold light",
+      "chapter": "Sau trận: người thắng thật sự",
+      "on_screen_text": "Chất độc"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Chất độc lan dần trong cơ thể Vua, và cả những ai ở gần. Không thuốc giải. Người thắng trận đấu, thật ra đã thua từ khoảnh khắc bông hồng nở."
+      },
+      "image_prompt": "a small hourglass with violet sand draining slowly on a stone table, close-up, dim violet light",
+      "on_screen_text": "Không thuốc giải"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Biết mình sắp chết, Meruem chọn làm gì? Không trả thù, không chinh phục. Vua chỉ muốn quay lại chơi cờ với Komugi."
+      },
+      "image_prompt": "a small wooden game board set up on a quiet table in a dim room, two cushions facing each other, close-up, soft lamp light",
+      "on_screen_text": "Chỉ muốn chơi cờ"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Sau vụ nổ, Vua mới biết tên của chính mình, cái tên mà Nữ hoàng đã đặt trước khi qua đời: Meruem, nghĩa là ánh sáng soi rọi mọi thứ."
+      },
+      "image_prompt": "a faint name written in golden light on an old scroll unrolled on a stone floor, extreme close-up, soft warm light",
+      "on_screen_text": "Tên của Vua"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hai người chơi những ván cuối cùng trong một căn phòng yên tĩnh. Komugi biết mình cũng bị nhiễm độc, nhưng chọn ở lại."
+      },
+      "image_prompt": "two silhouettes sitting across a small game board in a dim quiet room, a single lamp between them, wide shot, soft golden light",
+      "on_screen_text": "Những ván cuối",
+      "video_prompt": "the lamp flickers softly as a small hand places a game piece",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku không kể thêm. Nhưng Kaku muốn bạn để ý: kẻ sinh ra để thay thế loài người, trong những giờ cuối, lại sống như một con người hơn ai hết."
+      },
+      "image_prompt": "the owl mascot sitting quietly with its hat off, looking at a small lamp",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Arc Kiến Chimera nổi tiếng với giọng người kể chuyện. Những suy nghĩ chỉ diễn ra trong vài giây được kể thành những đoạn dài, như thời gian bị kéo chậm lại."
+      },
+      "image_prompt": "a pocket watch with its second hand frozen mid-tick, surrounded by floating lines of handwritten text, extreme close-up, dim golden light",
+      "chapter": "Vì sao trận này được nhớ mãi",
+      "on_screen_text": "Thời gian bị kéo chậm"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Trong trận này, người kể chuyện cho ta vào đầu cả hai bên. Ta biết Netero đang tính gì, và cũng biết Vua đang học gì. Không ai là phản diện đơn giản."
+      },
+      "image_prompt": "two thought bubbles drawn on parchment above two facing silhouettes, each filled with tiny diagrams, amber ink close-up",
+      "on_screen_text": "Vào đầu cả hai bên"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Không có ai cổ vũ. Không có đồng đội xông vào giúp. Chỉ có hai bên, một vùng đất trống, và một câu hỏi: loài người có thể thắng thứ sinh ra để vượt qua mình không?"
+      },
+      "image_prompt": "a vast empty desert with only two tiny silhouettes far apart under a huge sky, extreme wide shot, lonely dusk light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Bản anime 2011 dựng trận này với nhiều khoảng lặng và lời kể, thay vì chỉ có tiếng đòn đánh. Chính khoảng lặng làm các đòn đánh nặng hơn."
+      },
+      "image_prompt": "a single drop of water falling in slow motion onto a still stone floor, extreme close-up, quiet cold light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kaku để ý: một trận đấu hay không cần nhiều chiêu thức. Nó cần hai người có lý do thật để đứng đó, và một cái kết không ai muốn."
+      },
+      "image_prompt": "the owl mascot holding up two fingers and then pointing at a small rose on the desk",
+      "use_mascot": true
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Tổng kết bằng một trang. Hiệp 0: Netero tách Vua ra một mình. Hiệp 1: Vua coi thường đối thủ và cho ra đòn trước."
+      },
+      "image_prompt": "a strategy diagram on parchment with numbered boxes and arrows between a small old figure icon and a crown icon, amber ink close-up",
+      "chapter": "Sơ đồ chiến thuật",
+      "on_screen_text": "Hiệp 0–1"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Hiệp 2: Quan Âm áp đảo nhưng không gây sát thương thật. Hiệp 3: Vua tìm ra điểm yếu, lời cầu nguyện."
+      },
+      "image_prompt": "the middle boxes of the strategy diagram glowing, one with praying hands icon crossed out, amber ink close-up",
+      "on_screen_text": "Hiệp 2–3"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Hiệp 4: Linh Thủ dồn hết sức nhưng thất bại. Hiệp 5: bông hồng, phương án được chuẩn bị từ trước khi trận đấu bắt đầu."
+      },
+      "image_prompt": "the final boxes of the diagram with a burst icon and a rose icon, amber ink close-up, warm light",
+      "on_screen_text": "Hiệp 4–5"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Và mũi tên quan trọng nhất trên sơ đồ không nằm trong trận đấu. Nó nối từ bàn cờ Gungi tới câu hỏi tên của Vua."
+      },
+      "image_prompt": "a long red arrow on the diagram leading from a small game board icon to a speech bubble with a question mark, amber ink close-up",
+      "on_screen_text": "Mũi tên quan trọng nhất"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Bài học một: chọn chiến trường. Netero thắng hiệp đầu tiên trước khi tung ra cú đấm nào, chỉ bằng việc đưa Vua ra khỏi cung điện."
+      },
+      "image_prompt": "a chess piece being moved from a crowded board corner to an empty open square, extreme close-up, warm light",
+      "chapter": "Ba bài học chiến thuật",
+      "on_screen_text": "1. Chọn chiến trường"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Bài học hai: kỹ thuật không có khe hở vẫn có điểm bắt đầu. Quan Âm không có lỗ hổng trong đòn đánh, nhưng lời cầu nguyện là cái cổng mà mọi đòn phải đi qua."
+      },
+      "image_prompt": "a fortress with perfect walls except a single gate glowing faintly, parchment illustration style, amber light",
+      "on_screen_text": "2. Tìm cái cổng"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Bài học ba: phương án cuối cùng luôn có cái giá. Bông hồng thắng được Vua, nhưng cái giá là mạng sống của Netero, và cả những người vô tội bị nhiễm độc."
+      },
+      "image_prompt": "a scale with a rose on one pan and a pile of small silhouettes on the other, symbolic close-up, somber light",
+      "on_screen_text": "3. Cái giá của bông hồng"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và thêm một bài học không phải chiến thuật: đôi khi, thứ thay đổi một trận đấu lớn nhất lại đến từ một ván cờ nhỏ, cách xa chiến trường."
+      },
+      "image_prompt": "a single game piece standing alone on a board in a quiet sunlit room, extreme close-up, soft warm light"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Có một câu hỏi fan tranh luận mãi: nếu Netero đấu Vua ở thời sung sức nhất, ông có thắng không?"
+      },
+      "image_prompt": "an old framed photograph of a younger vigorous silhouette beside a current photo of an elderly one, close-up, nostalgic warm light",
+      "chapter": "Nếu Netero trẻ hơn năm mươi tuổi?",
+      "on_screen_text": "Nếu trẻ hơn?"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Phe nói có cho rằng lúc sung sức, ông nhanh hơn, bền hơn, và đủ sức giữ nhịp Quan Âm lâu hơn, đủ để Vua không kịp học."
+      },
+      "image_prompt": "a younger silhouette surrounded by countless golden hands moving at dazzling speed, dynamic wide shot, radiant light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Phe nói không thì chỉ ra: vấn đề chưa bao giờ là tốc độ. Hàng nghìn đòn trúng mà Vua gần như không bị thương. Nhanh hơn cũng không phá được lớp vỏ ấy."
+      },
+      "image_prompt": "a fist of light bouncing off a flawless dark armored plate, extreme close-up, cold light",
+      "on_screen_text": "Vấn đề là sát thương"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Kaku nghiêng về một ý khác: câu hỏi ấy có lẽ không quan trọng với tác giả. Trận đấu được viết để cho thấy võ công của một người, dù đỉnh cao tới đâu, cũng có giới hạn."
+      },
+      "image_prompt": "the owl mascot gently closing a photo album with a thoughtful look",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku nghĩ trận này hay không phải vì đòn đánh đẹp. Nó hay vì cả hai đều thay đổi trong lúc đánh. Netero bắt đầu như một võ sĩ, và kết thúc như một vũ khí."
+      },
+      "image_prompt": "a split image of the same elderly silhouette, one half praying on a mountain, one half standing in a dark ruin, symbolic close-up, contrasting light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Còn Meruem bắt đầu như một vị vua coi loài người là thức ăn, và kết thúc như một người chỉ muốn chơi thêm một ván cờ."
+      },
+      "image_prompt": "a crown lying beside a small game board on a quiet table, close-up, soft warm light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Câu hỏi Kaku muốn để lại: ai là con người hơn trong trận này? Người đã mang theo bông hồng, hay kẻ đã hỏi tên đối thủ?"
+      },
+      "image_prompt": "the owl mascot looking at two small figurines on a desk, one elderly and one tall and slender, thinking deeply",
+      "use_mascot": true
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Kaku không có câu trả lời. Hãy viết câu trả lời của bạn vào bình luận. Kaku đọc hết."
+      },
+      "image_prompt": "an open notebook with two blank columns labeled with a rose icon and a game piece icon, close-up, warm lamp light",
+      "on_screen_text": "Ai là con người hơn?"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Một vạn cú đấm mỗi ngày. Một lời cầu nguyện nhanh hơn phản xạ của Vua. Và một bông hồng mà chính người mang nó cũng muốn quên. Trận Netero đấu Meruem là câu chuyện về sức mạnh, và về cái giá của việc phải thắng bằng mọi giá."
+      },
+      "image_prompt": "a single rose resting on two praying hands carved in stone at sunset, close-up, warm golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đổi hẳn không khí: Blue Lock, và bảng xếp hạng vũ khí của các tiền đạo. Ai có vũ khí đáng sợ nhất trong khung thành?"
+      },
+      "image_prompt": "a football on a pitch under stadium lights with a glowing goal in the background, dramatic wide shot, bright light",
+      "on_screen_text": "Tiếp theo: vũ khí Blue Lock"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu bạn thích xem Kaku mổ xẻ từng hiệp đấu, hãy đăng ký kênh. Và lần tới bạn chắp tay cảm ơn một điều gì đó, hãy nhớ tới ông lão với một vạn cú đấm. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot pressing its wings together in a small thankful bow, then waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

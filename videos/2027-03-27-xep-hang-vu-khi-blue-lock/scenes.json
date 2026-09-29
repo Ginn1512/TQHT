@@ -1,0 +1,727 @@
+{
+  "title": "Blue Lock: Xếp hạng 10 vũ khí của các tiền đạo — ba tiêu chí, một luật hòa",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói về vũ khí của các tiền đạo Blue Lock tới hết giải U-20 và phần Neo Egoist League trong manga. Nếu bạn chỉ xem anime, hãy cẩn thận ở hạng 1."
+      },
+      "image_prompt": "a football resting on a locker room bench beside a spoiler warning card, close-up, cool fluorescent light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới Neo Egoist League"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Ba trăm tiền đạo trẻ bị nhốt vào một cơ sở huấn luyện. Chỉ một người được bước ra làm tiền đạo số một của Nhật Bản. Và để sống sót, mỗi người cần một thứ: vũ khí."
+      },
+      "image_prompt": "a massive futuristic training facility at night with rows of lit windows and a single door glowing at the end, wide shot, cold blue light",
+      "on_screen_text": "300 tiền đạo, 1 suất"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Vũ khí ở đây không phải dao kiếm. Đó là một kỹ năng mà chỉ bạn có, và đủ sắc để ghi bàn ở bất kỳ trận đấu nào."
+      },
+      "image_prompt": "a football boot placed on a velvet cushion like a treasured sword in a display case, dramatic close-up, spotlight",
+      "on_screen_text": "Vũ khí = kỹ năng độc nhất"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku xếp hạng mười vũ khí của các tiền đạo Blue Lock, từ hạng mười lên hạng một, bằng ba tiêu chí công bố ngay từ đầu. Cuối video là bảng xếp hạng đầy đủ."
+      },
+      "image_prompt": "the owl mascot in a referee shirt holding a clipboard with a whistle around its neck",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và Kaku nói trước: bảng này xếp hạng vũ khí, không xếp hạng người. Một cầu thủ có vũ khí hạng thấp vẫn có thể là người thú vị nhất bộ truyện."
+      },
+      "image_prompt": "a row of ten small numbered trophies on a shelf, some plain and some ornate, close-up, warm light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trong truyện, sau khi đội tuyển Nhật Bản bị loại ở World Cup 2018, Liên đoàn bóng đá mở một dự án đặc biệt tên là Blue Lock."
+      },
+      "image_prompt": "an empty stadium at night with a scoreboard showing a loss and confetti swept into a corner, wide shot, melancholy stadium light",
+      "chapter": "Blue Lock là gì?",
+      "on_screen_text": "Sau World Cup 2018"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Nhân vật chính Isagi bước vào Blue Lock sau một trận đấu ở trường: ở khoảnh khắc quyết định, cậu chuyền bóng thay vì tự sút. Đồng đội sút hỏng, và đội cậu thua."
+      },
+      "image_prompt": "a high school pitch with a ball rolling past a post and a figure staring at their own feet, wide shot, grey overcast light",
+      "on_screen_text": "Chuyền thay vì sút"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Người đứng đầu dự án là Ego Jinpachi, một huấn luyện viên kỳ quặc với một triết lý: Nhật Bản thiếu một tiền đạo ích kỷ, một người muốn ghi bàn hơn mọi thứ khác."
+      },
+      "image_prompt": "a thin shadowy silhouette with glasses glinting behind a bank of monitors in a dark control room, medium shot, cold screen light",
+      "on_screen_text": "Triết lý: cái tôi"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Ego nói, đại ý, rằng mỗi tiền đạo phải tìm ra vũ khí của mình, rồi tìm công thức để ghi bàn bằng vũ khí đó. Vũ khí cộng với công thức, bằng bàn thắng."
+      },
+      "image_prompt": "a chalkboard with a simple equation: a sword icon plus a gear icon equals a football in a net, amber chalk close-up",
+      "on_screen_text": "Vũ khí + công thức = bàn thắng"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Luật chơi rất khắc nghiệt: ai thua sẽ bị loại, và theo luật dự án, không bao giờ được khoác áo đội tuyển quốc gia nữa."
+      },
+      "image_prompt": "a locker being slowly closed with a name tag removed from its door, close-up, harsh fluorescent light",
+      "on_screen_text": "Thua là hết"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kaku để ý: Blue Lock biến bóng đá thành một trò chơi sinh tồn. Và trong trò chơi sinh tồn, thứ quý nhất chính là vũ khí."
+      },
+      "image_prompt": "the owl mascot peeking nervously out of a locker holding a football",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Tiêu chí một: sát thương. Vũ khí này trực tiếp tạo ra bàn thắng tới mức nào? Chấm từ một tới năm."
+      },
+      "image_prompt": "a scorecard on parchment with a first row labeled with a football-in-net icon and five empty stars, amber ink close-up",
+      "chapter": "Ba tiêu chí chấm điểm",
+      "on_screen_text": "1. Sát thương"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Tiêu chí hai: độc nhất. Người khác có dễ học theo, dễ sao chép không? Càng khó sao chép, điểm càng cao."
+      },
+      "image_prompt": "a fingerprint drawn in ink beside a crossed-out photocopier icon, amber ink close-up",
+      "on_screen_text": "2. Độc nhất"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Tiêu chí ba: tiến hóa. Vũ khí này còn lớn lên được không, hay đã chạm trần? Blue Lock là câu chuyện về tiến hóa, nên tiêu chí này rất quan trọng."
+      },
+      "image_prompt": "a small seedling growing into a tall tree drawn in stages across the page, amber ink close-up",
+      "on_screen_text": "3. Tiến hóa"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Tổng điểm tối đa là mười lăm. Và luật hòa: nếu hai vũ khí bằng điểm, vũ khí có điểm tiến hóa cao hơn xếp trên."
+      },
+      "image_prompt": "a small balance scale with a seedling tipping one side down, close-up, warm light",
+      "on_screen_text": "Hòa: xét tiến hóa"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Điểm là cảm nhận của Kaku, dựa trên những gì truyện cho thấy. Bạn hoàn toàn có thể chấm khác, và Kaku muốn nghe bạn chấm."
+      },
+      "image_prompt": "the owl mascot holding up a pencil with a playful wink beside a blank scorecard",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Hạng mười thuộc về Gagamaru, thành viên đội Z. Vũ khí của cậu là một cơ thể dẻo khác thường, có thể vươn tới những góc bóng mà người khác không với tới."
+      },
+      "image_prompt": "a lanky figure twisting into an impossible stretching pose to reach a flying football, dynamic wide shot, bright stadium light",
+      "chapter": "Hạng 10: cơ thể dẻo như cao su",
+      "on_screen_text": "Hạng 10: cơ thể dẻo",
+      "video_prompt": "the lanky figure twists and stretches to reach the flying ball",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Trong những trận đầu, Gagamaru thậm chí đứng khung thành cho cả đội, vì phản xạ và độ dẻo của cậu hợp với vị trí đó hơn."
+      },
+      "image_prompt": "a figure diving across a goal mouth with limbs stretched in an odd angle, dynamic close-up, harsh floodlight"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Sát thương: hai điểm. Cơ thể dẻo giúp chạm bóng, nhưng bản thân nó không ghi bàn. Độc nhất: bốn điểm, vì không ai tập được sự kỳ quặc ấy."
+      },
+      "image_prompt": "a scorecard with two stars in the first row and four stars in the second row, amber ink close-up",
+      "on_screen_text": "2 · 4"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Tiến hóa: một điểm. Truyện chưa cho thấy vũ khí này phát triển thêm. Tổng: bảy điểm."
+      },
+      "image_prompt": "the third row of the scorecard with a single star and a total of seven circled, amber ink close-up",
+      "on_screen_text": "Tổng: 7"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku để ý: một vũ khí độc nhất nhưng không lớn lên được, cuối cùng sẽ bị bỏ lại trong một nơi mà ai cũng tiến hóa từng ngày."
+      },
+      "image_prompt": "a single old trophy gathering dust on a shelf while newer ones shine beside it, close-up, dim light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Hạng chín là Mikage Reo. Cậu xuất thân từ gia đình giàu có, và vũ khí cậu tìm ra là khả năng sao chép: quan sát kỹ năng của người khác rồi làm lại gần như y hệt."
+      },
+      "image_prompt": "a chameleon on a branch changing its colors to match different patterned cards around it, extreme close-up, bright light",
+      "chapter": "Hạng 9: tắc kè hoa",
+      "on_screen_text": "Hạng 9: sao chép"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Lúc đầu Reo không có vũ khí riêng. Cậu chỉ là cộng sự của một thiên tài. Chính việc bị bỏ lại đã buộc cậu tìm ra thứ của mình."
+      },
+      "image_prompt": "a figure standing alone on an empty training pitch watching a distant partner walk away, wide shot, grey overcast light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Sát thương: hai điểm. Bản sao thường yếu hơn bản gốc. Độc nhất: ba điểm. Sao chép thì ai cũng có thể thử, nhưng sao chép nhanh như Reo thì hiếm."
+      },
+      "image_prompt": "a scorecard with two stars and three stars filled, amber ink close-up",
+      "on_screen_text": "2 · 3"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Tiến hóa: ba điểm. Mỗi người mới cậu gặp là một vũ khí mới cậu có thể học. Tổng: tám điểm."
+      },
+      "image_prompt": "the scorecard total of eight circled with a small chameleon doodle beside it, amber ink close-up",
+      "on_screen_text": "Tổng: 8"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku để ý: vũ khí của Reo là chiếc gương của cả Blue Lock. Nó cho thấy ai là người đáng học nhất."
+      },
+      "image_prompt": "the owl mascot looking into a hand mirror that reflects several different football poses",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Hạng tám là Chigiri Hyoma, và vũ khí đơn giản nhất: tốc độ. Khi có khoảng trống, không ai đuổi kịp cậu."
+      },
+      "image_prompt": "a blur of a runner with long hair streaming behind sprinting along the sideline, dynamic wide shot, bright stadium light",
+      "chapter": "Hạng 8: tốc độ",
+      "on_screen_text": "Hạng 8: tốc độ"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Nhưng Chigiri từng bị chấn thương đầu gối nặng, và cậu sợ phải chạy hết sức một lần nữa. Vũ khí mạnh nhất của cậu cũng là nỗi sợ lớn nhất."
+      },
+      "image_prompt": "a knee brace lying on a bench in an empty locker room, close-up, cold dim light",
+      "on_screen_text": "Nỗi sợ đầu gối"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Khoảnh khắc Chigiri quyết định chạy hết sức, dù biết có thể lại đau, là một trong những cảnh đáng nhớ nhất của đội Z."
+      },
+      "image_prompt": "a runner bursting forward with a determined face as the pitch streaks past, dramatic low-angle shot, golden stadium light",
+      "video_prompt": "the runner bursts forward as the pitch streaks past faster and faster",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Sát thương: ba điểm. Độc nhất: ba điểm, vì tốc độ là thứ nhiều cầu thủ có. Tiến hóa: ba điểm, khi cậu học cách dùng tốc độ thông minh hơn. Tổng: chín điểm."
+      },
+      "image_prompt": "a scorecard with three rows of three stars each and nine circled, amber ink close-up",
+      "on_screen_text": "Tổng: 9"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Ngoài đời, tốc độ cũng là vũ khí được săn đón nhất của các cầu thủ chạy cánh. Nhưng tốc độ chỉ có giá khi có khoảng trống để chạy."
+      },
+      "image_prompt": "a top-down tactical board with an arrow racing into a wide open space along the wing, amber ink close-up"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Hạng bảy là Kunigami Rensuke, với cú sút chân trái uy lực từ ngoài vòng cấm. Khi cậu có khoảng trống để sút, thủ môn chỉ có thể đoán hướng."
+      },
+      "image_prompt": "a powerful left-footed kick sending a ball rocketing toward a goal from long range, dynamic wide shot, bright floodlight",
+      "chapter": "Hạng 7: chân trái đại bác",
+      "on_screen_text": "Hạng 7: chân trái"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kunigami muốn trở thành một anh hùng, một tiền đạo chơi đẹp và chính trực. Nhưng Blue Lock liên tục thử thách lý tưởng ấy."
+      },
+      "image_prompt": "a figure standing tall with a hand on their chest in an empty stadium at dawn, heroic low-angle shot, warm light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Sát thương: bốn điểm. Sút xa là cách ghi bàn trực tiếp. Độc nhất: hai điểm, vì sút mạnh là kỹ năng cơ bản mà nhiều người luyện được."
+      },
+      "image_prompt": "a scorecard with four stars and two stars filled, amber ink close-up",
+      "on_screen_text": "4 · 2"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Tiến hóa: bốn điểm. Qua các giai đoạn, Kunigami trở lại với thể lực và cú sút được mài giũa hơn. Tổng: mười điểm."
+      },
+      "image_prompt": "the scorecard total of ten circled with a small cannon doodle, amber ink close-up",
+      "on_screen_text": "Tổng: 10"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku để ý: vũ khí đơn giản không có nghĩa là yếu. Nó chỉ có nghĩa là bạn phải mài nó sắc hơn mọi người."
+      },
+      "image_prompt": "the owl mascot sharpening a tiny pencil with great concentration",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Hạng sáu là Nagi Seishiro. Cậu mới chơi bóng chưa lâu, nhưng có một khả năng khống chế bóng gần như phi lý: bóng tới từ góc nào, cậu cũng dập được gọn gàng."
+      },
+      "image_prompt": "a ball dropping from high in the air and landing perfectly dead on a foot, extreme close-up, bright soft light",
+      "chapter": "Hạng 6: khống chế bóng thiên tài",
+      "on_screen_text": "Hạng 6: khống chế bóng"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Vì khống chế hoàn hảo, Nagi có thể làm những động tác mà người khác không dám nghĩ tới, như giả vờ sút rồi đổi ý giữa không trung."
+      },
+      "image_prompt": "a figure in midair twisting with the ball glued to their foot, surprised defenders frozen below, dynamic wide shot, bright light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Sát thương: bốn điểm. Độc nhất: năm điểm, vì cảm giác bóng ấy là bẩm sinh, không ai tập ra được."
+      },
+      "image_prompt": "a scorecard with four stars and five stars filled, amber ink close-up",
+      "on_screen_text": "4 · 5"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Nhưng tiến hóa: chỉ hai điểm. Nagi từng rất lười, và truyện cho thấy cậu gặp khó khi phải thật sự khao khát. Tổng: mười một điểm."
+      },
+      "image_prompt": "a figure lying on a couch playing a handheld game with a football forgotten on the floor, humorous close-up, soft light",
+      "on_screen_text": "Tổng: 11"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kaku để ý: Nagi là bài học đắt nhất bảng xếp hạng. Tài năng bẩm sinh cao nhất không đảm bảo hạng cao nhất, nếu thiếu cái đói."
+      },
+      "image_prompt": "the owl mascot looking at a shiny golden football with a slightly worried face",
+      "use_mascot": true
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Hạng năm là Bachira Meguru. Vũ khí của cậu là rê bóng: những đường lắc léo không theo bất kỳ quy luật nào, như đang nhảy múa."
+      },
+      "image_prompt": "a figure dancing past defenders with the ball in a swirling path, dynamic wide shot, bright playful light",
+      "chapter": "Hạng 5: rê bóng cùng con quái vật",
+      "on_screen_text": "Hạng 5: rê bóng"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Bachira kể rằng trong mình có một con quái vật, một người bạn tưởng tượng từ thuở nhỏ, luôn rê bóng cùng cậu và chỉ đường cho cậu."
+      },
+      "image_prompt": "a child kicking a ball alone in a park beside a faint friendly shadow shaped like a playful creature, wide shot, warm dusk light",
+      "on_screen_text": "Con quái vật bên trong"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Sát thương: ba điểm. Rê bóng mở đường, nhưng không phải lúc nào cũng kết thúc bằng bàn thắng. Độc nhất: bốn điểm, vì nhịp rê bóng ấy rất khó đoán."
+      },
+      "image_prompt": "a scorecard with three stars and four stars filled, amber ink close-up",
+      "on_screen_text": "3 · 4"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Tiến hóa: năm điểm. Bachira học được cách để con quái vật bên trong là chính mình, không cần ai khác nữa. Tổng: mười hai điểm."
+      },
+      "image_prompt": "a figure dribbling alone confidently with the friendly shadow now merged into their own shadow, wide shot, bright warm light",
+      "on_screen_text": "Tổng: 12"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku để ý: vũ khí của Bachira lớn lên khi cậu thôi dựa vào người khác. Đó là một câu chuyện trưởng thành đặt trong một pha rê bóng."
+      },
+      "image_prompt": "the owl mascot doing a clumsy little dance step with a football",
+      "use_mascot": true
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Hạng bốn là Shidou Ryusei, người được gọi là con quỷ. Vũ khí của cậu là khả năng sút ở mọi tư thế: đang lộn nhào, đang ngã, đang bay."
+      },
+      "image_prompt": "a figure flipping upside down in midair and striking a ball with explosive force, dynamic wide shot, intense floodlight",
+      "chapter": "Hạng 4: sút ở mọi tư thế",
+      "on_screen_text": "Hạng 4: mọi tư thế",
+      "video_prompt": "the figure flips upside down and strikes the ball with an explosive flash",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Shidou đọc được chỗ bóng sẽ bùng nổ, như một khoảnh khắc vụ nổ lớn, và luôn có mặt ở đó để dứt điểm."
+      },
+      "image_prompt": "a small starburst of light where a ball is about to be struck in the penalty area, symbolic close-up, bright light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Sát thương: năm điểm. Độc nhất: năm điểm. Không ai sút được từ những góc kỳ quặc như vậy."
+      },
+      "image_prompt": "a scorecard with five stars and five stars filled, amber ink close-up",
+      "on_screen_text": "5 · 5"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Ngoài đời, những pha móc bóng hay xe đạp chổng ngược vẫn thỉnh thoảng xuất hiện. Nhưng sút như vậy thường xuyên, như Shidou, là thứ chỉ có trong truyện."
+      },
+      "image_prompt": "a single bicycle-kick silhouette frozen against stadium floodlights, dramatic low-angle shot, bright light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Tiến hóa: ba điểm. Shidou gần như đã hoàn thiện ngay từ đầu, và thứ cậu cần học là phối hợp, không phải thêm vũ khí. Tổng: mười ba điểm."
+      },
+      "image_prompt": "the scorecard total of thirteen circled with a small lightning doodle, amber ink close-up",
+      "on_screen_text": "Tổng: 13"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku để ý: Shidou là minh chứng rằng vũ khí hoàn hảo cũng có giới hạn, nếu chủ nhân không học cách chơi cùng người khác."
+      },
+      "image_prompt": "the owl mascot trying to juggle a football alone and fumbling it",
+      "use_mascot": true
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Hạng ba là Barou Shoei, tự xưng là nhà vua. Vũ khí của cậu là sự kết hợp giữa rê bóng mạnh mẽ và cú dứt điểm đầy uy lực."
+      },
+      "image_prompt": "a powerful figure charging through defenders with a crown-shaped shadow on the ground, dynamic low-angle shot, dramatic light",
+      "chapter": "Hạng 3: nhà vua",
+      "on_screen_text": "Hạng 3: nhà vua"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Barou tin rằng cả sân bóng là vương quốc của mình, và đồng đội chỉ là người hầu. Cái tôi ấy khiến cậu khó chịu, nhưng cũng khiến cậu dứt điểm không chút do dự."
+      },
+      "image_prompt": "a figure standing alone at the center circle with arms crossed while teammates keep their distance, wide shot, dramatic cold light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Nhưng điểm đáng nể nhất của Barou không phải cú sút. Đó là cách cậu thua. Barou từng bị Isagi cướp vai trò, và thay vì gục ngã, cậu tìm một cách ghi bàn mới."
+      },
+      "image_prompt": "a figure kneeling on the pitch after a loss, then rising with clenched fists, split-moment wide shot, rainy stadium light",
+      "on_screen_text": "Biết thua"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Sát thương: năm điểm. Độc nhất: ba điểm, vì rê và sút mạnh thì nhiều người có, chỉ là không ai tự tin như Barou."
+      },
+      "image_prompt": "a scorecard with five stars and three stars filled, amber ink close-up",
+      "on_screen_text": "5 · 3"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Tiến hóa: năm điểm. Mỗi thất bại lại biến Barou thành một phiên bản khác. Tổng: mười ba điểm, bằng Shidou, nhưng xếp trên nhờ luật hòa."
+      },
+      "image_prompt": "the scorecard total of thirteen circled with a seedling icon tipping the balance, amber ink close-up",
+      "on_screen_text": "13, thắng nhờ tiến hóa"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku để ý: đây là lý do Kaku đặt luật hòa là tiến hóa. Trong Blue Lock, người biết thua đúng cách thường đi xa hơn người chưa bao giờ thua."
+      },
+      "image_prompt": "the owl mascot placing a small paper crown on a scuffed old football",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hạng hai là Itoshi Rin, người đứng đầu bảng xếp hạng Blue Lock suốt một thời gian dài. Vũ khí của cậu là sự chính xác: sút, chuyền, chọn vị trí, gần như không sai."
+      },
+      "image_prompt": "a ball threading a perfect path through a narrow gap between defenders into the top corner, dynamic wide shot, cold precise light",
+      "chapter": "Hạng 2: chính xác và phá hủy",
+      "on_screen_text": "Hạng 2: chính xác"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Rin có một người anh trai là thiên tài bóng đá, Itoshi Sae. Cả hành trình của Rin là cuộc đuổi theo, rồi cố vượt qua cái bóng của anh mình."
+      },
+      "image_prompt": "two long shadows on a pitch at sunset, one ahead and one chasing, symbolic wide shot, warm golden light",
+      "on_screen_text": "Cái bóng của anh trai"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Trong trận với đội U-20, Rin bộc lộ một mặt khác: lối chơi hủy diệt, bất chấp đồng đội, chỉ để thắng."
+      },
+      "image_prompt": "a fierce figure tearing through a defensive line with shards of light scattering around, dramatic close-up, harsh red light",
+      "on_screen_text": "Lối chơi hủy diệt"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Sát thương: năm điểm. Độc nhất: năm điểm. Tiến hóa: bốn điểm, vì cậu vẫn đang lớn, nhưng bị trói buộc bởi cái bóng của anh trai. Tổng: mười bốn điểm."
+      },
+      "image_prompt": "a scorecard with five, five and four stars filled and fourteen circled, amber ink close-up",
+      "on_screen_text": "Tổng: 14"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku để ý: Rin mạnh nhất khi quên đi người anh. Nhưng câu hỏi cậu chưa trả lời được là: nếu không phải để vượt qua anh, cậu chơi bóng vì điều gì?"
+      },
+      "image_prompt": "the owl mascot looking up at a long shadow cast across a pitch, thoughtful",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và hạng một: Isagi Yoichi, nhân vật chính. Vũ khí của cậu không phải cú sút mạnh nhất hay tốc độ nhanh nhất. Đó là tầm nhìn."
+      },
+      "image_prompt": "a figure standing still in the middle of a busy pitch while everyone else blurs around them, dramatic wide shot, focused light",
+      "chapter": "Hạng 1: tầm nhìn nuốt chửng",
+      "on_screen_text": "Hạng 1: tầm nhìn"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Ban đầu, Isagi có khả năng nhìn không gian: đọc vị trí của mọi người để tìm ra điểm trống. Rồi cậu phát triển cú sút một chạm, dứt điểm ngay khi bóng tới."
+      },
+      "image_prompt": "a tactical overlay of lines and circles projected over a pitch from a player's point of view, amber ink style close-up",
+      "on_screen_text": "Đọc không gian + sút một chạm"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Rồi tầm nhìn ấy lớn tới mức được gọi là Metavision: cậu nhìn trận đấu như từ trên cao, thấy trước cả ý định của đồng đội lẫn đối thủ."
+      },
+      "image_prompt": "a translucent bird's-eye view of a football pitch floating above a player's head with arrows showing everyone's intentions, symbolic wide shot, cool blue light",
+      "on_screen_text": "Metavision",
+      "video_prompt": "the translucent bird's-eye pitch slowly rotates above the player as arrows appear",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Ở Neo Egoist League, Isagi còn luyện được khả năng sút bằng cả hai chân, xóa đi điểm mù của chính mình."
+      },
+      "image_prompt": "two football boots side by side, both glowing equally, extreme close-up, bright light",
+      "on_screen_text": "Sút bằng hai chân"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và điều đáng sợ nhất: Isagi nuốt chửng vũ khí của người khác. Cậu học từ Bachira, từ Rin, từ Barou, và biến chúng thành một phần công thức của mình."
+      },
+      "image_prompt": "a figure at the center of a web of glowing lines connected to several faceless player silhouettes, symbolic wide shot, radiant light",
+      "on_screen_text": "Nuốt chửng",
+      "video_prompt": "glowing lines connect one by one from the silhouettes into the central figure",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Sát thương: bốn điểm, vì cú sút của cậu không phải mạnh nhất. Độc nhất: năm điểm. Tiến hóa: năm điểm, vì chính tiến hóa là vũ khí của Isagi. Tổng: mười bốn điểm."
+      },
+      "image_prompt": "a scorecard with four, five and five stars filled and fourteen circled, amber ink close-up",
+      "on_screen_text": "Tổng: 14"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Mười bốn điểm, bằng Rin. Nhưng theo luật hòa, Isagi xếp trên. Vì vũ khí của cậu không có trần."
+      },
+      "image_prompt": "a balance scale tipping toward a small glowing seedling that keeps growing, symbolic close-up, radiant light",
+      "on_screen_text": "Hòa, nhưng không có trần"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Kaku để ý: vũ khí mạnh nhất Blue Lock không phải là một kỹ năng, mà là khả năng biến điểm mạnh của người khác thành của mình."
+      },
+      "image_prompt": "the owl mascot wearing oversized glasses and looking at a football pitch from a high stand",
+      "use_mascot": true
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Có vài vũ khí không vào được top mười của Kaku, vì chủ nhân không phải tiền đạo Blue Lock hoặc truyện chưa kể đủ."
+      },
+      "image_prompt": "a small side table with a few ribbons labeled honorable mention, close-up, warm light",
+      "chapter": "Đề cử danh dự",
+      "on_screen_text": "Đề cử danh dự"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Cú sút tốc độ của Michael Kaiser, ngôi sao người Đức ở Neo Egoist League. Nhanh tới mức thủ môn không kịp phản ứng. Nhưng đây là vũ khí của đối thủ, không phải của Blue Lock."
+      },
+      "image_prompt": "a blurred ball tearing through the air leaving a sharp streak of light toward a goal, dynamic wide shot, intense light",
+      "on_screen_text": "Đối thủ từ nước ngoài"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Và những đường chuyền của Itoshi Sae, người anh của Rin. Một tiền vệ thiên tài, nên không nằm trong bảng dành cho tiền đạo."
+      },
+      "image_prompt": "a perfect curving pass drawn as a golden line across a tactical board, amber ink close-up"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Blue Lock phóng đại mọi thứ, nhưng nhiều vũ khí có bóng dáng ngoài đời thật. Tốc độ là vũ khí của cầu thủ chạy cánh. Khống chế bóng là vũ khí của những tiền đạo cắm giỏi giữ bóng."
+      },
+      "image_prompt": "a tactical board with small icons of real football roles, a winger arrow, a target striker circle, a playmaker eye, amber ink close-up",
+      "chapter": "Vũ khí ngoài sân cỏ thật",
+      "on_screen_text": "Bóng dáng ngoài đời"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Còn tầm nhìn kiểu Isagi thì ngoài đời thường thuộc về các tiền vệ kiến thiết, những người nhìn thấy đường chuyền trước khi nó xuất hiện."
+      },
+      "image_prompt": "a midfielder silhouette with head up scanning the pitch while others look at the ball, wide shot, bright stadium light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nhưng có một chỗ Blue Lock khác hẳn: bóng đá thật là môn đồng đội. Một tiền đạo chỉ biết ích kỷ sẽ khó đứng vững trong một đội bóng thật."
+      },
+      "image_prompt": "eleven small silhouettes linked by a single glowing line across a pitch at dusk, symbolic wide shot, warm light",
+      "on_screen_text": "Bóng đá là môn đồng đội"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku để ý: điều thú vị là chính Blue Lock cũng dần thừa nhận điều đó. Những tiền đạo mạnh nhất là người biết dùng đồng đội để phục vụ cái tôi của mình."
+      },
+      "image_prompt": "the owl mascot holding a football in one wing and giving a high five with the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Toàn bộ bảng xếp hạng. Hạng mười: cơ thể dẻo, bảy điểm. Hạng chín: sao chép, tám điểm. Hạng tám: tốc độ, chín điểm."
+      },
+      "image_prompt": "a ranking board on parchment with the bottom three rows filled in with small icons, amber ink close-up",
+      "chapter": "Bảng xếp hạng đầy đủ",
+      "on_screen_text": "Hạng 10–8"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Hạng bảy: chân trái, mười điểm. Hạng sáu: khống chế bóng, mười một điểm. Hạng năm: rê bóng, mười hai điểm."
+      },
+      "image_prompt": "the middle rows of the ranking board filled with icons, amber ink close-up",
+      "on_screen_text": "Hạng 7–5"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Hạng bốn: sút mọi tư thế, mười ba điểm. Hạng ba: nhà vua, mười ba điểm. Hạng hai: chính xác, mười bốn điểm. Hạng một: tầm nhìn, mười bốn điểm."
+      },
+      "image_prompt": "the top rows of the ranking board glowing, the first row crowned with a small eye icon, amber ink close-up, radiant light",
+      "on_screen_text": "Hạng 4–1"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Để ý một điều: bốn hạng đầu đều cách nhau rất ít. Và thứ quyết định thứ tự không phải sức mạnh, mà là khả năng lớn lên."
+      },
+      "image_prompt": "the owl mascot circling the top four rows of the board with a red pencil",
+      "use_mascot": true
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Nếu bạn chấm sát thương cao hơn tiến hóa, Rin hoặc Shidou có thể lên hạng một. Nếu bạn chấm độc nhất cao nhất, Nagi có thể leo lên rất xa."
+      },
+      "image_prompt": "a blank ranking board with numbered empty rows and a pencil resting on it, close-up, warm lamp light",
+      "chapter": "Bạn xếp lại thế nào?",
+      "on_screen_text": "Bạn xếp thế nào?"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Hãy viết top ba của bạn vào bình luận, kèm một câu lý do. Kaku sẽ tổng hợp những bảng xếp hạng thú vị nhất trong một video sau."
+      },
+      "image_prompt": "a stack of handwritten ranking cards on a desk, close-up, warm light"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Và nếu bạn là một tiền đạo trong Blue Lock, vũ khí của bạn là gì? Kaku đoán vũ khí của Kaku là nói nhiều tới mức hậu vệ mất tập trung."
+      },
+      "image_prompt": "the owl mascot chattering at a bored defender figure who is yawning",
+      "use_mascot": true
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Ba trăm tiền đạo, mười vũ khí, và một bài học chung: vũ khí mạnh nhất không phải thứ bạn sinh ra đã có, mà là thứ bạn không ngừng làm cho nó lớn lên."
+      },
+      "image_prompt": "a football on the center spot of a vast empty stadium at dawn, wide shot, hopeful golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở cửa một thế giới mới: Kagurabachi, bộ truyện về yêu đao sắp lên anime. Nếu bạn chưa đọc, đó là mười lăm phút bạn cần."
+      },
+      "image_prompt": "a sheathed sword resting on a wooden stand in a quiet workshop, dramatic close-up, moody light",
+      "on_screen_text": "Tiếp theo: Kagurabachi"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Nếu bạn thích những bảng xếp hạng có luật rõ ràng, hãy đăng ký kênh. Và nhớ tìm vũ khí của riêng mình, kể cả ngoài sân cỏ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot kicking a small football toward the camera and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

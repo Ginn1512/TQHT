@@ -92,12 +92,12 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 67 | 2027-03-09 | "Tao" (Đạo) hoạt động thế nào | Hell's Paradise | A · Giải thích hệ thống | 4 | ? | 4 | 4 | 12 | `videos/2027-03-09-tao-hells-paradise/` | Kịch bản xong — chờ kiểm nguồn |
 | 68 | 2027-03-11 | Nếu bạn là đứa trẻ ở Grace Field | Miền đất hứa | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2027-03-11-neu-ban-o-grace-field/` | Kịch bản xong — chờ kiểm nguồn |
 | 69 | 2027-03-13 | Dòng thời gian 2.000 năm | Attack on Titan | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2027-03-13-dong-thoi-gian-attack-on-titan/` | Kịch bản xong — chờ kiểm nguồn |
-| 70 | 2027-03-16 | Chi tiết cài cắm về Himmel | Frieren | R · Cài cắm và chi tiết ẩn | 5 | ? | 5 | 4 | 14 | `videos/2027-03-16-cai-cam-himmel-frieren/` | Chưa viết |
-| 71 | 2027-03-18 | Hồ sơ 9 Vĩ thú | Naruto | E · Hồ sơ bách khoa | 5 | ? | 4 | 5 | 14 | `videos/2027-03-18-ho-so-vi-thu-naruto/` | Chưa viết |
-| 72 | 2027-03-20 | 10 hiểu lầm phổ biến | Dragon Ball | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2027-03-20-10-hieu-lam-dragon-ball/` | Chưa viết |
-| 73 | 2027-03-23 | Từ Gear 2 đến Gear 5 | One Piece | G · Bậc thang tiến hóa | 5 | ? | 4 | 5 | 14 | `videos/2027-03-23-gear-2-den-gear-5/` | Chưa viết |
-| 74 | 2027-03-25 | Phân tích trận Netero vs Meruem | Hunter x Hunter | M · Phân tích trận đấu | 5 | ? | 5 | 4 | 14 | `videos/2027-03-25-tran-netero-meruem/` | Chưa viết |
-| 75 | 2027-03-27 | Xếp hạng "vũ khí" của các tiền đạo | Blue Lock (mùa 3 xuân 2027) | J · Xếp hạng có tiêu chí | 4 | ? | 4 | 4 | 12 | `videos/2027-03-27-xep-hang-vu-khi-blue-lock/` | Chưa viết |
+| 70 | 2027-03-16 | Chi tiết cài cắm về Himmel | Frieren | R · Cài cắm và chi tiết ẩn | 5 | ? | 5 | 4 | 14 | `videos/2027-03-16-cai-cam-himmel-frieren/` | Kịch bản xong — chờ kiểm nguồn |
+| 71 | 2027-03-18 | Hồ sơ 9 Vĩ thú | Naruto | E · Hồ sơ bách khoa | 5 | ? | 4 | 5 | 14 | `videos/2027-03-18-ho-so-vi-thu-naruto/` | Kịch bản xong — chờ kiểm nguồn |
+| 72 | 2027-03-20 | 10 hiểu lầm phổ biến | Dragon Ball | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2027-03-20-10-hieu-lam-dragon-ball/` | Kịch bản xong — chờ kiểm nguồn |
+| 73 | 2027-03-23 | Từ Gear 2 đến Gear 5 | One Piece | G · Bậc thang tiến hóa | 5 | ? | 4 | 5 | 14 | `videos/2027-03-23-gear-2-den-gear-5/` | Kịch bản xong — chờ kiểm nguồn |
+| 74 | 2027-03-25 | Phân tích trận Netero vs Meruem | Hunter x Hunter | M · Phân tích trận đấu | 5 | ? | 5 | 4 | 14 | `videos/2027-03-25-tran-netero-meruem/` | Kịch bản xong — chờ kiểm nguồn |
+| 75 | 2027-03-27 | Xếp hạng "vũ khí" của các tiền đạo | Blue Lock (mùa 3 xuân 2027) | J · Xếp hạng có tiêu chí | 4 | ? | 4 | 4 | 12 | `videos/2027-03-27-xep-hang-vu-khi-blue-lock/` | Kịch bản xong — chờ kiểm nguồn |
 | 76 | 2027-03-30 | Nhập môn thế giới yêu đao | Kagurabachi (ra mắt tháng 4/2027) | Q · Nhập môn | 5 | ? | 4 | 5 | 14 | `videos/2027-03-30-nhap-mon-kagurabachi/` | Chưa viết |
 | 77 | 2027-04-01 | Bí ẩn thân thế Jinshi (lý thuyết có gắn nhãn) | Dược sư tự sự (phần 2 tháng 4/2027) | N · Điều tra bí ẩn | 5 | ? | 4 | 4 | 13 | `videos/2027-04-01-bi-an-than-the-jinshi/` | Chưa viết |
 | 78 | 2027-04-03 | Ba hệ kiếm thuật: Hơi thở vs kiếm Haki vs yêu đao | Kimetsu / One Piece / Kagurabachi | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2027-04-03-ba-he-kiem-thuat/` | Chưa viết |

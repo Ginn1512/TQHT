@@ -1,0 +1,716 @@
+{
+  "title": "One Piece: Từ Gear 2 tới Gear 5 — bậc thang sức mạnh của Luffy",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này đi tới Gear 5 và arc Egghead của manga One Piece. Nếu bạn đang xem bản làm lại từ đầu, hãy lưu video lại cho sau này."
+      },
+      "image_prompt": "an old wooden ship's logbook closed on a deck beside a spoiler warning card, close-up, warm sunset light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới Gear 5"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một cơ thể cao su. Nghe thì buồn cười. Bị đấm không đau, bị bắn đạn nảy ngược lại. Nhưng làm sao một cơ thể cao su có thể đánh bại những kẻ mạnh nhất thế giới?"
+      },
+      "image_prompt": "a rubbery arm stretching absurdly long across a harbor to grab a distant ship's mast, humorous wide shot, bright sunny light",
+      "on_screen_text": "Một cơ thể cao su"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Câu trả lời của Luffy là các Gear, tức các cấp số. Giống như sang số trên xe: mỗi cấp nhanh hơn, mạnh hơn, và tốn nhiều sức hơn."
+      },
+      "image_prompt": "a vintage car gearshift lever with numbered positions glowing one after another, extreme close-up, warm light",
+      "on_screen_text": "Gear = sang số"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku leo bậc thang Gear của Luffy: từ Gear 2 tới Gear 5. Mỗi nấc có điều kiện, sức mạnh, và cái giá. Cuối video là cả bậc thang trong một hình."
+      },
+      "image_prompt": "the owl mascot at the bottom of a staircase with glowing numbered steps, rolling up its sleeves",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và Kaku nhắc trước: Luffy không có sức mạnh nào miễn phí. Mỗi Gear đều được sinh ra từ một trận thua, hoặc một lần suýt mất đồng đội."
+      },
+      "image_prompt": "a torn flag with a simple smiling face emblem fluttering in the wind over a battered ship, close-up, dramatic warm light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Nấc đầu tiên là Gear 1, tức Luffy bình thường, sau khi ăn trái Gomu Gomu. Cơ thể co giãn, kéo dài tay chân để tung những cú đấm từ xa."
+      },
+      "image_prompt": "a stretched rubbery fist flying forward with a long arm trailing behind it, dynamic close-up, bright light",
+      "chapter": "Nấc 0: cơ thể cao su",
+      "on_screen_text": "Gear 1: cao su"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Điểm mạnh: miễn nhiễm với đòn đánh cùn và điện, vì cao su không dẫn điện. Luffy từng thắng Enel, kẻ tự xưng là thần sấm, chính nhờ điều này."
+      },
+      "image_prompt": "a bolt of lightning striking a rubbery silhouette and bouncing off harmlessly, dynamic wide shot, bright electric light",
+      "on_screen_text": "Miễn nhiễm điện"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Điểm yếu: dao kiếm vẫn cắt được, và như mọi người ăn trái ác quỷ, Luffy không biết bơi."
+      },
+      "image_prompt": "a figure sinking slowly into deep blue water with a limp hand reaching upward, close-up, cold underwater light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Điều kiện: ăn trái ác quỷ. Cái giá: mất khả năng bơi, với một người muốn làm Vua Hải Tặc."
+      },
+      "image_prompt": "a small index card with three lines: condition, power, cost, each with a tiny doodle, amber ink close-up",
+      "on_screen_text": "Nấc 0"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Luffy ăn trái ác quỷ khi còn nhỏ, vì tưởng đó chỉ là một món ăn lạ. Một sức mạnh định mệnh bắt đầu từ một lần ăn vụng."
+      },
+      "image_prompt": "a small bowl holding a strange swirled fruit on a tavern counter, a child's hand sneaking toward it, humorous close-up, warm light",
+      "on_screen_text": "Một lần ăn vụng"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kaku để ý: cơ thể cao su của Luffy lúc đầu chỉ là một cơ thể bị động, chịu đòn tốt. Mọi Gear về sau là cách cậu biến sự co giãn thành vũ khí chủ động."
+      },
+      "image_prompt": "a rubber band stretched between two fingers about to be released, extreme close-up, warm light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Hoàn cảnh ra đời: trước arc Enies Lobby, Luffy thua thảm một kẻ thù rất nhanh. Cậu nhận ra mình cần tốc độ và sức mạnh vượt trội để bảo vệ đồng đội."
+      },
+      "image_prompt": "a battered figure lying on the ground in the rain looking up at a distant silhouette walking away, wide shot, grey somber light",
+      "chapter": "Nấc 1: Gear 2",
+      "on_screen_text": "Sinh ra từ một trận thua"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Cách hoạt động: Luffy dùng cơ thể cao su để bơm máu đi khắp người nhanh hơn bình thường, như một cái bơm. Cơ thể nóng lên, bốc hơi, da đỏ hồng."
+      },
+      "image_prompt": "a figure crouching low with steam rising from their skin in a stone courtyard, dramatic close-up, warm red light",
+      "on_screen_text": "Bơm máu, bốc hơi",
+      "video_prompt": "steam rises faster and swirls around the crouching figure",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Lần đầu xuất hiện ở chương 387, trong arc Enies Lobby. Tốc độ và sức mạnh tăng vọt, tới mức đối thủ không kịp nhìn thấy."
+      },
+      "image_prompt": "a blur of motion streaking across a courtyard with a trail of steam, dynamic wide shot, bright dramatic light",
+      "on_screen_text": "Chương 387"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Cái giá: cơ thể chịu áp lực cực lớn. Trong truyện, có người cảnh báo rằng nó có thể làm hao mòn cơ thể, và Luffy kiệt sức rất nhanh sau khi dùng."
+      },
+      "image_prompt": "a figure kneeling and breathing heavily with faint steam fading from their shoulders, medium shot, exhausted grey light",
+      "on_screen_text": "Cái giá: kiệt sức"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Luffy nói với đối thủ, đại ý, rằng cậu cần sức mạnh này để không để mất bất kỳ người bạn nào. Gear 2 là lời hứa với đồng đội."
+      },
+      "image_prompt": "a hand clenched into a fist beside a small torn piece of a crew flag, extreme close-up, determined warm light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Cách hoạt động: Luffy thổi hơi vào xương của mình. Vì xương cũng là cao su, tay hoặc chân phồng lên khổng lồ như một quả bóng."
+      },
+      "image_prompt": "a figure biting their thumb and blowing into it as their arm swells to enormous size, humorous dynamic close-up, bright light",
+      "chapter": "Nấc 2: Gear 3",
+      "on_screen_text": "Thổi hơi vào xương",
+      "video_prompt": "the arm swells rapidly to enormous size as the figure blows into the thumb",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Sức mạnh: một cú đấm khổng lồ, có sức nặng và sức tàn phá của một vật cực lớn. Đủ để phá tường thành hay đánh bay người khổng lồ."
+      },
+      "image_prompt": "a gigantic inflated fist smashing into a stone fortress wall and cracking it apart, dramatic wide shot, dusty light",
+      "on_screen_text": "Đòn khổng lồ"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Cái giá lúc đầu rất buồn cười: sau khi xả hơi, Luffy bị teo nhỏ lại như một đứa bé tí hon trong một lúc."
+      },
+      "image_prompt": "a tiny figure standing on a stone ledge looking up in surprise at normal-sized companions, humorous wide shot, bright light",
+      "on_screen_text": "Cái giá: teo nhỏ"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Gear 2 là tốc độ, Gear 3 là khối lượng. Luffy bắt đầu kết hợp chúng: đánh nhanh bằng Gear 2, kết thúc bằng Gear 3."
+      },
+      "image_prompt": "a diagram on parchment with a lightning bolt icon and a heavy weight icon connected by a plus sign, amber ink close-up"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku để ý: cả Gear 2 lẫn Gear 3 đều ra đời trong cùng một arc, để giải cứu Robin. Luffy phát minh cả hai chỉ vì không muốn mất một người bạn."
+      },
+      "image_prompt": "the owl mascot holding a tiny inflated balloon in one wing and a steaming kettle in the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Luffy có một thói quen: hô tên đòn trước khi đánh. Cú đấm cơ bản gọi là Pistol, tức súng lục. Cú đá quét gọi là Whip, tức roi quất."
+      },
+      "image_prompt": "a notebook page of hand-drawn attack names with small doodles of a pistol and a whip beside each, amber ink close-up",
+      "chapter": "Tên đòn: nhật ký sức mạnh",
+      "on_screen_text": "Hô tên đòn"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Khi lên Gear 2, tên đòn có thêm chữ Jet, tức phản lực: Jet Pistol, Jet Bazooka. Đòn nhanh tới mức nắm tay đến trước cả tiếng hô."
+      },
+      "image_prompt": "a fist leaving a long vapor trail like a jet engine, dynamic extreme close-up, bright light",
+      "on_screen_text": "Jet = phản lực"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Khi lên Gear 3, tên đòn có thêm chữ Gigant, tức khổng lồ. Sang Gear 4, tên đòn mượn tên thú lớn: Kong, Leo là sư tử, Rhino là tê giác, rồi tới những loài rắn như Black Mamba và King Cobra."
+      },
+      "image_prompt": "a row of hand-drawn animal silhouettes, a great ape, a lion, a rhino and a cobra, parchment close-up, warm amber light",
+      "on_screen_text": "Gigant · Kong · Cobra"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku để ý: tên đòn chính là cuốn nhật ký sức mạnh của Luffy. Chỉ cần nghe tiếng hô, người đọc biết ngay cậu đang ở nấc nào."
+      },
+      "image_prompt": "the owl mascot holding a notebook with labels written in bigger and bigger letters down the page",
+      "use_mascot": true
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Sau Enies Lobby, Gear 2 và Gear 3 trở thành vũ khí chính của Luffy trước những kẻ thù lớn hơn cậu rất nhiều, kể cả trên một hòn đảo ma đầy xác sống."
+      },
+      "image_prompt": "a small figure facing a towering shadowy giant in a misty graveyard island, dramatic wide shot, eerie moonlight",
+      "chapter": "Gear 2 và 3 trên đường đi",
+      "on_screen_text": "Vũ khí chính"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Nhưng ở quần đảo Sabaody, cả băng gặp một Đô đốc Hải quân. Gear 2 và 3 gần như vô dụng: đối thủ quá nhanh, quá mạnh. Cả băng bị tách ra, mỗi người văng một nơi."
+      },
+      "image_prompt": "small silhouettes scattered by a blinding beam of light across a grove of giant mangrove trees, dramatic wide shot, harsh bright light",
+      "on_screen_text": "Sabaody: tan tác"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Ở Marineford, Luffy dùng Gear 2 và 3 liên tục để lao tới cứu anh trai. Cơ thể cậu bị đẩy quá giới hạn, và dù vậy, cậu vẫn không kịp."
+      },
+      "image_prompt": "a lone figure charging across a frozen battlefield toward a distant execution platform, steam trailing behind, wide shot, harsh cold light",
+      "on_screen_text": "Marineford"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Kaku để ý: đây là lúc Luffy hiểu rằng thêm một cấp số nữa là không đủ. Cậu không cần sang số nhanh hơn, cậu cần một cái động cơ khác."
+      },
+      "image_prompt": "the owl mascot peering under the hood of a tiny old car with a worried face",
+      "use_mascot": true
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Sau cuộc chiến Marineford và cái chết của Ace, Luffy thua đau nhất đời. Cậu chọn tạm dừng hai năm để luyện tập."
+      },
+      "image_prompt": "a lone figure sitting on a rocky shore at dusk staring at the sea, a single broken bead necklace in hand, back view, wide shot, somber light",
+      "chapter": "Hai năm luyện tập và Haki",
+      "on_screen_text": "Hai năm luyện tập"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Cậu học Haki từ Rayleigh, cánh tay phải của Vua Hải Tặc. Haki vũ trang cho phép phủ một lớp năng lượng cứng như thép lên cơ thể. Kaku đã nói kỹ về Haki trong một video riêng."
+      },
+      "image_prompt": "a forearm coated in a dark glossy sheen like polished steel on a jungle training ground, extreme close-up, dramatic light",
+      "on_screen_text": "Học Haki"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Haki là chìa khóa mở ra Gear 4. Nó giải quyết một vấn đề cũ: cao su mềm thì khó gây sát thương thật cho kẻ mạnh."
+      },
+      "image_prompt": "a soft rubber ball beside a steel-coated ball on a table, both on scale pans, close-up, warm light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Luffy được dạy về cả ba loại Haki: vũ trang để phủ giáp, quan sát để cảm nhận đối thủ, và bá vương, loại Haki chỉ một số ít người sinh ra đã có."
+      },
+      "image_prompt": "three glowing symbols on parchment, a shield, an eye and a crown, arranged in a triangle, amber ink close-up",
+      "on_screen_text": "Ba loại Haki"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Luffy luyện tập hai năm trên một hòn đảo đầy thú dữ. Khi trở lại, cậu mạnh hơn hẳn, nhưng vẫn giữ Gear 4 như một con bài tẩy."
+      },
+      "image_prompt": "a wild jungle island with enormous beasts silhouetted against the sunrise, wide shot, adventurous golden light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Gear 4 lần đầu xuất hiện ở chương 784, trong trận với Doflamingo ở Dressrosa. Luffy thổi phồng cơ bắp, rồi phủ Haki vũ trang lên, biến cơ thể thành một khối cao su cứng và đàn hồi."
+      },
+      "image_prompt": "a massively bulked silhouette with dark hardened arms bouncing in midair above a ruined city, dramatic low-angle shot, intense light",
+      "chapter": "Nấc 3: Gear 4",
+      "on_screen_text": "Chương 784: Gear 4",
+      "video_prompt": "the bulked silhouette bounces in midair as shockwaves ripple below",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Dạng đầu tiên là Boundman: cơ thể nảy liên tục như quả bóng, và những cú đấm nén lại rồi bật ra với lực khủng khiếp."
+      },
+      "image_prompt": "a figure bouncing rhythmically in place with a shockwave ring under their feet, dynamic wide shot, bright light",
+      "on_screen_text": "Boundman"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Về sau có thêm Tankman, một cơ thể phình to để hấp thụ đòn đánh, và Snakeman, thon gọn hơn, với những cú đấm uốn lượn, đổi hướng liên tục, nhanh hơn Boundman."
+      },
+      "image_prompt": "two contrasting silhouettes side by side, one wide and round, one lean with sinuous arm trails, parchment illustration style, dramatic light",
+      "on_screen_text": "Tankman · Snakeman"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Cái giá của Gear 4 rất rõ ràng: nó chỉ kéo dài một thời gian ngắn. Khi hết, Luffy không dùng được Haki trong khoảng mười phút. Trong một trận đấu, mười phút là vô cùng dài."
+      },
+      "image_prompt": "a large clock with ten minutes shaded in red beside an exhausted figure sitting on the ground, close-up, tense light",
+      "on_screen_text": "Cái giá: 10 phút không Haki"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Để vào Gear 4, Luffy cắn vào cánh tay và thổi phồng cơ bắp giống cách làm Gear 3, nhưng lần này là cả thân trên. Rồi Haki phủ lên, đen bóng như thép."
+      },
+      "image_prompt": "a figure biting their forearm as their upper body swells and darkens with a glossy steel-like sheen, dramatic close-up, intense light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Gear 4 là lần đầu tiên Luffy kết hợp trái ác quỷ với một kỹ năng học được. Sức mạnh không còn chỉ là bẩm sinh, mà là thứ luyện ra."
+      },
+      "image_prompt": "a pair of hands with rubber-band stretch lines on one and steel coating on the other, clasped together, close-up, warm light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Ở Dressrosa, Boundman đủ sức áp đảo Doflamingo. Nhưng khi hết thời gian, Luffy nằm bất động, và cả hòn đảo phải liều mạng câu giờ cho cậu hồi sức."
+      },
+      "image_prompt": "citizens of a ruined city forming a desperate barrier around a motionless figure lying on the ground, wide shot, tense dusk light",
+      "chapter": "Gear 4 trong thực chiến",
+      "on_screen_text": "Câu giờ cho Luffy"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Ở Whole Cake Island, Luffy gặp một đối thủ tạo ra vô số lính bánh quy. Cậu ăn chúng tới mức bụng căng tròn, rồi dùng Gear 4 để biến lượng đồ ăn ấy thành dạng Tankman."
+      },
+      "image_prompt": "a comically round bloated silhouette sitting among crumbled biscuit soldiers, humorous wide shot, warm bakery light",
+      "on_screen_text": "Tankman: ăn cho no"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Tankman hấp thụ đòn đánh bằng cơ thể phình to, rồi dồn toàn bộ lực bắn ngược lại. Đây là dạng thiên về phòng thủ nhất trong bậc thang Gear."
+      },
+      "image_prompt": "a huge round belly compressing under a heavy blow and about to launch it back, dynamic close-up, warm light"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Rồi tới đối thủ khó nhất arc: một chỉ huy có thể nhìn thấy tương lai gần bằng Haki quan sát. Mọi cú đấm của Luffy đều bị đoán trước."
+      },
+      "image_prompt": "a calm tall silhouette in a mirrored room sidestepping a fist, eyes glowing faintly, dramatic close-up, cold light",
+      "on_screen_text": "Kẻ nhìn thấy tương lai"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Snakeman ra đời ở chương 894 để giải bài toán ấy: nắm tay lượn vòng, đổi hướng giữa chừng, nhanh tới mức dù đoán trước vẫn khó né."
+      },
+      "image_prompt": "a fist trailing a long winding path like a snake around mirrored pillars, dynamic wide shot, dark dramatic light",
+      "on_screen_text": "Snakeman: đổi hướng"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Và trong trận ấy, Luffy tự học được cách nhìn thấy tương lai, giống đối thủ. Kaku để ý: đối thủ mạnh nhất lại là người thầy tốt nhất."
+      },
+      "image_prompt": "a figure with closed eyes sensing faint ghostly outlines of upcoming movements in the air, close-up, mystical blue light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Ở Wano, Luffy bị Kaido hạ chỉ bằng một đòn, dù đang ở Gear 4. Cậu bị ném vào một nhà tù khai thác mỏ."
+      },
+      "image_prompt": "a figure in shackles pushing a heavy cart inside a dim mining prison, wide shot, grim torchlight",
+      "chapter": "Wano: Haki cấp cao",
+      "on_screen_text": "Một đòn là gục"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ở đó, một ông lão tù nhân dạy cậu một cách dùng Haki vũ trang mới: đẩy lực vào bên trong đối thủ thay vì chỉ phủ lớp giáp bên ngoài, thậm chí đánh mà không cần chạm."
+      },
+      "image_prompt": "an elderly figure demonstrating a palm strike that sends a ripple through a stone wall without touching it, dramatic close-up, dim prison light",
+      "on_screen_text": "Đánh mà không chạm"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Rồi trong trận quyết chiến, Luffy học được cách phủ Haki bá vương lên đòn đánh. Chỉ những kẻ mạnh nhất thế giới mới làm được điều này."
+      },
+      "image_prompt": "two clashing fists crackling with black and red lightning above a castle roof, dramatic close-up, intense stormy light",
+      "on_screen_text": "Phủ Haki bá vương"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kaku để ý: trước khi thức tỉnh Gear 5, Luffy đã chạm tới đỉnh Haki. Gear 5 không đến với một người yếu, mà đến đúng lúc cậu đã dốc cạn mọi thứ."
+      },
+      "image_prompt": "the owl mascot drawing an arrow that climbs to the top of a mountain marked with a small flame",
+      "use_mascot": true
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Rồi tới Wano. Trong trận với Kaido, Luffy thua, ngã xuống, và tim cậu gần như ngừng đập."
+      },
+      "image_prompt": "a figure falling from a great height through storm clouds over a mountainous land, wide shot, dramatic dark light",
+      "chapter": "Bí mật của trái ác quỷ",
+      "on_screen_text": "Wano: Luffy ngã xuống"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Và ở chương 1044, sự thật được tiết lộ: trái của Luffy không phải trái cao su. Tên thật của nó là Hito Hito no Mi, mô hình Nika, một trái Zoan thần thoại."
+      },
+      "image_prompt": "an ancient stone mural of a laughing sun deity with swirling clouds, close-up, radiant golden light",
+      "on_screen_text": "Chương 1044: mô hình Nika"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Chính phủ Thế giới đã đổi tên trái này suốt nhiều thế kỷ để giấu nó. Và trái Zoan có ý chí riêng: nó đã chọn Luffy."
+      },
+      "image_prompt": "a thick government ledger with an entry scratched out and a faint sun symbol glowing through, extreme close-up, dim light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Luffy thức tỉnh trái ác quỷ. Và điều đầu tiên cậu làm, là cười."
+      },
+      "image_prompt": "a silhouette rising from rubble with head thrown back in joyful laughter as a drumbeat ripples through the air, dramatic wide shot, radiant light",
+      "on_screen_text": "Luffy cười",
+      "video_prompt": "the figure throws back its head laughing as a drumbeat ripple spreads outward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku để ý: Kaku đã nói về chi tiết này trong video mười hiểu lầm One Piece. Hôm nay ta nhìn nó như nấc cuối cùng của bậc thang Gear."
+      },
+      "image_prompt": "the owl mascot pointing at the top step of a staircase that glows brightly",
+      "use_mascot": true
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Gear 5 là trạng thái thức tỉnh. Cơ thể Luffy trở nên tự do như trong phim hoạt hình: mắt trố ra, cơ thể biến dạng theo ý muốn, và cậu có thể biến cả môi trường xung quanh thành cao su."
+      },
+      "image_prompt": "a whimsical silhouette stretching a whole landscape like rubber, with ground and clouds bending around it, cartoonish dynamic wide shot, bright white light",
+      "chapter": "Nấc 4: Gear 5",
+      "on_screen_text": "Gear 5: tự do như hoạt hình",
+      "video_prompt": "the ground and clouds stretch and bend like rubber around the whimsical figure",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Luffy túm lấy tia sét. Kéo mặt đất như kéo một tấm vải. Và biến những đòn đánh nghiêm túc nhất thành những trò đùa."
+      },
+      "image_prompt": "a hand grabbing a lightning bolt like a rope and swinging it, humorous dynamic close-up, bright electric light"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Tính cách của Nika là tiếng cười và sự giải phóng. Và Gear 5 là sức mạnh chỉ bị giới hạn bởi trí tưởng tượng của Luffy."
+      },
+      "image_prompt": "a joyful figure dancing on clouds with musical notes and drum icons floating around, symbolic wide shot, radiant light",
+      "on_screen_text": "Giới hạn: trí tưởng tượng"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Cái giá: Gear 5 tiêu hao sức lực khủng khiếp. Sau khi dùng, Luffy kiệt sức tới mức cơ thể teo lại, trông như già đi trong một lúc."
+      },
+      "image_prompt": "a frail exhausted figure sitting slumped against a rock while companions rush toward them, wide shot, dim tired light",
+      "on_screen_text": "Cái giá: cạn kiệt"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Với Gear 5, Luffy kết thúc trận chiến với Kaido và giải phóng Wano. Nhịp tim của cậu vang lên như tiếng trống, được gọi là trống giải phóng."
+      },
+      "image_prompt": "a giant drum beating in the sky over a mountainous land at dawn, symbolic wide shot, radiant golden light",
+      "on_screen_text": "Trống giải phóng"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Nhưng ở Egghead, ta thấy Gear 5 có giới hạn thời gian. Khi hết, Luffy phải nghỉ để hồi sức, đôi khi vào đúng lúc nguy hiểm nhất."
+      },
+      "image_prompt": "an hourglass running out on a futuristic laboratory island, close-up, cold blue light",
+      "on_screen_text": "Giới hạn thời gian"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nghĩa là dù ở nấc cao nhất, luật cũ vẫn đúng: không có sức mạnh nào miễn phí. Gear 5 chỉ đẩy cái giá lên cao hơn."
+      },
+      "image_prompt": "a price tag with a sun symbol hanging from a golden key, extreme close-up, warm light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku để ý: Gear 5 là nấc duy nhất không đến từ việc luyện tập hay một trận thua. Nó đến từ việc chính trái ác quỷ công nhận Luffy."
+      },
+      "image_prompt": "a golden key floating down into an open hand from a bright sky, symbolic close-up, radiant light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Tổng kết điều kiện và cái giá. Gear 1: ăn trái ác quỷ, đổi lại mất khả năng bơi."
+      },
+      "image_prompt": "a ladder drawn on parchment with the first step labeled with a fruit icon and a wave icon crossed out, amber ink close-up",
+      "chapter": "Điều kiện và cái giá của từng nấc"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Gear 2: một trận thua và nhu cầu tốc độ; đổi lại áp lực lớn lên cơ thể. Gear 3: sự sáng tạo với xương cao su; đổi lại tạm thời teo nhỏ."
+      },
+      "image_prompt": "the next two steps of the ladder labeled with a steam icon and a balloon icon, amber ink close-up"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Gear 4: hai năm luyện Haki; đổi lại mười phút không Haki. Gear 5: được trái ác quỷ thức tỉnh; đổi lại kiệt sức hoàn toàn."
+      },
+      "image_prompt": "the top steps of the ladder labeled with a steel fist icon and a sun icon, amber ink close-up, radiant light",
+      "on_screen_text": "Toàn bộ bậc thang"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nếu vẽ thành biểu đồ, sức mạnh đi lên như bậc thang, còn cái giá đi lên theo cùng một nhịp. Không nấc nào được ưu đãi."
+      },
+      "image_prompt": "a hand-drawn chart with two lines climbing side by side like stairs, one gold and one red, parchment close-up, warm light",
+      "on_screen_text": "Sức mạnh = cái giá"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và có một điều không đổi ở mọi nấc: mỗi lần Luffy lên một Gear mới, đều là vì một người bạn đang gặp nguy hiểm."
+      },
+      "image_prompt": "a small group of silhouettes standing behind a figure on each step of the ladder, symbolic wide shot, warm light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nhìn lại toàn bộ, Kaku thấy bậc thang Gear tuân theo ba quy luật."
+      },
+      "image_prompt": "the owl mascot writing a big number three on a chalkboard with a flourish",
+      "chapter": "Ba quy luật của bậc thang",
+      "on_screen_text": "Ba quy luật",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Quy luật một: mỗi nấc sửa một điểm yếu của nấc trước. Gear 1 thiếu tốc độ, Gear 2 thêm tốc độ. Gear 2 thiếu sức nặng, Gear 3 thêm khối lượng."
+      },
+      "image_prompt": "a chain of linked boxes on parchment, each with an arrow pointing at a crossed-out weakness, amber ink close-up",
+      "on_screen_text": "1. Sửa điểm yếu"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Gear 3 chậm và để lộ sơ hở, Gear 4 gộp cả tốc độ lẫn sức nặng. Gear 4 bị kẻ mạnh hơn đè bẹp, Gear 5 phá luôn cả luật vật lý."
+      },
+      "image_prompt": "the last links of the chain glowing brighter, the final link shaped like a sun, amber ink close-up"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Quy luật hai: cái giá tăng theo sức mạnh. Từ vài hơi thở gấp, tới teo nhỏ, tới mười phút mất Haki, rồi tới kiệt sức hoàn toàn."
+      },
+      "image_prompt": "a staircase of iron weights getting heavier on each step, symbolic close-up, amber light",
+      "on_screen_text": "2. Cái giá tăng dần"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Quy luật ba: mỗi nấc là câu trả lời cho những con người cụ thể. Robin ở Enies Lobby. Nỗi đau mất Ace sau Marineford. Cả đất nước Wano bị áp bức."
+      },
+      "image_prompt": "three small symbolic objects on a table, a book, a bead necklace and a cherry blossom branch, close-up, warm nostalgic light",
+      "on_screen_text": "3. Vì một người"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku nghĩ đó là lý do bậc thang này hấp dẫn: nó không chỉ là danh sách sức mạnh, mà là một cuốn tiểu sử viết bằng những trận đấu."
+      },
+      "image_prompt": "an open biography book whose pages show small fight silhouettes instead of text, close-up, warm light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Khi Gear 5 lên anime, người xem chia làm hai phe. Một phe thấy hụt hẫng: trận đấu nghiêm túc nhất bỗng hóa thành phim hoạt hình vui nhộn."
+      },
+      "image_prompt": "a split crowd of tiny silhouettes, half frowning with crossed arms, half cheering, symbolic wide shot, contrasting light",
+      "chapter": "Vì sao Gear 5 gây tranh cãi",
+      "on_screen_text": "Hai phe"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Phe kia cho rằng Gear 5 đã được cài từ đầu: Luffy luôn là nhân vật cười nhiều nhất, và giấc mơ của cậu là được tự do nhất trên biển."
+      },
+      "image_prompt": "an old sketchbook opened to an early page showing a small laughing face drawn in simple lines, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nhiều người còn để ý: ngay từ những chương đầu, Luffy vốn đã co giãn như nhân vật hoạt hình cổ điển. Gear 5 chỉ đẩy phong cách ấy tới tận cùng."
+      },
+      "image_prompt": "a vintage black and white cartoon style doodle of a bouncing rubbery figure on old film strip, close-up, nostalgic light"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku không đứng về phe nào. Nhưng một sức mạnh khiến người xem cãi nhau tới vậy chắc chắn là một sức mạnh đáng nhớ. Bạn thuộc phe nào?"
+      },
+      "image_prompt": "the owl mascot sitting on a fence between two groups, shrugging with a smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku nghĩ bậc thang Gear kể câu chuyện về cách Luffy lớn lên. Gear 2 và 3: một cậu thiếu niên liều mình vì bạn. Gear 4: một người chấp nhận học hỏi sau thất bại lớn nhất đời."
+      },
+      "image_prompt": "three portraits of the same silhouette at different ages hanging side by side on a ship's cabin wall, close-up, warm nostalgic light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Và Gear 5: một người trở thành biểu tượng tự do cho người khác. Không còn là sức mạnh của một cá nhân, mà là niềm hy vọng của những người bị áp bức."
+      },
+      "image_prompt": "a crowd of people in a dark town looking up at a bright laughing silhouette on a rooftop, wide shot, hopeful radiant light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và thú vị nhất: nấc mạnh nhất lại là nấc vui nhộn nhất. One Piece nói rằng sức mạnh thật không đến từ sự nghiêm trọng, mà từ tự do và tiếng cười."
+      },
+      "image_prompt": "the owl mascot doing a silly stretchy dance with a big grin",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu bạn có cơ thể cao su, bạn muốn dùng Gear nào trong đời thường? Gear 2 để chạy kịp xe buýt? Gear 3 để với đồ trên nóc tủ?"
+      },
+      "image_prompt": "a humorous doodle of a figure stretching an arm to reach a high kitchen shelf while steam rises from another figure running to a bus, parchment close-up, playful light",
+      "chapter": "Trò chơi: bạn muốn Gear nào?",
+      "on_screen_text": "Bạn muốn Gear nào?"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Hay Gear 4 Tankman để ăn hết một bàn buffet mà không thấy no? Còn Gear 5, bạn sẽ biến thứ gì quanh mình thành cao su?"
+      },
+      "image_prompt": "a humorous doodle of a round bloated figure beside an empty buffet table, parchment close-up, playful light"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Kaku chọn Gear 5, nhưng chỉ để biến bàn học thành cao su, cho cú ngã từ ghế đỡ đau. Viết lựa chọn của bạn vào bình luận nhé."
+      },
+      "image_prompt": "the owl mascot bouncing happily on a rubbery desk that bends like a trampoline",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Từ một cơ thể cao su bị coi là trò đùa, tới một vị thần của tiếng cười. Bậc thang Gear của Luffy là bậc thang của một người chưa bao giờ ngừng vươn xa hơn, như chính cánh tay của cậu."
+      },
+      "image_prompt": "a long stretching arm reaching toward a sunrise over the ocean from the deck of a small ship, wide shot, radiant golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Và bậc thang ấy chưa kết thúc. Manga vẫn đang tiếp tục, và biết đâu Luffy còn một nấc nữa mà chưa ai đoán được."
+      },
+      "image_prompt": "a staircase continuing upward into bright clouds beyond the last visible step, symbolic wide shot, radiant hopeful light"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku phân tích một trận đấu kinh điển: Hunter x Hunter, Netero đấu với vua kiến Meruem. Một trận đấu giữa đỉnh cao của con người và một sinh vật sinh ra để vượt qua con người."
+      },
+      "image_prompt": "a quiet desert at dusk with two silhouettes facing each other, one elderly and one tall and slender, wide shot, dramatic light",
+      "on_screen_text": "Tiếp theo: Netero vs Meruem"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Nếu bạn thích xem Kaku leo những bậc thang sức mạnh, hãy đăng ký kênh. Và nhớ: nấc cao nhất đôi khi lại là nấc bạn cười nhiều nhất. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot at the top of a glowing staircase, waving goodbye with a big laugh",
+      "use_mascot": true
+    }
+  ]
+}

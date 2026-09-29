@@ -1,0 +1,655 @@
+{
+  "title": "Frieren: Những chi tiết cài cắm về Himmel mà bạn có thể đã bỏ lỡ",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime Frieren mùa hai. Nếu bạn chưa xem, hãy lưu lại. Frieren là bộ anime nên xem chậm, không vội."
+      },
+      "image_prompt": "a closed travel journal with a pressed blue flower tucked in its pages, resting on a wooden bench beside a spoiler card, close-up, soft nostalgic light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết mùa 2"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Tập một của Frieren mở đầu bằng một điều lạ: câu chuyện bắt đầu sau khi cuộc phiêu lưu đã kết thúc. Nhóm anh hùng đã đánh bại Ma vương. Họ trở về, được chào đón, và chia tay."
+      },
+      "image_prompt": "a small group of travelers standing together on a hill overlooking a celebrating city at sunset, back view, wide shot, warm bittersweet light",
+      "on_screen_text": "Câu chuyện bắt đầu sau khi kết thúc"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Năm mươi năm sau, người anh hùng Himmel qua đời vì tuổi già. Và nữ pháp sư Frieren, người sống hàng nghìn năm, lần đầu tiên khóc, vì nhận ra mình chưa từng cố gắng hiểu anh."
+      },
+      "image_prompt": "a lone small figure standing at a funeral in light rain among a crowd holding umbrellas, back view, wide shot, soft grey light",
+      "on_screen_text": "Frieren khóc"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Và từ đó, suốt cả bộ truyện, Himmel gần như không xuất hiện ở hiện tại. Anh chỉ xuất hiện trong ký ức. Nhưng mỗi ký ức đều là một chi tiết cài cắm, chờ được hiểu đúng."
+      },
+      "image_prompt": "a collection of small framed memories hanging on a wall of an old cottage, each faintly glowing, close-up, warm nostalgic light",
+      "on_screen_text": "Himmel chỉ sống trong ký ức"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku đặt hai khung cạnh nhau cho mỗi chi tiết về Himmel: lần đầu ta thấy nó, và ý nghĩa ta hiểu về sau. Cuối video là chi tiết cài cắm Kaku thấy đẹp nhất."
+      },
+      "image_prompt": "the owl mascot holding two small picture frames side by side, one empty and one with a pressed flower",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Frieren là manga của Yamada Kanehito viết truyện và Abe Tsukasa vẽ, đăng từ năm 2020. Anime do Madhouse làm: mùa một năm 2023 tới 2024, mùa hai từ tháng một tới tháng ba năm 2026."
+      },
+      "image_prompt": "a small stack of manga volumes beside a traveling staff and a small lantern on a wooden table, close-up, soft warm light",
+      "on_screen_text": "Yamada · Abe · Madhouse"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước khi mở từng chi tiết, hãy nhớ nhóm anh hùng có bốn người, và mỗi người sống một độ dài thời gian khác nhau."
+      },
+      "image_prompt": "four walking staffs and weapons leaning together against a tree, each of a different style, close-up, warm afternoon light",
+      "chapter": "Nhóm anh hùng: bốn người, bốn thời gian",
+      "on_screen_text": "Bốn người, bốn thời gian"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Himmel, con người, người anh hùng. Heiter, con người, vị tu sĩ thích rượu. Eisen, người lùn, chiến binh sống lâu hơn con người vài trăm năm. Và Frieren, tộc elf, sống hơn một nghìn năm."
+      },
+      "image_prompt": "four timelines of very different lengths drawn side by side on parchment, amber ink close-up"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Nghĩa là trong nhóm, Frieren luôn là người sẽ ở lại cuối cùng. Himmel và Heiter biết điều đó từ đầu. Và họ đã chuẩn bị cho ngày đó theo cách riêng của mình."
+      },
+      "image_prompt": "a lone traveler walking on a road while three faded silhouettes stand watching from a hill behind her, wide shot, bittersweet light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku để ý: gần như mọi chi tiết cài cắm trong video này đều là cách những người sống ngắn chuẩn bị cho người sống dài. Nhớ điều này, bạn sẽ thấy truyện rất khác."
+      },
+      "image_prompt": "the owl mascot placing four small candles of different heights in a row, the tallest one still unlit",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Lần đầu: tập một, nhóm anh hùng cùng ngắm mưa sao băng Era, thứ chỉ xuất hiện năm mươi năm một lần. Frieren hứa lần sau sẽ dẫn mọi người tới chỗ ngắm đẹp hơn."
+      },
+      "image_prompt": "a sky full of falling meteors over a quiet hillside where a small group sits together, wide shot, magical night light",
+      "chapter": "Chi tiết 1: mưa sao băng năm mươi năm",
+      "on_screen_text": "Lần đầu: mưa sao băng",
+      "video_prompt": "meteors streak across the night sky above the small group on the hillside",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Himmel thì khác. Năm mươi năm với anh là đi từ tuổi trẻ tới tuổi già. Khi nghe lời hẹn, anh không nói gì. Nhưng anh đã nhớ."
+      },
+      "image_prompt": "a young man looking up at the meteor-filled sky with a quiet smile while others chat beside him, close-up, soft magical light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Với Frieren, năm mươi năm chỉ như một cái chớp mắt. Cô hẹn gặp lại mọi người như hẹn gặp vào tuần sau."
+      },
+      "image_prompt": "an hourglass with sand falling extremely slowly beside a much faster one, symbolic close-up, soft light"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Năm mươi năm sau, Frieren trở lại. Himmel đã già. Mọi người đã già. Họ cùng ngắm mưa sao băng lần cuối, và không lâu sau đó, Himmel qua đời."
+      },
+      "image_prompt": "the same hillside under a meteor shower, now with a few elderly silhouettes sitting together, wide shot, bittersweet magical light",
+      "on_screen_text": "Về sau: lần ngắm cuối cùng"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và lần này, Frieren giữ lời. Cô dẫn cả nhóm tới một chỗ ngắm đẹp hơn, đúng như đã hứa năm mươi năm trước. Nhưng cô chưa kịp nhận ra đó là lần cuối."
+      },
+      "image_prompt": "a small figure leading three elderly companions up a gentle hill path at night toward an open view of the sky, back view, wide shot, soft starlight"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Ý nghĩa: chi tiết đầu tiên của truyện đã nói về độ dài khác nhau của thời gian. Năm mươi năm của Frieren là cả cuộc đời của Himmel."
+      },
+      "image_prompt": "two timelines drawn on parchment, one short and complete, one very long with the short one marked as a tiny segment, amber ink close-up",
+      "on_screen_text": "50 năm = cả một đời"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku để ý: Himmel đã chờ năm mươi năm để được ngắm sao băng cùng Frieren lần nữa. Anh chưa bao giờ nói ra, nhưng anh đã chờ."
+      },
+      "image_prompt": "the owl mascot sitting on a hill looking up at falling stars with a quiet expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Có những bức tượng đã phủ rêu, có những bức được dân làng lau chùi mỗi ngày. Tám mươi năm sau, có nơi người ta vẫn nhớ, có nơi đã quên mất người trong tượng là ai."
+      },
+      "image_prompt": "two statues side by side, one clean with fresh flowers and one covered in moss and ivy, wide shot, contrasting soft light",
+      "chapter": "Chi tiết 2: những bức tượng"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Lần đầu: suốt hành trình, Frieren đi tới đâu cũng thấy tượng của Himmel và nhóm anh hùng. Himmel nổi tiếng là người thích được làm tượng, đến mức Frieren thấy hơi phiền."
+      },
+      "image_prompt": "a stone statue of a heroic figure in a small village square with flowers placed at its base, wide shot, warm afternoon light",
+      "on_screen_text": "Lần đầu: tượng ở khắp nơi"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Anh còn đòi nhà điêu khắc làm tượng mình thật đẹp, chỉnh từng sợi tóc. Truyện cố tình để người xem cười, và không nghi ngờ gì."
+      },
+      "image_prompt": "a sculptor frowning while a young man points at a statue's hair insisting on corrections, humorous medium shot, warm light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Người xem, và cả Frieren, đều nghĩ Himmel chỉ hơi tự luyến. Anh luôn chải tóc, soi gương, và muốn tượng mình thật đẹp."
+      },
+      "image_prompt": "a small hand mirror and a comb resting on a travel pack beside a campfire, humorous close-up, warm light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Về sau, trong một ký ức, Frieren hỏi Himmel vì sao anh cứ muốn làm tượng. Himmel trả lời: có nhiều lý do, nhưng lý do lớn nhất là để em không phải cô đơn trong tương lai."
+      },
+      "image_prompt": "a young man smiling gently beside a half-finished statue while a sculptor works, medium shot, warm golden light",
+      "on_screen_text": "Về sau: để em không cô đơn",
+      "video_prompt": "the sculptor's chisel taps as the young man turns and smiles warmly",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Himmel biết mình sẽ chết trước Frieren rất lâu. Anh muốn khi cô đi khắp thế giới về sau, cô sẽ luôn gặp những dấu vết chứng minh rằng họ đã thật sự tồn tại, không chỉ là một câu chuyện cổ tích."
+      },
+      "image_prompt": "a small traveler looking up at a weathered statue in a quiet town decades later, back view, wide shot, nostalgic light",
+      "on_screen_text": "Chúng ta đã thật sự tồn tại"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Và điều Himmel mong đã thành sự thật. Mỗi khi Frieren gặp một bức tượng, cô dừng lại, kể cho Fern và Stark nghe một câu chuyện. Nhóm anh hùng vẫn còn đó, qua những câu chuyện ấy."
+      },
+      "image_prompt": "a small traveler pointing at an old statue while two younger companions look up with interest, medium shot, warm afternoon light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku thấy đây là một trong những chi tiết đẹp nhất anime. Một hành động tưởng là tự luyến hóa ra là một món quà gửi cho tương lai."
+      },
+      "image_prompt": "a stone statue with a small bouquet of fresh flowers placed at its base at sunrise, close-up, warm hopeful light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Lần đầu: trong một ký ức ở tập mười bốn, nhóm anh hùng dừng chân ở một khu chợ. Himmel muốn mua quà cho Frieren và để cô tự chọn một chiếc nhẫn."
+      },
+      "image_prompt": "a small market stall with a tray of simple rings under a canopy, close-up, warm afternoon light",
+      "chapter": "Chi tiết 3: chiếc nhẫn",
+      "on_screen_text": "Lần đầu: một khu chợ"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Frieren chọn đại một chiếc. Himmel nhìn chiếc nhẫn, im lặng một lúc. Rồi anh quỳ xuống, và đeo nhẫn vào ngón áp út bàn tay trái của cô."
+      },
+      "image_prompt": "a young man kneeling before a small figure and gently placing a ring on her finger in a quiet market, medium shot, soft golden light",
+      "on_screen_text": "Himmel quỳ xuống",
+      "video_prompt": "the young man slowly kneels and gently slides the ring onto her finger",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Chiếc nhẫn có hình hoa sen gương. Và trong ngôn ngữ các loài hoa của thế giới Frieren, hoa sen gương nghĩa là tình yêu vĩnh cửu."
+      },
+      "image_prompt": "a delicate ring with a small mirrored lotus flower design resting on a velvet cloth, extreme close-up, soft shimmering light",
+      "on_screen_text": "Hoa sen gương = tình yêu vĩnh cửu"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Có một chi tiết nhỏ: trong ký ức, Himmel thường nhắc tới hoa, tặng hoa, và nhớ tên từng loài. Người xem để ý mới thấy, sở thích này được cài từ rất sớm."
+      },
+      "image_prompt": "a young man handing a small bouquet of wildflowers to an elderly villager on a country road, medium shot, soft warm light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Himmel rất am hiểu các loài hoa. Anh biết ý nghĩa của chiếc nhẫn. Frieren thì có lẽ không. Và anh không bao giờ giải thích."
+      },
+      "image_prompt": "an old handwritten book of flower meanings lying open on a table with pressed flowers between the pages, close-up, warm light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Có những người xem tin rằng Frieren dần hiểu ra ý nghĩa chiếc nhẫn trong hành trình mới. Nhưng truyện không bao giờ nói thẳng. Kaku thấy như vậy lại đẹp hơn."
+      },
+      "image_prompt": "a small hand turning a ring slowly in the light by a window, close-up, soft contemplative light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Về sau: Frieren vẫn đeo chiếc nhẫn tới tận hôm nay, hàng chục năm sau. Người xem tự hỏi: cô có hiểu không? Truyện để ngỏ."
+      },
+      "image_prompt": "a small hand with a lotus-shaped ring resting on a walking staff, close-up, gentle nostalgic light",
+      "on_screen_text": "Về sau: nhẫn vẫn còn đó"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kaku nghĩ đây là lời tỏ tình lặng lẽ nhất anime. Không có lời nói nào, chỉ có một cái quỳ gối và một bông hoa bằng kim loại."
+      },
+      "image_prompt": "the owl mascot holding a tiny ring box close to its chest, blushing slightly",
+      "use_mascot": true
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Lần đầu: Himmel được gọi là anh hùng. Và ai cũng tin rằng anh đã rút được thanh kiếm huyền thoại, thứ chỉ người anh hùng thật mới rút được, để đánh bại Ma vương."
+      },
+      "image_prompt": "a legendary sword embedded in a stone pedestal in a misty forest clearing with light falling on it, wide shot, mystical light",
+      "chapter": "Chi tiết 4: thanh kiếm của anh hùng",
+      "on_screen_text": "Lần đầu: thanh kiếm huyền thoại"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Về sau, ở tập mười hai, Frieren trở lại ngôi làng giữ thanh kiếm. Và sự thật được hé lộ: Himmel đã không rút được thanh kiếm đó."
+      },
+      "image_prompt": "a sword still firmly lodged in stone with scuff marks around the pedestal, close-up, quiet revealing light",
+      "on_screen_text": "Về sau: Himmel không rút được"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Và ngôi làng vẫn giữ bí mật đó suốt tám mươi năm, như một lời hứa với Himmel. Người dân ở đó vẫn gọi anh là anh hùng thật sự."
+      },
+      "image_prompt": "a small quiet village at dusk with lanterns lit around a sword pedestal in the forest nearby, wide shot, warm peaceful light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Thanh kiếm Himmel mang theo suốt hành trình là một thanh kiếm được một thương nhân tặng, vì Himmel đã cứu ông khỏi quái vật. Nó không phải kiếm huyền thoại."
+      },
+      "image_prompt": "a plain but well-kept sword resting on a table beside a merchant's thank-you note, close-up, warm humble light",
+      "on_screen_text": "Một thanh kiếm tặng"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhưng Himmel vẫn đánh bại Ma vương. Anh không cần được chọn để trở thành anh hùng. Anh chọn làm anh hùng."
+      },
+      "image_prompt": "a lone figure standing on a cliff at sunrise holding an ordinary sword aloft, back view, wide shot, radiant heroic light",
+      "on_screen_text": "Không cần được chọn",
+      "video_prompt": "sunrise light spreads across the cliff as the figure raises the ordinary sword",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Và Himmel còn dặn người trong làng đừng kể sự thật cho ai. Anh không cần mọi người biết mình không được chọn. Anh chỉ cần thế giới được cứu."
+      },
+      "image_prompt": "an elderly village chief holding a finger to his lips beside the stone pedestal, close-up, warm conspiratorial light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku để ý: chi tiết này đảo ngược cả mô típ anh hùng được chọn. Frieren nói rằng Himmel chính là người anh hùng thật, không cần thanh kiếm nào chứng minh."
+      },
+      "image_prompt": "a small handwritten note tucked beside the sword pedestal with a single flower on top, close-up, soft light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Lần đầu: Himmel từng kể với Frieren về một loài hoa ở quê anh, hoa trăng xanh, và muốn cho cô xem. Anh chưa làm được."
+      },
+      "image_prompt": "a small blue wildflower glowing faintly in moonlight on a hillside, close-up, soft blue light",
+      "chapter": "Chi tiết 5: hoa trăng xanh",
+      "on_screen_text": "Lần đầu: hoa trăng xanh"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Về sau, sau khi Himmel mất, Frieren dành thời gian đi tìm loài hoa đó, để đặt bên tượng của anh. Cô tìm rất lâu, vì hoa đã gần như biến mất."
+      },
+      "image_prompt": "a small traveler kneeling in a vast field searching among grasses at dusk, back view, wide shot, patient warm light",
+      "on_screen_text": "Về sau: Frieren đi tìm"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Frieren học rất nhiều phép thuật vô dụng từ thầy Flamme: phép làm hoa nở, phép tìm hoa, phép làm sạch rỉ sét. Himmel là người đầu tiên thấy những phép đó thật đẹp."
+      },
+      "image_prompt": "a small traveler casting a gentle spell that makes a field burst into bloom while a young man watches in delight, wide shot, soft magical light",
+      "on_screen_text": "Phép thuật vô dụng"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Frieren dùng một phép thuật tìm hoa, thứ phép mà người khác coi là vô dụng. Và cô tìm được."
+      },
+      "image_prompt": "a gentle glowing spell spreading across a meadow, revealing a single patch of blue flowers, wide shot, magical soft light",
+      "video_prompt": "the glowing spell ripples across the meadow and a patch of blue flowers lights up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Việc tìm hoa mất nhiều tháng, nhiều năm. Với Frieren, thời gian đó chẳng là gì. Nhưng với người xem, đó là cách cô bắt đầu dành thời gian cho người mình đã bỏ lỡ."
+      },
+      "image_prompt": "a small traveler walking through changing seasons, from snow to spring meadows, searching the ground, time-lapse style wide shot, shifting light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Ý nghĩa: đây là lần đầu tiên Frieren làm một điều chỉ vì Himmel. Và cũng là lần đầu tiên phép thuật vô dụng của cô trở thành thứ quý giá nhất."
+      },
+      "image_prompt": "blue flowers placed carefully at the base of a weathered statue, close-up, tender morning light",
+      "on_screen_text": "Phép vô dụng trở nên quý giá"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Lần đầu: trong nhóm anh hùng, Himmel luôn nhận những việc nhỏ nhặt: tìm đồ thất lạc, giúp dân làng sửa nhà, đưa người lạc đường về nhà. Frieren thấy đó là lãng phí thời gian."
+      },
+      "image_prompt": "a hero helping an elderly villager carry firewood along a village path, medium shot, warm afternoon light",
+      "chapter": "Chi tiết 6: Himmel sẽ làm gì?",
+      "on_screen_text": "Lần đầu: những việc nhỏ"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Về sau, Frieren tự nhiên làm y hệt. Cô nhận những yêu cầu nhỏ, giúp những người không quen biết. Và khi Fern hỏi vì sao, cô trả lời, đại ý: vì Himmel cũng sẽ làm vậy."
+      },
+      "image_prompt": "a small traveler helping a child retrieve a kite from a tree while a younger companion watches curiously, medium shot, warm light",
+      "on_screen_text": "Về sau: Himmel cũng sẽ làm vậy"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Fern và Stark chưa từng gặp Himmel. Nhưng qua cách Frieren sống, họ dần biết anh là người như thế nào. Một người có thể ảnh hưởng tới những người mình chưa bao giờ gặp."
+      },
+      "image_prompt": "two young travelers listening attentively to an older companion telling a story by a campfire, medium shot, warm flickering light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Câu nói đó lặp lại nhiều lần trong truyện, như một phép thuật riêng. Himmel đã mất, nhưng cách sống của anh sống tiếp trong Frieren, rồi trong Fern và Stark."
+      },
+      "image_prompt": "three travelers walking along a road at sunset, the eldest in front, back view, wide shot, warm hopeful light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Kaku thấy đây là chi tiết cài cắm dài nhất truyện: nó không trả lời trong một cảnh, mà lan ra khắp câu chuyện."
+      },
+      "image_prompt": "the owl mascot helping a tiny bird back into its nest with a gentle smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Lần đầu: sau khi Himmel mất, Frieren tới thăm Heiter, lúc này đã già. Ông nhờ cô dạy phép thuật cho một cô bé mồ côi ông nhận nuôi: Fern."
+      },
+      "image_prompt": "an elderly priest sitting in a quiet chapel with a young girl practicing a small spell nearby, wide shot, soft warm light",
+      "chapter": "Chi tiết thêm: Heiter và Fern",
+      "on_screen_text": "Lần đầu: Heiter nhờ vả"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Frieren vốn không nhận học trò. Nhưng cô đồng ý. Heiter còn lừa cô ở lại chờ vài năm, bằng cách nhờ cô giải mã một cuốn sách phép cổ."
+      },
+      "image_prompt": "an old spellbook with complex symbols lying open on a desk beside a cup of tea, close-up, warm lamplight"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Về sau: người đọc hiểu rằng Heiter muốn Frieren có một người đồng hành khi ông ra đi. Giống như Himmel với những bức tượng, Heiter chuẩn bị một người bạn cho tương lai của Frieren."
+      },
+      "image_prompt": "two small figures, one older and one younger, walking together along a road at sunrise, back view, wide shot, warm hopeful light",
+      "on_screen_text": "Về sau: một người đồng hành"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Fern trở thành học trò, rồi bạn đồng hành, rồi gần như là gia đình của Frieren. Món quà của Heiter lớn không kém món quà của Himmel."
+      },
+      "image_prompt": "a young girl tying a scarf around a smaller traveler's neck on a cold morning, medium shot, tender warm light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Lần đầu: Eisen, chiến binh người lùn, từng nói rằng ông cũng biết sợ. Trước trận đánh, tay ông cũng run."
+      },
+      "image_prompt": "a pair of large calloused hands trembling slightly while gripping an axe handle, extreme close-up, tense warm light",
+      "chapter": "Chi tiết thêm: Eisen và Stark",
+      "on_screen_text": "Lần đầu: chiến binh cũng biết sợ"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Về sau, Eisen giới thiệu học trò của mình, Stark, gia nhập nhóm của Frieren. Stark là một chiến binh cực mạnh nhưng luôn run rẩy trước mỗi trận."
+      },
+      "image_prompt": "a young warrior standing before a looming shadow with knees shaking but axe raised, dramatic low-angle shot, warm stormy light",
+      "on_screen_text": "Về sau: Stark"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Bài học Eisen truyền lại: sợ hãi không phải là yếu đuối. Người dám bước lên dù đang sợ mới là chiến binh thật sự."
+      },
+      "image_prompt": "a small figure stepping forward on a narrow bridge over a misty chasm, back view, wide shot, dramatic light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Vậy là cả ba người bạn đã khuất hoặc đã già đều để lại cho Frieren một người: Himmel để lại ký ức, Heiter để lại Fern, Eisen để lại Stark."
+      },
+      "image_prompt": "three small gifts placed on a table: a pressed flower, a small spellbook, and a tiny axe charm, still life, warm nostalgic light",
+      "on_screen_text": "Ba món quà"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Lần đầu: trong quá khứ, nhóm anh hùng đã phong ấn những ma tộc nguy hiểm, hoặc để chúng chạy thoát, như ma tộc Aura và Qual."
+      },
+      "image_prompt": "an ancient stone seal glowing faintly in a forest shrine covered with moss, close-up, mysterious green light",
+      "chapter": "Chi tiết 7: những kẻ thù còn dang dở"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Về sau, tám mươi năm sau, Frieren lần lượt đối mặt với chúng. Và mỗi lần, cô hoàn thành những gì nhóm anh hùng đã bỏ dở."
+      },
+      "image_prompt": "a small figure standing before a cracked ancient seal as dark energy begins to leak out, dramatic wide shot, tense light",
+      "on_screen_text": "Tám mươi năm sau"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Ý nghĩa: hành trình của Frieren không chỉ là đi tìm Himmel trong ký ức. Nó cũng là đi hoàn thành câu chuyện mà họ đã cùng nhau bắt đầu."
+      },
+      "image_prompt": "an old unfinished map being completed by a new hand with fresh ink, close-up, warm light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Lần đầu: trong những tập đầu, Frieren biết tới một nơi ở phía bắc xa xôi, nơi linh hồn người chết được cho là yên nghỉ. Ở đó, người ta có thể nói chuyện với người đã khuất."
+      },
+      "image_prompt": "a distant snowy northern land with a faint glowing horizon under a starry sky, wide shot, ethereal cold light",
+      "chapter": "Chi tiết 8: nơi linh hồn yên nghỉ",
+      "on_screen_text": "Lần đầu: nơi linh hồn yên nghỉ"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Frieren quyết định tới đó. Lý do cô nói rất đơn giản: để nói chuyện với Himmel một lần nữa."
+      },
+      "image_prompt": "a small figure with a traveling staff taking the first step onto a long northern road at dawn, back view, wide shot, hopeful light",
+      "on_screen_text": "Để nói chuyện với Himmel"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Ở tập hai, Frieren còn nói rằng cô muốn hiểu con người hơn. Đó là lý do thật sự của hành trình: không chỉ gặp lại Himmel, mà học cách hiểu những người như anh."
+      },
+      "image_prompt": "a small figure sitting on a stone wall watching villagers going about their day, back view, wide shot, curious soft light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Và đó là mục tiêu của cả bộ truyện. Mọi thứ, từ việc nhận Fern làm học trò tới kỳ thi pháp sư, đều nằm trên con đường tới nơi đó."
+      },
+      "image_prompt": "a winding road drawn on parchment leading north with many small stops marked along it, amber ink close-up"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và trên đường đi, Frieren đi qua đúng những nơi nhóm anh hùng từng đi. Mỗi nơi là một ký ức, và mỗi ký ức lại hé lộ thêm một điều về Himmel."
+      },
+      "image_prompt": "an old map with a faded route and a fresh route drawn exactly over it, with small memory icons at each stop, parchment close-up, warm light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku để ý: đây là một hành trình ngược với hành trình cũ. Lần trước, nhóm anh hùng đi để đánh bại Ma vương. Lần này, Frieren đi để hiểu một con người."
+      },
+      "image_prompt": "two maps side by side, one with a dark castle at its end and one with a small flower at its end, parchment close-up, warm light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Và giờ, chi tiết mà Kaku thấy đẹp nhất. Hãy nhớ lại câu Frieren nói ở tập một, khi nhóm anh hùng chia tay: cuộc phiêu lưu chỉ kéo dài mười năm thôi mà."
+      },
+      "image_prompt": "a small figure waving casually at a group of friends walking away on a road, back view, wide shot, warm afternoon light",
+      "chapter": "Chi tiết cài cắm đẹp nhất",
+      "on_screen_text": "Chỉ mười năm thôi"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Người đọc có thể tính: hành trình mới của Frieren cùng Fern và Stark cũng chỉ kéo dài vài năm. Và lần này, cô sống từng ngày của nó, như Himmel đã sống."
+      },
+      "image_prompt": "three travelers sharing a simple meal on a hillside at sunset, laughing together, wide shot, warm golden light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Với cô, mười năm không là gì trong hơn một nghìn năm cuộc đời. Nhưng cả bộ truyện là quá trình Frieren nhận ra mười năm đó quý giá tới mức nào."
+      },
+      "image_prompt": "a tiny glowing segment on a very long timeline scroll, with all attention focused on it, close-up, warm golden light",
+      "on_screen_text": "Mười năm quý giá nhất"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Những bức tượng, chiếc nhẫn, hoa trăng xanh, câu Himmel cũng sẽ làm vậy, tất cả là cách Himmel gửi lại cho Frieren mười năm đó, để cô mang theo suốt phần đời còn lại."
+      },
+      "image_prompt": "a traveler's pack slowly filled with small keepsakes: a ring, a blue flower, a tiny statue, a folded note, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kaku nghĩ đó là chi tiết cài cắm đẹp nhất: Himmel biết mình không thể ở bên Frieren mãi, nên anh cài cắm chính mình vào thế giới của cô."
+      },
+      "image_prompt": "the owl mascot gently placing a pressed flower between the pages of its notebook and closing it",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Tổng kết. Mưa sao băng: một lời hẹn bình thường, thành lần ngắm cuối cùng. Những bức tượng: sự tự luyến, thành món quà để Frieren không cô đơn."
+      },
+      "image_prompt": "a two-column chart on parchment with small before-and-after sketches for the first two details, amber ink close-up",
+      "chapter": "Bảng trước và sau"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Chiếc nhẫn: một món quà ngẫu nhiên, thành lời tỏ tình lặng lẽ. Thanh kiếm: huyền thoại, thành sự thật rằng anh hùng tự chọn mình."
+      },
+      "image_prompt": "the chart with the next two details sketched, amber ink close-up"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Và những món quà của Heiter và Eisen: một cô học trò và một chàng chiến binh, để hành trình mới của Frieren không phải đi một mình."
+      },
+      "image_prompt": "two small bonus sketches added to the chart: a small spellbook and a tiny axe, amber ink close-up"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Hoa trăng xanh: một lời kể, thành việc đầu tiên Frieren làm vì Himmel. Himmel sẽ làm gì: một thói quen, thành cách sống được truyền lại. Và nơi linh hồn yên nghỉ: điểm đến của cả câu chuyện."
+      },
+      "image_prompt": "the completed chart with a small blue flower drawn beside the last entry, amber ink close-up",
+      "on_screen_text": "Toàn bộ chi tiết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Có lẽ bài học lớn nhất của truyện dành cho chúng ta, những người không sống hàng nghìn năm: đừng đợi tới khi mất rồi mới cố hiểu một người."
+      },
+      "image_prompt": "two cups of tea on a small table by a window with one chair still empty, close-up, soft morning light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Frieren là câu chuyện về một người sống rất lâu học cách trân trọng những điều ngắn ngủi. Và Himmel là người dạy cô điều đó, mà không cần nói một lời."
+      },
+      "image_prompt": "a small traveler sitting on a hill at sunset beside a weathered statue, both facing the horizon, back view, wide shot, warm golden light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Bạn thích chi tiết nào nhất về Himmel? Và có ai trong đời bạn đã để lại những dấu vết như vậy cho bạn không? Viết vào bình luận nhé."
+      },
+      "image_prompt": "a comment card drawn on parchment with a tiny ring and a blue flower doodle, close-up, warm light",
+      "on_screen_text": "Chi tiết nào bạn thích nhất?"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở chín hồ sơ đầy lông và móng vuốt: chín Vĩ thú của Naruto, từ Nhất Vĩ tới Cửu Vĩ."
+      },
+      "image_prompt": "nine small index cards arranged in a fan on a table, each with a paw print doodle and a different number of tails, close-up, warm light",
+      "on_screen_text": "Tiếp theo: hồ sơ 9 Vĩ thú"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu video này làm bạn muốn gọi cho một người bạn cũ, hãy gọi đi. Và nếu muốn, đăng ký kênh để Kaku kể thêm nhiều câu chuyện nữa. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot sitting on a hillside under falling meteors, waving goodbye gently",
+      "use_mascot": true
+    }
+  ]
+}

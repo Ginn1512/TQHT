@@ -1,0 +1,648 @@
+{
+  "title": "Dragon Ball: 10 hiểu lầm mà nhiều người tin suốt ba mươi năm",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói về toàn bộ Dragon Ball, Dragon Ball Z và một phần Dragon Ball Super. Với một bộ truyện gần bốn mươi năm tuổi, Kaku tin phần lớn các bạn đã biết, nhưng vẫn nhắc cho chắc."
+      },
+      "image_prompt": "an old orange crystal ball with small red stars inside resting on a stack of worn comic books beside a spoiler card, close-up, warm nostalgic light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: DB, DBZ, một phần DBS"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Goku là người Trái Đất. Kamehameha là chiêu của Goku. Ngọc rồng ước được mọi điều. Nếu bạn gật đầu với cả ba câu này, video này dành cho bạn."
+      },
+      "image_prompt": "three handwritten notes pinned to a wall, each with a large red X drawn over it, close-up, bright playful light",
+      "on_screen_text": "Ai cũng tin, nhưng…"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Dragon Ball là bộ truyện đã theo nhiều thế hệ người Việt, từ những cuốn truyện mỏng mua ở sạp báo tới những buổi chiều xem anime trên tivi. Truyện càng quen, hiểu lầm càng nhiều."
+      },
+      "image_prompt": "a small newsstand with rows of thin colorful comic books clipped on strings, wide shot, warm nostalgic afternoon light",
+      "on_screen_text": "Tuổi thơ của nhiều thế hệ"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku gỡ mười hiểu lầm về Dragon Ball. Mỗi hiểu lầm: người ta tin gì, truyện nói gì, và vì sao dễ hiểu nhầm. Hiểu lầm lớn nhất để dành tới cuối."
+      },
+      "image_prompt": "the owl mascot wearing a tiny martial arts uniform, crossing out items on a checklist with a determined look",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và đúng dịp này, Dragon Ball Super đang được phát lại với phần Thần Hủy Diệt Beerus. Rất nhiều người đang quay lại với Goku, và đây là lúc tốt để làm mới trí nhớ."
+      },
+      "image_prompt": "a TV screen glowing in a cozy living room with a small cat-like silhouette on the screen, wide shot, warm evening light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Dragon Ball là manga của Toriyama Akira, bắt đầu năm 1984. Ông mất ngày một tháng ba năm 2024, để lại một trong những di sản lớn nhất của manga thế giới."
+      },
+      "image_prompt": "a quiet drawing desk with a pen resting beside a blank page and a single flower in a small vase, close-up, soft respectful light",
+      "on_screen_text": "Toriyama Akira · 1984"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Nhiều người mới xem, nhất là chỉ xem phần đầu, nghĩ Goku là một cậu bé người Trái Đất có sức khỏe phi thường và một cái đuôi khỉ."
+      },
+      "image_prompt": "a small boy with a monkey-like tail sitting on a rock in a mountain forest, back view, wide shot, warm morning light",
+      "chapter": "Hiểu lầm 1: Goku là người Trái Đất",
+      "on_screen_text": "Người ta tin: người Trái Đất"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Thật ra, Goku là người Saiyan, một chủng tộc chiến binh từ hành tinh khác. Tên thật của cậu là Kakarot. Cậu được gửi tới Trái Đất khi còn là em bé."
+      },
+      "image_prompt": "a small round space pod crashed in a crater in a forest at dawn, close-up, dramatic soft light",
+      "on_screen_text": "Truyện nói: người Saiyan, tên Kakarot",
+      "video_prompt": "smoke drifts from the crashed pod in the crater as dawn light brightens",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Theo truyện, cậu được gửi tới để chinh phục Trái Đất. Nhưng một cú ngã vào đầu khi còn nhỏ khiến cậu quên nhiệm vụ, và trở thành một đứa trẻ hiền lành."
+      },
+      "image_prompt": "an elderly man lifting a small baby from a crashed pod in a forest, medium shot, warm gentle light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và lúc đó, Goku đã là một người cha. Sự thật về nguồn gốc không làm cậu thay đổi. Cậu vẫn chọn Trái Đất là quê hương."
+      },
+      "image_prompt": "a father holding a small child's hand on a hillside overlooking a peaceful valley, back view, wide shot, warm sunset light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì sự thật này được tiết lộ khá muộn, khi Raditz, anh trai của Goku, xuất hiện ở đầu Dragon Ball Z. Phần Dragon Ball đầu tiên không nói gì về nó."
+      },
+      "image_prompt": "a dark figure descending from the sky over a green field, casting a long shadow, wide shot, ominous light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Và cái đuôi khỉ của Goku, thứ tưởng chỉ để trông dễ thương, hóa ra là manh mối từ đầu: người Saiyan có đuôi, và biến thành khỉ đột khổng lồ khi nhìn trăng tròn."
+      },
+      "image_prompt": "a full moon glowing over a quiet forest with a giant ape-like shadow cast on the trees below, wide shot, eerie silver light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Kaku thấy đây là một trong những bước ngoặt hay nhất: nhân vật chính ta đã quen hơn trăm chương hóa ra thuộc về một chủng tộc chinh phạt, nhưng chọn sống như một người Trái Đất."
+      },
+      "image_prompt": "a small boy standing between a green Earth landscape and a distant red planet in the sky, symbolic wide shot, contrasting light"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Kamehameha, chiêu thức nổi tiếng nhất Dragon Ball. Ai cũng gắn nó với Goku, như thể Goku phát minh ra nó."
+      },
+      "image_prompt": "two cupped hands drawn back at the hip with a bright blue light gathering between them, close-up, glowing blue light",
+      "chapter": "Hiểu lầm 2: Kamehameha là chiêu của Goku",
+      "on_screen_text": "Người ta tin: chiêu của Goku",
+      "video_prompt": "the blue light between the cupped hands grows brighter and pulses",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Quy lão tên thật là Muten Roshi, sống trên một hòn đảo nhỏ với căn nhà màu hồng. Ông là người dạy võ cho cả Goku lẫn Krillin khi còn nhỏ."
+      },
+      "image_prompt": "a small pink house on a tiny tropical island surrounded by turquoise sea, wide shot, bright sunny light"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Thật ra, người sáng tạo ra Kamehameha là Quy lão tiên sinh, Muten Roshi, thầy của Goku. Ông nói mình mất năm mươi năm để hoàn thiện nó."
+      },
+      "image_prompt": "an elderly martial arts master with a turtle shell on his back standing on a small tropical island, back view, wide shot, bright sunny light",
+      "on_screen_text": "Truyện nói: Quy lão, 50 năm"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và Goku, lần đầu nhìn thấy, bắt chước được ngay, dù ở mức nhỏ. Ông già Quy lão sốc tới mức không nói nên lời."
+      },
+      "image_prompt": "a small blast of blue light shooting from a child's hands and hitting a parked car, humorous wide shot, bright light"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Nhiều người khác trong truyện cũng dùng Kamehameha: Krillin, Yamcha, Gohan, cả Cell. Nó là chiêu của trường phái Quy lão, không phải của riêng ai."
+      },
+      "image_prompt": "several silhouettes of different fighters each striking the same hand pose side by side, wide shot, bright blue light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì Goku dùng chiêu này nhiều nhất, và dùng mạnh nhất. Người sáng tạo thì dần lui về làm một ông già vui tính."
+      },
+      "image_prompt": "an old master sitting on a beach chair reading a magazine while a young fighter trains in the background, humorous wide shot, sunny light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Tên Kamehameha cũng có một gốc thú vị: nó giống tên một vị vua Hawaii có thật, Kamehameha đệ nhất."
+      },
+      "image_prompt": "a tropical island coastline with palm trees and a distant volcanic mountain under a bright sky, wide shot, warm light",
+      "on_screen_text": "Tên vua Hawaii"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Gom đủ bảy viên ngọc rồng, gọi rồng thần, và ước bất cứ điều gì. Đó là điều mà ai cũng nhớ."
+      },
+      "image_prompt": "seven small orange crystal balls glowing in a circle on the ground under a darkening sky, overhead shot, magical light",
+      "chapter": "Hiểu lầm 3: Ngọc rồng ước được mọi điều",
+      "on_screen_text": "Người ta tin: ước mọi điều",
+      "video_prompt": "the seven crystal balls glow brighter as the sky darkens overhead",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Thật ra, rồng thần có giới hạn. Sức mạnh của rồng không vượt quá sức mạnh của người tạo ra nó. Nên rồng không thể giết một kẻ mạnh hơn người tạo ra ngọc rồng."
+      },
+      "image_prompt": "a giant serpentine dragon silhouette coiled in a stormy sky, shaking its head slowly, low-angle shot, dramatic light",
+      "on_screen_text": "Truyện nói: có giới hạn"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Rồng thần Trái Đất cũng không thể hồi sinh một người đã được hồi sinh một lần trước đó, và không hồi sinh người chết vì tuổi già hay bệnh tật tự nhiên."
+      },
+      "image_prompt": "a list of rules on an old parchment scroll with several lines crossed out, close-up, amber ink",
+      "on_screen_text": "Luật hồi sinh"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Sau mỗi lần ước, ngọc rồng hóa thành đá và bay tán loạn khắp thế giới trong một năm. Muốn ước lần nữa, phải đi tìm lại từ đầu. Đó là lý do mỗi điều ước đều quý."
+      },
+      "image_prompt": "seven grey stones scattering into the sky in different directions from a clearing, wide shot, dramatic evening light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Và mỗi bộ ngọc rồng khác nhau có luật khác nhau. Ngọc rồng Namek có thể thực hiện ba điều ước, và luật hồi sinh cũng khác."
+      },
+      "image_prompt": "two sets of crystal balls side by side, one small set and one larger set, on a rocky alien landscape, wide shot, green sky light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Có những điều ước nổi tiếng không liên quan tới sức mạnh: như lần đầu tiên, một điều ước bị cướp mất bởi một yêu cầu rất đời thường, một chiếc quần lót. Dragon Ball ngay từ đầu đã không nghiêm túc lắm."
+      },
+      "image_prompt": "a giant dragon silhouette in the sky looking puzzled as a small piece of cloth floats down from above, humorous wide shot, playful light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì những luật này được thêm dần qua từng arc, thường đúng lúc câu chuyện cần một giới hạn."
+      },
+      "image_prompt": "a rulebook with sticky notes added at different pages over time, close-up, warm light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kaku để ý: nhờ những giới hạn này, cái chết trong Dragon Ball vẫn có sức nặng, dù ngọc rồng có thể hồi sinh người."
+      },
+      "image_prompt": "the owl mascot holding a tiny crystal ball up to the light, examining it carefully",
+      "use_mascot": true
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Nhiều người nghĩ Goku luôn là người thắng trận quyết định."
+      },
+      "image_prompt": "a victory podium with a single fighter standing on the top step, crowd cheering, wide shot, bright stadium light",
+      "chapter": "Hiểu lầm 4: Goku luôn thắng",
+      "on_screen_text": "Người ta tin: Goku luôn thắng"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Thật ra, Goku thua khá nhiều. Ở hai giải Thiên hạ đệ nhất võ đạo hội đầu tiên, cậu đều về nhì. Lần đầu thua chính thầy mình đang cải trang, lần hai thua Thiên Tân Hán."
+      },
+      "image_prompt": "a tournament ring with a young fighter sitting on the ground laughing while another fighter stands victorious, medium shot, bright light",
+      "on_screen_text": "Về nhì hai lần"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Và trong arc Cell, người đánh bại Cell không phải Goku, mà là con trai cậu, Gohan. Goku chủ động rút lui để Gohan ra sân."
+      },
+      "image_prompt": "a young fighter standing in a ruined arena facing a towering silhouette while an older fighter watches from the side, wide shot, dramatic light",
+      "on_screen_text": "Gohan đánh bại Cell"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kaku nghĩ chính những trận thua mới làm Goku hấp dẫn. Cậu không phải người được sinh ra để thắng, mà là người không ngừng muốn giỏi hơn sau mỗi lần thua."
+      },
+      "image_prompt": "a young fighter bowing respectfully to an opponent after a lost match in a tournament ring, medium shot, warm light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì Goku luôn là trung tâm của áp phích, trò chơi, và ký ức của người xem. Nhưng truyện thường để người khác thắng những trận quan trọng."
+      },
+      "image_prompt": "a large poster on a wall featuring one fighter in the center with several smaller figures around the edges, close-up, bright light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Frieza biến hình nhiều lần trên Namek. Nhiều người nghĩ mỗi lần biến là Frieza tạo ra một cơ thể mạnh hơn."
+      },
+      "image_prompt": "a sequence of four shadowy alien silhouettes of different shapes lined up from left to right, symbolic wide shot, dramatic purple light",
+      "chapter": "Hiểu lầm 5: dạng cuối của Frieza là dạng mạnh nhất được tạo ra",
+      "on_screen_text": "Người ta tin: biến hình để mạnh hơn"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Thật ra, dạng cuối cùng mà ta thấy trên Namek mới là cơ thể gốc của Frieza. Những dạng trước là các lớp để kìm nén sức mạnh, vì sức mạnh gốc của hắn quá lớn để kiểm soát thường ngày."
+      },
+      "image_prompt": "a sleek small silhouette standing calmly in a stormy alien landscape as shed outer shells lie around it, dramatic low-angle shot, cold light",
+      "on_screen_text": "Truyện nói: dạng cuối là dạng gốc",
+      "video_prompt": "the outer shells crack and fall away as the small figure stands calmly in the storm",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Nghĩa là mỗi lần biến hình, Frieza không trở nên lớn hơn, mà là cởi bỏ lớp kìm hãm. Thứ đáng sợ nhất lại là hình dạng nhỏ gọn nhất."
+      },
+      "image_prompt": "a heavy set of armor pieces falling away from a small figure revealing a glowing core, symbolic close-up, dramatic light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Và về sau, trong Dragon Ball Super, Frieza còn luyện tập và có thêm những dạng mới. Nhưng dạng gốc vẫn là chìa khóa để hiểu tính cách hắn: luôn kìm nén, luôn tính toán."
+      },
+      "image_prompt": "a small calm silhouette standing in a training field with a faint golden aura, wide shot, cold dramatic light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì trong phần lớn truyện tranh, biến hình thường có nghĩa là thêm sức mạnh. Frieza làm ngược lại."
+      },
+      "image_prompt": "a comparison drawing: a figure growing larger with arrows on one side, and a figure shrinking and glowing brighter on the other, parchment close-up, amber ink"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Piccolo, Kami, Nail, Dende. Tất cả người Namek trông giống nam giới. Nhiều người mặc định họ là một chủng tộc toàn nam."
+      },
+      "image_prompt": "a group of tall green-skinned silhouettes with antennae standing on a hill under a green sky, wide shot, soft alien light",
+      "chapter": "Hiểu lầm 6: người Namek là nam",
+      "on_screen_text": "Người ta tin: toàn nam"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Thật ra, người Namek không có giới tính. Họ sinh sản vô tính, bằng cách nhả ra một quả trứng từ miệng."
+      },
+      "image_prompt": "a large white egg resting on soft moss on an alien planet with blue grass, close-up, gentle green light",
+      "on_screen_text": "Truyện nói: vô tính, đẻ trứng từ miệng"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Đó là lý do Piccolo, dù nói chuyện như một người đàn ông, lại là người chăm sóc Gohan như một người cha lẫn người mẹ."
+      },
+      "image_prompt": "a tall green silhouette carrying a small child on its shoulders through a quiet forest, back view, wide shot, warm tender light"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Người Namek còn có thể hợp thể với nhau, khi hai người Namek hòa làm một để mạnh hơn. Piccolo từng hợp thể với Nail và với Kami."
+      },
+      "image_prompt": "two tall green silhouettes merging into one in a burst of soft light, symbolic wide shot, alien green light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì trong bản dịch và giọng lồng tiếng, người Namek thường được gọi bằng đại từ nam. Và Dragon Ball không bao giờ dừng lại để giải thích dài dòng."
+      },
+      "image_prompt": "a dubbing studio microphone in front of a script page with a highlighted pronoun, close-up, warm studio light"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Nhiều người nghĩ Dragon Ball và Dragon Ball Z là hai bộ truyện khác nhau, của hai giai đoạn khác nhau."
+      },
+      "image_prompt": "two separate manga volumes placed apart on a shelf with a gap between them, close-up, warm light",
+      "chapter": "Hiểu lầm 7: Dragon Ball Z là một truyện khác",
+      "on_screen_text": "Người ta tin: hai truyện khác nhau"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Thật ra, manga gốc ở Nhật chỉ có một tên: Dragon Ball. Chữ Z là tên của bộ anime chuyển thể phần sau của truyện, kể từ khi Goku trưởng thành và Raditz xuất hiện."
+      },
+      "image_prompt": "a single continuous manga series spine with a small letter Z sticker added halfway along it, close-up, playful light",
+      "on_screen_text": "Truyện nói: manga chỉ có một tên"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Sau đó còn có Dragon Ball GT, một phần chỉ có ở anime, và Dragon Ball Super, có cả manga lẫn anime. Rồi năm 2024 là Dragon Ball Daima. Dòng thời gian ngày càng nhiều nhánh."
+      },
+      "image_prompt": "a branching timeline drawn on parchment with several labeled branches spreading from a single trunk, amber ink close-up"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Ở một số nước, phần sau của manga cũng được in với tên Dragon Ball Z để khớp với anime. Vì vậy sự phân chia càng thêm rõ trong trí nhớ người đọc."
+      },
+      "image_prompt": "a stack of foreign-edition comic books with different cover designs, close-up, bright light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku để ý: chữ Z được Toriyama chọn đơn giản vì nó là chữ cái cuối cùng, như một lời hứa rằng đây là phần cuối. Rồi sau đó, câu chuyện vẫn tiếp tục thêm nhiều năm."
+      },
+      "image_prompt": "the owl mascot holding up a large letter Z sign and then looking sheepish as more pages appear behind it",
+      "use_mascot": true
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Vegeta, hoàng tử Saiyan. Nhiều người chỉ nhớ anh như đối thủ kiêu ngạo của Goku, luôn thua một bước."
+      },
+      "image_prompt": "a proud silhouette with arms crossed standing on a rocky cliff, looking away from another figure in the distance, wide shot, dramatic sunset light",
+      "chapter": "Hiểu lầm 8: Vegeta chỉ là đối thủ",
+      "on_screen_text": "Người ta tin: chỉ là đối thủ"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Thật ra, Vegeta có một trong những hành trình thay đổi lớn nhất truyện: từ kẻ xâm lược tàn nhẫn thành người chồng, người cha, và người bảo vệ Trái Đất."
+      },
+      "image_prompt": "a man in a training suit teaching a small child to throw a punch in a backyard, medium shot, warm afternoon light",
+      "on_screen_text": "Truyện nói: hành trình thay đổi"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Và câu nói nổi tiếng của Vegeta về việc sức mạnh của Goku vượt quá chín nghìn, trong bản lồng tiếng tiếng Anh, đã trở thành một trong những câu đùa lan truyền nhất trên mạng, dù trong bản gốc con số khác."
+      },
+      "image_prompt": "an old scouter-like device display showing a large number with a crack across the screen, humorous close-up, green glow"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Trong arc Buu, Vegeta chấp nhận hy sinh bản thân để bảo vệ gia đình, và cuối cùng thừa nhận Goku mạnh hơn mình. Đó là một khoảnh khắc trưởng thành rất lớn."
+      },
+      "image_prompt": "a lone figure standing in a vast barren landscape with glowing energy around him, arms outstretched protectively, wide shot, dramatic golden light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Trong Dragon Ball Super, Vegeta còn có những khoảnh khắc làm cha rất dễ thương. Một người từng phá hủy các hành tinh, giờ dắt con gái đi chơi."
+      },
+      "image_prompt": "a proud man holding a small child's hand walking through a sunny park, back view, wide shot, warm gentle light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì câu nói và vẻ kiêu ngạo của Vegeta quá nổi bật. Người ta nhớ câu nói, mà quên hành trình."
+      },
+      "image_prompt": "a speech bubble with an exclamation point floating above a crowd of meme-like doodles, humorous close-up, bright light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Goku là anh hùng, nên chắc hẳn cậu chiến đấu vì công lý, vì bảo vệ Trái Đất."
+      },
+      "image_prompt": "a heroic silhouette standing on a mountain peak with the sun behind him, low-angle shot, dramatic heroic light",
+      "chapter": "Hiểu lầm 9: Goku chiến đấu vì công lý",
+      "on_screen_text": "Người ta tin: vì công lý"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Thật ra, động lực lớn nhất của Goku là được đấu với người mạnh. Cậu vui khi gặp đối thủ khó, và nhiều lần còn tha cho kẻ thù để sau này được đấu lại."
+      },
+      "image_prompt": "a fighter grinning widely while facing a much larger opponent in a ruined arena, medium shot, bright energetic light",
+      "on_screen_text": "Truyện nói: vì thích đấu"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Chichi, vợ Goku, thường than phiền rằng chồng mình chỉ nghĩ tới đánh nhau. Qua cô, bộ truyện cũng tự chế giễu chính nhân vật chính của mình."
+      },
+      "image_prompt": "a woman with hands on her hips scolding a sheepish fighter in a cozy kitchen, humorous medium shot, warm homely light"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Có lần Goku cho Frieza hay Cell cơ hội hồi phục để trận đấu công bằng hơn, khiến bạn bè cậu bực mình. Cậu bảo vệ Trái Đất, nhưng không phải vì cậu coi mình là anh hùng."
+      },
+      "image_prompt": "a small glowing bean being tossed through the air toward an injured opponent in a battlefield, dynamic close-up, dramatic light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì kết quả là như nhau: Goku luôn bảo vệ Trái Đất. Nhưng lý do thì không phải kiểu anh hùng truyền thống. Chính điều đó làm Goku khác biệt."
+      },
+      "image_prompt": "a comparison drawing: a caped hero silhouette on one side and a grinning martial artist silhouette on the other, parchment close-up, amber ink"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Và đây là hiểu lầm lớn nhất. Nhiều người chỉ biết Dragon Ball qua những trận đánh nổ tung hành tinh, và nghĩ ngay từ đầu nó đã là truyện đánh nhau."
+      },
+      "image_prompt": "a planet exploding in space with streaks of energy in the foreground, wide shot, dramatic light",
+      "chapter": "Hiểu lầm 10, lớn nhất: Dragon Ball ban đầu là truyện đánh nhau",
+      "on_screen_text": "Người ta tin: truyện đánh nhau"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Thật ra, Dragon Ball bắt đầu là một câu chuyện phiêu lưu hài hước, lấy cảm hứng từ Tây Du Ký. Goku, với cái đuôi khỉ, cây gậy như ý và đám mây bay, là một phiên bản của Tôn Ngộ Không."
+      },
+      "image_prompt": "a small boy with a monkey tail riding a golden cloud over mountains while holding a long staff, wide shot, bright adventurous light",
+      "on_screen_text": "Truyện nói: gốc từ Tây Du Ký",
+      "video_prompt": "the golden cloud glides over the mountains carrying the small boy",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Bulma là một thiên tài khoa học, người tạo ra máy dò ngọc rồng, và về sau là cỗ máy thời gian. Không có cô, sẽ không có hành trình nào bắt đầu."
+      },
+      "image_prompt": "a young inventor tinkering with a small round radar device on a workbench full of gadgets, close-up, bright workshop light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Phần đầu là chuyến đi tìm ngọc rồng cùng cô gái Bulma, với rất nhiều trò đùa, chuyện kỳ quặc, và những nhân vật vui nhộn. Các giải đấu võ thuật được thêm vào sau."
+      },
+      "image_prompt": "a small group of travelers on a winding desert road with a quirky capsule car, humorous wide shot, warm sunny light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Người Việt rất quen với Tây Du Ký, nên nếu đọc lại những chương đầu, bạn sẽ thấy rất nhiều chỗ nháy mắt: cây gậy dài ra theo ý muốn, đám mây chỉ người tốt bụng mới ngồi được, và một chuyến đi về phía tây."
+      },
+      "image_prompt": "an old illustrated book of an ancient pilgrimage legend lying open beside a modern comic, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Nếu bạn chưa từng đọc phần đầu, Kaku khuyên thử đọc lại hai, ba tập đầu tiên. Bạn sẽ gặp một Goku rất khác: ngây thơ, hài hước, và chưa biết mình sẽ trở thành huyền thoại."
+      },
+      "image_prompt": "a small stack of the first few comic volumes placed on a bedside table with a lamp on, close-up, cozy warm light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì phần đánh nhau quá nổi tiếng, và anime Z được phát rộng rãi hơn. Nhiều người chưa bao giờ đọc những chương đầu."
+      },
+      "image_prompt": "a bookshelf where the later volumes are worn from reading while the first volumes remain untouched, close-up, soft light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku nghĩ đây là bài học lớn nhất: Dragon Ball không mạnh vì những trận đánh, mà vì tinh thần phiêu lưu và tiếng cười mà Toriyama đặt vào từ trang đầu tiên."
+      },
+      "image_prompt": "the owl mascot riding a tiny golden cloud with a joyful expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Trước khi tổng kết, Kaku tặng thêm ba hiểu lầm nhỏ, vui hơn và ít ai để ý."
+      },
+      "image_prompt": "a small gift box tied with an orange ribbon on a stack of comics, close-up, cheerful light",
+      "chapter": "Ba hiểu lầm nhỏ tặng thêm",
+      "on_screen_text": "Tặng thêm 3 hiểu lầm nhỏ"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Hiểu lầm nhỏ một: tóc vàng của Super Saiyan được chọn vì trông ngầu. Toriyama từng chia sẻ một lý do rất đời: tóc để trắng trên bản in đen trắng thì trợ lý không phải tô mực đen, đỡ tốn công."
+      },
+      "image_prompt": "a manga page in progress with some hair areas left blank white while an ink bottle sits nearby, close-up, warm studio light",
+      "on_screen_text": "Tóc vàng để đỡ tô mực"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Hiểu lầm nhỏ hai: Krillin không có mũi là do vẽ thiếu. Không, Toriyama cố ý vẽ vậy, và nhân vật trong truyện cũng từng đùa về chuyện đó."
+      },
+      "image_prompt": "a small doodle of a smiling face with no nose drawn on a sketchbook page with an arrow and a laughing note, close-up, playful light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hiểu lầm nhỏ ba: Goku biết bay từ đầu. Không, lúc nhỏ Goku phải cưỡi đám mây bay. Cậu chỉ học cách tự bay khi đã lớn và luyện tập nhiều hơn."
+      },
+      "image_prompt": "a small boy clinging happily to a golden cloud flying low over a green valley, wide shot, bright playful light",
+      "on_screen_text": "Goku phải cưỡi mây"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Kaku thấy những chi tiết nhỏ này cho thấy Toriyama là một họa sĩ rất thực tế, và rất hài hước. Ông vẽ để vui, và điều đó thấm vào từng trang."
+      },
+      "image_prompt": "the owl mascot laughing while holding up a small sketch of a cloud",
+      "use_mascot": true
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Tổng kết mười hiểu lầm. Goku là người Saiyan tên Kakarot. Kamehameha là của Quy lão. Ngọc rồng có giới hạn. Goku thua nhiều hơn bạn nghĩ. Dạng cuối của Frieza là dạng gốc."
+      },
+      "image_prompt": "a checklist on parchment with the first five items checked in green ink, close-up, warm light",
+      "chapter": "Bảng tổng kết"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Người Namek không có giới tính. Dragon Ball Z là tên anime, không phải truyện khác. Vegeta có hành trình trưởng thành lớn. Goku chiến đấu vì thích đấu. Và Dragon Ball bắt đầu từ Tây Du Ký."
+      },
+      "image_prompt": "the completed checklist with all ten items checked and a gold star beside the last, close-up, warm triumphant light",
+      "on_screen_text": "10 hiểu lầm đã gỡ"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Cộng thêm ba hiểu lầm nhỏ: tóc vàng để đỡ tô mực, Krillin cố ý không có mũi, và Goku lúc nhỏ phải cưỡi mây."
+      },
+      "image_prompt": "three small bonus items added to the bottom of the checklist in a different ink, close-up, amber and orange ink"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Bạn đã từng tin hiểu lầm nào? Viết vào bình luận, và nếu bạn biết thêm hiểu lầm khác, Kaku sẽ gom lại cho một phần hai."
+      },
+      "image_prompt": "a comment card drawn on parchment with a tiny crystal ball doodle and a question mark, close-up, warm light",
+      "on_screen_text": "Bạn từng tin hiểu lầm nào?"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Trước khi kết thúc, Kaku muốn dành vài giây cho Toriyama Akira. Ông không chỉ vẽ Dragon Ball, mà còn thiết kế nhân vật cho những trò chơi mà nhiều thế hệ đã lớn lên cùng."
+      },
+      "image_prompt": "a drawing desk with scattered sketches of whimsical vehicles and creatures, a pen resting across them, close-up, warm respectful light",
+      "chapter": "Lời cảm ơn Toriyama"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Phong cách của ông, những cỗ máy tròn tròn, những nhân vật vừa ngầu vừa ngộ nghĩnh, đã ảnh hưởng tới rất nhiều họa sĩ manga sau này."
+      },
+      "image_prompt": "a row of manga volumes from different artists on a shelf with a small older volume placed at the start, close-up, warm light"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Toriyama từng nói, đại ý, rằng ông chỉ muốn vẽ những thứ làm người đọc vui. Có lẽ đó là lý do Dragon Ball vẫn làm chúng ta vui, gần bốn mươi năm sau."
+      },
+      "image_prompt": "a small smiling doodle drawn in the corner of a manga page beside a signature-like squiggle, close-up, warm light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku mong rằng lần tới bạn mở lại Dragon Ball, bạn sẽ bắt đầu từ trang đầu tiên, nơi một cậu bé có đuôi khỉ gặp một cô gái đang đi tìm ngọc rồng."
+      },
+      "image_prompt": "the first page of an old comic book being opened by a pair of hands, warm golden light spilling out, close-up, nostalgic light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku leo một bậc thang khác: One Piece, từ Gear 2 tới Gear 5, mỗi nấc là một cách Luffy vượt giới hạn cơ thể mình."
+      },
+      "image_prompt": "a staircase of glowing steps rising into the clouds with a small hat resting on the lowest step, wide shot, adventurous light",
+      "chapter": "Kết",
+      "on_screen_text": "Tiếp theo: Gear 2 tới Gear 5"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu video này giúp bạn nhìn Dragon Ball khác đi một chút, hãy đăng ký kênh. Và nếu có ai hỏi Goku là người ở đâu, bạn biết trả lời rồi đấy. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot waving goodbye from atop a small golden cloud drifting across the sky",
+      "use_mascot": true
+    }
+  ]
+}

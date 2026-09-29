@@ -1,0 +1,719 @@
+{
+  "title": "Naruto: Hồ sơ 9 Vĩ thú — tên, sức mạnh và nhân trụ lực",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết Naruto Shippuden, kể cả nguồn gốc của Vĩ thú trong Đại chiến ninja lần thứ tư."
+      },
+      "image_prompt": "a thick case file with nine colored tabs sticking out, resting on a wooden desk beside a spoiler card, close-up, warm lamplight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết Shippuden"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hồ sơ số chín. Loài: cáo khổng lồ. Số đuôi: chín. Sức mạnh: đủ để san phẳng một ngôi làng. Nhân trụ lực hiện tại: một cậu bé tóc vàng từng bị cả làng xa lánh."
+      },
+      "image_prompt": "an official-looking dossier card with a large paw print and nine tally marks, stamped with a red seal, close-up, dramatic warm light",
+      "on_screen_text": "Hồ sơ số 9"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trong thế giới Naruto có chín sinh vật khổng lồ, mỗi con mang một lượng chakra khổng lồ, gọi là Vĩ thú. Người ta sợ chúng, giam chúng, và dùng chúng làm vũ khí."
+      },
+      "image_prompt": "nine enormous animal silhouettes standing on distant mountains under a dramatic sky, wide shot, epic light",
+      "on_screen_text": "Chín Vĩ thú"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Nhưng ít ai hỏi: Vĩ thú muốn gì? Chúng có tên không? Và vì sao chúng ghét con người?"
+      },
+      "image_prompt": "a single large eye glowing in the darkness of a cave, close-up, mysterious light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở chín hồ sơ Vĩ thú. Mỗi hồ sơ có năm dòng: tên, hình dạng, sức mạnh, nhân trụ lực, và làng giữ nó. Cuối video là mục lục đầy đủ."
+      },
+      "image_prompt": "the owl mascot wearing tiny reading glasses flipping open the first of nine folders",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trước khi có chín Vĩ thú, chỉ có một sinh vật: Thập Vĩ, con quái vật mười đuôi, gắn với một cây thần cổ xưa."
+      },
+      "image_prompt": "a colossal ten-tailed silhouette looming over an ancient barren landscape with a giant tree in the distance, wide shot, ominous red light",
+      "chapter": "Nguồn gốc: Thập Vĩ",
+      "on_screen_text": "Thập Vĩ"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Lục Đạo Tiên Nhân, Otsutsuki Hagoromo, đánh bại Thập Vĩ và phong ấn nó vào chính cơ thể mình. Ông trở thành nhân trụ lực đầu tiên."
+      },
+      "image_prompt": "a robed sage silhouette standing calmly as swirling energy is drawn into his body, symbolic wide shot, radiant light",
+      "on_screen_text": "Nhân trụ lực đầu tiên"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trước khi chết, ông chia chakra của Thập Vĩ thành chín phần, tạo ra chín Vĩ thú. Và ông đặt cho mỗi con một cái tên."
+      },
+      "image_prompt": "a single large flame splitting into nine smaller flames floating in a circle, symbolic close-up, warm golden light",
+      "on_screen_text": "Chia thành 9 và đặt tên",
+      "video_prompt": "the large flame splits and nine smaller flames drift into a circle",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Hagoromo coi chúng như con của mình. Ông nói với chúng rằng một ngày nào đó sẽ có người hiểu chúng. Lời hứa đó phải chờ gần một nghìn năm."
+      },
+      "image_prompt": "an old sage sitting on a rock surrounded by nine small animal silhouettes listening to him, wide shot, gentle sunset light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku để ý: con người trong truyện gần như không ai biết Vĩ thú có tên. Họ gọi chúng bằng số đuôi, như gọi một món vũ khí. Chính điều đó cho thấy vấn đề."
+      },
+      "image_prompt": "a row of labels with numbers one to nine stuck over crossed-out names, close-up, cold light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Về sau, Hashirama, Hokage đệ nhất, bắt giữ nhiều Vĩ thú và chia chúng cho các làng ninja lớn để giữ cân bằng quyền lực."
+      },
+      "image_prompt": "a large map with five village symbols and small beast icons distributed among them, parchment close-up, amber ink",
+      "chapter": "Luật: nhân trụ lực và cân bằng quyền lực",
+      "on_screen_text": "Chia cho các làng"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Để kiểm soát Vĩ thú, các làng phong ấn chúng vào cơ thể con người. Người đó gọi là nhân trụ lực."
+      },
+      "image_prompt": "a glowing seal pattern drawn on a stone floor with a small figure standing at its center, overhead shot, mystical light",
+      "on_screen_text": "Nhân trụ lực"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhân trụ lực có thể mượn chakra của Vĩ thú. Nhưng họ thường bị cả làng sợ hãi, xa lánh, như thể chính họ là con quái vật."
+      },
+      "image_prompt": "a lonely child sitting on a swing in an empty playground at dusk while other children walk away, wide shot, melancholy light",
+      "on_screen_text": "Bị xa lánh"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và nếu Vĩ thú bị rút ra khỏi cơ thể, nhân trụ lực thường không sống sót. Đó là lý do tổ chức Akatsuki săn lùng họ."
+      },
+      "image_prompt": "a black cloak with a red cloud pattern hanging in a dark cave entrance, close-up, ominous light",
+      "on_screen_text": "Akatsuki săn lùng"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Trước khi mở từng hồ sơ, Kaku ghi những sức mạnh mà Vĩ thú nào cũng có. Một: lượng chakra khổng lồ, càng nhiều đuôi thì thường càng nhiều chakra."
+      },
+      "image_prompt": "a row of nine glowing orbs of increasing size on a dark table, close-up, dramatic warm light",
+      "chapter": "Sức mạnh chung của Vĩ thú",
+      "on_screen_text": "Nhiều đuôi, nhiều chakra"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Hai: Vĩ thú ngọc, một khối cầu chakra nén cực mạnh, bắn ra có thể phá hủy cả một vùng rộng lớn."
+      },
+      "image_prompt": "a dense sphere of dark energy with swirling light at its core hovering in the air above a landscape, dramatic close-up, intense light",
+      "on_screen_text": "Vĩ thú ngọc"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Ba: nhân trụ lực có thể biến hình theo nhiều cấp: mọc một vài đuôi bằng chakra, khoác áo chakra, rồi hóa thành toàn bộ Vĩ thú. Càng lên cao, càng khó kiểm soát."
+      },
+      "image_prompt": "three silhouette sketches side by side showing a figure with a faint aura, a figure with energy tails, and a giant beast shape, parchment close-up, amber ink",
+      "on_screen_text": "Các cấp biến hình"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Và người kiểm soát được Vĩ thú hoàn toàn, hợp tác thay vì bị chiếm lấy, được gọi là nhân trụ lực hoàn hảo. Rất ít người làm được."
+      },
+      "image_prompt": "a figure standing calmly with a massive gentle shadow behind them, both looking in the same direction, symbolic wide shot, warm light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Naruto không phải nhân trụ lực đầu tiên của Cửu Vĩ. Người đầu tiên là Uzumaki Mito, vợ của Hokage đệ nhất Hashirama."
+      },
+      "image_prompt": "an elegant woman's silhouette standing in a traditional garden with a faint seal pattern glowing on the ground, wide shot, soft historical light",
+      "chapter": "Những nhân trụ lực trước Naruto",
+      "on_screen_text": "Uzumaki Mito"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Người thứ hai là Uzumaki Kushina, mẹ của Naruto. Tộc Uzumaki có sinh lực và chakra đặc biệt mạnh, nên thích hợp để giữ Cửu Vĩ."
+      },
+      "image_prompt": "a woman with a gentle smile holding a newborn wrapped in a blanket, medium shot, warm tender light",
+      "on_screen_text": "Uzumaki Kushina"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Đêm Naruto chào đời, Cửu Vĩ bị giải phóng khỏi Kushina và tấn công làng. Cha mẹ Naruto hy sinh để phong ấn nó vào chính con trai mình."
+      },
+      "image_prompt": "a night sky over a village glowing orange with a colossal silhouette in the distance, two small figures standing protectively over a cradle, wide shot, dramatic light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku để ý: ba đời nhân trụ lực Cửu Vĩ đều là tộc Uzumaki. Cửu Vĩ gần như là một phần lịch sử gia đình của Naruto."
+      },
+      "image_prompt": "the owl mascot looking at a small family tree with three names circled and a fox doodle beside them",
+      "use_mascot": true
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Hồ sơ số một: Shukaku, Nhất Vĩ. Hình dạng: một con lửng chó khổng lồ, thân làm bằng cát, có hoa văn trên người."
+      },
+      "image_prompt": "a giant raccoon-dog shaped silhouette formed from swirling desert sand, low-angle shot, harsh sunlight",
+      "chapter": "Hồ sơ 1: Shukaku, Nhất Vĩ",
+      "on_screen_text": "Hồ sơ 1: Shukaku",
+      "video_prompt": "sand swirls upward and the giant silhouette takes shape in the harsh sunlight",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Sức mạnh: điều khiển cát, và phong ấn phép thuật. Tính cách: hung hăng, ồn ào, thích gây sự."
+      },
+      "image_prompt": "a massive wave of sand rising from the desert and curling like a hand, dynamic wide shot, golden dusty light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Cha của Gaara, Kazekage, đã cố tình phong ấn Shukaku vào con mình trước khi sinh, để tạo ra vũ khí cho làng. Gaara lớn lên tin rằng không ai yêu mình."
+      },
+      "image_prompt": "a lonely child standing in a desert courtyard while adults watch coldly from a balcony above, wide shot, harsh bright light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Nhân trụ lực: Gaara, làng Cát. Gaara từng là một đứa trẻ cô độc, không ngủ được vì sợ Shukaku chiếm lấy cơ thể mình khi ngủ."
+      },
+      "image_prompt": "a small boy sitting alone on a rooftop at night staring at a full moon over a desert village, back view, wide shot, cold blue light",
+      "on_screen_text": "Gaara, làng Cát"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Sau khi gặp Naruto, Gaara thay đổi và trở thành Kazekage. Nhất Vĩ là con Vĩ thú đầu tiên cho thấy nhân trụ lực có thể được làng mình yêu quý."
+      },
+      "image_prompt": "a young leader standing on a balcony above a desert village as crowds cheer below, wide shot, warm sunrise light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Mức nguy hiểm: trung bình. Mức bị hiểu lầm: rất cao."
+      },
+      "image_prompt": "a small dossier stamp with a medium danger rating beside a heart icon, close-up, amber ink"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Hồ sơ số hai: Matatabi, Nhị Vĩ. Hình dạng: một con mèo khổng lồ phủ ngọn lửa xanh."
+      },
+      "image_prompt": "a giant cat silhouette wreathed in flickering blue flames on a dark hilltop, low-angle shot, eerie blue light",
+      "chapter": "Hồ sơ 2: Matatabi, Nhị Vĩ",
+      "on_screen_text": "Hồ sơ 2: Matatabi"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Trong văn hóa Nhật, mèo có hai đuôi gợi tới yêu quái mèo trong truyện dân gian. Matatabi cũng là tên một loài cây mà mèo rất thích."
+      },
+      "image_prompt": "an old Japanese folk tale illustration of a mysterious two-tailed cat sitting under a lantern, parchment close-up, warm light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Sức mạnh: lửa xanh, và sự nhanh nhẹn của loài mèo. Tính cách: điềm tĩnh, lịch sự hơn nhiều Vĩ thú khác."
+      },
+      "image_prompt": "a trail of blue fire streaking across a rocky landscape at night, dynamic wide shot, cool blue light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Nhân trụ lực: Yugito Nii, làng Mây. Cô là một trong những nhân trụ lực kiểm soát Vĩ thú tốt nhất, nhưng vẫn bị Akatsuki bắt."
+      },
+      "image_prompt": "a lone figure standing in a moonlit clearing with faint blue flames around her feet, medium shot, cool dramatic light",
+      "on_screen_text": "Yugito Nii, làng Mây"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Anime và các phần phụ sau này có kể thêm về vài nhân trụ lực này, nhưng phần lớn chỉ là những lát cắt ngắn. Người đọc thường nhớ họ qua tên, hơn là qua câu chuyện."
+      },
+      "image_prompt": "a small row of name tags pinned to a board, some with short notes and some blank, close-up, soft melancholy light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Kaku để ý: nhiều nhân trụ lực như Yugito chỉ xuất hiện rất ít trong truyện. Họ là những câu chuyện chưa được kể, bị cuốn đi trong cuộc săn của Akatsuki."
+      },
+      "image_prompt": "a half-written notebook page with a faded name at the top and mostly empty lines, close-up, soft melancholy light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Hồ sơ số ba: Isobu, Tam Vĩ. Hình dạng: một con rùa khổng lồ với lớp vỏ gai nhọn như san hô."
+      },
+      "image_prompt": "a giant turtle silhouette with a spiked coral-like shell emerging from a misty lake, wide shot, cool grey light",
+      "chapter": "Hồ sơ 3: Isobu, Tam Vĩ",
+      "on_screen_text": "Hồ sơ 3: Isobu"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Rùa là biểu tượng của sự phòng thủ và tuổi thọ. Isobu không muốn đánh nhau, nó chỉ muốn được để yên dưới đáy hồ."
+      },
+      "image_prompt": "a large turtle shell resting peacefully at the bottom of a clear lake with fish swimming around it, close-up, calm teal light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Sức mạnh: phòng thủ cực mạnh, và tạo sương mù, san hô. Tính cách: nhút nhát, không thích đánh nhau."
+      },
+      "image_prompt": "coral spikes growing rapidly out of dark water under heavy fog, close-up, eerie teal light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhân trụ lực: Yagura, Mizukage của làng Sương mù, từng bị thao túng. Và trong quá khứ, Tam Vĩ còn từng bị phong ấn vào một cô gái tên Rin, người đồng đội của Kakashi, trong một kế hoạch đen tối."
+      },
+      "image_prompt": "a misty village of stilted houses over water with a single boat drifting, wide shot, cold grey light",
+      "on_screen_text": "Làng Sương mù"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kaku ghi thêm: Tam Vĩ là Vĩ thú bị bắt dễ dàng nhất trong cuộc săn của Akatsuki, vì lúc đó nó không có nhân trụ lực nào bảo vệ."
+      },
+      "image_prompt": "a quiet lake with ripples spreading from a disturbance at its center under a grey sky, wide shot, somber light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Tam Vĩ là Vĩ thú từng không có nhân trụ lực trong một thời gian, sống tự do trong hồ. Một hồ sơ nhiều khoảng trống."
+      },
+      "image_prompt": "a calm lake at dawn with a large shadow faintly visible beneath the surface, wide shot, soft pale light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Hồ sơ số bốn: Son Goku, Tứ Vĩ. Hình dạng: một con khỉ đột khổng lồ. Sức mạnh: dung nham. Tên của nó lấy cảm hứng từ Tôn Ngộ Không trong Tây Du Ký."
+      },
+      "image_prompt": "a giant ape silhouette standing among glowing lava flows on a volcanic mountain, low-angle shot, fiery red light",
+      "chapter": "Hồ sơ 4 và 5: Son Goku và Kokuo",
+      "on_screen_text": "Hồ sơ 4: Son Goku"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Roshi là một ninja lớn tuổi, đã kiểm soát được Vĩ thú của mình khá tốt. Nhưng ông vẫn không thoát được Akatsuki. Không ai an toàn trong cuộc săn đó."
+      },
+      "image_prompt": "an elderly warrior standing alone on a volcanic ridge with steam rising around him, wide shot, dramatic red light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nhân trụ lực: Roshi, làng Đá. Son Goku tự hào, không thích bị gọi là Tứ Vĩ, và luôn muốn được gọi đúng tên."
+      },
+      "image_prompt": "a proud nameplate carved into a volcanic rock, close-up, warm lava glow"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Hồ sơ số năm: Kokuo, Ngũ Vĩ. Hình dạng: lai giữa ngựa và cá heo, có sừng. Sức mạnh: hơi nước nóng."
+      },
+      "image_prompt": "a giant horse-like silhouette with dolphin features and horns surrounded by billowing steam, wide shot, misty warm light",
+      "on_screen_text": "Hồ sơ 5: Kokuo"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Han mặc một bộ giáp đặc biệt để kiềm chế hơi nước phát ra từ cơ thể. Một ví dụ cho thấy sống cùng Vĩ thú không chỉ khó về tinh thần, mà cả về cơ thể."
+      },
+      "image_prompt": "a heavy suit of armor with small vents releasing steam standing in a quiet workshop, close-up, warm misty light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nhân trụ lực: Han, cũng của làng Đá. Kokuo điềm tĩnh, ít nói, và là một trong những Vĩ thú lịch sự nhất."
+      },
+      "image_prompt": "a lone armored figure walking through a steam-filled canyon, back view, wide shot, soft diffused light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Kaku để ý: làng Đá giữ tới hai Vĩ thú. Sự phân chia của Hashirama không đồng đều, và điều đó cũng là mầm mống của những căng thẳng giữa các làng."
+      },
+      "image_prompt": "the owl mascot looking at an unbalanced scale with two small tokens on one side and one on the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Hồ sơ số sáu: Saiken, Lục Vĩ. Hình dạng: một con sên khổng lồ màu trắng. Sức mạnh: chất lỏng ăn mòn và bong bóng."
+      },
+      "image_prompt": "a giant pale slug-like silhouette surrounded by floating bubbles in a humid swamp, wide shot, soft eerie light",
+      "chapter": "Hồ sơ 6 và 7: Saiken và Chomei",
+      "on_screen_text": "Hồ sơ 6: Saiken"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Utakata từng có một người thầy muốn rút Vĩ thú ra khỏi cậu, và cậu bỏ làng ra đi. Nhiều nhân trụ lực mang những vết thương như vậy từ chính người thân của mình."
+      },
+      "image_prompt": "a lone figure walking away from a misty village along a narrow road, back view, wide shot, cold grey light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Nhân trụ lực: Utakata, người từng thuộc làng Sương mù, sống như một ninja lưu lạc. Saiken được mô tả là hiền lành."
+      },
+      "image_prompt": "a lone figure blowing soap bubbles on a quiet riverbank at dusk, medium shot, gentle melancholy light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Hồ sơ số bảy: Chomei, Thất Vĩ. Hình dạng: một con côn trùng khổng lồ có cánh, giống bọ cánh cứng. Sức mạnh: bay, và phấn trên cánh làm lóa mắt kẻ thù."
+      },
+      "image_prompt": "a giant winged beetle-like silhouette flying above a waterfall, glittering dust trailing from its wings, wide shot, bright magical light",
+      "on_screen_text": "Hồ sơ 7: Chomei"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Fu là một cô gái vui vẻ, muốn có thật nhiều bạn. Trong những phần phụ, cô được cho thấy luôn cố làm quen với người khác, dù bị làng mình e dè."
+      },
+      "image_prompt": "a cheerful girl waving at a group of children who hesitate at a distance, medium shot, bright bittersweet light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Nhân trụ lực: Fu, làng Thác nước. Chomei là Vĩ thú lạc quan, vui vẻ, và thích chuyện may mắn."
+      },
+      "image_prompt": "a small village built around a massive waterfall with rainbows in the spray, wide shot, bright cheerful light",
+      "on_screen_text": "Fu, làng Thác nước"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Bảy Vĩ thú đầu tiên đều lần lượt bị Akatsuki bắt. Tới giữa Shippuden, chỉ còn hai: Bát Vĩ và Cửu Vĩ."
+      },
+      "image_prompt": "seven of nine candles extinguished in a row, only two still burning at the end, close-up, somber light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Akatsuki đi săn từng nhân trụ lực theo cặp. Mỗi cặp một mục tiêu. Họ bắt được Gaara ngay tại làng Cát, và lần lượt bắt những người khác."
+      },
+      "image_prompt": "two cloaked silhouettes walking across a desert toward a distant village at dawn, back view, wide shot, ominous light",
+      "chapter": "Cuộc săn của Akatsuki",
+      "on_screen_text": "Săn theo cặp"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Sau khi bắt, họ dùng một bức tượng khổng lồ để rút Vĩ thú ra khỏi nhân trụ lực. Quá trình kéo dài nhiều ngày, và nhân trụ lực hầu như không sống sót."
+      },
+      "image_prompt": "a colossal stone statue with its hands raised in a dark cavern, faint glowing shapes surrounding it, low-angle shot, ominous dim light",
+      "on_screen_text": "Bức tượng rút Vĩ thú"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Gaara là trường hợp hiếm: cậu được hồi sinh nhờ sự hy sinh của bà Chiyo, một người làng Cát. Naruto chứng kiến điều đó, và nó ảnh hưởng tới cách cậu nhìn về nhân trụ lực."
+      },
+      "image_prompt": "an elderly woman's hands glowing softly as she kneels beside a still figure on the grass, close-up, warm gentle light"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku để ý: Akatsuki coi Vĩ thú là tài nguyên. Các làng cũng vậy. Trong suốt cuộc săn, gần như không ai hỏi Vĩ thú muốn gì."
+      },
+      "image_prompt": "a ledger listing nine items with checkmarks beside seven of them, close-up, cold office light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hồ sơ số tám: Gyuki, Bát Vĩ. Hình dạng: đầu bò, thân có tám xúc tu như bạch tuộc."
+      },
+      "image_prompt": "a giant silhouette with a bull's head and eight octopus-like tentacles rising from the sea, low-angle shot, dramatic stormy light",
+      "chapter": "Hồ sơ 8: Gyuki, Bát Vĩ",
+      "on_screen_text": "Hồ sơ 8: Gyuki",
+      "video_prompt": "the tentacles rise from the stormy sea as waves crash around them",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Sức mạnh: sức mạnh thể chất khủng khiếp, mực, và xúc tu có thể tái tạo. Tính cách: nghiêm túc, trầm tĩnh."
+      },
+      "image_prompt": "a spray of dark ink spreading across the ocean surface, close-up, dramatic light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Bee từng bị làng mình sợ hãi như mọi nhân trụ lực khác. Nhưng anh trai nuôi của Bee, Raikage, luôn đứng về phía em. Có một người tin mình, mọi thứ đã khác."
+      },
+      "image_prompt": "two brothers standing side by side on a cliff overlooking a mountain village, one arm resting on the other's shoulder, back view, wide shot, warm light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nhân trụ lực: Killer Bee, làng Mây, em nuôi của Raikage. Bee là nhân trụ lực đầu tiên trong truyện sống hòa thuận hoàn toàn với Vĩ thú của mình."
+      },
+      "image_prompt": "a large muscular figure sitting cross-legged on a rocky island shore, casually writing in a small notebook, medium shot, bright sunny light",
+      "on_screen_text": "Killer Bee"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Bee từng giả vờ bị bắt bằng cách để lại một xúc tu của Gyuki thay cho mình, rồi trốn đi nghỉ. Đó là cách một nhân trụ lực hoàn hảo đùa với cả Akatsuki."
+      },
+      "image_prompt": "a single large tentacle lying on a rocky beach while a figure's footprints lead away toward the sea, humorous wide shot, bright light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Bee và Gyuki là bạn thật sự. Họ nói chuyện, đùa nhau, và chiến đấu như một đội. Bee còn thích làm thơ, dù thơ của Bee không hay lắm."
+      },
+      "image_prompt": "a notebook page filled with scribbled rhymes and small doodles, close-up, playful warm light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Chính Bee là người dạy Naruto cách kiểm soát Cửu Vĩ. Hồ sơ số tám là hồ sơ quan trọng nhất cho cái kết của hồ sơ số chín."
+      },
+      "image_prompt": "an older figure and a younger figure meditating side by side beside a waterfall, medium shot, peaceful light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Hồ sơ số chín: Kurama, Cửu Vĩ. Hình dạng: một con cáo khổng lồ với chín đuôi. Sức mạnh: lượng chakra lớn nhất trong chín Vĩ thú."
+      },
+      "image_prompt": "a colossal fox silhouette with nine flowing tails standing on a mountain ridge at night, low-angle shot, fierce orange light",
+      "chapter": "Hồ sơ 9: Kurama, Cửu Vĩ",
+      "on_screen_text": "Hồ sơ 9: Kurama"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và mắt Sharingan có thể điều khiển Vĩ thú. Đó là lý do Kurama căm ghét cả tộc Uchiha, và những ai muốn dùng nó làm vũ khí."
+      },
+      "image_prompt": "a glowing red eye reflected in a giant animal's eye in extreme close-up, dramatic crimson light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kurama từng bị Madara điều khiển để tấn công làng Lá, và bị phong ấn nhiều lần. Nó căm ghét con người, vì chỉ thấy con người dùng nó làm vũ khí."
+      },
+      "image_prompt": "a massive dark silhouette looming over a village at night with fire on the horizon, wide shot, dramatic red light",
+      "on_screen_text": "Căm ghét con người"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Người trong làng không được phép nói về Cửu Vĩ với trẻ con. Vì vậy những đứa trẻ khác không biết vì sao cha mẹ chúng lại tránh xa Naruto. Chúng chỉ bắt chước."
+      },
+      "image_prompt": "a group of parents pulling their children away from a small boy near a swing, wide shot, cold afternoon light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nhân trụ lực: Naruto, được phong ấn ngay từ ngày sinh. Và cậu bị cả làng xa lánh vì con quái vật bên trong."
+      },
+      "image_prompt": "a small child standing alone at the edge of a crowded festival, looking at families laughing together, wide shot, lonely warm light",
+      "on_screen_text": "Naruto, làng Lá"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Có lần Kurama cho Naruto mượn sức chỉ vì không muốn chết theo cậu. Mối quan hệ của hai người lúc đó là một thỏa thuận lạnh lùng, không phải tình bạn."
+      },
+      "image_prompt": "two hands reaching toward each other across a cage's bars but not touching, symbolic close-up, cold red light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Suốt nhiều năm, Naruto và Kurama là kẻ thù. Naruto mượn sức Kurama khi giận dữ, và Kurama chờ cơ hội chiếm lấy cơ thể cậu."
+      },
+      "image_prompt": "a small figure standing before a massive cage with glowing eyes behind the bars, symbolic wide shot, eerie red light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nhưng trong Đại chiến ninja lần thứ tư, Naruto làm điều chưa ai làm: cậu hỏi tên của Kurama, và muốn làm bạn với nó. Từ kẻ thù, hai người trở thành đồng đội."
+      },
+      "image_prompt": "a small hand and a giant clawed paw pressing their fists together in a glowing space, symbolic close-up, warm golden light",
+      "on_screen_text": "Hỏi tên và làm bạn",
+      "video_prompt": "the small fist and the giant paw meet as golden light bursts outward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku để ý: hành động quan trọng nhất trong cả hồ sơ này không phải một đòn đánh. Nó là việc gọi một con quái vật bằng tên của nó."
+      },
+      "image_prompt": "the owl mascot carefully writing a name on a blank label and sticking it onto a folder",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Trong Đại chiến ninja lần thứ tư, Akatsuki gom đủ Vĩ thú để hồi sinh Thập Vĩ. Chín con bị buộc phải hợp lại thành con quái vật ban đầu."
+      },
+      "image_prompt": "nine glowing streams of energy spiraling together into one enormous dark shape in the sky, wide shot, apocalyptic light",
+      "chapter": "Chín Vĩ thú cùng nhau"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Và Naruto, qua Kurama, nói chuyện được với tất cả Vĩ thú. Cậu biết tên từng con, và chúng lần đầu tiên thấy một con người không muốn dùng chúng."
+      },
+      "image_prompt": "a small figure standing in a vast glowing space surrounded by nine large gentle animal silhouettes, wide shot, warm ethereal light",
+      "on_screen_text": "Naruto biết tên tất cả",
+      "video_prompt": "the nine large silhouettes slowly turn toward the small figure as warm light grows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và các Vĩ thú còn truyền cho Naruto một phần chakra của mình. Từ chín sinh vật bị chia cắt, chúng lại gặp nhau, lần này bằng sự tin tưởng thay vì bằng xiềng xích."
+      },
+      "image_prompt": "nine small glowing lights gently flowing into a single figure's open palm, symbolic close-up, warm golden light"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Đó chính là người mà Lục Đạo Tiên Nhân đã hứa với chúng gần một nghìn năm trước: người sẽ hiểu chúng."
+      },
+      "image_prompt": "an old sage's silhouette faintly visible in the sky smiling down at a small figure below, symbolic wide shot, radiant golden light",
+      "on_screen_text": "Lời hứa được thực hiện"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và Kurama ở lại với Naruto, không phải vì bị giam, mà vì muốn thế. Đó là lần đầu tiên trong gần một nghìn năm một Vĩ thú chọn ở bên con người."
+      },
+      "image_prompt": "a large fox silhouette resting its head gently beside a young man sitting on a cliff at sunrise, wide shot, warm tender light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Sau chiến tranh, các Vĩ thú được giải thoát. Nhiều con chọn sống tự do, không còn bị giam trong ai."
+      },
+      "image_prompt": "several large animal silhouettes wandering freely across open meadows and mountains at sunrise, wide shot, peaceful light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Mục lục hồ sơ Vĩ thú. Một: Shukaku, lửng chó cát, Gaara, làng Cát. Hai: Matatabi, mèo lửa xanh, Yugito, làng Mây. Ba: Isobu, rùa san hô, Yagura, làng Sương mù."
+      },
+      "image_prompt": "an index page with small animal doodles and names listed beside each number, amber ink close-up",
+      "chapter": "Mục lục hồ sơ"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Bốn: Son Goku, khỉ dung nham, Roshi, làng Đá. Năm: Kokuo, ngựa cá heo hơi nước, Han, làng Đá. Sáu: Saiken, sên bong bóng, Utakata, làng Sương mù."
+      },
+      "image_prompt": "the middle section of the index page with more doodles, amber ink close-up"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Bảy: Chomei, côn trùng có cánh, Fu, làng Thác nước. Tám: Gyuki, bò bạch tuộc, Killer Bee, làng Mây. Chín: Kurama, cáo chín đuôi, Naruto, làng Lá."
+      },
+      "image_prompt": "the final section of the index page with a large fox doodle at the bottom and a small star beside it, amber ink close-up",
+      "on_screen_text": "Mục lục 9 Vĩ thú"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Và ghi chú cuối trang: tất cả đều có tên, do Lục Đạo Tiên Nhân đặt. Và tất cả đều từng là một phần của cùng một sinh vật."
+      },
+      "image_prompt": "a small handwritten note at the bottom of the index page with a single circle connecting nine dots, close-up, amber ink"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Giờ tới trò chơi. Nếu bạn là nhân trụ lực, bạn muốn mang Vĩ thú nào?"
+      },
+      "image_prompt": "nine small cards laid face down on a table, each with a different tail count on its back, close-up, warm playful light",
+      "chapter": "Trò chơi: Vĩ thú nào hợp với bạn?",
+      "on_screen_text": "Bạn chọn Vĩ thú nào?"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nếu bạn thích sự bình yên, có lẽ là Saiken hoặc Kokuo. Nếu bạn thích phiêu lưu, là Chomei. Nếu bạn muốn mạnh nhất, là Kurama. Và nếu bạn muốn một người bạn biết làm thơ dở, là Gyuki."
+      },
+      "image_prompt": "a few cards turned over showing small doodles of a slug, a winged beetle, a fox and an octopus, close-up, playful light"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Kaku chọn Isobu, con rùa nhút nhát. Vì Kaku cũng thích trốn trong vỏ khi phải thuyết trình. Còn bạn? Viết vào bình luận nhé."
+      },
+      "image_prompt": "the owl mascot hiding shyly behind a tiny turtle shell prop",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Nhìn lại, câu chuyện của Vĩ thú và câu chuyện của nhân trụ lực giống hệt nhau: cả hai đều bị xa lánh vì thứ mà họ không chọn. Và cả hai chỉ được giải thoát khi tìm thấy nhau."
+      },
+      "image_prompt": "a small figure and a large animal silhouette sitting back to back on a hill under a starry sky, wide shot, gentle blue light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Vĩ thú là những sinh vật bị con người giam giữ vì sợ hãi. Và câu chuyện của chúng chỉ thay đổi khi có một người đủ kiên nhẫn để hỏi tên chúng."
+      },
+      "image_prompt": "a large gentle animal silhouette resting its head beside a small figure sitting on a grassy hill at sunset, wide shot, warm tender light"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku gỡ mười hiểu lầm về Dragon Ball, từ sức mạnh của các Super Saiyan tới những điều nhiều người tin sai suốt ba mươi năm."
+      },
+      "image_prompt": "an orange crystal ball with stars inside resting on a stack of old comics, close-up, warm nostalgic light",
+      "on_screen_text": "Tiếp theo: 10 hiểu lầm Dragon Ball"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Nếu bạn thích những hồ sơ như thế này, hãy đăng ký kênh. Và lần tới gặp một người bị mọi người sợ hãi, hãy thử hỏi tên họ trước. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing the thick case file and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}
