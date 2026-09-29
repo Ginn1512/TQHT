@@ -41,7 +41,12 @@
 - [x] Bộ prompt làm tay cho cả 30 video (`videos/*/prompts.vi.md`): ảnh, cộng giọng bản Gemini và bản ElevenLabs
 - [x] Trang "Xưởng Kaku" cho video 1 (Ảnh / Giọng / Kiểm tra): https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr
 - [x] Công cụ nhập giọng làm tay (tự cắt thành từng cảnh) và công cụ cắt Short dọc
-- [x] Notion "Trung tâm điều khiển" và lộ trình n8n (`docs/tu-dong-hoa.md`)
+- [x] Lộ trình tự động hóa Notion + n8n (`docs/tu-dong-hoa.md`)
+- [x] Notion "Kênh Cú Kaku · Trung tâm điều khiển" (riêng tư): https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6
+  - bảng Video dài (30 video, có Kanban theo trạng thái và lịch đăng);
+  - bảng Shorts;
+  - bảng Chỉ số tuần (tự tính % tới điều kiện YPP);
+  - trang Lộ trình tự động hóa n8n.
 - [ ] Chọn giọng Kaku (thử 3 giọng) và tạo ảnh mẫu Kaku
 - [ ] Video 1: làm ảnh và giọng trên trang Xưởng → dựng → đăng 06/10
 - [ ] Cài `TRANSCRIPT_API_KEY`, mở kết nối `transcriptapi.com` → phân tích 5 kênh mẫu bằng dữ liệu thật, chốt profile ([hướng dẫn](https://claude.ai/artifact/CLeMBD8BXXfBLhcVfbzT6S))

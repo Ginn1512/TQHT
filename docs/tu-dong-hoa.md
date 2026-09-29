@@ -1,7 +1,7 @@
 # Lộ trình tự động hóa: Notion + n8n
 
 > Nguyên tắc: **làm tay tới khi được bật kiếm tiền**, rồi tự động hóa trong 2–3 tuần. Trong lúc làm tay, mọi thứ được chuẩn bị sẵn để sau này chỉ việc "cắm" vào.
-> Bảng điều khiển: trang Notion "Kênh Cú Kaku · Trung tâm điều khiển" (riêng tư, link trong `docs/lo-trinh.md`).
+> Bảng điều khiển: trang Notion riêng tư "Kênh Cú Kaku · Trung tâm điều khiển": https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6. Cấu trúc ghi ở mục "Cấu trúc Notion" cuối file.
 
 ## Nguyên tắc
 
@@ -9,8 +9,7 @@
 - **Một nguồn sự thật cho mỗi loại dữ liệu:**
   - repo git: kịch bản, `scenes.json`, prompt, công cụ;
   - Notion: trạng thái, lịch, link, chỉ số.
-- **Không khóa vào một nhà cung cấp.** Mỗi bước đọc cùng một bộ prompt (`app_images.export`, `app_audio.export`); đổi công cụ chỉ là đổi "adapter".
-- **Key chỉ nằm trong biến môi trường** trên máy chủ, không bao giờ nằm trong repo hay trong workflow xuất ra.
+- **Không khóa vào một nhà cung cấp.** Mỗi bước đọc cùng một bộ prompt (`app_images.export`, `app_audio.export`); đổi công cụ chỉ là đổi "adapter".- **Key chỉ nằm trong biến môi trường** trên máy chủ, không bao giờ nằm trong repo hay trong workflow xuất ra.
 
 ## Giai đoạn 0: bây giờ, 0 USD (chuẩn bị sẵn)
 
@@ -18,10 +17,10 @@
 |---|---|
 | Mọi bước sản xuất đều là lệnh CLI trong `tools/` (prompt, nhập ảnh/giọng, dựng, thumbnail, Short) | Xong |
 | Bộ prompt không phụ thuộc công cụ: ảnh 6 lớp + negative, giọng cho Gemini/ElevenLabs (`prompts.vi.md`) | Xong |
-| CSDL Notion: Video dài, Shorts, Chỉ số tuần; trạng thái đặt tên đúng như workflow sẽ đọc | Xong |
+| Notion: Video dài (30 video), Shorts, Chỉ số tuần; tên trạng thái đúng như workflow sẽ đọc (mục cuối file) | Xong |
 | Giọng Kaku: mô tả Voice Design cố định trong `channel/giong-kaku.json`. Khi chọn xong, ghi thêm voice ID (AI Studio hoặc ElevenLabs) | Chờ bạn chọn giọng |
 | Ảnh mẫu Kaku lưu trong `channel/brand/kaku-ref.png` (API ảnh dùng làm ảnh tham chiếu) | Chờ video 1 |
-| Ghi thời gian làm tay và chi phí thật của mỗi video vào Notion | Bắt đầu từ video 1 |
+| Ghi thời gian làm tay và chi phí thật của mỗi video vào bảng Video dài trên Notion | Bắt đầu từ video 1 |
 
 ## Giai đoạn 1: tuần 1 sau khi được bật YPP (hạ tầng)
 
@@ -112,3 +111,33 @@ Trước khi chọn công cụ giọng cho API: đọc cùng đoạn thử bằn
 - [ ] Tuần 2: W2 lên lịch đăng thành công 1 video + 3 Short
 - [ ] Tuần 3: W3 ghi chỉ số hằng ngày; W4 ghi ý tưởng hằng tuần
 - [ ] Tuần 3: tắt các bước làm tay tương ứng trong `yt-studio`, cập nhật `CLAUDE.md`
+
+## Cấu trúc Notion (đã tạo 29/09/2026)
+
+Trang riêng tư **"Kênh Cú Kaku · Trung tâm điều khiển"**. Trên đầu ghi mục tiêu, mốc kiểm tra và luật đổi hướng (giống `docs/lo-trinh.md`). Bên dưới có 3 cơ sở dữ liệu và 1 trang con.
+
+**1. Video dài** (30 dòng, lấy từ `channel/topics.md` và `docs/ke-hoach-noi-dung.md`)
+
+| Cột | Kiểu | Ghi chú |
+|---|---|---|
+| Tên | Tiêu đề | Tiêu đề làm việc |
+| Số | Số | 1–30 |
+| Anime | Chọn nhiều | |
+| Dạng | Chọn | A–R |
+| Ngày đăng | Ngày | Lịch thứ Ba / thứ Năm / thứ Bảy |
+| Trạng thái | Chọn | Kịch bản xong → Đang làm ảnh → Đang làm giọng → Chờ duyệt video → Duyệt đăng → Đã lên lịch → Đã đăng (thêm "Sửa") |
+| Nguồn ảnh / Nguồn giọng | Chọn | Làm tay / API |
+| Thư mục | Văn bản | `videos/<ngày>-<slug>` |
+| Link Xưởng, Link Drive, Link YouTube | URL | |
+| Số cảnh, Phút, Chi phí USD, Giờ làm tay | Số | |
+| Lượt xem 48h, CTR 48h (%), Giữ chân (%), Người đăng ký tăng | Số | W3 tự điền sau này |
+
+Chế độ xem: Kanban theo Trạng thái, Lịch theo Ngày đăng, Bảng đầy đủ.
+
+**2. Shorts:** Tên, Video gốc (liên kết tới Video dài), Cảnh (ví dụ `s19–s24`), Ngày đăng, Trạng thái, Lượt xem.
+
+**3. Chỉ số tuần:** Tuần (ngày Chủ nhật), Người đăng ký, Giờ xem 365 ngày, Lượt xem Shorts 90 ngày, Ghi chú. Hai cột công thức:
+- % YPP video dài = min(Người đăng ký / 1000, Giờ xem / 4000);
+- % YPP Shorts = min(Người đăng ký / 1000, Lượt xem Shorts / 10.000.000).
+
+**4. Trang con "Lộ trình tự động hóa n8n":** các mục tích ở "Mốc hoàn thành" phía trên.

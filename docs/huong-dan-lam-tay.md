@@ -67,6 +67,6 @@ Nhắn **"xong ảnh + giọng video N"**. Mình sẽ:
 
 1. Nhập ảnh (`tools.app_images import`) và giọng (`tools.app_audio import`). Giọng được tự cắt thành từng cảnh tại các khoảng lặng.
 2. Dựng video, rồi gửi MP4, thumbnail, thông tin đăng tải và 3 Short (`tools.shorts`).
-3. Cập nhật trạng thái trong Notion.
+3. Cập nhật trạng thái video trong Notion (trang "Kênh Cú Kaku · Trung tâm điều khiển") và trong `channel/topics.md`.
 
 Nếu không dùng được trang Xưởng, bạn có thể bỏ ảnh (tên `s01.png`…) và file giọng (tên `c01.wav`…) vào một thư mục Google Drive rồi gửi link cho mình.

@@ -62,7 +62,7 @@ Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ư�
 
 **Cách mặc định: người dùng làm tay trên trang "Xưởng Kaku"** (ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs; hướng dẫn trong `docs/huong-dan-lam-tay.md`):
 
-1. `python -m tools.xuong page videos/<thư-mục> --label "video N" > <scratchpad>/xuong-N.html`, rồi đăng bằng Artifact với `capabilities: {"assets": {}, "db": {}}`. Mỗi video một trang (video 1: https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr). Ghi link vào cột "Link Xưởng" trong Notion.
+1. `python -m tools.xuong page videos/<thư-mục> --label "video N" > <scratchpad>/xuong-N.html`, rồi đăng bằng Artifact với `capabilities: {"assets": {}, "db": {}}`. Mỗi video một trang (video 1: https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr). Ghi link vào cột "Link Xưởng" của video trong bảng Notion "Video dài" (data source `80099179-a3b2-4816-8862-0a4d1d3db805`) và đổi Trạng thái sang "Đang làm ảnh".
 2. Gửi link cho người dùng. Trang có 3 tab:
    - **Ảnh:** sao chép prompt → Gemini → tải ảnh lên. Cảnh có Kaku thì đính kèm ảnh mẫu Kaku.
    - **Giọng:** chọn công cụ, dán ghi chú đạo diễn, dán từng đoạn đọc `c01`… rồi tải file lên.
@@ -113,7 +113,9 @@ Soạn `metadata.vi.md`:
 - Sau khi người dùng đồng ý:
   - chạy `python -m tools.costs record videos/<thư-mục>`
   - cập nhật trạng thái chủ đề trong `channel/topics.md`
-  - cập nhật dòng của video trong Notion (CSDL "Video dài": Trạng thái, Link YouTube, Phút, Chi phí USD, Giờ làm tay), và thêm 3 dòng vào CSDL "Shorts"
+  - cập nhật Notion (trang "Kênh Cú Kaku · Trung tâm điều khiển", cấu trúc trong `docs/tu-dong-hoa.md`):
+    - dòng của video trong "Video dài": Trạng thái, Link YouTube, Phút, Chi phí USD, Giờ làm tay;
+    - thêm 3 dòng vào "Shorts" (`f057bfe8-e21f-4b2a-8518-87b1b891dd1c`), liên kết tới video gốc.
   - commit (không commit MP4, vì `assets/` và `render/` đã bị gitignore) rồi push.
 - Hướng dẫn đăng video:
   1. App YouTube Studio: tải video lên, dán tiêu đề và mô tả, đặt thumbnail, chọn "Không dành cho trẻ em", hẹn giờ đăng.
