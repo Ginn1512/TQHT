@@ -1,0 +1,706 @@
+{
+  "title": "Dược sư tự sự: Bí ẩn thân thế Jinshi — 5 manh mối, 1 giả thuyết (lý thuyết có gắn nhãn)",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này dùng manh mối trong anime Dược sư tự sự tới mùa ba phần một. Gần cuối có một vùng spoiler tiểu thuyết, Kaku sẽ báo trước để bạn tua qua nếu muốn."
+      },
+      "image_prompt": "a folded palace letter sealed with wax beside a spoiler warning card on a lacquered table, close-up, warm lantern light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới mùa 3 phần 1"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một người đàn ông đẹp tới mức cả hậu cung xôn xao. Anh tự nhận là một hoạn quan, quản lý hậu cung của Hoàng đế. Nhưng càng xem, ta càng thấy anh không phải người như anh nói."
+      },
+      "image_prompt": "a long palace corridor with red pillars and a single elegant silhouette in flowing robes walking away, back view, wide shot, soft golden light",
+      "on_screen_text": "Anh ta là ai?"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Câu hỏi của hôm nay: Jinshi thật sự là con của ai? Và vì sao câu trả lời ấy có thể làm rung chuyển cả hoàng cung?"
+      },
+      "image_prompt": "an old imperial family tree scroll with one branch blotted out by ink, extreme close-up, dim lantern light",
+      "on_screen_text": "Jinshi là con của ai?"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku làm thám tử cung đình: gom manh mối có thật trong anime, dựng giả thuyết, rồi tự phản biện. Mọi giả thuyết đều được gắn nhãn LÝ THUYẾT rõ ràng."
+      },
+      "image_prompt": "the owl mascot wearing a tiny scholar's hat and holding a magnifying glass over a scroll",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và Kaku nhắc: Dược sư tự sự nói nhiều về thuốc và độc. Những gì Kaku kể là để hiểu truyện, không phải lời khuyên y tế."
+      },
+      "image_prompt": "a row of small porcelain medicine jars on a wooden shelf with a warning tag hanging from one, close-up, soft warm light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Bắt đầu từ những gì ai cũng thấy. Jinshi xuất hiện như một hoạn quan trẻ, được giao quản lý hậu cung. Anh thông minh, lịch thiệp, và đẹp tới mức các phi tần phải ngẩn ngơ."
+      },
+      "image_prompt": "a group of court ladies peeking from behind a folding screen at a distant elegant figure, humorous wide shot, warm palace light",
+      "chapter": "Hồ sơ công khai của Jinshi",
+      "on_screen_text": "Hoạn quan quản lý hậu cung"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Anh là người phát hiện ra tài năng của Maomao, một cô gái bán thuốc bị bắt vào cung làm cung nữ, và kéo cô vào những vụ án trong hậu cung."
+      },
+      "image_prompt": "a young woman sniffing a small herb bundle at a workbench while a shadowy tall figure watches from the doorway, medium shot, warm lamp light",
+      "on_screen_text": "Người phát hiện Maomao"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhưng dần dần, anime cho thấy Jinshi không phải hoạn quan. Đó là một vỏ bọc. Thân phận thật của anh là Hoàng đệ, em trai của Hoàng đế, tên thật là Ka Zuigetsu."
+      },
+      "image_prompt": "an elegant robe hanging on a stand with a hidden imperial seal visible beneath its folded sleeve, extreme close-up, dramatic lantern light",
+      "on_screen_text": "Thật ra là Hoàng đệ"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Theo hồ sơ chính thức, cha của Jinshi là vị Hoàng đế trước, và mẹ là Thái hậu An Thị. Vì Hoàng đế hiện tại chưa có con trai nối ngôi vững chắc, Jinshi có một vị trí rất nhạy cảm."
+      },
+      "image_prompt": "a formal genealogy chart on silk with three names connected by gold lines, amber ink close-up",
+      "on_screen_text": "Hồ sơ chính thức"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Jinshi còn có một người hầu cận luôn đi theo, điềm tĩnh, trung thành, và dường như biết nhiều hơn những gì anh ta nói ra."
+      },
+      "image_prompt": "a composed tall attendant silhouette standing a step behind a younger figure in a palace hallway, medium shot, calm warm light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Vậy tại sao một Hoàng đệ lại phải đóng giả hoạn quan? Đó là câu hỏi đầu tiên, và cũng là manh mối đầu tiên rằng thân phận của anh còn phức tạp hơn thế."
+      },
+      "image_prompt": "a mask resting on a palace desk beside a sheathed ceremonial dagger, close-up, low candle light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku để ý: Jinshi là người đầy bí mật, nhưng lại luôn nhờ Maomao giải bí mật của người khác. Người điều tra hậu cung, hóa ra lại là vụ án lớn nhất."
+      },
+      "image_prompt": "the owl mascot peering into a mirror and seeing a question mark reflected back",
+      "use_mascot": true
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Để hiểu bí ẩn này, cần hiểu hậu cung trong truyện. Đó là một thành phố thu nhỏ bên trong hoàng cung, với hàng nghìn cung nữ, hoạn quan, và các phi tần của Hoàng đế."
+      },
+      "image_prompt": "an aerial view of a walled inner palace city with many courtyards and pavilions at dawn, extreme wide shot, soft golden light",
+      "chapter": "Hậu cung vận hành thế nào?",
+      "on_screen_text": "Một thành phố thu nhỏ"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Đứng đầu là bốn phi tần cấp cao nhất. Mỗi người có cung điện riêng, người hầu riêng, và gia tộc đứng sau. Ai sinh được con trai cho Hoàng đế, người đó và gia tộc của họ có thể thay đổi vận mệnh."
+      },
+      "image_prompt": "four ornate pavilions arranged around a central courtyard, each with a different colored banner, wide shot, warm palace light",
+      "on_screen_text": "Bốn phi tần cao nhất"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Ah-Duo từng là một trong bốn người ấy, và là người ở bên Hoàng đế lâu nhất, từ khi ông còn là Thái tử."
+      },
+      "image_prompt": "a tall elegant silhouette standing alone in an emptied pavilion with packed chests, medium shot, bittersweet warm light"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Vì vậy, mỗi đứa trẻ ra đời trong hậu cung không chỉ là một đứa trẻ. Đó là một quân cờ trong ván cờ quyền lực, dù đứa bé chẳng hề biết gì."
+      },
+      "image_prompt": "a tiny cradle placed in the middle of a giant game board with pieces surrounding it, symbolic wide shot, dramatic light",
+      "on_screen_text": "Mỗi đứa trẻ là một quân cờ"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku để ý: trong một nơi mà đứa trẻ là quân cờ, việc đổi hai quân cờ cho nhau có thể là cách duy nhất để bảo vệ chúng."
+      },
+      "image_prompt": "the owl mascot gently moving two small pieces on a board with a worried face",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Thế giới của Dược sư tự sự là một đất nước hư cấu, nhưng lấy cảm hứng rõ ràng từ các triều đại Trung Hoa thời xưa."
+      },
+      "image_prompt": "a traditional East Asian palace roofline with curved eaves against a misty morning sky, wide shot, soft light",
+      "chapter": "Hậu cung ngoài lịch sử thật",
+      "on_screen_text": "Lấy cảm hứng từ lịch sử"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Trong lịch sử, hậu cung của các hoàng đế Trung Hoa thường có hệ thống cấp bậc phi tần rất chặt, và hoạn quan là những người được phép làm việc bên trong."
+      },
+      "image_prompt": "an old ledger with rows of rank titles written in neat columns beside a brush and ink stone, extreme close-up, warm light",
+      "on_screen_text": "Cấp bậc và hoạn quan"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Cuộc tranh giành ngôi thái tử trong lịch sử cũng rất khốc liệt. Vì vậy, nỗi lo về một đứa trẻ bị đánh tráo hay bị hại không phải chuyện hoàn toàn xa lạ với người xưa."
+      },
+      "image_prompt": "a faded scroll painting of a quiet palace courtyard at night with a single lantern, close-up, aged golden light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku nhắc: Kaku không nói Dược sư tự sự dựa trên một sự kiện lịch sử cụ thể nào. Truyện chỉ mượn không khí và luật chơi của hậu cung xưa."
+      },
+      "image_prompt": "the owl mascot holding a history book in one wing and a novel in the other, balancing them",
+      "use_mascot": true
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Manh mối đầu tiên nằm ở quá khứ. Gần hai mươi năm trước, hai người phụ nữ trong cung sinh con gần như cùng lúc."
+      },
+      "image_prompt": "two small cradles side by side in a dim palace chamber, one draped in finer silk than the other, wide shot, soft candle light",
+      "chapter": "Manh mối 1: hai đứa trẻ cùng ra đời",
+      "on_screen_text": "Hai đứa trẻ cùng lúc",
+      "video_prompt": "the candles flicker beside the two cradles as a draft moves the silk",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Một người là An Thị, khi ấy là phi tần của Hoàng đế trước, sau này là Thái hậu. Người kia là Ah-Duo, phi tần của Thái tử, tức Hoàng đế hiện tại."
+      },
+      "image_prompt": "two silk fans laid on a table, one ornate with a phoenix pattern, one simple and elegant, extreme close-up, warm light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Vì thứ bậc trong cung, An Thị được các thầy thuốc giỏi nhất chăm sóc. Còn Ah-Duo bị bỏ lại, sinh con trong điều kiện thiếu thốn."
+      },
+      "image_prompt": "a crowd of physicians hurrying toward one lit doorway while another doorway down the corridor stays dark, wide shot, contrasting light",
+      "on_screen_text": "Thứ bậc quyết định tất cả",
+      "video_prompt": "physicians hurry toward the lit doorway while the other stays dark",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Hậu quả: Ah-Duo không thể có con thêm nữa. Và về sau, cô rời khỏi hậu cung."
+      },
+      "image_prompt": "an empty palace chamber with a single hairpin left on a dressing table, close-up, pale melancholy light",
+      "on_screen_text": "Ah-Duo rời cung"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Chi tiết ấy cho thấy một điều lạnh lùng: trong hậu cung, ai được cứu, ai bị bỏ mặc, phụ thuộc vào thứ bậc hơn là tính mạng."
+      },
+      "image_prompt": "a ladder of rank plaques on a palace wall with a single candle lit only at the top, symbolic close-up, cold dim light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: manh mối một là có thật trong anime. Hai đứa trẻ, cùng thời điểm, trong hai hoàn cảnh chênh lệch."
+      },
+      "image_prompt": "a notebook page with two small cradle doodles and a checkmark labeled clue one, amber ink close-up",
+      "on_screen_text": "Manh mối 1"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Theo anime, con của Ah-Duo không sống được lâu. Đứa bé mất khi còn rất nhỏ."
+      },
+      "image_prompt": "a tiny embroidered baby shoe resting alone on a windowsill in the rain, extreme close-up, grey soft light",
+      "chapter": "Manh mối 2: mật ong",
+      "on_screen_text": "Đứa trẻ không sống lâu"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Và Maomao, với đầu óc của một dược sư, lần ra nguyên nhân có thể: mật ong. Mật ong nguy hiểm với trẻ sơ sinh."
+      },
+      "image_prompt": "a small ceramic honey jar with a wooden dipper on a palace table, a warning red ribbon tied around it, close-up, warm light",
+      "on_screen_text": "Mật ong"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Đây là chi tiết có thật ngoài đời. Các cơ quan y tế khuyên không cho trẻ dưới mười hai tháng tuổi ăn mật ong, vì nguy cơ ngộ độc botulinum ở trẻ nhỏ. Đây là thông tin chung, không phải lời khuyên y tế thay bác sĩ."
+      },
+      "image_prompt": "a simple health information card with a crossed-out honey jar icon and a baby rattle icon, amber ink close-up",
+      "on_screen_text": "Không mật ong cho trẻ dưới 12 tháng"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Nhưng câu hỏi quan trọng là: đứa trẻ đã mất là con của ai? Nếu có ai đó chăm sóc nhầm một đứa bé, trong một đêm hỗn loạn của hoàng cung, mọi thứ có thể đã khác."
+      },
+      "image_prompt": "two identical swaddling cloths folded side by side on a shelf, extreme close-up, dim uncertain light",
+      "on_screen_text": "Đứa trẻ đã mất là ai?"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Với Maomao, một hũ mật ong không chỉ là đồ ngọt. Cùng một thứ, với người lớn là món ăn, với trẻ sơ sinh lại có thể là độc. Đó cũng là tinh thần của cả bộ truyện."
+      },
+      "image_prompt": "a honey jar placed on a balance scale opposite a small medicine vial, symbolic close-up, warm amber light",
+      "on_screen_text": "Thuốc hay độc?"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kaku để ý: mỗi khi Maomao nhắc tới độc hay mật ong, hãy nhìn nét mặt những cung nữ lớn tuổi trong cảnh. Nhiều người xem cho rằng quá khứ hiện rõ trên mặt họ."
+      },
+      "image_prompt": "the owl mascot pointing at a small group of elderly silhouettes whose faces are turned away",
+      "use_mascot": true
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Manh mối ba mang tính hình ảnh. Ah-Duo được miêu tả là một người có vẻ đẹp phóng khoáng, cao ráo, đôi khi mặc đồ nam và được so với một chàng trai."
+      },
+      "image_prompt": "a tall elegant silhouette in a simple men's style robe standing on a palace balcony in the wind, wide shot, soft moonlight",
+      "chapter": "Manh mối 3: gương mặt và dáng người",
+      "on_screen_text": "Ah-Duo"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Còn Jinshi thì có vẻ đẹp khiến người ta không phân biệt nổi là nam hay nữ. Nhiều người xem để ý rằng hai người có nét gì đó rất giống nhau."
+      },
+      "image_prompt": "two silhouettes facing each other in profile across a moonlit courtyard, symmetrical composition, soft silver light",
+      "on_screen_text": "Nét giống nhau"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Trong khi đó, Jinshi không có nhiều nét giống An Thị, người được cho là mẹ ruột của anh."
+      },
+      "image_prompt": "a portrait frame on a wall left intentionally blank beside a mirror reflecting a different face, symbolic close-up, dim light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Cả hai còn có một phong thái giống nhau: điềm tĩnh, hơi xa cách, và rất giỏi che giấu cảm xúc sau một nụ cười."
+      },
+      "image_prompt": "two folding fans half covering two smiling mouths side by side, extreme close-up, soft warm light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Kaku nhắc: gương mặt là manh mối yếu nhất. Trong truyện hay ngoài đời, con cái không phải lúc nào cũng giống cha mẹ. Kaku chỉ ghi nó vào sổ, không dựa vào nó."
+      },
+      "image_prompt": "a notebook with a clue written in pencil and a small question mark beside it, amber ink close-up",
+      "on_screen_text": "Manh mối yếu"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Manh mối bốn nằm ở hành vi. Thái hậu An Thị, người mẹ chính thức, đối xử với Jinshi khá xa cách. Không lạnh lùng, nhưng cũng không giống một người mẹ với con trai út."
+      },
+      "image_prompt": "an older noble silhouette seated on a throne-like chair turning her face slightly away from a kneeling figure, medium shot, cool distant light",
+      "chapter": "Manh mối 4: cách người lớn đối xử với Jinshi",
+      "on_screen_text": "Người mẹ xa cách"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Trong khi đó, Hoàng đế đối xử với Jinshi rất thân thiết, đôi khi như một người cha trêu con hơn là một người anh."
+      },
+      "image_prompt": "a broad-shouldered bearded silhouette laughing and patting the shoulder of a younger slender figure in a garden, medium shot, warm afternoon light",
+      "on_screen_text": "Như cha với con?"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Và Ah-Duo, khi xuất hiện cùng Jinshi, có một sự dịu dàng khó giải thích, như thể cô biết điều gì đó mà anh không biết."
+      },
+      "image_prompt": "a tall silhouette watching a younger figure from a distance with a gentle smile under a lantern, wide shot, warm soft light"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kaku ghi vào sổ: manh mối bốn là cách người lớn nhìn Jinshi. Và thú vị thay, chính Jinshi dường như không hiểu vì sao."
+      },
+      "image_prompt": "the owl mascot drawing three small faces with arrows pointing toward one figure in the center",
+      "on_screen_text": "Manh mối 4",
+      "use_mascot": true
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Người sẽ giải bí ẩn này, nếu có ai giải được, là Maomao. Cô lớn lên ở khu phố đèn đỏ, được một người cha nuôi làm thầy thuốc dạy về thuốc men."
+      },
+      "image_prompt": "a small apothecary shop at night in a lantern-lit district with dried herbs hanging in the window, wide shot, warm lantern light",
+      "chapter": "Maomao: cô thám tử dược sư",
+      "on_screen_text": "Lớn lên giữa thảo dược"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Cô có khứu giác cực nhạy, trí nhớ về thảo dược đáng kinh ngạc, và một niềm đam mê kỳ lạ với độc chất."
+      },
+      "image_prompt": "a hand holding a sprig of herbs close to the nose with small labeled jars in the background, extreme close-up, soft warm light",
+      "on_screen_text": "Đam mê độc chất"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Cô còn thử độc trên chính cơ thể mình để hiểu chúng. Kaku nhắc rõ: đây là chi tiết hư cấu, tuyệt đối không phải điều nên làm theo."
+      },
+      "image_prompt": "a warning sign with a crossed-out hand next to a small bottle on a shelf, amber ink close-up",
+      "on_screen_text": "Hư cấu, đừng làm theo"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Điều làm Maomao trở thành thám tử giỏi là cô chỉ tin vào bằng chứng. Cô không kết luận khi chưa đủ dữ kiện, và thường chọn không nói ra khi sự thật có thể hại người."
+      },
+      "image_prompt": "a notebook with neat observations and one sentence deliberately left blank, close-up, soft lamp light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Quay lại câu hỏi đầu tiên. Một Hoàng đệ có quyền kế vị, tại sao phải sống dưới vỏ bọc hoạn quan?"
+      },
+      "image_prompt": "a heavy palace door half open revealing a long corridor with a single figure in plain robes, wide shot, dramatic light",
+      "chapter": "Manh mối 5: vì sao phải giả làm hoạn quan?",
+      "on_screen_text": "Vì sao phải giả?"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Một cách hiểu: Jinshi muốn thoát khỏi vị trí người kế vị. Anh muốn Hoàng đế sớm có con trai, để mình không bị cuốn vào cuộc tranh ngôi."
+      },
+      "image_prompt": "a crown resting on a cushion with a hand pushing it slightly away, extreme close-up, soft golden light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Vỏ bọc hoạn quan giúp anh vào hậu cung, quan sát các phi tần, và âm thầm bảo vệ những người có thể sinh ra người nối ngôi."
+      },
+      "image_prompt": "a figure moving quietly through a night garden past several lit pavilion windows, wide shot, moonlit light",
+      "on_screen_text": "Người bảo vệ thầm lặng"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Anh cũng dùng chính vẻ đẹp của mình như một công cụ, để người khác mất cảnh giác và nói nhiều hơn họ định."
+      },
+      "image_prompt": "a group of court officials leaning in and chatting eagerly toward a serene figure holding a teacup, medium shot, warm palace light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nhưng nếu Jinshi là con ruột của Hoàng đế, thì vị trí của anh còn nhạy cảm hơn nhiều. Anh không chỉ là em trai. Anh có thể là con trai trưởng."
+      },
+      "image_prompt": "a chess board with a single piece standing apart from its row, lit by a spotlight, extreme close-up, dramatic light",
+      "on_screen_text": "Nếu là con trai trưởng?"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "LÝ THUYẾT. Gom năm manh mối lại, ta có giả thuyết phổ biến nhất: đêm ấy, hai đứa trẻ đã bị hoán đổi."
+      },
+      "image_prompt": "a large red stamp reading THEORY pressed onto a sheet of parchment beside two cradle doodles, extreme close-up, dramatic light",
+      "chapter": "Giả thuyết: hai đứa trẻ bị hoán đổi",
+      "on_screen_text": "LÝ THUYẾT: hoán đổi"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Theo giả thuyết này, đứa bé khỏe mạnh của Ah-Duo được đưa sang làm con của An Thị. Đứa bé ấy chính là Jinshi."
+      },
+      "image_prompt": "two pairs of hands gently passing a swaddled bundle between two dimly lit rooms, close-up, soft candle light",
+      "video_prompt": "the swaddled bundle passes slowly from one pair of hands to another",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Còn đứa con của An Thị, được Ah-Duo nuôi như con mình, và chính đứa bé ấy đã mất khi còn nhỏ."
+      },
+      "image_prompt": "a single cradle in a quiet room with a candle burning low beside it, wide shot, somber warm light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Nếu đúng, thì Jinshi là con ruột của Hoàng đế hiện tại và Ah-Duo. Người anh anh vẫn gọi, thật ra là cha anh."
+      },
+      "image_prompt": "a family tree diagram on parchment being redrawn with a new line connecting a crown icon directly to a young figure icon, amber ink close-up",
+      "on_screen_text": "Nếu đúng: con của Hoàng đế",
+      "video_prompt": "a new golden line draws itself across the family tree diagram",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku nhắc lại: đây là LÝ THUYẾT dựa trên manh mối trong anime. Kaku chưa khẳng định. Phần tiếp theo, Kaku sẽ tự phản biện nó."
+      },
+      "image_prompt": "the owl mascot holding up a sign with the word theory and a small warning triangle",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Trước khi phản biện, Kaku liệt kê những khả năng khác về mặt logic, để giả thuyết hoán đổi không phải lựa chọn duy nhất."
+      },
+      "image_prompt": "a notebook page with three branching arrows from a single question mark, amber ink close-up",
+      "chapter": "Những khả năng khác",
+      "on_screen_text": "Những khả năng khác"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "LÝ THUYẾT A: Jinshi đúng là con của Hoàng đế trước và An Thị, và mọi manh mối chỉ là sự trùng hợp. Đây là cách đọc đơn giản nhất."
+      },
+      "image_prompt": "a straight single line drawn between two points on parchment, amber ink close-up",
+      "on_screen_text": "A: không có gì bị đổi"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "LÝ THUYẾT B: có hoán đổi, nhưng không ai trong hai người mẹ chủ động làm. Đó là một sự nhầm lẫn trong đêm hỗn loạn, và người ta chọn im lặng."
+      },
+      "image_prompt": "two lanterns placed on the wrong doorsteps in a dark corridor, symbolic close-up, uncertain dim light",
+      "on_screen_text": "B: một sự nhầm lẫn"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "LÝ THUYẾT C: hoán đổi có chủ đích, do hai người mẹ đồng ý với nhau. Đây là giả thuyết khớp nhất, và là giả thuyết Kaku đặt lên bàn phản biện."
+      },
+      "image_prompt": "two hands meeting in a quiet agreement over a small table with a single candle, extreme close-up, soft warm light",
+      "on_screen_text": "C: có chủ đích"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Phản biện một: hoán đổi con trong hoàng cung là tội cực nặng. Ai dám làm, và làm sao giữ bí mật suốt gần hai mươi năm?"
+      },
+      "image_prompt": "a heavy iron lock on an old palace door with a faint crack in the wood beside it, extreme close-up, cold light",
+      "chapter": "Phản biện",
+      "on_screen_text": "Ai dám làm?"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Trả lời thử: chỉ cần hai người mẹ đồng ý, và vài cung nữ trung thành. Mà theo anime, đêm ấy cả hoàng cung đang dồn mọi sự chú ý vào một phía."
+      },
+      "image_prompt": "a narrow servants' corridor with only two lanterns lit while the main hall glows brightly far away, wide shot, contrasting light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Phản biện hai: vì sao An Thị lại đồng ý? Một người mẹ có thể đổi con mình lấy con người khác sao?"
+      },
+      "image_prompt": "a single hand resting hesitantly on the edge of a cradle, extreme close-up, uncertain dim light",
+      "on_screen_text": "Vì sao An Thị đồng ý?"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Đây là chỗ các tóm tắt từ tiểu thuyết cho thấy câu chuyện của An Thị rất đau lòng, với những hoàn cảnh cô không được chọn. Kaku sẽ không kể chi tiết."
+      },
+      "image_prompt": "a withered flower pressed between the pages of an old closed book, close-up, somber soft light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Phản biện ba: nếu mọi thứ chỉ là gương mặt và thái độ, thì có thể Jinshi đơn giản là em trai Hoàng đế, và mọi người chỉ có lý do riêng để đối xử với anh như vậy."
+      },
+      "image_prompt": "a balance scale with a handful of small clue cards on one side and an official seal on the other, symbolic close-up, amber light",
+      "on_screen_text": "Có thể chỉ là em trai?"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kaku để ý: đây là điểm yếu thật của giả thuyết. Phần lớn manh mối là gián tiếp. Chỉ riêng manh mối mật ong là có cơ sở vững."
+      },
+      "image_prompt": "the owl mascot crossing out one clue and circling another in a notebook",
+      "use_mascot": true
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Từ đây là vùng spoiler tiểu thuyết. Nếu bạn chỉ muốn xem anime, hãy tua tới chương tiếp theo, khi thấy chữ Hết vùng spoiler."
+      },
+      "image_prompt": "a red rope barrier across a palace corridor with a hanging sign showing a warning symbol, wide shot, dramatic lantern light",
+      "chapter": "Vùng spoiler tiểu thuyết",
+      "on_screen_text": "VÙNG SPOILER"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Theo nhiều trang tổng hợp về bộ truyện, tiểu thuyết gốc đã xác nhận giả thuyết hoán đổi: Jinshi là con ruột của Hoàng đế và Ah-Duo."
+      },
+      "image_prompt": "an old book opening to reveal a single glowing line of text highlighted in gold, symbolic close-up, radiant warm light",
+      "on_screen_text": "Theo tiểu thuyết"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Và theo các tóm tắt ấy, chính Jinshi không được cho biết sự thật từ nhỏ. Thân phận thật trở thành gánh nặng mà anh phải tự đối diện."
+      },
+      "image_prompt": "a figure standing alone before a tall mirror in an empty hall at dusk, back view, wide shot, somber golden light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Kaku vẫn giữ nhãn lý thuyết cho người chỉ xem anime, vì anime có thể kể theo cách riêng. Hết vùng spoiler."
+      },
+      "image_prompt": "the owl mascot pulling the red rope barrier aside with a relieved smile",
+      "on_screen_text": "Hết vùng spoiler",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nếu Jinshi là con của Hoàng đế, cuộc tranh ngôi trong hoàng cung trở nên nguy hiểm hơn nhiều. Mỗi đứa trẻ ra đời trong hậu cung đều liên quan tới vị trí của anh."
+      },
+      "image_prompt": "several small candles in a dark palace hall, some flickering in a draft, symbolic wide shot, tense warm light",
+      "chapter": "Điều này thay đổi gì?",
+      "on_screen_text": "Cuộc tranh ngôi"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nó cũng giải thích vì sao Jinshi quá quan tâm tới sự an toàn của các phi tần và những đứa trẻ. Có thể anh hiểu, sâu trong lòng, rằng một đứa trẻ trong cung mong manh tới mức nào."
+      },
+      "image_prompt": "a figure gently straightening a small blanket over an empty cradle in a quiet nursery, close-up, soft warm light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và nó làm mối quan hệ giữa Jinshi và Maomao phức tạp hơn. Maomao muốn một cuộc sống bình thường với thảo dược và thuốc men. Còn Jinshi, càng gần ngai vàng, càng khó có một cuộc sống bình thường."
+      },
+      "image_prompt": "two silhouettes standing on either side of a garden gate, one holding an herb basket, one in formal robes, wide shot, bittersweet dusk light",
+      "on_screen_text": "Maomao và Jinshi"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Còn với Hoàng đế, nếu giả thuyết đúng, việc giữ im lặng cũng là một cách bảo vệ con mình khỏi những kẻ muốn lợi dụng thân phận ấy."
+      },
+      "image_prompt": "a broad-shouldered silhouette standing alone on a palace terrace at night looking down at a lit pavilion, wide shot, somber moonlight"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kaku để ý: Maomao là người giỏi nhất cung trong việc tìm sự thật. Nhưng với sự thật này, cô có vẻ chọn không hỏi thêm. Có những sự thật, biết rồi là không quay lại được."
+      },
+      "image_prompt": "the owl mascot closing a scroll gently and tying it with a ribbon",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Tổng kết bằng một trang. Manh mối một: hai đứa trẻ cùng ra đời, trong hai hoàn cảnh chênh lệch. Độ tin cậy: cao, vì anime kể rõ."
+      },
+      "image_prompt": "a clue board on parchment with a first card showing two cradles and three filled stars, amber ink close-up",
+      "chapter": "Bảng manh mối tổng kết",
+      "on_screen_text": "1. Hai đứa trẻ: cao"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Manh mối hai: mật ong và đứa trẻ đã mất. Độ tin cậy: cao. Manh mối ba: gương mặt. Độ tin cậy: thấp."
+      },
+      "image_prompt": "the next two cards on the clue board, a honey jar with three stars and a face outline with one star, amber ink close-up",
+      "on_screen_text": "2. Mật ong: cao · 3. Gương mặt: thấp"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Manh mối bốn: thái độ của người lớn. Độ tin cậy: trung bình. Manh mối năm: vỏ bọc hoạn quan. Độ tin cậy: trung bình."
+      },
+      "image_prompt": "the last two cards on the clue board, three small faces and a mask, each with two stars, amber ink close-up",
+      "on_screen_text": "4 · 5: trung bình"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kết luận của Kaku: giả thuyết hoán đổi là cách giải thích khớp nhất với mọi manh mối. Nhưng với người chỉ xem anime, nó vẫn là LÝ THUYẾT."
+      },
+      "image_prompt": "the complete clue board with a red string connecting all five cards to a central theory card, amber ink close-up, warm light",
+      "on_screen_text": "Khớp nhất, nhưng vẫn là lý thuyết",
+      "video_prompt": "the red string tightens and connects each clue card to the center one by one",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Nếu bạn là Jinshi và biết được sự thật, bạn sẽ làm gì? Giữ im lặng để bảo vệ mọi người, hay đòi lại vị trí của mình?"
+      },
+      "image_prompt": "a figure standing at a crossroads in a palace garden with two lantern-lit paths leading in different directions, wide shot, warm dusk light",
+      "chapter": "Câu hỏi mở cho bạn",
+      "on_screen_text": "Bạn sẽ làm gì?"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và nếu bạn là Maomao, bạn có hỏi thẳng Jinshi không? Hay chọn giả vờ không biết?"
+      },
+      "image_prompt": "a small herb basket resting beside a folded unopened letter on a wooden bench, close-up, soft morning light"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Hãy viết câu trả lời vào bình luận. Kaku muốn đọc xem ai là người chọn sự thật, và ai là người chọn sự bình yên."
+      },
+      "image_prompt": "the owl mascot holding a quill pen over a blank scroll, looking expectantly at the viewer",
+      "use_mascot": true
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Một hoạn quan không phải hoạn quan. Một người em có thể là con. Và một hũ mật ong nhỏ giữ bí mật của cả hoàng cung. Dược sư tự sự là câu chuyện mà mỗi chi tiết nhỏ đều có thể là một liều thuốc, hoặc một liều độc."
+      },
+      "image_prompt": "a small honey jar and a porcelain medicine cup side by side on a palace table at dusk, close-up, warm golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Khi phần hai của mùa ba lên sóng vào tháng tư, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi."
+      },
+      "image_prompt": "a calendar page for April with a small lantern doodle beside a circled date, close-up, warm light",
+      "on_screen_text": "Xem lại vào tháng 4"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đặt ba hệ kiếm thuật lên cùng một bàn: Hơi thở của Kimetsu, kiếm Haki của One Piece, và yêu đao của Kagurabachi. Hệ nào mạnh nhất?"
+      },
+      "image_prompt": "three different swords laid side by side on a long table, each with a different glow, wide shot, dramatic light",
+      "on_screen_text": "Tiếp theo: ba hệ kiếm thuật"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nếu bạn thích những cuộc điều tra có gắn nhãn rõ ràng, hãy đăng ký kênh. Và nhớ: đừng cho trẻ nhỏ ăn mật ong, kể cả khi bạn không ở trong hoàng cung. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot putting a lid firmly on a honey jar and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "title": "Ba hệ kiếm thuật: Hơi thở vs kiếm Haki vs yêu đao — chấm 5 tiêu chí, hệ nào thắng?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới cái kết của Kimetsu no Yaiba, arc Wano của One Piece, và các chương giữa của Kagurabachi. Nếu bạn chưa xem tới đó, hãy lưu video lại cho sau này."
+      },
+      "image_prompt": "three sheathed swords lying side by side on a wooden table beside a spoiler warning card, close-up, warm lamp light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: 3 bộ truyện"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Ba bộ truyện, ba cách cầm kiếm. Một bên học cách thở. Một bên rèn ý chí. Một bên cầm một thanh kiếm tự nó đã có phép. Nếu đặt ba hệ ấy lên cùng một bàn, hệ nào thắng?"
+      },
+      "image_prompt": "three swords floating above a long table, one wreathed in swirling breath-like wind, one coated in glossy black, one with ghostly goldfish shapes, wide shot, dramatic light",
+      "on_screen_text": "Hệ nào thắng?",
+      "video_prompt": "the three floating swords slowly rotate as their auras swirl",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Kaku không so ai mạnh hơn ai. Kaku so hệ thống: học thế nào, mạnh tới đâu, và phải trả giá bao nhiêu."
+      },
+      "image_prompt": "a notebook page split into three columns with a small sword doodle at the top of each, amber ink close-up",
+      "on_screen_text": "So hệ thống, không so người"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku đặt Hơi thở của Kimetsu no Yaiba, kiếm Haki của One Piece, và yêu đao của Kagurabachi lên cùng một bàn. Năm tiêu chí, chấm từ một tới năm, và cuối video là bảng điểm cuối cùng."
+      },
+      "image_prompt": "the owl mascot in a judge's robe sitting behind a long table with three small swords laid out before it",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và nếu bạn vừa xem video nhập môn Kagurabachi của Kaku, đây là lúc thanh kiếm thứ bảy bước vào một trận so tài với hai hệ lớn nhất của anime."
+      },
+      "image_prompt": "a lone sword on a stand being carried into a grand hall where two other swords already rest, wide shot, warm dramatic light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trước khi vào ba hệ hư cấu, Kaku kể một chút về kiếm thuật Nhật ngoài đời thật. Cả ba bộ truyện đều mượn không ít từ đây."
+      },
+      "image_prompt": "a quiet traditional dojo with wooden floors and practice swords on a wall rack, wide shot, soft morning light",
+      "chapter": "Kiếm thuật Nhật ngoài đời thật",
+      "on_screen_text": "Kiếm thuật có thật"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Ở Nhật có những trường phái kiếm thuật cổ, được truyền từ thầy sang trò qua nhiều thế kỷ. Mỗi trường phái có những bài quyền riêng, như một ngôn ngữ riêng của thanh kiếm."
+      },
+      "image_prompt": "an old scroll unrolled on a wooden floor showing simple stick-figure sword stances in ink, extreme close-up, warm light",
+      "on_screen_text": "Trường phái cổ"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Một ví dụ nổi tiếng là trường phái hai kiếm gắn với kiếm sĩ Miyamoto Musashi ở thế kỷ mười bảy. Cầm hai kiếm cùng lúc, nghe như truyện tranh, nhưng là chuyện có thật."
+      },
+      "image_prompt": "two wooden practice swords crossed on a stand in front of a faded ink landscape painting, close-up, soft warm light",
+      "on_screen_text": "Hai kiếm: có thật"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Ngày nay, môn phổ biến nhất là kendo, đánh bằng kiếm tre và mặc giáp bảo hộ. Và trong kendo, hơi thở và tiếng hô cũng là một phần của đòn đánh."
+      },
+      "image_prompt": "a practitioner in protective armor raising a bamboo sword in a bright gymnasium, medium shot, clean daylight",
+      "on_screen_text": "Kendo: hơi thở và tiếng hô"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku nhắc: đây là giới thiệu văn hóa, không phải hướng dẫn. Muốn học kiếm, hãy tìm một võ đường có thầy dạy đàng hoàng."
+      },
+      "image_prompt": "the owl mascot bowing politely at the entrance of a small dojo",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Hệ thứ nhất: Hơi thở trong Kimetsu no Yaiba. Kiếm sĩ học cách thở theo một nhịp đặc biệt, gọi là Toàn Tập Trung, để đẩy cơ thể vượt giới hạn con người."
+      },
+      "image_prompt": "a figure standing in a misty forest breathing out a visible swirl of air, close-up, cool dawn light",
+      "chapter": "Hồ sơ hệ 1: Hơi thở",
+      "on_screen_text": "Toàn Tập Trung"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Mọi Hơi thở đều bắt nguồn từ một hơi thở đầu tiên: Hơi thở Mặt Trời, do một kiếm sĩ huyền thoại tạo ra từ nhiều thế kỷ trước."
+      },
+      "image_prompt": "a radiant sun rising behind a lone sword planted in a hilltop, wide shot, brilliant golden light",
+      "on_screen_text": "Gốc: Hơi thở Mặt Trời"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Từ đó chia ra năm hơi thở chính: Nước, Lửa, Sấm, Gió, Đá. Rồi từ năm nhánh chính lại mọc ra những nhánh nhỏ như Sương, Rắn, Hoa, Côn trùng, Âm thanh."
+      },
+      "image_prompt": "a tree diagram drawn on parchment with one sun root, five thick branches and many smaller twigs with elemental icons, amber ink close-up",
+      "on_screen_text": "5 nhánh chính, nhiều nhánh con"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Kiếm cũng đặc biệt: kiếm Nichirin rèn từ loại quặng hấp thụ ánh mặt trời, và đổi màu theo người cầm nó lần đầu."
+      },
+      "image_prompt": "a plain steel blade slowly changing color along its edge as a hand grips the hilt, extreme close-up, glowing light",
+      "on_screen_text": "Kiếm đổi màu",
+      "video_prompt": "the blade's color spreads slowly from hilt to tip",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và đỉnh cao của hệ này là Ấn, một dấu hiệu xuất hiện trên cơ thể khi kiếm sĩ vượt giới hạn, giúp sức mạnh tăng vọt."
+      },
+      "image_prompt": "a faint glowing mark appearing on a figure's forehead in a dark forest, extreme close-up, dramatic warm light",
+      "on_screen_text": "Ấn"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Còn có Thường Trung, tức giữ nhịp Toàn Tập Trung cả khi ngủ. Kiếm sĩ giỏi luyện tới mức cơ thể tự thở đúng cách suốt hai mươi bốn giờ mỗi ngày."
+      },
+      "image_prompt": "a figure sleeping peacefully on a futon with a faint steady swirl of breath rising above them, close-up, soft night light",
+      "on_screen_text": "Thở đúng cả khi ngủ"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku để ý: Hơi thở là hệ dân chủ nhất. Không cần sinh ra đặc biệt, chỉ cần luyện đủ khổ."
+      },
+      "image_prompt": "the owl mascot doing breathing exercises with its wings raised, cheeks puffed",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Hệ thứ hai: kiếm Haki trong One Piece. Haki là sức mạnh của ý chí, có ba loại: vũ trang, quan sát, và bá vương."
+      },
+      "image_prompt": "three glowing symbols on parchment, a shield, an eye and a crown, arranged in a triangle, amber ink close-up",
+      "chapter": "Hồ sơ hệ 2: kiếm Haki",
+      "on_screen_text": "Ba loại Haki"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kiếm sĩ phủ Haki vũ trang lên lưỡi kiếm, làm thanh kiếm cứng hơn, sắc hơn, và chém được cả những thứ bình thường không chém nổi."
+      },
+      "image_prompt": "a katana blade slowly darkening to a glossy black sheen from hilt to tip, extreme close-up, dramatic light",
+      "on_screen_text": "Phủ Haki lên kiếm",
+      "video_prompt": "the black sheen creeps up the blade from hilt to tip",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Kiếm trong One Piece cũng có hạng. Có mười hai thanh tối thượng, hai mươi mốt thanh đại danh đao, và năm mươi thanh lương danh đao. Có những thanh còn bị cho là mang lời nguyền."
+      },
+      "image_prompt": "a long ranked display rack of swords with small grade plaques beneath each, some plaques more ornate than others, wide shot, museum light",
+      "on_screen_text": "12 · 21 · 50"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Ở Wano, có một thanh kiếm hút Haki của người cầm nó. Kiếm sĩ phải kiểm soát được nó, nếu không sẽ bị vắt kiệt sức."
+      },
+      "image_prompt": "a sword pulling wisps of dark energy out of a straining arm, dramatic close-up, ominous purple light",
+      "on_screen_text": "Thanh kiếm hút Haki"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và đỉnh cao của hệ này là phủ Haki bá vương lên lưỡi kiếm. Chỉ những kiếm sĩ mạnh nhất thế giới mới làm được."
+      },
+      "image_prompt": "a blade crackling with black and red lightning as it clashes against another blade in a storm, dramatic close-up, intense light",
+      "on_screen_text": "Phủ Haki bá vương"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Haki quan sát cũng quan trọng với kiếm sĩ: nó giúp cảm nhận đối thủ, nhìn trước đòn đánh, và ở mức cao nhất, thấy trước một chút tương lai."
+      },
+      "image_prompt": "a blindfolded swordsman calmly parrying a blade in a bamboo grove, dynamic close-up, dappled green light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Kaku để ý: kiếm Haki là hệ đặt ý chí lên trên hết. Thanh kiếm tốt giúp bạn, nhưng thứ quyết định là người cầm kiếm tin vào điều gì."
+      },
+      "image_prompt": "the owl mascot holding a wooden sword with a determined frown",
+      "use_mascot": true
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Hệ thứ ba: yêu đao trong Kagurabachi. Sức mạnh nằm trong chính thanh kiếm, do người thợ rèn Rokuhira Kunishige tạo ra."
+      },
+      "image_prompt": "a katana resting on a blacksmith's anvil with faint glowing patterns moving under the steel, close-up, warm ember light",
+      "chapter": "Hồ sơ hệ 3: yêu đao",
+      "on_screen_text": "Sức mạnh nằm trong kiếm"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Có sáu thanh yêu đao, những vũ khí đã kết thúc Chiến tranh Seitei. Về sau có thêm thanh thứ bảy, Enten, rèn gần mười lăm năm sau chiến tranh."
+      },
+      "image_prompt": "six katanas on a long rack and a seventh on a separate stand, wide shot, solemn dim light",
+      "on_screen_text": "6 + 1"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Luật quan trọng nhất là hợp đồng trọn đời. Khi một người trở thành chủ của yêu đao, chỉ người đó dùng được kỹ thuật của nó, cho tới khi họ chết."
+      },
+      "image_prompt": "a hand placing a palm on a sword's blade as a thin glowing thread binds wrist and hilt together, extreme close-up, mystical light",
+      "on_screen_text": "Hợp đồng trọn đời",
+      "video_prompt": "the glowing thread tightens and binds wrist and hilt together",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Và cái giá: người ký hợp đồng mất vĩnh viễn thuật riêng của mình. Không có kiếm trong tay, họ gần như không còn gì để chiến đấu."
+      },
+      "image_prompt": "an empty open hand beside an empty sword stand in a dark room, symbolic close-up, cold light",
+      "on_screen_text": "Mất thuật riêng"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Một người có thể ký hợp đồng với nhiều yêu đao. Nhưng mỗi thanh kiếm, tại một thời điểm, chỉ nghe lời một chủ nhân."
+      },
+      "image_prompt": "two swords on a rack with glowing threads leading to a single hand, symbolic close-up, mystical light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kaku để ý: yêu đao là hệ ngược với Hơi thở. Không cần luyện nửa đời, nhưng số người được cầm thì đếm trên đầu ngón tay."
+      },
+      "image_prompt": "the owl mascot counting on its wing feathers with a surprised look",
+      "use_mascot": true
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Có một điểm chung thú vị: cả ba hệ đều được truyền qua một người thầy, và người thầy ấy quyết định rất nhiều về người học trò."
+      },
+      "image_prompt": "three pairs of hands, one old and one young in each, resting on three different sword hilts, close-up, warm light",
+      "chapter": "Ba người thầy",
+      "on_screen_text": "Ba người thầy"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Trong Kimetsu, Tanjiro học Hơi thở Nước từ một người thầy đeo mặt nạ trên núi, với những bài tập tưởng như bất khả thi, như chém đôi một tảng đá."
+      },
+      "image_prompt": "a young figure standing before a huge boulder on a misty mountain with a sword in hand, wide shot, cold mist light",
+      "on_screen_text": "Chém đôi tảng đá"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Trong One Piece, Zoro dành hai năm học kiếm từ chính kiếm sĩ mạnh nhất thế giới, người từng là mục tiêu mà cậu muốn vượt qua."
+      },
+      "image_prompt": "two silhouettes crossing swords in the courtyard of a ruined castle under a grey sky, wide shot, moody light",
+      "on_screen_text": "Học từ đối thủ"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Còn trong Kagurabachi, người thầy đầu tiên của Chihiro không dạy cậu đánh kiếm, mà dạy cậu rèn kiếm. Hiểu thanh kiếm từ bên trong, trước khi dùng nó."
+      },
+      "image_prompt": "an older blacksmith guiding a teenager's hands on a hammer over a glowing blade, close-up, warm ember light",
+      "on_screen_text": "Học rèn trước khi học đánh"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku để ý: ba người thầy phản ánh đúng ba hệ. Hơi thở dạy kỷ luật. Haki dạy bạn đối mặt với người mạnh hơn. Yêu đao dạy bạn hiểu thứ mình cầm trong tay."
+      },
+      "image_prompt": "the owl mascot wearing three tiny hats stacked on its head, looking thoughtful",
+      "use_mascot": true
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Năm tiêu chí của Kaku. Một: độ phổ cập, tức bao nhiêu người có thể học được. Hai: sức mạnh đỉnh cao, tức hệ này đi xa tới đâu."
+      },
+      "image_prompt": "a scorecard on parchment with five rows, the first two labeled with a crowd icon and a mountain peak icon, amber ink close-up",
+      "chapter": "Năm tiêu chí",
+      "on_screen_text": "1. Phổ cập · 2. Đỉnh cao"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Ba: độ đa dạng, tức có bao nhiêu phong cách khác nhau. Bốn: cái giá, và ở tiêu chí này, cái giá càng nhẹ thì điểm càng cao."
+      },
+      "image_prompt": "the next rows of the scorecard labeled with a branching icon and a scale icon, amber ink close-up",
+      "on_screen_text": "3. Đa dạng · 4. Cái giá"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Năm: sợi dây giữa người và kiếm, tức hệ này kể câu chuyện về mối quan hệ giữa kiếm sĩ và thanh kiếm sâu tới đâu."
+      },
+      "image_prompt": "the last row of the scorecard labeled with a hand holding a sword hilt icon, amber ink close-up",
+      "on_screen_text": "5. Người và kiếm"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Mỗi tiêu chí từ một tới năm, tổng tối đa hai mươi lăm. Và như mọi bảng điểm của Kaku, đây là đánh giá của Kaku. Bạn cứ chấm khác nhé."
+      },
+      "image_prompt": "the owl mascot sharpening a pencil beside a blank scorecard",
+      "use_mascot": true
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Hơi thở: ai cũng có thể học, nếu luyện đủ khổ và có thầy giỏi. Nhiều kiếm sĩ bình thường trong Đội diệt quỷ đều dùng Hơi thở. Bốn điểm."
+      },
+      "image_prompt": "a row of ordinary trainees practicing breathing forms together in a mountain dojo yard, wide shot, crisp morning light",
+      "chapter": "Tiêu chí 1: độ phổ cập",
+      "on_screen_text": "Hơi thở: 4"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kiếm Haki: theo truyện, mọi sinh vật đều có tiềm năng Haki, nhưng đánh thức được nó rất khó, và Haki bá vương thì chỉ một số ít người sinh ra đã có. Ba điểm."
+      },
+      "image_prompt": "a single figure among a crowd with a faint glow around them, symbolic wide shot, soft light",
+      "on_screen_text": "Kiếm Haki: 3"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Yêu đao: chỉ có bảy thanh, mỗi thanh một người chủ tại một thời điểm. Một điểm."
+      },
+      "image_prompt": "seven small sword icons on parchment with seven single stick figures beside them, amber ink close-up",
+      "on_screen_text": "Yêu đao: 1"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Ở điểm này, Hơi thở giống một trường võ, Haki giống một tài năng cần khai mở, còn yêu đao giống một báu vật quốc gia."
+      },
+      "image_prompt": "three small icons on parchment, a dojo gate, a seed sprouting and a treasure chest, amber ink close-up"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku để ý: hệ phổ cập nhất tạo ra một đội quân. Hệ hiếm nhất tạo ra những con người trở thành mục tiêu săn đuổi."
+      },
+      "image_prompt": "a crowd of trainee silhouettes on one side and a lone hunted figure on the other, split composition, contrasting light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Hơi thở: ở đỉnh cao, người dùng Hơi thở Mặt Trời có thể đứng ngang, thậm chí áp đảo cả Vua Quỷ. Nhưng đó là trường hợp gần như duy nhất trong lịch sử truyện. Bốn điểm."
+      },
+      "image_prompt": "a lone swordsman silhouette standing before a looming dark figure under a crimson moon, wide shot, dramatic light",
+      "chapter": "Tiêu chí 2: sức mạnh đỉnh cao",
+      "on_screen_text": "Hơi thở: 4"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kiếm Haki: ở đỉnh cao, kiếm sĩ mạnh nhất có thể chém đôi những thứ khổng lồ, và đối đầu những kẻ mạnh nhất thế giới. Năm điểm."
+      },
+      "image_prompt": "a single sword slash splitting a massive iceberg in half across a stormy sea, dramatic wide shot, intense light",
+      "on_screen_text": "Kiếm Haki: 5",
+      "video_prompt": "the iceberg splits apart as the slash wave rolls across the sea",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Yêu đao: sáu thanh kiếm đủ để kết thúc cả một cuộc chiến tranh. Về sức tàn phá, đây là hệ đáng sợ nhất. Năm điểm."
+      },
+      "image_prompt": "an old war painting on a folding screen with six points of blinding light over a battlefield, close-up, aged dramatic light",
+      "on_screen_text": "Yêu đao: 5"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku để ý: hai hệ cùng năm điểm, nhưng khác nhau ở chỗ: đỉnh cao của Haki là của một người, còn đỉnh cao của yêu đao là của một vũ khí."
+      },
+      "image_prompt": "the owl mascot placing a small figurine and a small sword side by side on a pedestal, comparing them",
+      "use_mascot": true
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Hơi thở: hàng chục nhánh, mỗi nhánh nhiều thế kiếm, mỗi thế mang hình ảnh riêng, từ sóng nước tới hoa đào, từ sấm sét tới trăng khuyết. Năm điểm."
+      },
+      "image_prompt": "a fan of sword arcs drawn in different elemental styles, water waves, flames, lightning and crescent moons, parchment illustration style, vivid light",
+      "chapter": "Tiêu chí 3: độ đa dạng",
+      "on_screen_text": "Hơi thở: 5"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kiếm Haki: mỗi kiếm sĩ tự tạo phong cách riêng, như một kiếm, hai kiếm, hay ba kiếm cùng lúc. Nhưng Haki bản thân nó chỉ có ba loại. Bốn điểm."
+      },
+      "image_prompt": "a sword stand holding one, two and three sword arrangements side by side, close-up, warm light",
+      "on_screen_text": "Kiếm Haki: 4"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Yêu đao: mỗi thanh có một năng lực hoàn toàn khác nhau. Chỉ riêng Enten đã có ba kỹ thuật cá vàng. Nhưng tổng cộng chỉ có bảy thanh. Bốn điểm."
+      },
+      "image_prompt": "seven distinct sword silhouettes each with a different small glowing symbol above it, amber ink close-up",
+      "on_screen_text": "Yêu đao: 4"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku để ý: Hơi thở thắng ở tiêu chí này vì nó là một hệ thống mở. Người sau có thể tạo ra nhánh mới từ nhánh cũ."
+      },
+      "image_prompt": "a tree diagram with a fresh new twig being drawn at the end of a branch, amber ink close-up"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Hơi thở: cái giá nặng nhất là Ấn. Theo truyện, những người thức tỉnh Ấn sẽ không sống quá tuổi hai mươi lăm, trừ một ngoại lệ duy nhất. Hai điểm."
+      },
+      "image_prompt": "a single candle burning very bright but very short on a wooden table, symbolic close-up, intense warm light",
+      "chapter": "Tiêu chí 4: cái giá",
+      "on_screen_text": "Hơi thở: 2"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kiếm Haki: cái giá là kiệt sức, và với một vài thanh kiếm đặc biệt, bị hút cạn Haki. Nặng, nhưng hồi phục được. Bốn điểm."
+      },
+      "image_prompt": "an exhausted swordsman sitting against a rock after battle, breathing heavily but alive, medium shot, warm dusk light",
+      "on_screen_text": "Kiếm Haki: 4"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Yêu đao: mất vĩnh viễn thuật riêng, không có kiếm là không có gì, và luôn bị săn đuổi. Còn chưa kể cái giá đạo đức của việc cầm một vũ khí chiến tranh. Hai điểm."
+      },
+      "image_prompt": "a lone figure clutching a sword while shadows close in from every alley, wide shot, tense cold light",
+      "on_screen_text": "Yêu đao: 2"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku để ý: hai hệ mạnh bùng nổ nhất đều có cái giá đắt nhất. Chỉ kiếm Haki là cho bạn mạnh lên mà vẫn còn đường lùi."
+      },
+      "image_prompt": "the owl mascot balancing a heavy scale with a nervous face",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Hơi thở: thanh kiếm đổi màu theo người cầm, và các thợ rèn gắn bó với kiếm sĩ của mình. Nhưng sức mạnh vẫn nằm trong cơ thể, không nằm trong kiếm. Bốn điểm."
+      },
+      "image_prompt": "a swordsmith in a mask handing a newly colored blade to a young swordsman, medium shot, warm workshop light",
+      "chapter": "Tiêu chí 5: người và kiếm",
+      "on_screen_text": "Hơi thở: 4"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kiếm Haki: trong One Piece, kiếm có tính cách, có lời nguyền, có lịch sử. Một kiếm sĩ có thể mang theo lời hứa với một người bạn đã khuất trong chính thanh kiếm của mình. Năm điểm."
+      },
+      "image_prompt": "a white-hilted katana resting on a grave marker under cherry blossoms, close-up, soft melancholy light",
+      "on_screen_text": "Kiếm Haki: 5"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Yêu đao: hợp đồng trọn đời nghĩa là người và kiếm gắn với nhau tới chết. Và với Chihiro, thanh kiếm còn là di sản của người cha. Năm điểm."
+      },
+      "image_prompt": "a sword and an old blacksmith's hammer resting side by side on a workbench, extreme close-up, warm nostalgic light",
+      "on_screen_text": "Yêu đao: 5"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku để ý: ở tiêu chí này, hai hệ có thanh kiếm biết nói chuyện, theo nghĩa bóng, đều đạt điểm tối đa."
+      },
+      "image_prompt": "the owl mascot holding a tiny sword up to its ear as if listening to it",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Bảng điểm cuối cùng. Hơi thở: bốn, bốn, năm, hai, bốn. Tổng mười chín điểm."
+      },
+      "image_prompt": "a scoreboard on parchment with the first column filled with numbers and nineteen circled, amber ink close-up",
+      "chapter": "Bảng điểm cuối cùng",
+      "on_screen_text": "Hơi thở: 19"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Kiếm Haki: ba, năm, bốn, bốn, năm. Tổng hai mươi mốt điểm."
+      },
+      "image_prompt": "the second column of the scoreboard filled with twenty-one circled in gold, amber ink close-up",
+      "on_screen_text": "Kiếm Haki: 21"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Yêu đao: một, năm, bốn, hai, năm. Tổng mười bảy điểm."
+      },
+      "image_prompt": "the third column of the scoreboard filled with seventeen circled, amber ink close-up",
+      "on_screen_text": "Yêu đao: 17"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Khoảng cách giữa ba hệ không lớn: chỉ bốn điểm từ hạng nhất tới hạng ba. Chỉ cần đổi một tiêu chí, thứ hạng có thể đảo ngược."
+      },
+      "image_prompt": "three bars on a chart with very similar heights, a finger poised to move one, amber ink close-up",
+      "on_screen_text": "Chỉ cách nhau 4 điểm"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Người thắng theo bảng của Kaku: kiếm Haki của One Piece, với hai mươi mốt điểm. Không phải vì nó mạnh nhất ở mọi mặt, mà vì nó không có điểm yếu nào quá sâu."
+      },
+      "image_prompt": "a small gold ribbon pinned onto a black-coated sword on a stand, close-up, warm triumphant light",
+      "on_screen_text": "Thắng: kiếm Haki"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Mỗi hệ đều có một điểm yếu chí mạng. Hơi thở dựa vào phổi và thể lực. Khi kiếm sĩ bị thương nặng hay kiệt sức, nhịp thở vỡ, và sức mạnh sụp theo."
+      },
+      "image_prompt": "a figure kneeling with a hand on their chest in a dark forest as their visible breath falters, close-up, cold light",
+      "chapter": "Điểm yếu chí mạng của từng hệ",
+      "on_screen_text": "Hơi thở: nhịp thở vỡ"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kiếm Haki dựa vào ý chí. Khi Haki cạn, kiếm sĩ trở lại thành người thường cầm một thanh kiếm tốt."
+      },
+      "image_prompt": "a blade whose black coating flakes away like ash, extreme close-up, fading dim light",
+      "on_screen_text": "Haki: khi ý chí cạn"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Yêu đao dựa vào chính thanh kiếm. Mất kiếm, người ký hợp đồng mất gần như tất cả, vì thuật riêng của họ đã không còn."
+      },
+      "image_prompt": "a sword being knocked from a hand and spinning away through the air in slow motion, dynamic close-up, dramatic light",
+      "on_screen_text": "Yêu đao: mất kiếm là mất hết"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nói cách khác: muốn thắng người dùng Hơi thở, hãy kéo dài trận đấu. Muốn thắng người dùng Haki, hãy làm họ nghi ngờ bản thân. Muốn thắng người cầm yêu đao, hãy cướp kiếm."
+      },
+      "image_prompt": "a three-column strategy note on parchment with an hourglass, a cracked heart and an open grabbing hand, amber ink close-up",
+      "on_screen_text": "Ba cách thắng"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Kaku để ý: chính điểm yếu làm các trận đấu trong ba bộ truyện hay. Nhân vật mạnh nhất cũng phải chiến đấu quanh điểm yếu của mình."
+      },
+      "image_prompt": "the owl mascot drawing a small crack on a shield with a knowing nod",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nhưng bảng điểm phụ thuộc vào thứ bạn coi trọng. Nếu chỉ tính sức mạnh đỉnh cao, kiếm Haki và yêu đao hòa nhau."
+      },
+      "image_prompt": "a balance scale perfectly level with a black sword on one side and a goldfish-glow sword on the other, symbolic close-up, amber light",
+      "chapter": "Nếu đổi trọng số thì sao?",
+      "on_screen_text": "Chỉ tính sức mạnh: hòa"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu bạn coi trọng việc ai cũng học được, Hơi thở thắng xa. Đó là hệ của những người bình thường muốn bảo vệ người khác."
+      },
+      "image_prompt": "a crowd of ordinary silhouettes holding practice swords together at sunrise, wide shot, hopeful golden light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và nếu bạn coi trọng câu chuyện giữa người và kiếm, yêu đao đứng ngang kiếm Haki. Mỗi hệ đều thắng ở một câu hỏi khác nhau."
+      },
+      "image_prompt": "three swords on a table each lit by its own separate spotlight, wide shot, dramatic light",
+      "on_screen_text": "Mỗi hệ thắng một câu hỏi"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Giờ là phần giả tưởng vui. Tưởng tượng ba kiếm sĩ bình thường, mỗi người đại diện cho một hệ, gặp nhau trên cùng một sân. Không ai là nhân vật chính."
+      },
+      "image_prompt": "three faceless swordsman silhouettes standing at three points of a triangle on an empty field at dusk, wide shot, dramatic light",
+      "chapter": "Trận giả tưởng: ba kiếm sĩ trên cùng một sân",
+      "on_screen_text": "GIẢ TƯỞNG"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Người dùng Hơi thở có tốc độ và sự bền bỉ. Anh ta sẽ cố kéo trận đấu dài ra, dùng các thế kiếm liên hoàn."
+      },
+      "image_prompt": "a swordsman silhouette dashing in a blur trailing water-like arcs, dynamic wide shot, cool light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Người dùng Haki có Haki quan sát. Anh ta nhìn thấy trước đòn đánh, nên tốc độ của Hơi thở bớt đáng sợ."
+      },
+      "image_prompt": "a calm swordsman silhouette with eyes closed sidestepping a blurred slash, dynamic close-up, focused light",
+      "on_screen_text": "Quan sát đọc trước"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Còn người cầm yêu đao có một năng lực mà hai người kia chưa từng thấy. Trận đầu tiên, yếu tố bất ngờ có thể quyết định tất cả."
+      },
+      "image_prompt": "a sword releasing an unexpected burst of ghostly shapes toward two surprised silhouettes, dramatic wide shot, eerie glowing light",
+      "on_screen_text": "Yếu tố bất ngờ"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kết quả giả tưởng của Kaku: như oẳn tù tì. Haki khắc Hơi thở, yêu đao khắc Haki ở lần gặp đầu, và Hơi thở khắc yêu đao nếu kéo được trận đấu dài để cướp kiếm."
+      },
+      "image_prompt": "a rock paper scissors style triangle diagram with three sword icons and arrows between them, amber ink close-up",
+      "on_screen_text": "Như oẳn tù tì"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku nhắc: đây chỉ là giả tưởng, không có trong truyện nào. Bạn nghĩ vòng tròn ấy nên xoay theo chiều nào?"
+      },
+      "image_prompt": "the owl mascot spinning a small paper wheel with three sword icons on it",
+      "use_mascot": true
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku nghĩ ba hệ kiếm thuật là ba câu trả lời cho một câu hỏi: sức mạnh đến từ đâu?"
+      },
+      "image_prompt": "the owl mascot writing a big question mark in the center of a page with three arrows pointing to it",
+      "chapter": "Góc nhìn của Kaku",
+      "use_mascot": true
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Kimetsu nói: sức mạnh đến từ cơ thể và sự kiên trì. One Piece nói: sức mạnh đến từ ý chí. Kagurabachi nói: sức mạnh có thể được rèn ra, nhưng ai cầm nó thì phải chịu trách nhiệm với nó."
+      },
+      "image_prompt": "three small pedestals holding a lung diagram, a flame and a blacksmith's hammer, symbolic close-up, warm light",
+      "on_screen_text": "Cơ thể · Ý chí · Trách nhiệm"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Ba câu trả lời ấy không loại trừ nhau. Một kiếm sĩ giỏi có lẽ cần cả ba: cơ thể được rèn luyện, một ý chí vững, và ý thức về thứ mình cầm trong tay."
+      },
+      "image_prompt": "three intertwined ribbons tied around a single sword hilt, extreme close-up, warm golden light"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Và có lẽ vì vậy mà cả ba bộ truyện đều có một điểm chung: nhân vật chính cầm kiếm không phải để mạnh hơn, mà để bảo vệ ai đó."
+      },
+      "image_prompt": "three silhouettes with swords standing back to back, each shielding a smaller figure behind them, wide shot, warm dusk light"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Câu hỏi cuối: nếu được sống trong một trong ba thế giới và học một hệ, bạn chọn hệ nào?"
+      },
+      "image_prompt": "three doors side by side in a misty hall, each with a different sword emblem carved on it, wide shot, mysterious light",
+      "chapter": "Nếu được chọn một hệ",
+      "on_screen_text": "Bạn chọn hệ nào?"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Chọn Hơi thở, bạn sẽ phải luyện rất khổ, và sống trong thế giới đầy quỷ dữ. Chọn Haki, bạn cần một ý chí thép và một chuyến ra khơi đầy nguy hiểm."
+      },
+      "image_prompt": "a mountain training path on one side and a small ship on a stormy sea on the other, split composition, contrasting light"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Chọn yêu đao, bạn phải từ bỏ mọi thứ khác, và trở thành mục tiêu của cả thế giới ngầm."
+      },
+      "image_prompt": "a lone figure holding a sword under a single streetlight while many eyes glow from the dark around them, wide shot, tense cold light"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Kaku chọn Hơi thở, vì Kaku thở rất giỏi. Ít nhất là khi ngủ. Bạn thì sao?"
+      },
+      "image_prompt": "the owl mascot asleep at its desk, breathing peacefully with little puffs of air",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Một hơi thở, một ý chí, một thanh kiếm có phép. Ba hệ kiếm thuật, ba cách trả lời. Và bảng điểm của Kaku chỉ là một trong vô số cách chấm."
+      },
+      "image_prompt": "three swords laid in a triangle on a wooden table at sunset, top-down shot, warm golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku muốn bạn chọn: hai hệ sức mạnh nào bạn muốn Kaku đặt lên cùng một bàn? Hãy bình luận cặp đấu bạn muốn xem nhất."
+      },
+      "image_prompt": "a blank matchup card with two empty slots and a versus symbol pinned on a corkboard, close-up, warm lamp light",
+      "on_screen_text": "Bạn chọn cặp đấu tiếp theo"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Nếu bạn thích những bảng điểm có luật rõ ràng, hãy đăng ký kênh. Và lần tới cầm một vật quan trọng với mình, hãy nghĩ xem sợi dây giữa bạn và nó là gì. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot bowing with a tiny wooden sword held flat in both wings, then waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

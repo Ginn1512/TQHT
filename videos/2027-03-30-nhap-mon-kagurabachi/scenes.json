@@ -1,0 +1,708 @@
+{
+  "title": "Kagurabachi: Nhập môn thế giới yêu đao trong 15 phút, trước khi anime ra mắt",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư sẽ kể. Bạn có thể xem thoải mái."
+      },
+      "image_prompt": "a closed notebook with a small green safe-to-read stamp on its cover resting on a wooden workbench, close-up, warm light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Gần như không spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Nếu bạn chưa đọc Kagurabachi, đây là mười lăm phút bạn cần. Một cậu con trai của thợ rèn kiếm. Một thanh kiếm có phép. Và một cuộc truy lùng những kẻ đã lấy đi tất cả của cậu."
+      },
+      "image_prompt": "a sheathed katana resting on a blacksmith's anvil in a dark forge with embers glowing, dramatic close-up, warm ember light",
+      "on_screen_text": "15 phút bạn cần"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Đây là bộ truyện từng bị cả internet đem ra làm trò đùa, trước khi chương một kịp ra mắt. Và rồi nó làm tất cả những người đùa phải im lặng."
+      },
+      "image_prompt": "a wall of scrolling social media speech bubbles slowly fading into silence, symbolic wide shot, cool screen light",
+      "on_screen_text": "Từ trò đùa tới hiện tượng"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở cánh cửa vào thế giới Kagurabachi: thế giới trông ra sao, nhân vật chính là ai, yêu đao hoạt động thế nào, và vì sao bạn nên xem. Cuối video là lộ trình xem cho người mới."
+      },
+      "image_prompt": "the owl mascot pushing open a heavy wooden door with light spilling out, looking excited",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Kaku nhắc trước: đây là truyện hành động với nhiều cảnh đánh nhau. Kaku sẽ kể nhẹ nhàng, không đi vào chi tiết bạo lực."
+      },
+      "image_prompt": "a katana blade reflecting a soft lantern light in a quiet dark room, extreme close-up, calm warm light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Kagurabachi là manga của tác giả Takeru Hokazono, đăng trên tuần san Shonen Jump từ tháng chín năm 2023. Đây là bộ truyện dài kỳ đầu tiên của ông."
+      },
+      "image_prompt": "a stack of weekly manga magazines on a newsstand counter with a single copy slightly pulled out, close-up, warm morning light",
+      "chapter": "Hiện tượng Kagurabachi",
+      "on_screen_text": "Shonen Jump, 9/2023"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Ngay khi truyện vừa ra mắt, cộng đồng mạng nước ngoài biến nó thành một trò đùa: người ta khen nó quá mức ở khắp nơi, như một câu nói đùa lặp đi lặp lại."
+      },
+      "image_prompt": "a crowd of tiny cartoon speech bubbles all shouting the same exclamation mark, humorous wide shot, bright playful light",
+      "on_screen_text": "Một trò đùa lan truyền"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhưng trò đùa ấy kéo rất nhiều người tới đọc thật. Và họ ở lại. Nhiều người nói, đại ý, rằng họ tới để cười, nhưng ở lại vì truyện hay thật."
+      },
+      "image_prompt": "a reader sitting under a lamp, completely absorbed in a book late at night, close-up, warm lamp light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Năm 2024, Kagurabachi giành hạng nhất giải Next Manga Award ở hạng mục truyện in, với hơn một trăm nghìn điểm bình chọn."
+      },
+      "image_prompt": "a small golden trophy on a table beside a tally sheet with a very long column of marks, close-up, warm light",
+      "on_screen_text": "Next Manga Award 2024: hạng 1"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và tháng tư năm 2027, anime Kagurabachi ra mắt, do studio Cypic thực hiện. Trước đó, hai mươi phút đầu của tập một đã được chiếu trong một chuyến lưu diễn vòng quanh thế giới."
+      },
+      "image_prompt": "a cinema screen glowing in a dark theater with rows of silhouetted audience members, wide shot, blue projector light",
+      "on_screen_text": "Anime: tháng 4/2027"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kaku để ý: ít bộ truyện nào đi từ một câu đùa trên mạng tới một bản anime chỉ trong khoảng ba năm rưỡi. Kagurabachi làm được, vì nó có thứ để giữ chân người đọc."
+      },
+      "image_prompt": "the owl mascot holding a tiny meme poster in one wing and a trophy in the other, surprised",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kagurabachi lấy bối cảnh Nhật Bản hiện đại. Có điện thoại, có xe hơi, có những con phố đêm đầy đèn neon."
+      },
+      "image_prompt": "a rain-soaked modern Japanese alley at night with glowing neon signs and a vending machine, wide shot, moody neon light",
+      "chapter": "Thế giới: Nhật Bản hiện đại và thuật sư",
+      "on_screen_text": "Nhật Bản hiện đại"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhưng dưới lớp vỏ ấy là một thế giới ngầm. Có những thuật sư, những người dùng năng lực siêu nhiên. Có những băng đảng yakuza sẵn sàng mua bán bất cứ thứ gì."
+      },
+      "image_prompt": "a shadowy back room with figures in suits gathered around a table under a single hanging bulb, medium shot, dim smoky light",
+      "on_screen_text": "Thế giới ngầm"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Trong quá khứ của thế giới này có một cuộc chiến lớn, gọi là Chiến tranh Seitei. Cuộc chiến ấy kết thúc nhờ một thứ vũ khí đặc biệt: yêu đao."
+      },
+      "image_prompt": "an old war painting on a folding screen showing distant armies and a few bright points of light on a battlefield, close-up, aged golden light",
+      "on_screen_text": "Chiến tranh Seitei"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Có sáu thanh yêu đao, do một thợ rèn tên Rokuhira Kunishige tạo ra. Sáu người cầm sáu thanh kiếm ấy đã chấm dứt chiến tranh."
+      },
+      "image_prompt": "six katanas resting on a long wooden rack in a dim shrine hall, each with a faint different glow, wide shot, solemn light",
+      "on_screen_text": "Sáu thanh yêu đao",
+      "video_prompt": "the six blades glow one after another along the rack",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Sau chiến tranh, sáu thanh kiếm bị cất giấu và canh giữ cẩn mật. Người thợ rèn, người tạo ra chúng, không hề tự hào về điều đó."
+      },
+      "image_prompt": "a heavy sealed wooden chest wrapped in ropes and paper charms in a dark storehouse, close-up, cold dim light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Chính phủ có một tổ chức thuật sư riêng, tên là Kamunabi, lo việc giữ trật tự trong thế giới phép thuật và bảo vệ những bí mật như yêu đao."
+      },
+      "image_prompt": "a formal building entrance at night with guards in dark uniforms standing beneath a simple emblem, wide shot, cold institutional light",
+      "on_screen_text": "Kamunabi"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Điều thú vị là thế giới phép thuật và thế giới bình thường sống sát cạnh nhau. Người thường có thể đi ngang qua một trận chiến mà không hiểu chuyện gì đang xảy ra."
+      },
+      "image_prompt": "ordinary pedestrians with umbrellas walking past a narrow alley where faint glowing sparks flicker, wide shot, rainy neon light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kaku để ý: thế giới này giống như một bộ phim yakuza pha với truyện kiếm hiệp. Kiếm và phép thuật, nhưng giữa những tòa nhà bê tông."
+      },
+      "image_prompt": "the owl mascot wearing a tiny fedora and holding a wooden practice sword under a neon sign",
+      "use_mascot": true
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nhân vật chính là Rokuhira Chihiro, con trai của người thợ rèn huyền thoại. Cậu mơ trở thành thợ rèn kiếm giống cha."
+      },
+      "image_prompt": "a teenager kneeling beside a forge carefully watching an older figure hammer glowing steel, medium shot, warm ember light",
+      "chapter": "Nhân vật chính: con trai người thợ rèn",
+      "on_screen_text": "Chihiro: con trai thợ rèn"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Những ngày đầu của truyện rất ấm áp. Hai cha con làm việc, ăn cơm, trêu nhau. Người cha là một người vui tính, hay đùa, và yêu con."
+      },
+      "image_prompt": "two bowls of rice and a small teapot on a low table in a cozy workshop kitchen, close-up, soft warm evening light",
+      "on_screen_text": "Những ngày ấm áp"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và trong nhà có những con cá vàng. Một chi tiết nhỏ, nhưng hãy nhớ nó, vì cá vàng sẽ quay lại theo một cách rất đặc biệt."
+      },
+      "image_prompt": "a round glass bowl with goldfish swimming slowly on a wooden windowsill, extreme close-up, soft morning light",
+      "on_screen_text": "Nhớ những con cá vàng"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Rồi một ngày, một nhóm thuật sư bí ẩn tấn công ngôi nhà. Người cha bị giết. Sáu thanh yêu đao bị cướp đi. Và cuộc sống êm đềm của Chihiro vỡ tan."
+      },
+      "image_prompt": "a workshop doorway with a broken sliding door and scattered tools on the floor under cold moonlight, wide shot, somber light",
+      "on_screen_text": "Một đêm mất tất cả",
+      "video_prompt": "moonlight flickers through the broken door as dust settles on the tools",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Nhóm thuật sư ấy có tên là Hishaku. Họ lấy yêu đao để làm gì, lúc đầu không ai biết."
+      },
+      "image_prompt": "a single black ladle-shaped emblem drawn on an old paper talisman pinned to a wall, extreme close-up, eerie dim light",
+      "on_screen_text": "Hishaku"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Vài năm sau, Chihiro trở lại với một thanh kiếm bên hông. Cậu ít nói, lạnh lùng, và chỉ có một mục tiêu: tìm lại sáu thanh yêu đao, và tìm ra những kẻ đã giết cha mình."
+      },
+      "image_prompt": "a lone young figure in a dark coat walking down a rainy street at night with a sheathed sword at their side, back view, wide shot, cold neon light",
+      "on_screen_text": "Một mục tiêu"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Người cha từng nói với Chihiro, đại ý, rằng một thợ rèn phải hiểu thanh kiếm của mình sẽ được dùng để làm gì. Câu nói ấy theo Chihiro suốt hành trình."
+      },
+      "image_prompt": "an older blacksmith pointing at a blade while a teenager listens intently beside the forge, medium shot, warm ember light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Kaku để ý: Chihiro không phải kiểu nhân vật chính hét to và cười lớn. Cậu im lặng, nhưng sự im lặng ấy cho ta biết cậu đã mất nhiều thế nào."
+      },
+      "image_prompt": "the owl mascot sitting quietly beside a goldfish bowl, looking thoughtful",
+      "use_mascot": true
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Trước khi nói về yêu đao, Kaku kể một chút về nghề của cha Chihiro ngoài đời thật. Rèn kiếm Nhật là một nghề thủ công có từ hàng trăm năm, và tới nay vẫn còn người làm."
+      },
+      "image_prompt": "a traditional Japanese forge interior with a charcoal fire, a hammer and tongs on a wooden stand, wide shot, warm ember light",
+      "chapter": "Nghề rèn kiếm Nhật ngoài đời thật",
+      "on_screen_text": "Nghề rèn kiếm có thật"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Nguyên liệu truyền thống là một loại thép gọi là tamahagane, luyện từ cát sắt trong một lò đất lớn. Người thợ gấp và đập thép nhiều lần để loại bớt tạp chất."
+      },
+      "image_prompt": "a glowing bar of steel being folded over on an anvil with sparks flying, extreme close-up, bright orange light",
+      "on_screen_text": "Tamahagane: gấp và đập"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Trước khi tôi, người thợ phủ lên lưỡi kiếm một lớp đất sét, dày ở sống và mỏng ở lưỡi. Nhờ vậy lưỡi kiếm cứng, còn sống kiếm dẻo, và một đường vân gọi là hamon hiện ra."
+      },
+      "image_prompt": "a blade coated with uneven grey clay resting on a wooden board beside a water trough, close-up, warm workshop light",
+      "on_screen_text": "Đất sét và đường hamon"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Ở Nhật hiện nay, thợ rèn kiếm phải có giấy phép, sau nhiều năm học việc dưới một thợ cả. Luật còn giới hạn mỗi thợ chỉ được làm khoảng hai thanh kiếm dài mỗi tháng."
+      },
+      "image_prompt": "a calendar page with only two small sword icons marked on it, pinned above a workbench, close-up, warm light",
+      "on_screen_text": "2 thanh kiếm dài mỗi tháng"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Giới hạn ấy nhằm giữ chất lượng thay vì số lượng. Mỗi thanh kiếm là nhiều tuần làm việc của một người."
+      },
+      "image_prompt": "an old craftsman's hands carefully polishing a blade under a single lamp, extreme close-up, soft warm light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kaku nhắc: đây chỉ là giới thiệu văn hóa, không phải hướng dẫn. Kaku để ý: biết điều này, bạn sẽ hiểu vì sao trong truyện, mỗi thanh kiếm của người cha đều mang cả tâm hồn của ông."
+      },
+      "image_prompt": "the owl mascot bowing respectfully in front of a small sword stand",
+      "use_mascot": true
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Yêu đao không phải thanh kiếm bình thường. Mỗi thanh chứa một sức mạnh phép thuật, và chỉ trở nên đáng sợ trong tay một người có thể dùng nó."
+      },
+      "image_prompt": "a katana blade with faint swirling patterns of light moving beneath the steel surface, extreme close-up, mystical light",
+      "chapter": "Yêu đao hoạt động thế nào?",
+      "on_screen_text": "Kiếm chứa phép thuật"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Sáu thanh yêu đao là vũ khí chiến tranh. Sức mạnh của chúng đủ để thay đổi số phận cả một đất nước. Vì vậy, ai giữ chúng thì người đó nắm quyền lực rất lớn."
+      },
+      "image_prompt": "a hand-drawn map of a country with six small sword icons scattered across it and arrows between them, amber ink close-up",
+      "on_screen_text": "Vũ khí chiến tranh"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Nhưng Chihiro không cầm một trong sáu thanh ấy. Cậu cầm thanh thứ bảy, tên là Enten, một thanh kiếm cha cậu rèn sau chiến tranh."
+      },
+      "image_prompt": "a seventh katana resting alone on a separate stand, set apart from an empty six-slot rack, dramatic close-up, cold moonlight",
+      "on_screen_text": "Thanh thứ bảy: Enten"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Khác với sáu thanh kia, Enten không được rèn để đánh trận. Nó được rèn để đối đầu với chính sáu thanh kiếm cũ, để người thợ rèn đối mặt với quá khứ của mình."
+      },
+      "image_prompt": "an old blacksmith's hands wrapping the hilt of a new sword by lamplight, extreme close-up, warm tender light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Và sức mạnh của Enten mang hình dáng những con cá vàng. Đúng rồi: những con cá vàng trong nhà Chihiro."
+      },
+      "image_prompt": "ghostly goldfish shapes swimming in the air around a drawn katana in a dark room, symbolic close-up, glowing orange light",
+      "on_screen_text": "Cá vàng quay lại",
+      "video_prompt": "ghostly goldfish swim slowly around the drawn blade",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kỹ thuật Kuro, tức cá vàng đen, phủ một lớp chất lỏng màu đen lên cánh tay và lưỡi kiếm, rồi tung ra những nhát chém bay xa, kéo dài tầm đánh của thanh kiếm."
+      },
+      "image_prompt": "a black liquid swirl shaped like a goldfish coiling around a blade and launching a long dark arc through the air, dynamic wide shot, dramatic night light",
+      "on_screen_text": "Kuro: cá vàng đen",
+      "video_prompt": "the black goldfish coils around the blade and launches a long dark arc",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kỹ thuật Nishiki, tức cá vàng ba màu, trở thành một lớp áo năng lượng quanh cơ thể, giúp Chihiro nhanh hơn và nhanh nhẹn hơn rất nhiều."
+      },
+      "image_prompt": "a figure wrapped in a shimmering cloak of white, orange and black light shaped like flowing fins, dynamic close-up, vivid light",
+      "on_screen_text": "Nishiki: cá vàng ba màu",
+      "video_prompt": "the shimmering fin-like cloak ripples as the figure dashes forward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Còn kỹ thuật Aka, tức cá vàng đỏ, hấp thụ đòn đánh mà lưỡi kiếm chạm vào, rồi có thể dùng lại đòn ấy ở một mức độ nhất định."
+      },
+      "image_prompt": "a red goldfish shape swallowing a bolt of energy along a blade's edge, extreme close-up, glowing red light",
+      "on_screen_text": "Aka: hấp thụ đòn"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Ba kỹ thuật, ba cách dùng: Kuro để đánh xa, Nishiki để tăng tốc, Aka để phản đòn. Chihiro phải chọn đúng kỹ thuật cho từng tình huống, như chọn quân cờ."
+      },
+      "image_prompt": "three goldfish icons in black, tri-color and red arranged like game pieces on a board, amber ink close-up",
+      "on_screen_text": "Đánh xa · Tăng tốc · Phản đòn"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kaku để ý: sức mạnh của Chihiro mang hình ảnh ký ức ấm áp nhất của cậu. Mỗi nhát kiếm trả thù lại được vẽ bằng những con cá vàng trong ngôi nhà cũ."
+      },
+      "image_prompt": "the owl mascot holding a small goldfish bowl gently in both wings",
+      "use_mascot": true
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kẻ thù chính là Hishaku, nhóm thuật sư đã cướp yêu đao. Họ đông, có tổ chức, và sẵn sàng hợp tác với cả thế giới ngầm để đạt mục đích."
+      },
+      "image_prompt": "a line of faceless figures in dark coats standing in the rain at the end of a long street, wide shot, ominous cold light",
+      "chapter": "Kẻ thù và đồng minh",
+      "on_screen_text": "Hishaku"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Sáu thanh yêu đao rơi vào tay những kẻ khác nhau. Nghĩa là mỗi lần Chihiro tìm lại một thanh, cậu phải đối mặt với một người đang cầm nó."
+      },
+      "image_prompt": "six empty sword silhouettes drawn on a wanted poster wall with some crossed out, close-up, dim light",
+      "on_screen_text": "Mỗi thanh, một đối thủ"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nhưng Chihiro không đi một mình. Có một thuật sư là bạn cũ của cha cậu, người luôn đứng sau giúp đỡ, và thỉnh thoảng làm không khí bớt nặng nề bằng những câu đùa."
+      },
+      "image_prompt": "an older figure with sunglasses leaning casually against a wall beside a young swordsman, medium shot, soft street light",
+      "on_screen_text": "Người bạn của cha"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Trên đường đi, Chihiro còn gặp những người cũng bị tổn thương bởi yêu đao, và dần có thêm những người bạn đồng hành."
+      },
+      "image_prompt": "a small group of silhouettes sharing a meal around a low table in a hidden room, wide shot, warm lamp light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Và giữa hai phe còn có Kamunabi, tổ chức của chính phủ. Họ muốn thu hồi yêu đao, nhưng không phải lúc nào cũng đứng cùng phía với Chihiro."
+      },
+      "image_prompt": "a line of uniformed figures watching from a rooftop as a lone swordsman walks below, wide shot, cold night light",
+      "on_screen_text": "Phe thứ ba"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku để ý: đây là câu chuyện trả thù, nhưng không phải câu chuyện cô độc. Chihiro càng đi xa, càng có thêm người để bảo vệ."
+      },
+      "image_prompt": "the owl mascot drawing a small circle of stick figures holding hands in a notebook",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Khi đọc hay xem Kagurabachi, hãy để ý vài hình ảnh lặp lại. Chúng giúp bạn đọc được cảm xúc mà nhân vật không nói ra."
+      },
+      "image_prompt": "a notebook page with four small doodles, a goldfish, a hammer, a raindrop and a closed mouth, amber ink close-up",
+      "chapter": "Những biểu tượng cần để ý",
+      "on_screen_text": "Biểu tượng lặp lại"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Cá vàng: ký ức về ngôi nhà và người cha. Mỗi khi cá vàng xuất hiện, đó là lúc Chihiro chiến đấu bằng chính quá khứ của mình."
+      },
+      "image_prompt": "a goldfish swimming alone in a dark space with a faint warm glow around it, symbolic close-up, soft orange light"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Lò rèn và cái búa: di sản. Chihiro không chỉ là kiếm sĩ, cậu vẫn là người học nghề của cha."
+      },
+      "image_prompt": "a small hammer hanging on a hook in an empty workshop with the forge fire still faintly glowing, close-up, warm ember light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Và sự im lặng: truyện thường để những khung hình không có lời thoại, ngay trước hoặc sau một nhát kiếm. Chính khoảng lặng ấy khiến hành động nặng hơn."
+      },
+      "image_prompt": "a wide empty frame of a rainy street with a single figure standing still, no motion at all, cinematic wide shot, cold quiet light",
+      "on_screen_text": "Khoảng lặng"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Lý do một: phong cách như phim điện ảnh. Truyện dùng nhiều khung hình rộng, nhiều khoảng lặng, và những pha hành động được dựng như cảnh quay chậm."
+      },
+      "image_prompt": "a film strip with wide cinematic frames showing a lone swordsman in different quiet poses, close-up, dramatic light",
+      "chapter": "Vì sao nên xem?",
+      "on_screen_text": "1. Như phim điện ảnh"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Và các trận đấu thường là những trận đấu trí: năng lực nào cũng có điều kiện, và người thắng là người đọc được điều kiện của đối phương trước."
+      },
+      "image_prompt": "a chess-like diagram of two sword icons with arrows and small condition notes, amber ink close-up"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Lý do hai: nhịp nhanh. Truyện không vòng vo. Chương một đã đưa bạn vào thẳng mạch truyện, và mỗi arc đều gọn gàng."
+      },
+      "image_prompt": "a stopwatch beside a short neat stack of manga volumes, close-up, crisp bright light",
+      "on_screen_text": "2. Nhịp nhanh"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Lý do ba: một thế giới pha trộn độc đáo. Kiếm Nhật, phép thuật, yakuza, và những con phố hiện đại. Ít bộ truyện nào đặt tất cả những thứ đó cạnh nhau."
+      },
+      "image_prompt": "a split composition showing a katana, a glowing talisman, a neon street sign and a business suit arranged together on a table, close-up, moody light",
+      "on_screen_text": "3. Pha trộn độc đáo"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Lý do bốn: một nhân vật chính có chiều sâu. Chihiro không nói nhiều, nhưng mỗi quyết định của cậu cho thấy cậu vẫn là cậu con trai hiền lành ngày xưa."
+      },
+      "image_prompt": "a young swordsman kneeling to hand a small goldfish bowl to a frightened child in a ruined street, medium shot, soft warm light",
+      "on_screen_text": "4. Nhân vật có chiều sâu"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Lý do năm: câu chuyện về cha và con. Mỗi thanh kiếm là một phần di sản của người cha. Tìm lại chúng cũng là cách Chihiro hiểu cha mình hơn."
+      },
+      "image_prompt": "an old blacksmith's hammer resting beside a young swordsman's hand on a workbench, extreme close-up, warm nostalgic light",
+      "on_screen_text": "5. Cha và con"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Và lý do sáu: bạn có thể bắt kịp nhanh. Vì truyện bắt đầu từ năm 2023, số chương chưa quá nhiều như những bộ truyện dài hàng chục năm."
+      },
+      "image_prompt": "a short neat bookshelf row next to a very long overflowing bookshelf row, humorous wide shot, warm light",
+      "on_screen_text": "6. Dễ bắt kịp"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Không cần spoiler, Kaku vẫn có thể cho bạn ba câu hỏi lớn để mang theo khi xem."
+      },
+      "image_prompt": "the owl mascot holding up three fingers with a magnifying glass in the other wing",
+      "chapter": "Ba câu hỏi lớn của truyện",
+      "on_screen_text": "Ba câu hỏi",
+      "use_mascot": true
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Câu hỏi một: Hishaku muốn sáu thanh yêu đao để làm gì? Chúng là vũ khí chiến tranh, vậy ai đó đang chuẩn bị cho một cuộc chiến mới?"
+      },
+      "image_prompt": "six sword silhouettes drawn in a circle around a question mark on a map, amber ink close-up",
+      "on_screen_text": "1. Hishaku muốn gì?"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Câu hỏi hai: chuyện gì thật sự đã xảy ra trong Chiến tranh Seitei, và vì sao người thợ rèn lại hối hận về chính những thanh kiếm đã chấm dứt chiến tranh?"
+      },
+      "image_prompt": "a faded war scroll partially burned at the edges with a smith's hammer resting on it, close-up, somber light",
+      "on_screen_text": "2. Chiến tranh Seitei"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Câu hỏi ba: Enten, thanh kiếm thứ bảy, còn giấu điều gì mà người cha chưa kịp nói với con mình?"
+      },
+      "image_prompt": "a single sword on a stand with a folded unopened letter tucked beneath its hilt, extreme close-up, warm lamp light",
+      "on_screen_text": "3. Bí mật của Enten"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kagurabachi có nhiều cảnh chiến đấu và có những cái chết. Truyện không nhẹ nhàng như một số bộ shonen vui vẻ khác."
+      },
+      "image_prompt": "a single fallen katana lying on a wet street under a flickering streetlight, close-up, somber cold light",
+      "chapter": "Nên chuẩn bị tinh thần điều gì?",
+      "on_screen_text": "Truyện khá nặng"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Nhân vật chính ít nói, nên nếu bạn thích kiểu nhân vật hài hước, ồn ào, bạn cần vài chương để quen với Chihiro."
+      },
+      "image_prompt": "a quiet swordsman sitting apart from a loudly laughing group at a table, medium shot, warm and cool contrasting light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Thế giới được tiết lộ từ từ. Nhiều câu hỏi về Chiến tranh Seitei và mục đích của Hishaku sẽ chưa có lời đáp trong mùa anime đầu."
+      },
+      "image_prompt": "an old map with several regions left blank and marked with question marks, amber ink close-up",
+      "on_screen_text": "Nhiều bí ẩn chưa lời đáp"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku để ý: nếu bạn chịu được một chút u tối, phần thưởng là một câu chuyện có trái tim rất ấm."
+      },
+      "image_prompt": "the owl mascot holding a small lantern in a dark corridor, smiling reassuringly",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nếu bạn thích Kimetsu no Yaiba, bạn sẽ thấy quen: một cậu bé mất gia đình, cầm kiếm lên đường, và vẫn giữ lòng tốt."
+      },
+      "image_prompt": "a pair of katanas crossed gently over a family photo frame on a wooden shelf, close-up, warm soft light",
+      "chapter": "Nếu bạn thích những bộ này",
+      "on_screen_text": "Thích Kimetsu?"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nếu bạn thích Jujutsu Kaisen, bạn sẽ thấy quen với thế giới thuật sư ẩn sau thành phố hiện đại, và những trận đấu dựa trên luật của năng lực."
+      },
+      "image_prompt": "a modern city skyline at night with faint glowing sigils hidden among the buildings, wide shot, eerie blue light",
+      "on_screen_text": "Thích Jujutsu Kaisen?"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và nếu bạn thích phim hành động kiểu điện ảnh, với những nhân vật ít lời và ánh mắt nói thay, Kagurabachi sẽ rất hợp với bạn."
+      },
+      "image_prompt": "a single silhouette standing in a long empty corridor lit by one overhead light, cinematic wide shot, dramatic contrast light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu bạn thích những bộ phim kiếm hiệp cổ về người con lên đường báo thù cho cha, bạn cũng sẽ thấy một mạch cảm xúc rất quen thuộc."
+      },
+      "image_prompt": "an old wuxia-style film poster aesthetic of a lone swordsman on a misty mountain path, close-up, faded warm light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nhưng Kagurabachi không phải bản sao. Hình ảnh cá vàng, câu chuyện của người thợ rèn, và không khí yakuza là những thứ chỉ bộ này có."
+      },
+      "image_prompt": "a goldfish bowl placed on a blacksmith's anvil under a neon glow, symbolic close-up, mixed warm and cool light",
+      "on_screen_text": "Không phải bản sao"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Trước khi xem, đây là năm từ bạn sẽ gặp liên tục. Một: yêu đao, những thanh kiếm có phép do cha Chihiro rèn."
+      },
+      "image_prompt": "a small vocabulary card with a sword icon and a handwritten label, amber ink close-up",
+      "chapter": "Từ vựng cần nhớ",
+      "on_screen_text": "Yêu đao"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Hai: Enten, thanh kiếm thứ bảy mà Chihiro mang theo, với sức mạnh hình cá vàng."
+      },
+      "image_prompt": "a vocabulary card with a goldfish icon beside a sword, amber ink close-up",
+      "on_screen_text": "Enten"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Ba: Hishaku, nhóm thuật sư đã cướp sáu thanh yêu đao. Bốn: Kamunabi, tổ chức thuật sư của chính phủ."
+      },
+      "image_prompt": "two vocabulary cards side by side, one with a dark ladle emblem and one with a formal badge, amber ink close-up",
+      "on_screen_text": "Hishaku · Kamunabi"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Năm: Chiến tranh Seitei, cuộc chiến trong quá khứ mà sáu thanh yêu đao đã chấm dứt. Nhớ năm từ này, bạn sẽ theo kịp truyện ngay từ tập đầu."
+      },
+      "image_prompt": "a fifth vocabulary card with a faded battlefield icon, the full set of five fanned out on a desk, amber ink close-up",
+      "on_screen_text": "Chiến tranh Seitei"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Lộ trình của Kaku. Cách một: đợi anime tháng tư năm 2027, xem từ tập một. Đây là cách nhẹ nhàng nhất."
+      },
+      "image_prompt": "a calendar page for April with the first day circled and a small sword doodle beside it, close-up, warm light",
+      "chapter": "Lộ trình xem cho người mới",
+      "on_screen_text": "Cách 1: xem anime từ tập 1"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Cách hai: đọc manga từ chương một, trên các nền tảng phát hành chính thức. Bạn sẽ đi trước anime và hiểu thế giới sâu hơn."
+      },
+      "image_prompt": "a phone screen and a printed volume side by side on a desk, both opened to a first page with no visible artwork, close-up, soft light",
+      "on_screen_text": "Cách 2: đọc từ chương 1"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Cách ba, cách Kaku thích nhất: đọc vài chương đầu để quen thế giới, rồi dừng lại và xem anime, để những cảnh hành động đầu tiên được sống lại bằng hình ảnh động."
+      },
+      "image_prompt": "the owl mascot holding a bookmark in one wing and a TV remote in the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Mẹo nhỏ của Kaku: đừng tra cứu tên nhân vật trên mạng trước khi xem. Kagurabachi có những bất ngờ mà bạn nên tự mình gặp."
+      },
+      "image_prompt": "a phone lying face down on a table beside an unopened book, close-up, soft warm light",
+      "on_screen_text": "Đừng tra cứu trước"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Và dù chọn cách nào, hãy ủng hộ bản chính thức. Đó là cách để tác giả tiếp tục vẽ."
+      },
+      "image_prompt": "a small hand placing a coin into a jar labeled with a pen and brush icon, close-up, warm light",
+      "on_screen_text": "Ủng hộ bản chính thức"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Một cậu con trai thợ rèn, một thanh kiếm thứ bảy, và những con cá vàng bơi trong không khí. Kagurabachi là câu chuyện trả thù, nhưng thứ đọng lại lâu nhất lại là tình yêu của một người cha."
+      },
+      "image_prompt": "a goldfish bowl on a windowsill at dawn beside a sheathed sword, close-up, soft golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu bạn muốn Kaku làm video sâu hơn về từng thanh yêu đao sau khi anime ra mắt, hãy bình luận để Kaku biết thanh kiếm bạn tò mò nhất."
+      },
+      "image_prompt": "six small sword sketches pinned on a corkboard with one circled in red, close-up, warm lamp light"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đổi sang một bí ẩn cung đình: Dược sư tự sự, và thân thế thật của Jinshi. Một video lý thuyết, có gắn nhãn rõ ràng."
+      },
+      "image_prompt": "an ornate palace corridor with hanging lanterns and a single folded letter on the floor, wide shot, warm mysterious light",
+      "on_screen_text": "Tiếp theo: bí ẩn Jinshi"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nếu video này mở được cánh cửa cho bạn, hãy đăng ký kênh. Và nếu nhà bạn có nuôi cá vàng, hôm nay hãy cho chúng ăn thêm một chút. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot sprinkling fish food into a small goldfish bowl, waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}
