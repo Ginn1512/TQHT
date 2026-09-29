@@ -1,0 +1,652 @@
+{
+  "title": "Jujutsu Kaisen: Luật chơi Tử Diệt Hồi Du và 4 cách phá",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Jujutsu Kaisen tới anime mùa ba, phần đầu của arc Tử Diệt Hồi Du. Kaku không nói những gì chưa lên anime."
+      },
+      "image_prompt": "a darkened city skyline at night with faint glowing barrier domes over several districts, a closed notebook on a rooftop ledge, wide establishing shot, eerie violet light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Giả sử một sáng thức dậy, bạn phát hiện mình có năng lực lạ. Chưa kịp vui, một sinh vật nhỏ xuất hiện và đọc cho bạn nghe luật chơi: trong mười chín ngày, hãy tham gia một trò chơi, hoặc mất năng lực, tức là mất mạng."
+      },
+      "image_prompt": "a startled young person in pajamas facing a small floating golden creature reading from a scroll in a sunlit bedroom, medium shot, uneasy light",
+      "on_screen_text": "19 ngày để chọn"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trò chơi diễn ra trong những khu vực bị kết giới bao quanh khắp nước Nhật. Muốn ghi điểm, người chơi phải lấy mạng người chơi khác."
+      },
+      "image_prompt": "a map of Japan with ten glowing dome shapes scattered across it, clean parchment diagram, crimson and navy ink",
+      "on_screen_text": "Ghi điểm = lấy mạng",
+      "video_prompt": "the ten glowing domes pulse one after another across the parchment map of Japan",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đó là Tử Diệt Hồi Du, trò chơi sinh tử do phản diện Kenjaku tạo ra. Và nó có một bộ luật được viết cực kỳ chặt, chặt tới mức cách duy nhất để thoát là tìm lỗ hổng trong chính bộ luật."
+      },
+      "image_prompt": "a thick rulebook bound in dark leather with a lock on its cover, lying on a stone altar, close-up, dramatic cold light",
+      "on_screen_text": "Tử Diệt Hồi Du"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Trò chơi sinh tử là một thể loại quen thuộc: từ tiểu thuyết Battle Royale năm 1999 của Nhật, tới loạt phim Hàn Quốc Trò chơi con mực năm 2021. Điểm chung là luật chơi đơn giản mà tàn nhẫn."
+      },
+      "image_prompt": "a stack of thriller novels and a TV remote on a table, a small game board with a skull icon beside them, close-up, dim dramatic light",
+      "on_screen_text": "Thể loại trò chơi sinh tử"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Tử Diệt Hồi Du khác ở chỗ: luật của nó không đơn giản. Nó giống một bộ luật thật, có điều khoản, có ngoại lệ, và có cả quy trình sửa đổi."
+      },
+      "image_prompt": "an ornate legal code book with numbered articles and footnotes, close-up, warm lamplight"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku đọc từng luật của Tử Diệt Hồi Du như một luật sư đọc hợp đồng, rồi chỉ ra những cách các nhân vật đã dùng để phá luật, và cái giá của mỗi cách."
+      },
+      "image_prompt": "the owl mascot wearing tiny reading glasses, holding a long contract scroll with a red pen",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Cuối video là bảng luật và cách phá trong một hình. Nhắc lại: Kaku chỉ nói về những gì đã lên anime."
+      },
+      "image_prompt": "a two-column table sketched on parchment with a lock icon on the left and a key icon on the right, top-down shot, amber ink",
+      "on_screen_text": "Luật · Cách phá"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Sau sự kiện Shibuya, Gojo bị phong ấn, và Kenjaku, kẻ đã sống hơn một nghìn năm bằng cách chiếm thân xác người khác, bắt đầu kế hoạch lớn nhất của mình."
+      },
+      "image_prompt": "a sealed cube resting in a dark empty room, and a shadowy robed figure standing in a distant doorway, wide shot, cold light",
+      "chapter": "Bối cảnh: vì sao có trò chơi này",
+      "on_screen_text": "Sau Shibuya"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Vì vậy trong trò chơi có ba kiểu người chơi: thuật sư hiện đại như Itadori, người thường vừa thức tỉnh và hoảng loạn, và những thuật sư cổ đại tái sinh, mạnh và không có chút đạo đức hiện đại nào."
+      },
+      "image_prompt": "three groups of silhouettes standing apart in a ruined city: young sorcerers, frightened ordinary people, and imposing ancient warriors, wide shot, dramatic light",
+      "on_screen_text": "3 kiểu người chơi"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Hãy tưởng tượng một nhân viên văn phòng bình thường bị đặt chung sân chơi với một chiến binh từ nghìn năm trước. Đó là sự bất công được cài sẵn trong trò chơi."
+      },
+      "image_prompt": "an office worker in a suit clutching a briefcase, facing a towering ancient warrior silhouette in an empty street, low-angle shot, ominous light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Hắn đánh thức năng lực tiềm ẩn ở rất nhiều người bình thường, và đưa những thuật sư cổ đại tái sinh vào thân xác người hiện đại. Rồi hắn nhốt tất cả vào các kết giới."
+      },
+      "image_prompt": "a crowd of ordinary people in a city square with faint glowing marks appearing on some of them, ancient warrior silhouettes superimposed faintly, wide shot, eerie light",
+      "on_screen_text": "Đánh thức năng lực hàng loạt"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Mục đích của trò chơi không phải để tìm người thắng. Nó là để tạo ra thật nhiều chú lực và những trận đấu, phục vụ kế hoạch bí ẩn của hắn. Kaku sẽ không đi sâu vào mục đích đó để tránh spoiler."
+      },
+      "image_prompt": "a large glowing funnel collecting streams of violet energy from many small domes, symbolic diagram, cold light",
+      "on_screen_text": "Mục đích: tạo chú lực"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Các khu kết giới có luật riêng về ra vào: bước vào thì dễ, nhưng rời đi thì gần như không thể nếu không có cách đặc biệt. Kết giới là bức tường, còn luật là ổ khóa."
+      },
+      "image_prompt": "a shimmering dome wall with arrows pointing easily inward and a single arrow blocked trying to exit, parchment diagram, violet ink",
+      "on_screen_text": "Vào dễ, ra khó"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và người quản lý trò chơi là những sinh vật nhỏ màu vàng tên Kogane. Chúng đi theo mỗi người chơi, đọc điểm, thông báo luật mới, và không thể bị mua chuộc."
+      },
+      "image_prompt": "a small round golden creature floating beside a player's shoulder, displaying a tiny glowing scoreboard, close-up, soft golden light",
+      "on_screen_text": "Kogane: người quản trò"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku ghi chú: Kogane nói chuyện rất vui vẻ, như một người dẫn chương trình trò chơi truyền hình. Đó là điều khiến trò chơi càng đáng sợ."
+      },
+      "image_prompt": "the owl mascot staring nervously at a tiny golden creature holding a game show microphone",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Luật một: ai đã thức tỉnh năng lực phải tuyên bố tham gia tại một khu kết giới trong vòng mười chín ngày."
+      },
+      "image_prompt": "a large calendar with nineteen days boxed in red and a countdown clock beside it, close-up, tense light",
+      "chapter": "Luật 1, 2 và 3: không thể đứng ngoài",
+      "on_screen_text": "Luật 1: tham gia trong 19 ngày"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Luật hai: ai vi phạm luật một sẽ bị tước năng lực. Nghe thì nhẹ, nhưng tước năng lực trong trò chơi này đồng nghĩa với cái chết."
+      },
+      "image_prompt": "a glowing cursed mark fading from a person's hand as they collapse, symbolic close-up, cold light",
+      "on_screen_text": "Luật 2: không tham gia = tước năng lực"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Luật ba: người thường bước vào khu kết giới cũng trở thành người chơi. Nghĩa là không ai được làm khán giả an toàn."
+      },
+      "image_prompt": "an ordinary pedestrian stepping through a shimmering barrier wall and a small golden creature instantly appearing beside them, medium shot, eerie light",
+      "on_screen_text": "Luật 3: bước vào = người chơi"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Có một chi tiết Kaku thấy rất khôn: luật một cho mười chín ngày để quyết định. Đủ dài để người ta hiểu chuyện gì đang xảy ra, nhưng đủ ngắn để không ai kịp tìm cách trốn."
+      },
+      "image_prompt": "a calendar with nineteen days where the first days show confusion and the last days show panic, parchment storyboard, amber and crimson ink",
+      "on_screen_text": "19 ngày: vừa đủ để hoảng loạn"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Và việc phải tuyên bố tham gia cũng có ý nghĩa: giống như ký vào một hợp đồng. Trong thế giới chú thuật, lời thề và giao ước có sức mạnh thật sự."
+      },
+      "image_prompt": "a hand signing a glowing contract with a quill, the ink turning into faint light, extreme close-up, warm light",
+      "on_screen_text": "Tuyên bố = ký hợp đồng"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Ba luật đầu tiên có chung một mục đích: không để ai đứng ngoài. Người có năng lực buộc phải vào, người không có năng lực mà lỡ vào cũng không thể ra."
+      },
+      "image_prompt": "a funnel diagram on parchment with arrows from all directions flowing into a single dome, no arrows flowing out, amber ink",
+      "on_screen_text": "Không ai đứng ngoài"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Kaku mà là người thường lỡ bước vào, chắc sẽ hỏi Kogane có mục bỏ qua hướng dẫn không. Chắc chắn là không."
+      },
+      "image_prompt": "the owl mascot pointing hopefully at a tiny skip button while a golden creature shakes its head",
+      "use_mascot": true
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Kaku gọi đây là luật giăng lưới. Một trò chơi mà ngay cả việc từ chối chơi cũng là một nước đi thua."
+      },
+      "image_prompt": "a vast net stretched over a city at night with small lights caught inside it, wide shot, cold violet light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Luật bốn: người chơi ghi điểm bằng cách lấy mạng người chơi khác."
+      },
+      "image_prompt": "a stark scoreboard icon on parchment with a single up arrow, crimson ink, close-up",
+      "chapter": "Luật 4 và 5: bảng điểm của sự sống",
+      "on_screen_text": "Luật 4: điểm = mạng người"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Từ thông thường trong luật năm rất đáng chú ý. Nó gợi ý rằng quản trò có thể định giá khác trong những trường hợp đặc biệt. Một từ nhỏ mở ra cả một vùng mập mờ."
+      },
+      "image_prompt": "a single word highlighted with a magnifying glass on a printed rule, extreme close-up, amber light",
+      "on_screen_text": "Chữ \"thông thường\""
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Luật năm: thông thường, mạng một thuật sư là năm điểm, mạng một người không phải thuật sư là một điểm."
+      },
+      "image_prompt": "two small token stacks on a scale, one with five tokens labeled with a spark icon, one with a single token labeled with a plain person icon, close-up, cold light",
+      "on_screen_text": "Thuật sư 5 · Người thường 1"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Theo lý thuyết trò chơi, luật bốn và năm tạo ra một tình huống giống thế lưỡng nan của người tù: nếu ai cũng tin nhau thì tất cả an toàn hơn, nhưng mỗi người lại có động cơ ra tay trước."
+      },
+      "image_prompt": "two figures in separate glowing cells each looking at a button, a question mark between them, parchment diagram, cold light",
+      "on_screen_text": "Thế lưỡng nan của người tù"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Và trò chơi được thiết kế để niềm tin sụp đổ: người chơi không biết ai là người thường vừa thức tỉnh, ai là thuật sư cổ đại đội lốt người hiện đại."
+      },
+      "image_prompt": "a crowd of identical ordinary-looking silhouettes where one shadow on the ground reveals an ancient warrior's shape, wide shot, eerie light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kaku nghĩ luật này tàn nhẫn nhất, vì nó định giá con người. Một người thường chỉ bằng một phần năm một thuật sư. Và những kẻ muốn ghi điểm nhanh sẽ săn những người yếu nhất."
+      },
+      "image_prompt": "a price tag hanging from a small paper figure, extreme close-up, harsh light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Nói cách khác, luật chỉ định giá mạng người, không bắt ai phải chọn mạng của người vô tội. Lựa chọn đó thuộc về người chơi."
+      },
+      "image_prompt": "a fork in a path on parchment, one side marked with a small shield, the other with a cracked icon, amber ink"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Nhưng luật năm cũng tạo ra một lựa chọn cho người tốt: nếu phải ghi điểm, hãy săn những thuật sư cổ đại đang tàn sát người khác, vì họ đáng năm điểm và đang gây nguy hiểm."
+      },
+      "image_prompt": "a young sorcerer silhouette confronting a menacing ancient warrior silhouette in a ruined street, protecting civilians behind him, low-angle shot, dramatic light",
+      "on_screen_text": "Lựa chọn của người tốt"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Luật sáu là luật quan trọng nhất: người chơi có thể dùng một trăm điểm để thương lượng với quản trò, thêm một luật mới vào trò chơi."
+      },
+      "image_prompt": "a golden key made of glowing points hovering above an open rulebook, close-up, warm golden light",
+      "chapter": "Luật 6 và 7: chiếc chìa khóa",
+      "on_screen_text": "Luật 6: 100 điểm = 1 luật mới",
+      "video_prompt": "the golden key made of points slowly rotates and glows above the open rulebook",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Nhưng thế nào là ảnh hưởng quá lớn? Luật không định nghĩa. Người quyết định là quản trò. Vì vậy thêm luật không chỉ là có điểm, mà còn là nghệ thuật thương lượng."
+      },
+      "image_prompt": "a player and a small golden creature sitting across a tiny negotiation table with documents spread between them, humorous medium shot, warm light",
+      "on_screen_text": "Nghệ thuật thương lượng"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Một luật mới càng nhỏ, càng cụ thể thì càng dễ được chấp nhận. Muốn thay đổi lớn, phải chia thành nhiều luật nhỏ, và mỗi luật cần một trăm điểm."
+      },
+      "image_prompt": "a large boulder broken down into many small pebbles along a path, symbolic illustration, parchment style"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Luật bảy: quản trò phải chấp nhận luật mới, trừ khi nó ảnh hưởng quá lớn và lâu dài tới trò chơi."
+      },
+      "image_prompt": "a small golden creature nodding solemnly while holding a stamp over a document, humorous close-up, warm light",
+      "on_screen_text": "Luật 7: phải chấp nhận (có giới hạn)"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Có thể chính Kenjaku cố ý để lại lỗ hổng này. Một trò chơi có hy vọng thì người chơi sẽ chiến đấu hăng hơn, tạo ra nhiều chú lực hơn. Hy vọng cũng là một phần của cái bẫy."
+      },
+      "image_prompt": "a small lantern glowing at the end of a long dark maze, a shadowy figure watching from above the walls, wide shot, ominous light",
+      "on_screen_text": "Hy vọng cũng là cái bẫy?"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Đây chính là lỗ hổng mà cả trò chơi được thiết kế để có. Nó cho người chơi hy vọng rằng họ có thể thay đổi luật từ bên trong."
+      },
+      "image_prompt": "a small keyhole glowing in the side of a massive dark wall, extreme close-up, hopeful light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Nhưng giới hạn của luật bảy rất khôn khéo: không được thay đổi quá lớn. Bạn không thể thêm một luật kiểu kết thúc trò chơi ngay lập tức. Bạn phải đi từng bước nhỏ."
+      },
+      "image_prompt": "a staircase of tiny steps carved into a steep cliff, a small figure starting to climb, wide shot, dramatic light",
+      "on_screen_text": "Chỉ được đổi từng bước nhỏ"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku ghi chú: luật sáu và bảy biến trò chơi sinh tử thành một trò chơi pháp lý. Người thắng không phải người mạnh nhất, mà là người viết được luật hay nhất."
+      },
+      "image_prompt": "the owl mascot drafting a clause on parchment with great concentration, a tiny golden key beside it",
+      "use_mascot": true
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Luật tám: nếu điểm của một người chơi không thay đổi trong mười chín ngày, người đó sẽ bị tước năng lực."
+      },
+      "image_prompt": "a large clock face with its hands moving and a small figure standing still beneath it, symbolic wide shot, cold light",
+      "chapter": "Luật 8: đồng hồ không bao giờ dừng",
+      "on_screen_text": "Luật 8: 19 ngày không đổi điểm",
+      "video_prompt": "the clock hands sweep forward as the small still figure beneath it grows dimmer",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kết hợp với luật bốn, luật tám nghĩa là mỗi người chơi phải lấy ít nhất một mạng người mỗi mười chín ngày để tồn tại. Nếu không có lỗ hổng nào, đây là một vòng lặp không có lối thoát."
+      },
+      "image_prompt": "a circular arrow diagram with a skull icon and a clock icon endlessly chasing each other, parchment style, crimson ink",
+      "on_screen_text": "Vòng lặp không lối thoát"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Luật này chặn cách chơi an toàn nhất: trốn đi và không làm gì. Ai cũng buộc phải chiến đấu, và phải chiến đấu liên tục."
+      },
+      "image_prompt": "a hiding place under a staircase with a small countdown timer glowing beside a crouching figure, medium shot, tense light",
+      "on_screen_text": "Không thể trốn"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku để ý: không có luật nào nói về người thắng cuộc. Trò chơi không có vạch đích. Đó là dấu hiệu rõ nhất rằng nó không được tạo ra để có người thắng."
+      },
+      "image_prompt": "an empty finish line ribbon lying on the ground in an abandoned stadium, wide shot, grey light",
+      "on_screen_text": "Không có vạch đích"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kết hợp luật một và luật tám, bạn sẽ thấy trò chơi được thiết kế như một cái máy ép: nó đẩy tất cả người chơi vào nhau, và không bao giờ cho họ nghỉ."
+      },
+      "image_prompt": "a mechanical press slowly closing on a crowd of small figures, symbolic parchment illustration, crimson ink",
+      "on_screen_text": "Một cái máy ép"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Giờ tới phần phá luật. Mục tiêu của phe Itadori và Fushiguro rất rõ: dùng chính luật sáu để thêm những luật giúp người chơi thoát ra."
+      },
+      "image_prompt": "two young sorcerer silhouettes studying a large rulebook together on a rooftop at dusk, back view, warm light",
+      "chapter": "Cách phá 1: thêm luật để thoát",
+      "on_screen_text": "Cách phá 1: dùng luật 6"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Nhưng luật đó phải được viết khéo. Nếu nó cho phép tất cả rời đi ngay, quản trò sẽ từ chối vì ảnh hưởng quá lớn. Phải viết sao cho đủ nhỏ để được chấp nhận, nhưng đủ lớn để cứu người."
+      },
+      "image_prompt": "two hands carefully editing a draft rule with many crossed-out words, extreme close-up, warm lamplight"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ý tưởng đầu tiên: thêm một luật cho phép người chơi rời khỏi trò chơi. Nếu được chấp nhận, người thường bị kẹt trong kết giới có thể thoát ra mà không phải giết ai."
+      },
+      "image_prompt": "a small door appearing in a glowing barrier wall with ordinary people walking out, wide shot, hopeful light",
+      "on_screen_text": "Luật cho phép rời trò chơi",
+      "video_prompt": "the door in the barrier opens and people walk out into warm light",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku để ý: gần như nhân vật nào trong arc này cũng có một người thân để cứu. Tác giả biến một trò chơi lạnh lùng thành hàng chục câu chuyện gia đình nhỏ."
+      },
+      "image_prompt": "many small photographs pinned inside a glowing dome map, each showing a different family, parchment illustration, warm light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Fushiguro có một lý do cá nhân: em gái của cậu, Tsumiki, cũng bị cuốn vào trò chơi. Với cậu, đây không chỉ là chiến thuật, mà là cuộc chạy đua để cứu người thân."
+      },
+      "image_prompt": "a young man standing alone in the rain looking at an old photograph of a smiling girl, medium shot, cold light",
+      "on_screen_text": "Cứu Tsumiki"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Cái giá: muốn có một trăm điểm, vẫn phải hạ gục những người chơi khác. Người tốt cũng phải tham gia trò chơi bẩn để có quyền sửa nó."
+      },
+      "image_prompt": "a clean white glove stained at the fingertips with dark ink, extreme close-up, somber light",
+      "on_screen_text": "Cái giá: vẫn phải chiến đấu"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Một trăm điểm là con số rất lớn. Nếu mỗi người tự kiếm, họ sẽ mất rất lâu. Vì vậy một ý tưởng khác là cho phép chuyển điểm giữa những người chơi."
+      },
+      "image_prompt": "several small glowing point tokens flowing from multiple hands into one player's palm, close-up, warm golden light",
+      "chapter": "Cách phá 2: gom điểm vào một người",
+      "on_screen_text": "Cách phá 2: chuyển điểm"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Nghĩa là một người không cần tự tay lấy đủ một trăm mạng. Cả nhóm cùng chia gánh nặng, rồi dồn cho người đáng tin nhất để thương lượng."
+      },
+      "image_prompt": "a group of hands placing glowing tokens into a single small chest held by one person, close-up, warm light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nếu chuyển được điểm, cả nhóm có thể dồn điểm cho một người đủ một trăm, để người đó thêm luật mới cho tất cả."
+      },
+      "image_prompt": "a diagram showing many small circles connected by arrows to one larger circle labeled 100, parchment style, amber ink",
+      "on_screen_text": "Dồn điểm cho một người"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku thấy đây là cách phá thông minh nhất: biến một trò chơi được thiết kế để người chơi giết nhau thành một trò chơi mà người chơi hợp tác."
+      },
+      "image_prompt": "two players shaking hands inside a glowing barrier while a small golden creature looks puzzled, humorous medium shot"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Cái giá: phải tin tưởng người khác trong một trò chơi mà ai cũng có thể là kẻ thù. Và luật chuyển điểm cũng có thể bị kẻ xấu lợi dụng."
+      },
+      "image_prompt": "a handshake where one hand is hiding a small blade behind the back, close-up, tense cold light",
+      "on_screen_text": "Cái giá: niềm tin"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Cách phá thứ ba không cần thêm luật: chọn kỹ đối thủ. Thay vì săn người thường một điểm, hãy đối đầu những thuật sư cổ đại đang gây hại, mỗi người năm điểm."
+      },
+      "image_prompt": "a young sorcerer silhouette standing between a frightened crowd and an approaching ancient warrior, protective stance, wide shot, dramatic light",
+      "chapter": "Cách phá 3: săn đúng người",
+      "on_screen_text": "Cách phá 3: săn đúng người"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Và có một điểm tinh tế: thuật sư cổ đại thường mạnh vì họ đã quen với chiến tranh và cái chết. Người hiện đại phải thắng họ bằng sự sáng tạo, hiểu biết luật chơi và tinh thần đồng đội."
+      },
+      "image_prompt": "a group of young sorcerers coordinating an attack on a large ancient warrior using a tactical plan sketched in the air, dynamic wide shot"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Cách này vừa ghi điểm, vừa bảo vệ người vô tội. Nhưng nó cũng nguy hiểm nhất, vì những thuật sư cổ đại thường mạnh hơn rất nhiều."
+      },
+      "image_prompt": "a massive intimidating figure towering over a smaller sorcerer in a ruined plaza, low-angle shot, ominous light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku để ý: đây là cách mà các nhân vật chính chọn gần như trong mọi trận. Họ biến luật tàn nhẫn nhất, luật năm, thành cơ hội để làm điều đúng."
+      },
+      "image_prompt": "the owl mascot circling rule five on the rulebook and drawing a small shield icon beside it",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Cái giá: mỗi trận đấu với thuật sư cổ đại có thể là trận cuối cùng."
+      },
+      "image_prompt": "a cracked mask lying in the rubble of a ruined street, extreme close-up, grey light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Cách phá lớn nhất là không phá luật, mà phá người tạo ra luật. Nếu Kenjaku bị ngăn lại, trò chơi sẽ mất lý do tồn tại."
+      },
+      "image_prompt": "a hand reaching toward a shadowy puppeteer silhouette above a stage full of small figures on strings, wide shot, dramatic light",
+      "chapter": "Cách phá 4: đánh vào người tạo luật",
+      "on_screen_text": "Cách phá 4: nhắm vào Kenjaku"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku nhớ lại video về Gojo: một thế giới dựa vào một người mạnh nhất thì rất mong manh. Arc này chính là lúc thế giới phải học cách chiến đấu khi không có người đó."
+      },
+      "image_prompt": "a group of young silhouettes holding up a cracked stone pillar together, wide shot, dramatic dawn light",
+      "on_screen_text": "Chiến đấu khi thiếu người mạnh nhất"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và cũng có một mục tiêu song song: giải phóng Gojo khỏi phong ấn. Người mạnh nhất nếu trở lại sẽ thay đổi hoàn toàn cán cân."
+      },
+      "image_prompt": "a sealed cube glowing faintly in a dark room with a small crack of light on its surface, close-up, hopeful light",
+      "on_screen_text": "Giải phóng Gojo"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Cái giá: cả hai mục tiêu đều cần thời gian, trong khi luật tám không cho ai thời gian. Mỗi ngày trôi qua là thêm người chơi bị cuốn vào."
+      },
+      "image_prompt": "an hourglass with sand pouring onto a map of glowing domes, extreme close-up, cold light",
+      "on_screen_text": "Cái giá: thời gian"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kaku dừng ở đây. Những gì xảy ra tiếp theo, bạn sẽ thấy ở phần sau của anime."
+      },
+      "image_prompt": "a notebook closing with a bookmark sticking out at a page marked with a question mark, close-up"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku gom lại thành một bảng. Luật một, hai, ba: không ai đứng ngoài. Cách phá: không có, chỉ có thể bước vào với mục tiêu rõ ràng."
+      },
+      "image_prompt": "a two-column table on parchment, the first row with a net icon on the left and a closed door icon on the right, amber ink",
+      "chapter": "Bảng luật và cách phá",
+      "on_screen_text": "Luật 1–3: giăng lưới"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Luật bốn, năm: điểm là mạng người. Cách phá: săn đúng người, những kẻ đang gây hại. Cái giá: đối thủ mạnh hơn nhiều."
+      },
+      "image_prompt": "the second row with a scoreboard icon and a shield icon, parchment close-up",
+      "on_screen_text": "Luật 4–5 → săn đúng người"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Một dòng nhỏ Kaku viết thêm dưới bảng: mọi cách phá đều dùng luật của chính trò chơi. Không ai thoát ra bằng cách phớt lờ luật. Họ thoát ra bằng cách hiểu luật hơn người viết."
+      },
+      "image_prompt": "a footnote line written at the bottom of the table with a small key and book icon, parchment close-up, amber ink"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Luật sáu, bảy: một trăm điểm đổi một luật. Cách phá: thêm luật cho phép rời trò chơi, chuyển điểm để dồn cho một người. Cái giá: vẫn phải chiến đấu và phải tin nhau."
+      },
+      "image_prompt": "the third row with a key icon and a handshake icon, parchment close-up",
+      "on_screen_text": "Luật 6–7 → thêm luật, chuyển điểm"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Luật tám: không được đứng yên. Cách phá lớn nhất: nhắm vào người viết luật, và đưa người mạnh nhất trở lại. Cái giá: thời gian không chờ ai."
+      },
+      "image_prompt": "the final row with a clock icon and a broken chain icon, glowing slightly, close-up",
+      "on_screen_text": "Luật 8 → nhắm vào gốc"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu so với Trò chơi con mực, nơi người chơi chỉ có thể bỏ phiếu dừng trò chơi, thì Tử Diệt Hồi Du cho người chơi nhiều công cụ hơn, nhưng cũng đòi hỏi họ phải trả giá nhiều hơn."
+      },
+      "image_prompt": "a comparison sketch of a simple ballot box and a complex rulebook with a key, side by side on parchment, amber ink",
+      "chapter": "Góc nhìn của Kaku: một trò chơi dạy người chơi viết luật"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kaku phải thừa nhận: đọc bộ luật này giống như làm bài tập môn luật. Nhưng đây là bài tập mà sai một điều khoản là mất mạng."
+      },
+      "image_prompt": "the owl mascot sweating over a thick legal exam paper with a red timer beside it",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku thấy Tử Diệt Hồi Du là một trong những trò chơi sinh tử được thiết kế thông minh nhất trong anime. Không phải vì nó tàn nhẫn, mà vì nó cho phép người chơi sửa luật."
+      },
+      "image_prompt": "a large rulebook with many handwritten amendments in different inks, close-up, warm lamplight",
+      "on_screen_text": "Trò chơi cho phép sửa luật"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Và chính điều đó biến các nhân vật chính từ nạn nhân thành người viết lại câu chuyện. Họ không thắng bằng cách giết nhiều hơn, mà bằng cách thay đổi những gì được coi là thắng."
+      },
+      "image_prompt": "a young sorcerer rewriting a line in a giant rulebook with a glowing brush, low-angle shot, dramatic warm light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn có một trăm điểm, bạn sẽ thêm luật gì vào Tử Diệt Hồi Du? Nhớ luật bảy: không được quá lớn. Viết luật của bạn vào bình luận, Kaku sẽ chọn luật khôn ngoan nhất."
+      },
+      "image_prompt": "a blank rule card and a pen on a desk with a small golden creature waiting beside it, top-down shot",
+      "on_screen_text": "Luật của bạn là gì?"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và đó là một thông điệp rất đẹp của Jujutsu Kaisen: khi luật bất công, đừng chỉ tìm cách sống sót trong đó. Hãy tìm cách sửa nó."
+      },
+      "image_prompt": "a hand holding a pen correcting a line on a large public notice board in a city square, close-up, warm hopeful light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Tử Diệt Hồi Du bắt đầu như một trò chơi để người ta giết nhau. Nhưng với những người như Itadori và Fushiguro, nó trở thành cuộc chiến để giành lại quyền viết luật."
+      },
+      "image_prompt": "two young sorcerers standing on a rooftop at dawn looking at the glowing barrier domes across the city, back view, wide shot, determined light",
+      "video_prompt": "slow push-in on the two sorcerers as dawn light spreads over the barrier domes",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đưa bạn vào một kỳ thi khác, cũng sinh tử nhưng vui hơn nhiều: nếu bạn dự kỳ thi sát thủ JCC của Sakamoto Days, bạn sẽ sống sót tới vòng nào?"
+      },
+      "image_prompt": "an exam hall with desks, a countdown clock and hidden traps, a nervous candidate holding a pencil, wide shot, tense but playful light",
+      "on_screen_text": "Tiếp theo: thi sát thủ JCC"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn thích đọc luật như đọc hợp đồng cùng Kaku, hãy đăng ký kênh để không bỏ lỡ những bộ luật tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the contract scroll and tipping its tiny reading glasses goodbye",
+      "use_mascot": true
+    }
+  ]
+}

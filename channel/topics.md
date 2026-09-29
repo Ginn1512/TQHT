@@ -68,12 +68,12 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 43 | 2027-01-12 | Rimuru tiến hóa từ slime đến Ma vương | Tensura | G · Bậc thang tiến hóa | 4 | ? | 4 | 5 | 13 | `videos/2027-01-12-rimuru-tien-hoa-tensura/` | Kịch bản xong — chờ kiểm nguồn |
 | 44 | 2027-01-14 | Cây phả hệ One For All, 9 người kế thừa | My Hero Academia | D · Cây phả hệ | 4 | ? | 4 | 4 | 12 | `videos/2027-01-14-cay-pha-he-one-for-all/` | Kịch bản xong — chờ kiểm nguồn |
 | 45 | 2027-01-16 | APTX 4869 và đồ của tiến sĩ Agasa: khoa học thật tới đâu | Thám tử lừng danh Conan | P · Khoa học trong anime | 5 | ? | 5 | 4 | 14 | `videos/2027-01-16-khoa-hoc-conan/` | Kịch bản xong — chờ kiểm nguồn |
-| 46 | 2027-01-19 | Luật chơi Tử Diệt Hồi Du và cách phá | Jujutsu Kaisen | B · Luật chơi và cách phá | 5 | ? | 4 | 4 | 13 | `videos/2027-01-19-luat-tu-diet-hoi-du/` | Chưa viết |
-| 47 | 2027-01-21 | Nếu bạn dự kỳ thi sát thủ JCC | Sakamoto Days (mùa 2 đang phát) | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2027-01-21-neu-ban-thi-jcc-sakamoto-days/` | Chưa viết |
-| 48 | 2027-01-23 | Nhập môn Jinki (bảo khí) | Gachiakuta | Q · Nhập môn | 4 | ? | 4 | 5 | 13 | `videos/2027-01-23-nhap-mon-gachiakuta/` | Chưa viết |
-| 49 | 2027-01-26 | Du hành thời gian: luật nào chặt nhất | Tokyo Revengers / Steins;Gate / Re:Zero | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2027-01-26-so-sanh-du-hanh-thoi-gian/` | Chưa viết |
-| 50 | 2027-01-28 | Dòng thời gian 1.000 năm, từ Muzan tới Tanjiro | Kimetsu no Yaiba | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2027-01-28-dong-thoi-gian-kimetsu/` | Chưa viết |
-| 51 | 2027-01-30 | Giả kim thuật và luật trao đổi ngang giá | Fullmetal Alchemist | A · Giải thích hệ thống | 5 | ? | 4 | 5 | 14 | `videos/2027-01-30-gia-kim-thuat-fullmetal/` | Chưa viết |
+| 46 | 2027-01-19 | Luật chơi Tử Diệt Hồi Du và cách phá | Jujutsu Kaisen | B · Luật chơi và cách phá | 5 | ? | 4 | 4 | 13 | `videos/2027-01-19-luat-tu-diet-hoi-du/` | Kịch bản xong — chờ kiểm nguồn |
+| 47 | 2027-01-21 | Nếu bạn dự kỳ thi sát thủ JCC | Sakamoto Days (mùa 2 đang phát) | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2027-01-21-neu-ban-thi-jcc-sakamoto-days/` | Kịch bản xong — chờ kiểm nguồn |
+| 48 | 2027-01-23 | Nhập môn Jinki (bảo khí) | Gachiakuta | Q · Nhập môn | 4 | ? | 4 | 5 | 13 | `videos/2027-01-23-nhap-mon-gachiakuta/` | Kịch bản xong — chờ kiểm nguồn |
+| 49 | 2027-01-26 | Du hành thời gian: luật nào chặt nhất | Tokyo Revengers / Steins;Gate / Re:Zero | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2027-01-26-so-sanh-du-hanh-thoi-gian/` | Kịch bản xong — chờ kiểm nguồn |
+| 50 | 2027-01-28 | Dòng thời gian 1.000 năm, từ Muzan tới Tanjiro | Kimetsu no Yaiba | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2027-01-28-dong-thoi-gian-kimetsu/` | Kịch bản xong — chờ kiểm nguồn |
+| 51 | 2027-01-30 | Giả kim thuật và luật trao đổi ngang giá | Fullmetal Alchemist | A · Giải thích hệ thống | 5 | ? | 4 | 5 | 14 | `videos/2027-01-30-gia-kim-thuat-fullmetal/` | Kịch bản xong — chờ kiểm nguồn |
 | 52 | 2027-02-02 | Tần Thủy Hoàng và Lý Tín thật | Kingdom | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 4 | 13 | `videos/2027-02-02-tan-thuy-hoang-that-kingdom/` | Chưa viết |
 | 53 | 2027-02-04 | Bí ẩn Ác quỷ Cưa máy (lý thuyết có gắn nhãn) | Chainsaw Man | N · Điều tra bí ẩn | 4 | ? | 4 | 4 | 12 | `videos/2027-02-04-bi-an-ac-quy-cua-may/` | Chưa viết |
 | 54 | 2027-02-06 | Từ 1% đến 100%: sức mạnh là cảm xúc | Mob Psycho 100 | H · Chân dung qua sức mạnh | 4 | ? | 5 | 4 | 13 | `videos/2027-02-06-mob-psycho-100-phan-tram/` | Chưa viết |

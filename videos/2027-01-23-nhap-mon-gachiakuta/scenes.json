@@ -1,0 +1,664 @@
+{
+  "title": "Gachiakuta: Nhập môn — thế giới nơi rác thành vũ khí",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Video này gần như không có spoiler. Kaku chỉ nói tới khoảng tập ba, tập bốn của anime mùa một. Nếu bạn chưa xem Gachiakuta, đây là mười lăm phút bạn cần."
+      },
+      "image_prompt": "a towering mountain of discarded objects under a grey sky, a closed notebook resting on a broken chair at its base, wide establishing shot, muted light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Gần như không spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy nhìn quanh phòng bạn. Có món đồ nào bạn giữ rất lâu, dù nó đã cũ, đã hỏng? Một chiếc áo của người thân, một cây bút từ hồi đi học, một món quà nhỏ?"
+      },
+      "image_prompt": "a cozy bedroom shelf with an old worn plush toy, a faded jacket and a scratched pen, close-up, warm nostalgic light",
+      "on_screen_text": "Món đồ bạn không nỡ vứt"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trong Gachiakuta, những món đồ như vậy có linh hồn. Và nếu bạn đủ trân trọng chúng, chúng có thể trở thành vũ khí."
+      },
+      "image_prompt": "an old umbrella glowing faintly with a soft light in the hands of a young fighter, close-up, dramatic warm light",
+      "on_screen_text": "Đồ được trân trọng = vũ khí"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Gachiakuta là manga của tác giả Urana Kei, và anime do studio Bones sản xuất, ra mắt năm 2025. Nó được nhiều người gọi là một trong những bộ shounen mới nổi bật nhất năm đó, và mùa hai đã được công bố."
+      },
+      "image_prompt": "a stylized manga volume with graffiti-style lettering next to a TV screen glowing with bold colors, close-up, vibrant light",
+      "on_screen_text": "Urana Kei · Bones · 2025"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Tên truyện ghép từ hai từ tiếng Nhật: gachi, nghĩa là thật sự, nghiêm túc, và akuta, nghĩa là rác, đồ bỏ đi. Có thể hiểu là rác thật sự, hay rác nghiêm túc."
+      },
+      "image_prompt": "two Japanese-style brush stroke characters drawn on paper side by side with small icons of a serious face and a crumpled paper ball, close-up, warm light",
+      "on_screen_text": "Gachi + akuta"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở cửa nhập môn cho Gachiakuta: thế giới, nhân vật chính, cách sức mạnh vận hành, và vì sao nên xem. Cuối video là lộ trình xem cho người mới."
+      },
+      "image_prompt": "the owl mascot standing at a creaky gate made of scrap metal, holding it open and gesturing welcomingly",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Thế giới của Gachiakuta được chia làm hai tầng. Ở trên là một thành phố giàu có, nơi người ta vứt bỏ mọi thứ mà không cần suy nghĩ."
+      },
+      "image_prompt": "a gleaming wealthy city on a floating plateau with clean streets and elegant buildings, residents tossing items carelessly over a railing, wide shot, bright light",
+      "chapter": "Thế giới: tầng trên và hố rác",
+      "on_screen_text": "Tầng trên: thành phố giàu"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Mọi thứ bị vứt đi đều rơi xuống một vực sâu khổng lồ gọi là Hố. Không ai ở trên biết dưới đó có gì, và không ai quan tâm."
+      },
+      "image_prompt": "an enormous chasm at the edge of a city with trash falling into dark clouds below, dramatic high-angle shot, ominous light",
+      "on_screen_text": "Hố",
+      "video_prompt": "trash tumbles slowly over the edge and vanishes into the swirling dark clouds below",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Người dân tầng trên sống sạch sẽ, tiện nghi, và chưa từng tự hỏi rác của mình đi đâu. Đối với họ, vứt xuống Hố là biến mất vĩnh viễn."
+      },
+      "image_prompt": "a well-dressed family casually dropping a bag over a railing without looking, the chasm below hidden in clouds, medium shot, bright indifferent light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nhưng Hố không chỉ nhận rác. Nó còn là hình phạt. Tội phạm bị ném xuống Hố, và người ta tin rằng không ai rơi xuống mà còn sống trở về."
+      },
+      "image_prompt": "a silhouette being pushed toward the edge of the chasm by guards, a crowd watching from behind a fence, wide shot, cold harsh light",
+      "on_screen_text": "Hố = hình phạt"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Những người ở khu ổ chuột mang một dấu hiệu trên người, cho biết họ là hậu duệ của tội phạm. Họ chưa làm gì sai, nhưng bị đối xử như đã có tội từ lúc sinh ra."
+      },
+      "image_prompt": "a young person pulling a sleeve down to hide a small mark on their arm as passersby glance suspiciously, close-up, cold light",
+      "on_screen_text": "Có tội từ lúc sinh ra"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ năm nay anime rất quan tâm tới những người bị xã hội gạt ra lề."
+      },
+      "image_prompt": "three small book spines side by side, each with an icon: a horn, a cream puff, and a crumpled paper ball, close-up, warm lamplight"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Ở rìa thành phố có một khu ổ chuột, nơi sống những người mang dấu vết của tổ tiên phạm tội. Họ bị kỳ thị chỉ vì dòng dõi."
+      },
+      "image_prompt": "a cramped slum district built from scrap metal at the edge of the floating city, children playing in narrow alleys, wide shot, warm dusty light",
+      "on_screen_text": "Khu ổ chuột"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Kaku để ý: ngay từ thiết kế thế giới, Gachiakuta đã nói về một câu hỏi rất thời sự: cái gì bị coi là rác, và ai quyết định điều đó."
+      },
+      "image_prompt": "the owl mascot holding up an old shoe and looking at it thoughtfully, as if deciding whether it is trash",
+      "use_mascot": true
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Nhân vật chính là Rudo, một cậu thiếu niên sống ở khu ổ chuột. Cậu có một thói quen mà mọi người chê cười: nhặt lại những món đồ người khác vứt đi, sửa chữa và giữ chúng."
+      },
+      "image_prompt": "a rebellious teenage boy with a determined face digging through a pile of discarded objects, holding up a broken gadget with a grin, medium shot, warm light",
+      "chapter": "Nhân vật chính: Rudo",
+      "on_screen_text": "Rudo"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Nhưng Rudo vẫn nhặt, vẫn sửa. Căn nhà nhỏ của hai cha con đầy những món đồ được cứu khỏi thùng rác, mỗi món đều hoạt động lại."
+      },
+      "image_prompt": "a small cozy shack filled with repaired lamps, clocks and gadgets, all glowing softly, wide shot, warm homely light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Cậu được nuôi bởi một người cha nuôi tên Regto, người nhiều lần nhắc cậu đừng nhặt rác, vì ở thành phố này, người nhặt rác sẽ bị coi như rác."
+      },
+      "image_prompt": "a gentle older man with a scarred face standing in a small doorway, watching a boy carry scrap home, medium shot, soft evening light",
+      "on_screen_text": "Cha nuôi Regto"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Rudo luôn đeo một đôi găng tay, món đồ cậu không bao giờ rời. Đôi găng này sẽ trở thành chìa khóa của cả câu chuyện."
+      },
+      "image_prompt": "a pair of worn fingerless gloves resting on a wooden table beside a small toolkit, extreme close-up, warm light",
+      "on_screen_text": "Đôi găng tay"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Không ai tin Rudo. Chỉ vì cậu sống ở khu ổ chuột, chỉ vì cậu mang dấu hiệu của tổ tiên tội phạm. Bằng chứng không quan trọng, định kiến mới quan trọng."
+      },
+      "image_prompt": "a crowd of accusing faces surrounding a boy in a town square, fingers pointing, dramatic low-angle shot, harsh light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Rồi một ngày, Regto bị một kẻ lạ mặt sát hại. Rudo bị vu oan là hung thủ, bị bắt, và bị ném xuống Hố."
+      },
+      "image_prompt": "a boy falling into a dark cloud-filled chasm, reaching upward toward a shrinking circle of light, dramatic low-angle shot, cold light",
+      "on_screen_text": "Bị vu oan, bị ném xuống Hố",
+      "video_prompt": "the boy falls into the dark chasm as the circle of light above shrinks away",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku phải nói: tập một của Gachiakuta là một trong những tập mở đầu mạnh nhất Kaku từng xem gần đây. Nếu bạn chỉ có hai mươi phút, hãy xem tập một để quyết định."
+      },
+      "image_prompt": "a TV screen glowing in a dark room with a single remote on the couch, a sticky note reading episode one, close-up, cozy light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Đó là tập một. Và từ đây, câu chuyện thật sự bắt đầu: một cậu bé bị thế giới vứt bỏ, rơi xuống nơi chứa đựng mọi thứ bị vứt bỏ."
+      },
+      "image_prompt": "a boy lying on top of a vast landscape of trash at the bottom of the chasm, looking up at a distant sky, wide shot, muted grey light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Nơi đây ngập trong khói độc và mùi rác thối. Người dưới Hố phải đeo mặt nạ để thở, và học cách sống giữa những thứ người trên cao vứt bỏ."
+      },
+      "image_prompt": "people wearing improvised breathing masks walking through a hazy landscape of trash, wide shot, muted green haze",
+      "chapter": "Dưới đáy Hố"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Dưới đáy Hố không phải là chết chóc tuyệt đối như người trên cao nghĩ. Có người sống ở đó, có cả những thị trấn được dựng lên từ rác."
+      },
+      "image_prompt": "a surprising settlement built from scrap metal and old vehicles on a landscape of trash, smoke rising from chimneys, wide shot, warm hazy light",
+      "on_screen_text": "Có người sống dưới Hố"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhưng rác ở đây cũng sinh ra quái vật: những sinh vật khổng lồ được tạo thành từ rác thải, gọi là Quái vật rác. Chúng tấn công bất cứ thứ gì sống."
+      },
+      "image_prompt": "a towering monster formed from piles of discarded junk, glowing eyes in its scrap body, looming over a small figure, low-angle shot, ominous light",
+      "on_screen_text": "Quái vật rác",
+      "video_prompt": "the junk monster rises and its glowing eyes flicker on",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Và có một nhóm người chuyên chiến đấu với chúng, gọi là Cleaners, những người dọn dẹp. Họ không dùng súng hay phép thuật. Họ dùng đồ vật."
+      },
+      "image_prompt": "a group of stylish fighters with graffiti-painted jackets standing on a trash hill, each holding a different everyday object, wide shot, dramatic backlight",
+      "on_screen_text": "Cleaners"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Enjin có vẻ lười biếng và hay đùa, nhưng khi chiến đấu thì rất đáng tin. Anh là kiểu người thầy mà shounen nào cũng cần, và Kaku đoán bạn sẽ thích anh ngay từ tập đầu gặp mặt."
+      },
+      "image_prompt": "a laid-back man lounging on a trash hill with an umbrella over his shoulder, grinning at a frustrated boy, humorous medium shot"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Rudo gặp một người đàn ông tên Enjin, một Cleaner dùng chiếc ô làm vũ khí. Anh cứu Rudo khỏi quái vật, và đưa cậu vào thế giới của những người dọn dẹp."
+      },
+      "image_prompt": "a tall laid-back man holding an open umbrella that deflects a monster's strike, a boy on the ground behind him, dynamic medium shot",
+      "on_screen_text": "Enjin"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Giờ tới hệ thống sức mạnh. Gachiakuta có một khái niệm gọi là Jinki, tạm dịch là bảo khí: những món đồ được người dùng gắn bó sâu sắc, tới mức chúng thấm đẫm năng lượng từ cảm xúc và suy nghĩ của con người."
+      },
+      "image_prompt": "an old everyday object glowing with soft threads of light connecting it to a person's heart, symbolic close-up, warm light",
+      "chapter": "Sức mạnh: Jinki và Giver",
+      "on_screen_text": "Jinki: bảo khí"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Năng lượng trong Jinki không phải phép thuật từ trên trời rơi xuống. Nó đến từ chính con người: từ suy nghĩ, cảm xúc, ký ức gắn với món đồ."
+      },
+      "image_prompt": "a translucent memory of a smiling person faintly visible inside a glowing old object, symbolic close-up, soft warm light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Người có thể đánh thức sức mạnh của những món đồ đó gọi là Giver. Không phải ai cũng làm được. Giver là người có khả năng truyền năng lượng vào đồ vật mình trân trọng."
+      },
+      "image_prompt": "a young person holding an old tool with both hands as it begins to glow brighter, close-up, dramatic warm light",
+      "on_screen_text": "Giver"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Mỗi Jinki là duy nhất, vì mỗi mối gắn bó là duy nhất. Chiếc ô của Enjin, cây gậy của một Cleaner khác, mỗi món có năng lực riêng phản ánh người dùng nó."
+      },
+      "image_prompt": "a row of different glowing objects laid out on a workbench: an umbrella, a stick, a pair of gloves, a small toy, each with a different colored glow, still life",
+      "on_screen_text": "Mỗi Jinki là duy nhất"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nghĩa là trong một thế giới đầy rác, Rudo có một kho vũ khí vô tận. Chỉ cần cậu chạm vào và thấy được giá trị của món đồ."
+      },
+      "image_prompt": "a boy standing in the middle of an endless trash landscape, faint glowing outlines appearing around nearby objects as he looks at them, wide shot, dramatic light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Và Rudo phát hiện ra mình là một Giver. Đôi găng tay của cậu là Jinki. Nhưng điều đặc biệt là: với đôi găng, cậu có thể đánh thức cả những món rác xung quanh, biến chúng thành vũ khí."
+      },
+      "image_prompt": "a boy wearing glowing gloves touching a pile of junk that rises and reshapes into a makeshift weapon, dynamic close-up, dramatic light",
+      "on_screen_text": "Găng tay của Rudo",
+      "video_prompt": "the pile of junk lifts into the air and reshapes into a weapon around the glowing gloves",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku rất thích chi tiết này: người từng bị chê cười vì nhặt rác lại có năng lực biến rác thành sức mạnh. Tác giả biến điểm yếu của nhân vật thành điểm mạnh."
+      },
+      "image_prompt": "the owl mascot holding a broken teacup that glows faintly, looking delighted",
+      "use_mascot": true
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Trước khi đi vào luật, Kaku nhắc lại một điều: những gì Kaku nói sau đây chỉ tới khoảng tập bốn, nên bạn yên tâm, không có bí mật lớn nào bị lộ."
+      },
+      "image_prompt": "a notebook page with a small padlock doodle beside a list of three numbered rules, close-up, warm amber light",
+      "chapter": "Luật của Jinki",
+      "on_screen_text": "Chỉ tới tập 4"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Luật một: sức mạnh của Jinki đến từ sự gắn bó. Một món đồ mới mua hôm qua sẽ không có sức mạnh. Một món đồ được giữ gìn, sửa chữa, yêu quý qua nhiều năm thì có."
+      },
+      "image_prompt": "two objects side by side: a shiny new pen in its packaging and an old worn pen with tape repairs glowing softly, comparison still life, warm light",
+      "on_screen_text": "Luật 1: gắn bó = sức mạnh"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Luật hai: Jinki phản ánh người dùng. Năng lực của nó thường liên quan tới ý nghĩa món đồ đó với chủ nhân."
+      },
+      "image_prompt": "a small handwritten note tied to an old object, the note's words glowing faintly, extreme close-up, soft light",
+      "on_screen_text": "Luật 2: đồ vật phản ánh con người"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kaku rất thích hình ảnh các Cleaner sửa Jinki sau mỗi trận. Giống như một người lính lau súng, nhưng ở đây họ đang chăm sóc một người bạn."
+      },
+      "image_prompt": "several fighters sitting together at dusk mending their various objects with glue, thread and tape, wide shot, warm quiet light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Luật ba: nếu Jinki bị phá hủy, Giver mất vũ khí, và phải xây dựng lại mối gắn bó từ đầu. Vì vậy các Cleaner chăm sóc Jinki của mình như chăm sóc một người bạn."
+      },
+      "image_prompt": "a fighter carefully repairing a cracked umbrella handle with tools by lamplight, close-up, warm quiet light",
+      "on_screen_text": "Luật 3: giữ gìn Jinki"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Và nó khiến hệ thống sức mạnh này rất gần với người xem. Ai trong chúng ta cũng có một món đồ như vậy. Ai trong chúng ta cũng có thể là một Giver, ít nhất là trong tưởng tượng."
+      },
+      "image_prompt": "a diverse group of people each holding a small cherished object that glows faintly, arranged in a warm circle, wide shot, soft light"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là một hệ thống sức mạnh hiếm hoi mà cách mạnh lên không phải là luyện tập hay chiến đấu, mà là yêu quý một thứ gì đó thật lâu."
+      },
+      "image_prompt": "a timeline drawn on parchment showing an object gaining a brighter glow over many years of care, amber ink"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Ý tưởng đồ vật có linh hồn không phải do Gachiakuta nghĩ ra. Nó có gốc rất sâu trong văn hóa Nhật Bản."
+      },
+      "image_prompt": "an old Japanese picture scroll unrolled on a low table showing whimsical drawings of household objects with faces, close-up, warm candlelight",
+      "chapter": "Gốc văn hóa: đồ vật có linh hồn",
+      "on_screen_text": "Gốc văn hóa Nhật"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Trong dân gian Nhật có khái niệm tsukumogami: những đồ vật dùng lâu tới một trăm năm sẽ có linh hồn. Một chiếc ô, một chiếc đèn lồng, một đôi guốc có thể thức dậy vào ban đêm."
+      },
+      "image_prompt": "a moonlit room where an old paper umbrella, a lantern and a pair of wooden sandals come to life with playful expressions, whimsical wide shot, soft blue light",
+      "on_screen_text": "Tsukumogami"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Theo truyền thuyết, những đồ vật bị vứt bỏ một cách vô ơn có thể trở nên giận dữ và báo thù. Những câu chuyện này dạy người ta tôn trọng những thứ đã phục vụ mình."
+      },
+      "image_prompt": "a pile of discarded old objects in an alley at night with faint angry glowing eyes, eerie but whimsical, medium shot",
+      "on_screen_text": "Đồ vật bị vứt bỏ sẽ giận dữ"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nghe có quen không? Quái vật rác trong Gachiakuta được sinh ra từ đống đồ bị vứt đi. Còn Jinki là đồ vật được yêu quý. Hai mặt của cùng một truyền thuyết."
+      },
+      "image_prompt": "a split illustration: an angry junk monster on one side and a softly glowing cherished object on the other, symmetrical composition, parchment and neon",
+      "on_screen_text": "Hai mặt của một truyền thuyết"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Người Nhật còn có một từ rất đặc biệt: mottainai, nghĩa là thật đáng tiếc khi một thứ bị lãng phí mà chưa được dùng hết giá trị. Nó không chỉ là tiết kiệm, mà là tôn trọng đồ vật."
+      },
+      "image_prompt": "a grandmother carefully folding a used gift wrapping paper to reuse it, close-up, warm kitchen light",
+      "on_screen_text": "Mottainai"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Và có cả nghệ thuật kintsugi: hàn gắn đồ gốm bị vỡ bằng sơn mài trộn bột vàng. Vết nứt không bị giấu đi mà được làm nổi bật, như một phần câu chuyện của món đồ."
+      },
+      "image_prompt": "a ceramic bowl repaired with glowing golden seams along its cracks, resting on a dark wooden table, extreme close-up, warm light",
+      "on_screen_text": "Kintsugi"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku thấy đây là chìa khóa để hiểu Rudo. Cậu không nhặt rác vì nghèo. Cậu nhặt vì cậu thấy giá trị ở nơi người khác chỉ thấy đồ bỏ đi. Cậu là một tinh thần mottainai biết đi."
+      },
+      "image_prompt": "the owl mascot holding a golden-repaired teacup and nodding solemnly",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Giờ đến một trò chơi nhỏ. Nếu bạn là một Giver, món đồ nào của bạn sẽ trở thành Jinki?"
+      },
+      "image_prompt": "a desk drawer pulled open revealing a collection of personal keepsakes: a keychain, an old watch, a worn notebook, close-up, warm nostalgic light",
+      "chapter": "Nếu bạn là một Giver",
+      "on_screen_text": "Jinki của bạn là gì?"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Hãy nghĩ tới món đồ bạn giữ lâu nhất, sửa nhiều nhất, và buồn nhất nếu mất nó. Đó là Jinki của bạn."
+      },
+      "image_prompt": "a hand holding a small repaired keychain with tape around it, extreme close-up, soft light"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Rồi thử đoán năng lực của nó. Một chiếc đồng hồ cũ của ông có thể làm chậm thời gian. Một quyển sổ ghi chép có thể ghi nhớ đòn đánh của đối thủ. Một chiếc xe đạp có thể đưa bạn đi thật xa."
+      },
+      "image_prompt": "three small panels: an old watch with glowing slowed clock hands, a notebook with glowing annotations, a bicycle with light trails, parchment storyboard"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Jinki của Kaku chắc chắn là cuốn sổ này. Năng lực: mở ra là kẻ thù phải nghe giảng mười lăm phút. Rất đáng sợ."
+      },
+      "image_prompt": "the owl mascot holding its glowing notebook up like a shield while a monster yawns in front of it",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Viết tên Jinki và năng lực của bạn vào bình luận nhé. Kaku sẽ chọn những Jinki sáng tạo nhất để vẽ vào một video sau."
+      },
+      "image_prompt": "a comment box drawn on parchment with small doodles of glowing everyday objects, close-up, warm light",
+      "on_screen_text": "Viết Jinki của bạn"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Những nét graffiti xuất hiện cả trên quần áo, trên tường, trên vũ khí. Nó cho thế giới dưới Hố một cá tính đường phố rất riêng, khác hẳn vẻ sạch sẽ lạnh lùng của tầng trên."
+      },
+      "image_prompt": "a split composition: sterile white city walls above, vibrant graffiti-covered scrap walls below, wide shot, contrasting light",
+      "chapter": "Vì sao nên xem: phong cách",
+      "on_screen_text": "Tầng trên sạch · Tầng dưới graffiti"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Lý do đầu tiên để xem Gachiakuta: phong cách hình ảnh. Bộ truyện có những hình vẽ graffiti mạnh mẽ, và anime có hẳn một nghệ sĩ thiết kế graffiti riêng."
+      },
+      "image_prompt": "a large colorful graffiti mural on a scrap metal wall with bold abstract shapes, wide shot, vibrant urban light",
+      "on_screen_text": "Graffiti"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Chính tác giả Urana Kei từng là trợ lý của tác giả Fire Force, và bạn sẽ thấy chất năng lượng, chuyển động rất mạnh trong từng trang."
+      },
+      "image_prompt": "a manga page layout with dynamic diagonal panels and speed lines sketched on a drawing desk, close-up, warm lamplight"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Nhạc nền của anime cũng rất đáng chú ý, mạnh mẽ, có chất hip hop đường phố, hợp với thế giới graffiti. Kaku khuyên đeo tai nghe khi xem."
+      },
+      "image_prompt": "a pair of headphones resting on a spray paint can beside a small speaker, close-up, vibrant urban light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Studio Bones, nơi từng làm My Hero Academia, mang tới những cảnh hành động rất mãn nhãn. Kaku không dùng cảnh gốc ở đây, nên bạn phải tự xem để thấy."
+      },
+      "image_prompt": "an animation desk with layered sketches of an action pose and a lightbox glowing underneath, close-up, warm studio light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Câu hỏi lớn của bộ truyện là: nếu bạn bị cả thế giới vứt bỏ, bạn sẽ đập phá nó, hay tìm cách làm nó tốt hơn? Rudo phải chọn, và lựa chọn đó không dễ."
+      },
+      "image_prompt": "a boy standing at a crossroads in the trash landscape, one path leading toward the city above, one toward a group of people below, wide shot, dramatic light",
+      "chapter": "Vì sao nên xem: câu chuyện"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Lý do thứ hai: câu chuyện về bất công. Rudo bị vu oan, bị vứt bỏ, và muốn trả thù những kẻ ở tầng trên. Nhưng dưới Hố, cậu dần học được rằng thế giới phức tạp hơn nhiều."
+      },
+      "image_prompt": "a boy standing at the bottom of the chasm looking up at the distant city lights with clenched fists, wide shot, dramatic contrast",
+      "on_screen_text": "Trả thù hay thay đổi?"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Kaku thích cách bộ truyện không vẽ tầng dưới là người tốt hết, tầng trên là người xấu hết. Dưới Hố cũng có kẻ tham lam, trên cao cũng có người tử tế. Thế giới xám, không trắng đen."
+      },
+      "image_prompt": "a split scene of a kind face in the clean city and a greedy face in the trash landscape, symmetrical composition, muted grey light",
+      "on_screen_text": "Thế giới xám"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Lý do thứ ba: những nhân vật phụ có cá tính. Các Cleaner mỗi người một vẻ, và mỗi Jinki kể một câu chuyện riêng về chủ nhân."
+      },
+      "image_prompt": "a group of eccentric fighters sitting around a campfire on a trash hill, laughing and repairing their tools, wide shot, warm firelight",
+      "on_screen_text": "Nhân vật phụ có cá tính"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Theo nhiều báo cáo, con người thải ra hàng tỉ tấn rác mỗi năm. Gachiakuta không giảng đạo lý, nhưng khiến bạn nhìn lại thùng rác của mình với một chút áy náy."
+      },
+      "image_prompt": "an overflowing city trash bin at night with a single discarded toy on top, close-up, somber light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Và lý do thứ tư, Kaku thích nhất: thông điệp về đồ vật. Trong thời đại ai cũng vứt đi rất dễ dàng, một bộ anime nhắc ta rằng những thứ cũ vẫn có giá trị nếu ta biết trân trọng."
+      },
+      "image_prompt": "a child handing an old repaired toy to a younger child in a quiet street, close-up, warm hopeful light",
+      "on_screen_text": "Trân trọng đồ cũ"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Nếu bạn còn phân vân, đây là cách Kaku gợi ý nhanh. Nếu bạn thích Fire Force, bạn sẽ thích nhịp hành động và cách vẽ đầy năng lượng của Gachiakuta."
+      },
+      "image_prompt": "two manga volumes side by side on a shelf, one with flame motifs and one with graffiti motifs, close-up, warm light",
+      "chapter": "Nếu bạn thích bộ này, bạn sẽ thích Gachiakuta",
+      "on_screen_text": "Thích Fire Force?"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nếu bạn thích Dr. Stone, bạn sẽ thích cảm giác biến những thứ tưởng như vô dụng thành công cụ hữu ích."
+      },
+      "image_prompt": "a makeshift workshop where junk parts are assembled into a working machine, close-up, warm inventive light",
+      "on_screen_text": "Thích Dr. Stone?"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Nếu bạn thích Chainsaw Man, bạn sẽ thích thế giới u ám, bẩn thỉu nhưng đầy cá tính của tầng dưới."
+      },
+      "image_prompt": "a gritty alley at night with flickering signs and graffiti, a lone figure walking through, wide shot, moody light",
+      "on_screen_text": "Thích Chainsaw Man?"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Và nếu bạn chưa thích bộ nào kể trên, Gachiakuta vẫn là một cửa vào dễ chịu cho thể loại shounen hiện đại: nhân vật chính rõ ràng, thế giới dễ hiểu, và hệ thống sức mạnh gắn với cảm xúc."
+      },
+      "image_prompt": "an open door made of scrap metal leading into a colorful graffiti world, a curious newcomer stepping through, wide shot, inviting light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Kaku nói nhỏ: Kaku đã giới thiệu bộ này cho một người bạn chỉ xem anime lãng mạn. Người đó xem hết mùa một trong ba ngày."
+      },
+      "image_prompt": "the owl mascot whispering behind its wing with a small heart and a trash bag icon floating nearby, playful expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nếu bạn thích đọc hơn, manga Gachiakuta đăng trên tạp chí Shonen Magazine từ năm 2022, và có rất nhiều trang graffiti chi tiết mà anime khó truyền tải hết."
+      },
+      "image_prompt": "a manga magazine lying open on a café table with a bold graffiti-style splash page, close-up, warm light",
+      "chapter": "Lộ trình xem cho người mới"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu bạn quyết định xem, đây là lộ trình Kaku gợi ý. Tập một tới tập ba: làm quen thế giới và lý do Rudo rơi xuống Hố. Đừng bỏ qua tập một, vì mọi chi tiết đều quan trọng về sau."
+      },
+      "image_prompt": "a simple roadmap drawn on parchment with three early stops marked by small icons: a city, a fall, a trash landscape, amber ink",
+      "on_screen_text": "Tập 1–3: làm quen"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Tập bốn tới tập tám: Rudo gia nhập Cleaners và học về Jinki. Đây là lúc hệ thống sức mạnh được giải thích rõ nhất."
+      },
+      "image_prompt": "the roadmap's middle section with an umbrella icon and a pair of glove icons, parchment close-up",
+      "on_screen_text": "Tập 4–8: học Jinki"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Sau đó: những nhiệm vụ lớn hơn và những bí mật về Hố. Kaku sẽ không nói thêm."
+      },
+      "image_prompt": "the roadmap fading into fog with a question mark at the end, parchment close-up, mysterious light",
+      "on_screen_text": "Sau đó: bí mật"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Mẹo nhỏ của Kaku: xem xong mỗi tập, hãy để ý xem Jinki của từng nhân vật nói gì về quá khứ của họ. Đó là cách bộ truyện kể chuyện mà không cần lời."
+      },
+      "image_prompt": "a notebook page with small doodles of different objects and short notes beside each, close-up, amber ink"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn xem cùng bạn bè, hãy thử trò này: mỗi người đoán năng lực của một Jinki trước khi nó được tiết lộ. Ai đoán đúng nhiều nhất thì được chọn tập tiếp theo."
+      },
+      "image_prompt": "a group of friends on a couch pointing at a TV and laughing, snack bowls on the table, medium shot, cozy evening light",
+      "on_screen_text": "Trò chơi đoán Jinki"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Mùa một có khoảng hai mươi bốn tập. Nếu bạn xem mỗi tối hai tập, bạn sẽ kịp xem hết trước khi mùa hai ra mắt."
+      },
+      "image_prompt": "a calendar with small checkmarks on each evening and a TV icon, close-up, cozy light",
+      "on_screen_text": "Mùa 1: khoảng 24 tập"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Tóm lại trong một câu: Gachiakuta là shounen hành động có graffiti, có hệ thống sức mạnh dễ hiểu, và có một thông điệp mà bạn mang theo được sau khi tắt màn hình."
+      },
+      "image_prompt": "a single summary card pinned to a corkboard with three small icons: a spray can, a glowing glove, a heart, close-up, warm light",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm lại"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và lần tới bạn định vứt một món đồ cũ, hãy dừng lại một giây và nghĩ: nó đã ở bên bạn bao lâu rồi?"
+      },
+      "image_prompt": "a hand hesitating over a trash bin while holding an old worn keychain, close-up, soft reflective light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Gachiakuta là câu chuyện về một cậu bé bị coi là rác, rơi xuống nơi chứa mọi thứ bị coi là rác, và phát hiện ra rằng rác có thể trở thành sức mạnh nếu có người trân trọng."
+      },
+      "image_prompt": "a boy standing on a trash hill at dawn holding up a glowing pair of gloves, the chasm walls lit by the rising sun, wide shot, hopeful light",
+      "video_prompt": "the sun rises over the chasm rim as the boy lifts the glowing gloves",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đặt ba bộ du hành thời gian lên cùng một bàn cân: Tokyo Revengers, Steins;Gate và Re:Zero. Luật của bộ nào chặt chẽ nhất?"
+      },
+      "image_prompt": "three different clocks placed on a round table under a spotlight, each with a different style, close-up, amber light",
+      "on_screen_text": "Tiếp theo: so sánh 3 bộ du hành thời gian"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu video nhập môn này giúp bạn quyết định xem Gachiakuta, hãy đăng ký kênh để Kaku mở thêm nhiều cánh cửa nữa. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing the scrap metal gate gently and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

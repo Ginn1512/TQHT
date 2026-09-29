@@ -1,0 +1,641 @@
+{
+  "title": "Fullmetal Alchemist: Giả kim thuật và luật trao đổi ngang giá hoạt động thế nào",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết Fullmetal Alchemist Brotherhood, kể cả bí mật lớn nhất về nguồn năng lượng của giả kim thuật và cái kết. Nếu bạn chưa xem, hãy lưu lại."
+      },
+      "image_prompt": "a closed leather-bound alchemy book with a brass clasp on a wooden desk, a warning card tucked under it, close-up, warm lamplight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết Brotherhood"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Con người không thể có được thứ gì mà không trả lại một thứ khác. Muốn có, phải mất đi một thứ có giá trị tương đương. Đó là câu mở đầu nổi tiếng của Fullmetal Alchemist."
+      },
+      "image_prompt": "an antique brass balance scale perfectly level, one pan holding a small pile of sand and the other a small glass vial, close-up, warm golden light",
+      "on_screen_text": "Trao đổi ngang giá"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Hai anh em nhà Elric tin vào câu đó. Và vì tin, họ nghĩ rằng nếu đưa đủ nguyên liệu, họ có thể mang người mẹ đã mất trở lại."
+      },
+      "image_prompt": "two small boys sitting side by side on a wooden floor surrounded by open books and scribbled notes, back view, soft candlelight"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Họ đã sai. Người anh mất một chân. Người em mất toàn bộ cơ thể. Để giữ linh hồn em lại, người anh đánh đổi thêm một cánh tay."
+      },
+      "image_prompt": "a chalk circle on a dark basement floor with scattered books and a single overturned candle, no people, wide shot, cold eerie light",
+      "on_screen_text": "Cái giá của một sai lầm"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Câu hỏi hôm nay: giả kim thuật trong Fullmetal Alchemist hoạt động thế nào? Luật trao đổi ngang giá có thật sự tuyệt đối không? Và năng lượng của nó đến từ đâu?"
+      },
+      "image_prompt": "a notebook page with three handwritten question marks beside a drawn circle diagram, close-up, amber ink"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở một cuốn sổ giả kim: từ luật nền, qua các nhánh, tới những luật cấm, và cuối video là một sơ đồ tổng kết trong một hình."
+      },
+      "image_prompt": "the owl mascot drawing a chalk circle on a small blackboard with great concentration",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Fullmetal Alchemist là manga của Arakawa Hiromu, đăng từ năm 2001 tới 2010. Truyện có hai bản anime do studio Bones làm: bản năm 2003 và bản Brotherhood năm 2009, bám sát manga."
+      },
+      "image_prompt": "a stack of manga volumes beside two DVD cases on a shelf, close-up, warm nostalgic light",
+      "chapter": "Giả kim thuật là gì?",
+      "on_screen_text": "Arakawa Hiromu · Bones"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trong thế giới của truyện, giả kim thuật không phải phép thuật. Nó là một ngành khoa học: hiểu cấu tạo của vật chất, rồi biến đổi nó thành thứ khác."
+      },
+      "image_prompt": "a laboratory table with glass flasks, mineral samples and a notebook of formulas, medium shot, warm scholarly light",
+      "on_screen_text": "Giả kim là khoa học"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Nhà giả kim giỏi phải học rất nhiều: hóa học, vật lý, sinh học, và cả toán. Ở tuổi mười hai, Edward đã là một nhà giả kim quốc gia, vì cậu đọc sách nhiều như người khác ăn cơm."
+      },
+      "image_prompt": "a young teenager asleep on a pile of thick open books in a library at night, close-up, soft lamplight"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Ngoài đời thật, giả kim thuật cũng từng tồn tại, từ châu Âu, thế giới Ả Rập tới Trung Hoa. Người ta tìm cách biến chì thành vàng và tìm thuốc trường sinh. Từ những thí nghiệm đó, ngành hóa học ra đời."
+      },
+      "image_prompt": "an old medieval alchemist's workshop with a furnace, retorts and dusty manuscripts, wide shot, warm firelight",
+      "on_screen_text": "Giả kim ngoài đời thật"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Arakawa đã lấy rất nhiều biểu tượng từ giả kim thuật thật, rồi xây một hệ thống có luật rõ ràng. Kaku sẽ chỉ ra những chỗ trùng khớp khi tới."
+      },
+      "image_prompt": "an old illuminated manuscript page with alchemical symbols in the margins, extreme close-up, warm candlelight"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Luật nền của mọi phép giả kim là trao đổi ngang giá. Không thể tạo ra thứ gì từ hư không. Muốn có một thứ, phải đưa vào một thứ tương đương."
+      },
+      "image_prompt": "two cupped hands holding a small pile of iron filings that is slowly reshaping into a tiny iron key, extreme close-up, warm light",
+      "chapter": "Luật nền: trao đổi ngang giá",
+      "on_screen_text": "Không có gì từ hư không"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Luật này chia làm hai phần. Phần một: bảo toàn khối lượng. Một ký sắt chỉ có thể biến thành một ký thứ gì đó, không hơn không kém."
+      },
+      "image_prompt": "a kitchen scale with a block of iron on one side and an iron statue on the other, both showing the same weight, close-up, clean light",
+      "on_screen_text": "1. Bảo toàn khối lượng"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nghe quen không? Ngoài đời, nhà hóa học Lavoisier đã nêu định luật bảo toàn khối lượng vào cuối thế kỷ mười tám: trong phản ứng hóa học, khối lượng không tự mất đi hay sinh ra."
+      },
+      "image_prompt": "an eighteenth-century chemistry laboratory with a large precise balance and sealed glass vessels, wide shot, warm period light",
+      "on_screen_text": "Định luật bảo toàn khối lượng thật"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Phần hai: vật chất chỉ biến đổi thành thứ có cùng bản chất. Gỗ có thể thành một cái bàn gỗ, nhưng không thể thành một thanh kiếm thép."
+      },
+      "image_prompt": "a wooden chair on one side transforming into a wooden table, while a crossed-out steel sword floats nearby, diagram-style illustration, warm light",
+      "on_screen_text": "2. Cùng bản chất"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Vì vậy nhà giả kim luôn phải tính toán: mình có bao nhiêu nguyên liệu, thành phần là gì, và thứ mình muốn làm cần gì."
+      },
+      "image_prompt": "a notebook page covered with neat calculations and small sketches of materials, close-up, amber ink"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku rất thích chỗ này. Nó khiến giả kim thuật giống như nấu ăn: không có bột thì không có bánh, và bạn không thể làm bánh mì từ cát."
+      },
+      "image_prompt": "the owl mascot wearing a tiny chef hat holding a bag of flour in one wing and a handful of sand in the other, looking puzzled",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Và luật ngang giá không chỉ là một định luật khoa học trong truyện. Nó là triết lý sống của hai anh em: muốn có, phải trả giá. Cả bộ truyện là hành trình thử thách triết lý đó."
+      },
+      "image_prompt": "two brothers walking side by side down a long dusty road toward the horizon, back view, wide shot, warm sunset light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Mỗi phép giả kim đi qua ba bước. Bước một: hiểu. Nhà giả kim phải biết chính xác vật mình đang chạm vào được cấu tạo từ gì."
+      },
+      "image_prompt": "a magnifying glass held over a rough stone revealing its crystalline structure, extreme close-up, clean bright light",
+      "chapter": "Ba bước: hiểu, phân giải, tái tạo",
+      "on_screen_text": "Bước 1: Hiểu"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Bước hai: phân giải. Vật chất bị tách ra thành những thành phần cơ bản."
+      },
+      "image_prompt": "a ceramic cup breaking apart into a swirling cloud of fine particles in mid-air, dynamic close-up, glowing blue light",
+      "on_screen_text": "Bước 2: Phân giải",
+      "video_prompt": "the cup shatters into a swirling cloud of glowing particles",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Bước ba: tái tạo. Những thành phần đó được ghép lại thành hình dạng mới mà nhà giả kim muốn."
+      },
+      "image_prompt": "a cloud of particles reassembling into a delicate ceramic bird in mid-air, dynamic close-up, glowing blue light",
+      "on_screen_text": "Bước 3: Tái tạo",
+      "video_prompt": "the glowing particles swirl together and form a delicate ceramic bird",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Nếu bước một sai, mọi thứ sau đó đều sai. Đó là lý do tại sao một nhà giả kim không thể biến đổi thứ mình không hiểu."
+      },
+      "image_prompt": "a failed transmutation result: a lopsided cracked lump of metal on a workbench, close-up, grey light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Và cũng vì vậy mà người mạnh nhất không phải người có nhiều năng lượng nhất, mà là người hiểu vật chất sâu nhất. Kiến thức là sức mạnh theo nghĩa đen."
+      },
+      "image_prompt": "a tall stack of books glowing faintly with a small spark of light rising from the top, symbolic close-up, warm light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Ba bước này nghe đơn giản, nhưng Kaku thấy nó là chìa khóa của cả bộ truyện. Mọi luật cấm, mọi bi kịch, đều xuất phát từ một chỗ: con người muốn làm bước ba khi chưa làm xong bước một."
+      },
+      "image_prompt": "three numbered stepping stones across a stream, the first stone cracked, close-up, soft daylight"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Để kích hoạt, nhà giả kim vẽ một vòng tròn chuyển hóa. Vòng tròn tượng trưng cho dòng năng lượng tuần hoàn. Các ký hiệu bên trong cho biết sẽ làm gì với vật chất."
+      },
+      "image_prompt": "a precise chalk transmutation circle on a stone floor with geometric symbols inside, overhead shot, soft glowing blue light",
+      "chapter": "Vòng tròn chuyển hóa",
+      "on_screen_text": "Vòng tròn chuyển hóa"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Mỗi nhà giả kim có vòng tròn riêng, phù hợp với chuyên môn của mình. Có người khắc vòng tròn lên găng tay, lên áo giáp, thậm chí lên chính da thịt."
+      },
+      "image_prompt": "a row of different small objects on a table each engraved with a different circle design: a ring, a metal plate, a leather strap, close-up, warm light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Ví dụ, Hỏa thuật sư Roy Mustang dùng găng tay có vòng tròn và vật liệu tạo tia lửa. Anh búng tay tạo tia lửa, rồi điều khiển nồng độ khí oxy trong không khí để tạo ra ngọn lửa lớn."
+      },
+      "image_prompt": "a hand snapping fingers with a tiny spark leaping into the air, extreme close-up, bright orange light",
+      "on_screen_text": "Hỏa thuật: tia lửa + oxy"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kaku thích năng lực này vì nó rất gần với hóa học thật: lửa cần nhiên liệu, oxy và nhiệt. Và nó cũng có điểm yếu thật: trời mưa, găng ướt, thì không có tia lửa."
+      },
+      "image_prompt": "a fire triangle diagram drawn on parchment with fuel, oxygen and heat at each corner, raindrops smudging the corner, close-up, amber ink",
+      "on_screen_text": "Điểm yếu: trời mưa"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Nhưng Edward thì không cần vẽ. Cậu chỉ cần chắp hai tay lại. Hai bàn tay khép thành một vòng tròn, và cơ thể cậu chính là vòng tròn chuyển hóa."
+      },
+      "image_prompt": "two hands pressed together with a bright ring of light forming around them, extreme close-up, dramatic blue light",
+      "on_screen_text": "Chắp tay = vòng tròn"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Vì sao Edward làm được vậy? Câu trả lời nằm ở luật cấm lớn nhất. Kaku sẽ kể ngay sau đây."
+      },
+      "image_prompt": "a large closed stone door with intricate carvings standing alone in white emptiness, wide shot, eerie soft light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Ở đất nước Amestris, những nhà giả kim giỏi nhất được quân đội tuyển làm nhà giả kim quốc gia. Mỗi người có một biệt danh theo chuyên môn."
+      },
+      "image_prompt": "a row of silver pocket watches laid out on a velvet cloth, each engraved with a different symbol, close-up, cool light",
+      "chapter": "Các nhánh giả kim",
+      "on_screen_text": "Nhà giả kim quốc gia"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Có người chuyên về lửa. Có người chuyên về đá và đất, dùng nắm đấm để biến đổi. Có người chuyên về vụ nổ. Và Edward, biệt danh Giả kim thuật sư Thép, chuyên về kim loại."
+      },
+      "image_prompt": "four small icons drawn on parchment in a row: a flame, a fist on stone, an explosion, and a steel bar, amber ink close-up",
+      "on_screen_text": "Lửa · Đá · Nổ · Thép"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Được làm nhà giả kim quốc gia nghĩa là có tiền nghiên cứu và đặc quyền. Nhưng cũng có nghĩa là thành vũ khí của quân đội. Người dân gọi họ là chó của quân đội."
+      },
+      "image_prompt": "a small silver pocket watch attached to a heavy chain leash, symbolic close-up, cold light",
+      "on_screen_text": "Tiền nghiên cứu, và dây xích"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Rồi có một nhánh hoàn toàn khác, đến từ đất nước Xing ở phương Đông, gọi là Luyện đan thuật. Nó tập trung vào y học và chữa bệnh."
+      },
+      "image_prompt": "an eastern-style apothecary with rows of small wooden drawers, jade tools and hanging herbs, wide shot, warm lantern light",
+      "on_screen_text": "Luyện đan thuật của Xing"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Luyện đan thuật dựa trên khái niệm Long mạch: dòng năng lượng sống chảy trong lòng đất, từ núi cao xuống đồng bằng, giống như máu chảy trong mạch."
+      },
+      "image_prompt": "a landscape map showing glowing veins of energy flowing from mountains through rivers and plains, painted in ink-wash style, wide shot, soft golden light",
+      "on_screen_text": "Long mạch"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Điểm mạnh riêng của Luyện đan thuật: có thể biến đổi từ xa, bằng cách cắm những con dao nhỏ quanh mục tiêu thành một vòng tròn."
+      },
+      "image_prompt": "five small throwing knives stuck into the ground in a pentagon shape with faint glowing lines connecting them, overhead shot, soft green light",
+      "on_screen_text": "Biến đổi từ xa"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Hai nhánh, hai cách nhìn. Amestris xem giả kim là công cụ, là vũ khí. Xing xem nó là cách chữa lành. Sự khác biệt đó sẽ trở thành bí mật lớn nhất của truyện."
+      },
+      "image_prompt": "a split illustration: a military factory with smokestacks on one side, a peaceful mountain temple on the other, symmetrical composition, contrasting light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhà giả kim quốc gia có những luật phải giữ, và có một điều cấm mà mọi nhà giả kim đều biết: không được biến đổi con người."
+      },
+      "image_prompt": "a heavy stone tablet with carved rules and one line struck through with a deep red mark, close-up, somber light",
+      "chapter": "Luật cấm: biến đổi con người",
+      "on_screen_text": "Điều cấm"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Vì sao? Vì không ai tính được giá trị của một con người. Nước, than, vôi, sắt, phốt pho... có thể mua được hết. Nhưng linh hồn thì đổi bằng gì?"
+      },
+      "image_prompt": "a table with neatly labeled jars of basic elements and an empty jar labeled with a question mark in the middle, still life, cold light",
+      "on_screen_text": "Linh hồn đổi bằng gì?"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Hai anh em Elric đã thử. Kết quả: không phải mẹ họ trở lại. Và họ mất đi những thứ không bao giờ lấy lại được bằng giả kim."
+      },
+      "image_prompt": "a dark empty room with an overturned chair and a chalk circle smudged on the floor, wide shot, cold grey light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Người thử biến đổi con người sẽ bị kéo tới trước một cánh cổng khổng lồ và gặp một thực thể gọi là Chân lý. Chân lý lấy đi một phần cơ thể làm phí qua cổng."
+      },
+      "image_prompt": "a colossal stone gate standing in an endless white void with a faint featureless silhouette sitting before it, wide shot, stark white light",
+      "on_screen_text": "Cánh cổng Chân lý",
+      "video_prompt": "the colossal gate slowly creaks open, spilling white light into the void",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Nhưng Chân lý cũng cho họ nhìn thấy một thứ: toàn bộ kiến thức của thế giới trong một khoảnh khắc. Đó là lý do Edward không cần vẽ vòng tròn nữa. Cậu đã thấy Chân lý."
+      },
+      "image_prompt": "a flood of glowing symbols and images pouring through a partly open stone gate, dynamic wide shot, overwhelming bright light",
+      "on_screen_text": "Thấy Chân lý = không cần vòng tròn"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Một điều đáng sợ: Chân lý nói với Edward rằng nó là thế giới, là vũ trụ, là tất cả, và cũng là chính cậu. Mỗi người gặp Chân lý đều gặp một phiên bản của mình."
+      },
+      "image_prompt": "a mirror standing in white emptiness reflecting a faint featureless silhouette with a wide grin, eerie wide shot, cold white light"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku để ý: phí qua cổng luôn liên quan tới điều người đó mong muốn. Người muốn nhìn thấy sự thật thì mất đi đôi mắt. Người muốn đứng dậy thì mất đi đôi chân. Luật này tàn nhẫn nhưng rất công bằng."
+      },
+      "image_prompt": "the owl mascot looking at a stone gate with a nervous expression, clutching its notebook tightly",
+      "use_mascot": true
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Truyền thuyết nói có một thứ có thể phá luật ngang giá: hòn đá triết gia. Có nó, nhà giả kim có thể làm mọi phép mà không cần trả giá."
+      },
+      "image_prompt": "a small glowing red stone resting on a velvet cushion inside a glass dome, extreme close-up, intense crimson light",
+      "chapter": "Hòn đá triết gia",
+      "on_screen_text": "Hòn đá triết gia"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Ngoài đời thật, hòn đá triết gia cũng là giấc mơ của các nhà giả kim châu Âu: thứ biến kim loại thường thành vàng và mang lại sự trường sinh."
+      },
+      "image_prompt": "an old European manuscript illustration of a stone emitting rays of light surrounded by alchemical symbols, close-up, warm parchment light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Nhưng trong truyện, sự thật về hòn đá rất đen tối. Nó được làm từ linh hồn con người. Rất nhiều linh hồn."
+      },
+      "image_prompt": "a crimson stone with faint ghostly faces swirling inside it, dark symbolic close-up, ominous red light",
+      "on_screen_text": "Làm từ linh hồn người"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Nghĩa là hòn đá không phá luật ngang giá. Nó chỉ trả giá bằng mạng sống của người khác. Người dùng đá không trả gì, vì người khác đã trả thay."
+      },
+      "image_prompt": "a balance scale where one pan holds a small crimson stone and the other pan is weighed down by countless tiny faceless silhouettes, symbolic illustration, dark red light",
+      "on_screen_text": "Người khác trả thay"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku thấy đây là cú lật tuyệt vời của Arakawa. Giấc mơ không phải trả giá thật ra là cơn ác mộng của người phải trả giá thay."
+      },
+      "image_prompt": "a golden treasure chest opening to reveal only darkness inside, symbolic close-up, dramatic light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Hai anh em quyết định không dùng hòn đá để lấy lại cơ thể, dù có cơ hội. Vì họ không muốn lấy mạng người khác để sửa sai lầm của mình."
+      },
+      "image_prompt": "two brothers standing firmly with their backs to a glowing red stone on a pedestal, walking away, wide shot, warm determined light",
+      "on_screen_text": "Từ chối hòn đá"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Giờ tới bí mật lớn nhất. Người Amestris tin rằng giả kim thuật của họ lấy năng lượng từ chuyển động của vỏ trái đất, giống như năng lượng từ lòng đất."
+      },
+      "image_prompt": "a cross-section illustration of the earth's crust with glowing lines of energy rising toward a small city on the surface, diagram style, warm light",
+      "chapter": "Bí mật lớn nhất: năng lượng đến từ đâu?",
+      "on_screen_text": "Họ tin: năng lượng vỏ trái đất"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Nhưng những người dùng Luyện đan thuật từ Xing cảm nhận được một điều lạ. Năng lượng dưới Amestris không giống dòng chảy của đất. Nó giống như tiếng của rất nhiều người."
+      },
+      "image_prompt": "a person kneeling with a palm pressed to the ground, faint ghostly whispers rising from the soil around the hand, eerie close-up, cold light",
+      "on_screen_text": "Tiếng của rất nhiều người"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Sự thật là: có một thực thể gọi là Người cha đã đặt một hòn đá triết gia khổng lồ dưới lòng đất Amestris. Năng lượng của nó chặn dòng năng lượng thật, và cung cấp cho mọi nhà giả kim trong nước."
+      },
+      "image_prompt": "a vast underground cavern with an enormous glowing red core beneath a sleeping country, cross-section illustration, ominous crimson light",
+      "on_screen_text": "Nguồn thật: một hòn đá khổng lồ"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nghĩa là mỗi phép giả kim ở Amestris, dù nhỏ nhất, cũng đang dùng năng lượng từ những linh hồn trong đá. Cả đất nước đang sống nhờ một tội ác mà họ không biết."
+      },
+      "image_prompt": "an ordinary town square with people going about their day while faint red veins glow beneath the cobblestones, wide shot, uneasy warm light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Và hình dạng của chính đất nước Amestris là một vòng tròn chuyển hóa khổng lồ. Mỗi nơi xảy ra đổ máu trong lịch sử đều nằm trên các điểm của vòng tròn đó."
+      },
+      "image_prompt": "an old map of a circular country with a glowing transmutation circle overlaid on its borders, dots marking points along the circle, parchment close-up, amber and red ink",
+      "on_screen_text": "Cả đất nước là một vòng tròn",
+      "video_prompt": "the glowing transmutation circle traces itself around the borders of the old map",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Đó là vì sao khi Người cha chặn năng lượng, mọi nhà giả kim Amestris bất lực, nhưng người dùng Luyện đan thuật thì vẫn làm được. Họ dùng dòng chảy thật của đất, không phải dòng chảy từ đá."
+      },
+      "image_prompt": "a split scene: a group of people staring at their unresponsive hands on one side, a single person transmuting with glowing green light on the other, symmetrical composition"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Kaku phải nói: đây là một trong những cú bẻ lái hay nhất trong anime. Nó biến một hệ thống khoa học thành một câu chuyện chính trị về cái giá của sức mạnh quốc gia."
+      },
+      "image_prompt": "the owl mascot staring wide-eyed at a map with a red circle on it, feathers slightly ruffled",
+      "use_mascot": true
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Hiểu lầm một: chắp tay là mạnh hơn vẽ vòng tròn. Không hẳn. Chắp tay chỉ nhanh hơn, vì không cần vẽ. Sức mạnh vẫn phụ thuộc vào kiến thức và nguyên liệu."
+      },
+      "image_prompt": "a split image: a hand drawing a chalk circle slowly on one side, two hands clapping on the other, with an equal sign between them, diagram style",
+      "chapter": "Những hiểu lầm về giả kim thuật",
+      "on_screen_text": "Hiểu lầm 1: chắp tay = mạnh hơn"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hiểu lầm hai: hòn đá triết gia tạo ra thứ từ hư không. Không. Như Kaku vừa nói, nó chỉ là một khối năng lượng được trả trước bằng linh hồn người."
+      },
+      "image_prompt": "a crossed-out drawing of a stone creating objects from nothing, beside a drawing of a stone filled with tiny figures, parchment, amber ink",
+      "on_screen_text": "Hiểu lầm 2: đá tạo ra từ hư không"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Hiểu lầm ba: Chân lý là kẻ ác. Chân lý không trừng phạt vì ghét. Nó chỉ thu phí, đúng theo luật. Nó giống một người gác cổng lạnh lùng hơn là một con quỷ."
+      },
+      "image_prompt": "a featureless silhouette sitting calmly before a gate, holding out an open palm like a toll collector, eerie wide shot, white light",
+      "on_screen_text": "Hiểu lầm 3: Chân lý là kẻ ác"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Hiểu lầm bốn, lớn nhất: trao đổi ngang giá là chân lý tuyệt đối của thế giới. Chính bộ truyện đặt câu hỏi cho điều này. Kaku để dành cho chương tiếp theo."
+      },
+      "image_prompt": "a large balance scale with one pan slowly tipping, a question mark hovering above it, close-up, dramatic light",
+      "on_screen_text": "Hiểu lầm 4: để dành"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Ở trận cuối, Alphonse hy sinh linh hồn mình để trả lại cánh tay cho anh. Và để cứu em, Edward phải tìm một thứ đủ giá trị để đổi."
+      },
+      "image_prompt": "an empty suit of old armor sitting quietly in a ruined hall with light falling through a broken ceiling, wide shot, melancholy dust-filled light",
+      "chapter": "Cái kết: một luật mới"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Edward chọn đổi chính cánh cổng Chân lý của mình, tức là khả năng dùng giả kim thuật. Suốt đời. Để đổi lấy em trai."
+      },
+      "image_prompt": "a young man standing before a colossal stone gate with his hand raised, the gate beginning to crumble into dust, wide shot, radiant white light",
+      "on_screen_text": "Đổi giả kim lấy em trai",
+      "video_prompt": "the colossal stone gate crumbles into drifting dust as light floods in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Chân lý nói rằng đó là câu trả lời đúng. Edward thắng Chân lý không phải bằng cách gian lận luật, mà bằng cách hiểu rằng cậu không cần giả kim để là chính mình."
+      },
+      "image_prompt": "a young man walking away from a crumbling gate toward a bright doorway, back view, wide shot, warm hopeful light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Ở cuối truyện, hai anh em nói về một luật mới. Không chỉ nhận mười rồi trả mười. Mà nhận mười, thêm một phần của chính mình, rồi trả lại mười một."
+      },
+      "image_prompt": "a notebook page with the numbers ten, plus one, equals eleven written in neat handwriting, a small heart doodle beside it, close-up, warm amber ink",
+      "on_screen_text": "Nhận 10, trả 11"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Đó là câu trả lời cho hiểu lầm lớn nhất. Trao đổi ngang giá là luật của giả kim, nhưng không phải luật của lòng tốt. Con người có thể cho nhiều hơn những gì họ nhận."
+      },
+      "image_prompt": "two hands passing a small warm glowing light to a third hand, extreme close-up, soft warm light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku nghĩ đây là cái kết đẹp nhất một bộ truyện về hệ thống sức mạnh có thể có. Nhân vật chính mất hết sức mạnh, và câu chuyện nói đó là chiến thắng."
+      },
+      "image_prompt": "the owl mascot quietly closing its alchemy notebook and placing a small flower on top of it",
+      "use_mascot": true
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Trước khi tổng kết, vài chi tiết đời thật. Nhà vật lý Isaac Newton, người phát hiện định luật hấp dẫn, đã viết rất nhiều ghi chép về giả kim thuật."
+      },
+      "image_prompt": "an old desk with a candle, a quill and handwritten notes covered in alchemical symbols beside an apple, close-up, warm candlelight",
+      "chapter": "Giả kim thuật thật và giả kim thuật trong truyện",
+      "on_screen_text": "Newton cũng nghiên cứu giả kim"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nhà giả kim Paracelsus thế kỷ mười sáu từng viết về việc tạo ra một người nhân tạo nhỏ trong bình, gọi là homunculus. Trong truyện, những kẻ thù chính cũng mang tên Homunculus."
+      },
+      "image_prompt": "a sealed glass flask on an old workbench with a tiny faint shadowy shape inside, close-up, eerie greenish light",
+      "on_screen_text": "Homunculus"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Biểu tượng con rắn tự cắn đuôi, gọi là ouroboros, là một biểu tượng giả kim thật, nói về vòng tuần hoàn bất tận. Arakawa dùng nó làm dấu hiệu cho các Homunculus."
+      },
+      "image_prompt": "an old manuscript illustration of a serpent biting its own tail forming a circle, close-up, warm parchment light",
+      "on_screen_text": "Ouroboros"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Kaku nhắc lại: giả kim thuật ngoài đời không biến chì thành vàng được, và các thí nghiệm của các nhà giả kim xưa rất nguy hiểm. Video này là để hiểu truyện, không phải hướng dẫn thí nghiệm."
+      },
+      "image_prompt": "a crossed-out dangerous-looking bubbling flask beside a safety goggles icon, parchment warning card, close-up",
+      "on_screen_text": "Không phải hướng dẫn"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Và đây là toàn bộ giả kim thuật trong một hình. Ở giữa: luật trao đổi ngang giá, gồm bảo toàn khối lượng và cùng bản chất."
+      },
+      "image_prompt": "a large circular diagram on parchment with a balance scale at the center, amber ink overhead shot, warm light",
+      "chapter": "Sơ đồ tổng kết một hình"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Vòng trong: ba bước hiểu, phân giải, tái tạo, và vòng tròn chuyển hóa. Vòng giữa: các nhánh, từ giả kim Amestris tới Luyện đan thuật của Xing."
+      },
+      "image_prompt": "the circular diagram with inner rings labeled with three steps and two branches, amber ink close-up"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Vòng ngoài: luật cấm biến đổi con người, cánh cổng Chân lý, và hòn đá triết gia. Và dưới tất cả: bí mật về nguồn năng lượng thật của Amestris."
+      },
+      "image_prompt": "the full circular diagram with an outer ring of warnings and a red circle glowing faintly beneath, amber and red ink, overhead shot",
+      "on_screen_text": "Sơ đồ giả kim"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Cuối cùng, một dòng chữ nhỏ ở mép giấy: nhận mười, trả mười một. Luật không có trong sách giả kim nào, nhưng là luật quan trọng nhất của truyện."
+      },
+      "image_prompt": "a small handwritten note in the corner of the parchment diagram reading ten and eleven with a tiny heart, extreme close-up, warm light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Fullmetal Alchemist bắt đầu bằng câu muốn có phải mất đi, và kết thúc bằng câu con người có thể cho nhiều hơn những gì họ nhận. Giữa hai câu đó là cả một hành trình trưởng thành."
+      },
+      "image_prompt": "two brothers standing on a hill at sunrise looking out over a peaceful town, back view, wide shot, warm golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Hãy kể cho Kaku nghe: nếu phải trả một phí qua cổng, bạn sẵn sàng đổi gì để lấy lại một điều quan trọng? Và nếu được nhận mười, bạn sẽ thêm phần một của mình vào đâu?"
+      },
+      "image_prompt": "a comment box drawn on parchment with a small gate doodle and the numbers ten and eleven, close-up, warm light",
+      "on_screen_text": "Bạn sẽ đổi gì?"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một cuốn sử thật: Kingdom, và câu hỏi Tần Thủy Hoàng cùng tướng Lý Tín ngoài đời thật là người thế nào."
+      },
+      "image_prompt": "an ancient bamboo scroll unrolled beside a small bronze seal on a dark wooden table, close-up, warm candlelight",
+      "on_screen_text": "Tiếp theo: Kingdom và lịch sử thật"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Nếu video này giúp bạn hiểu Fullmetal Alchemist sâu hơn, hãy đăng ký kênh. Đó là trao đổi ngang giá: bạn cho Kaku một cú bấm, Kaku trả bạn thêm nhiều cuốn sổ nữa. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot bowing slightly with one wing on its chest beside a small balance scale",
+      "use_mascot": true
+    }
+  ]
+}

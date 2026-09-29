@@ -1,0 +1,667 @@
+{
+  "title": "Kimetsu no Yaiba: Dòng thời gian 1.000 năm, từ Muzan tới Tanjiro",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này đi tới hết manga Kimetsu no Yaiba, kể cả trận cuối. Kaku sẽ báo trước khi vào vùng spoiler cuối truyện, để người chỉ xem anime có thể dừng lại."
+      },
+      "image_prompt": "a closed scroll tied with a red cord lying on a wooden table beside a warning card, close-up, warm candlelight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết manga"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Khoảng một nghìn năm trước, ở kinh đô Nhật Bản thời Heian, có một chàng trai quý tộc mắc bệnh nặng. Thầy thuốc nói cậu khó sống qua tuổi hai mươi."
+      },
+      "image_prompt": "an ancient Japanese aristocratic residence at night with paper lanterns, a sickly young man lying on a futon behind a translucent screen, wide shot, dim warm light",
+      "on_screen_text": "Khoảng 1.000 năm trước"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Một vị thầy thuốc tận tâm thử cho cậu một loại thuốc mới. Và từ liều thuốc đó, con quỷ đầu tiên ra đời."
+      },
+      "image_prompt": "a small ceramic medicine bowl with a faint blue glow on a lacquered tray, extreme close-up, eerie candlelight"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Một nghìn năm sau, một cậu bé bán than ở vùng núi trở về nhà, và thấy gia đình mình đã bị tấn công. Giữa hai sự kiện đó là cả một nghìn năm lịch sử."
+      },
+      "image_prompt": "a small mountain cottage in snow at dawn with a lone set of footprints leading toward its open door, wide shot, cold blue light",
+      "on_screen_text": "1.000 năm sau"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Câu hỏi hôm nay: điều gì đã xảy ra trong một nghìn năm đó? Con quỷ đầu tiên đã làm gì, Đội diệt quỷ ra đời thế nào, và vì sao một gia đình bán than lại là chìa khóa của tất cả?"
+      },
+      "image_prompt": "a long horizontal scroll partially unrolled showing ink marks spaced across the centuries, close-up, warm candlelight"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku trải dài dòng thời gian một nghìn năm của Kimetsu no Yaiba, từ đêm thời Heian tới buổi bình minh cuối cùng."
+      },
+      "image_prompt": "the owl mascot unrolling a long scroll across a table with both wings, looking excited",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước hết, một điều cần biết: Kimetsu no Yaiba hiếm khi cho con số năm chính xác. Mốc chắc chắn nhất là thời Đại Chính, tức khoảng từ năm 1912 tới 1926, khi câu chuyện của Tanjiro diễn ra."
+      },
+      "image_prompt": "a vintage Japanese calendar page from the early twentieth century pinned to a wall, close-up, warm sepia light",
+      "chapter": "Cách đọc dòng thời gian",
+      "on_screen_text": "Mốc neo: thời Đại Chính"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Những mốc khác được tính ngược từ đó: khoảng một nghìn năm trước là thời Heian, khoảng bốn trăm năm trước là thời Chiến Quốc."
+      },
+      "image_prompt": "a ruler laid over a timeline scroll with two earlier points marked approximately, parchment close-up, amber ink"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Kaku sẽ đánh dấu mỗi mốc bằng ba mức. Chắc chắn: truyện nói rõ. Suy ra: tính từ các chi tiết. Lý thuyết: fan đoán, truyện chưa xác nhận."
+      },
+      "image_prompt": "three small colored stamps on parchment: a solid circle, a half circle, and a dotted circle, close-up, amber ink",
+      "on_screen_text": "Chắc chắn · Suy ra · Lý thuyết"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và vì đây là dòng thời gian, Kaku sẽ nói nhiều về những người không xuất hiện trực tiếp trong phần lớn truyện, nhưng quyết định mọi thứ."
+      },
+      "image_prompt": "a row of faded silhouettes standing behind a young figure in the foreground, symbolic wide shot, soft mist"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Chàng trai quý tộc đó chính là Kibutsuji Muzan. Vị thầy thuốc cho Muzan dùng một phương thuốc thử nghiệm, trong đó có một thành phần bí ẩn: hoa bỉ ngạn xanh."
+      },
+      "image_prompt": "a single blue spider lily flower glowing softly in a dark garden, extreme close-up, cool moonlight",
+      "chapter": "Thời Heian, khoảng 1.000 năm trước: con quỷ đầu tiên",
+      "on_screen_text": "Hoa bỉ ngạn xanh"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Thuốc dường như không có tác dụng ngay. Muzan nóng giận, cho rằng mình bị lừa, và giết chết vị thầy thuốc trước khi quá trình điều trị hoàn tất."
+      },
+      "image_prompt": "an overturned medicine tray and scattered herbs on a wooden floor, a shadow retreating through a doorway, dramatic low-angle shot, cold light",
+      "on_screen_text": "Giết thầy thuốc"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Rồi Muzan nhận ra: cậu không chết nữa. Cơ thể mạnh hơn, lành lại mọi vết thương. Nhưng cậu không thể bước ra ánh mặt trời, và cậu thèm ăn thịt người."
+      },
+      "image_prompt": "a pale hand reaching toward a sliver of sunlight on the floor and pulling back sharply, extreme close-up, harsh contrast light",
+      "on_screen_text": "Bất tử, nhưng sợ mặt trời",
+      "video_prompt": "the pale hand reaches into the sliver of sunlight and snaps back as faint smoke rises",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Vì thầy thuốc đã chết, công thức cũng mất theo. Muzan không biết làm sao để hoàn thiện phương thuốc và vượt qua ánh mặt trời."
+      },
+      "image_prompt": "a torn page of an old medical notebook with half its text missing, drifting in the wind, close-up, grey light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Từ đó, Muzan dành một nghìn năm để tìm hoa bỉ ngạn xanh. Và một nghìn năm không tìm thấy. Cuối video, Kaku sẽ kể vì sao."
+      },
+      "image_prompt": "a figure in shadow walking through endless fields of red spider lilies searching, wide shot, eerie dusk light",
+      "on_screen_text": "1.000 năm tìm một bông hoa"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Để tìm hoa và tìm cách vượt mặt trời, Muzan bắt đầu tạo ra những con quỷ khác bằng cách truyền máu của mình. Mọi con quỷ trong truyện đều có máu Muzan."
+      },
+      "image_prompt": "a single drop of dark liquid falling into a shallow bowl and spreading into branching veins, extreme close-up, ominous red light",
+      "on_screen_text": "Mọi quỷ đều có máu Muzan"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Máu càng nhiều thì quỷ càng mạnh, nhưng cũng càng bị Muzan kiểm soát chặt. Muzan có thể nghe, thấy qua quỷ của mình, và giết chúng chỉ bằng một ý nghĩ."
+      },
+      "image_prompt": "a spider web of thin red threads connecting many small shadowy figures to a central dark point, abstract diagram, ominous light"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kaku để ý: mọi bi kịch trong truyện đều bắt đầu từ một khoảnh khắc thiếu kiên nhẫn. Nếu Muzan chờ thêm một chút, có lẽ cả nghìn năm sau đã khác."
+      },
+      "image_prompt": "the owl mascot looking at an hourglass with a worried expression, one wing on its forehead",
+      "use_mascot": true
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Muzan có họ hàng. Gia tộc Ubuyashiki cùng dòng máu với cậu. Và theo truyện, vì dòng máu này sinh ra con quỷ đầu tiên, cả gia tộc bị nguyền rủa."
+      },
+      "image_prompt": "an old family tree painted on a folding screen with one branch burned black, close-up, somber candlelight",
+      "chapter": "Gia tộc bị nguyền rủa",
+      "on_screen_text": "Gia tộc Ubuyashiki"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Những người con trai trong gia tộc sinh ra đã yếu ớt, và thường không sống được lâu. Một vị thầy tu nói với họ rằng, muốn phá lời nguyền, họ phải diệt con quỷ xuất thân từ dòng máu mình."
+      },
+      "image_prompt": "an elderly priest speaking to a kneeling family inside a temple hall, incense smoke rising, medium shot, dim golden light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku ghi mức suy ra: truyện không nói năm chính xác Đội diệt quỷ thành lập, nhưng cho thấy gia tộc Ubuyashiki dẫn dắt Đội qua nhiều thế hệ."
+      },
+      "image_prompt": "a row of ancestral memorial tablets on a shelf, each slightly different in age, close-up, soft candlelight",
+      "on_screen_text": "Mức: suy ra"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Những kiếm sĩ đầu tiên chưa có hơi thở. Họ chỉ có lòng can đảm và những thanh kiếm đặc biệt, rèn từ quặng hấp thụ ánh mặt trời, gọi là kiếm Nhật Luân."
+      },
+      "image_prompt": "a blacksmith forging a blade from glowing ore in a mountain forge, sparks flying, medium shot, fiery light",
+      "on_screen_text": "Kiếm Nhật Luân"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Kiếm Nhật Luân và ánh mặt trời là hai thứ duy nhất có thể giết quỷ bằng cách chém đầu hoặc thiêu đốt. Trong nhiều thế kỷ, con người chiến đấu với vũ khí đó mà vẫn yếu thế."
+      },
+      "image_prompt": "a lone swordsman standing at the edge of a dark forest at night, holding a faintly glowing blade, back view, cold moonlight"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Hình ảnh lời nguyền của gia tộc này rất quan trọng. Nó biến cuộc chiến diệt quỷ thành một món nợ gia đình kéo dài cả nghìn năm."
+      },
+      "image_prompt": "a heavy iron chain stretching across a long scroll of centuries, close-up, somber light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhảy tới khoảng bốn trăm năm trước, thời Chiến Quốc. Một cậu bé tên Tsugikuni Yoriichi ra đời, với một dấu vết bẩm sinh và tài năng kiếm thuật như trời ban."
+      },
+      "image_prompt": "a quiet samurai-era village at dawn with a small child standing alone in a field, wide shot, soft golden light",
+      "chapter": "Thời Chiến Quốc, khoảng 400 năm trước: người mang mặt trời",
+      "on_screen_text": "Khoảng 400 năm trước"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Yoriichi có một người anh song sinh, Michikatsu. Người anh luôn sống trong cái bóng của em, và nỗi ghen tị đó sẽ trở thành một bi kịch."
+      },
+      "image_prompt": "two small shadows cast side by side on a wall, one noticeably longer, symbolic close-up, late afternoon light",
+      "on_screen_text": "Hai anh em song sinh"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Yoriichi là người đầu tiên dùng Hơi thở, cụ thể là Hơi thở Mặt Trời. Anh dạy lại cho các kiếm sĩ, và từ đó sinh ra năm nhánh hơi thở chính. Video cây phả hệ hơi thở của Kaku đã nói kỹ phần này."
+      },
+      "image_prompt": "a glowing sun symbol at the center of a parchment diagram with five branches spreading outward, amber ink close-up",
+      "on_screen_text": "Hơi thở đầu tiên"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Cũng thời đó, nhiều kiếm sĩ đánh thức được một dấu ấn trên cơ thể, giúp họ mạnh vượt bậc. Nhưng cái giá rất nặng: người có dấu ấn thường không sống quá hai mươi lăm tuổi."
+      },
+      "image_prompt": "a candle burning very brightly and melting quickly on a stand, extreme close-up, intense warm light",
+      "on_screen_text": "Dấu ấn: mạnh nhưng giá đắt"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Và rồi Yoriichi gặp Muzan. Đây là lần duy nhất trong một nghìn năm, Muzan cảm thấy sợ hãi thật sự."
+      },
+      "image_prompt": "a lone swordsman standing calmly under a full moon facing a tall shadowy figure across a field, wide shot, cold silver light",
+      "on_screen_text": "Lần duy nhất Muzan sợ"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Yoriichi gần như giết được Muzan. Để sống sót, Muzan phải tự nổ tung thành khoảng một nghìn tám trăm mảnh và chạy trốn theo mọi hướng."
+      },
+      "image_prompt": "an explosion of dark fragments scattering into the night sky like a flock of shadows, wide shot, dramatic moonlight",
+      "on_screen_text": "Nổ thành 1.800 mảnh",
+      "video_prompt": "the dark fragments burst outward and scatter across the moonlit sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Trong đêm đó, một con quỷ nữ tên Tamayo, người vốn phục vụ Muzan, được giải thoát khỏi sự kiểm soát. Yoriichi tha cho bà. Bà sẽ trở thành một mảnh ghép quan trọng bốn trăm năm sau."
+      },
+      "image_prompt": "a woman kneeling in a moonlit field with tears in her eyes, a broken red thread falling from her wrist, medium shot, soft silver light",
+      "on_screen_text": "Tamayo được giải thoát"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Nhưng thất bại đó có giá. Muzan trốn thoát, và người anh Michikatsu lại trở thành quỷ. Yoriichi bị trục xuất khỏi Đội diệt quỷ."
+      },
+      "image_prompt": "a lone swordsman walking away down a long mountain road, his back to the viewer, wide shot, melancholy dusk light",
+      "on_screen_text": "Yoriichi bị trục xuất"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Michikatsu trở thành Kokushibo, một trong những con quỷ mạnh nhất. Hai anh em song sinh, một người là mặt trời, một người là mặt trăng."
+      },
+      "image_prompt": "a sun and a crescent moon painted side by side on a torn paper screen, the tear running between them, close-up, split warm and cold light",
+      "on_screen_text": "Mặt trời và mặt trăng"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Trước khi rời đi, Yoriichi gặp một gia đình bán than họ Kamado. Anh kể cho họ nghe câu chuyện của mình, và cho họ xem kiếm thuật mặt trời."
+      },
+      "image_prompt": "a humble charcoal-burner's hut in a snowy mountain forest with warm light spilling from the door, wide shot, cozy winter light",
+      "chapter": "Ngọn lửa âm thầm: gia đình bán than",
+      "on_screen_text": "Gia đình Kamado"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Gia đình Kamado không phải kiếm sĩ. Nhưng họ biến những động tác đó thành một điệu múa cầu thần, gọi là Hinokami Kagura, múa mỗi năm vào đầu năm mới."
+      },
+      "image_prompt": "a dancer holding a flaming torch performing in the snow at night, trails of fire drawn in the air, wide shot, warm firelight against cold night",
+      "on_screen_text": "Hinokami Kagura",
+      "video_prompt": "the dancer spins with the torch, leaving glowing trails of fire in the falling snow",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Họ cũng giữ một món đồ Yoriichi để lại, và truyền qua nhiều thế hệ. Họ không biết mình đang giữ gì. Họ chỉ hứa sẽ không để nó thất truyền."
+      },
+      "image_prompt": "a small wooden keepsake box being handed from an old pair of hands to a young pair of hands, extreme close-up, warm candlelight",
+      "on_screen_text": "Một lời hứa truyền đời"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku thấy đây là chi tiết đẹp nhất trong cả dòng thời gian. Kiếm thuật mạnh nhất lịch sử không nằm trong võ đường nào, mà được giữ bởi một gia đình bình thường, dưới dạng một điệu múa."
+      },
+      "image_prompt": "the owl mascot sitting by a warm hearth holding a tiny torch, looking touched",
+      "use_mascot": true
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Sau Yoriichi, Muzan truy lùng những người dùng Hơi thở Mặt Trời. Kiếm thuật này gần như biến mất khỏi Đội diệt quỷ. Nhưng nó vẫn sống, trong một điệu múa trên núi."
+      },
+      "image_prompt": "a burned scroll with sun symbols lying in ashes, while far away on a mountain a tiny flame still burns, split composition, contrasting light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Từ thời Chiến Quốc tới thời Đại Chính là khoảng ba, bốn trăm năm. Truyện kể rất ít về giai đoạn này, nên Kaku ghép lại từ những chi tiết rải rác."
+      },
+      "image_prompt": "a mostly blank section of a long timeline scroll with only a few faint ink marks, parchment close-up, warm light",
+      "chapter": "Những thế kỷ tích lũy",
+      "on_screen_text": "Khoảng trống 300–400 năm"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Muzan lập ra nhóm Thập Nhị Quỷ Nguyệt, mười hai con quỷ mạnh nhất, chia làm sáu Thượng Huyền và sáu Hạ Huyền."
+      },
+      "image_prompt": "twelve small eerie paper lanterns arranged in two rows of six in a dark hall, wide shot, ominous red glow",
+      "on_screen_text": "Thập Nhị Quỷ Nguyệt"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Các Hạ Huyền thay đổi liên tục. Nhưng sáu Thượng Huyền thì giữ nguyên suốt khoảng một trăm mười ba năm. Không kiếm sĩ nào hạ được một Thượng Huyền trong thời gian đó."
+      },
+      "image_prompt": "six tall stone pillars standing unbroken in mist, with many small fallen stones around their base, wide shot, cold grey light",
+      "on_screen_text": "113 năm không đổi"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Tamayo thì dùng những thế kỷ đó để nghiên cứu y học. Bà tự thay đổi cơ thể để thoát hẳn khỏi Muzan, và cần rất ít máu người để sống."
+      },
+      "image_prompt": "a quiet hidden study filled with bottles, dried herbs and handwritten notes, a single lamp burning, wide shot, warm scholarly light",
+      "on_screen_text": "Tamayo nghiên cứu"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Và Muzan học cách ẩn mình. Hắn sống giữa con người, đổi tên, đổi vẻ ngoài, thậm chí có cả một gia đình giả để che giấu."
+      },
+      "image_prompt": "a crowded early twentieth century street with a single figure blending into the crowd, face hidden by shadow, wide shot, warm evening light",
+      "on_screen_text": "Muzan ẩn mình giữa người"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku để ý: trong suốt những thế kỷ này, quỷ có thời gian, còn con người thì có sự kế thừa. Quỷ sống lâu hơn, nhưng con người truyền lại cho nhau."
+      },
+      "image_prompt": "a single ancient tree standing alone beside a row of young saplings growing in a line, wide shot, soft morning light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Thời Đại Chính. Kamado Tanjiro, con trai cả của gia đình bán than, đi xuống thị trấn bán than. Khi trở về, cả gia đình đã bị Muzan tấn công. Chỉ em gái Nezuko còn sống, nhưng đã hóa quỷ."
+      },
+      "image_prompt": "a young boy carrying a basket of charcoal on his back walking up a snowy mountain path, wide shot, cold morning light",
+      "chapter": "Thời Đại Chính: Tanjiro",
+      "on_screen_text": "Thời Đại Chính: Tanjiro"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kiếm sĩ Tomioka Giyu gặp hai anh em, nhận ra Nezuko khác những con quỷ khác, và gửi Tanjiro tới thầy Urokodaki."
+      },
+      "image_prompt": "a calm swordsman standing in the snow looking down at a kneeling boy shielding someone behind him, wide shot, cold blue light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Sau khoảng hai năm luyện tập, Tanjiro vượt qua Kỳ tuyển chọn cuối cùng và gia nhập Đội diệt quỷ. Cậu bắt đầu hành trình tìm cách biến em gái trở lại làm người."
+      },
+      "image_prompt": "a boy splitting a huge boulder with a single sword strike in a misty forest clearing, dramatic medium shot, soft grey light",
+      "on_screen_text": "Gia nhập Đội"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ở Asakusa, Tanjiro lần đầu thấy Muzan, đang sống như một người đàn ông bình thường giữa phố. Cũng tại đây, cậu gặp Tamayo. Bốn trăm năm sau đêm Yoriichi, hai mảnh ghép cuối cùng gặp nhau."
+      },
+      "image_prompt": "a bustling early twentieth century city street at night with electric lights and a crowd, wide shot, warm bustling light",
+      "on_screen_text": "Asakusa: gặp Muzan và Tamayo"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Rồi tới núi Natagumo, nơi Tanjiro lần đầu dùng điệu múa của cha thành kiếm thuật. Trận với Rui là nơi Hinokami Kagura thức tỉnh. Kaku đã phân tích trận này trong một video riêng."
+      },
+      "image_prompt": "a burst of fire trails in the shape of a spiral drawn across a dark forest at night, wide shot, warm firelight",
+      "on_screen_text": "Natagumo: Hinokami Kagura"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Chuyến tàu Vô Tận, nơi Viêm Trụ Rengoku chiến đấu với Thượng Huyền Tam và hy sinh khi trời sắp sáng."
+      },
+      "image_prompt": "a steam train stopped on a track at dawn, smoke drifting across a field, wide shot, bittersweet early light",
+      "on_screen_text": "Chuyến tàu Vô Tận"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Phố Đèn Đỏ: Âm Trụ Uzui cùng Tanjiro và các bạn hạ được Thượng Huyền Lục. Đây là lần đầu tiên sau một trăm mười ba năm một Thượng Huyền bị tiêu diệt."
+      },
+      "image_prompt": "one of six tall stone pillars cracking and crumbling while the others remain, wide shot, dramatic dawn light",
+      "on_screen_text": "Lần đầu sau 113 năm"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Làng Thợ Rèn: Nezuko vượt qua được ánh mặt trời. Muzan lập tức đổi mục tiêu: không cần tìm hoa nữa, hắn chỉ cần bắt Nezuko."
+      },
+      "image_prompt": "a small silhouette standing in bright sunlight on a hillside at dawn, arms spread, wide shot, radiant warm light",
+      "on_screen_text": "Nezuko vượt ánh mặt trời"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Tính từ đêm Heian tới đây là khoảng một nghìn năm. Lần đầu tiên, Muzan có trong tầm tay thứ hắn tìm kiếm. Và lần đầu tiên, Đội diệt quỷ có cơ hội thật sự."
+      },
+      "image_prompt": "the long timeline scroll almost fully unrolled with a bright mark near the end, parchment close-up, dramatic warm light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Từ đây là spoiler phần cuối manga, chưa có trong anime truyền hình. Nếu bạn muốn chờ phim, hãy tua tới chương Lý thuyết."
+      },
+      "image_prompt": "a red warning sign painted on a wooden gate across a mountain path, close-up, dramatic light",
+      "chapter": "Vùng spoiler cuối truyện",
+      "on_screen_text": "SPOILER CUỐI TRUYỆN"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Sau Làng Thợ Rèn, các Trụ cột mở một đợt huấn luyện chung để nhiều kiếm sĩ đánh thức dấu ấn. Họ biết mình đang chuẩn bị cho trận cuối cùng."
+      },
+      "image_prompt": "a group of swordsmen training together in a mountain clearing at sunrise, wide shot, determined warm light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Thủ lĩnh Ubuyashiki Kagaya, người mang lời nguyền của gia tộc, đón Muzan tới nhà mình. Ông chấp nhận hy sinh để mở màn trận chiến. Một nghìn năm nợ gia tộc được trả bằng chính mạng sống."
+      },
+      "image_prompt": "a traditional Japanese mansion at night with a single lantern at the gate, calm and still, wide shot, somber blue light",
+      "on_screen_text": "Ubuyashiki mở màn"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Muzan kéo toàn bộ Đội diệt quỷ vào Vô Hạn Thành, một pháo đài mê cung của quỷ. Anime đang chuyển thể phần này thành bộ ba phim điện ảnh."
+      },
+      "image_prompt": "an impossible maze of floating wooden corridors and staircases twisting in every direction, surreal wide shot, eerie amber light",
+      "on_screen_text": "Vô Hạn Thành"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Trong Vô Hạn Thành, Kokushibo đối mặt với những kiếm sĩ mang hơi thở. Bốn trăm năm sau, người anh song sinh vẫn chưa thoát khỏi cái bóng của em."
+      },
+      "image_prompt": "a lone crescent moon reflected in a still pool inside a vast dark hall, wide shot, cold silver light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Trận cuối diễn ra ngoài phố, khi các kiếm sĩ cố giữ Muzan lại cho tới lúc mặt trời mọc. Chiến thuật không phải chém chết, mà là trụ vững đủ lâu."
+      },
+      "image_prompt": "a city skyline at the edge of night with the first sliver of dawn light on the horizon, wide shot, tense cold-to-warm light",
+      "on_screen_text": "Trụ tới bình minh"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Nhờ thuốc của Tamayo làm Muzan suy yếu, và nhờ nhiều người hy sinh, mặt trời cuối cùng cũng mọc. Muzan bị ánh sáng thiêu đốt. Một nghìn năm kết thúc trong một buổi sáng."
+      },
+      "image_prompt": "sunlight flooding over rooftops at dawn, scattering dark mist into the air, wide shot, radiant golden light",
+      "on_screen_text": "Bình minh cuối cùng",
+      "video_prompt": "the sunlight sweeps across the rooftops and the dark mist dissolves into the air",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Kaku để ý: Muzan bị đánh bại không phải bởi một người mạnh nhất, mà bởi những người thường truyền cho nhau suốt một nghìn năm. Đúng như điều Yoriichi từng tin."
+      },
+      "image_prompt": "many hands passing a single torch forward in a long line toward the sunrise, symbolic wide shot, warm light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Chương cuối của manga nhảy tới thời hiện đại, ở Tokyo. Ta thấy những người mang dáng dấp của các nhân vật cũ đang sống một cuộc sống bình thường, không còn quỷ."
+      },
+      "image_prompt": "a modern Tokyo street crossing on a sunny day with ordinary people walking, wide shot, bright cheerful light",
+      "chapter": "Epilogue: thời hiện đại",
+      "on_screen_text": "Thời hiện đại"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Và câu hỏi một nghìn năm cuối cùng được trả lời. Hoa bỉ ngạn xanh chỉ nở hai, ba ngày mỗi năm, và chỉ nở vào ban ngày."
+      },
+      "image_prompt": "a patch of blue spider lilies blooming in bright daylight in a quiet mountain clearing, close-up, radiant sunlight",
+      "on_screen_text": "Chỉ nở ban ngày",
+      "video_prompt": "the blue flowers slowly open their petals in the bright sunlight",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Một con quỷ không thể ra ánh sáng thì làm sao tìm được một bông hoa chỉ nở dưới ánh sáng? Muzan đã tìm sai cách ngay từ đầu. Kaku thấy đây là một cú châm biếm tuyệt vời của tác giả."
+      },
+      "image_prompt": "a shadow standing at the edge of a sunlit field, unable to step forward, while blue flowers bloom just out of reach, wide shot, contrasting light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Trong phần epilogue, một nhà thực vật học ở thời hiện đại xác nhận điều này. Với người đọc, đó là lời chào cuối của câu chuyện: bông hoa luôn ở đó, chỉ là không dành cho kẻ trốn ánh sáng."
+      },
+      "image_prompt": "a botanist in a modern lab examining a single blue flower under a lamp, notes spread on the desk, close-up, clean bright light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Giờ tới phần lý thuyết. Kaku nhắc lại: đây là suy đoán của người hâm mộ, truyện chưa xác nhận."
+      },
+      "image_prompt": "a notebook page stamped with the word THEORY in dotted outline, close-up, amber ink",
+      "chapter": "Lý thuyết: những câu hỏi còn mở",
+      "on_screen_text": "LÝ THUYẾT"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Lý thuyết một: nếu Muzan kiên nhẫn chờ, thuốc của vị thầy thuốc có thể đã chữa khỏi bệnh cho cậu mà không biến cậu thành quỷ. Nhiều chi tiết gợi ý như vậy, nhưng truyện không nói thẳng."
+      },
+      "image_prompt": "a medicine bowl with a small sprout growing out of it, symbolic still life, soft hopeful light",
+      "on_screen_text": "Lý thuyết 1: nếu Muzan chờ"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Lý thuyết hai: vì sao các Thượng Huyền không đổi suốt một trăm mười ba năm? Có người cho rằng sau Yoriichi, Muzan quá sợ nên chỉ giữ những con quỷ mạnh nhất và tránh xung đột lớn với Đội."
+      },
+      "image_prompt": "six stone pillars shrouded in thick fog, a single cautious shadow lurking behind them, wide shot, ominous grey light",
+      "on_screen_text": "Lý thuyết 2: vì Muzan sợ"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Lý thuyết ba: gia đình Kamado có được Yoriichi chọn vì một lý do sâu xa hơn tình cờ? Truyện chỉ cho thấy đó là một cuộc gặp gỡ. Kaku thích tin rằng đó là tình cờ, vì như vậy câu chuyện đẹp hơn."
+      },
+      "image_prompt": "two paths crossing in a snowy forest, one set of footprints meeting another, overhead shot, soft winter light",
+      "on_screen_text": "Lý thuyết 3: tình cờ hay định mệnh?"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Tổng kết độ chắc chắn. Chắc chắn: Muzan hóa quỷ thời Heian vì thuốc có hoa bỉ ngạn xanh. Yoriichi gần giết Muzan thời Chiến Quốc. Câu chuyện chính diễn ra thời Đại Chính."
+      },
+      "image_prompt": "a checklist on parchment with three items marked by solid circles, close-up, amber ink",
+      "chapter": "Độ chắc chắn của từng mốc",
+      "on_screen_text": "Chắc chắn"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Suy ra: năm thành lập Đội diệt quỷ, con số chính xác bao nhiêu năm giữa Yoriichi và Tanjiro, và tuổi chính xác của các Thượng Huyền."
+      },
+      "image_prompt": "the same checklist with three items marked by half circles, close-up, amber ink",
+      "on_screen_text": "Suy ra"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Lý thuyết: Muzan có thể được chữa khỏi hay không, và vì sao gia đình Kamado được chọn. Nếu bạn có bằng chứng khác, hãy viết vào bình luận."
+      },
+      "image_prompt": "the same checklist with two items marked by dotted circles and a small question mark, close-up, amber ink",
+      "on_screen_text": "Lý thuyết"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và đây là toàn bộ dòng thời gian trong một hình. Khoảng một nghìn năm trước: Muzan hóa quỷ, gia tộc Ubuyashiki bị nguyền."
+      },
+      "image_prompt": "a long timeline scroll with the first section illuminated showing a flower and a family crest icon, parchment close-up, warm light",
+      "chapter": "Toàn bộ dòng thời gian"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Khoảng bốn trăm năm trước: Yoriichi, Hơi thở Mặt Trời, Muzan nổ thành một nghìn tám trăm mảnh, Tamayo tự do, Kokushibo ra đời, và điệu múa được trao cho gia đình Kamado."
+      },
+      "image_prompt": "the middle section of the timeline scroll illuminated with sun, moon and torch icons, parchment close-up, warm light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Khoảng ba, bốn trăm năm im lặng: Thập Nhị Quỷ Nguyệt, một trăm mười ba năm Thượng Huyền không đổi."
+      },
+      "image_prompt": "a quiet mostly empty section of the scroll with six small pillar icons, parchment close-up, dim light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Thời Đại Chính: Tanjiro, Nezuko vượt mặt trời, Vô Hạn Thành và bình minh cuối cùng. Rồi thời hiện đại: không còn quỷ, và hoa bỉ ngạn xanh vẫn nở dưới ánh mặt trời."
+      },
+      "image_prompt": "the full timeline scroll unrolled with the final section glowing brightly with a sunrise icon and a blue flower, wide overhead shot, radiant warm light",
+      "on_screen_text": "Toàn bộ 1.000 năm"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Kaku nghĩ dòng thời gian này nói một điều rất rõ. Quỷ có thời gian vô hạn, nhưng chỉ sống cho bản thân. Con người có thời gian ngắn ngủi, nhưng biết truyền lại cho người sau."
+      },
+      "image_prompt": "an hourglass with sand flowing into many small cups held by different hands, symbolic close-up, warm light",
+      "chapter": "Góc nhìn của Kaku: thời gian của quỷ và của người"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Muzan tìm cách sống mãi. Yoriichi và gia đình Kamado thì tìm cách để điều quan trọng sống mãi. Và phe thứ hai đã thắng."
+      },
+      "image_prompt": "a single torch flame being lit from another torch in a dark room, extreme close-up, warm firelight"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku muốn hỏi bạn: trong gia đình bạn, có điều gì được truyền lại qua nhiều thế hệ không? Một món ăn, một câu chuyện, một nghề? Kể cho Kaku nghe trong bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding an old family recipe card with both wings, looking curious",
+      "use_mascot": true
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Một nghìn năm, bắt đầu bằng một liều thuốc chưa uống hết, và kết thúc bằng một buổi bình minh mà rất nhiều người đã chờ."
+      },
+      "image_prompt": "a medicine bowl in the foreground and a sunrise over mountains in the background, symbolic composition, golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một cuốn sổ về giả kim thuật: Fullmetal Alchemist, luật trao đổi ngang giá, và vì sao muốn có gì thì phải mất đi thứ tương đương."
+      },
+      "image_prompt": "an alchemy circle drawn in chalk on a stone floor with a balance scale at its center, close-up, warm mysterious light",
+      "on_screen_text": "Tiếp theo: giả kim thuật Fullmetal"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu dòng thời gian này giúp bạn hiểu Kimetsu rõ hơn, hãy đăng ký kênh và bật chuông, để không bỏ lỡ khi Kaku tiếp tục trải những cuộn sổ dài như thế này. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling the long scroll back up and waving goodbye with one wing",
+      "use_mascot": true
+    }
+  ]
+}

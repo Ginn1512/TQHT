@@ -1,0 +1,713 @@
+{
+  "title": "Du hành thời gian: Tokyo Revengers vs Steins;Gate vs Re:Zero — luật nào chặt nhất?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime mùa ba Tokyo Revengers, phần lớn Steins;Gate mùa một, và Re:Zero mùa một. Kaku giữ kín cái kết của Steins;Gate. Nếu bạn chưa xem, hãy lưu video lại."
+      },
+      "image_prompt": "three closed books stacked on a desk, each tied with a ribbon and a small clock charm, a warning sign card leaning against them, close-up, warm lamplight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Ba người trẻ tuổi, ba thế giới, và cùng một năng lực: quay ngược thời gian để sửa một bi kịch. Một người chỉ cần bắt tay. Một người gửi tin nhắn. Còn người thứ ba phải chết."
+      },
+      "image_prompt": "three glowing symbols on a dark table: two clasped hands, a flip phone with a glowing screen, and a cracked hourglass, overhead shot, dramatic amber light",
+      "on_screen_text": "Bắt tay · Tin nhắn · Cái chết",
+      "video_prompt": "the three glowing symbols pulse one after another as the camera slowly rises",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nghe thì giống nhau, nhưng luật chơi của ba cỗ máy thời gian này khác nhau rất xa. Có cỗ máy được giải thích tới từng con số. Có cỗ máy mà chính nhân vật cũng không hiểu."
+      },
+      "image_prompt": "three different mechanical clocks with exposed gears, one labeled with precise numbers, one blank, one shrouded in shadow, still life, warm light"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Câu hỏi hôm nay: trong Tokyo Revengers, Steins;Gate và Re:Zero, luật du hành thời gian của bộ nào chặt chẽ nhất? Và chặt chẽ có phải là hay nhất không?"
+      },
+      "image_prompt": "a balance scale on a desk with three small clocks waiting to be weighed, close-up, soft spotlight",
+      "on_screen_text": "Luật của bộ nào chặt nhất?"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku làm trọng tài cho ba nhà du hành thời gian, chấm điểm theo năm tiêu chí, và cuối video là bảng điểm chung cuộc."
+      },
+      "image_prompt": "the owl mascot wearing a tiny referee whistle, standing behind a table with three clocks, gesturing like a host",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Kaku nói trước: điểm số là ý kiến của Kaku, dựa trên những gì truyện thể hiện. Bạn hoàn toàn có thể chấm khác, và phần bình luận chính là chỗ để tranh luận."
+      },
+      "image_prompt": "a scorecard on parchment with three empty columns and a pencil resting on top, close-up, warm amber light"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Đấu thủ số một: Hanagaki Takemichi của Tokyo Revengers. Một thanh niên hai mươi sáu tuổi, sống một cuộc đời nhạt nhòa, cho tới khi biết tin người yêu cũ thời trung học là Hina đã chết."
+      },
+      "image_prompt": "a tired young man in a small cluttered apartment staring at a TV news report, back view, dim evening light",
+      "chapter": "Ba nhà du hành trong một phút",
+      "on_screen_text": "Takemichi · Tokyo Revengers"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Bị đẩy xuống đường ray tàu, Takemichi bỗng tỉnh dậy ở đúng mười hai năm trước, trong cơ thể của chính mình thời học sinh. Và cậu quyết định cứu Hina."
+      },
+      "image_prompt": "a train platform with a blurred train rushing past, a single figure falling toward the tracks, motion blur, dramatic cold light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Đấu thủ số hai: Okabe Rintaro của Steins;Gate. Một sinh viên tự xưng là nhà khoa học điên, cùng bạn bè mở một phòng thí nghiệm nhỏ trên tầng hai một cửa hàng ở Akihabara."
+      },
+      "image_prompt": "a cramped makeshift laboratory above a shop, cluttered with wires, gadgets and a whiteboard of scribbles, wide shot, warm lamplight",
+      "on_screen_text": "Okabe · Steins;Gate"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nhóm của Okabe vô tình phát hiện ra rằng chiếc điện thoại nối với lò vi sóng có thể gửi tin nhắn về quá khứ. Một phát minh tình cờ, và mọi thứ bắt đầu từ đó."
+      },
+      "image_prompt": "a microwave oven wired to a flip phone on a cluttered workbench, sparks and a faint glow inside, close-up, eerie green light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Đấu thủ số ba: Natsuki Subaru của Re:Zero. Một thanh niên đang đi mua đồ ở cửa hàng tiện lợi thì bị đưa sang một thế giới kỳ ảo, không có sức mạnh, không có phép thuật."
+      },
+      "image_prompt": "a young man holding a plastic convenience store bag standing bewildered in a medieval fantasy marketplace, wide shot, bright daylight",
+      "on_screen_text": "Subaru · Re:Zero"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Năng lực duy nhất của Subaru được gọi là Hồi sinh từ cái chết. Mỗi khi chết, cậu quay về một thời điểm trước đó, và chỉ mình cậu còn nhớ những gì đã xảy ra."
+      },
+      "image_prompt": "an hourglass lying on its side with sand flowing backward into the upper chamber, dark background, close-up, cold blue light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Ba người, ba cách quay lại. Kaku đặt họ lên cùng một bàn. Nhưng trước khi chấm, trọng tài phải công bố luật chấm điểm."
+      },
+      "image_prompt": "the owl mascot placing three small clocks on a round table and tapping a rulebook with its wing",
+      "use_mascot": true
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Tiêu chí một: Luật có rõ không. Người xem có hiểu được cỗ máy hoạt động thế nào, bắt đầu từ đâu, quay về bao xa, và cần điều kiện gì không."
+      },
+      "image_prompt": "a clean rulebook page with a numbered list and a small magnifying glass icon, close-up, warm light",
+      "chapter": "Luật chấm điểm của trọng tài",
+      "on_screen_text": "1. Luật có rõ không"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Tiêu chí hai: Có nhất quán không. Khi luật đã được đặt ra, câu chuyện có giữ đúng luật tới cuối, hay có những chỗ tự mâu thuẫn."
+      },
+      "image_prompt": "a long chain of linked metal rings on a table, one ring slightly cracked, extreme close-up, cool light",
+      "on_screen_text": "2. Có nhất quán không"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Tiêu chí ba: Cái giá. Mỗi lần quay lại, nhân vật phải trả gì: đau đớn, ký ức, sự cô đơn, hay mất đi người khác."
+      },
+      "image_prompt": "a small brass price tag hanging from an old clock, dramatic side light",
+      "on_screen_text": "3. Cái giá"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Tiêu chí bốn: Chống lạm dụng. Nhân vật có thể dùng năng lực để gian lận mọi thứ không, hay luật đủ chặt để giữ căng thẳng."
+      },
+      "image_prompt": "a padlock fastened around a pocket watch on a velvet cloth, close-up, moody light",
+      "on_screen_text": "4. Chống lạm dụng"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Tiêu chí năm: Sức nặng cảm xúc. Luật chơi có khiến ta đau cùng nhân vật không, hay chỉ là một công cụ để đẩy cốt truyện."
+      },
+      "image_prompt": "a single tear drop falling onto a clock face, extreme close-up, soft blue light",
+      "on_screen_text": "5. Sức nặng cảm xúc"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Mỗi tiêu chí mười điểm, tổng năm mươi. Và Kaku nhắc lại: đây là chấm độ chặt của luật du hành, không phải chấm toàn bộ bộ truyện."
+      },
+      "image_prompt": "a scoreboard drawn on parchment with five rows and three columns, the maximum 50 written at the bottom, amber ink",
+      "on_screen_text": "Tối đa 50 điểm"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Tokyo Revengers trước. Luật khá đơn giản: Takemichi bắt tay với Naoto, em trai của Hina, và cậu được đưa về đúng mười hai năm trước. Muốn quay về hiện tại, cậu lại bắt tay Naoto ở quá khứ."
+      },
+      "image_prompt": "two hands clasping firmly with a soft glow of light around the grip, a calendar with two years circled in the background, close-up, warm light",
+      "chapter": "Vòng 1: Luật có rõ không?",
+      "on_screen_text": "Bắt tay = đi và về"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Thời gian ở quá khứ vẫn chạy song song. Nếu Takemichi ở quá khứ một tuần, thì khi về hiện tại cũng đã trôi qua một tuần."
+      },
+      "image_prompt": "two parallel timelines drawn on parchment with matching tick marks, one labeled past and one labeled present, amber ink"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Luật này dễ hiểu, dễ nhớ. Nhưng có một câu hỏi truyện không trả lời ngay: vì sao lại là mười hai năm, và vì sao lại là Takemichi. Đó là bí ẩn để dành cho sau này."
+      },
+      "image_prompt": "a large question mark drawn over a calendar with the number twelve circled, parchment close-up, amber light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Steins;Gate thì chi tiết tới mức gần như sách giáo khoa. Có hai cách: D-mail là gửi tin nhắn ngắn về quá khứ, và Time Leap là gửi ký ức của chính mình về quá khứ."
+      },
+      "image_prompt": "a notebook page split in two: on the left a small envelope flying back along a timeline, on the right a glowing brain flying back along a timeline, diagram, amber ink",
+      "on_screen_text": "D-mail · Time Leap"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Máy Time Leap đọc cấu trúc não, chuyển ký ức thành dữ liệu, rồi gửi về quá khứ bằng chính công nghệ D-mail. Và giới hạn là bốn mươi tám giờ."
+      },
+      "image_prompt": "a headset connected by cables to a small machine, a digital display showing the number 48, close-up, eerie green light",
+      "on_screen_text": "Tối đa 48 giờ"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Vì sao là bốn mươi tám giờ? Truyện giải thích: não người thay đổi theo thời gian. Nhảy xa hơn thì ký ức mới không khớp với bộ não cũ, và có thể gây tổn thương nghiêm trọng."
+      },
+      "image_prompt": "a translucent brain diagram with a glowing puzzle piece that does not fit its slot, medical-style illustration, cool light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Re:Zero thì ngược lại. Luật cốt lõi rất rõ: chết thì quay về. Nhưng điểm quay về ở đâu thì Subaru không được chọn, và cũng không biết trước."
+      },
+      "image_prompt": "a game-style save point icon glowing on a dark path, with footprints leading past it into fog, wide shot, mysterious light",
+      "on_screen_text": "Điểm quay về: không được chọn"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Điểm quay về thay đổi theo những thời khắc quan trọng của câu chuyện, và người ta cho rằng có một ý chí nào đó quyết định. Với Subaru, nó giống như một trò chơi không cho xem nút lưu."
+      },
+      "image_prompt": "a glowing save icon moving along a path by itself while a small figure chases it, whimsical wide shot, dusk light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Điểm vòng một: Steins;Gate chín, vì mọi thứ đều có con số và lý do. Tokyo Revengers bảy, luật dễ hiểu nhưng thiếu lời giải thích. Re:Zero sáu, vì điểm lưu là một ẩn số."
+      },
+      "image_prompt": "a scoreboard on parchment with round one filled in: nine, seven, six, amber ink close-up",
+      "on_screen_text": "Vòng 1: 9 · 7 · 6"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Steins;Gate có một khái niệm rất đẹp: đường thế giới. Mỗi thay đổi trong quá khứ đẩy thế giới sang một đường khác, với một con số gọi là độ lệch."
+      },
+      "image_prompt": "a web of glowing parallel lines stretching into darkness, each labeled with a small decimal number, abstract wide shot, cool blue light",
+      "chapter": "Vòng 2: Có nhất quán không?",
+      "on_screen_text": "Đường thế giới",
+      "video_prompt": "the glowing lines shift and split as a bright point jumps from one line to another",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nhiều đường thế giới gom lại thành một nhóm gọi là trường hút. Trong cùng một trường hút, có những sự kiện luôn xảy ra dù bạn làm gì. Truyện gọi đó là điểm hội tụ."
+      },
+      "image_prompt": "many thin glowing lines converging into a single bright knot before spreading apart again, abstract diagram, cool light",
+      "on_screen_text": "Điểm hội tụ"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Và đây là chỗ Steins;Gate tàn nhẫn nhất. Okabe cố cứu một người bạn thân, nhưng dù quay lại bao nhiêu lần, cô ấy vẫn chết vào đúng khoảng thời gian đó, chỉ bằng một cách khác."
+      },
+      "image_prompt": "a wall calendar with the same date circled again and again in red ink across many overlapping pages, close-up, somber light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Luật này không bao giờ bị phá một cách dễ dãi. Muốn thoát khỏi điểm hội tụ, Okabe phải trả đúng cái giá mà luật yêu cầu. Kaku thấy đây là sự nhất quán hiếm có."
+      },
+      "image_prompt": "a heavy iron gate with an intricate lock, a single key hovering in front of it, close-up, dramatic light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Tokyo Revengers thì gặp nhiều tranh luận hơn. Người xem hay hỏi: nếu Naoto nhớ được mọi thứ vì được kể lại, vậy những người khác thì sao? Và vì sao một số thay đổi nhỏ lại tạo ra tương lai khác hẳn?"
+      },
+      "image_prompt": "a cork board covered in photos connected by red string, with several question marks pinned among them, close-up, warm light",
+      "on_screen_text": "Nhiều câu hỏi mở"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Công bằng mà nói, Tokyo Revengers là truyện về băng nhóm và tình bạn. Cỗ máy thời gian là công cụ, không phải chủ đề chính, nên tác giả không cần giải thích từng chi tiết."
+      },
+      "image_prompt": "a group of young friends sitting on motorbikes at night under a street lamp, back view, warm nostalgic light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Re:Zero giấu luật đi, nhưng không phá luật. Mỗi khi Subaru hiểu thêm một điều về năng lực, điều đó được giữ đúng ở những lần sau."
+      },
+      "image_prompt": "a notebook with a handwritten list of rules growing longer page by page, each rule checked off, close-up, amber ink"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku rất thích cách Re:Zero để người xem học luật cùng nhân vật. Ta không được đưa sách hướng dẫn, ta phải tự rút ra từ những lần thất bại."
+      },
+      "image_prompt": "the owl mascot flipping through a blank instruction manual and scribbling notes in it",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Điểm vòng hai: Steins;Gate mười, Re:Zero tám, Tokyo Revengers sáu. Sau hai vòng: Steins;Gate mười chín, Re:Zero mười bốn, Tokyo Revengers mười ba."
+      },
+      "image_prompt": "the scoreboard updated with round two: ten, eight, six, and running totals, parchment close-up",
+      "on_screen_text": "Sau 2 vòng: 19 · 14 · 13"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Giờ tới câu hỏi Kaku thích nhất: mỗi lần quay lại, người du hành phải trả gì?"
+      },
+      "image_prompt": "an old merchant's scale with a clock on one side and a heart-shaped stone on the other, close-up, dramatic light",
+      "chapter": "Vòng 3: Cái giá"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Takemichi phải chiến đấu trong quá khứ với cơ thể của một học sinh yếu ớt. Cậu bị đánh rất nhiều. Và mỗi lần về hiện tại, cậu có thể thấy một bi kịch mới thay cho bi kịch cũ."
+      },
+      "image_prompt": "a bruised teenage fist clenched on the ground of an alley, rain puddles around, extreme close-up, cold light",
+      "on_screen_text": "Cứu người này, mất người khác"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Cái giá lớn nhất là cô đơn. Takemichi mang ký ức của những dòng thời gian mà không ai khác nhớ. Người duy nhất cậu có thể tâm sự là Naoto."
+      },
+      "image_prompt": "a lone young man sitting at a bus stop at night surrounded by blurred passing crowds, wide shot, lonely blue light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Okabe có một năng lực riêng gọi là Reading Steiner: khi thế giới đổi sang đường khác, chỉ cậu nhớ đường cũ. Nghe thì như lợi thế, nhưng thật ra là một lời nguyền."
+      },
+      "image_prompt": "a young man standing still in a crowded street while everyone else blurs and shifts around him, long exposure effect, eerie light",
+      "on_screen_text": "Reading Steiner"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Để thoát khỏi điểm hội tụ, Okabe phải xóa từng tin nhắn đã gửi về quá khứ. Mà mỗi tin nhắn đó là điều ước của một người bạn. Cứu một người, cậu phải lấy lại hạnh phúc của những người khác."
+      },
+      "image_prompt": "a row of glowing text messages on a phone screen being deleted one by one, each fading into ash, close-up, sad blue light",
+      "on_screen_text": "Xóa điều ước của bạn bè"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Subaru thì trả giá bằng chính cơ thể. Cậu phải thật sự chết, cảm nhận đau đớn, rồi tỉnh lại như chưa có gì. Mỗi lần như vậy để lại vết thương trong tâm trí."
+      },
+      "image_prompt": "a young man waking up with a sharp gasp in a sunlit street, hand clutching his chest, medium shot, harsh contrasting light",
+      "on_screen_text": "Trả giá bằng chính mình"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Và có một luật khiến cái giá đó nặng gấp đôi: Subaru không thể kể cho bất kỳ ai về năng lực. Hễ cậu định nói, thời gian dừng lại, và một bàn tay đen siết lấy trái tim cậu."
+      },
+      "image_prompt": "a frozen moment where falling leaves hang mid-air, a shadowy hand reaching toward a softly glowing heart, symbolic dark illustration, cold light",
+      "on_screen_text": "Không được kể cho ai",
+      "video_prompt": "the falling leaves freeze mid-air as the shadowy hand slowly closes toward the glowing heart",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nghĩa là Subaru phải chịu đựng tất cả một mình, và bị người khác hiểu lầm vì những hành động mà họ không thể hiểu."
+      },
+      "image_prompt": "a young man standing alone in a doorway while a group of people look at him with confusion and distrust, medium shot, cold light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Điểm vòng ba: Re:Zero mười, vì không cái giá nào đau hơn. Steins;Gate chín. Tokyo Revengers bảy. Sau ba vòng: Steins;Gate hai mươi tám, Re:Zero hai mươi bốn, Tokyo Revengers hai mươi."
+      },
+      "image_prompt": "the scoreboard updated with round three: ten, nine, seven, and running totals twenty-eight, twenty-four, twenty, parchment close-up",
+      "on_screen_text": "Sau 3 vòng: 28 · 24 · 20"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Một năng lực du hành thời gian tốt phải có giới hạn. Nếu không, nhân vật chỉ cần quay lại mãi cho tới khi mọi thứ hoàn hảo, và câu chuyện mất hết căng thẳng."
+      },
+      "image_prompt": "a video game controller with a glowing rewind button crossed out in red, close-up, dramatic light",
+      "chapter": "Vòng 4: Chống lạm dụng",
+      "on_screen_text": "Không giới hạn = hết căng thẳng"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Takemichi không chọn được thời điểm. Luôn là mười hai năm. Cậu cũng cần Naoto ở cả hai đầu. Nếu Naoto không có mặt, cậu mắc kẹt."
+      },
+      "image_prompt": "a lone figure standing in an empty station, holding out a hand that no one takes, wide shot, lonely light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Okabe bị giới hạn bởi bốn mươi tám giờ, bởi chiếc máy có thể hỏng, và bởi một tổ chức bí ẩn luôn theo dõi. Mỗi lần nhảy còn phải chạy đua với thời gian thật."
+      },
+      "image_prompt": "a small machine sparking and smoking on a workbench, a digital countdown clock on the wall behind, close-up, tense green light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Subaru bị giới hạn theo cách đáng sợ nhất. Cậu không chọn được điểm lưu. Nếu điểm lưu rơi vào một tình huống không lối thoát, cậu có thể bị kẹt trong vòng lặp."
+      },
+      "image_prompt": "a looping path drawn as a closed circle in the dark, a small figure walking it again and again, overhead shot, cold light",
+      "on_screen_text": "Có thể kẹt trong vòng lặp"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Cậu cũng không được chia sẻ thông tin. Biết tương lai mà không được nói ra, Subaru phải tìm cách thuyết phục người khác bằng những lý do mà cậu không thể giải thích."
+      },
+      "image_prompt": "a young man with his mouth covered by a shadowy ribbon, eyes pleading, close-up, dramatic dark light"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku thấy cả ba đều khá chặt ở vòng này. Nhưng Steins;Gate và Re:Zero có thêm lớp khóa: một bên là luật vật lý, một bên là lời nguyền."
+      },
+      "image_prompt": "the owl mascot examining three padlocks on a table with a magnifying glass, one lock has a double chain",
+      "use_mascot": true
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Điểm vòng bốn: Steins;Gate chín, Re:Zero chín, Tokyo Revengers tám. Sau bốn vòng: Steins;Gate ba mươi bảy, Re:Zero ba mươi ba, Tokyo Revengers hai mươi tám."
+      },
+      "image_prompt": "the scoreboard updated with round four: nine, nine, eight, and running totals, parchment close-up",
+      "on_screen_text": "Sau 4 vòng: 37 · 33 · 28"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Vòng cuối không đo luật mà đo trái tim: luật chơi có khiến ta đau cùng nhân vật không."
+      },
+      "image_prompt": "a clock with a heartbeat line drawn across its face, close-up, soft warm light",
+      "chapter": "Vòng 5: Sức nặng cảm xúc"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Takemichi được gọi là anh hùng hay khóc. Cậu không mạnh, không thông minh, nhưng không bao giờ bỏ cuộc. Mỗi lần quay lại là một lần cậu chọn đứng dậy."
+      },
+      "image_prompt": "a young man with tear-streaked face standing up again in a rain-soaked alley, fists clenched, low-angle shot, dramatic light",
+      "on_screen_text": "Anh hùng hay khóc"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Okabe bắt đầu truyện với vai diễn nhà khoa học điên, cười lớn, nói những câu kỳ quặc. Càng quay lại nhiều lần, lớp vỏ đó càng vỡ, và ta thấy một người trẻ kiệt sức."
+      },
+      "image_prompt": "a cracked theatrical mask lying on a lab floor beside a coffee cup, close-up, cold morning light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Những tập giữa Steins;Gate, khi Okabe nhảy lại cùng một ngày hết lần này tới lần khác, được nhiều người xem nhớ mãi. Không có cảnh đánh nhau, chỉ có một người không chịu buông tay."
+      },
+      "image_prompt": "a sequence of identical clock faces receding into the distance like a tunnel, a small figure walking through, surreal wide shot, cold light",
+      "video_prompt": "the camera glides forward through the endless tunnel of identical clock faces",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Subaru thì có lẽ là nhân vật được xem suy sụp rõ nhất trong ba người. Có những lúc cậu muốn bỏ cuộc, và Re:Zero không né tránh những khoảnh khắc đó."
+      },
+      "image_prompt": "a young man sitting on stone steps at night, head in hands, a distant warm light glowing behind him, wide shot, somber light",
+      "on_screen_text": "Suy sụp và đứng dậy"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Cảnh một người bạn nói với Subaru rằng hãy bắt đầu lại từ số không, cùng nhau, là một trong những cảnh nổi tiếng nhất của isekai hiện đại. Nó cho thấy cái giá của năng lực chỉ được chữa lành bằng người khác."
+      },
+      "image_prompt": "two silhouettes sitting side by side on a hill under a vast starry sky, one leaning on the other's shoulder, wide shot, gentle blue light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Điểm vòng năm: Steins;Gate mười, Re:Zero mười, Tokyo Revengers tám. Hai bộ đầu hòa nhau ở vòng này, vì cả hai đều khiến người xem đau thật sự."
+      },
+      "image_prompt": "the scoreboard updated with round five: ten, ten, eight, parchment close-up",
+      "on_screen_text": "Vòng 5: 10 · 10 · 8"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Trước khi công bố kết quả, Kaku cho ba nhà du hành một thử thách vui. Ba giờ chiều nay, bạn làm rơi chiếc bánh sinh nhật xuống sàn. Ai cứu được chiếc bánh?"
+      },
+      "image_prompt": "a birthday cake upside down on a kitchen floor, frosting splattered, a sad candle lying beside it, close-up, bright kitchen light",
+      "chapter": "Thử thách phụ: cứu chiếc bánh sinh nhật",
+      "on_screen_text": "Thử thách: cứu chiếc bánh"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Takemichi: bắt tay Naoto, và thế là cậu về mười hai năm trước. Chiếc bánh còn chưa được làm. Cậu phải chờ mười hai năm. Thất bại."
+      },
+      "image_prompt": "a young man looking at a calendar in dismay with twelve years of pages flipping by, humorous medium shot, warm light",
+      "on_screen_text": "Takemichi: thất bại"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Okabe: gửi một D-mail về trưa nay: nhớ cầm bánh bằng hai tay. Chiếc bánh được cứu. Nhưng đường thế giới lệch đi một chút, và có khi tiệm bánh quen giờ đã biến mất."
+      },
+      "image_prompt": "a flip phone showing a short glowing message, beside a perfectly intact cake on a table, while the shop sign outside the window has changed, close-up, eerie green light",
+      "on_screen_text": "Okabe: thành công, có tác dụng phụ"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Subaru: cậu không chọn được lúc quay lại, và Kaku không bao giờ khuyên ai liều mạng vì một chiếc bánh. Subaru chỉ còn cách mua bánh mới. Nhưng cậu sẽ là người lau sàn nhanh nhất."
+      },
+      "image_prompt": "a young man cheerfully mopping a kitchen floor while holding a new cake box under one arm, humorous medium shot, bright light",
+      "on_screen_text": "Subaru: mua bánh mới"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kết quả thử thách phụ: Steins;Gate thắng. Và đây chính là lý do Kaku nói luật của Steins;Gate chặt nhất: nó cho kết quả rõ ràng, và cả tác dụng phụ rõ ràng."
+      },
+      "image_prompt": "the owl mascot holding a slice of cake on a plate, looking smug, a tiny trophy beside it",
+      "use_mascot": true
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Và đây là bảng điểm chung cuộc. Tokyo Revengers: bảy, sáu, bảy, tám, tám. Tổng ba mươi sáu trên năm mươi."
+      },
+      "image_prompt": "a large scoreboard on parchment with the first column fully filled and the total 36 circled, amber ink close-up",
+      "chapter": "Kết quả chung cuộc",
+      "on_screen_text": "Tokyo Revengers: 36/50"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Re:Zero: sáu, tám, mười, chín, mười. Tổng bốn mươi ba trên năm mươi."
+      },
+      "image_prompt": "the scoreboard with the second column totaled at 43 circled, amber ink close-up",
+      "on_screen_text": "Re:Zero: 43/50"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Steins;Gate: chín, mười, chín, chín, mười. Tổng bốn mươi bảy trên năm mươi. Người chiến thắng về độ chặt của luật du hành thời gian."
+      },
+      "image_prompt": "the scoreboard with the third column totaled at 47 circled and a small gold star beside it, amber ink close-up, warm triumphant light",
+      "on_screen_text": "Steins;Gate: 47/50",
+      "video_prompt": "the final total is circled in glowing ink and the gold star sparkles",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Steins;Gate thắng vì nó xem du hành thời gian là khoa học: có con số, có giới hạn, có hậu quả. Mọi bi kịch đều đến từ chính luật mà truyện đặt ra từ đầu."
+      },
+      "image_prompt": "a precise engineering blueprint of a time machine pinned to a wall with measurements and notes, close-up, cool light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Re:Zero đứng thứ hai vì nó xem du hành thời gian là lời nguyền: luật giấu kín, cái giá tàn nhẫn, và cô đơn tuyệt đối."
+      },
+      "image_prompt": "a dark ornate hourglass wrapped in thorny vines on a stone pedestal, close-up, ominous purple light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Tokyo Revengers đứng thứ ba, nhưng Kaku muốn nói rõ: đây không phải bộ kém. Nó xem du hành thời gian là một cơ hội thứ hai, và điều nó quan tâm là tình bạn, không phải vật lý."
+      },
+      "image_prompt": "two hands shaking over a table with old photos of friends scattered around, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu bạn muốn một câu đố logic, hãy xem Steins;Gate. Nếu bạn muốn một hành trình đau đớn, hãy xem Re:Zero. Nếu bạn muốn một câu chuyện về lòng trung thành, hãy xem Tokyo Revengers."
+      },
+      "image_prompt": "three doors side by side, one with a gear symbol, one with a thorn symbol, one with a handshake symbol, wide shot, inviting warm light",
+      "on_screen_text": "Chọn bộ theo gu của bạn"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kaku trao thêm ba giải phụ. Giải Luật dễ hiểu nhất: Tokyo Revengers. Một cái bắt tay, mười hai năm, ai cũng nhớ được sau năm phút xem."
+      },
+      "image_prompt": "a small ribbon award pinned beside a drawing of two clasped hands, close-up, warm light",
+      "chapter": "Giải thưởng phụ",
+      "on_screen_text": "Dễ hiểu nhất: Tokyo Revengers"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Giải Cái giá đau nhất: Re:Zero. Không bộ nào bắt nhân vật chính trả giá bằng chính mình nhiều như vậy."
+      },
+      "image_prompt": "a ribbon award beside a cracked hourglass, close-up, somber light",
+      "on_screen_text": "Đau nhất: Re:Zero"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Giải Gắn với đời thật nhất: Steins;Gate. Truyện lấy cảm hứng từ John Titor, một người từng đăng bài trên mạng khoảng năm 2000, tự xưng là người du hành từ năm 2036. Đó là một truyền thuyết internet, không phải sự thật."
+      },
+      "image_prompt": "an old CRT computer monitor showing a dim internet forum page, a small clock icon in the corner, close-up, nostalgic green glow",
+      "on_screen_text": "Gắn với đời thật nhất: Steins;Gate"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Trong truyện còn có một chiếc máy tính cổ tên là IBN 5100, lấy cảm hứng từ máy IBM 5100 có thật, ra đời năm 1975. Kaku thích những chi tiết như vậy vì nó làm câu chuyện đáng tin hơn."
+      },
+      "image_prompt": "a vintage portable computer with a tiny screen and a chunky keyboard on a wooden desk, close-up, warm retro light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Kaku cũng tặng một giải cho chính mình: Trọng tài chấm điểm công bằng nhất. Không ai phản đối đâu nhỉ?"
+      },
+      "image_prompt": "the owl mascot pinning a tiny ribbon onto its own chest with a proud expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Có một chi tiết thú vị: anime Steins;Gate năm 2011 và anime Re:Zero năm 2016 đều do cùng một studio thực hiện, là White Fox."
+      },
+      "image_prompt": "two anime production storyboards side by side on a studio desk with the same fox-shaped logo stamp in the corner, close-up, warm studio light",
+      "chapter": "Một bí mật hậu trường",
+      "on_screen_text": "Cùng studio White Fox"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Nhiều người xem nhận ra hai bộ có không khí giống nhau: nhịp chậm lúc đầu, rồi đột ngột trở nên nặng nề, và những cảnh vòng lặp đầy ám ảnh."
+      },
+      "image_prompt": "two film reels intertwined on a table, one labeled with a gear and one with a thorn, close-up, moody light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn đã xem một trong hai bộ và thích, bộ còn lại gần như chắc chắn hợp với bạn."
+      },
+      "image_prompt": "a bookshelf with two volumes placed side by side, a small sticky note connecting them with an arrow, close-up, cozy light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Nếu được chọn một trong ba năng lực, bạn chọn cái nào?"
+      },
+      "image_prompt": "three glowing cards on a table: a handshake, a phone, an hourglass, a hand hovering over them deciding, close-up, dramatic light",
+      "chapter": "Nếu bạn có một lần quay lại",
+      "on_screen_text": "Bạn chọn năng lực nào?"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Bắt tay để về đúng mười hai năm trước, sửa những gì bạn tiếc nuối từ thời đi học. Hoặc gửi tin nhắn về hai ngày trước, sửa một sai lầm nhỏ nhưng chấp nhận thế giới đổi khác."
+      },
+      "image_prompt": "a comparison chart on parchment with two columns of small doodles: a school building and a flip phone, amber ink close-up"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Hoặc quay về mỗi khi thất bại, không giới hạn số lần, nhưng không bao giờ được kể cho ai biết bạn đã trải qua những gì."
+      },
+      "image_prompt": "a lonely figure doodled inside a looping arrow on parchment, a small lock drawn over its mouth, amber ink close-up"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Kaku chọn tin nhắn, vì Kaku chỉ cần sửa câu nói sai trong video trước. Viết lựa chọn của bạn vào bình luận, kèm lý do."
+      },
+      "image_prompt": "the owl mascot typing on a tiny flip phone with a sheepish look",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Và nếu bạn không đồng ý với bảng điểm, hãy viết bảng điểm của bạn. Kaku sẽ đọc hết và làm một video trả lời những bảng điểm khác biệt nhất."
+      },
+      "image_prompt": "a comment box drawn on parchment with several different scoreboards scribbled inside, close-up, warm light",
+      "on_screen_text": "Viết bảng điểm của bạn"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Ba nhà du hành, ba cỗ máy, và cùng một bài học: quay lại quá khứ không làm mọi thứ dễ hơn. Nó chỉ cho bạn thêm một lần để chọn lại, và thêm một lần để đau."
+      },
+      "image_prompt": "three silhouettes standing on three separate timelines that converge toward a single bright horizon, wide shot, bittersweet dawn light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Có lẽ vì vậy mà cả ba bộ đều kết luận giống nhau: điều cứu nhân vật không phải cỗ máy, mà là những người đã ở bên họ."
+      },
+      "image_prompt": "several hands placed on top of one another over an old clock, close-up, warm hopeful light"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở dòng thời gian một nghìn năm của Kimetsu no Yaiba, từ khi Muzan trở thành quỷ tới ngày Tanjiro cầm kiếm."
+      },
+      "image_prompt": "a long scroll unrolling across a table with ink marks for centuries, a small blade icon at the far end, close-up, warm candlelight",
+      "on_screen_text": "Tiếp theo: dòng thời gian Kimetsu"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Nếu bạn thích xem Kaku làm trọng tài, hãy đăng ký kênh. Không cần quay ngược thời gian, chỉ cần một cái bấm. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot blowing its referee whistle and waving goodbye beside the finished scoreboard",
+      "use_mascot": true
+    }
+  ]
+}
