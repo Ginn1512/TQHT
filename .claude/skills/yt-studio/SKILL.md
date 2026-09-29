@@ -49,16 +49,29 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 ## 4. Báo chi phí và chờ duyệt
 
 ```bash
-python -m tools.costs estimate videos/<thư-mục>
+python -m tools.costs estimate videos/<thư-mục> --no-images   # ảnh làm bằng Gemini app (mặc định): chỉ tính giọng
+python -m tools.costs estimate videos/<thư-mục>               # nếu tạo ảnh bằng API
 ```
 
 Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ước tính, số cảnh, chi phí, số tiền đã chi trong tháng. Người dùng chọn: **Tạo video** / **Sửa kịch bản trước**. Chưa được đồng ý thì không gọi API tốn tiền.
 
-## 5. Tạo giọng, ảnh và dựng video
+## 5. Ảnh, giọng và dựng video
+
+**Ảnh, cách mặc định: người dùng tạo bằng Gemini app** (gói Gemini Plus, không tốn tiền API):
+
+1. `python -m tools.app_images page videos/<thư-mục> --label "video N" > <scratchpad>/xuong-anh-N.html`, rồi đăng bằng Artifact với `capabilities: {"assets": {}, "db": {}}`. Mỗi video một trang.
+2. Gửi link cho người dùng. Trên trang có hướng dẫn: tạo ảnh mẫu Kaku trước, rồi với mỗi cảnh thì sao chép prompt → tạo ảnh trong Gemini → tải ảnh lên.
+3. Khi người dùng báo xong:
+   - đọc danh sách `ArtifactData list images` (dùng `query.limit` 200) để lấy asset id của từng cảnh;
+   - tải từng ảnh về bằng `Artifact read` với `path=<asset id>`, lưu vào một thư mục tạm dưới tên `<scene-id>.<đuôi>`;
+   - chạy `python -m tools.app_images import videos/<thư-mục> --from <thư-mục tạm>` (thêm `--trim 0.05` nếu ảnh có watermark ở góc).
+4. Cảnh nào thiếu ảnh hoặc ảnh hỏng thì báo số cảnh để người dùng làm lại trên trang.
+
+Chỉ khi người dùng yêu cầu mới tạo ảnh bằng API: `python -m tools.images videos/<thư-mục>` (khoảng 0,034 USD/ảnh).
 
 ```bash
+python -m tools.assemble videos/<thư-mục> --draft   # bản nháp không tiếng, 960×540, để duyệt hình khi chưa có giọng
 python -m tools.tts videos/<thư-mục> --lang vi
-python -m tools.images videos/<thư-mục>
 python -m tools.assemble videos/<thư-mục>        # thêm --music <file> nếu người dùng có nhạc không bản quyền
 ```
 

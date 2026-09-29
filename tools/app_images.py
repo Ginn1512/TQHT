@@ -1,6 +1,7 @@
 """Ảnh tạo thủ công bằng Gemini app (gói Gemini Plus): xuất prompt và nhập ảnh vào video.
 
     python -m tools.app_images export videos/<thư-mục>                  # JSON prompt cho trang tải ảnh
+    python -m tools.app_images page videos/<thư-mục> --label "video 2" > xuong-anh.html   # trang tải ảnh để đăng Artifact
     python -m tools.app_images import videos/<thư-mục> --from <folder>   # ảnh <scene-id>.* → assets/images
     python -m tools.app_images import videos/<thư-mục> --from <folder> --trim 0.05   # cắt viền (watermark góc)
 
@@ -16,11 +17,12 @@ from pathlib import Path
 
 from PIL import Image
 
-from tools import costs, images, scenes
+from tools import config, costs, images, scenes
 
 # Gemini app không có tuỳ chọn tỉ lệ khung hình như API, nên ghi rõ trong prompt.
 ASPECT_PREFIX = "Wide 16:9 landscape image."
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".webp"}
+PAGE_TEMPLATE = config.ROOT / "tools" / "templates" / "xuong-anh.html"
 
 
 def mascot_reference_prompt(board: scenes.Storyboard) -> str:
@@ -45,6 +47,15 @@ def export(board: scenes.Storyboard) -> dict:
             for s in board.scenes
         ],
     }
+
+
+def build_page(board: scenes.Storyboard, label: str) -> str:
+    """Trang "Xưởng ảnh" (đăng bằng Artifact với capabilities {assets, db}): prompt + lời thoại mỗi cảnh."""
+    data = export(board)
+    for item, scene in zip(data["scenes"], board.scenes):
+        item["say"] = scene.narration.get(config.PRIMARY_LANGUAGE, "")
+    payload = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    return PAGE_TEMPLATE.read_text(encoding="utf-8").replace("__LABEL__", label).replace("__DATA__", payload)
 
 
 def find_sources(folder: Path) -> dict[str, Path]:
@@ -79,12 +90,18 @@ def main() -> None:
     sub = p.add_subparsers(dest="cmd", required=True)
     e = sub.add_parser("export")
     e.add_argument("video_dir", type=Path)
+    pg = sub.add_parser("page")
+    pg.add_argument("video_dir", type=Path)
+    pg.add_argument("--label", required=True, help='ví dụ "video 2"')
     i = sub.add_parser("import")
     i.add_argument("video_dir", type=Path)
     i.add_argument("--from", dest="folder", type=Path, required=True)
     i.add_argument("--trim", type=float, default=0.0, help="tỉ lệ cắt bỏ ở mỗi cạnh, ví dụ 0.05")
     args = p.parse_args()
 
+    if args.cmd == "page":
+        sys.stdout.write(build_page(scenes.load(args.video_dir), args.label))
+        return
     if args.cmd == "export":
         json.dump(export(scenes.load(args.video_dir)), sys.stdout, ensure_ascii=False, indent=1)
         print()

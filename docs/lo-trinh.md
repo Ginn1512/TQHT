@@ -43,13 +43,14 @@ Một kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, đ�
 | Mở rộng | Tháng 3 | Thêm Hindi, Trung phồn thể; cắt Shorts từ video dài |
 | Tăng trưởng tới YPP | Tháng 4–12 | 1.000 người đăng ký + 4.000 giờ xem |
 
-Chỉ tăng tần suất và thêm ngôn ngữ khi video trước đạt chất lượng và chi phí dưới 4 USD/video. 8 video 16 phút/tháng ≈ 29 USD, vẫn dưới 38 USD.
+Chỉ tăng tần suất và thêm ngôn ngữ khi video trước đạt chất lượng. Từ 29/09/2026, ảnh được tạo bằng Gemini app (gói Gemini Plus của bạn) nên mỗi video chỉ tốn khoảng 0,14 USD tiền giọng đọc. 8–10 video/tháng khoảng 1,1–1,4 USD. Phần ngân sách còn lại dành cho lồng tiếng, Seedance và dự phòng.
 
 ## Ngân sách mỗi video (15–20 phút)
 
 | Khoản | Đơn giá (USD) | Mỗi video (USD) |
 |---|---|---|
-| Ảnh AI (khoảng 90–110 ảnh) | 0,034/ảnh | khoảng 3,0–3,7 |
+| Ảnh AI tạo bằng Gemini app, cách mặc định (khoảng 90–110 ảnh) | đã có trong gói Gemini Plus | 0 (khoảng 1,5–2 giờ làm tay mỗi video) |
+| Ảnh AI qua API, dự phòng | 0,034/ảnh | khoảng 3,0–3,7 |
 | Giọng đọc tiếng Việt | 0,009/phút | khoảng 0,15–0,2 |
 | Mỗi bản lồng tiếng thêm | 0,009/phút | khoảng 0,15–0,2 |
 | TranscriptAPI | 100 credit miễn phí | 0 |

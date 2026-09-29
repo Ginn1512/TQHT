@@ -55,6 +55,10 @@ Chi phí tính cho ảnh và giọng tiếng Việt, chưa gồm clip Seedance. 
 | 2026-12 | 9 | khoảng 27 | Còn khoảng 11 USD |
 | 2027-01 | 2 (video 29–30) | khoảng 6 | Còn nhiều chỗ cho Shorts và lồng tiếng |
 
+**Cập nhật 29/09/2026: tạo ảnh bằng Gemini app.** Bạn tự tạo ảnh bằng gói Gemini Plus qua trang "Xưởng ảnh", nên ảnh không còn tốn tiền API.
+- Mỗi video chỉ còn khoảng 0,14 USD tiền giọng đọc, cả 30 video khoảng 4 USD. Bảng trên là chi phí nếu tạo ảnh bằng API (phương án dự phòng).
+- Đổi lại, mỗi video mất khoảng 1,5–2 giờ để tạo và tải ảnh lên.
+
 Từ video 12, lịch đăng giảm còn 2 video/tuần (thứ Ba và thứ Bảy) để không vượt ngân sách.
 
 ## Vì sao 30 video này đúng chính sách kiếm tiền cho nội dung AI của YouTube

@@ -55,3 +55,12 @@ def test_import_reports_missing_and_records_count(tmp_path):
     assert Image.open(video / "assets" / "images" / "s03.png").size == (config.WIDTH, config.HEIGHT)
     usage = json.loads((video / "cost.json").read_text())
     assert usage["images_app"] == 2 and usage["usd"] == 0
+
+
+def test_build_page_embeds_label_and_parseable_data():
+    b = board()
+    html = app_images.build_page(b, "video 9")
+    assert "<title>Xưởng ảnh video 9</title>" in html and "__DATA__" not in html
+    raw = html.split('<script type="application/json" id="data">', 1)[1].split("</script>", 1)[0]
+    data = json.loads(raw)
+    assert [s["id"] for s in data["scenes"]] == ["s01", "s02"] and data["scenes"][0]["say"] == "a"

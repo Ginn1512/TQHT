@@ -46,7 +46,7 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 
 1. `/yt-analyzer`: phân tích kênh mẫu, cập nhật `channel/profile.md`.
 2. `/yt-research`: **luôn chạy trước mỗi đợt kịch bản** (hoặc khi nhật ký học hỏi đã quá 2 tuần). Tìm anime hot, xem các kênh anime khác làm gì, ghi 3 điều học được.
-3. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh và gói thông tin đăng tải.
+3. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh và gói thông tin đăng tải. Ảnh mặc định do người dùng tạo bằng Gemini app (gói Gemini Plus) qua trang "Xưởng ảnh" (`python -m tools.app_images page`); tạo ảnh bằng API chỉ là dự phòng.
 4. `/yt-seedance` (tuỳ chọn): tối đa 6 clip Seedance 2.5 × 5 giây cho cảnh "đinh"; mặc định làm thủ công trên app Dreamina/CapCut.
 
 ### Quy tắc cứng
