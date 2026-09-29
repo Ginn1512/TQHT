@@ -1,0 +1,678 @@
+{
+  "title": "Attack on Titan: 9 chi tiết cài cắm có từ tập đầu tiên",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo cực mạnh: video có spoiler toàn bộ Attack on Titan, kể cả cái kết. Nếu chưa xem hết, hãy dừng ở đây. Video này sẽ phá hỏng những cú sốc lớn nhất của bộ truyện."
+      },
+      "image_prompt": "a massive stone wall under a stormy sky, a single warning sign nailed to it",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler TOÀN BỘ"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Có những bộ truyện viết tới đâu nghĩ tới đó. Và có những bộ mà câu trả lời cuối cùng đã nằm sẵn ở ngay trang đầu tiên, chờ bạn quay lại để nhìn thấy."
+      },
+      "image_prompt": "the very first page of an old book glowing faintly, tiny details highlighted in gold",
+      "video_prompt": "the first page glows and tiny golden details light up one after another, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Attack on Titan là bộ thứ hai. Rất nhiều chi tiết ở tập một, chương một, tưởng như vô nghĩa, hóa ra là chìa khóa của cả câu chuyện."
+      },
+      "image_prompt": "a key hidden in the corner of a first-page illustration, glinting",
+      "on_screen_text": "Câu trả lời có từ tập 1"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hôm nay Kaku sẽ đặt từng chi tiết cạnh nhau: bên trái là lần đầu nó xuất hiện, bên phải là ý nghĩa thật của nó về sau."
+      },
+      "image_prompt": "the owl mascot pinning two photographs side by side on a board labeled BEFORE and AFTER",
+      "on_screen_text": "Trước · Sau",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Có chín chi tiết chính, thêm vài món tặng kèm, và Kaku để dành chi tiết khiến Kaku nổi da gà nhất cho tới cuối cùng."
+      },
+      "image_prompt": "the owl mascot opening a notebook with nine numbered bookmarks sticking out",
+      "on_screen_text": "9 chi tiết",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Attack on Titan là manga của Isayama Hajime, đăng từ năm 2009 tới 2021. Bản anime kéo dài từ 2013 tới tận năm 2023 mới kết thúc."
+      },
+      "image_prompt": "a long shelf of manga volumes ending in a final volume with a small bird on the spine",
+      "chapter": "Một bộ truyện được lên kế hoạch",
+      "on_screen_text": "Manga 2009–2021"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Câu chuyện bắt đầu rất đơn giản: loài người sống sau những bức tường cao năm mươi mét để trốn những người khổng lồ ăn thịt người, gọi là titan."
+      },
+      "image_prompt": "a walled city seen from above, towering walls in concentric rings, giant silhouettes outside",
+      "on_screen_text": "Tường cao 50 m"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhưng càng đi, câu chuyện càng lật ngược: titan là gì, ai xây tường, bên ngoài tường có gì. Mỗi câu trả lời lại làm thay đổi ý nghĩa của những gì ta đã xem."
+      },
+      "image_prompt": "a map that keeps unfolding outward, revealing larger and larger worlds beyond the walls"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Điều làm fan kinh ngạc là nhiều câu trả lời đó được cài sẵn từ những chương đầu tiên. Đó là lý do bộ này được xem lại nhiều đến vậy."
+      },
+      "image_prompt": "a reader flipping back to the first chapter with a shocked expression, notes scattered around"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Tác giả từng chia sẻ trong các buổi phỏng vấn rằng ông đã hình dung những nét chính của cái kết từ khá sớm, dù nhiều chi tiết thay đổi trong quá trình vẽ. Nhờ vậy, những hạt giống từ đầu có đất để nảy mầm về sau."
+      },
+      "image_prompt": "a gardener planting seeds in the first row of a long field, tall trees already visible at the far end"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kaku ghi chú: xem lại Attack on Titan giống như xem một bộ khác hoàn toàn. Bạn sẽ thấy nhân vật nói những câu mà lần đầu bạn không hiểu họ thật sự đang nói gì."
+      },
+      "image_prompt": "the owl mascot wearing two pairs of glasses stacked, reading intensely",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: ở tập đầu tiên, cha của Eren đưa cho cậu một chiếc chìa khóa, và dặn một ngày nào đó hãy xuống tầng hầm của nhà mình."
+      },
+      "image_prompt": "a small old key on a string hanging around a boy's neck, glinting in candlelight",
+      "chapter": "Chi tiết 1: Chìa khóa trên cổ",
+      "on_screen_text": "Lần đầu: chìa khóa"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Suốt ba mùa anime, chiếc chìa khóa ấy luôn ở trên cổ Eren. Tầng hầm trở thành mục tiêu của cả đoàn trinh sát. Người ta tin rằng trong đó có bí mật về titan."
+      },
+      "image_prompt": "a boy clutching the key at his chest while soldiers on horseback ride toward a distant ruined town"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Ý nghĩa về sau: tầng hầm không chứa vũ khí hay cách tiêu diệt titan. Nó chứa những cuốn sổ và một tấm ảnh chụp, bằng chứng rằng bên ngoài tường có cả một thế giới loài người."
+      },
+      "image_prompt": "an open drawer in a dusty basement revealing old journals and a photograph",
+      "on_screen_text": "Sau: sự thật về thế giới"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và thế giới đó coi những người trong tường là kẻ thù. Chiếc chìa khóa nhỏ mở ra một cánh cửa lớn hơn nhiều so với một căn hầm."
+      },
+      "image_prompt": "a small key turning in a lock as a huge world map unfolds behind the door"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Trong những cuốn sổ đó, người cha còn viết về quá khứ của mình, về một gia đình, một đứa con khác và một thế giới mà ông đã rời bỏ. Mỗi trang là một câu trả lời, và cũng là một câu hỏi mới."
+      },
+      "image_prompt": "an open journal with handwritten pages and a small faded family photo tucked inside"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku ghi chú: một chiếc chìa khóa được giữ suốt nhiều năm để mở ra một sự thật không ai muốn nghe. Đây là cài cắm kiểu kinh điển, nhưng làm rất trọn vẹn."
+      },
+      "image_prompt": "the owl mascot holding a tiny key up to the light, eyes wide",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: ở mùa một, một nhà nghiên cứu phát hiện titan không có cơ quan tiêu hóa. Chúng ăn người, nhưng không tiêu hóa gì cả, và nôn ra khi đã đầy."
+      },
+      "image_prompt": "a scientist's sketch of a giant's anatomy with the digestive system crossed out, notes in the margin",
+      "chapter": "Chi tiết 2: Titan không cần ăn",
+      "on_screen_text": "Lần đầu: không có hệ tiêu hóa"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Chúng không cần ăn để sống. Chúng cũng không tấn công động vật, chỉ nhắm vào con người. Lần đầu xem, đây giống một chi tiết kỳ lạ để làm titan thêm đáng sợ."
+      },
+      "image_prompt": "a giant ignoring a herd of deer to stare at a distant human village"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Ý nghĩa về sau: titan vốn là con người. Họ bị biến thành titan không có ý thức, và bản năng khiến họ tìm tới con người để ăn, với hy vọng lấy lại được thân phận người."
+      },
+      "image_prompt": "a human silhouette slowly morphing into a giant's silhouette, an empty expression on its face",
+      "on_screen_text": "Sau: titan là con người"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Chi tiết này khiến mọi trận đánh trước đó trở nên nặng nề hơn. Những con quái vật mà các nhân vật chém hạ từng là những người bình thường."
+      },
+      "image_prompt": "a battlefield at dusk with steam rising from fallen giants, a soldier looking down in silence"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku ghi chú: cài cắm hay nhất không phải lúc nào cũng là lời thoại. Đôi khi nó nằm trong một chi tiết sinh học tưởng như vô hại."
+      },
+      "image_prompt": "the owl mascot peering at a textbook diagram through a magnifying glass",
+      "use_mascot": true
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: cuối mùa một, sau một trận đánh làm vỡ một phần bức tường, lộ ra bên trong là khuôn mặt của một titan khổng lồ."
+      },
+      "image_prompt": "a crack in a massive stone wall revealing a giant eye staring out from within",
+      "chapter": "Chi tiết 3: Khuôn mặt trong bức tường",
+      "on_screen_text": "Lần đầu: mặt trong tường",
+      "video_prompt": "stone fragments fall away from the crack and the giant eye slowly blinks, slow dolly in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Một vị mục sư biết rõ bí mật này, và hoảng loạn yêu cầu phải che nó lại khỏi ánh mặt trời. Người xem lúc đó chỉ biết thắc mắc."
+      },
+      "image_prompt": "a panicked robed figure shouting at soldiers to cover a crack in the wall with cloth"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Ý nghĩa về sau: những bức tường được tạo thành từ vô số titan khổng lồ đứng sát cạnh nhau, cứng hóa lại. Thứ bảo vệ loài người cũng là thứ có thể hủy diệt họ."
+      },
+      "image_prompt": "a cross-section of a wall showing countless colossal figures standing shoulder to shoulder inside",
+      "on_screen_text": "Sau: tường làm từ titan"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Ở cuối truyện, những titan trong tường được đánh thức và bước ra, tạo nên một thảm họa có tên là Địa Minh. Cả thế giới rung chuyển dưới bước chân của chúng."
+      },
+      "image_prompt": "a horizon of colossal silhouettes marching across the land, dust clouds rising to the sky",
+      "on_screen_text": "Địa Minh",
+      "video_prompt": "colossal silhouettes march across the horizon as dust clouds billow upward, slow wide pan",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Kaku ghi chú: bức tường là biểu tượng của sự an toàn trong mùa một, và là biểu tượng của sự hủy diệt ở mùa cuối. Cùng một vật, hai ý nghĩa đối lập."
+      },
+      "image_prompt": "the owl mascot hiding behind a small wall that suddenly opens one eye",
+      "use_mascot": true
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: ở mùa hai, một người lính trẻ về thăm làng quê của mình và thấy một titan nằm ngửa trên nóc nhà mình, không thể cử động."
+      },
+      "image_prompt": "a small village house crushed under a giant lying face up on its roof",
+      "chapter": "Chi tiết 4: Titan nằm trên mái nhà",
+      "on_screen_text": "Lần đầu: titan trên mái nhà"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Titan đó nhìn cậu và thều thào một câu nghe như lời chào đón về nhà. Ngôi làng không có một vết máu nào, nhưng không còn ai."
+      },
+      "image_prompt": "an empty village with no destruction, doors left open, laundry still hanging"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Ý nghĩa về sau: dân làng không bị ăn thịt. Chính họ đã bị biến thành titan. Và titan trên mái nhà là mẹ của cậu lính trẻ."
+      },
+      "image_prompt": "a mother's silhouette overlapped with the giant's silhouette on the rooftop",
+      "on_screen_text": "Sau: đó là mẹ cậu"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Đây là lần đầu truyện gần như nói thẳng rằng titan là con người, sớm hơn nhiều so với lời giải thích chính thức."
+      },
+      "image_prompt": "a single tear sliding down the face of a giant lying still under the moon"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kaku ghi chú: chi tiết này nhỏ, nhưng là một trong những khoảnh khắc buồn nhất cả bộ. Nó biến nỗi sợ thành nỗi đau."
+      },
+      "image_prompt": "the owl mascot holding a small candle in silence",
+      "use_mascot": true
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: tập một, titan ăn thịt mẹ của Eren có gương mặt mỉm cười, trông gần như hiền lành. Đó là hình ảnh ám ảnh cả tuổi thơ của Eren và của khán giả."
+      },
+      "image_prompt": "a smiling giant's silhouette looming over a collapsed house, dust in the air",
+      "chapter": "Chi tiết 5: Titan mỉm cười",
+      "on_screen_text": "Lần đầu: titan mỉm cười"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Ở mùa ba, ta biết titan đó từng là vợ trước của cha Eren. Một người phụ nữ bị biến thành titan và thả vào trong tường."
+      },
+      "image_prompt": "a faded photograph of a woman with a gentle smile, the same smile echoed in a giant's face"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Và ở mùa cuối, một sự thật còn đáng sợ hơn được hé lộ: hướng đi của titan đó hôm ấy có liên quan tới chính sức mạnh của Eren, từ tương lai."
+      },
+      "image_prompt": "a looping arrow drawn from an adult's silhouette back to a childhood scene of a destroyed house",
+      "on_screen_text": "Sau: một vòng lặp"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Nói cách khác, Eren đã chứng kiến bi kịch lớn nhất đời mình, và bi kịch ấy lại gắn với chính cậu. Đây là lúc câu chuyện trở thành một vòng tròn khép kín."
+      },
+      "image_prompt": "a circular path of footprints that ends where it began, a single house in the middle"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku ghi chú: Kaku vẫn chưa hết rùng mình mỗi khi nghĩ lại chi tiết này."
+      },
+      "image_prompt": "the owl mascot wrapped tightly in its scarf, shivering",
+      "use_mascot": true
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: ở mùa một và mùa hai, hai học viên thân thiết thỉnh thoảng nhắc về việc trở về quê nhà, như bất kỳ người lính xa nhà nào."
+      },
+      "image_prompt": "two young soldiers sitting on a wall at night, looking toward the distant horizon",
+      "chapter": "Chi tiết 6: Cuộc trò chuyện về quê nhà",
+      "on_screen_text": "Lần đầu: nhớ quê"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Một người trong số họ luôn đóng vai người anh cả đáng tin cậy, chăm sóc mọi người trong nhóm. Không ai nghi ngờ gì."
+      },
+      "image_prompt": "a tall reliable young man helping a fellow trainee up after a fall"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Ý nghĩa về sau: quê nhà của họ ở bên ngoài tường. Họ là chiến binh được gửi tới để lấy sức mạnh của titan thủy tổ. Và chính họ đã phá cánh cổng trong ngày đầu tiên của câu chuyện."
+      },
+      "image_prompt": "two silhouettes standing on a wall revealed as giant shadows loom behind them",
+      "on_screen_text": "Sau: họ là ai?"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Lần xem lại, mỗi lần họ nhắc về quê nhà, về nhiệm vụ, về việc phải trở về, đều mang một nghĩa hoàn toàn khác."
+      },
+      "image_prompt": "a replayed memory with subtitles changing meaning, highlighted words glowing"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Thậm chí có lúc, một trong hai người thú nhận thẳng thân phận của mình giữa một cuộc trò chuyện bình thường, với giọng điệu như đang nói chuyện thời tiết. Cảnh đó khiến rất nhiều khán giả phải tua lại."
+      },
+      "image_prompt": "two soldiers talking casually on a wall in daylight while a third listens in stunned silence"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kaku ghi chú: tác giả để những nhân vật này nói gần như sự thật ngay trước mặt khán giả. Chính vì quá thật nên không ai nghi ngờ."
+      },
+      "image_prompt": "the owl mascot pointing at a speech bubble with a hidden meaning in invisible ink",
+      "use_mascot": true
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: từ những tập đầu, Armin kể cho Eren nghe về đại dương, một vùng nước mặn mênh mông mà sách cấm nói tới. Hai cậu bé hứa một ngày sẽ nhìn thấy nó."
+      },
+      "image_prompt": "two boys reading a forbidden book under a tree, an illustration of a vast ocean on its pages",
+      "chapter": "Chi tiết 7: Giấc mơ về biển",
+      "on_screen_text": "Lần đầu: giấc mơ về biển"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Suốt nhiều mùa, biển là biểu tượng của tự do, của thế giới rộng lớn bên ngoài bức tường."
+      },
+      "image_prompt": "a wall with a painted ocean on its inner side, children looking at it with longing"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Ý nghĩa về sau: khi đến được biển, họ nhận ra bên kia đại dương là những người coi họ là kẻ thù. Biển không phải là tự do, mà là đường ranh giới tiếp theo."
+      },
+      "image_prompt": "a group of young soldiers standing on a beach, one pointing across the water at an unseen enemy",
+      "on_screen_text": "Sau: kẻ thù bên kia biển"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Câu hỏi của Eren khi đứng trước biển gần như là câu hỏi của cả bộ truyện: nếu giết hết kẻ thù bên kia biển, liệu ta có được tự do không?"
+      },
+      "image_prompt": "a lone figure standing at the water's edge, looking out, waves touching his boots"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là cài cắm đau lòng nhất. Giấc mơ tuổi thơ đẹp nhất trở thành nơi giấc mơ tan vỡ."
+      },
+      "image_prompt": "the owl mascot holding a seashell to its ear, looking sad",
+      "use_mascot": true
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: ngay từ những cảnh đầu tiên, Eren nhìn lên những đàn chim bay qua bức tường. Biểu tượng của đoàn trinh sát cũng là đôi cánh."
+      },
+      "image_prompt": "a boy on a riverbank looking up at birds flying over a towering wall",
+      "chapter": "Chi tiết 8: Những cánh chim",
+      "on_screen_text": "Lần đầu: cánh chim"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Với Eren, chim là tự do: chúng bay qua tường mà không cần xin phép ai. Cậu muốn được như chúng."
+      },
+      "image_prompt": "a flock of birds soaring freely above a walled city at sunset"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Ý nghĩa về sau: ở cảnh cuối cùng của truyện, một chú chim xuất hiện bên cạnh người đã luôn ở bên Eren, và quấn lại chiếc khăn quàng cho cô."
+      },
+      "image_prompt": "a small bird gently tugging a red scarf around someone's neck on a quiet hill",
+      "on_screen_text": "Sau: chú chim cuối cùng",
+      "video_prompt": "the small bird gently tugs the red scarf into place as wind moves the grass, slow close-up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Nhiều người hiểu chú chim đó như hình ảnh của Eren, cuối cùng được tự do. Truyện để người đọc tự cảm nhận."
+      },
+      "image_prompt": "a single bird flying away from a large tree into an open sky"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Kaku ghi chú: chữ tự do được nhắc tới rất nhiều lần trong truyện, nhưng nó được nói rõ nhất bằng một hình ảnh không có lời."
+      },
+      "image_prompt": "the owl mascot watching a bird fly away, a small smile on its face",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Không chỉ đồ vật và hình ảnh, cả lời thoại trong Attack on Titan cũng đổi nghĩa hoàn toàn khi xem lại."
+      },
+      "image_prompt": "an old script page with certain lines glowing red after being reread",
+      "chapter": "Những câu thoại đổi nghĩa khi xem lại",
+      "on_screen_text": "Lời thoại đổi nghĩa"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Ở tập một, sau khi mất mẹ, cậu bé Eren hét lên rằng sẽ tiêu diệt hết bọn chúng, không chừa một con nào. Lần đầu xem, ta hiểu đó là lời thề của một đứa trẻ đau khổ với loài titan."
+      },
+      "image_prompt": "a boy screaming with clenched fists on a ruined street, smoke rising behind him",
+      "on_screen_text": "Tiêu diệt hết bọn chúng"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Xem lại sau khi biết cái kết, câu nói ấy nghe hoàn toàn khác. Vì về sau, thứ Eren muốn tiêu diệt không còn là titan, mà là cả thế giới bên kia bức tường."
+      },
+      "image_prompt": "the same boy's shadow stretching across a map of the entire world"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Một câu khác của Armin: người không thể hy sinh bất cứ điều gì thì không thể thay đổi được gì. Lúc đầu nghe như một lời khuyên chiến thuật, về sau nó trở thành gánh nặng của cả nhóm."
+      },
+      "image_prompt": "a young strategist looking at a chessboard where every piece has a human face",
+      "on_screen_text": "Hy sinh và thay đổi"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku ghi chú: Kaku khuyên bạn xem lại tập một sau khi xem hết. Gần như câu nào cũng có tầng nghĩa thứ hai."
+      },
+      "image_prompt": "the owl mascot rewinding a tiny film reel with a knowing look",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Chi tiết tặng kèm trước khi tới chi tiết cuối. Lần đầu xuất hiện: nhiều lần trong truyện, Mikasa bỗng ôm đầu vì một cơn đau đột ngột, thường vào những khoảnh khắc liên quan tới Eren."
+      },
+      "image_prompt": "a young woman clutching her head in pain on a battlefield, a faint glow behind her eyes",
+      "chapter": "Chi tiết tặng kèm: Cơn đau đầu",
+      "on_screen_text": "Lần đầu: cơn đau đầu"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Lần đầu xem, người ta nghĩ đó là di chứng từ chấn thương, hoặc chỉ là cách thể hiện căng thẳng. Không ai để ý nhiều."
+      },
+      "image_prompt": "a medical chart with question marks next to a small head icon"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Ý nghĩa về sau: cái kết gợi ý rằng những cơn đau đó liên quan tới cô gái đầu tiên có sức mạnh titan, người đã dõi theo lựa chọn của Mikasa suốt cả câu chuyện."
+      },
+      "image_prompt": "a ghostly girl silhouette standing far behind a young woman, watching silently",
+      "on_screen_text": "Sau: có người dõi theo"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Và lựa chọn cuối cùng của Mikasa được xem là chìa khóa để giải thoát cô gái ấy khỏi hai nghìn năm ràng buộc. Chi tiết nhỏ bé nhất lại gắn với cái kết lớn nhất."
+      },
+      "image_prompt": "chains dissolving around a ghostly girl as a single tear falls from her eye"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là chi tiết mà rất nhiều người chỉ nhận ra sau khi đọc chương cuối. Kaku cũng vậy."
+      },
+      "image_prompt": "the owl mascot rubbing its head with a sheepish smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Trước chi tiết cuối cùng, Kaku chia sẻ cách tự nhận ra cài cắm khi xem bất kỳ bộ truyện nào."
+      },
+      "image_prompt": "a checklist on a notepad with three items and a magnifying glass beside it",
+      "chapter": "Cách nhận ra một chi tiết cài cắm",
+      "on_screen_text": "Mẹo nhận ra cài cắm"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Một: để ý những chi tiết được nhắc lại mà không có lý do rõ ràng. Một đồ vật, một câu nói, một hình ảnh lặp lại thường có ý nghĩa."
+      },
+      "image_prompt": "a recurring symbol appearing in three different scenes, circled in red"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Hai: để ý những câu trả lời quá hoàn hảo hoặc quá mơ hồ. Khi nhân vật nói một câu mà bạn thấy hơi lạ, hãy ghi nó lại."
+      },
+      "image_prompt": "a speech bubble with a strange sentence highlighted, a sticky note attached"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Ba: để ý tên chương hay tên tập. Tác giả thường giấu manh mối ở những chỗ ít người đọc kỹ nhất."
+      },
+      "image_prompt": "a table of contents with one chapter title glowing faintly"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và chi tiết cuối cùng của Kaku hôm nay chính là một tên chương."
+      },
+      "image_prompt": "the owl mascot tapping on a chapter title with its wing, eyebrows raised",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Lần đầu xuất hiện: tên của chương một, cũng là tên tập một của anime, là Gửi em, hai nghìn năm sau. Một cái tên đẹp nhưng khó hiểu, không ai biết em là ai và vì sao là hai nghìn năm."
+      },
+      "image_prompt": "a title card on old paper reading like a letter, with a faint number 2000 watermarked",
+      "chapter": "Chi tiết 9: Gửi em, hai nghìn năm sau",
+      "on_screen_text": "Lần đầu: tên chương 1"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Và ở trang đầu tiên của chương một, có một cảnh rất lạ: một cô gái nói với Eren câu tạm biệt, hẹn gặp lại, trước khi cậu tỉnh dậy dưới gốc cây, nước mắt chảy dài mà không biết vì sao."
+      },
+      "image_prompt": "a boy waking up under a large tree with tears on his cheeks, a girl looking at him with concern",
+      "on_screen_text": "Giấc mơ và nước mắt",
+      "video_prompt": "tears glint on the waking boy's cheek as leaves drift down around the tree, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Ý nghĩa về sau: gần cuối truyện có một chương mang tên đối xứng hoàn hảo: Từ em, hai nghìn năm trước. Chương đó kể về cô gái đầu tiên có sức mạnh titan, hai nghìn năm trước câu chuyện."
+      },
+      "image_prompt": "two title cards side by side, mirrored, one reading TO and the other reading FROM",
+      "on_screen_text": "Sau: Từ em, 2000 năm trước"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Còn cảnh ở trang đầu tiên, cô gái nói lời tạm biệt, hóa ra là một cảnh từ tương lai, gần với cái kết của cả câu chuyện. Nước mắt của cậu bé Eren là vì cậu đã thoáng thấy điều đó."
+      },
+      "image_prompt": "a looping ribbon connecting the first page of a book to its last page",
+      "on_screen_text": "Trang đầu nối trang cuối"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nghĩa là ngay từ trang đầu tiên, câu chuyện đã được viết như một vòng tròn. Hai nghìn năm lịch sử, mười hai năm đăng truyện, và kết thúc quay về đúng chỗ bắt đầu."
+      },
+      "image_prompt": "a vast circle drawn across a timeline of two thousand years, both ends meeting under a tree"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là chi tiết khiến Kaku nổi da gà nhất. Lần đầu đọc, bạn không thể hiểu. Lần cuối đọc, bạn không thể quên."
+      },
+      "image_prompt": "the owl mascot holding a letter to its chest, eyes closed",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Vì sao Isayama lại cài cắm nhiều đến vậy? Kaku nghĩ nó gắn chặt với chủ đề của bộ truyện."
+      },
+      "image_prompt": "the owl mascot sitting on a wall at dusk, looking at a circle drawn in the sky",
+      "chapter": "Góc nhìn của Kaku: vòng lặp và tự do",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Attack on Titan nói về tự do. Nhưng nhân vật chính càng chạy tới tự do, càng như bị cuốn vào một vòng lặp đã được định sẵn, nơi tương lai và quá khứ ảnh hưởng lẫn nhau."
+      },
+      "image_prompt": "a runner sprinting along a path that curves back into itself, birds flying overhead"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Những chi tiết cài cắm chính là bằng chứng của vòng lặp đó: mọi thứ ở cuối đã có mặt ở đầu. Câu chuyện không để ai, kể cả nhân vật chính, thoát khỏi nó dễ dàng."
+      },
+      "image_prompt": "the first and last pages of a book stitched together into a ring"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Và vì vậy, câu hỏi mà bộ truyện để lại cho người xem là: tự do thật sự là gì, nếu ta không thể thay đổi những gì đã được định sẵn?"
+      },
+      "image_prompt": "a single bird sitting on top of a broken wall, looking at the open sky"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Có người thấy cái kết đẹp, có người thấy nó gây tranh cãi. Nhưng gần như ai cũng đồng ý rằng những cài cắm từ đầu cho thấy câu chuyện có một hướng đi rõ ràng."
+      },
+      "image_prompt": "two groups of readers debating around a table, a single book in the middle"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku không có câu trả lời. Nhưng Kaku nghĩ đó là lý do bộ truyện này vẫn được bàn luận, dù đã kết thúc nhiều năm."
+      },
+      "image_prompt": "a group of silhouettes sitting around a campfire at night, deep in discussion"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Tóm lại, chín chi tiết cài cắm: chiếc chìa khóa, titan không cần ăn, khuôn mặt trong tường, titan trên mái nhà, titan mỉm cười, cuộc trò chuyện về quê nhà, giấc mơ về biển, những cánh chim, và tên chương đầu tiên."
+      },
+      "image_prompt": "a board with nine before-and-after photo pairs, connected by threads",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: chi tiết nào khiến bạn sốc nhất khi nhận ra? Hoặc bạn còn biết chi tiết cài cắm nào mà Kaku chưa nhắc tới?"
+      },
+      "image_prompt": "the owl mascot holding up a blank photo frame labeled 10",
+      "on_screen_text": "Chi tiết số 10 của bạn?",
+      "use_mascot": true
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tới, Kaku quay lại với một bộ truyện quen thuộc để gỡ mười hiểu lầm mà rất nhiều người vẫn tin về Naruto."
+      },
+      "image_prompt": "a notice board with ten pinned notes and a small leaf-shaped pin",
+      "on_screen_text": "Tiếp theo: 10 hiểu lầm Naruto"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu thấy video hữu ích, hãy đăng ký kênh. Và nếu xem lại Attack on Titan, hãy nhớ để ý trang đầu tiên. Kaku gửi bạn, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot sealing a letter with a small red wax stamp and waving",
+      "use_mascot": true
+    }
+  ]
+}

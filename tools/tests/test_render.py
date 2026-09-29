@@ -28,9 +28,9 @@ def test_build_prompt_includes_style_mascot_and_guard():
         }
     )
     prompt = images.build_prompt(board, board.scenes[0])
-    assert prompt.startswith("anime illustration. a cliff.")
-    assert "a grey cat with a scarf" in prompt
-    assert prompt.endswith(images.GUARD)
+    assert prompt.startswith(f"{images.ASPECT_PREFIX} a cliff.")
+    assert "a grey cat with a scarf" in prompt and "anime illustration." in prompt
+    assert prompt.endswith(images.GUARD + ".")
 
 
 def test_demo_renders_video_audio_tracks_and_subtitles(tmp_path):

@@ -1,0 +1,778 @@
+{
+  "title": "Witch Hat Atelier: Nhập môn thế giới nơi phép thuật được vẽ ra",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Video này gần như không có spoiler: mình chỉ nói về thế giới, luật phép thuật và những tập đầu tiên của mùa một. Nếu bạn chưa xem, đây đúng là video dành cho bạn."
+      },
+      "image_prompt": "an open wooden door glowing with soft golden light, a quiet fantasy village beyond it",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Gần như không spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy tưởng tượng một thế giới mà phép thuật không phải thứ bạn sinh ra đã có. Nó là thứ bạn vẽ ra, bằng một cây bút và một lọ mực."
+      },
+      "image_prompt": "a hand holding a fine dip pen above parchment, glowing ink lines forming a circle",
+      "on_screen_text": "Phép thuật được vẽ ra",
+      "video_prompt": "glowing ink lines flow from the pen tip and close into a shining circle, gentle slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Chỉ cần vẽ đúng, một vòng tròn trên mặt đất có thể gọi nước, thắp lửa, hay nâng cả một con người bay lên trời."
+      },
+      "image_prompt": "a glowing circular diagram on a stone floor with a column of water spiraling upward from it"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đó là Witch Hat Atelier, bộ anime được gọi là ứng viên anime của năm 2026. Và hôm nay mình sẽ dẫn bạn đi qua cánh cửa của nó trong khoảng mười lăm phút."
+      },
+      "image_prompt": "a tall pointed witch hat resting on a desk beside ink bottles and sketches, morning light",
+      "on_screen_text": "Witch Hat Atelier"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ không phải sổ ghi chép nữa, mà là một cuốn sổ vẽ phép thuật."
+      },
+      "image_prompt": "the owl mascot opening a notebook whose pages glow with circular diagrams",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot opens the notebook and circular diagrams lift off the pages as floating light, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Cuối video, Kaku sẽ thử tự vẽ một phép theo đúng luật của thế giới này, và gợi ý cho bạn nên bắt đầu xem từ đâu."
+      },
+      "image_prompt": "the owl mascot holding a tiny dip pen with a drop of glowing ink on its tip",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Witch Hat Atelier là manga của nữ tác giả Shirahama Kamome, bắt đầu đăng từ năm 2016. Tên tiếng Nhật có nghĩa là Xưởng vẽ của chiếc mũ nhọn."
+      },
+      "image_prompt": "a stack of hand-bound sketchbooks tied with ribbon beside a pointed hat on a wooden shelf",
+      "chapter": "Bộ truyện này là gì?",
+      "on_screen_text": "Manga từ 2016"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Điều khiến bộ truyện nổi tiếng trước tiên là nét vẽ. Mỗi trang giống như tranh minh họa trong sách truyện cổ, với từng đường mực tỉ mỉ."
+      },
+      "image_prompt": "an intricate pen-and-ink style fantasy landscape with fine hatching, a castle on a hill"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Bộ truyện đã nhận nhiều giải thưởng truyện tranh quốc tế, và được độc giả phương Tây yêu thích không kém độc giả Nhật."
+      },
+      "image_prompt": "a small shelf of glowing award medals beside an open illustrated book",
+      "on_screen_text": "Nhiều giải quốc tế"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Bản anime do studio Bug Films thực hiện, ra mắt ngày 6 tháng 4 năm 2026 với hai tập liền, và nhanh chóng được giới phê bình khen ngợi."
+      },
+      "image_prompt": "a calendar page marked with a small star, a film strip unrolling across a desk",
+      "on_screen_text": "Anime: 6/4/2026"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Trước khi phát sóng, nhiều người lo lắng vì studio này từng gặp khó khăn về tiến độ với bộ trước. Nhưng những tập đầu đã làm phần lớn người xem yên tâm."
+      },
+      "image_prompt": "a worried owl silhouette looking at a stack of papers, then a relieved sunrise behind it"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là bộ fantasy nhẹ nhàng, không phải kiểu đánh nhau liên tục. Nếu bạn thích Frieren, rất có thể bạn sẽ thích bộ này."
+      },
+      "image_prompt": "the owl mascot placing a bookmark between two books glowing with soft magic",
+      "use_mascot": true
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Trong thế giới này, người thường tin rằng phù thủy là những người sinh ra đã có phép thuật. Họ nghĩ đó là tài năng bẩm sinh, không ai học được."
+      },
+      "image_prompt": "villagers gazing up in awe at a cloaked figure floating above a market square",
+      "chapter": "Thế giới của những bí mật",
+      "on_screen_text": "Người thường nghĩ: phép là bẩm sinh"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nhưng đó là một lời nói dối được giữ gìn cẩn thận. Sự thật là ai cũng có thể dùng phép, nếu biết cách vẽ và có đúng loại mực."
+      },
+      "image_prompt": "a closed book with a heavy lock, faint glowing lines escaping from between its pages",
+      "on_screen_text": "Sự thật: ai cũng học được"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Vì sao phải giấu? Trong quá khứ, phép thuật từng bị dùng vào chiến tranh và gây ra thảm họa. Các phù thủy quyết định rằng người thường không được biết cách phép thuật hoạt động."
+      },
+      "image_prompt": "a ruined ancient battlefield under a dark sky, faded glowing circles scorched into the earth"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Họ lập ra một hiệp ước. Từ đó, phép thuật chỉ được truyền dạy trong giới phù thủy, và mọi hiểu biết về nó bị giấu khỏi thế giới bên ngoài."
+      },
+      "image_prompt": "a long table where cloaked figures sign a large scroll by candlelight",
+      "on_screen_text": "Hiệp ước giữ bí mật"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và nếu một người thường vô tình nhìn thấy cách phép được vẽ ra? Theo luật, ký ức đó phải bị xóa."
+      },
+      "image_prompt": "a figure with a glowing hand hovering near the forehead of a sleeping villager, memories drifting away as light",
+      "on_screen_text": "Người thường nhìn thấy → xóa ký ức"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Đây là nền móng của cả câu chuyện: một thế giới đẹp như tranh, nhưng được xây trên một bí mật mà ai biết được thì đều phải trả giá."
+      },
+      "image_prompt": "a picturesque fantasy town at dusk with a long shadow of a locked keyhole stretching across it"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Nhân vật chính là Coco, một cô bé sống ở làng quê, con gái của một thợ may. Từ nhỏ, cô đã mơ được làm phù thủy."
+      },
+      "image_prompt": "a young girl with a sketchbook sitting on a hill above a small village, looking at the sky",
+      "chapter": "Cô bé muốn trở thành phù thủy",
+      "on_screen_text": "Cô bé con nhà thợ may"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nhưng vì tin rằng phép thuật là bẩm sinh, Coco nghĩ giấc mơ đó là không thể. Cô không có phép, nên chỉ biết đứng nhìn."
+      },
+      "image_prompt": "a young girl pressing her face to a shop window full of magical trinkets, reflection looking sad"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Khi còn nhỏ, Coco từng nhận được một cuốn sách tranh về phép thuật và một cây bút từ một người lạ đội mũ rộng vành ở lễ hội."
+      },
+      "image_prompt": "a mysterious figure in a wide-brimmed hat at a night festival handing a small book to a child",
+      "on_screen_text": "Người lạ đội mũ rộng vành"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Một ngày, một phù thủy tên là Qifrey ghé qua tiệm may nhà cô. Coco lén nhìn thấy điều không ai được nhìn: anh ta vẽ phép thuật bằng bút mực."
+      },
+      "image_prompt": "a girl peeking through a door crack as a cloaked figure draws a glowing circle on the floor",
+      "on_screen_text": "Coco nhìn thấy bí mật"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Trong đầu cô bé bừng sáng một ý nghĩ: nếu phép thuật được vẽ ra, thì mình cũng có thể vẽ."
+      },
+      "image_prompt": "a girl's eyes widening with reflected golden circles, a lightbulb-like spark of ink above her"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là khoảnh khắc mở đầu rất hay, vì nó biến một giấc mơ không thể thành một thứ có thể học được."
+      },
+      "image_prompt": "the owl mascot with sparkling eyes, holding a tiny pen up like a torch",
+      "use_mascot": true
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Coco mở cuốn sách tranh cũ ra, chép lại một vòng tròn trong đó lên sàn nhà. Cô không biết đó là loại phép gì."
+      },
+      "image_prompt": "a girl kneeling on a wooden floor at night carefully copying a circle from an old picture book",
+      "chapter": "Cái giá của một nét vẽ"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Phép được kích hoạt, và hậu quả vượt quá sức tưởng tượng: người mẹ của Coco bị bao phủ trong pha lê."
+      },
+      "image_prompt": "a room frozen in crystal, shards of glowing crystal spreading across the walls, a girl standing in shock",
+      "on_screen_text": "Một nét vẽ sai",
+      "video_prompt": "crystal spreads across the room from the floor circle, shards catching light, slow dolly back",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Hóa ra cuốn sách chứa một loại phép bị cấm. Và người lạ đội mũ rộng vành năm xưa có lẽ đã cố tình trao nó cho cô."
+      },
+      "image_prompt": "an old picture book lying open on the floor, its pages glowing a sinister purple",
+      "on_screen_text": "Phép cấm"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Qifrey xuất hiện kịp lúc. Theo luật, Coco đã thấy bí mật nên phải bị xóa ký ức. Nhưng anh chọn cách khác: nhận cô làm học trò."
+      },
+      "image_prompt": "a cloaked figure extending a hand to a crying girl amid crystal shards, soft light behind them",
+      "on_screen_text": "Được nhận làm học trò"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Từ đó, Coco có hai mục tiêu: học thành phù thủy, và tìm cách cứu mẹ mình khỏi lớp pha lê."
+      },
+      "image_prompt": "a girl walking away from her village with a small bag, a crystal-shaped light in her hand, sunrise ahead",
+      "on_screen_text": "Hai mục tiêu"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Đây là tất cả spoiler của video hôm nay. Phần còn lại, mình chỉ nói về luật phép thuật và vì sao bộ này đáng xem."
+      },
+      "image_prompt": "the owl mascot zipping its beak shut with a tiny zipper, winking",
+      "use_mascot": true
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Giờ tới phần mình thích nhất. Mỗi phép thuật trong Witch Hat Atelier là một hình tròn gồm ba lớp. Lớp đầu tiên nằm ở chính giữa, gọi là ký hiệu trung tâm."
+      },
+      "image_prompt": "a large glowing circle diagram with three concentric layers highlighted one by one",
+      "chapter": "Luật số 1: Ký hiệu trung tâm",
+      "on_screen_text": "Phép = 3 lớp"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Ký hiệu trung tâm quyết định phép thuật thuộc loại nào. Nó giống như danh từ trong một câu: nói cho thế giới biết bạn đang gọi thứ gì."
+      },
+      "image_prompt": "a single ornate symbol glowing in the center of an empty circle",
+      "on_screen_text": "Lớp 1: ký hiệu trung tâm"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Các phép thường được chia thành năm nhóm lớn theo ký hiệu này: lửa, nước, đất, gió và ánh sáng."
+      },
+      "image_prompt": "five glowing symbols arranged in a ring: a flame, a droplet, a stone, a swirl of wind, and a star",
+      "on_screen_text": "Lửa · Nước · Đất · Gió · Ánh sáng"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Vẽ ký hiệu nước ở giữa thì phép gọi ra nước. Đổi sang ký hiệu lửa thì cùng một vòng tròn đó sẽ thắp lên ngọn lửa."
+      },
+      "image_prompt": "a split image: the same circle producing water on the left and fire on the right"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku thấy cách này rất giống học chữ. Trước khi viết được câu, bạn phải thuộc bảng chữ cái đã."
+      },
+      "image_prompt": "the owl mascot pointing at a chalkboard of five simple symbols like an alphabet",
+      "use_mascot": true
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Lớp thứ hai nằm quanh ký hiệu trung tâm, gồm những dấu nhỏ. Nếu ký hiệu trung tâm là danh từ, thì các dấu là động từ và trạng từ."
+      },
+      "image_prompt": "small glowing marks arranged in a ring around a central symbol, each labeled with a tiny arrow",
+      "chapter": "Luật số 2: Các dấu điều khiển"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Các dấu quyết định phép đi theo hướng nào, mạnh bao nhiêu, kéo dài bao lâu, và có hình dạng ra sao."
+      },
+      "image_prompt": "four small icons appearing one by one: an arrow, a gauge, an hourglass, and a geometric shape",
+      "on_screen_text": "Hướng · Cường độ · Thời gian · Hình dạng"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Cùng là phép nước, thêm dấu này thì nước phun thẳng lên trời. Đổi dấu khác thì nước chảy thành một dòng suối nhỏ dưới chân."
+      },
+      "image_prompt": "two circles side by side: one spraying water straight up, the other letting a gentle stream flow along the ground"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Vì vậy phù thủy giỏi không phải người biết nhiều ký hiệu nhất, mà là người biết kết hợp các dấu khéo léo nhất."
+      },
+      "image_prompt": "a skilled hand arranging small glowing marks like puzzle pieces around a circle"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Đây cũng là chỗ bộ truyện cho nhân vật cơ hội sáng tạo. Không có phép nào cố định, chỉ có những cách vẽ khác nhau."
+      },
+      "image_prompt": "a desk covered in dozens of different circle sketches, some crossed out, some glowing"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Lớp thứ ba là vòng tròn bao ngoài. Và đây là luật quan trọng nhất: vòng tròn phải khép kín. Hở một chút thôi, phép sẽ không xuất hiện."
+      },
+      "image_prompt": "a glowing circle with a tiny gap, sparks fizzling out at the break",
+      "chapter": "Luật số 3: Vòng tròn và mực",
+      "on_screen_text": "Vòng tròn phải khép kín"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Nghe thì đơn giản, nhưng hãy thử tưởng tượng vẽ một vòng tròn hoàn hảo khi đang rơi từ trên trời xuống, hoặc khi quái vật đang lao tới."
+      },
+      "image_prompt": "a figure falling through the sky with a pen, desperately drawing a circle on a scrap of paper"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Thứ hai là mực. Phép chỉ hoạt động khi được vẽ bằng một loại mực đặc biệt, không phải mực thường."
+      },
+      "image_prompt": "a row of small ink bottles glowing faintly silver on a wooden shelf",
+      "on_screen_text": "Cần mực đặc biệt"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Theo các nguồn giới thiệu, loại mực này được làm với sự giúp đỡ của một loại cây bạc rất đặc biệt. Vì vậy mực cũng là một thứ được kiểm soát chặt chẽ."
+      },
+      "image_prompt": "a silver-leafed tree glowing in a misty grove, drops of shining sap falling into a bottle"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku ghi chú: chỉ cần hai điều kiện là mực và vòng tròn khép kín, mà cả một thế giới phải giữ bí mật. Vì chúng quá dễ để người khác bắt chước."
+      },
+      "image_prompt": "the owl mascot guarding a tiny ink bottle with both wings, looking around suspiciously",
+      "use_mascot": true
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Khi đã hiểu ba lớp, ta có thêm vài luật nâng cao rất thú vị mà bộ truyện dùng để tạo ra những pha xử lý thông minh."
+      },
+      "image_prompt": "a notebook page titled with a small star, advanced diagrams sketched in the margins",
+      "chapter": "Những luật nâng cao"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Luật đảo chiều: lật ngược hướng của một dấu thì phép cũng đảo ngược. Phép đẩy thành phép kéo, phép bay lên thành phép rơi xuống."
+      },
+      "image_prompt": "two mirrored circles, one pushing a leaf away and the other pulling it in",
+      "on_screen_text": "Lật dấu → đảo phép"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Luật triệt tiêu: hai phép giống hệt nhau nhưng có dấu ngược chiều có thể xóa nhau, giống như hai lực bằng nhau đẩy từ hai phía."
+      },
+      "image_prompt": "two opposing glowing circles colliding and dissolving into sparkles",
+      "on_screen_text": "Hai phép ngược → triệt tiêu"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Luật lồng vòng: một phép có thể được bao trong một vòng tròn khác, để kết hợp hiệu ứng của hai phép, kể cả khi chúng không được vẽ trên cùng một vật."
+      },
+      "image_prompt": "a small glowing circle nested inside a larger circle, two different effects merging",
+      "on_screen_text": "Lồng vòng → kết hợp",
+      "video_prompt": "a small circle slides inside a larger one and the two lights merge into a new color, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Với những luật này, phép thuật trở thành một câu đố. Người thắng không phải người mạnh nhất, mà là người nghĩ ra cách vẽ thông minh nhất."
+      },
+      "image_prompt": "a figure solving a glowing puzzle of circles while a larger opponent looks confused"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nếu có luật, thì có những thứ bị cấm. Trong thế giới này, một số loại phép bị các phù thủy cấm tuyệt đối."
+      },
+      "image_prompt": "a heavy iron gate covered in chains, glowing forbidden symbols behind it",
+      "chapter": "Ma thuật cấm",
+      "on_screen_text": "Ma thuật cấm"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Ví dụ nổi bật nhất là vẽ phép trực tiếp lên cơ thể sống. Nó có thể tạo ra sức mạnh lớn, nhưng cái giá thường là không thể đảo ngược."
+      },
+      "image_prompt": "a warning sign showing a crossed-out hand with glowing lines drawn on it"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Những người vẫn lén dùng ma thuật cấm được gọi chung là nhóm đội mũ rộng vành. Họ là mối nguy lớn nhất trong câu chuyện."
+      },
+      "image_prompt": "shadowy figures in wide-brimmed hats standing on a cliff, faces hidden, purple light around them",
+      "on_screen_text": "Nhóm mũ rộng vành"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Và để giữ luật, còn có những người chuyên truy bắt kẻ vi phạm. Giữa hai phía đó là những học trò như Coco, còn chưa hiểu hết đúng sai."
+      },
+      "image_prompt": "a young girl standing between a line of armored guards and shadowy hatted figures",
+      "on_screen_text": "Kẻ vi phạm và người giữ luật"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Điều thú vị là ma thuật cấm không phải lúc nào cũng xấu về kết quả. Nó có thể chữa lành hoặc giúp người, và chính điều đó khiến ranh giới đúng sai trở nên mờ."
+      },
+      "image_prompt": "a glowing healing light over a wounded hand, but the light has a faint purple edge"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku để phần này ngắn thôi, vì càng nói càng spoiler. Chỉ cần biết: ma thuật cấm là sợi dây xuyên suốt cả bộ truyện."
+      },
+      "image_prompt": "the owl mascot quickly closing a book that is leaking purple light",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Qifrey đưa Coco về xưởng của mình, nơi anh đang dạy ba học trò khác. Mỗi người là một kiểu tính cách rất khác nhau."
+      },
+      "image_prompt": "a cozy fantasy atelier with tall windows, drawing tables, hanging herbs and floating lanterns",
+      "chapter": "Xưởng vẽ và các bạn học",
+      "on_screen_text": "Xưởng của thầy Qifrey"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Agott là cô gái nghiêm khắc, xuất thân từ một gia đình phù thủy danh giá. Ban đầu cô rất khó chịu với một người ngoài như Coco."
+      },
+      "image_prompt": "a stern apprentice with arms crossed standing by a window, a precise circle drawn perfectly on her desk",
+      "on_screen_text": "Agott: nghiêm khắc"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Tetia vui vẻ, hay cười và muốn dùng phép để làm mọi người hạnh phúc. Richeh thì thích vẽ theo cách riêng, không muốn làm theo khuôn mẫu."
+      },
+      "image_prompt": "two apprentices: one cheerful girl waving happily, another lazily doodling tiny creatures on paper",
+      "on_screen_text": "Tetia và Richeh"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Qifrey là người thầy dịu dàng, luôn cho học trò tự tìm câu trả lời. Nhưng có vẻ anh cũng mang những bí mật riêng của mình."
+      },
+      "image_prompt": "a gentle teacher smiling while his shadow on the wall looks slightly different, mysterious",
+      "on_screen_text": "Người thầy có bí mật"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Kaku ghi chú: bộ này giống một câu chuyện về trường học hơn là một câu chuyện chiến đấu. Mỗi học trò học cách vẽ, và học cả cách làm người."
+      },
+      "image_prompt": "the owl mascot sitting at a tiny desk among larger drawing tables, raising a wing like a student",
+      "use_mascot": true
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Giờ tới phần thực hành! Kaku sẽ thử thiết kế một phép theo đúng ba lớp. Lưu ý đây là phép Kaku tự nghĩ ra, không có trong truyện."
+      },
+      "image_prompt": "the owl mascot spreading a large sheet of paper on a desk, pen in wing",
+      "chapter": "Kaku thử vẽ một phép",
+      "on_screen_text": "Phép do Kaku tự nghĩ",
+      "use_mascot": true
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Mục tiêu: một phép tưới cây nhẹ nhàng cho vườn. Bước một, chọn ký hiệu trung tâm là nước."
+      },
+      "image_prompt": "a hand-drawn circle with a water droplet symbol in the center, notes around it",
+      "on_screen_text": "Bước 1: ký hiệu nước"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Bước hai, thêm dấu hướng lên để nước bay lên, rồi thêm dấu cường độ nhỏ để nó không phun như vòi cứu hỏa."
+      },
+      "image_prompt": "small arrow and gauge marks added around the droplet symbol, a note saying gentle"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Bước ba, thêm dấu hình dạng để nước tỏa ra như cơn mưa phùn, thay vì một dòng thẳng."
+      },
+      "image_prompt": "a gentle fan-shaped mark added, a sketch of drizzle falling over flowers"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Bước cuối, khép kín vòng tròn. Nếu mọi thứ đúng, khu vườn sẽ có một cơn mưa nhỏ riêng."
+      },
+      "image_prompt": "a completed glowing circle on the ground of a garden, light drizzle falling over blooming flowers",
+      "on_screen_text": "Khép vòng → mưa phùn",
+      "video_prompt": "the circle glows and a soft drizzle begins over the flowers, petals trembling, slow crane up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nhưng nếu Kaku lỡ tay vẽ ngược dấu hướng thì sao? Nước sẽ bị hút xuống đất, và cả vườn khô héo. Một nét vẽ, hai kết cục."
+      },
+      "image_prompt": "the owl mascot staring in horror at a dried-up garden, its pen upside down",
+      "use_mascot": true
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Đó chính là tinh thần của bộ truyện: phép thuật là một nghề thủ công, tỉ mỉ và đầy trách nhiệm."
+      },
+      "image_prompt": "a craftsman's desk with rulers, compasses, ink and a perfect glowing circle"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Tóm gọn lại, có bốn lý do Kaku nghĩ bạn nên cho Witch Hat Atelier một cơ hội."
+      },
+      "image_prompt": "four glowing cards laid out on a table, each with a simple icon",
+      "chapter": "Vì sao bạn nên xem?",
+      "on_screen_text": "4 lý do nên xem"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Lý do một: hình ảnh. Anime cố giữ cảm giác tranh minh họa của bản manga, với màu sắc dịu nhẹ như sách truyện cổ."
+      },
+      "image_prompt": "a painterly fantasy forest with soft watercolor tones and fine ink outlines",
+      "on_screen_text": "1. Đẹp như tranh"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Lý do hai: hệ thống phép thuật có luật rõ ràng. Bạn có thể tự đoán trước một phép sẽ hoạt động thế nào, và thấy thỏa mãn khi nhân vật dùng luật một cách thông minh."
+      },
+      "image_prompt": "a viewer silhouette smiling as a glowing puzzle of circles clicks into place",
+      "on_screen_text": "2. Phép có luật rõ"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Lý do ba: câu chuyện về sự sáng tạo. Coco không phải thiên tài, nhưng cô nhìn phép thuật theo cách của một người ngoài, và điều đó thành lợi thế."
+      },
+      "image_prompt": "a young apprentice drawing an unusual circle while others watch in surprise"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Lý do bốn: bí ẩn. Người đội mũ rộng vành là ai, vì sao họ chọn Coco, và người thầy đang giấu điều gì? Những câu hỏi đó kéo bạn đi tiếp."
+      },
+      "image_prompt": "a mysterious hat floating in darkness with three question marks glowing around it",
+      "on_screen_text": "4. Bí ẩn cuốn hút"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Nếu bạn thích phiêu lưu nhẹ nhàng hơn là đánh nhau dồn dập, đây gần như chắc chắn là bộ dành cho bạn."
+      },
+      "image_prompt": "a cozy reading nook with a window overlooking a magical valley at sunset"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Trước khi kết, Kaku muốn chia sẻ một điều khiến bộ này khác hầu hết các bộ fantasy khác."
+      },
+      "image_prompt": "the owl mascot sitting on a stack of books by candlelight, thoughtful",
+      "chapter": "Góc nhìn của Kaku: khi phép thuật ai cũng học được",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Trong nhiều truyện, sức mạnh là bẩm sinh: bạn sinh ra có tài năng hoặc không. Ở đây, sức mạnh là kiến thức. Ai học được thì dùng được."
+      },
+      "image_prompt": "a split image: a glowing figure born with light on one side, a student studying books on the other",
+      "on_screen_text": "Bẩm sinh hay kiến thức?"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và vì ai cũng dùng được, nên câu hỏi lớn không còn là ai mạnh nhất, mà là ai được phép biết. Đó là câu hỏi về quyền lực và sự tin tưởng."
+      },
+      "image_prompt": "a single key hanging over a crowd of reaching hands, soft dramatic lighting"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Các phù thủy giấu phép thuật để bảo vệ thế giới. Nhưng chính bí mật đó cũng khiến người thường phụ thuộc vào họ, và khiến những đứa trẻ như Coco không có cơ hội."
+      },
+      "image_prompt": "a high tower of witches above a village, the villagers looking up from far below"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku không nghĩ bộ truyện đưa ra câu trả lời dễ dàng. Và chính việc nó không trả lời vội là lý do nó đáng để suy ngẫm."
+      },
+      "image_prompt": "the owl mascot looking at two paths in a forest, one bright and one shadowed",
+      "use_mascot": true
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Trước khi chốt lộ trình, Kaku gom vài câu hỏi mà người mới hay thắc mắc khi nghe về bộ này."
+      },
+      "image_prompt": "a wooden board pinned with handwritten question cards, soft lantern light",
+      "chapter": "Câu hỏi người mới hay hỏi",
+      "on_screen_text": "Hỏi nhanh, đáp gọn"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Hỏi: bộ này có hợp với trẻ em không? Đáp: phần lớn nhẹ nhàng, nhưng có vài cảnh khá đáng sợ và căng thẳng, nên người lớn nên xem cùng các bạn nhỏ."
+      },
+      "image_prompt": "a family silhouette watching a glowing screen together on a sofa, a small shadowy creature on screen",
+      "on_screen_text": "Hợp với trẻ em?"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Hỏi: không thích truyện nhịp chậm thì sao? Đáp: hãy thử đúng hai tập đầu. Nhịp của bộ này không đổi nhiều về sau, nên hai tập đó là bài kiểm tra công bằng."
+      },
+      "image_prompt": "an hourglass beside two glowing episode icons, a snail and a rabbit icon on either side",
+      "on_screen_text": "Nhịp chậm?"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Hỏi: có cần biết gì về phép thuật trước không? Đáp: không. Bạn học luật cùng lúc với Coco, và đó chính là niềm vui của bộ truyện."
+      },
+      "image_prompt": "a beginner student and a small owl side by side reading the same glowing book",
+      "on_screen_text": "Cần kiến thức trước?"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Hỏi: có giống Frieren không? Đáp: giống ở không khí yên bình và sự tôn trọng dành cho phép thuật, nhưng Witch Hat Atelier tập trung vào việc học và sáng tạo, còn Frieren nói nhiều về thời gian và ký ức."
+      },
+      "image_prompt": "two books side by side, one with a pen and ink cover, the other with a clock and flower cover",
+      "on_screen_text": "Giống Frieren?"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Hỏi: nhân vật nào dễ thương nhất? Đáp: Kaku không dám trả lời, vì sợ bị cả xưởng vẽ giận. Bạn trả lời giúp Kaku ở phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot hiding behind a stack of sketchbooks, peeking out nervously",
+      "use_mascot": true
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Và câu hỏi cuối: có nên đọc manga trước khi xem anime không? Kaku nghĩ nên xem anime trước, để lần đầu nhìn thấy phép thuật chuyển động, rồi đọc manga để ngắm lại từng nét vẽ."
+      },
+      "image_prompt": "a glowing screen and an open manga volume side by side on a desk, ink bottle between them"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Nếu bạn muốn bắt đầu, đây là lộ trình Kaku gợi ý."
+      },
+      "image_prompt": "a winding path map with small flags leading toward a castle",
+      "chapter": "Lộ trình xem cho người mới",
+      "on_screen_text": "Lộ trình xem"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Bước một: xem hai tập đầu của anime. Chúng ra mắt cùng lúc, đủ để bạn biết mình có hợp với nhịp chậm và nét vẽ này hay không."
+      },
+      "image_prompt": "a small screen showing two glowing episode icons side by side",
+      "on_screen_text": "Bước 1: 2 tập đầu"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Bước hai: nếu thích, hãy xem hết mùa một, rồi đọc manga để đi tiếp, vì bản gốc vẫn đang được phát hành."
+      },
+      "image_prompt": "a stack of manga volumes next to a glowing television screen"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Bước ba, tùy chọn: xem lại video này sau khi đã xem vài tập. Bạn sẽ thấy các luật ba lớp xuất hiện trong gần như mọi cảnh phép thuật."
+      },
+      "image_prompt": "the owl mascot pointing at a glowing circle diagram next to a small screen",
+      "use_mascot": true
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Và hãy nhớ, chỉ xem anime qua các nền tảng có bản quyền, để ủng hộ những người đã làm ra nó."
+      },
+      "image_prompt": "a heart-shaped glow over a small film reel and a pen",
+      "on_screen_text": "Xem bản có bản quyền"
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Tóm lại: trong Witch Hat Atelier, phép thuật là hình tròn ba lớp gồm ký hiệu trung tâm, các dấu điều khiển và vòng tròn khép kín, vẽ bằng một loại mực đặc biệt."
+      },
+      "image_prompt": "a summary diagram of a three-layer glowing circle with labels",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s93",
+      "narration": {
+        "vi": "Ai cũng học được, nên cả thế giới phải giữ bí mật. Và một cô bé con nhà thợ may đã vô tình mở cánh cửa đó."
+      },
+      "image_prompt": "a young girl standing before a giant open door filled with swirling glowing circles"
+    },
+    {
+      "id": "s94",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu được vẽ một phép trong thế giới này, bạn sẽ vẽ phép gì? Hãy mô tả ký hiệu và các dấu của bạn ở phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a blank circle template and a pen out toward the viewer",
+      "on_screen_text": "Bạn sẽ vẽ phép gì?",
+      "use_mascot": true
+    },
+    {
+      "id": "s95",
+      "narration": {
+        "vi": "Video tới sẽ đổi hẳn không khí: Kaku sẽ mang thước và máy tính ra để kiểm tra xem kỹ thuật Xoay trong JoJo Steel Ball Run có đúng với khoa học không."
+      },
+      "image_prompt": "a golden spiral drawn over a spinning steel ball, a ruler and calculator beside it",
+      "on_screen_text": "Tiếp theo: Xoay & tỉ lệ vàng"
+    },
+    {
+      "id": "s96",
+      "narration": {
+        "vi": "Nếu thấy video hữu ích, hãy đăng ký kênh để không bỏ lỡ. Kaku cất bút đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot capping its pen and waving goodbye from a sunlit atelier window",
+      "use_mascot": true
+    }
+  ]
+}

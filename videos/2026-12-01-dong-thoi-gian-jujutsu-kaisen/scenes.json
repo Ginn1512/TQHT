@@ -1,0 +1,685 @@
+{
+  "title": "Jujutsu Kaisen: Dòng thời gian 1.000 năm, từ thời Heian đến Shibuya",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Jujutsu Kaisen tới hết arc Shibuya, phim Jujutsu Kaisen số 0, và phần mở đầu Trò chơi tử diệt trong mùa ba."
+      },
+      "image_prompt": "an ancient Japanese capital at night lit by paper lanterns, a modern skyline faintly visible behind it",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới đầu mùa 3"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một đêm năm 2018, ở giữa Tokyo, một kế hoạch được chuẩn bị suốt một nghìn năm bắt đầu vận hành."
+      },
+      "image_prompt": "a crowded modern city street on a festival night, a faint dark dome forming over the skyline",
+      "on_screen_text": "Năm 2018",
+      "video_prompt": "a dark dome slowly forms over the festive skyline as crowds keep walking below, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Để hiểu đêm đó, ta phải quay về rất xa: về thời Heian, khi kinh đô Nhật Bản còn thắp đèn lồng, và thế giới chú thuật ở thời hoàng kim."
+      },
+      "image_prompt": "a lantern-lit wooden palace in an ancient capital, robed figures crossing a bridge under the moon"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku thắp từng chiếc đèn lồng cho mỗi thời đại, và kéo một sợi chỉ đỏ đi xuyên qua tất cả. Sợi chỉ đó là một nhân vật đã sống suốt một nghìn năm."
+      },
+      "image_prompt": "the owl mascot lighting a row of paper lanterns, a red thread running through them",
+      "on_screen_text": "Đèn lồng · Sợi chỉ đỏ",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot lights the last lantern and a red thread glows to life through all of them, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Và vì thời Heian là một thời kỳ có thật trong lịch sử Nhật Bản, Kaku sẽ đặt lịch sử thật và lịch sử trong truyện cạnh nhau, để bạn thấy tác giả đã mượn gì từ đời thật."
+      },
+      "image_prompt": "two parallel timelines on a scroll, one labeled with a history book icon and one with a manga icon",
+      "on_screen_text": "Lịch sử thật · Lịch sử trong truyện"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trước tiên là lịch sử thật. Thời Heian kéo dài từ năm 794 tới khoảng năm 1185. Kinh đô là Heian-kyō, nay là thành phố Kyoto."
+      },
+      "image_prompt": "an aerial view of an ancient grid-planned capital with a grand palace at its northern end",
+      "chapter": "Thời Heian ngoài đời thật",
+      "on_screen_text": "794 – 1185"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Đó là thời kỳ văn hóa cung đình phát triển rực rỡ, với thơ ca, tiểu thuyết và nghi lễ. Nhưng cũng là thời kỳ con người rất sợ ma quỷ và lời nguyền."
+      },
+      "image_prompt": "courtiers writing poetry by candlelight while shadows of spirits lurk outside the paper screens"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Có hẳn những người làm nghề âm dương sư, chuyên xem điềm, trừ tà và tính ngày lành tháng tốt cho triều đình. Họ là hình mẫu ngoài đời gần nhất với chú thuật sư."
+      },
+      "image_prompt": "a robed diviner arranging talismans and a star chart on a low wooden table",
+      "on_screen_text": "Âm dương sư"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Người ta còn tin những người chết oan có thể biến thành oán linh. Một quan đại thần có thật tên là Sugawara no Michizane, sau khi chết trong oan ức, được cho là đã gây ra tai họa, rồi được thờ phụng như vị thần học vấn."
+      },
+      "image_prompt": "an old shrine with plum blossoms, students leaving prayer plaques at the gate",
+      "on_screen_text": "Sugawara no Michizane"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và đây là điểm nối thú vị: trong Jujutsu Kaisen, hai nhân vật mạnh nhất thời hiện đại được nói là hậu duệ xa của chính ông."
+      },
+      "image_prompt": "a family tree growing from an ancient shrine to two modern silhouettes"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Truyện còn mượn nhiều thứ khác từ văn hóa thật, như những vị thần, những câu chuyện ma quỷ dân gian và các nghi lễ cổ. Đó là lý do thế giới chú thuật có cảm giác vừa hư cấu vừa quen thuộc."
+      },
+      "image_prompt": "a collection of old folk art prints of spirits and demons pinned on a wall"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku ghi chú: vậy nên khi truyện nói thời Heian là thời hoàng kim của chú thuật, nó dựa trên một nền văn hóa thật sự rất tin vào lời nguyền."
+      },
+      "image_prompt": "the owl mascot holding a real history book open beside a manga volume",
+      "use_mascot": true
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Giờ sang lịch sử trong truyện. Khoảng một nghìn năm trước, thế giới chú thuật mạnh hơn bây giờ rất nhiều. Chú thuật sư và chú linh đều ở đỉnh cao."
+      },
+      "image_prompt": "a night battle in an ancient capital, bursts of cursed energy lighting up pagodas",
+      "chapter": "Thời Heian trong truyện: thời hoàng kim",
+      "on_screen_text": "~1.000 năm trước"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và kẻ đứng trên đỉnh tất cả là Sukuna, vua nguyền rủa. Như Kaku đã nói trong video mười hiểu lầm, hắn là con người, một chú thuật sư, chứ không phải quỷ."
+      },
+      "image_prompt": "a shadowy figure seated on a throne of ruins, an ancient city burning below",
+      "on_screen_text": "Sukuna"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Các chú thuật sư thời đó hợp sức cũng không đánh bại được hắn. Sau khi hắn chết, hai mươi ngón tay trở thành những chú vật không thể phá hủy, rải rác khắp nơi."
+      },
+      "image_prompt": "twenty sealed wooden boxes scattered across a map of ancient Japan",
+      "on_screen_text": "20 ngón tay"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Hắn có một người hầu trung thành, cũng sống từ thời đó tới tận hiện đại, chờ đợi ngày chủ nhân trở lại."
+      },
+      "image_prompt": "a pale servant figure bowing in the snow outside an ancient gate, centuries passing behind them"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và cũng trong thời Heian, có một chú thuật sư khác bắt đầu một kế hoạch dài nhất lịch sử. Đó là đầu sợi chỉ đỏ của Kaku."
+      },
+      "image_prompt": "a red thread emerging from an ancient lantern and stretching off into the darkness",
+      "on_screen_text": "Đầu sợi chỉ đỏ"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kaku ghi chú: thời Heian trong truyện giống một kỷ nguyên của những quái vật, và hiện tại chỉ là cái bóng yếu hơn của nó. Đó là lý do mọi thứ từ thời Heian đều đáng sợ."
+      },
+      "image_prompt": "the owl mascot holding a small lantern against a looming ancient shadow",
+      "use_mascot": true
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Chiếc đèn lồng tiếp theo thuộc về một nhân vật đặc biệt: Thiên Nguyên, một chú thuật sư đã sống hơn một nghìn năm nhờ một thuật thức bất tử."
+      },
+      "image_prompt": "a mysterious presence behind layered barrier walls deep beneath a temple",
+      "chapter": "Thiên Nguyên và những kết giới",
+      "on_screen_text": "Thiên Nguyên"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Thiên Nguyên duy trì những kết giới bảo vệ khắp Nhật Bản và che giấu các cơ sở của giới chú thuật. Có thể nói, toàn bộ hệ thống chú thuật hiện đại đứng trên vai người này."
+      },
+      "image_prompt": "a map of Japan covered in faint glowing barrier lines connected to a single central point",
+      "on_screen_text": "Kết giới khắp Nhật Bản"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Nhưng bất tử có một cái giá: nếu không làm gì, cơ thể Thiên Nguyên sẽ tiến hóa thành một thứ không còn là con người, và có thể trở nên nguy hiểm."
+      },
+      "image_prompt": "a silhouette slowly transforming into an abstract shape of light, a warning glow around it"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Để ngăn điều đó, cứ khoảng năm trăm năm một lần, Thiên Nguyên phải hợp nhất với một người đặc biệt, gọi là vật chứa Tinh Tương, để làm mới cơ thể."
+      },
+      "image_prompt": "a young girl standing before an ancient gate, a cycle of five hundred years drawn around her",
+      "on_screen_text": "Mỗi 500 năm",
+      "video_prompt": "the five-hundred-year cycle rotates slowly around the girl as petals drift past, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Người được chọn làm vật chứa thường không hề biết cuộc đời mình được định sẵn cho việc đó cho tới khi đủ lớn. Và có những kẻ muốn phá lần hợp nhất ấy vì đủ loại lý do, từ tín ngưỡng tới tiền bạc."
+      },
+      "image_prompt": "a young girl in a school uniform looking at a starry sky, unaware of shadows watching from rooftops"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Kaku ghi chú: hãy nhớ con số năm trăm năm. Vì một trong những lần hợp nhất ấy sẽ bị phá hỏng, và dòng thời gian sẽ rẽ sang một hướng khác."
+      },
+      "image_prompt": "the owl mascot circling the number 500 in red on its notebook",
+      "use_mascot": true
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhảy tới khoảng bốn trăm năm trước, thời Keichō, đầu thời Edo. Chiếc đèn lồng này thắp sáng một trận đấu mà ai cũng nhắc tới."
+      },
+      "image_prompt": "a castle town at the start of a new era, samurai silhouettes in the streets",
+      "chapter": "Khoảng 400 năm trước: hai gia chủ",
+      "on_screen_text": "Thời Keichō"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Trong thế giới chú thuật có ba gia tộc lớn: Gojo, Zenin và Kamo. Họ nắm giữ quyền lực và những thuật thức mạnh nhất, truyền qua nhiều thế hệ."
+      },
+      "image_prompt": "three family crests carved on three great gates of old estates",
+      "on_screen_text": "Ba gia tộc lớn"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Thời đó, gia chủ nhà Gojo, người có cả Lục nhãn lẫn Vô hạ hạn, đấu với gia chủ nhà Zenin, người mang Thập chủng ảnh pháp. Cả hai cùng chết trong trận đấu ấy."
+      },
+      "image_prompt": "two sorcerers striking each other simultaneously in a burning shrine, shadows and light colliding",
+      "on_screen_text": "Cả hai cùng gục ngã"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Trận đấu này được nhắc lại nhiều lần trong truyện, như một bằng chứng rằng thuật thức của Megumi có thể sánh ngang sức mạnh mạnh nhất."
+      },
+      "image_prompt": "a young boy's shadow overlapping with an ancient warrior's shadow on a wall"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Kaku ghi chú: mối thù và sự cạnh tranh giữa các gia tộc kéo dài hàng trăm năm. Nó là một phần lý do vì sao giới chú thuật hiện đại bảo thủ và chia rẽ đến vậy."
+      },
+      "image_prompt": "the owl mascot standing between three quarreling crests, sighing",
+      "use_mascot": true
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Chiếc đèn lồng tiếp theo cháy trong thời Minh Trị, khoảng một trăm rưỡi năm trước, khi Nhật Bản mở cửa và hiện đại hóa."
+      },
+      "image_prompt": "a Meiji-era street with gas lamps, western-style buildings and rickshaws",
+      "chapter": "Thời Minh Trị: chú thuật sư tồi tệ nhất lịch sử",
+      "on_screen_text": "Thời Minh Trị"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Thời đó có một người của nhà Kamo, về sau bị gọi là chú thuật sư tồi tệ nhất lịch sử. Ông ta tiến hành những thí nghiệm khủng khiếp với một người phụ nữ có thể mang thai con của chú linh."
+      },
+      "image_prompt": "a dim laboratory with jars on shelves and a shadowy figure in a Meiji-era coat",
+      "on_screen_text": "Kẻ tồi tệ nhất lịch sử"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kết quả là chín chú vật được gọi là Cửu tướng đồ, những sinh mệnh nửa người nửa chú linh. Một số trong đó sẽ thức tỉnh và xuất hiện ở hiện tại."
+      },
+      "image_prompt": "nine glass jars in a row, faint silhouettes floating inside, numbered with small tags",
+      "on_screen_text": "Cửu tướng đồ"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Và đây là chỗ sợi chỉ đỏ lộ ra: người nhà Kamo đó không thật sự là người nhà Kamo. Cơ thể ông ta đã bị một kẻ khác chiếm lấy."
+      },
+      "image_prompt": "a red thread wrapping around the Meiji-era figure's silhouette, pulling tight"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Kaku ghi chú: một người anh trong số chín sinh mệnh ấy, khi gặp lại kẻ này ở hiện tại, đã nhận ra ngay khuôn mặt của kẻ đã tạo ra mình."
+      },
+      "image_prompt": "the owl mascot looking at an old photograph that seems to look back",
+      "use_mascot": true
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Đã đến lúc gọi tên sợi chỉ đỏ: Kenjaku. Một chú thuật sư từ thời Heian, có thuật thức cho phép chiếm cơ thể người khác bằng cách thay bộ não."
+      },
+      "image_prompt": "a red thread running through lanterns of three different eras, connecting three silhouettes",
+      "chapter": "Sợi chỉ đỏ: Kenjaku",
+      "on_screen_text": "Kenjaku"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Dấu hiệu nhận biết là một đường khâu chạy ngang trán của cơ thể bị chiếm. Nhờ đó, kẻ này sống qua hết thời đại này tới thời đại khác, dưới nhiều khuôn mặt khác nhau."
+      },
+      "image_prompt": "a close-up of a line of stitches across a forehead, softly lit, the face in shadow",
+      "on_screen_text": "Đường khâu trên trán",
+      "video_prompt": "the stitches catch the light as the shadowed face slowly turns, slow push-in close-up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Thời Heian, thời Minh Trị, và ở hiện tại, hắn mang cơ thể của một chú thuật sư đặc cấp đã chết, người bạn thân nhất ngày xưa của người mạnh nhất."
+      },
+      "image_prompt": "three portraits side by side from different eras, each with the same line of stitches"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Mục đích của hắn? Hắn muốn đẩy loài người tới một bước tiến hóa mới bằng chú lực, dù phải hy sinh bao nhiêu mạng sống."
+      },
+      "image_prompt": "a vast crowd silhouetted under a sky filling with cursed energy, a single figure watching from above",
+      "on_screen_text": "Mục đích: tiến hóa"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Điều đáng sợ nhất ở Kenjaku là sự kiên nhẫn. Hắn không vội. Hắn chờ đợi hàng trăm năm, thu thập từng mảnh ghép, và chỉ ra tay khi mọi thứ đã sẵn sàng."
+      },
+      "image_prompt": "a figure calmly placing pieces on a giant board game spanning centuries, candles burning low"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku ghi chú: một nghìn năm, nhiều khuôn mặt, một kế hoạch. Hắn là lý do vì sao dòng thời gian này có một sợi chỉ xuyên suốt."
+      },
+      "image_prompt": "the owl mascot pulling on a long red thread that goes back through many lanterns",
+      "use_mascot": true
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Nhảy tới thời hiện đại. Năm 2006, chiếc đèn lồng thứ năm trăm năm lại được thắp: đã tới lúc Thiên Nguyên hợp nhất với vật chứa Tinh Tương mới."
+      },
+      "image_prompt": "a modern Tokyo skyline in 2006, a single paper lantern glowing on a rooftop",
+      "chapter": "2006: chuyến hộ tống",
+      "on_screen_text": "Năm 2006"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Hai học sinh năm hai của trường chú thuật Tokyo được giao nhiệm vụ hộ tống cô gái làm vật chứa. Hai cậu là bộ đôi mạnh nhất thế hệ, và là bạn thân của nhau."
+      },
+      "image_prompt": "two confident teenage students in dark uniforms walking beside a young schoolgirl",
+      "on_screen_text": "Bộ đôi mạnh nhất"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nhưng một sát thủ không có chú lực, được thuê để giết cô gái, đã phá hỏng tất cả. Cô gái chết, và lần hợp nhất năm trăm năm thất bại."
+      },
+      "image_prompt": "a lone assassin silhouette standing in a dark underground corridor, a dropped school bag nearby",
+      "on_screen_text": "Lần hợp nhất thất bại"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Trong trận chiến đó, một trong hai học sinh suýt chết, rồi thức tỉnh sức mạnh vượt bậc, trở thành người mạnh nhất. Người còn lại bắt đầu nghi ngờ tất cả những gì mình tin."
+      },
+      "image_prompt": "one figure rising with a blinding aura, the other standing in shadow looking at his hands"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Sau lần đó, người học sinh suýt chết ấy trở thành chú thuật sư mà mọi người gọi là mạnh nhất. Người bạn của anh thì mang theo một câu hỏi không lời đáp: bảo vệ những người không có chú lực để làm gì?"
+      },
+      "image_prompt": "a lone student sitting on a rooftop at night, looking down at a busy city of ordinary people"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là điểm rẽ quan trọng nhất của thời hiện đại. Một người trở nên mạnh nhất, một người bắt đầu lạc lối. Và kẻ mang đường khâu trên trán sẽ tận dụng cả hai."
+      },
+      "image_prompt": "the owl mascot looking at a path splitting into two directions",
+      "use_mascot": true
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Năm 2007, người học sinh lạc lối ấy rời bỏ giới chú thuật, sau khi gây ra một vụ thảm sát ở một ngôi làng. Anh tin rằng người không có chú lực là nguồn gốc của mọi chú linh."
+      },
+      "image_prompt": "a lone figure walking away from a quiet mountain village at dawn, smoke rising behind",
+      "chapter": "2007 đến 2017: kẻ phản bội và bách quỷ dạ hành",
+      "on_screen_text": "2007: kẻ phản bội"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Mười năm sau, vào đêm Giáng sinh năm 2017, anh tổ chức một cuộc tấn công lớn gọi là Bách quỷ dạ hành, thả hàng nghìn chú linh xuống Tokyo và Kyoto."
+      },
+      "image_prompt": "a night sky over two cities filled with swarms of shadowy curses, snow falling",
+      "on_screen_text": "2017: Bách quỷ dạ hành"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Đó là câu chuyện của phim Jujutsu Kaisen số 0, với nhân vật chính là một cậu học sinh bị một linh hồn nguyền rủa cực mạnh đi theo."
+      },
+      "image_prompt": "a timid student with a sword case, a massive protective spirit looming behind him",
+      "on_screen_text": "Phim Jujutsu Kaisen 0"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Cuối trận, người bạn thân năm xưa, giờ là người mạnh nhất, tự tay kết liễu kẻ phản bội. Cái chết đó tưởng như khép lại một chương."
+      },
+      "image_prompt": "two old friends facing each other in a snowy alley, one leaning against a wall"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nhưng cơ thể của kẻ phản bội đã không được xử lý đúng cách. Và ai đó, với một đường khâu mới trên trán, đã lấy nó đi."
+      },
+      "image_prompt": "a line of stitches glowing faintly on a forehead in a dark room",
+      "on_screen_text": "Một đường khâu mới"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Năm 2018. Tháng sáu, một học sinh cấp ba bình thường tên là Yuji nuốt một ngón tay của Sukuna để cứu bạn mình, và trở thành vật chứa của vua nguyền rủa."
+      },
+      "image_prompt": "a high school rooftop at night, a teenager holding a small withered finger, friends in danger",
+      "chapter": "2018: năm mọi thứ sụp đổ",
+      "on_screen_text": "Tháng 6/2018"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Cậu được tha án tử với một điều kiện: ăn hết hai mươi ngón tay, rồi chết cùng Sukuna. Đó là khởi đầu của câu chuyện mà ta biết."
+      },
+      "image_prompt": "a contract scroll with twenty small boxes, several already checked off"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Ngày 31 tháng 10 năm 2018, đêm Halloween, ở khu Shibuya, kẻ mang cơ thể của người phản bội thực hiện một bước quan trọng nhất của kế hoạch một nghìn năm."
+      },
+      "image_prompt": "a crowded Halloween night at a famous scramble crossing, a dark barrier sealing the district",
+      "on_screen_text": "31/10/2018: Shibuya",
+      "video_prompt": "the dark barrier descends over the crowded crossing as neon lights flicker, slow crane down",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Người mạnh nhất bị dụ vào một cái bẫy và bị phong ấn trong một chú vật gọi là Ngục môn cương. Không có anh, cán cân quyền lực sụp đổ."
+      },
+      "image_prompt": "a small ornate cube floating in darkness, faint light leaking from its seams",
+      "on_screen_text": "Người mạnh nhất bị phong ấn"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Và Sukuna được giải phóng trong chốc lát giữa Shibuya, gây ra thảm họa khủng khiếp. Đêm đó thay đổi hoàn toàn thế giới chú thuật."
+      },
+      "image_prompt": "a devastated city district at night, fires burning, a lone figure standing amid the ruins"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Trong đêm đó, nhiều nhân vật quan trọng ngã xuống, và những người sống sót không còn là con người cũ. Truyện không cho ai đi qua Shibuya mà không trả giá."
+      },
+      "image_prompt": "a quiet morning after a disaster, survivors sitting among rubble as the sun rises"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku ghi chú: một nghìn năm chuẩn bị, và tất cả dồn vào một đêm lễ hội. Đó là lý do arc Shibuya được xem là một trong những arc hay nhất của truyện."
+      },
+      "image_prompt": "the owl mascot holding a Halloween lantern with a worried expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Sau Shibuya, kẻ mang đường khâu công bố bước tiếp theo: một trò chơi sinh tử trên khắp Nhật Bản, gọi là Trò chơi tử diệt."
+      },
+      "image_prompt": "a map of Japan with several glowing colonies marked by barrier domes",
+      "chapter": "Sau Shibuya: Trò chơi tử diệt",
+      "on_screen_text": "Trò chơi tử diệt"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Hắn đánh thức sức mạnh ở nhiều người, và còn đưa những chú thuật sư từ nhiều thời đại quá khứ trở lại trong cơ thể người hiện đại, buộc tất cả chiến đấu với nhau."
+      },
+      "image_prompt": "ancient warrior silhouettes emerging from modern people like ghosts, standing in a ruined city"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Đây là phần mùa ba của anime, bắt đầu phát từ tháng một năm 2026. Phần tiếp theo sẽ là mùa bốn."
+      },
+      "image_prompt": "a calendar page for January 2026 with a small barrier dome icon",
+      "on_screen_text": "Anime mùa 3: 2026"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Kaku dừng dòng thời gian ở đây để tránh spoiler. Chỉ cần biết: đây là lúc những chiếc đèn lồng từ mọi thời đại bị thắp lên cùng một lúc."
+      },
+      "image_prompt": "all the paper lanterns from every era glowing together in one street",
+      "use_mascot": true
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Trước khi tổng kết, hãy đặt các sự kiện lên bản đồ. Dòng thời gian này không chỉ trải dài theo năm, mà còn trải khắp nước Nhật."
+      },
+      "image_prompt": "a stylized map of Japan with small lantern icons placed on several cities",
+      "chapter": "Bản đồ những nơi quan trọng",
+      "on_screen_text": "Bản đồ"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kyoto, kinh đô thời Heian, là nơi mọi thứ bắt đầu. Ngày nay, ở đó có một trong hai trường chú thuật của Nhật Bản, nổi tiếng bảo thủ và gắn chặt với các gia tộc cũ."
+      },
+      "image_prompt": "a traditional school gate in an old city with temple roofs in the background",
+      "on_screen_text": "Kyoto"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Tokyo có trường chú thuật còn lại, nơi Yuji và bạn bè theo học. Sâu bên dưới trường là nơi ở của Thiên Nguyên, trung tâm của mọi kết giới."
+      },
+      "image_prompt": "a quiet school on a wooded hill with a deep glowing chamber drawn beneath it",
+      "on_screen_text": "Tokyo"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Shibuya, khu phố đông đúc bậc nhất Tokyo, trở thành chiến trường của đêm Halloween năm 2018."
+      },
+      "image_prompt": "a famous busy crossing at night marked with a red lantern on the map"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và sau Shibuya, Trò chơi tử diệt biến nhiều khu vực trên khắp Nhật Bản thành những vùng kết giới khép kín, nơi người chơi buộc phải chiến đấu."
+      },
+      "image_prompt": "several glowing domes scattered across the map, each with a small warning icon",
+      "on_screen_text": "Các vùng kết giới"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: một kế hoạch bắt đầu ở kinh đô cổ, và kết thúc bằng việc biến cả đất nước thành sân chơi. Kenjaku thật sự nghĩ rất xa."
+      },
+      "image_prompt": "the owl mascot stretching a red thread from one end of the map to the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Dòng thời gian của Kaku vẫn còn những khoảng trống. Ở mức spoiler của video này, có vài câu hỏi truyện chưa trả lời trọn vẹn."
+      },
+      "image_prompt": "a lantern-lit scroll with a few gaps where lanterns are missing",
+      "chapter": "Những khoảng trống trên dòng thời gian",
+      "on_screen_text": "Khoảng trống"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Một: Sukuna đã sống thế nào ở thời Heian, và vì sao hắn trở thành con người đáng sợ nhất thời đại? Truyện chỉ hé lộ từng mảnh nhỏ."
+      },
+      "image_prompt": "an empty lantern hook above an ancient ruined throne"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hai: người hầu trung thành của Sukuna thật sự là ai, và vì sao lại trung thành suốt một nghìn năm? Ba: kế hoạch của Kenjaku bắt đầu từ khi nào, và hắn đã chiếm bao nhiêu cơ thể khác mà ta chưa biết?"
+      },
+      "image_prompt": "two question-mark lanterns hanging over a snowy gate and a long red thread"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Bạn nào đã đọc manga tới cuối chắc biết thêm một vài câu trả lời. Nhưng hãy giúp người khác, đừng spoiler trong phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a finger to its beak with a gentle shush",
+      "use_mascot": true
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Tổng kết cả dãy đèn lồng. Thời Heian, khoảng một nghìn năm trước: Sukuna thống trị, Kenjaku bắt đầu kế hoạch, Thiên Nguyên đã tồn tại."
+      },
+      "image_prompt": "the first lanterns lighting up with small icons of a throne, a red thread and a barrier",
+      "chapter": "Toàn bộ dòng thời gian",
+      "on_screen_text": "~1.000 năm trước"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Khoảng bốn trăm năm trước: hai gia chủ Gojo và Zenin cùng gục ngã. Thời Minh Trị: người nhà Kamo bị chiếm xác tạo ra Cửu tướng đồ."
+      },
+      "image_prompt": "the middle lanterns lighting up with two crossed swords and nine small jars",
+      "on_screen_text": "~400 năm · Minh Trị"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "2006: lần hợp nhất năm trăm năm thất bại. 2007: kẻ phản bội rời đi. 2017: Bách quỷ dạ hành."
+      },
+      "image_prompt": "modern lanterns lighting up with a school bag, a lone path and a snowy night",
+      "on_screen_text": "2006 · 2007 · 2017"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "2018: Yuji nuốt ngón tay, sự kiện Shibuya, người mạnh nhất bị phong ấn, và Trò chơi tử diệt bắt đầu."
+      },
+      "image_prompt": "the final lanterns blazing brightly over a modern city",
+      "on_screen_text": "2018"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nhìn cả dãy đèn lồng, Kaku nhận ra một điều: những nhân vật nguy hiểm nhất đều là những kẻ không chịu chết."
+      },
+      "image_prompt": "the owl mascot walking along the line of lanterns, looking at each one carefully",
+      "chapter": "Góc nhìn của Kaku: những kẻ không chịu chết",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Thiên Nguyên sống hơn một nghìn năm nhờ bất tử. Sukuna sống tiếp qua hai mươi ngón tay. Người hầu của hắn chờ đợi suốt nhiều thế kỷ. Kenjaku nhảy từ cơ thể này sang cơ thể khác."
+      },
+      "image_prompt": "four shadowy figures standing apart from each other across a long timeline"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Trong khi đó, những nhân vật chính lại là những người trẻ, biết mình có thể chết bất cứ lúc nào. Truyện luôn nhắc về việc chết sao cho không hối tiếc."
+      },
+      "image_prompt": "a group of young students sitting on school steps at sunset, laughing together"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku nghĩ đó là câu hỏi lớn của Jujutsu Kaisen: sống mãi mà không thay đổi, hay sống ngắn nhưng trọn vẹn? Một bên là những kẻ bám lấy quá khứ, một bên là những người sống cho hiện tại."
+      },
+      "image_prompt": "a withered ancient tree beside a young sapling in bright sunlight"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và có lẽ vì thế mà kẻ thù lớn nhất của truyện không phải một con quái vật, mà là một nghìn năm lịch sử không chịu buông tay."
+      },
+      "image_prompt": "an old red thread finally snapping in the wind, drifting away"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu được sống qua một nghìn năm như Kenjaku, bạn muốn chứng kiến thời đại nào nhất? Viết vào phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding up a lantern with a question mark painted on it",
+      "chapter": "Kết",
+      "on_screen_text": "Bạn muốn sống ở thời nào?",
+      "use_mascot": true
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tới, Kaku mang bảng tuần hoàn và kính bảo hộ ra lần nữa, để kiểm tra những phát minh của Senku trong Dr. Stone có thật sự làm được ngoài đời không."
+      },
+      "image_prompt": "a rustic stone-age laboratory with glass flasks, a periodic table pinned to a wooden wall",
+      "on_screen_text": "Tiếp theo: khoa học Dr. Stone"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Đăng ký kênh để không bỏ lỡ nhé. Kaku thổi tắt từng chiếc đèn lồng đây. Hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot blowing out a paper lantern, a thin trail of smoke rising",
+      "use_mascot": true
+    }
+  ]
+}

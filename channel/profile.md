@@ -58,10 +58,23 @@ Tiêu đề ≤ 60 ký tự, tên anime đặt ở đầu, hứa đúng thứ vi
 
 Thumbnail: 3–5 từ chữ lớn (dòng cuối màu vàng), Kaku hoặc một biểu tượng sức mạnh, nền tối có một điểm sáng. Không dùng art chính thức.
 
-## 8. Phong cách hình ảnh
+## 8. Phong cách hình ảnh: "Sổ tay Kaku"
+
+Nét riêng của kênh: mọi ảnh trông như một trang trong sổ tay của học giả cú. Tranh anime cel-shading, nét sạch; vệt phác thảo mực mờ và vân giấy da ở mép khung; bảng màu cố định gồm bóng navy, điểm sáng vàng hổ phách và **một** điểm nhấn đỏ son (trùng màu khăn Kaku, thumbnail và sơ đồ).
 
 - `STYLE_PROMPT` (chép vào `style_prompt` của `scenes.json`):
-  `Modern anime illustration, cel-shaded with clean line art, cinematic lighting with strong rim light, rich saturated colors, dramatic 16:9 composition, original characters only`
+  `Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only`
+- **Khuôn prompt 6 lớp** (`tools/images.build_prompt`, dùng chung cho Gemini app và API):
+  1. khung 16:9;
+  2. chủ thể và hành động (`image_prompt`), cộng mô tả Kaku nếu cảnh có linh vật;
+  3. cỡ cảnh / góc máy;
+  4. ánh sáng;
+  5. `STYLE_PROMPT`;
+  6. cấm (`GUARD`).
+
+  Lớp 3 và 4 được tự thêm theo nội dung cảnh nếu `image_prompt` chưa ghi. Kịch bản mới nên tự ghi cả hai để kiểm soát tốt hơn.
+- **Negative prompt** (cho model có ô riêng): `images.NEGATIVE`.
+- **Ảnh mẫu Kaku** dùng cho cả kênh: tạo một lần bằng prompt "model sheet", lưu ở `channel/brand/kaku-ref.png`, đính kèm làm ảnh tham chiếu cho mọi cảnh có Kaku.
 - Chữ trên màn hình: font Be Vietnam Pro ExtraBold (`assets/fonts/`), hộp tối bán trong suốt, tối đa 8 từ.
 - Sơ đồ: nền tối, đường trắng, một màu nhấn vàng.
 

@@ -1,0 +1,742 @@
+{
+  "title": "Black Clover: Hồ sơ grimoire ba lá, bốn lá, năm lá và phản ma thuật",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Black Clover tới hết phần anime mùa đầu, một trăm bảy mươi tập, cùng một số chi tiết trong manga. Nếu bạn định xem mùa hai mà chưa xem mùa một, hãy cân nhắc nhé."
+      },
+      "image_prompt": "a massive library door with a clover emblem, slightly ajar, warm light spilling out",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết anime mùa 1"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Ở vương quốc Cỏ Ba Lá, năm mười lăm tuổi, mỗi đứa trẻ bước vào một tòa tháp cổ. Một cuốn sách bay xuống từ trên cao và chọn lấy nó. Cuốn sách đó sẽ đi theo nó suốt cuộc đời."
+      },
+      "image_prompt": "a towering stone library interior with hundreds of books floating in the air, a teenager looking up in awe",
+      "on_screen_text": "Tuổi 15 · tòa tháp · cuốn sách",
+      "video_prompt": "hundreds of books drift in the air and one descends slowly toward the teenager, dust sparkling, slow tilt down",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Những cuốn sách đó gọi là grimoire, sách phép. Và biểu tượng trên bìa, ba lá, bốn lá hay năm lá, nói lên rất nhiều điều về người được chọn."
+      },
+      "image_prompt": "three grimoire covers side by side with glowing three-leaf, four-leaf and five-leaf clover emblems",
+      "on_screen_text": "3 lá · 4 lá · 5 lá"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku, và hôm nay Kaku làm thủ thư. Mỗi chương là một thẻ thư viện, ghi bốn dòng: tên, loại, điểm mạnh, điểm yếu."
+      },
+      "image_prompt": "the owl mascot at a library desk stamping a small index card, round glasses glinting",
+      "on_screen_text": "Thẻ thư viện: Tên · Loại · Mạnh · Yếu",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot stamps the index card and small clover-shaped sparks pop up, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Black Clover mùa hai vừa quay lại từ ngày 3 tháng 10 năm 2026, sau nhiều năm chờ đợi. Đây là lúc tốt nhất để ôn lại toàn bộ hệ thống sách phép."
+      },
+      "image_prompt": "a calendar on a stone wall with October circled, a clover-shaped bookmark hanging from it",
+      "on_screen_text": "Mùa 2: từ 3/10/2026"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Thẻ đầu tiên là chính cuốn grimoire. Tên: sách phép. Loại: vật phẩm gắn với một người duy nhất trong suốt cuộc đời."
+      },
+      "image_prompt": "an index card reading GRIMOIRE with four blank lines, a glowing book resting on top of it",
+      "chapter": "Thẻ số 1: Grimoire",
+      "on_screen_text": "Thẻ 1: Grimoire"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Cách hoạt động: grimoire lưu các phép thuật của chủ nhân. Khi người đó trưởng thành hoặc hiểu mình hơn, những trang mới xuất hiện với phép mới."
+      },
+      "image_prompt": "a floating book whose blank pages fill with glowing script one by one"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Điểm mạnh: nó giúp phép thuật mạnh hơn và ổn định hơn nhiều so với dùng ma lực trần. Trong thế giới này, pháp sư có grimoire mạnh hơn hẳn pháp sư không có."
+      },
+      "image_prompt": "two figures casting spells, one with a book producing a huge stable blast, the other a small flicker",
+      "on_screen_text": "Mạnh: phép ổn định hơn"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Điểm yếu: nếu mất grimoire hoặc bị đánh rơi giữa trận, pháp sư sẽ yếu đi rất nhiều. Và grimoire chỉ nhận đúng một chủ."
+      },
+      "image_prompt": "a grimoire falling from a hand mid-battle, its owner reaching desperately",
+      "on_screen_text": "Yếu: mất sách = mất sức"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: grimoire xuất hiện theo độ tuổi, không theo tài năng. Nghĩa là cơ hội đến với mọi người cùng lúc, nhưng thứ nhận được thì không ai giống ai."
+      },
+      "image_prompt": "the owl mascot lining up small books of different colors on a shelf",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Trước khi tới các loại lá, cần biết nguồn năng lượng. Tên: ma lực. Loại: năng lượng tồn tại trong cơ thể con người và khắp thế giới tự nhiên."
+      },
+      "image_prompt": "an index card reading MANA with a soft blue glow swirling around it",
+      "chapter": "Thẻ số 2: Ma lực",
+      "on_screen_text": "Thẻ 2: Ma lực"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Ở vương quốc này, gần như ai cũng có ma lực. Nông dân dùng nó để làm ruộng, người bán hàng dùng để nấu ăn. Phép thuật là một phần của đời sống thường ngày."
+      },
+      "image_prompt": "a village scene where farmers float water buckets and a baker lights an oven with a small spell"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Mỗi người có một thuộc tính riêng: lửa, nước, gió, ánh sáng, bóng tối, và rất nhiều thuộc tính hiếm như thời gian hay không gian."
+      },
+      "image_prompt": "a ring of glowing elemental symbols around a clover: flame, droplet, swirl, sun, crescent, clock, portal",
+      "on_screen_text": "Mỗi người một thuộc tính"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Điểm mạnh: người có ma lực lớn có thể làm những điều phi thường. Điểm yếu: địa vị trong xã hội gắn chặt với lượng ma lực, và người ít ma lực bị coi thường."
+      },
+      "image_prompt": "a class pyramid: nobles with bright auras on top, commoners with faint glows at the bottom",
+      "on_screen_text": "Ma lực = địa vị"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và rồi có một cậu bé sinh ra với ma lực bằng không. Không phải ít, mà là hoàn toàn không có. Hãy nhớ chi tiết này, vì nó là chìa khóa của thẻ số năm."
+      },
+      "image_prompt": "a small boy standing alone in a crowd of glowing people, no aura at all around him",
+      "on_screen_text": "Ma lực = 0"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Thẻ số ba là loại phổ biến nhất. Tên: grimoire ba lá. Loại: sách phép tiêu chuẩn của vương quốc."
+      },
+      "image_prompt": "an index card reading THREE-LEAF, a green three-leaf clover emblem on a book cover",
+      "chapter": "Thẻ số 3: Grimoire ba lá",
+      "on_screen_text": "Thẻ 3: Ba lá"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Theo truyền thuyết của vương quốc, ba chiếc lá tượng trưng cho ba phẩm chất: sự chân thành, hy vọng, và tình yêu."
+      },
+      "image_prompt": "three glowing leaves each with a small icon: an open hand, a sunrise, and a heart",
+      "on_screen_text": "Chân thành · Hy vọng · Tình yêu"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Điểm mạnh: phần lớn các pháp sư mạnh nhất vương quốc, kể cả nhiều đội trưởng hiệp sĩ ma pháp, đều dùng grimoire ba lá. Ba lá không có nghĩa là yếu."
+      },
+      "image_prompt": "a row of powerful knight silhouettes in capes, each holding a three-leaf grimoire",
+      "on_screen_text": "Ba lá ≠ yếu"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Điểm yếu: không có sức mạnh đặc biệt đi kèm. Mọi thứ phụ thuộc vào ma lực và sự luyện tập của chủ nhân."
+      },
+      "image_prompt": "a figure training alone at night, sweat dripping, a plain three-leaf book beside them"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Kaku ghi chú: truyện rất khéo khi để sức mạnh đến từ con người, không phải từ số lá. Grimoire ba lá là bằng chứng rằng nỗ lực vẫn là con đường chính."
+      },
+      "image_prompt": "the owl mascot holding up a three-leaf clover proudly",
+      "use_mascot": true
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Tên: grimoire bốn lá. Loại: cực hiếm, được xem là dấu hiệu của số mệnh lớn."
+      },
+      "image_prompt": "an index card reading FOUR-LEAF, a radiant four-leaf clover emblem glowing gold",
+      "chapter": "Thẻ số 4: Grimoire bốn lá",
+      "on_screen_text": "Thẻ 4: Bốn lá"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Lá thứ tư tượng trưng cho may mắn. Theo truyền thuyết, pháp vương đầu tiên của vương quốc cũng sở hữu một cuốn grimoire bốn lá."
+      },
+      "image_prompt": "an ancient mural of a crowned figure holding a glowing four-leaf grimoire above a cheering crowd",
+      "on_screen_text": "Lá thứ 4: may mắn"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Trong truyện, Yuno, bạn thân và đối thủ của nhân vật chính, nhận được grimoire bốn lá. Cuốn sách còn thu hút một tinh linh gió đi theo cậu."
+      },
+      "image_prompt": "a calm young mage with a four-leaf grimoire, a tiny wind spirit swirling around his shoulder",
+      "on_screen_text": "Bốn lá + tinh linh gió"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Điểm mạnh: phép thuật mạnh và đa dạng, được giới quý tộc và các hội hiệp sĩ săn đón ngay từ ngày nhận sách."
+      },
+      "image_prompt": "several knight captains reaching out invitations toward a young mage holding a glowing book"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Điểm yếu: áp lực. Mọi người coi người sở hữu là thiên tài được chọn, nên mọi thất bại đều bị soi xét gấp đôi."
+      },
+      "image_prompt": "a young mage standing under a spotlight while dozens of eyes watch from the dark",
+      "on_screen_text": "Yếu: áp lực kỳ vọng"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku ghi chú: có một ý thú vị. Bốn lá là may mắn, nhưng Yuno lại là người luyện tập chăm chỉ nhất truyện. May mắn chỉ là điểm xuất phát."
+      },
+      "image_prompt": "the owl mascot jogging with a tiny four-leaf clover pinned to its scarf",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Và giờ là thẻ bí ẩn nhất. Tên: grimoire năm lá. Loại: truyền thuyết đen tối, gần như không ai muốn nhận."
+      },
+      "image_prompt": "an index card reading FIVE-LEAF, stained and torn at the edges, a black five-leaf clover emblem",
+      "chapter": "Thẻ số 5: Grimoire năm lá",
+      "on_screen_text": "Thẻ 5: Năm lá"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Theo truyền thuyết, lá thứ năm là nơi trú ngụ của ác quỷ. Người sở hữu grimoire năm lá được cho là mang theo một ác quỷ bên mình."
+      },
+      "image_prompt": "a dark grimoire with a shadowy horned silhouette faintly visible inside the fifth leaf",
+      "on_screen_text": "Lá thứ 5: ác quỷ trú ngụ"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Nhân vật chính Asta, cậu bé không có ma lực, ban đầu không nhận được sách. Sau đó một cuốn sách cũ nát, phủ đầy bụi, tự tìm đến cậu. Trên bìa là cỏ năm lá màu đen."
+      },
+      "image_prompt": "a dusty tattered black grimoire drifting down toward a determined boy in a dark alley",
+      "on_screen_text": "Cuốn sách tự tìm đến",
+      "video_prompt": "the tattered black grimoire drifts down through the alley and opens by itself, black mist spilling out, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Điểm mạnh: thay vì chứa phép, cuốn sách chứa những thanh kiếm, và một sức mạnh gọi là phản ma thuật, thứ ta sẽ mở ở thẻ tiếp theo."
+      },
+      "image_prompt": "a massive black sword emerging from the pages of a tattered grimoire"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Điểm yếu: mang tiếng xấu. Và về sau, truyện cho thấy trong cuốn sách của Asta thực sự có một ác quỷ. Vì sao nó ở đó và muốn gì là một trong những bí ẩn lớn của bộ truyện."
+      },
+      "image_prompt": "a boy looking at his grimoire as a pair of red eyes open inside the fifth leaf",
+      "on_screen_text": "Có ác quỷ thật"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kaku ghi chú: năm lá là sự đảo ngược của bốn lá. Một bên là may mắn trời cho, một bên là lời nguyền. Và truyện đặt hai cuốn sách đó vào tay hai người bạn lớn lên cùng nhau."
+      },
+      "image_prompt": "two boys back to back, one holding a glowing four-leaf book, the other a black five-leaf book",
+      "use_mascot": true
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Tên: phản ma thuật. Loại: sức mạnh vô hiệu hóa ma thuật, cực kỳ hiếm trong thế giới này."
+      },
+      "image_prompt": "an index card reading ANTI-MAGIC, black mist curling off its edges",
+      "chapter": "Thẻ số 6: Phản ma thuật",
+      "on_screen_text": "Thẻ 6: Phản ma thuật"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Phản ma thuật không tạo ra phép. Nó xóa phép. Một đòn chém có phản ma thuật có thể cắt đôi quả cầu lửa, phá vỡ lá chắn phép, hay vô hiệu hóa lời nguyền."
+      },
+      "image_prompt": "a black blade slicing a giant fireball in half, the flames dissolving into black mist",
+      "video_prompt": "the black blade sweeps through the fireball and the flames dissolve into black mist, slow motion side angle",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Và đây là điều trùng hợp tuyệt vời: sức mạnh này hợp nhất với một người không có chút ma lực nào, vì chính cơ thể cậu không bị nó bài xích."
+      },
+      "image_prompt": "a boy with no aura calmly holding a sword wreathed in black mist, while mages nearby flinch away",
+      "on_screen_text": "Hợp với người ma lực = 0"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Điểm mạnh: gần như là khắc tinh của mọi pháp sư. Trong một thế giới nơi ai cũng dùng phép, người phá được phép là mối đe dọa lớn nhất."
+      },
+      "image_prompt": "a row of spell circles shattering one after another as a black blade sweeps through them",
+      "on_screen_text": "Mạnh: khắc tinh pháp sư"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Điểm yếu: Asta không dùng được phép thường. Không bay được, không chữa thương được, không bắn từ xa được như người khác. Mọi thứ phải bù bằng cơ thể và kiếm."
+      },
+      "image_prompt": "a boy running across rooftops while other mages fly overhead on brooms",
+      "on_screen_text": "Yếu: không có phép thường"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là thiết kế thông minh. Nhân vật yếu nhất theo luật của thế giới lại có sức mạnh phá chính cái luật đó."
+      },
+      "image_prompt": "the owl mascot cutting a rulebook in half with tiny scissors",
+      "use_mascot": true
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Tên: các thanh kiếm của grimoire năm lá. Loại: vũ khí chứa phản ma thuật, mỗi thanh có một công dụng riêng."
+      },
+      "image_prompt": "an index card reading SWORDS with three sword silhouettes drawn on it",
+      "chapter": "Thẻ số 7: Những thanh kiếm",
+      "on_screen_text": "Thẻ 7: Các thanh kiếm"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Thanh thứ nhất là Kiếm Diệt Quỷ: to, nặng, trông như một tấm sắt khổng lồ. Nó chém tan phép thuật chạm vào lưỡi kiếm. Asta phải luyện cơ bắp cả đời mới vung nổi nó."
+      },
+      "image_prompt": "a huge heavy black sword like a slab of iron, a muscular boy swinging it with effort",
+      "on_screen_text": "Kiếm Diệt Quỷ"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Thanh thứ hai là Kiếm Trú Quỷ: mảnh hơn, có thể hấp thụ phép thuật của đối thủ rồi phóng trả lại bằng một nhát chém."
+      },
+      "image_prompt": "a slimmer black sword absorbing a stream of light, then releasing it as a glowing slash",
+      "on_screen_text": "Kiếm Trú Quỷ"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Thanh thứ ba là Kiếm Hủy Quỷ: có thể hóa giải những hiệu ứng phép đang tác động lên người hay vật, như gỡ bỏ một phép đang trói buộc ai đó."
+      },
+      "image_prompt": "a black sword touching glowing chains around a figure, the chains dissolving into mist",
+      "on_screen_text": "Kiếm Hủy Quỷ"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Điểm mạnh: ba thanh kiếm cho Asta ba cách đối phó phép thuật: chém tan, hấp thụ và hóa giải. Điểm yếu: đều là vũ khí cận chiến, phải lao vào gần mới dùng được."
+      },
+      "image_prompt": "three swords arranged in a fan with small icons: slash, absorb, dispel"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Về sau Asta còn có thêm vũ khí khác, nhưng Kaku dừng ở ba thanh này để tránh spoiler mùa hai."
+      },
+      "image_prompt": "the owl mascot putting a cloth over a fourth sword shape on a rack",
+      "use_mascot": true
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Tên: Dạng Đen. Loại: trạng thái khi phản ma thuật từ cuốn sách bao phủ cơ thể Asta."
+      },
+      "image_prompt": "an index card reading BLACK FORM, a jagged black wing sketched in the corner",
+      "chapter": "Thẻ số 8: Dạng Đen",
+      "on_screen_text": "Thẻ 8: Dạng Đen"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Khi dùng, một bên tay Asta phủ màu đen, trên lưng mọc ra một cánh đen lởm chởm, và tốc độ lẫn sức mạnh tăng vọt."
+      },
+      "image_prompt": "a boy with one arm covered in black, a single tattered black wing on his back, black mist swirling",
+      "on_screen_text": "Cánh đen · tay đen",
+      "video_prompt": "black mist crawls up the arm and a jagged black wing unfolds from the back, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Điểm mạnh: Asta có thể di chuyển nhanh và chém mạnh hơn nhiều lần, đủ để đối đầu những đối thủ vượt xa mình."
+      },
+      "image_prompt": "a black-winged figure dashing with speed lines past a stunned opponent"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Điểm yếu: ban đầu thời gian duy trì rất ngắn và cơ thể kiệt sức nhanh. Còn việc sức mạnh đến từ ác quỷ khiến người khác lo sợ, nghi ngờ cậu."
+      },
+      "image_prompt": "a boy collapsing to one knee, the black mist fading, onlookers watching with suspicion",
+      "on_screen_text": "Yếu: ngắn + bị nghi ngờ"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku ghi chú: Dạng Đen là lần đầu truyện nói thẳng rằng sức mạnh của Asta có một cái giá. Mạnh hơn, nhưng bị nhìn bằng ánh mắt khác."
+      },
+      "image_prompt": "the owl mascot with one wing dipped in black ink, looking at it thoughtfully",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Tên: các hội hiệp sĩ ma pháp. Loại: lực lượng bảo vệ vương quốc, chia thành chín hội, mỗi hội có đội trưởng và màu áo choàng riêng."
+      },
+      "image_prompt": "an index card reading MAGIC KNIGHTS, nine small cape icons in different colors",
+      "chapter": "Thẻ số 9: Các hội hiệp sĩ ma pháp",
+      "on_screen_text": "Thẻ 9: 9 hội hiệp sĩ"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Mỗi năm, những người đã có grimoire tham gia kỳ thi tuyển. Các đội trưởng quan sát và giơ tay chọn người mình muốn."
+      },
+      "image_prompt": "an arena where candidates show their spells while nine captains watch from a high balcony",
+      "on_screen_text": "Kỳ thi tuyển"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Asta được hội Bò Tót Đen nhận, hội bị coi là tệ nhất, gồm toàn những người lập dị. Yuno vào hội Bình Minh Vàng, hội được đánh giá cao nhất."
+      },
+      "image_prompt": "a messy rowdy hideout with a black bull emblem on one side, a pristine golden hall on the other",
+      "on_screen_text": "Bò Tót Đen vs Bình Minh Vàng"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Điểm mạnh của hệ thống: người tài có đường tiến thân, kể cả thường dân. Điểm yếu: định kiến về xuất thân vẫn ảnh hưởng tới việc ai được chọn và ai được thăng tiến."
+      },
+      "image_prompt": "a ladder with some rungs glowing for nobles and others cracked for commoners"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Trên đỉnh tất cả là pháp vương, người mạnh nhất và là biểu tượng của vương quốc. Và cả Asta lẫn Yuno đều có chung một ước mơ: trở thành pháp vương."
+      },
+      "image_prompt": "a tall throne-like seat atop a tower above the clouds, two small figures climbing toward it",
+      "on_screen_text": "Mục tiêu: pháp vương"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Tên: khí. Loại: kỹ năng không dùng ma lực, bắt nguồn từ một đất nước ở phương Đông."
+      },
+      "image_prompt": "an index card reading KI, a faint white outline of a person drawn on it",
+      "chapter": "Thẻ số 10: Khí",
+      "on_screen_text": "Thẻ 10: Khí"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Khí là khả năng cảm nhận sự hiện diện và ý định của sinh vật sống, giống như đọc được chuyển động của đối thủ trước khi chúng xảy ra."
+      },
+      "image_prompt": "a figure with eyes closed sensing faint white outlines of hidden enemies around a forest",
+      "on_screen_text": "Cảm nhận ý định"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Vì Asta không có ma lực, cậu không cảm nhận được phép như người khác. Đội trưởng của hội Bò Tót Đen dạy cậu cách đọc khí để bù lại điểm yếu đó."
+      },
+      "image_prompt": "a tall captain with a sword over his shoulder teaching a young knight to close his eyes and feel",
+      "on_screen_text": "Cách Asta bù điểm yếu"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Điểm mạnh: đọc được đòn tấn công kể cả khi không nhìn thấy, và không bị phép ẩn thân đánh lừa. Điểm yếu: cần luyện tập rất lâu, và đối thủ không có ý định rõ ràng thì khó đọc hơn."
+      },
+      "image_prompt": "a boy dodging an invisible attack with eyes closed, a faint white silhouette revealing the attacker"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là chi tiết Kaku thích. Người không có phép không chờ phép đến với mình, mà tìm một con đường khác hoàn toàn."
+      },
+      "image_prompt": "the owl mascot meditating with eyes closed while tiny white outlines of butterflies flutter around",
+      "use_mascot": true
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Tên: tinh linh. Loại: những thực thể mang sức mạnh của tự nhiên, chỉ chọn những người đặc biệt để đi theo."
+      },
+      "image_prompt": "an index card reading SPIRITS with four tiny elemental symbols in the corners",
+      "chapter": "Thẻ số 11: Tinh linh",
+      "on_screen_text": "Thẻ 11: Tinh linh"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Truyện nhắc tới bốn tinh linh lớn gắn với bốn nguyên tố: gió, lửa, nước và đất."
+      },
+      "image_prompt": "four small glowing spirit silhouettes: a swirl of wind, a flame, a droplet, and a stone",
+      "on_screen_text": "Gió · Lửa · Nước · Đất"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Tinh linh gió là tinh linh đi theo Yuno, và giúp phép gió của cậu mạnh hơn rất nhiều khi cả hai hợp sức."
+      },
+      "image_prompt": "a young mage surrounded by a storm of wind, a small spirit glowing at the center of the vortex"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Điểm mạnh: người được tinh linh chọn có thể đạt đến những dạng sức mạnh vượt xa pháp sư thường. Điểm yếu: tinh linh có ý chí riêng, không phải công cụ muốn dùng lúc nào cũng được."
+      },
+      "image_prompt": "a spirit turning its back on a demanding mage, crossing its tiny arms",
+      "on_screen_text": "Tinh linh có ý chí riêng"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku ghi chú: tinh linh và ác quỷ là hai mặt đối lập. Một bên đi cùng người được tự nhiên chọn, bên kia trú trong cuốn sách của cậu bé bị cả thế giới gạt ra ngoài."
+      },
+      "image_prompt": "a glowing wind spirit and a shadowy horned silhouette facing each other across a clover",
+      "use_mascot": true
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Trước khi chơi trò chơi, Kaku muốn gỡ ba hiểu lầm rất hay gặp về grimoire."
+      },
+      "image_prompt": "three sticky notes pinned to a library board, each with a red question mark",
+      "chapter": "Ba hiểu lầm về số lá",
+      "on_screen_text": "3 hiểu lầm"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Hiểu lầm một: càng nhiều lá càng mạnh. Không đúng. Rất nhiều nhân vật mạnh nhất truyện dùng sách ba lá. Số lá nói về loại sức mạnh, không nói về độ mạnh."
+      },
+      "image_prompt": "a three-leaf book beating a four-leaf book in an arm wrestling match, a small crowd cheering",
+      "on_screen_text": "1. Nhiều lá ≠ mạnh hơn"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Hiểu lầm hai: năm lá nghĩa là người xấu. Cũng không đúng. Asta là một trong những người tốt bụng nhất truyện. Cuốn sách mang tiếng xấu, nhưng người cầm nó thì không."
+      },
+      "image_prompt": "a boy with a black grimoire helping a crying child stand up in a village street",
+      "on_screen_text": "2. Năm lá ≠ người xấu"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Hiểu lầm ba: cuốn sách quyết định bạn dùng phép gì. Thực ra thuộc tính phép thuộc về chính con người. Grimoire giống một cuốn sổ ghi lại và khuếch đại những gì người đó vốn có."
+      },
+      "image_prompt": "a mage's hand glowing with fire before touching the book, the book then filling with fire spells",
+      "on_screen_text": "3. Phép thuộc về người"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku ghi chú: cả ba hiểu lầm đều chung một gốc: tin rằng thứ bên ngoài quyết định giá trị con người. Và đó chính là điều Black Clover muốn phản bác."
+      },
+      "image_prompt": "the owl mascot crossing out three notes with a big red marker, looking satisfied",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Giờ tới trò chơi của thủ thư Kaku: nếu bạn bước vào tòa tháp hôm nay, cuốn sách nào sẽ chọn bạn? Chỉ để vui thôi nhé."
+      },
+      "image_prompt": "the owl mascot pointing at a floating stack of books with a question mark",
+      "chapter": "Nếu bạn nhận grimoire hôm nay",
+      "on_screen_text": "Sách nào chọn bạn?",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nếu bạn chăm chỉ, sống chân thành và đặt người khác lên trước, cuốn ba lá là của bạn. Đó cũng là cuốn của hầu hết những người mạnh nhất."
+      },
+      "image_prompt": "a warm glowing three-leaf book floating down toward an outstretched hand",
+      "on_screen_text": "Ba lá"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nếu bạn luôn thấy mình có vận may kỳ lạ và thích tự đặt mục tiêu thật cao, có khi lá thứ tư đang chờ bạn."
+      },
+      "image_prompt": "a four-leaf book shining through a stained glass window onto a surprised reader",
+      "on_screen_text": "Bốn lá"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Còn nếu cả thế giới bảo bạn không làm được, và bạn vẫn không bỏ cuộc, thì có lẽ một cuốn sách năm lá đầy bụi đang tìm đường đến với bạn."
+      },
+      "image_prompt": "a dusty black book drifting through an empty hall toward a lone determined silhouette",
+      "on_screen_text": "Năm lá"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku thì chắc chắn nhận được một cuốn sổ ghi chép. Không có phép, nhưng ghi được mọi thứ."
+      },
+      "image_prompt": "the owl mascot hugging a plain notebook happily while fancy grimoires float past",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nhìn lại toàn bộ hồ sơ, Kaku thấy Black Clover kể một câu chuyện rất rõ ràng qua hệ thống grimoire."
+      },
+      "image_prompt": "the owl mascot sitting on a ladder in the library, looking over a wall of filing cards",
+      "chapter": "Góc nhìn của Kaku: sức mạnh của người không có gì",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Thế giới này đo giá trị con người bằng ma lực và số lá trên bìa sách. Người sinh ra có nhiều thì được tôn trọng, người sinh ra có ít thì bị coi thường."
+      },
+      "image_prompt": "a crowd sorting people by the brightness of their auras, dim figures pushed to the side"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Asta là câu trả lời ngược lại. Cậu không có ma lực, nhận cuốn sách bị nguyền rủa, vào hội bị coi thường nhất. Mọi chỉ số đều nói cậu sẽ thất bại."
+      },
+      "image_prompt": "a boy standing at the bottom of a towering chart where every bar is empty for him"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Nhưng chính vì không có gì, cậu mới dùng được thứ sức mạnh xóa bỏ các luật cũ. Truyện đang nói rằng hệ thống xếp hạng con người không phải lúc nào cũng đúng."
+      },
+      "image_prompt": "a black sword cutting through a giant ranking chart, pieces falling like paper"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Đó là lý do câu cửa miệng của Asta, không bao giờ bỏ cuộc, nghe có vẻ đơn giản nhưng lại hợp với cả hệ thống sức mạnh đến vậy."
+      },
+      "image_prompt": "a battered boy standing up again in the rain, sword planted in the ground",
+      "on_screen_text": "Không bao giờ bỏ cuộc"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn chuẩn bị xem mùa hai, đây là vài điều nên nhớ."
+      },
+      "image_prompt": "a checklist pinned to a library board with three items",
+      "chapter": "Mùa hai: cần nhớ gì?",
+      "on_screen_text": "Chuẩn bị cho mùa 2"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Một: mùa hai do Studio Pierrot thực hiện, có hai mươi bốn tập, phát trên Crunchyroll song song với Nhật Bản."
+      },
+      "image_prompt": "a small screen with a clover emblem and a counter showing 24 episodes",
+      "on_screen_text": "24 tập"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Hai: mối quan hệ giữa Asta và ác quỷ trong cuốn sách của cậu sẽ ngày càng quan trọng. Hãy để ý mỗi lần cuốn sách phản ứng."
+      },
+      "image_prompt": "a black grimoire trembling on a table, faint red light leaking from its pages"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Ba: thẻ số sáu về phản ma thuật chưa phải là tất cả. Luật của nó sẽ còn được mở rộng, và có thể bạn sẽ muốn quay lại xem video này để so sánh."
+      },
+      "image_prompt": "the owl mascot adding a blank card to the ANTI-MAGIC file, marked with a question mark",
+      "use_mascot": true
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Đóng hồ sơ lại, đây là mục lục của thủ thư Kaku."
+      },
+      "image_prompt": "a neatly organized card catalog drawer being pulled open",
+      "chapter": "Mục lục hồ sơ",
+      "on_screen_text": "Mục lục"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Grimoire là cuốn sách phép nhận năm mười lăm tuổi. Ma lực là năng lượng của mọi người và cũng là thước đo địa vị."
+      },
+      "image_prompt": "two index cards lit up: GRIMOIRE and MANA"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Ba lá là chân thành, hy vọng, tình yêu. Bốn lá là may mắn. Năm lá là nơi ác quỷ trú ngụ."
+      },
+      "image_prompt": "three index cards lit up with three-leaf, four-leaf and five-leaf emblems"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Phản ma thuật xóa phép, đi qua ba thanh kiếm và Dạng Đen, trong tay cậu bé không có chút ma lực nào."
+      },
+      "image_prompt": "index cards for ANTI-MAGIC, SWORDS and BLACK FORM lit up in black and silver"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu được chọn, bạn muốn nhận cuốn sách mấy lá, và thuộc tính phép của bạn là gì? Viết vào phần bình luận để Kaku lập thẻ cho bạn nhé."
+      },
+      "image_prompt": "the owl mascot holding a blank index card and a quill toward the viewer",
+      "on_screen_text": "Sách của bạn mấy lá?",
+      "use_mascot": true
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Video tới, Kaku rời thư viện để làm việc khác: gỡ mười hiểu lầm mà rất nhiều người vẫn tin về Jujutsu Kaisen."
+      },
+      "image_prompt": "a notice board with ten pinned notes, several crossed out in red",
+      "on_screen_text": "Tiếp theo: 10 hiểu lầm JJK"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Đăng ký kênh để thẻ thư viện của bạn luôn được gia hạn. Thủ thư Kaku đóng cửa đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot turning off a desk lamp and waving from a quiet library",
+      "use_mascot": true
+    }
+  ]
+}

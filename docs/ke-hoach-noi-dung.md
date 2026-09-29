@@ -8,36 +8,36 @@
 
 | # | Ngày dự kiến | Tiêu đề làm việc | Dạng | Cảnh | Phút | USD (không clip) | Cảnh đinh | Thư mục |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 2026-09-28 | Hunter x Hunter: Nen hoạt động thế nào? | A · Giải thích hệ thống | 104 | 16.2 | 3.6 | 6 | `videos/2026-09-28-nen-hunter-x-hunter/` |
-| 2 | 2026-10-01 | Jujutsu Kaisen: Bành trướng lãnh địa hoạt động thế nào? | B · Luật chơi và cách phá | 93 | 15.5 | 3.3 | 5 | `videos/2026-10-01-lanh-dia-jujutsu-kaisen/` |
-| 3 | 2026-10-03 | Frieren: Ma thuật hoạt động thế nào? Vì sao Zoltraak thành phép phổ thông | C · Lịch sử / tiến hóa | 96 | 15.7 | 3.4 | 4 | `videos/2026-10-03-ma-thuat-frieren/` |
-| 4 | 2026-10-06 | One Piece: Haki hoạt động thế nào? 3 loại và bí mật bá vương | A · Giải thích hệ thống | 96 | 15.8 | 3.4 | 5 | `videos/2026-10-06-haki-one-piece/` |
-| 5 | 2026-10-08 | Kimetsu no Yaiba: Cây phả hệ các kiểu Hơi thở | D · Cây phả hệ | 94 | 15.3 | 3.3 | 5 | `videos/2026-10-08-cay-pha-he-hoi-tho-kimetsu/` |
-| 6 | 2026-10-10 | One Piece: Hồ sơ trái ác quỷ — 3 loại, thức tỉnh và bí mật của Luffy | E · Hồ sơ bách khoa | 94 | 15.6 | 3.3 | 5 | `videos/2026-10-10-trai-ac-quy-one-piece/` |
-| 7 | 2026-10-13 | Solo Leveling: Hệ thống cấp bậc thợ săn và cổng hoạt động thế nào? | F · Bảng chỉ số kiểu game | 98 | 15.8 | 3.4 | 5 | `videos/2026-10-13-cap-bac-tho-san-solo-leveling/` |
-| 8 | 2026-10-15 | Naruto: Sharingan tiến hóa thế nào? Từ 1 tomoe đến Rinnegan | G · Bậc thang tiến hóa | 95 | 15.4 | 3.3 | 5 | `videos/2026-10-15-sharingan-tien-hoa-naruto/` |
-| 9 | 2026-10-17 | Chainsaw Man: Luật ác quỷ và nỗi sợ hoạt động thế nào? | B · Luật chơi và cách phá | 98 | 15.7 | 3.4 | 5 | `videos/2026-10-17-ac-quy-noi-so-chainsaw-man/` |
-| 10 | 2026-10-20 | Chakra vs Nen vs Chú lực: Hệ thống sức mạnh nào chặt chẽ nhất? | I · So sánh chéo có chấm điểm | 93 | 15.4 | 3.3 | 4 | `videos/2026-10-20-chakra-nen-chu-luc-so-sanh/` |
-| 11 | 2026-10-22 | Dragon Ball: Xếp hạng các dạng Super Saiyan theo sức mạnh và cái giá | J · Xếp hạng có tiêu chí | 96 | 15.9 | 3.4 | 5 | `videos/2026-10-22-xep-hang-super-saiyan/` |
-| 12 | 2026-11-03 | Witch Hat Atelier: Nhập môn thế giới nơi phép thuật được vẽ ra | Q · Nhập môn | 96 | 15.9 | 3.4 | 5 | `videos/2026-11-03-nhap-mon-witch-hat-atelier/` |
-| 13 | 2026-11-07 | JoJo Steel Ball Run: Kỹ thuật Xoay và tỉ lệ vàng — khoa học có thật không? | P · Khoa học trong anime | 86 | 15.6 | 3.0 | 5 | `videos/2026-11-07-khoa-hoc-xoay-steel-ball-run/` |
-| 14 | 2026-11-10 | Black Clover: Hồ sơ grimoire ba lá, bốn lá, năm lá và phản ma thuật | E · Hồ sơ bách khoa | 90 | 15.5 | 3.2 | 5 | `videos/2026-11-10-ho-so-grimoire-black-clover/` |
-| 15 | 2026-11-14 | Jujutsu Kaisen: 10 hiểu lầm mà gần như ai cũng từng tin | K · Gỡ hiểu lầm | 90 | 15.6 | 3.2 | 5 | `videos/2026-11-14-10-hieu-lam-jujutsu-kaisen/` |
-| 16 | 2026-11-17 | Dandadan: Nếu bạn sống trong thế giới có cả ma lẫn người ngoài hành tinh | L · Thử nghiệm "nếu… thì" | 86 | 15.7 | 3.0 | 5 | `videos/2026-11-17-neu-ban-song-trong-dandadan/` |
-| 17 | 2026-11-21 | Kaiju No. 8: Bảng chỉ số — tỉ lệ giải phóng sức mạnh và chỉ số quái thú | F · Bảng chỉ số kiểu game | 89 | 15.7 | 3.1 | 5 | `videos/2026-11-21-bang-chi-so-kaiju-no-8/` |
-| 18 | 2026-11-24 | Bleach: Từ thanh kiếm không tên đến Bankai | G · Bậc thang tiến hóa | 84 | 15.7 | 3.0 | 5 | `videos/2026-11-24-shikai-bankai-bleach/` |
-| 19 | 2026-11-28 | One Piece: Dòng thời gian 800 năm và bí ẩn Thế kỷ trống | O · Dòng thời gian | 86 | 15.5 | 3.0 | 5 | `videos/2026-11-28-dong-thoi-gian-800-nam-one-piece/` |
-| 20 | 2026-12-01 | Hunter x Hunter: Điều tra bí ẩn Lục địa Đen | N · Điều tra bí ẩn | 87 | 15.8 | 3.1 | 5 | `videos/2026-12-01-bi-an-luc-dia-den-hunter-x-hunter/` |
-| 21 | 2026-12-05 | Kimetsu no Yaiba: Phân tích chiến thuật trận Tanjiro vs Rui | M · Phân tích trận đấu | 89 | 16.0 | 3.1 | 5 | `videos/2026-12-05-phan-tich-tran-tanjiro-rui/` |
-| 22 | 2026-12-08 | Attack on Titan: 9 chi tiết cài cắm có từ tập đầu tiên | R · Cài cắm và chi tiết ẩn | 84 | 15.6 | 3.0 | 5 | `videos/2026-12-08-cai-cam-attack-on-titan/` |
-| 23 | 2026-12-12 | Naruto: 10 hiểu lầm mà fan lâu năm vẫn tin | K · Gỡ hiểu lầm | 92 | 15.9 | 3.2 | 5 | `videos/2026-12-12-10-hieu-lam-naruto/` |
-| 24 | 2026-12-15 | Dragon Ball: Nếu bạn tập một năm trong Phòng Thời Gian Tinh Thần | L · Thử nghiệm "nếu… thì" | 83 | 15.7 | 2.9 | 5 | `videos/2026-12-15-phong-thoi-gian-tinh-than-dragon-ball/` |
-| 25 | 2026-12-19 | Jujutsu Kaisen: Dòng thời gian 1.000 năm, từ thời Heian đến Shibuya | O · Dòng thời gian | 84 | 15.9 | 3.0 | 5 | `videos/2026-12-19-dong-thoi-gian-jujutsu-kaisen/` |
-| 26 | 2026-12-22 | Dr. Stone: Phát minh nào của Senku làm được ngoài đời thật? | P · Khoa học trong anime | 86 | 15.9 | 3.0 | 5 | `videos/2026-12-22-khoa-hoc-that-dr-stone/` |
-| 27 | 2026-12-26 | Dược sư tự sự: Nhập môn thế giới hậu cung, thuốc và độc | Q · Nhập môn | 86 | 15.7 | 3.0 | 5 | `videos/2026-12-26-nhap-mon-duoc-su-tu-su/` |
-| 28 | 2026-12-29 | JoJo: Lịch sử sức mạnh từ Hamon đến Stand | C · Lịch sử / tiến hóa | 83 | 15.7 | 2.9 | 5 | `videos/2026-12-29-lich-su-hamon-stand-jojo/` |
-| 29 | 2027-01-02 | Naruto: Cây phả hệ Otsutsuki, Uchiha, Senju và Uzumaki | D · Cây phả hệ | 90 | 15.6 | 3.2 | 5 | `videos/2027-01-02-cay-pha-he-naruto/` |
-| 30 | 2027-01-05 | Frieren vs Black Clover vs Witch Hat Atelier: Hệ phép thuật nào hay nhất? | I · So sánh chéo có chấm điểm | 92 | 15.8 | 3.2 | 5 | `videos/2027-01-05-so-sanh-ma-thuat-3-the-gioi/` |
+| 1 | 2026-10-06 | Hunter x Hunter: Nen hoạt động thế nào? | A · Giải thích hệ thống | 104 | 16.2 | 3.6 | 6 | `videos/2026-10-06-nen-hunter-x-hunter/` |
+| 2 | 2026-10-08 | Jujutsu Kaisen: Bành trướng lãnh địa hoạt động thế nào? | B · Luật chơi và cách phá | 93 | 15.5 | 3.3 | 5 | `videos/2026-10-08-lanh-dia-jujutsu-kaisen/` |
+| 3 | 2026-10-10 | Frieren: Ma thuật hoạt động thế nào? Vì sao Zoltraak thành phép phổ thông | C · Lịch sử / tiến hóa | 96 | 15.7 | 3.4 | 4 | `videos/2026-10-10-ma-thuat-frieren/` |
+| 4 | 2026-10-13 | One Piece: Haki hoạt động thế nào? 3 loại và bí mật bá vương | A · Giải thích hệ thống | 96 | 15.8 | 3.4 | 5 | `videos/2026-10-13-haki-one-piece/` |
+| 5 | 2026-10-15 | Kimetsu no Yaiba: Cây phả hệ các kiểu Hơi thở | D · Cây phả hệ | 94 | 15.3 | 3.3 | 5 | `videos/2026-10-15-cay-pha-he-hoi-tho-kimetsu/` |
+| 6 | 2026-10-17 | One Piece: Hồ sơ trái ác quỷ — 3 loại, thức tỉnh và bí mật của Luffy | E · Hồ sơ bách khoa | 94 | 15.6 | 3.3 | 5 | `videos/2026-10-17-trai-ac-quy-one-piece/` |
+| 7 | 2026-10-20 | Solo Leveling: Hệ thống cấp bậc thợ săn và cổng hoạt động thế nào? | F · Bảng chỉ số kiểu game | 98 | 15.8 | 3.4 | 5 | `videos/2026-10-20-cap-bac-tho-san-solo-leveling/` |
+| 8 | 2026-10-22 | Naruto: Sharingan tiến hóa thế nào? Từ 1 tomoe đến Rinnegan | G · Bậc thang tiến hóa | 95 | 15.4 | 3.3 | 5 | `videos/2026-10-22-sharingan-tien-hoa-naruto/` |
+| 9 | 2026-10-24 | Chainsaw Man: Luật ác quỷ và nỗi sợ hoạt động thế nào? | B · Luật chơi và cách phá | 98 | 15.7 | 3.4 | 5 | `videos/2026-10-24-ac-quy-noi-so-chainsaw-man/` |
+| 10 | 2026-10-27 | Chakra vs Nen vs Chú lực: Hệ thống sức mạnh nào chặt chẽ nhất? | I · So sánh chéo có chấm điểm | 93 | 15.4 | 3.3 | 4 | `videos/2026-10-27-chakra-nen-chu-luc-so-sanh/` |
+| 11 | 2026-10-29 | Dragon Ball: Xếp hạng các dạng Super Saiyan theo sức mạnh và cái giá | J · Xếp hạng có tiêu chí | 96 | 15.9 | 3.4 | 5 | `videos/2026-10-29-xep-hang-super-saiyan/` |
+| 12 | 2026-10-31 | Witch Hat Atelier: Nhập môn thế giới nơi phép thuật được vẽ ra | Q · Nhập môn | 96 | 15.9 | 3.4 | 5 | `videos/2026-10-31-nhap-mon-witch-hat-atelier/` |
+| 13 | 2026-11-03 | JoJo Steel Ball Run: Kỹ thuật Xoay và tỉ lệ vàng — khoa học có thật không? | P · Khoa học trong anime | 86 | 15.6 | 3.0 | 5 | `videos/2026-11-03-khoa-hoc-xoay-steel-ball-run/` |
+| 14 | 2026-11-05 | Black Clover: Hồ sơ grimoire ba lá, bốn lá, năm lá và phản ma thuật | E · Hồ sơ bách khoa | 90 | 15.5 | 3.2 | 5 | `videos/2026-11-05-ho-so-grimoire-black-clover/` |
+| 15 | 2026-11-07 | Jujutsu Kaisen: 10 hiểu lầm mà gần như ai cũng từng tin | K · Gỡ hiểu lầm | 90 | 15.6 | 3.2 | 5 | `videos/2026-11-07-10-hieu-lam-jujutsu-kaisen/` |
+| 16 | 2026-11-10 | Dandadan: Nếu bạn sống trong thế giới có cả ma lẫn người ngoài hành tinh | L · Thử nghiệm "nếu… thì" | 86 | 15.7 | 3.0 | 5 | `videos/2026-11-10-neu-ban-song-trong-dandadan/` |
+| 17 | 2026-11-12 | Kaiju No. 8: Bảng chỉ số — tỉ lệ giải phóng sức mạnh và chỉ số quái thú | F · Bảng chỉ số kiểu game | 89 | 15.7 | 3.1 | 5 | `videos/2026-11-12-bang-chi-so-kaiju-no-8/` |
+| 18 | 2026-11-14 | Bleach: Từ thanh kiếm không tên đến Bankai | G · Bậc thang tiến hóa | 84 | 15.7 | 3.0 | 5 | `videos/2026-11-14-shikai-bankai-bleach/` |
+| 19 | 2026-11-17 | One Piece: Dòng thời gian 800 năm và bí ẩn Thế kỷ trống | O · Dòng thời gian | 86 | 15.5 | 3.0 | 5 | `videos/2026-11-17-dong-thoi-gian-800-nam-one-piece/` |
+| 20 | 2026-11-19 | Hunter x Hunter: Điều tra bí ẩn Lục địa Đen | N · Điều tra bí ẩn | 87 | 15.8 | 3.1 | 5 | `videos/2026-11-19-bi-an-luc-dia-den-hunter-x-hunter/` |
+| 21 | 2026-11-21 | Kimetsu no Yaiba: Phân tích chiến thuật trận Tanjiro vs Rui | M · Phân tích trận đấu | 89 | 16.0 | 3.1 | 5 | `videos/2026-11-21-phan-tich-tran-tanjiro-rui/` |
+| 22 | 2026-11-24 | Attack on Titan: 9 chi tiết cài cắm có từ tập đầu tiên | R · Cài cắm và chi tiết ẩn | 84 | 15.6 | 3.0 | 5 | `videos/2026-11-24-cai-cam-attack-on-titan/` |
+| 23 | 2026-11-26 | Naruto: 10 hiểu lầm mà fan lâu năm vẫn tin | K · Gỡ hiểu lầm | 92 | 15.9 | 3.2 | 5 | `videos/2026-11-26-10-hieu-lam-naruto/` |
+| 24 | 2026-11-28 | Dragon Ball: Nếu bạn tập một năm trong Phòng Thời Gian Tinh Thần | L · Thử nghiệm "nếu… thì" | 83 | 15.7 | 2.9 | 5 | `videos/2026-11-28-phong-thoi-gian-tinh-than-dragon-ball/` |
+| 25 | 2026-12-01 | Jujutsu Kaisen: Dòng thời gian 1.000 năm, từ thời Heian đến Shibuya | O · Dòng thời gian | 84 | 15.9 | 3.0 | 5 | `videos/2026-12-01-dong-thoi-gian-jujutsu-kaisen/` |
+| 26 | 2026-12-03 | Dr. Stone: Phát minh nào của Senku làm được ngoài đời thật? | P · Khoa học trong anime | 86 | 15.9 | 3.0 | 5 | `videos/2026-12-03-khoa-hoc-that-dr-stone/` |
+| 27 | 2026-12-05 | Dược sư tự sự: Nhập môn thế giới hậu cung, thuốc và độc | Q · Nhập môn | 86 | 15.7 | 3.0 | 5 | `videos/2026-12-05-nhap-mon-duoc-su-tu-su/` |
+| 28 | 2026-12-08 | JoJo: Lịch sử sức mạnh từ Hamon đến Stand | C · Lịch sử / tiến hóa | 83 | 15.7 | 2.9 | 5 | `videos/2026-12-08-lich-su-hamon-stand-jojo/` |
+| 29 | 2026-12-10 | Naruto: Cây phả hệ Otsutsuki, Uchiha, Senju và Uzumaki | D · Cây phả hệ | 90 | 15.6 | 3.2 | 5 | `videos/2026-12-10-cay-pha-he-naruto/` |
+| 30 | 2026-12-12 | Frieren vs Black Clover vs Witch Hat Atelier: Hệ phép thuật nào hay nhất? | I · So sánh chéo có chấm điểm | 92 | 15.8 | 3.2 | 5 | `videos/2026-12-12-so-sanh-ma-thuat-3-the-gioi/` |
 
 Kiểm tra tự động:
 

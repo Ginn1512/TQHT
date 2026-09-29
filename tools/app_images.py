@@ -19,31 +19,27 @@ from PIL import Image
 
 from tools import config, costs, images, scenes
 
-# Gemini app không có tuỳ chọn tỉ lệ khung hình như API, nên ghi rõ trong prompt.
-ASPECT_PREFIX = "Wide 16:9 landscape image."
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".webp"}
 PAGE_TEMPLATE = config.ROOT / "tools" / "templates" / "xuong-anh.html"
 
 
 def mascot_reference_prompt(board: scenes.Storyboard) -> str:
-    """Prompt tạo ảnh mẫu linh vật, dùng làm ảnh tham chiếu cho mọi cảnh có linh vật."""
+    """Prompt tạo ảnh mẫu linh vật (dùng cho cả kênh), làm ảnh tham chiếu cho mọi cảnh có linh vật."""
     return (
-        f"Character reference sheet on a plain light background, full body, front view: {board.mascot_prompt}. "
-        f"{board.style_prompt}. {images.GUARD}"
+        f"{images.ASPECT_PREFIX} Character model sheet of the channel mascot on a plain warm parchment background: "
+        f"front view, three-quarter view and side view, full body, identical proportions and colors in every view: "
+        f"{board.mascot_prompt}. Even soft studio lighting. {board.style_prompt}. {images.GUARD}."
     )
 
 
 def export(board: scenes.Storyboard) -> dict:
+    """Prompt ảnh cho mọi công cụ: Gemini app lúc làm tay, API hay model khác sau này (kèm negative)."""
     return {
         "title": board.title,
         "mascot_reference": mascot_reference_prompt(board),
+        "negative": images.NEGATIVE,
         "scenes": [
-            {
-                "id": s.id,
-                "chapter": s.chapter,
-                "mascot": s.use_mascot,
-                "prompt": f"{ASPECT_PREFIX} {images.build_prompt(board, s)}",
-            }
+            {"id": s.id, "chapter": s.chapter, "mascot": s.use_mascot, "prompt": images.build_prompt(board, s)}
             for s in board.scenes
         ],
     }

@@ -1,0 +1,755 @@
+{
+  "title": "Kimetsu no Yaiba: Cây phả hệ các kiểu Hơi thở",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Kimetsu no Yaiba đến hết bộ truyện, gồm cả arc Vô Hạn Thành. Nếu bạn chỉ xem anime, hãy cân nhắc trước khi xem tiếp nhé."
+      },
+      "image_prompt": "a dark wooden dojo with a single katana resting on a stand, moonlight through paper doors",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Trong Kimetsu no Yaiba, con người nhỏ bé chống lại những con quỷ bất tử. Vũ khí của họ không chỉ là thanh kiếm, mà là hơi thở."
+      },
+      "image_prompt": "a small swordsman silhouette facing a towering demon shadow on a moonlit mountain path"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nước, lửa, sấm, gió, đá, hoa, côn trùng, âm thanh, tình yêu... Có rất nhiều kiểu hơi thở. Nhưng chúng không xuất hiện ngẫu nhiên."
+      },
+      "image_prompt": "a circle of swirling elemental energies: water, flame, lightning, wind, stone, petals, and sound waves",
+      "on_screen_text": "Rất nhiều kiểu hơi thở"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Tất cả đều bắt nguồn từ một hơi thở duy nhất, và có thể vẽ thành một cây phả hệ giống như cây gia phả của một dòng họ."
+      },
+      "image_prompt": "a giant glowing tree whose roots are a single sun and whose branches are different elements",
+      "on_screen_text": "Cây phả hệ hơi thở",
+      "video_prompt": "the tree grows from a glowing sun root, branches spreading and igniting in different elements one by one, slow tilt up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình sẽ vẽ cây phả hệ hơi thở: gốc rễ ở đâu, các nhánh tách ra thế nào, và cái giá của sức mạnh vượt giới hạn."
+      },
+      "image_prompt": "the owl mascot opening a glowing notebook where a small tree diagram grows from the pages",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot opens the notebook and a tiny glowing tree sprouts from the pages, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Xem hết video, bạn sẽ biết vì sao gần như tất cả các kiểu hơi thở đều là phiên bản đơn giản hóa của một kỹ thuật mà không ai học được trọn vẹn."
+      },
+      "image_prompt": "the owl mascot pointing at a golden sun at the top of a chalkboard family tree",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước hết, hơi thở trong truyện là gì? Đó là kỹ thuật thở đặc biệt giúp đưa thật nhiều oxy vào máu, tăng sức mạnh và tốc độ vượt xa người thường."
+      },
+      "image_prompt": "an anatomical style illustration of lungs glowing with light, energy flowing through blood vessels",
+      "chapter": "Hơi thở là gì?",
+      "on_screen_text": "Hơi thở = oxy vào máu"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhờ hơi thở, một con người có thể chạy nhanh, chém mạnh và chịu đựng vết thương đủ để đối đầu với quỷ, loài có sức mạnh và khả năng hồi phục phi thường."
+      },
+      "image_prompt": "a swordsman silhouette leaping impossibly high over a demon, breath visible as a glowing mist"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Cấp độ cao hơn là duy trì hơi thở toàn tập liên tục, kể cả khi ngủ. Người làm được điều này có sức bền tăng vượt trội."
+      },
+      "image_prompt": "a sleeping figure on a futon, faint rhythmic glow of breath around them in the dark",
+      "on_screen_text": "Thở liên tục 24/7"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Luyện hơi thở cực khổ. Học viên phải chạy núi, chịu đựng, tập thở đến mức phổi như muốn nổ tung, trong nhiều tháng liền."
+      },
+      "image_prompt": "a young trainee running up a misty mountain path at dawn, exhausted but determined"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Mỗi kiểu hơi thở đi kèm một bộ thế kiếm, thường gọi là thức. Mỗi thức là một cách tận dụng hơi thở theo phong cách của nguyên tố đó."
+      },
+      "image_prompt": "a sequence of sword stances drawn like a martial arts manual, each with a flowing elemental trail"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Và thanh kiếm Nhật Luân của mỗi kiếm sĩ đổi màu theo người cầm. Màu kiếm gợi ý kiểu hơi thở phù hợp với họ."
+      },
+      "image_prompt": "a row of katanas with blades in different colors: blue, red, yellow, green, grey, pink",
+      "on_screen_text": "Kiếm đổi màu"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Kaku ghi chú: hơi thở giống như phong cách võ thuật. Cùng một nền tảng thể lực, nhưng mỗi môn phái có cách ra đòn riêng."
+      },
+      "image_prompt": "the owl mascot practicing a tiny sword pose with a wooden stick, breathing out a small cloud",
+      "use_mascot": true
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Để thấy hơi thở quan trọng thế nào, cần hiểu đối thủ. Quỷ trong truyện khỏe hơn người rất nhiều, và gần như không thể bị giết bằng cách thông thường."
+      },
+      "image_prompt": "a demon silhouette regenerating a severed arm in seconds under moonlight",
+      "chapter": "Đối thủ: vì sao phải có hơi thở?",
+      "on_screen_text": "Quỷ gần như bất tử"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Quỷ hồi phục vết thương gần như ngay lập tức. Chặt tay thì tay mọc lại, đâm xuyên thì vết thương liền. Chúng chỉ có hai điểm yếu lớn."
+      },
+      "image_prompt": "a diagram of a demon body with glowing regeneration lines closing wounds"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Điểm yếu thứ nhất là ánh mặt trời. Quỷ tan biến khi bị ánh nắng chiếu trực tiếp. Vì vậy chúng chỉ hoạt động vào ban đêm."
+      },
+      "image_prompt": "a demon silhouette crumbling into ash as the first rays of sunrise hit it",
+      "on_screen_text": "Điểm yếu 1: mặt trời"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Điểm yếu thứ hai là bị chém đứt đầu bằng kiếm Nhật Luân, loại kiếm rèn từ quặng hấp thụ ánh mặt trời."
+      },
+      "image_prompt": "a blacksmith forging a glowing blade from sun-bathed ore on a mountain forge",
+      "on_screen_text": "Điểm yếu 2: kiếm Nhật Luân"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Nhưng cổ của quỷ mạnh cứng như thép. Không có hơi thở, con người không đủ sức và tốc độ để chém đứt nó."
+      },
+      "image_prompt": "a sword striking a demon's neck and stopping with sparks, the swordsman straining"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Nhiều con quỷ còn có Huyết quỷ thuật, năng lực đặc biệt riêng như điều khiển chỉ, tạo ảo ảnh, hay thao túng không gian. Cuộc chiến vì thế càng không cân sức."
+      },
+      "image_prompt": "a demon manipulating razor-sharp threads glowing red across a dark forest",
+      "on_screen_text": "Huyết quỷ thuật"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Hơi thở chính là cây cầu giúp con người vượt qua khoảng cách đó: đủ nhanh để né, đủ mạnh để chém, đủ bền để trụ tới bình minh."
+      },
+      "image_prompt": "a lone swordsman standing between a demon and the rising sun, blade ready"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Để học được hơi thở, một người bình thường phải đi qua con đường rất dài. Truyện cho ta thấy khá rõ con đường đó qua hành trình của Tanjiro."
+      },
+      "image_prompt": "a long mountain path winding through mist, a small traveler with a box on his back walking upward",
+      "chapter": "Con đường trở thành kiếm sĩ",
+      "on_screen_text": "Con đường kiếm sĩ"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Bước đầu là tìm một người thầy. Thường đó là một kiếm sĩ đã giải nghệ, sống ẩn trong núi và chỉ nhận vài học trò."
+      },
+      "image_prompt": "an old masked mentor silhouette standing outside a small hut on a misty mountain"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Việc luyện tập kéo dài nhiều tháng tới nhiều năm: chạy núi trong không khí loãng, né bẫy, tập chém, tập thở cho tới khi cơ thể quen."
+      },
+      "image_prompt": "a trainee running through a forest full of swinging log traps at dawn"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Có những bài kiểm tra tưởng như không thể, như chém đôi một tảng đá khổng lồ. Chỉ khi vượt qua, người thầy mới cho phép học trò đi tiếp."
+      },
+      "image_prompt": "a young swordsman standing before a massive boulder, blade raised, determined",
+      "on_screen_text": "Chém đôi tảng đá"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Bước tiếp theo là Kỳ tuyển chọn cuối cùng: sống sót bảy ngày trên một ngọn núi đầy quỷ, được bao quanh bởi hoa tử đằng mà quỷ sợ."
+      },
+      "image_prompt": "a mountain ringed with blooming purple wisteria at night, shadows of demons inside",
+      "on_screen_text": "Sống sót 7 ngày"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Chỉ ai sống sót mới được vào Sát Quỷ Đoàn, nhận kiếm Nhật Luân và một con quạ đưa tin. Nhiều người không bao giờ trở về từ ngọn núi đó."
+      },
+      "image_prompt": "a crow perched on a newly forged sword resting on a stone, morning light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Và vào đoàn mới chỉ là khởi đầu. Kiếm sĩ phải tiếp tục luyện, từ cấp thấp nhất, trải qua hàng loạt trận chiến để leo lên."
+      },
+      "image_prompt": "a line of new recruits in dark uniforms looking up at a long staircase leading into clouds"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kaku nhận xét: đây là lý do người xem trân trọng mỗi lần một nhân vật mạnh lên. Mọi bước tiến đều được xây bằng mồ hôi, không phải may mắn."
+      },
+      "image_prompt": "the owl mascot wiping sweat from its brow after climbing a tiny hill",
+      "use_mascot": true
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Ở gốc cây phả hệ là Hơi thở Mặt Trời, hơi thở đầu tiên. Nó được tạo ra bởi một kiếm sĩ huyền thoại từ nhiều thế kỷ trước: Tsugikuni Yoriichi."
+      },
+      "image_prompt": "a lone swordsman silhouette from a past era standing before a rising sun, earring charms swaying",
+      "chapter": "Gốc rễ: Hơi thở Mặt Trời",
+      "on_screen_text": "Hơi thở Mặt Trời"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Yoriichi được miêu tả là người mạnh nhất trong lịch sử diệt quỷ. Ông sinh ra đã có những khả năng mà người khác phải cả đời mới chạm tới."
+      },
+      "image_prompt": "an ancient scroll painting of a calm swordsman surrounded by fallen demon shadows"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Ông dạy kỹ thuật thở cho những kiếm sĩ khác. Nhưng không ai học được Hơi thở Mặt Trời trọn vẹn như ông."
+      },
+      "image_prompt": "a group of old-era swordsmen silhouettes watching a single master perform a flowing sun technique"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Vì thế, mỗi người học lấy phần mà họ làm được, rồi kết hợp với phong cách riêng. Từ đó sinh ra năm hơi thở cơ bản."
+      },
+      "image_prompt": "a sun splitting into five beams of different colors, each beam landing on a different swordsman",
+      "on_screen_text": "Mặt Trời tách thành 5 nhánh"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Đây là ý tưởng rất hay: tất cả những hơi thở ta biết đều là phiên bản rút gọn của một kỹ thuật hoàn hảo đã gần như thất truyền."
+      },
+      "image_prompt": "a perfect golden circle fragmenting into smaller imperfect colored arcs"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Năm hơi thở cơ bản, nhánh lớn của cây, là: Nước, Lửa, Sấm, Gió và Đá. Mỗi nhánh có tính cách riêng."
+      },
+      "image_prompt": "a family tree diagram with five thick branches, each branch colored by its element",
+      "chapter": "5 nhánh chính",
+      "on_screen_text": "Nước · Lửa · Sấm · Gió · Đá"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Hơi thở Nước mềm mại và linh hoạt. Thức kiếm như dòng chảy, thích nghi với mọi loại đối thủ. Đây là hơi thở dễ học và phổ biến nhất."
+      },
+      "image_prompt": "a flowing water dragon spiraling around a swordsman's blade in a forest river",
+      "on_screen_text": "Nước: linh hoạt",
+      "video_prompt": "a water dragon spirals around the blade and crashes into the river, spray in slow motion, orbit camera",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Hơi thở Lửa mạnh mẽ, dồn lực tấn công trực diện. Nó hợp với người có ý chí rực cháy và dám xông thẳng vào đối thủ."
+      },
+      "image_prompt": "a blazing flame arc trailing behind a charging sword strike at night",
+      "on_screen_text": "Lửa: tấn công trực diện"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Hơi thở Sấm tập trung vào tốc độ, dồn lực vào chân để lao đi như tia chớp. Có người chỉ học được đúng một thức, nhưng luyện nó tới mức hoàn hảo."
+      },
+      "image_prompt": "a streak of yellow lightning across a dark field, a crouched swordsman at its origin",
+      "on_screen_text": "Sấm: tốc độ"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Hơi thở Gió dữ dội, những nhát chém như lốc xoáy. Nó hợp với người hung hăng, liều lĩnh."
+      },
+      "image_prompt": "a violent whirlwind of sharp green wind blades tearing through leaves around a swordsman",
+      "on_screen_text": "Gió: dữ dội"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Hơi thở Đá dựa vào sức mạnh thể chất khổng lồ và phòng thủ vững chắc. Người dùng mạnh nhất trong truyện được xem là thể lực số một."
+      },
+      "image_prompt": "a giant stone-like figure silhouette swinging a spiked flail and axe connected by a chain",
+      "on_screen_text": "Đá: sức mạnh thô"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Mỗi nhánh này lại tiếp tục mọc ra những nhánh con khi các kiếm sĩ đời sau cải biên cho hợp với bản thân."
+      },
+      "image_prompt": "the family tree growing smaller glowing twigs from each main branch, like a time-lapse"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Giờ đi xuống các nhánh con. Từ Nước sinh ra Hơi thở Hoa, mềm mại và đẹp, tập trung vào sự chính xác."
+      },
+      "image_prompt": "cherry blossom petals swirling around a graceful sword arc, flowing from a water stream",
+      "chapter": "Các nhánh con",
+      "on_screen_text": "Nước → Hoa"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Từ Hoa lại sinh ra Hơi thở Côn trùng, dành cho người không đủ sức để chém đứt đầu quỷ. Thay vào đó, họ dùng mũi kiếm tẩm độc."
+      },
+      "image_prompt": "a delicate needle-like blade with a butterfly motif, a drop of glowing poison at the tip",
+      "on_screen_text": "Hoa → Côn trùng"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Đây là ví dụ đẹp về việc hệ thống thích nghi: người yếu về sức vẫn tìm ra cách đánh bại quỷ bằng trí tuệ và y học."
+      },
+      "image_prompt": "a small figure in a plain long coat studying vials in a candlelit clinic, silhouette only"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Cũng từ Nước sinh ra Hơi thở Rắn, với những đường kiếm uốn lượn khó đoán như rắn trườn."
+      },
+      "image_prompt": "a sinuous serpent-shaped sword trail winding between trees in a dark forest",
+      "on_screen_text": "Nước → Rắn"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Từ Lửa sinh ra Hơi thở Tình yêu, dùng một thanh kiếm mỏng dẻo như roi, kết hợp sự linh hoạt đặc biệt của cơ thể người dùng."
+      },
+      "image_prompt": "a thin whip-like pink blade curling through the air in elegant spirals",
+      "on_screen_text": "Lửa → Tình yêu"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Từ Sấm sinh ra Hơi thở Âm thanh, kết hợp tiếng nổ và nhịp điệu. Người dùng đọc nhịp chiến đấu như đọc một bản nhạc."
+      },
+      "image_prompt": "twin cleavers connected by a chain with small explosions like musical notes bursting around them",
+      "on_screen_text": "Sấm → Âm thanh"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Từ Gió sinh ra Hơi thở Sương mù, khó đoán, lúc ẩn lúc hiện, làm đối thủ không bắt được hướng tấn công."
+      },
+      "image_prompt": "a swordsman fading in and out of a thick mist, only the glint of a blade visible",
+      "on_screen_text": "Gió → Sương mù"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Và có một hơi thở tự học: Hơi thở Thú, do một người lớn lên trong núi tự sáng tạo, với lối đánh hoang dã bằng hai lưỡi kiếm răng cưa."
+      },
+      "image_prompt": "a wild figure wearing a boar-like mask silhouette crouching with two jagged blades in a mountain forest",
+      "on_screen_text": "Hơi thở Thú (tự học)"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku tóm lại: cây phả hệ cho thấy mỗi hơi thở mới ra đời để phù hợp với cơ thể và tính cách của một người. Không ai bắt chước hoàn toàn người đi trước."
+      },
+      "image_prompt": "the owl mascot adding a small new twig to a glowing family tree with a brush",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Những người thành thạo hơi thở nhất trong Sát Quỷ Đoàn được gọi là Trụ cột. Mỗi Trụ cột thường đại diện cho một kiểu hơi thở."
+      },
+      "image_prompt": "nine swordsman silhouettes standing on pillars of different colors in a misty garden",
+      "chapter": "Trụ cột: những bậc thầy hơi thở",
+      "on_screen_text": "Trụ cột"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Sát Quỷ Đoàn có hệ thống cấp bậc từ thấp tới cao. Trụ cột đứng ở đỉnh, ngay dưới người đứng đầu tổ chức."
+      },
+      "image_prompt": "a vertical rank ladder with ten small emblems and a crowned tier at the top"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Theo truyện, để trở thành Trụ cột, kiếm sĩ phải tiêu diệt khoảng năm mươi con quỷ, hoặc hạ một trong Thập Nhị Quỷ Nguyệt."
+      },
+      "image_prompt": "a tally of fifty small marks on a wooden wall next to a single crescent moon symbol",
+      "on_screen_text": "Điều kiện: 50 quỷ hoặc 1 Nguyệt"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Mỗi Trụ cột có tính cách gắn với hơi thở của họ: người dùng Lửa nhiệt huyết, người dùng Nước điềm tĩnh, người dùng Gió nóng nảy."
+      },
+      "image_prompt": "a split portrait of three silhouettes: one with blazing flames, one calm with water, one fierce with wind"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Điều này quay lại ý chính của video: hơi thở không chỉ là kỹ thuật, nó là con người. Người ta tìm ra hơi thở phản ánh chính mình."
+      },
+      "image_prompt": "a mirror reflecting a swordsman as a swirl of their own elemental energy"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku ghi chú: đây giống thuyết tính cách của Nen mà mình từng nhắc. Nhiều bộ truyện đều có chung ý: sức mạnh nói lên bạn là ai."
+      },
+      "image_prompt": "the owl mascot holding two small cards, one with a hexagon and one with a flame",
+      "use_mascot": true
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Cây phả hệ này còn một nhánh mà ít ai nhắc tới vì nó thuộc về kẻ thù: Hơi thở Mặt Trăng."
+      },
+      "image_prompt": "a pale crescent moon casting cold light over a dark branch of the family tree",
+      "chapter": "Nhánh bóng tối: Hơi thở Mặt Trăng",
+      "on_screen_text": "Hơi thở Mặt Trăng"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Nó được tạo ra bởi anh trai song sinh của Yoriichi. Người này không thể đạt tới Hơi thở Mặt Trời, nên tạo ra một phiên bản mang dấu ấn riêng."
+      },
+      "image_prompt": "two sibling silhouettes back to back, one bathed in sunlight, one in moonlight"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Vì khao khát sức mạnh và nỗi sợ cái chết, anh ta đã trở thành quỷ, và sau này là một trong những con quỷ mạnh nhất."
+      },
+      "image_prompt": "a samurai silhouette with multiple glowing eyes standing under a blood-red moon"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hơi thở Mặt Trăng tạo ra những nhát chém có vô số lưỡi trăng nhỏ đi kèm, rất khó đỡ vì chúng thay đổi kích thước và hướng."
+      },
+      "image_prompt": "a sword slash surrounded by countless small crescent-shaped blades scattering unpredictably"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Đây là nhánh bi kịch nhất của cây phả hệ: cùng một gốc, nhưng một người trở thành huyền thoại, người kia trở thành con quỷ vì ghen tị."
+      },
+      "image_prompt": "a single tree splitting into a bright golden branch and a withered pale branch"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Nếu Hơi thở Mặt Trời không ai học được, sao nó vẫn còn tồn tại? Câu trả lời nằm ở một điệu múa."
+      },
+      "image_prompt": "a family performing a ritual fire dance on a snowy mountain at night, torches glowing",
+      "chapter": "Hơi thở Mặt Trời không thất truyền",
+      "on_screen_text": "Điệu múa Thần Lửa"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Gia đình Kamado truyền lại một điệu múa cầu thần qua nhiều thế hệ, múa suốt đêm vào mỗi dịp đầu năm, cùng đôi hoa tai hình mặt trời."
+      },
+      "image_prompt": "a pair of hanafuda-style sun earrings on a wooden table beside a torch, snow falling outside",
+      "video_prompt": "embers rise from the torch as the dancers spin in the snow, camera slowly pushes in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Điệu múa đó thực chất chính là các thế của Hơi thở Mặt Trời, được giữ gìn dưới dạng nghi lễ, không ai biết đó là kỹ thuật chiến đấu."
+      },
+      "image_prompt": "a dance diagram where each graceful movement overlaps with a glowing sword slash"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Tanjiro nhớ lại điệu múa của cha mình trong lúc sinh tử, và dần dần đánh thức lại kỹ thuật tưởng như đã mất."
+      },
+      "image_prompt": "a young swordsman silhouette remembering a fire dance, flames blooming around his blade"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kaku rất thích chi tiết này: kỹ thuật mạnh nhất không được cất trong sách bí truyền, mà được giữ bởi một gia đình bình thường qua tình yêu và thói quen."
+      },
+      "image_prompt": "the owl mascot holding a small torch respectfully in a snowy night",
+      "use_mascot": true
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Ở cuối truyện, các kiếm sĩ mạnh nhất phải vượt qua giới hạn con người để đối đầu với những con quỷ hùng mạnh. Có ba dạng vượt giới hạn."
+      },
+      "image_prompt": "three glowing symbols: a flame-shaped mark, a transparent human outline, and a red-hot blade",
+      "chapter": "Vượt giới hạn: Ấn, Thế giới trong suốt và kiếm đỏ",
+      "on_screen_text": "3 cách vượt giới hạn"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Thứ nhất là Ấn, một hình vẽ xuất hiện trên cơ thể khi kiếm sĩ đạt trạng thái đặc biệt. Người có Ấn tăng sức mạnh vượt trội."
+      },
+      "image_prompt": "a flame-like glowing mark appearing across a swordsman's forehead and neck",
+      "on_screen_text": "Ấn"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Truyện cho biết Ấn xuất hiện khi thân nhiệt vượt khoảng ba mươi chín độ và nhịp tim vượt khoảng hai trăm lần mỗi phút."
+      },
+      "image_prompt": "a medical style chart with a thermometer and a heart rate line spiking dramatically",
+      "on_screen_text": "Thân nhiệt ≥ 39°C · Nhịp tim ≥ 200"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nhưng Ấn có cái giá khủng khiếp: theo truyện, người có Ấn sẽ không sống quá hai mươi lăm tuổi. Chỉ duy nhất Yoriichi là ngoại lệ."
+      },
+      "image_prompt": "an hourglass with glowing sand draining quickly beside a young swordsman silhouette",
+      "on_screen_text": "Cái giá: không quá 25 tuổi"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Thứ hai là Thế giới trong suốt, khả năng nhìn xuyên cơ thể đối thủ, thấy cơ bắp, xương và dòng máu. Nhờ đó đọc được mọi chuyển động."
+      },
+      "image_prompt": "a transparent human figure showing muscles, bones, and flowing blood in glowing lines",
+      "on_screen_text": "Thế giới trong suốt"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Thứ ba là kiếm đỏ, khi kiếm sĩ nắm chặt thanh kiếm với sức mạnh cực lớn, lưỡi kiếm chuyển đỏ và gây vết thương khiến quỷ khó hồi phục."
+      },
+      "image_prompt": "a katana blade glowing bright red under an intense grip, heat distortion around it",
+      "on_screen_text": "Kiếm đỏ",
+      "video_prompt": "the blade heats from steel to bright red as the grip tightens, heat shimmer, macro close-up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Cả ba đều từng là khả năng tự nhiên của Yoriichi. Những người đời sau chỉ đạt được chúng bằng cách đẩy cơ thể tới giới hạn và chấp nhận trả giá."
+      },
+      "image_prompt": "a golden silhouette at the top of a staircase while exhausted figures climb toward him"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Giờ chơi một trò nhỏ. Dựa trên cách truyện gắn tính cách với hơi thở, hãy xem bạn hợp với nhánh nào nhất. Đây chỉ là trò vui thôi nhé."
+      },
+      "image_prompt": "a playful quiz card with six elemental icons arranged in a circle",
+      "chapter": "Trắc nghiệm: bạn hợp với hơi thở nào?",
+      "on_screen_text": "Trắc nghiệm vui"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Nếu bạn điềm tĩnh, dễ thích nghi, biết lắng nghe, có thể bạn hợp với Hơi thở Nước."
+      },
+      "image_prompt": "a calm figure sitting by a quiet river at dawn, water swirling gently around them",
+      "on_screen_text": "Điềm tĩnh → Nước"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nếu bạn nhiệt huyết, thích dẫn đầu, luôn tràn năng lượng, Hơi thở Lửa có lẽ là của bạn."
+      },
+      "image_prompt": "a figure standing in front of a crowd holding a torch high, warm light",
+      "on_screen_text": "Nhiệt huyết → Lửa"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu bạn sợ hãi nhiều thứ nhưng dồn hết vào một điều mình làm tốt nhất, Hơi thở Sấm là lựa chọn hay."
+      },
+      "image_prompt": "a nervous figure crouching, then a single brilliant flash of lightning",
+      "on_screen_text": "Một thế mạnh duy nhất → Sấm"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nếu bạn khéo léo, tinh tế, dùng trí tuệ thay vì sức mạnh, Hơi thở Côn trùng hoặc Hoa có thể hợp với bạn."
+      },
+      "image_prompt": "a delicate figure surrounded by butterflies and falling petals, holding a thin blade",
+      "on_screen_text": "Tinh tế → Hoa, Côn trùng"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Nếu bạn thích tự mình mày mò, không theo khuôn phép nào, có khi bạn sẽ tự tạo ra một nhánh mới như Hơi thở Thú."
+      },
+      "image_prompt": "a wild figure drawing a brand new branch on the family tree with a stick",
+      "on_screen_text": "Tự do → nhánh mới"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Trước khi tổng kết, cùng gỡ vài hiểu lầm hay gặp về hệ thống hơi thở."
+      },
+      "image_prompt": "a notice board with four pinned cards marked with question marks",
+      "chapter": "Những hiểu lầm về hơi thở",
+      "on_screen_text": "Hiểu lầm"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Hiểu lầm một: hơi thở là phép thuật tạo ra nước hay lửa thật. Không phải. Nước, lửa hay sấm chỉ là cách truyện vẽ ra phong cách đòn đánh, không phải nguyên tố thật."
+      },
+      "image_prompt": "a sword slash drawn half as a stylized water dragon and half as a plain steel arc",
+      "on_screen_text": "1. Không phải phép thuật"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Hiểu lầm hai: màu kiếm quyết định hơi thở. Màu kiếm chỉ gợi ý thiên hướng, người dùng vẫn có thể học hơi thở khác."
+      },
+      "image_prompt": "a blade glowing one color while its wielder practices a stance of a different element"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Hiểu lầm ba: nhánh con yếu hơn nhánh chính. Thực tế nhiều Trụ cột dùng nhánh con và vẫn thuộc hàng mạnh nhất."
+      },
+      "image_prompt": "a thin branch of the family tree glowing as brightly as the thick main branches",
+      "on_screen_text": "3. Nhánh con không yếu hơn"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Hiểu lầm bốn: có Ấn là chắc chắn thắng. Ấn giúp mạnh hơn, nhưng trong những trận cuối, cả những người có Ấn vẫn phải trả giá rất đắt."
+      },
+      "image_prompt": "a marked swordsman kneeling exhausted on a battlefield at dawn",
+      "on_screen_text": "4. Có Ấn chưa chắc thắng"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Điều khiến mình ấn tượng nhất với hệ thống hơi thở là nó luôn nhắc rằng con người có giới hạn."
+      },
+      "image_prompt": "the owl mascot sitting beside a candle in a quiet dojo, looking thoughtful",
+      "chapter": "Góc nhìn của Kaku: sức mạnh có giá",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Quỷ bất tử, hồi phục gần như tức thì. Con người thì mỏi mệt, bị thương, và có tuổi thọ. Hơi thở là cách con người thu hẹp khoảng cách đó."
+      },
+      "image_prompt": "a split image: a demon regenerating a lost arm, and a tired human bandaging a wound"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nhưng thu hẹp khoảng cách luôn có giá: phải luyện tập đến kiệt sức, phải đốt tuổi thọ với Ấn, phải hy sinh đồng đội."
+      },
+      "image_prompt": "a row of broken nichirin blades planted in the ground like memorials at sunset",
+      "on_screen_text": "Cái giá của sức mạnh"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Đây cũng là điểm khác với Nen hay Chú lực mà mình đã giải thích. Hơi thở không có hệ thống giao ước rõ ràng, nhưng cái giá được trả bằng chính cơ thể."
+      },
+      "image_prompt": "a glowing hexagon, a dark dome, and a pair of lungs side by side, each with a price tag"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Và cây phả hệ cho thấy một thông điệp đẹp: không ai cần là Yoriichi. Mỗi người tìm ra hơi thở hợp với mình, và cùng nhau họ có thể làm được điều một người không làm được."
+      },
+      "image_prompt": "many swordsman silhouettes of different styles standing together facing the dawn"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Tóm lại: mọi hơi thở đều bắt nguồn từ Hơi thở Mặt Trời. Năm nhánh chính là Nước, Lửa, Sấm, Gió, Đá, rồi từ đó mọc ra các nhánh con."
+      },
+      "image_prompt": "a completed glowing family tree with the sun at the root and many colored branches",
+      "chapter": "Tóm tắt",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Hơi thở Mặt Trăng là nhánh bóng tối, còn Hơi thở Mặt Trời được giữ lại qua điệu múa của một gia đình."
+      },
+      "image_prompt": "a sun and a crescent moon on opposite sides of the tree, a small torch at its base"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Và ở giới hạn cuối cùng là Ấn, Thế giới trong suốt và kiếm đỏ, những sức mạnh luôn đi kèm cái giá."
+      },
+      "image_prompt": "three glowing symbols fading into a sunrise over the mountains"
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu được chọn một kiểu hơi thở, bạn chọn kiểu nào, hay bạn sẽ tự tạo một nhánh mới? Viết xuống phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a paintbrush next to an empty branch on the family tree",
+      "on_screen_text": "Bạn chọn hơi thở nào?",
+      "use_mascot": true
+    },
+    {
+      "id": "s93",
+      "narration": {
+        "vi": "Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ giải mã trái ác quỷ trong One Piece: ba loại, thức tỉnh và điểm yếu."
+      },
+      "image_prompt": "the owl mascot pointing at a strange swirled fruit glowing on a pedestal",
+      "use_mascot": true
+    },
+    {
+      "id": "s94",
+      "narration": {
+        "vi": "Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing a glowing notebook and waving goodbye in a moonlit dojo",
+      "use_mascot": true
+    }
+  ]
+}

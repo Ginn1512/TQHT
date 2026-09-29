@@ -1,0 +1,676 @@
+{
+  "title": "JoJo: Lịch sử sức mạnh từ Hamon đến Stand",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler JoJo phần một tới phần năm, và nhắc nhẹ phần sáu. Phần bảy Steel Ball Run chỉ được nhắc lại từ video số mười ba."
+      },
+      "image_prompt": "a Victorian mansion at dusk on one side and a modern Italian city on the other, split by a line of light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler phần 1–5"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Năm 1880, ở nước Anh, một chàng trai quý tộc học cách thở. Chỉ thở thôi, nhưng hơi thở của anh tạo ra năng lượng giống như ánh mặt trời, đủ để tiêu diệt ma cà rồng."
+      },
+      "image_prompt": "a young gentleman breathing deeply on a misty English moor, golden ripples of light around his hands",
+      "on_screen_text": "Năm 1880: hơi thở",
+      "video_prompt": "golden ripples spread outward across the misty moor with each breath, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Hơn một trăm năm sau, cháu chắt của anh chiến đấu bằng một thứ hoàn toàn khác: một chiến binh vô hình đứng sau lưng, mà người thường không nhìn thấy."
+      },
+      "image_prompt": "a stoic young man in a modern city with a translucent guardian figure standing behind him",
+      "on_screen_text": "Hơn 100 năm sau: Stand",
+      "video_prompt": "the translucent guardian slowly materializes behind the young man, city lights flickering through it, slow orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Từ hơi thở đến chiến binh vô hình, sức mạnh trong JoJo đã thay đổi thế nào, và vì sao? Hôm nay Kaku kể lại lịch sử đó, từng thời kỳ một."
+      },
+      "image_prompt": "a long corridor of portraits from Victorian to modern times, each with a different glowing aura"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Mỗi thời kỳ hôm nay sẽ có một phát minh sức mạnh mới, và một lý do vì sao cái cũ không còn đủ."
+      },
+      "image_prompt": "the owl mascot opening a notebook with a timeline sketched from a gas lamp to a neon sign",
+      "on_screen_text": "Mỗi thời kỳ, một phát minh",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "JoJo's Bizarre Adventure là manga của Araki Hirohiko, bắt đầu từ năm 1987. Điều đặc biệt là truyện chia thành nhiều phần, mỗi phần có một nhân vật chính khác nhau."
+      },
+      "image_prompt": "a long shelf of manga volumes in many different colors, one section for each part",
+      "chapter": "Một bộ truyện kéo dài qua nhiều thế hệ",
+      "on_screen_text": "Manga từ 1987"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Các nhân vật chính đều thuộc cùng một dòng họ, và đều có biệt danh là JoJo. Câu chuyện trải dài từ thế kỷ mười chín tới thế kỷ hai mươi mốt."
+      },
+      "image_prompt": "a family tree spanning generations, each branch holding a small glowing mark icon"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Bản anime do David Production thực hiện từ năm 2012, đã chuyển thể sáu phần đầu. Phần bảy đang phát trên Netflix năm 2026."
+      },
+      "image_prompt": "a row of film reels with a streaming screen at the end showing a desert horse race",
+      "on_screen_text": "Anime từ 2012"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Kaku ghi chú: vì truyện trải qua hơn một thế kỷ trong câu chuyện, và gần bốn mươi năm ngoài đời, nó là nơi hoàn hảo để xem một hệ thống sức mạnh tiến hóa."
+      },
+      "image_prompt": "the owl mascot holding a magnifying glass over a family tree",
+      "use_mascot": true
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Thời kỳ đầu tiên là nước Anh thời Victoria. Kẻ thù là ma cà rồng, sinh ra từ một chiếc mặt nạ đá cổ có thể biến người đội thành sinh vật bất tử, mạnh vô song, chỉ sợ ánh mặt trời."
+      },
+      "image_prompt": "an ancient stone mask on a pedestal in a candlelit study, tiny spikes along its edges",
+      "chapter": "Thời kỳ 1 · 1880: Mặt nạ đá và Hamon",
+      "on_screen_text": "Mặt nạ đá"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Để chống lại chúng, con người có một kỹ thuật cổ gọi là Hamon, hay còn gọi là sóng gợn. Người luyện Hamon dùng nhịp thở đặc biệt để tạo năng lượng giống ánh mặt trời trong cơ thể."
+      },
+      "image_prompt": "a figure breathing in a controlled rhythm, golden ripples spreading across the surface of a pond",
+      "on_screen_text": "Hamon"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Hamon có thể truyền qua nước, qua vật dẫn, qua cả một bông hoa hay một ly rượu. Nó chữa được vết thương nhỏ, và là vũ khí chí mạng với ma cà rồng."
+      },
+      "image_prompt": "golden ripples traveling through a glass of wine and up a flower stem into a vampire's shadow"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Phát minh của thời kỳ này là hơi thở. Sức mạnh đến từ kỷ luật và luyện tập, ai chăm chỉ cũng có thể học, như Jonathan học từ người thầy của mình."
+      },
+      "image_prompt": "a young gentleman training under a stern older mentor by a river",
+      "on_screen_text": "Phát minh: hơi thở"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Giới hạn của nó: Hamon rất khó thể hiện bằng hình ảnh, vì đó là một năng lượng vô hình chạy trong cơ thể. Hãy nhớ giới hạn này, vì nó sẽ dẫn tới một phát minh sau."
+      },
+      "image_prompt": "an artist at a desk struggling to draw invisible energy, crumpled papers around"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Hamon cũng có tác dụng ngoài chiến đấu: người luyện lâu năm có thể giữ được sức khỏe và vẻ trẻ trung lâu hơn người thường. Có bậc thầy Hamon trông trẻ hơn rất nhiều so với tuổi thật."
+      },
+      "image_prompt": "an elegant woman on a balcony who looks young, with an old photograph beside her showing the same face decades earlier"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku ghi chú: nếu bạn đã xem video số năm về các kiểu hơi thở trong Kimetsu no Yaiba, bạn sẽ thấy ý tưởng dùng hơi thở chống lại quỷ đã có từ rất lâu trước đó trong JoJo."
+      },
+      "image_prompt": "the owl mascot pointing at two small breathing diagrams pinned side by side",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Thời kỳ thứ hai nhảy tới năm 1938. Nhân vật chính mới là cháu của Jonathan, một chàng trai tên Joseph, láu cá và thích lừa đối thủ."
+      },
+      "image_prompt": "a cocky young man in 1930s clothing grinning on a New York street",
+      "chapter": "Thời kỳ 2 · 1938: Những người đá cổ đại",
+      "on_screen_text": "Năm 1938"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kẻ thù mới là những sinh vật cổ đại đã tạo ra chiếc mặt nạ đá, gọi là những Người Cột. Chúng mạnh hơn ma cà rồng rất nhiều, và ăn thịt cả ma cà rồng."
+      },
+      "image_prompt": "towering ancient beings emerging from a stone pillar deep beneath a Roman ruin",
+      "on_screen_text": "Những Người Cột"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Hamon được đẩy lên đỉnh cao. Joseph học dưới tay một bậc thầy Hamon, luyện thở hàng tháng trời, kể cả trong lúc ngủ."
+      },
+      "image_prompt": "a young man training on a tall pillar surrounded by oil, a mentor watching from a balcony"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nhưng phát minh thật sự của thời kỳ này không phải là Hamon mạnh hơn, mà là trí thông minh. Joseph thắng nhờ mưu mẹo, đoán trước câu tiếp theo đối thủ sẽ nói, và biến mọi thứ xung quanh thành vũ khí."
+      },
+      "image_prompt": "a young man pointing dramatically at an astonished opponent, a speech bubble completed before the opponent speaks",
+      "on_screen_text": "Phát minh: mưu trí"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kết thúc thời kỳ này, kẻ thù mạnh nhất đạt tới dạng sinh vật tối thượng, và không bị đánh bại bằng sức mạnh, mà bị đẩy lên vũ trụ bằng một vụ phun trào núi lửa."
+      },
+      "image_prompt": "a volcanic eruption launching a small figure into a starry sky, the figure frozen in the vacuum of space",
+      "video_prompt": "the volcano erupts and the small figure rockets into the starry sky, slow tilt up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Thời kỳ này cũng thêm những vật phẩm quan trọng, như một viên đá đỏ cổ đại có thể khuếch đại ánh sáng. Đó là thứ mà những Người Cột khao khát để vượt qua điểm yếu của mình."
+      },
+      "image_prompt": "a glowing red gemstone on an ancient altar, beams of light refracting from it"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Kaku ghi chú: đến đây, Hamon đã chạm tới giới hạn của nó. Những kẻ thù mạnh hơn cần một kiểu sức mạnh mới."
+      },
+      "image_prompt": "the owl mascot looking at a cracked breathing gauge",
+      "use_mascot": true
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Trước khi sang thời kỳ ba, hãy dừng lại ở một câu hỏi: vì sao tác giả lại bỏ Hamon, thứ đã làm nên hai phần đầu?"
+      },
+      "image_prompt": "a crossroads in the story timeline with a signpost pointing two directions",
+      "chapter": "Bước ngoặt: vì sao cần một phát minh mới?",
+      "on_screen_text": "Vì sao đổi?"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Araki từng chia sẻ rằng năng lượng vô hình như Hamon rất khó thể hiện bằng tranh. Đánh nhau bằng tia sáng và sóng gợn mãi thì người đọc khó phân biệt ai đang làm gì."
+      },
+      "image_prompt": "two fighters exchanging similar golden ripples, the viewer unable to tell them apart"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Ông muốn biến siêu năng lực thành một thứ có hình dạng, để người đọc nhìn thấy được. Ý tưởng về một linh hồn hộ mệnh đứng sau lưng con người trong văn hóa Nhật đã gợi cảm hứng cho ông."
+      },
+      "image_prompt": "a traditional painting of a guardian spirit standing behind a person, soft ink wash style",
+      "on_screen_text": "Linh hồn hộ mệnh"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Kết quả là một phát minh làm thay đổi cả thể loại truyện tranh chiến đấu Nhật Bản: Stand."
+      },
+      "image_prompt": "a translucent guardian figure bursting from a person's back in a dramatic pose, light rays around it",
+      "on_screen_text": "Stand"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Thời kỳ thứ ba, năm 1989. Kẻ thù từ phần một, ma cà rồng Dio, trở lại sau một trăm năm dưới đáy biển. Và sự trở lại của hắn đánh thức một sức mạnh mới trong dòng họ Joestar."
+      },
+      "image_prompt": "a coffin rising from the seabed, bubbles streaming upward, a faint shadow inside",
+      "chapter": "Thời kỳ 3 · 1989: Stand ra đời",
+      "on_screen_text": "Năm 1989",
+      "video_prompt": "the coffin rises from the seabed trailing bubbles toward the surface light, slow crane up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Stand là hình ảnh cụ thể của năng lượng sống bên trong một người. Nó xuất hiện như một thực thể đứng cạnh người dùng, và mỗi Stand có một năng lực riêng."
+      },
+      "image_prompt": "a young man standing calmly as a muscular translucent spirit appears behind him, arms crossed",
+      "on_screen_text": "Stand: năng lượng sống có hình dạng"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Cái tên Stand đến từ chính ý nghĩa của nó: thứ đứng bên cạnh bạn. Nhiều Stand trong phần ba được đặt tên theo các lá bài Tarot."
+      },
+      "image_prompt": "a spread of tarot cards on a table, each card glowing with a different shadowy silhouette",
+      "on_screen_text": "Tên theo lá bài Tarot"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Phần ba cũng là một chuyến hành trình từ Nhật Bản tới Ai Cập, và mỗi chặng đường là một trận đấu Stand mới với năng lực kỳ lạ khác nhau."
+      },
+      "image_prompt": "a map with a dotted route from Japan across Asia to Egypt, small battle icons along the way"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Phát minh của thời kỳ này là hình dạng. Sức mạnh giờ có thể nhìn thấy, có cá tính, có luật riêng, và mỗi trận đấu trở thành một câu đố."
+      },
+      "image_prompt": "a chessboard where each piece is a different glowing guardian spirit",
+      "on_screen_text": "Phát minh: hình dạng"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Một điểm thú vị: người trong dòng họ Joestar thức tỉnh Stand gần như cùng lúc, vì sự trở lại của kẻ thù cũ đánh thức sức mạnh trong dòng máu. Có người không chịu nổi Stand của mình và đổ bệnh, tạo ra lý do cho cả chuyến hành trình."
+      },
+      "image_prompt": "a family gathered around a sick woman in bed, faint vines of spirit energy wrapping around her"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Kaku ghi chú: từ đây, các trận đánh trong JoJo không còn là ai mạnh hơn, mà là ai hiểu luật Stand của đối thủ trước."
+      },
+      "image_prompt": "the owl mascot studying a small rulebook with a tiny guardian spirit behind it",
+      "use_mascot": true
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Để hiểu vì sao Stand thay đổi cách đánh nhau, hãy xem vài luật cơ bản."
+      },
+      "image_prompt": "a notice board with five pinned rule cards, each with a simple icon",
+      "chapter": "Luật cơ bản của Stand",
+      "on_screen_text": "Luật cơ bản"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Một: mỗi người thường chỉ có một Stand. Hai: chỉ người dùng Stand mới nhìn thấy Stand. Người thường chỉ thấy hậu quả, như đồ vật tự bay hay vết thương tự xuất hiện."
+      },
+      "image_prompt": "ordinary people staring in confusion at a floating teacup, a faint spirit visible only to one person",
+      "on_screen_text": "1 người · 1 Stand"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Ba: Stand bị thương thì người dùng cũng bị thương ở cùng chỗ. Đánh vào Stand cũng là đánh vào người."
+      },
+      "image_prompt": "a spirit's arm cracking and the user's arm bleeding in the same spot"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Bốn: Stand càng mạnh ở cận chiến thì phạm vi hoạt động càng ngắn. Stand đi xa được thì thường yếu hơn. Đây là luật cân bằng rất quan trọng."
+      },
+      "image_prompt": "a diagram with a strong spirit on a short leash and a weaker one on a very long leash",
+      "on_screen_text": "Mạnh ↔ Xa"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Năm: năng lực của Stand thường phản ánh tính cách người dùng. Người nóng nảy có Stand thô bạo, người tỉ mỉ có Stand tinh xảo."
+      },
+      "image_prompt": "three people with spirits that visibly mirror their personalities: fiery, precise, gentle"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku ghi chú: với những luật này, một Stand yếu vẫn có thể thắng một Stand mạnh nếu người dùng thông minh hơn. Đó là cái hay của JoJo."
+      },
+      "image_prompt": "the owl mascot moving a tiny pawn to checkmate a much bigger piece",
+      "use_mascot": true
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Khi Stand ngày càng nhiều, fan và các tài liệu tham khảo bắt đầu chia chúng thành vài kiểu lớn. Hiểu các kiểu này, bạn sẽ đoán được trận đấu sẽ diễn ra thế nào."
+      },
+      "image_prompt": "a museum hall with display cases, each holding a different kind of glowing spirit",
+      "chapter": "Các kiểu Stand",
+      "on_screen_text": "Các kiểu Stand"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kiểu cận chiến: mạnh, nhanh, chính xác, nhưng chỉ hoạt động trong vài mét quanh người dùng. Đây là kiểu của nhiều nhân vật chính."
+      },
+      "image_prompt": "a powerful spirit throwing a flurry of punches within a small circle around its user",
+      "on_screen_text": "Cận chiến"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kiểu tầm xa: có thể đi rất xa người dùng để do thám hay tấn công lén, đổi lại sức mạnh yếu hơn. Kiểu tự động: tự hành động theo một luật đơn giản, như tấn công bất kỳ thứ gì nóng nhất."
+      },
+      "image_prompt": "a small spirit flying far across a city while its user sits calmly in a café",
+      "on_screen_text": "Tầm xa · Tự động"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Và còn những kiểu đặc biệt hơn: Stand là cả một bầy sinh vật nhỏ, Stand gắn vào một đồ vật, thậm chí có Stand là một con tàu hay một thanh kiếm."
+      },
+      "image_prompt": "a swarm of tiny spirits, a sword glowing with a spirit inside, and a ghostly ship on the sea"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku ghi chú: sự đa dạng này là lý do trận đấu Stand hiếm khi lặp lại. Mỗi kiểu mở ra một cách chơi khác nhau."
+      },
+      "image_prompt": "the owl mascot sorting small spirit figurines into labeled boxes",
+      "use_mascot": true
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Trước khi nói về ảnh hưởng, hãy đặt hai hệ thống lên bàn cân."
+      },
+      "image_prompt": "a balance scale with golden ripples on one side and a guardian spirit on the other",
+      "chapter": "Hamon và Stand: bảng so sánh",
+      "on_screen_text": "So sánh"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Về cách có được: Hamon là kỹ thuật, ai chăm chỉ và có thầy giỏi đều có thể học. Stand là tài năng hoặc được đánh thức, không phải ai cũng có."
+      },
+      "image_prompt": "a student training breath with a mentor on one side, a person struck by a glowing arrow on the other",
+      "on_screen_text": "Học được ↔ Đánh thức"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Về hình ảnh: Hamon là năng lượng vô hình. Stand có hình dạng, có tính cách, và mỗi cái mỗi khác."
+      },
+      "image_prompt": "invisible ripples on one side, a colorful distinct spirit on the other"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Về đối thủ: Hamon sinh ra để diệt ma cà rồng và sinh vật cổ đại. Stand thì dùng được với mọi đối thủ, kể cả con người bình thường."
+      },
+      "image_prompt": "a vampire shadow recoiling from golden light, and two ordinary people facing off with spirits"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Về chiến thuật: Hamon thắng bằng kỷ luật và mưu trí. Stand thắng bằng việc hiểu luật và tìm kẽ hở trong năng lực của đối thủ."
+      },
+      "image_prompt": "a disciplined fighter meditating, and a clever fighter studying a rulebook",
+      "on_screen_text": "Kỷ luật ↔ Hiểu luật"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Kaku ghi chú: không có hệ thống nào tốt hơn tuyệt đối. Chúng chỉ phù hợp với những câu chuyện khác nhau."
+      },
+      "image_prompt": "the owl mascot holding a ripple in one wing and a tiny spirit in the other, smiling",
+      "use_mascot": true
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Thời kỳ thứ tư, năm 1999, ở một thị trấn nhỏ yên bình của Nhật Bản. Không còn hành trình vòng quanh thế giới, câu chuyện ở lại một nơi."
+      },
+      "image_prompt": "a quiet Japanese suburban town with small shops and a train station on a sunny day",
+      "chapter": "Thời kỳ 4 · 1999: Stand trong đời thường",
+      "on_screen_text": "Năm 1999"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Phát minh của thời kỳ này là mũi tên. Truyện tiết lộ những mũi tên đặc biệt có thể đánh thức Stand ở người bị bắn trúng, nếu người đó đủ mạnh để sống sót."
+      },
+      "image_prompt": "an ornate ancient arrowhead glowing faintly on a velvet cloth",
+      "on_screen_text": "Phát minh: mũi tên"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nhờ vậy, Stand không còn chỉ là sức mạnh của dòng máu đặc biệt. Người bình thường trong thị trấn cũng có thể có Stand: một đầu bếp, một họa sĩ truyện tranh, một học sinh."
+      },
+      "image_prompt": "an ordinary chef, a manga artist and a student each with a small spirit beside them"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Stand ở đây thường có năng lực rất đời thường và kỳ quặc: chữa bệnh bằng đồ ăn, biến người thành cuốn sách, hay sửa mọi thứ trở lại như cũ."
+      },
+      "image_prompt": "a plate of food glowing with healing light and a person's face opening like the pages of a book",
+      "on_screen_text": "Năng lực đời thường"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Và kẻ thù đáng sợ nhất lại là một người đàn ông bình thường chỉ muốn sống yên ổn, nhưng thực ra là một kẻ giết người hàng loạt."
+      },
+      "image_prompt": "a neatly dressed office worker walking home at dusk, his long shadow looking sinister",
+      "on_screen_text": "Kẻ thù đời thường"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Và người dùng Stand có xu hướng bị thu hút về phía nhau, như có một sợi dây vô hình kéo họ lại. Truyện dùng điều này để giải thích vì sao một thị trấn nhỏ lại có nhiều người dùng Stand đến vậy."
+      },
+      "image_prompt": "invisible threads drawing several people with small spirits toward the same street corner"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku ghi chú: phần bốn chứng minh Stand không cần những trận chiến thế giới. Chỉ một thị trấn nhỏ cũng đủ chứa cả trăm câu chuyện kỳ lạ."
+      },
+      "image_prompt": "the owl mascot sitting in a small café, a tiny spirit stirring its coffee",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Thời kỳ thứ năm, năm 2001, ở nước Ý. Thế giới của các băng đảng, nơi Stand là vũ khí của những người sống ngoài vòng pháp luật."
+      },
+      "image_prompt": "a sunlit Italian coastal city with narrow streets, a group of stylish silhouettes walking together",
+      "chapter": "Thời kỳ 5 · 2001: vượt qua giới hạn của Stand",
+      "on_screen_text": "Năm 2001"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Nhân vật chính là một thiếu niên có Stand ban cho sự sống, biến đồ vật thành sinh vật. Cậu có một ước mơ kỳ lạ: trở thành trùm băng đảng để thay đổi nó từ bên trong."
+      },
+      "image_prompt": "a young man touching a stone that sprouts into a living tree full of birds",
+      "on_screen_text": "Stand ban sự sống"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Phát minh của thời kỳ này là vượt qua giới hạn. Khi mũi tên đâm vào chính một Stand, Stand đó tiến hóa lên một dạng cao hơn, với năng lực vượt ra ngoài luật thông thường."
+      },
+      "image_prompt": "a spirit pierced by a glowing arrow, transforming into a brighter, more intricate form",
+      "on_screen_text": "Phát minh: Stand tiến hóa",
+      "video_prompt": "the arrow pierces the spirit and it unfolds into a brighter intricate form, light bursting outward, slow motion",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Kẻ thù của phần này có năng lực xóa đi một khoảng thời gian và chỉ mình hắn nhớ chuyện gì đã xảy ra. Để thắng hắn, cần một sức mạnh có thể xoay chuyển cả quy luật nhân quả."
+      },
+      "image_prompt": "a clock with a missing section of its face, the hands jumping over the gap"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Phần năm còn nổi tiếng với phong cách thời trang và tạo dáng đặc trưng. Những tư thế kỳ lạ của nhân vật đã trở thành biểu tượng văn hóa đại chúng, được fan khắp thế giới bắt chước."
+      },
+      "image_prompt": "a group of silhouettes striking dramatic twisting poses on an Italian street, fans copying them in the background"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku ghi chú: đến đây, Stand không chỉ là nắm đấm có hình dạng nữa. Nó có thể chạm vào thời gian, số phận và chính thực tại."
+      },
+      "image_prompt": "the owl mascot staring at a clock that skips seconds, blinking in confusion",
+      "use_mascot": true
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Ở phần sáu, câu chuyện đi tới một kết thúc rất lớn, lớn tới mức thế giới của các phần trước khép lại theo một cách mà Kaku sẽ không nói ra."
+      },
+      "image_prompt": "a spiral galaxy slowly closing into a circle of light",
+      "chapter": "Sau đó: vòng tròn khép lại và mở lại",
+      "on_screen_text": "Phần 6: vòng tròn khép lại"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Và từ phần bảy, Steel Ball Run, JoJo mở ra một thế giới mới, với những nhân vật mới mang tên quen thuộc. Ở đó, Hamon không còn, nhưng một kỹ thuật dựa trên hơi thở và tự nhiên lại trở về dưới dạng Xoay."
+      },
+      "image_prompt": "a desert trail at sunrise with a spinning steel ball tracing a golden spiral",
+      "on_screen_text": "Phần 7: Xoay"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku đã phân tích khoa học đằng sau kỹ thuật Xoay ở video số mười ba. Điều thú vị là JoJo đi một vòng: từ kỹ thuật cơ thể, sang Stand, rồi quay lại kỹ thuật cơ thể, và kết hợp cả hai."
+      },
+      "image_prompt": "a circular diagram with breath, spirit and spin connected by arrows",
+      "on_screen_text": "Một vòng tròn"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: rất ít bộ truyện dám tự làm mới hệ thống sức mạnh của chính mình nhiều lần như vậy."
+      },
+      "image_prompt": "the owl mascot applauding a wheel of power icons turning slowly",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Stand không chỉ thay đổi JoJo. Nó ảnh hưởng tới rất nhiều bộ truyện tranh chiến đấu ra đời sau đó."
+      },
+      "image_prompt": "a family tree of many manga-style silhouettes all branching from a single guardian spirit",
+      "chapter": "Ảnh hưởng của Stand",
+      "on_screen_text": "Ảnh hưởng"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Ý tưởng một năng lực có luật riêng, có điểm yếu riêng, và trận đấu được thắng bằng cách hiểu luật của đối thủ, có thể thấy ở nhiều hệ thống sức mạnh nổi tiếng về sau."
+      },
+      "image_prompt": "a chalkboard comparing several rulebooks side by side, with similar headings"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nhiều fan cho rằng những hệ thống như Nen trong Hunter x Hunter hay lời nguyền trong Jujutsu Kaisen đều có chung tinh thần đó. Đây là nhận xét của fan, tác giả các bộ đó không nói là lấy cảm hứng trực tiếp."
+      },
+      "image_prompt": "a hexagon, a dark dome and a guardian spirit arranged in a triangle with dotted lines",
+      "on_screen_text": "Nhận xét của fan"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Và cụm từ này là Stand à, đã trở thành một câu đùa quen thuộc trong cộng đồng anime, mỗi khi ai đó có một năng lực kỳ lạ."
+      },
+      "image_prompt": "a group of friends laughing as one of them points at a strangely floating object"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nhìn lại cả lịch sử, Kaku thấy mỗi phát minh sức mạnh trong JoJo đều khớp với thời đại mà nó xuất hiện."
+      },
+      "image_prompt": "the owl mascot walking through a gallery where each room represents a different era",
+      "chapter": "Góc nhìn của Kaku: sức mạnh thay đổi theo thời đại",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Nước Anh thời Victoria có Hamon: kỷ luật, lễ nghi, và hơi thở của một quý ông. Năm 1938 có mưu trí: thời của phiêu lưu và những kẻ láu cá."
+      },
+      "image_prompt": "a Victorian gentleman bowing politely, then a 1930s adventurer winking with a grin"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Năm 1989 có Stand: sức mạnh cá nhân, mỗi người một kiểu. Năm 1999 có Stand đời thường: phép màu trong một thị trấn bình thường. Năm 2001 có Stand vượt giới hạn: câu hỏi về số phận."
+      },
+      "image_prompt": "three rooms showing a traveler with a spirit, a small town with quirky spirits, and a clock without hands"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Kaku nghĩ điều đó cho thấy Araki không chỉ tạo ra sức mạnh, mà dùng sức mạnh để kể về thời đại và con người của từng thời kỳ."
+      },
+      "image_prompt": "a painter's easel with a portrait that changes era each time it is looked at"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và có một thứ không bao giờ đổi qua mọi thời kỳ: dòng họ JoJo luôn chiến đấu vì người khác, bằng lòng dũng cảm, chứ không chỉ bằng sức mạnh."
+      },
+      "image_prompt": "a line of silhouettes from different eras standing side by side, each with a faint glowing mark"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Tóm tắt dòng thời gian. Năm 1880: mặt nạ đá và Hamon, phát minh là hơi thở. Năm 1938: những Người Cột, phát minh là mưu trí."
+      },
+      "image_prompt": "a compact timeline with a stone mask icon and a grinning face icon",
+      "chapter": "Dòng thời gian thu gọn",
+      "on_screen_text": "1880 · 1938"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Năm 1989: Stand ra đời, phát minh là hình dạng. Năm 1999: mũi tên, Stand trong đời thường."
+      },
+      "image_prompt": "the timeline continuing with a guardian spirit icon and an arrowhead icon",
+      "on_screen_text": "1989 · 1999"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Năm 2001: Stand tiến hóa, vượt qua giới hạn. Rồi một vòng tròn khép lại, và thế giới mới mở ra với kỹ thuật Xoay."
+      },
+      "image_prompt": "the timeline ending with a clock icon and a spinning golden spiral",
+      "on_screen_text": "2001 · và sau đó"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu có Stand, bạn muốn nó có năng lực gì, và tên của nó sẽ là gì? Theo truyền thống từ phần bốn, nhiều Stand được đặt theo tên một bài hát hay ban nhạc."
+      },
+      "image_prompt": "the owl mascot holding a blank card and a small music note",
+      "on_screen_text": "Stand của bạn là gì?",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Video tới, Kaku sẽ vẽ một cây phả hệ thật lớn cho thế giới Naruto: Otsutsuki, Uchiha, Senju, và Uzumaki, để xem tất cả nối với nhau thế nào."
+      },
+      "image_prompt": "a giant glowing tree with roots in the moon and four large branches",
+      "chapter": "Kết",
+      "on_screen_text": "Tiếp theo: cây phả hệ Naruto"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku thở một hơi thật sâu đây. Hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot taking a deep breath with golden ripples around it, then waving",
+      "use_mascot": true
+    }
+  ]
+}

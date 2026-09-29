@@ -1,0 +1,723 @@
+{
+  "title": "Kaiju No. 8: Bảng chỉ số — tỉ lệ giải phóng sức mạnh và chỉ số quái thú",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Kaiju No. 8 tới hết anime mùa hai. Kaku sẽ tránh những diễn biến lớn ở phần cuối manga."
+      },
+      "image_prompt": "a ruined city street at dusk with a colossal monster silhouette on the horizon",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết anime mùa 2"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy nhìn thẻ chỉ số này. Tên: Hibino Kafka. Tuổi: ba mươi hai. Nghề nghiệp: dọn xác quái thú. Tỉ lệ giải phóng sức mạnh: không phần trăm."
+      },
+      "image_prompt": "a video game style stat card with a tired man's silhouette, one bar completely empty and glowing red at 0%",
+      "on_screen_text": "0%"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Một thẻ chỉ số tệ đến mức buồn cười. Nhưng lật mặt sau ra thì có một dòng khác: chỉ số sức mạnh quái thú, chín phẩy tám."
+      },
+      "image_prompt": "the stat card flipping over to reveal a monstrous silhouette and a huge glowing number 9.8",
+      "on_screen_text": "Mặt sau: 9,8",
+      "video_prompt": "the stat card flips over in the air and the number 9.8 ignites with a monstrous glow, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Làm sao một người vừa là con số không, vừa là một trong những con quái thú nguy hiểm nhất từng được đo? Câu trả lời nằm trong cách thế giới này đo sức mạnh."
+      },
+      "image_prompt": "a split screen of a tired worker and a towering monster sharing the same shadow"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ biến thành màn hình chỉ số. Chúng ta sẽ đọc từng chỉ số, xếp hạng, rồi hỏi xem những con số này bỏ sót điều gì."
+      },
+      "image_prompt": "the owl mascot tapping a holographic stat screen that pops out of its notebook",
+      "on_screen_text": "Đọc chỉ số → Xếp hạng → Giới hạn",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot taps the notebook and a holographic stat screen unfolds into the air, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Và cuối video, bạn sẽ tự làm thẻ chỉ số của chính mình. Chuẩn bị giấy bút nhé!"
+      },
+      "image_prompt": "the owl mascot holding up a blank stat card with a pencil",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Kaiju No. 8 là manga của Matsumoto Naoya, đăng trên Shonen Jump Plus từ năm 2020. Bản anime ra mắt năm 2024 và có mùa hai năm 2025."
+      },
+      "image_prompt": "a stack of manga volumes with a monster claw mark on the cover, beside a small screen",
+      "chapter": "Thế giới quái thú",
+      "on_screen_text": "Manga 2020 · Anime 2024"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trong thế giới này, Nhật Bản là một trong những nơi có quái thú xuất hiện nhiều nhất thế giới. Chúng trồi lên từ lòng đất, từ biển, và tấn công thành phố như thiên tai."
+      },
+      "image_prompt": "a coastal Japanese city with emergency sirens, a giant creature rising from the bay",
+      "on_screen_text": "Quái thú như thiên tai"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Để chống lại chúng có Lực lượng Phòng vệ, những chiến binh mặc bộ giáp đặc biệt và dùng vũ khí chế tạo từ chính cơ thể quái thú."
+      },
+      "image_prompt": "soldiers in sleek high-tech combat suits standing in formation before a monster",
+      "on_screen_text": "Lực lượng Phòng vệ"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Sau mỗi trận đánh, còn phải có người dọn dẹp xác quái thú khổng lồ. Đó là công việc của nhân vật chính, một nghề bẩn, nguy hiểm và không ai để ý."
+      },
+      "image_prompt": "workers in hazmat suits cutting apart a massive monster carcass on a city street",
+      "on_screen_text": "Nghề dọn xác quái thú"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kafka từng hứa với người bạn thời thơ ấu rằng cả hai sẽ cùng vào Lực lượng Phòng vệ. Cô ấy giờ đã là đội trưởng. Còn anh vẫn đứng dọn dẹp phía sau."
+      },
+      "image_prompt": "a man in work overalls looking up at a distant woman in a captain's uniform on a stage",
+      "on_screen_text": "Lời hứa thời thơ ấu"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Cho tới một ngày, anh bị một con quái thú nhỏ chui vào miệng, và biến thành một quái thú hình người. Lực lượng Phòng vệ đặt cho nó số hiệu tám."
+      },
+      "image_prompt": "a small winged creature diving toward a startled man, then a humanoid monster silhouette emerging",
+      "on_screen_text": "Trở thành số 8",
+      "video_prompt": "the small creature dives in and the man's silhouette swells into a humanoid monster shape, slow dolly back",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Chỉ số đầu tiên đo độ nguy hiểm của một con quái thú. Truyện gọi là chỉ số sức mạnh quái thú, và dùng nó để quyết định phải điều bao nhiêu lực lượng."
+      },
+      "image_prompt": "a command center screen with a monster silhouette and a numeric gauge climbing",
+      "chapter": "Chỉ số 1: Sức mạnh quái thú",
+      "on_screen_text": "Chỉ số sức mạnh quái thú"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Con số càng cao, quái thú càng nguy hiểm. Những con có chỉ số từ tám trở lên được gọi là quái thú lớn, đủ sức phá hủy cả một khu vực."
+      },
+      "image_prompt": "a gauge with a red zone starting at 8.0, a massive creature casting a shadow over a district",
+      "on_screen_text": "≥ 8,0: quái thú lớn"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Chỉ số được đo bằng máy móc khi quái thú xuất hiện, giống như đo cường độ của một trận động đất. Nhờ vậy, trung tâm chỉ huy biết ngay mức độ nguy hiểm."
+      },
+      "image_prompt": "a seismograph-like readout spiking as a monster emerges from the ground"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Khi Kafka biến hình lần đầu, máy đo ghi nhận chỉ số chín phẩy tám, thuộc hàng cao nhất từng thấy. Đó là lý do anh được đánh số, và bị truy lùng."
+      },
+      "image_prompt": "alarms flashing red in a command center as the gauge hits 9.8",
+      "on_screen_text": "Số 8: 9,8"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Nhưng chỉ số này có một điểm yếu: nó chỉ đo lượng sức mạnh, không đo ý định. Một quái thú không muốn hại ai cũng có thể bị xếp là cực kỳ nguy hiểm."
+      },
+      "image_prompt": "a monstrous silhouette gently holding a child away from falling debris, alarms still blaring"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Và có một điều đáng sợ hơn: chỉ số có thể thay đổi. Một quái thú có thể mạnh lên sau khi hấp thụ năng lượng hay tiến hóa, nên con số đo lúc đầu không phải lúc nào cũng đúng tới cuối trận."
+      },
+      "image_prompt": "a gauge needle suddenly jumping higher as a creature mutates mid-battle, operators gasping"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kaku ghi chú: chỉ số này giống cân nặng. Nó cho biết con quái thú to cỡ nào, chứ không cho biết nó định làm gì."
+      },
+      "image_prompt": "the owl mascot standing on a scale that shows a huge number, looking confused",
+      "use_mascot": true
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Chỉ số thứ hai dành cho con người. Bộ giáp chiến đấu có thể khuếch đại sức mạnh của người mặc, nhưng mỗi người chỉ khai thác được một phần."
+      },
+      "image_prompt": "a combat suit on a rack with glowing power lines running through it, a percentage display on the chest",
+      "chapter": "Chỉ số 2: Tỉ lệ giải phóng sức mạnh",
+      "on_screen_text": "Tỉ lệ giải phóng sức mạnh"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Phần đó được đo bằng phần trăm, từ không tới tối đa một trăm. Nó phụ thuộc vào thể lực, tinh thần và mức độ tương thích giữa người đó với bộ giáp."
+      },
+      "image_prompt": "a gauge from 0 to 100 percent with icons for muscle, mind and a puzzle piece",
+      "on_screen_text": "0% → 100%"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Người mới vào thường ở mức rất thấp. Những đội trưởng giỏi nhất thì gần chạm mốc tối đa: một đội trưởng ở mức chín mươi sáu phần trăm, người đứng đầu lực lượng ở mức chín mươi tám."
+      },
+      "image_prompt": "a leaderboard showing low percentages for recruits and 96% and 98% glowing at the top",
+      "on_screen_text": "96% · 98%"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Còn Kafka ở dạng người? Không phần trăm trong kỳ thi tuyển. Sau khi cố gắng hết sức, anh lên được một phần trăm. Đúng vậy, một."
+      },
+      "image_prompt": "a stat screen showing 0% then painfully ticking up to 1%, a man sweating beside it",
+      "on_screen_text": "Kafka: 0% → 1%",
+      "video_prompt": "the gauge ticks painfully from 0 to 1 percent as the man collapses in exhaustion, static camera with slight zoom",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Chỉ số này rất giống thanh sức mạnh trong game: tăng từ từ qua luyện tập, và một vài phần trăm cũng tạo khác biệt rất lớn trong trận đánh."
+      },
+      "image_prompt": "a training montage of a recruit's gauge rising slowly, one percent at a time"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Muốn tăng tỉ lệ, không có lối tắt: tập thể lực, rèn tinh thần, và mặc giáp chiến đấu thật nhiều lần để cơ thể quen dần với dòng sức mạnh trong bộ giáp."
+      },
+      "image_prompt": "a recruit training alone at night in a gym, the suit's lines glowing brighter with each rep"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku ghi chú: một trăm phần trăm là giới hạn của bộ giáp, không phải giới hạn của con người. Nên muốn mạnh hơn nữa thì phải có thứ khác ngoài bộ giáp."
+      },
+      "image_prompt": "the owl mascot squeezing into a tiny combat suit that shows 100% and starts beeping",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Quái thú không phải lúc nào cũng đi một mình. Truyện chia chúng thành quái thú chính, là con lớn nhất, và quái thú phụ, là những con nhỏ sinh ra hoặc đi theo nó."
+      },
+      "image_prompt": "a giant creature surrounded by a swarm of smaller creatures pouring into a city",
+      "chapter": "Chỉ số 3: Quái thú chính và quái thú phụ",
+      "on_screen_text": "Chính và phụ"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Trong một trận đánh, lực lượng thường chia hai: những người mạnh nhất lo con chính, những người còn lại dọn dẹp bầy quái thú phụ."
+      },
+      "image_prompt": "a tactical map with one big red marker and many small red dots, blue squads assigned to each",
+      "on_screen_text": "Chia lực lượng"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Với tân binh, quái thú phụ là bài kiểm tra thật sự đầu tiên. Không lớn, nhưng rất đông, và chỉ một sai lầm là đủ trả giá."
+      },
+      "image_prompt": "a group of recruits back to back in an alley surrounded by small snarling creatures"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Điểm thú vị: người tiêu diệt được nhiều quái thú phụ nhất không nhất thiết là người có tỉ lệ giải phóng cao nhất, mà là người phối hợp tốt nhất với đồng đội."
+      },
+      "image_prompt": "a scoreboard of kills where a mid-level recruit tops the chart thanks to teamwork icons"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Kaku ghi chú: giống game chiến thuật, dọn quái nhỏ tốt thì trận đánh boss mới dễ."
+      },
+      "image_prompt": "the owl mascot sweeping tiny monster figurines off a game board with a small broom",
+      "use_mascot": true
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Có những quái thú nguy hiểm tới mức được đặt số hiệu riêng, như một hồ sơ truy nã. Kafka là số tám, và trước anh còn những con số khác."
+      },
+      "image_prompt": "a wall of classified files numbered 1 through 9, one file stamped with a large 8",
+      "chapter": "Chỉ số 4: Số hiệu quái thú",
+      "on_screen_text": "Số hiệu riêng"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Được đánh số nghĩa là quái thú đó cực kỳ hiếm và cực kỳ mạnh. Cả lực lượng phải ghi nhớ đặc điểm của từng con."
+      },
+      "image_prompt": "officers studying glowing monster profiles on a large screen in a briefing room"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Trong truyện, có một quái thú mang số hiệu khiến mọi người lo sợ nhất: nó thông minh, biết nói, biết lập kế hoạch và còn có thể thay đổi hình dạng."
+      },
+      "image_prompt": "a shadowy humanoid monster with glowing eyes standing calmly on a rooftop, city lights below",
+      "on_screen_text": "Quái thú thông minh"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Sự xuất hiện của quái thú thông minh khiến chỉ số sức mạnh không còn đủ. Một con quái thú biết suy nghĩ nguy hiểm hơn nhiều so với con số của nó."
+      },
+      "image_prompt": "a chess board where a monster piece moves by itself against surprised human players"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là lúc truyện chuyển từ đánh quái vật sang một cuộc đấu trí. Những con số bắt đầu không còn nói hết sự thật."
+      },
+      "image_prompt": "the owl mascot staring at a chessboard, sweating",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Điều gì xảy ra với quái thú mang số hiệu sau khi bị tiêu diệt? Lực lượng Phòng vệ biến cơ thể chúng thành vũ khí."
+      },
+      "image_prompt": "a high-tech lab where scientists examine a glowing monster core inside a containment tube",
+      "chapter": "Chỉ số 5: Vũ khí số hiệu",
+      "on_screen_text": "Vũ khí số hiệu"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Những vũ khí này được gọi theo số hiệu của quái thú gốc, và mang một phần năng lực của nó. Ví dụ, một vũ khí có thể giúp người dùng đọc trước chuyển động của đối thủ."
+      },
+      "image_prompt": "an officer wearing a sleek visor that shows faint predicted movement lines of an enemy"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Điểm mạnh: chúng đưa sức mạnh của con người vượt xa giới hạn một trăm phần trăm của bộ giáp thường."
+      },
+      "image_prompt": "a gauge breaking past 100% with a surge of monstrous energy",
+      "on_screen_text": "Vượt giới hạn bộ giáp"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Điểm yếu: chỉ những người cực kỳ tương thích mới dùng được. Dùng sai người, vũ khí có thể phản chủ, gây tổn thương nặng cho chính người mặc."
+      },
+      "image_prompt": "a weapon glowing dangerously as it cracks the armor of the person holding it",
+      "on_screen_text": "Không tương thích = nguy hiểm"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Và có một câu hỏi rùng rợn: nếu vũ khí làm từ quái thú, thì liệu một phần quái thú có còn sống trong đó không? Truyện để câu hỏi này lơ lửng rất lâu."
+      },
+      "image_prompt": "a dark weapon in a case with a faint eye shape glowing within its surface"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Trước khi xếp hạng, hãy xem những con số này được đo lần đầu ở đâu: kỳ thi tuyển của Lực lượng Phòng vệ."
+      },
+      "image_prompt": "a large exam hall with rows of candidates in training suits and scanners overhead",
+      "chapter": "Kỳ thi tuyển: lần đầu bị đo",
+      "on_screen_text": "Kỳ thi tuyển"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kỳ thi gồm các bài kiểm tra thể lực, rồi một bài thi thực tế: thí sinh mặc giáp và đối đầu với quái thú thật trong một khu vực được kiểm soát."
+      },
+      "image_prompt": "candidates in suits entering a fenced ruined district where small creatures lurk",
+      "on_screen_text": "Thể lực + thực chiến"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Ở bài thi đó, có tân binh thể hiện tỉ lệ giải phóng rất cao ngay lần đầu, được mọi người chú ý. Còn Kafka thì gần như không làm được gì với bộ giáp."
+      },
+      "image_prompt": "a young prodigy blasting a creature apart while a man in the background struggles to lift his weapon"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nhưng thay vì đánh, anh dùng kinh nghiệm dọn xác để chỉ cho các thí sinh khác chỗ yếu của quái thú. Một đội phó để ý điều đó."
+      },
+      "image_prompt": "a man pointing out a weak spot on a creature to a group of surprised candidates, an officer watching from afar"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nhờ vậy, anh được nhận vào với tư cách ứng viên dự bị, một cơ hội cuối cùng. Con số nói không, nhưng có người nhìn thấy thứ con số bỏ sót."
+      },
+      "image_prompt": "a man receiving a provisional badge, his hand trembling, a small smile on his face",
+      "on_screen_text": "Được nhận dự bị"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Kaku ghi chú: bài học tuyển dụng hay nhất trong anime. Nhìn hồ sơ thì thấy con số, nhìn người thì thấy tiềm năng."
+      },
+      "image_prompt": "the owl mascot wearing tiny glasses, reviewing a resume with a magnifying glass",
+      "use_mascot": true
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Giờ ghép các con số lại thành một bảng xếp hạng. Kaku không ghi tên từng người, chỉ ghi vai trò, để bạn thấy khoảng cách giữa các tầng."
+      },
+      "image_prompt": "a tiered leaderboard with silhouettes instead of names, percentage bars glowing",
+      "chapter": "Bảng xếp hạng tỉ lệ giải phóng",
+      "on_screen_text": "Bảng xếp hạng"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Tầng thấp nhất: Kafka ở dạng người, không phần trăm rồi một phần trăm. Kỷ lục thấp nhất lịch sử kỳ thi, theo đúng nghĩa đen."
+      },
+      "image_prompt": "the bottom rung of a ladder with a tiny 1% flag and a man hanging on by one hand",
+      "on_screen_text": "Tầng đáy: 1%"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Tầng tân binh: những người vừa đỗ kỳ thi, thường ở mức vài chục phần trăm. Có tân binh thiên tài còn vượt xa mức đó ngay từ đầu."
+      },
+      "image_prompt": "a group of recruits with bars in the tens of percent, one standing out with a much longer bar"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Tầng đội phó: những chiến binh kỳ cựu, tỉ lệ cao, chỉ huy một đội. Tầng đội trưởng: gần chạm trần, chín mươi phần trăm trở lên."
+      },
+      "image_prompt": "two higher tiers with veteran silhouettes, bars reaching near the top",
+      "on_screen_text": "Đội phó · Đội trưởng ≥ 90%"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Tầng đỉnh: người đứng đầu lực lượng, chín mươi tám phần trăm, cùng những người dùng vũ khí số hiệu vượt ra ngoài thang đo."
+      },
+      "image_prompt": "a single silhouette at the peak with a bar at 98%, a glowing weapon beside them breaking the scale",
+      "on_screen_text": "Đỉnh: 98% +"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Nhìn bảng này, Kafka có vẻ vô vọng. Nhưng hãy nhớ, thẻ của anh có hai mặt."
+      },
+      "image_prompt": "the owl mascot flipping a card over dramatically",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Ở dạng người, Kafka là người yếu nhất lực lượng. Ở dạng quái thú số tám, anh có thể đấm tan một quái thú lớn chỉ bằng một cú."
+      },
+      "image_prompt": "a split image: a man struggling with a heavy suit, and a humanoid monster shattering a giant creature with one punch",
+      "chapter": "Kafka: một người, hai thẻ chỉ số",
+      "on_screen_text": "Hai thẻ chỉ số",
+      "video_prompt": "the monster fist connects and the giant creature shatters into light fragments, slow motion wide shot",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Vấn đề là anh không thể biến hình công khai. Nếu bị phát hiện, anh sẽ bị coi là quái thú và bị tiêu diệt. Nên anh phải giấu thẻ chỉ số mạnh nhất của mình."
+      },
+      "image_prompt": "a man hiding his monstrous shadow behind him as soldiers pass by",
+      "on_screen_text": "Phải giấu sức mạnh"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Ban đầu anh cũng chưa kiểm soát được sức mạnh. Có lúc biến hình không theo ý muốn, có lúc suýt mất kiểm soát hoàn toàn."
+      },
+      "image_prompt": "a man clutching his arm as monstrous patterns crawl across his skin"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Đây là cái giá của dạng quái thú: mạnh tuyệt đối, nhưng đổi lại là bí mật, sự nghi ngờ, và nỗi sợ trở thành chính thứ mình đang chiến đấu."
+      },
+      "image_prompt": "a mirror reflecting a man's face on one side and a monster's on the other"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Kaku ghi chú: nếu thẻ chỉ số là game, Kafka giống người chơi có một tài khoản phụ siêu mạnh nhưng bị cấm đăng nhập."
+      },
+      "image_prompt": "the owl mascot looking at a login screen marked BANNED on a glowing monitor",
+      "use_mascot": true
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Giờ tới phần Kaku thích nhất: những con số bỏ sót điều gì?"
+      },
+      "image_prompt": "a stat card with several blank lines labeled with question marks",
+      "chapter": "Giới hạn của những con số",
+      "on_screen_text": "Con số bỏ sót gì?"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Thứ nhất: kinh nghiệm. Nhiều năm dọn xác quái thú giúp Kafka hiểu cấu tạo cơ thể quái thú hơn bất kỳ ai, biết chỗ nào là điểm yếu, chỗ nào là lõi."
+      },
+      "image_prompt": "a worker's hand pointing to the glowing core inside a monster anatomy diagram",
+      "on_screen_text": "1. Kinh nghiệm"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Kiến thức đó không hiện trên thanh phần trăm nào, nhưng nhiều lần giúp cả đội sống sót khi con số không đủ."
+      },
+      "image_prompt": "a squad following a man in overalls who points toward a weak spot on a giant creature"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Thứ hai: kỹ năng. Có những chiến binh không có tỉ lệ cao nhất, nhưng kiếm thuật hay chiến thuật của họ khiến quái thú mạnh hơn cũng phải dè chừng."
+      },
+      "image_prompt": "a lean swordsman slicing through a swarm of small monsters with precise movements",
+      "on_screen_text": "2. Kỹ năng"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Thứ ba: tinh thần. Ở tuổi ba mươi hai, sau bao lần bị từ chối, Kafka vẫn thi lại. Sự kiên trì đó không có máy nào đo được."
+      },
+      "image_prompt": "a man standing alone at an exam hall entrance, rain falling, determined expression",
+      "on_screen_text": "3. Tinh thần"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và thứ tư: đồng đội. Một con số chỉ đo một người. Nhưng trong truyện, trận thắng quan trọng nào cũng là thắng của cả đội."
+      },
+      "image_prompt": "a squad huddled together, each with a different bar, forming one combined glow",
+      "on_screen_text": "4. Đồng đội"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Nếu bạn đã xem video số bảy của kênh về cấp bậc thợ săn trong Solo Leveling, bạn sẽ thấy hai hệ thống này rất khác nhau."
+      },
+      "image_prompt": "two stat systems side by side: letter ranks on one side, percentage gauges on the other",
+      "chapter": "So với cấp bậc thợ săn",
+      "on_screen_text": "So với video số 7"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Hệ thống thợ săn chia theo hạng chữ cái, cố định sau khi thức tỉnh. Hệ thống ở đây là những con số liên tục, thay đổi theo luyện tập."
+      },
+      "image_prompt": "letter badges E to S frozen in ice beside a gauge that keeps moving"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Một bên đo con người như món đồ được đóng nhãn một lần. Một bên đo như vận động viên, hôm nay có thể giỏi hơn hôm qua."
+      },
+      "image_prompt": "a factory label stamp on one side, a runner's stopwatch on the other"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và cả hai bộ đều có chung một nhân vật chính bị đánh giá thấp nhất, rồi vượt qua mọi thang đo. Có lẽ khán giả rất thích xem những con số bị phá vỡ."
+      },
+      "image_prompt": "the owl mascot holding two broken measuring tapes, grinning",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Trước khi tới góc nhìn, chơi một trò nhanh. Kaku đưa ra ba tình huống với số liệu tự đặt, bạn đoán xem đội nào thắng. Đây là trò chơi, không phải số liệu trong truyện."
+      },
+      "image_prompt": "the owl mascot shuffling three scenario cards on a table",
+      "chapter": "Trò chơi: đoán kết quả trận đánh",
+      "on_screen_text": "Đoán kết quả",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Tình huống một: năm tân binh, mỗi người ba mươi phần trăm, đối đầu một quái thú phụ nhỏ. Đáp án của Kaku: thắng, nếu họ phối hợp và không ai hành động một mình."
+      },
+      "image_prompt": "five recruits surrounding a small creature in a coordinated formation",
+      "on_screen_text": "5 × 30% vs quái phụ"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Tình huống hai: một đội trưởng chín mươi sáu phần trăm, một mình, đối đầu quái thú lớn chỉ số tám phẩy năm. Đáp án: có thể thắng, nhưng rất rủi ro nếu không có ai dọn quái thú phụ."
+      },
+      "image_prompt": "a lone captain facing a massive creature while small monsters swarm behind her",
+      "on_screen_text": "96% vs 8,5"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Tình huống ba: một người một phần trăm, có kinh nghiệm dọn xác, cùng một đội tân binh, đối đầu quái thú lạ. Đáp án: bất ngờ là cơ hội khá cao, vì biết điểm yếu có khi đáng giá hơn sức mạnh."
+      },
+      "image_prompt": "a man in overalls pointing at a creature's weak spot while recruits aim their weapons",
+      "on_screen_text": "1% + kinh nghiệm"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Bạn có đoán giống Kaku không? Nếu không, hãy giải thích lý do của bạn trong phần bình luận, Kaku rất muốn đọc."
+      },
+      "image_prompt": "the owl mascot holding up a scorecard with question marks",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Có một con số trên thẻ chỉ số Kaku muốn nói thêm: tuổi của Kafka, ba mươi hai."
+      },
+      "image_prompt": "the owl mascot circling the number 32 on a stat card with a red pen",
+      "chapter": "Góc nhìn của Kaku: tuổi ba mươi hai",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Phần lớn nhân vật chính trong truyện tranh thiếu niên là học sinh. Kafka là một người đàn ông trung niên, từng bỏ cuộc, đang làm một công việc không ai muốn làm."
+      },
+      "image_prompt": "a middle-aged man eating a convenience store meal alone on a bench after work"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nhưng chính vì vậy, câu chuyện của anh chạm tới nhiều người lớn: những ai cảm thấy mình đã lỡ chuyến tàu của ước mơ."
+      },
+      "image_prompt": "a train platform at night, a man watching a train leave, then turning back to walk forward"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Truyện nói rằng chưa bao giờ là quá muộn, và rằng những năm tháng tưởng như lãng phí, như dọn xác quái thú, có thể chính là thứ làm nên bạn."
+      },
+      "image_prompt": "old work gloves placed beside a new combat helmet on a locker room bench"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku nghĩ đó là chỉ số quan trọng nhất trên thẻ: không phải phần trăm, mà là việc anh vẫn chưa bỏ cuộc."
+      },
+      "image_prompt": "a stat card with a new line added by hand: NEVER GAVE UP, glowing warmly"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Lấy giấy bút ra, Kaku sẽ giúp bạn làm thẻ chỉ số. Đây là trò chơi vui, không có đúng sai."
+      },
+      "image_prompt": "a blank stat card template with five empty bars and a pencil",
+      "chapter": "Thẻ chỉ số của bạn",
+      "on_screen_text": "Thẻ chỉ số của bạn"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Dòng một, sức bền: bạn chạy bộ được bao lâu mà không dừng? Dưới năm phút ghi hai mươi phần trăm, trên ba mươi phút ghi tám mươi phần trăm."
+      },
+      "image_prompt": "a stat bar labeled stamina filling up beside a small running shoe icon",
+      "on_screen_text": "Sức bền"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Dòng hai, bình tĩnh: khi gặp chuyện bất ngờ, bạn hoảng loạn hay suy nghĩ trước? Dòng ba, kinh nghiệm: bạn giỏi nhất việc gì mà người khác không để ý?"
+      },
+      "image_prompt": "two stat bars labeled calm and experience, small icons of a heartbeat and a toolbox"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Dòng bốn, đồng đội: khi làm việc nhóm, bạn là người dẫn đầu, người hỗ trợ, hay người nghĩ ra kế hoạch? Mỗi vai trò đều có giá trị riêng."
+      },
+      "image_prompt": "three small role icons: a flag, a shield and a lightbulb"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Dòng cuối, không có thang đo: điều gì khiến bạn chưa bỏ cuộc? Viết nó vào thẻ. Đó là dòng quan trọng nhất."
+      },
+      "image_prompt": "a stat card with a final unmeasured line glowing softly, written by hand"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Hãy chia sẻ dòng cuối của bạn trong phần bình luận. Kaku đọc hết đấy."
+      },
+      "image_prompt": "the owl mascot reading a long scroll of comments with a warm smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Tóm lại: quái thú được đo bằng chỉ số sức mạnh, từ tám trở lên là quái thú lớn. Con người được đo bằng tỉ lệ giải phóng sức mạnh, tối đa một trăm phần trăm."
+      },
+      "image_prompt": "a summary screen showing a monster gauge and a human percentage gauge side by side",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Quái thú mạnh nhất được đánh số, và cơ thể chúng thành vũ khí số hiệu. Còn Kafka mang cả hai thẻ: một phần trăm và chín phẩy tám."
+      },
+      "image_prompt": "two cards overlapping, 1% and 9.8, glowing in contrasting colors"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu có thể chọn, bạn muốn làm chiến binh mặc giáp với tỉ lệ cao, hay mang trong mình sức mạnh quái thú nhưng phải giữ bí mật?"
+      },
+      "image_prompt": "the owl mascot holding a helmet in one wing and a monster claw toy in the other",
+      "on_screen_text": "Bạn chọn bên nào?",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, đúng lúc bộ anime vừa khép lại."
+      },
+      "image_prompt": "a sword silhouette glowing brighter on each step of a staircase",
+      "on_screen_text": "Tiếp theo: Shikai → Bankai"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku tắt màn hình chỉ số đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing a holographic stat screen and waving",
+      "use_mascot": true
+    }
+  ]
+}

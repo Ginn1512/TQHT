@@ -1,0 +1,734 @@
+{
+  "title": "Chakra vs Nen vs Chú lực: Hệ thống sức mạnh nào chặt chẽ nhất?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Naruto đến hết Đại chiến Ninja lần thứ tư, Hunter x Hunter đến arc Kiến Chimera, và Jujutsu Kaisen đến arc Trò chơi tử thần."
+      },
+      "image_prompt": "three closed books on a desk, each with a different glowing emblem on the cover, candlelight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Ba bộ truyện, ba hệ thống sức mạnh được fan tranh luận nhiều nhất: Chakra của Naruto, Nen của Hunter x Hunter, và Chú lực của Jujutsu Kaisen."
+      },
+      "image_prompt": "three glowing symbols in a triangle: a swirling blue orb, a golden hexagon, and a dark purple flame",
+      "on_screen_text": "Chakra · Nen · Chú lực",
+      "video_prompt": "the three symbols orbit each other in a slow triangle, light trails connecting them, slow orbit camera",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Câu hỏi hôm nay không phải hệ nào mạnh nhất, vì nhân vật mạnh hay yếu tùy tác giả. Câu hỏi là: hệ thống nào được thiết kế chặt chẽ nhất?"
+      },
+      "image_prompt": "a scale with three pans, each holding a different glowing symbol, perfectly balanced"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Để trả lời, mình sẽ chấm ba hệ thống theo sáu tiêu chí, từ nguồn năng lượng tới cái giá phải trả, rồi cộng điểm cuối cùng."
+      },
+      "image_prompt": "a scorecard grid with six rows and three columns, empty cells glowing faintly",
+      "on_screen_text": "6 tiêu chí"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay cuốn sổ biến thành bàn giám khảo, và Kaku sẽ cố gắng công bằng nhất có thể."
+      },
+      "image_prompt": "the owl mascot sitting behind a judge's desk with a tiny gavel and three name plates",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot bangs the tiny gavel and the three name plates light up one by one, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Nếu bạn chưa xem video giải thích Nen và lãnh địa của kênh, cũng không sao. Mình sẽ nhắc lại những gì cần biết ngay trong video này."
+      },
+      "image_prompt": "the owl mascot pointing to two small thumbnails pinned on a board: a hexagon and a dark dome",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước khi chấm, cần thống nhất tiêu chí. Mình chọn sáu tiêu chí mà một hệ thống sức mạnh tốt nên có."
+      },
+      "image_prompt": "a list of six glowing icons on a scroll: a spring, a gate, a rulebook, a price tag, a chess piece, and a paintbrush",
+      "chapter": "Tiêu chí chấm điểm",
+      "on_screen_text": "6 tiêu chí"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Một, nguồn năng lượng rõ ràng: sức mạnh đến từ đâu. Hai, ai dùng được: có công bằng hay chỉ dành cho người được chọn."
+      },
+      "image_prompt": "a spring of glowing water and an open gate with people walking through",
+      "on_screen_text": "1. Nguồn · 2. Ai dùng được"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Ba, luật và giới hạn: có quy tắc rõ để người xem hiểu. Bốn, cái giá: dùng sức mạnh có phải trả gì không."
+      },
+      "image_prompt": "a rulebook with glowing clauses and a price tag hanging from a chain",
+      "on_screen_text": "3. Luật · 4. Cái giá"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Năm, chiều sâu chiến thuật: trận đấu có giống đấu trí không. Sáu, không gian sáng tạo: nhân vật có thể tạo ra năng lực mới không."
+      },
+      "image_prompt": "a chessboard with glowing pieces and a paintbrush painting a new symbol in the air",
+      "on_screen_text": "5. Chiến thuật · 6. Sáng tạo"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Mỗi tiêu chí chấm từ một đến năm điểm. Đây là đánh giá của Kaku, bạn hoàn toàn có thể không đồng ý, và mình rất muốn nghe ý kiến của bạn."
+      },
+      "image_prompt": "the owl mascot holding up five fingers of feathers, smiling",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Nhắc nhanh ba hệ thống. Chakra là năng lượng tạo từ thể chất và tinh thần. Ninja dùng nó cho nhẫn thuật, ảo thuật và thể thuật, thường thông qua kết ấn tay."
+      },
+      "image_prompt": "a ninja silhouette forming hand seals with blue energy flowing through the body",
+      "chapter": "Ba hệ thống trong một phút",
+      "on_screen_text": "Chakra"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nen là kỹ năng điều khiển khí, năng lượng sống. Nó có bốn nguyên tắc cơ bản, sáu hệ trên hình lục giác, và luật giới hạn cùng giao ước."
+      },
+      "image_prompt": "a golden hexagon with six glowing vertices floating above an open palm",
+      "on_screen_text": "Nen"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Chú lực là năng lượng sinh ra từ cảm xúc tiêu cực. Chú thuật sư dùng nó để kích hoạt thuật thức bẩm sinh, và ở đỉnh cao là bành trướng lãnh địa."
+      },
+      "image_prompt": "dark purple energy rising from a figure, forming a dome in the background",
+      "on_screen_text": "Chú lực"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Ba hệ nghe giống nhau ở chỗ đều là năng lượng bên trong cơ thể. Nhưng cách chúng được tổ chức thì khác nhau rất nhiều."
+      },
+      "image_prompt": "three energy streams of blue, gold, and purple flowing from three silhouettes into three different shaped containers"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Tiêu chí đầu tiên: nguồn năng lượng có rõ ràng không, và nó có ý nghĩa gì với câu chuyện?"
+      },
+      "image_prompt": "three wellsprings side by side: blue, gold, and purple",
+      "chapter": "Tiêu chí 1: nguồn năng lượng",
+      "on_screen_text": "Tiêu chí 1: Nguồn năng lượng"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Chakra đến từ thể chất và tinh thần. Rõ ràng, dễ hiểu, nhưng khá trung tính, nó không nói gì nhiều về cảm xúc của nhân vật."
+      },
+      "image_prompt": "a simple diagram of body energy and mind energy merging into a blue orb"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Nen đến từ sức sống. Ai cũng có, chỉ cần đánh thức. Nó gắn với sự sống và ý chí, và được giải thích rất kỹ qua các lỗ khí."
+      },
+      "image_prompt": "a human silhouette with glowing aura nodes across the body, light leaking gently"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Chú lực đến từ cảm xúc tiêu cực. Đây là lựa chọn rất đậm chất chủ đề: thế giới Jujutsu Kaisen được xây trên nỗi sợ, oán hận và cái chết."
+      },
+      "image_prompt": "a crowd of silhouettes emitting dark purple wisps that gather into curse shapes"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Kaku chấm: Chakra ba điểm, Nen bốn điểm, Chú lực năm điểm. Chú lực thắng vì nguồn năng lượng gắn chặt nhất với câu chuyện."
+      },
+      "image_prompt": "a scorecard with glowing numbers 3, 4, 5 appearing under three icons",
+      "on_screen_text": "Chakra 3 · Nen 4 · Chú lực 5"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Tiêu chí thứ hai: sức mạnh có công bằng không? Người bình thường có thể mạnh lên, hay chỉ người được chọn?"
+      },
+      "image_prompt": "an open gate with many people walking toward it, some blocked, some passing",
+      "chapter": "Tiêu chí 2: ai dùng được?",
+      "on_screen_text": "Tiêu chí 2: Ai dùng được"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Với Chakra, ai cũng có, ai chịu tập cũng dùng được. Nhưng truyện dần nghiêng về dòng máu: gia tộc, huyết kế giới hạn, và hậu duệ của những nhân vật huyền thoại."
+      },
+      "image_prompt": "a family tree with glowing lineages at the top and ordinary figures at the bottom looking up"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Với Nen, ai cũng có khí, và ai được dạy đúng cách cũng học được. Tài năng có ảnh hưởng, nhưng nỗ lực và sự khéo léo vẫn quyết định rất nhiều."
+      },
+      "image_prompt": "diverse figures of all ages training together on a grassy field, each with a faint aura"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Với Chú lực, ai cũng có chú lực, nhưng thuật thức là bẩm sinh. Không có thuật thức thì rất khó trở thành chú thuật sư mạnh, dù vẫn có ngoại lệ đáng nể."
+      },
+      "image_prompt": "a crowd with faint purple wisps, only a few with bright unique emblems glowing on their chests"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku chấm: Chakra ba điểm, Nen năm điểm, Chú lực ba điểm. Nen công bằng nhất, vì nó cho người bình thường nhiều đường để mạnh lên."
+      },
+      "image_prompt": "a scorecard with glowing numbers 3, 5, 3",
+      "on_screen_text": "Chakra 3 · Nen 5 · Chú lực 3"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Tiêu chí thứ ba: hệ thống có luật rõ ràng không? Người xem có tự đoán được điều gì làm được, điều gì không?"
+      },
+      "image_prompt": "a thick rulebook with glowing numbered clauses on a wooden table",
+      "chapter": "Tiêu chí 3: luật và giới hạn",
+      "on_screen_text": "Tiêu chí 3: Luật"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Chakra có các nguyên tố và nhóm nhẫn thuật, nhưng giới hạn khá linh hoạt. Nhiều năng lực mới xuất hiện ở cuối truyện mà không theo luật cũ."
+      },
+      "image_prompt": "a rulebook whose later pages are scribbled over with new glowing symbols"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Nen có luật chi tiết: bốn nguyên tắc, bảy kỹ năng nâng cao, sáu hệ với tỉ lệ phần trăm, và giao ước. Người xem gần như có thể tự tính toán trận đấu."
+      },
+      "image_prompt": "a precise technical diagram of a hexagon with percentages and arrows"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Chú lực cũng có luật rõ: thuật thức, đảo ngược thuật thức, lãnh địa, giản dị lãnh địa, và các giao ước ràng buộc. Hệ thống rất chặt, nhưng có nhiều khái niệm phải nhớ."
+      },
+      "image_prompt": "a layered diagram of techniques stacked like floors of a tower"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kaku chấm: Chakra ba điểm, Nen năm điểm, Chú lực bốn điểm. Nen thắng vì luật vừa chặt vừa ít khái niệm hơn."
+      },
+      "image_prompt": "a scorecard with glowing numbers 3, 5, 4",
+      "on_screen_text": "Chakra 3 · Nen 5 · Chú lực 4"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Tiêu chí thứ tư: dùng sức mạnh có phải trả giá không? Một hệ thống có cái giá thường tạo ra kịch tính và lựa chọn khó khăn."
+      },
+      "image_prompt": "three price tags hanging on chains over three glowing symbols",
+      "chapter": "Tiêu chí 4: cái giá",
+      "on_screen_text": "Tiêu chí 4: Cái giá"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Với Chakra, cái giá chủ yếu là cạn chakra. Có những thuật cấm và đôi mắt đặc biệt đòi giá đắt, nhưng phần lớn nhẫn thuật chỉ tốn sức."
+      },
+      "image_prompt": "a tired ninja kneeling after a big technique, faint blue energy fading, a red eye glowing in the corner"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Với Nen, cái giá được đưa vào tận luật chơi: giới hạn và giao ước. Tự đặt điều kiện càng khắt khe, sức mạnh càng lớn, có khi đổi bằng cả tuổi thọ hay tương lai."
+      },
+      "image_prompt": "a sealed contract glowing with a chain, an hourglass draining beside it"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Với Chú lực, cũng có giao ước ràng buộc, và lãnh địa làm thuật thức bị cháy sau khi dùng. Cái giá xuất hiện ở hầu hết những kỹ thuật mạnh."
+      },
+      "image_prompt": "a burnt-out engine glowing red inside a collapsing dome"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku chấm: Chakra ba điểm, Nen năm điểm, Chú lực năm điểm. Hai hệ sau hòa nhau, vì cái giá là một phần cốt lõi của luật."
+      },
+      "image_prompt": "a scorecard with glowing numbers 3, 5, 5",
+      "on_screen_text": "Chakra 3 · Nen 5 · Chú lực 5"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Tiêu chí thứ năm: trận đấu có giống đấu trí không, hay chủ yếu là ai có năng lượng nhiều hơn?"
+      },
+      "image_prompt": "a chessboard with glowing pieces shaped like the three symbols",
+      "chapter": "Tiêu chí 5: chiều sâu chiến thuật",
+      "on_screen_text": "Tiêu chí 5: Chiến thuật"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Chakra có những trận đấu chiến thuật rất hay, nhất là ở nửa đầu truyện. Về sau, nhiều trận lớn nghiêng về lượng chakra khổng lồ và những năng lực mang tính thần thoại."
+      },
+      "image_prompt": "an early small-scale ninja duel in a forest, then a giant clash of colossal energy figures in the sky"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nen được xây cho đấu trí: che giấu năng lực, dùng In để giấu khí, dùng Gyo để nhìn thấu, và khai thác điều kiện của đối thủ."
+      },
+      "image_prompt": "two figures at a card table, one hiding a transparent weapon, the other with glowing eyes"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Chú lực cũng rất chiến thuật, đặc biệt với lãnh địa và cách chống lãnh địa. Việc tiết lộ thuật thức cho đối thủ thậm chí có thể làm nó mạnh hơn, tạo thêm lựa chọn."
+      },
+      "image_prompt": "a figure explaining their technique aloud to an opponent while their energy grows brighter"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku chấm: Chakra ba điểm, Nen năm điểm, Chú lực năm điểm. Cả Nen và Chú lực đều biến trận đấu thành ván cờ."
+      },
+      "image_prompt": "a scorecard with glowing numbers 3, 5, 5",
+      "on_screen_text": "Chakra 3 · Nen 5 · Chú lực 5"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Tiêu chí cuối: hệ thống có cho phép nhân vật sáng tạo ra năng lực mới, độc đáo, mà vẫn hợp luật không?"
+      },
+      "image_prompt": "a paintbrush painting a brand-new glowing symbol in the air above three emblems",
+      "chapter": "Tiêu chí 6: không gian sáng tạo",
+      "on_screen_text": "Tiêu chí 6: Sáng tạo"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Chakra có nhiều biến thể nguyên tố và nhẫn thuật riêng, nhưng nhiều năng lực mạnh nhất lại đến từ dòng máu hoặc sức mạnh thần thoại, ít do nhân vật tự sáng tạo."
+      },
+      "image_prompt": "a ninja experimenting with a new swirling technique in a training field"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nen có Hatsu, năng lực riêng do mỗi người tự thiết kế theo hệ và tính cách. Đây là không gian sáng tạo cực lớn, có thể tạo ra những năng lực kỳ lạ nhất."
+      },
+      "image_prompt": "a drafting table with blueprints of strange glowing abilities, a hexagon compass beside them",
+      "video_prompt": "blueprint lines animate and a strange glowing ability assembles itself above the table, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Chú lực có thuật thức bẩm sinh, nhưng cách mỗi người mở rộng và kết hợp thuật thức, cùng lãnh địa phản ánh tâm hồn, cũng rất sáng tạo."
+      },
+      "image_prompt": "a gallery of surreal domain landscapes, each different from the next"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku chấm: Chakra ba điểm, Nen năm điểm, Chú lực bốn điểm. Nen thắng nhờ Hatsu, nơi giới hạn duy nhất là trí tưởng tượng và luật."
+      },
+      "image_prompt": "a scorecard with glowing numbers 3, 5, 4",
+      "on_screen_text": "Chakra 3 · Nen 5 · Chú lực 4"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Giờ cộng điểm. Chakra được ba cộng ba cộng ba cộng ba cộng ba cộng ba, tổng mười tám điểm."
+      },
+      "image_prompt": "a scoreboard with a blue orb and the number 18 glowing",
+      "chapter": "Kết quả chung cuộc",
+      "on_screen_text": "Chakra: 18/30"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Nen được bốn cộng năm cộng năm cộng năm cộng năm cộng năm, tổng hai mươi chín điểm."
+      },
+      "image_prompt": "a scoreboard with a golden hexagon and the number 29 glowing brightly",
+      "on_screen_text": "Nen: 29/30"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Chú lực được năm cộng ba cộng bốn cộng năm cộng năm cộng bốn, tổng hai mươi sáu điểm."
+      },
+      "image_prompt": "a scoreboard with a purple flame and the number 26 glowing",
+      "on_screen_text": "Chú lực: 26/30"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Theo bảng chấm của Kaku, Nen là hệ thống chặt chẽ nhất, Chú lực đứng thứ hai rất sát, và Chakra đứng thứ ba."
+      },
+      "image_prompt": "a podium with a golden hexagon on top, a purple flame second, and a blue orb third",
+      "on_screen_text": "1. Nen · 2. Chú lực · 3. Chakra",
+      "video_prompt": "the podium rises as each symbol lands on its place with a burst of light, static wide shot",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Nhưng nhớ nhé: chặt chẽ không có nghĩa là hay hơn. Chakra thua về luật, nhưng lại thắng ở cảm xúc và độ phổ biến."
+      },
+      "image_prompt": "the owl mascot holding a small trophy but pointing to a crowd cheering for the blue orb",
+      "use_mascot": true
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Để thấy sự khác nhau rõ hơn, hãy tưởng tượng cùng một tình huống xảy ra trong ba thế giới: một người yếu hơn phải đánh bại một người mạnh hơn nhiều."
+      },
+      "image_prompt": "a small figure facing a towering opponent on a bridge, three colored filters overlaid",
+      "chapter": "Thử nghiệm: một trận đấu, ba hệ thống",
+      "on_screen_text": "Một trận, ba thế giới"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Trong thế giới Chakra, người yếu thường thắng nhờ một cú bộc phát cảm xúc, một nhẫn thuật mới học được đúng lúc, hoặc sự giúp đỡ của đồng đội."
+      },
+      "image_prompt": "a small ninja surrounded by bursting blue energy and friends arriving behind him"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Trong thế giới Nen, người yếu thắng nhờ thông tin và giao ước: giấu năng lực, đặt điều kiện khắt khe cho một đòn duy nhất, và đánh đúng lúc đối thủ chủ quan."
+      },
+      "image_prompt": "a small figure hiding a glowing hand behind their back while the opponent laughs, a contract glowing"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Trong thế giới Chú lực, người yếu thắng nhờ hiểu thuật thức của đối thủ, dùng giản dị lãnh địa để sống sót, và phản công khi thuật thức đối thủ bị cháy."
+      },
+      "image_prompt": "a small figure inside a circle of calm light while a collapsing dome fades around them"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Cùng một câu chuyện, nhưng ba cách giải quyết rất khác nhau. Đó chính là dấu ấn của từng hệ thống."
+      },
+      "image_prompt": "three short film strips side by side, each ending with the small figure standing"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku nhận xét: nhìn cách kẻ yếu chiến thắng là cách nhanh nhất để hiểu một hệ thống sức mạnh được thiết kế ra sao."
+      },
+      "image_prompt": "the owl mascot holding a magnifying glass over the small figure in the film strip",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Ba hệ thống hôm nay không phải là tất cả. Trên kênh, Kaku đã giải mã thêm vài hệ thống khác, và mỗi hệ có một điểm mạnh riêng."
+      },
+      "image_prompt": "a bookshelf with glowing spines, each with a different small emblem",
+      "chapter": "Những hệ thống khác trên kênh",
+      "on_screen_text": "Các hệ thống khác"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Haki của One Piece gắn với ý chí, và cân bằng giữa số phận với nỗ lực."
+      },
+      "image_prompt": "a black lightning fist emblem glowing on a book spine"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hơi thở của Kimetsu no Yaiba có một cây phả hệ rõ ràng, và cái giá được trả bằng chính cơ thể."
+      },
+      "image_prompt": "a book spine with a flowing family tree emblem of water and fire"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Ma thuật trong Frieren có lịch sử và tiến hóa như khoa học, nơi phép mạnh nhất hôm nay có thể là bài học vỡ lòng ngày mai."
+      },
+      "image_prompt": "a book spine with a violet beam emblem turning into a textbook icon"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Và ác quỷ trong Chainsaw Man có sức mạnh đến từ nỗi sợ của cả loài người."
+      },
+      "image_prompt": "a book spine with a shadowy crowd emblem"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nếu chấm theo sáu tiêu chí hôm nay, bạn nghĩ hệ thống nào trong số đó sẽ đứng đầu? Kaku có thể làm một bảng xếp hạng lớn nếu bạn muốn."
+      },
+      "image_prompt": "the owl mascot holding a long blank ranking scroll unrolling to the floor",
+      "use_mascot": true
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Một câu hỏi vui để khép lại phần phân tích: nếu một nhân vật có cả Chakra, Nen và Chú lực, điều gì sẽ xảy ra?"
+      },
+      "image_prompt": "a figure with three colored auras swirling around them: blue, gold, and purple",
+      "chapter": "Nếu trộn ba hệ thống",
+      "on_screen_text": "Nếu trộn cả ba?"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Có lẽ họ sẽ dùng kết ấn để tung nhẫn thuật, đặt giao ước Nen để tăng sức mạnh, và mở lãnh địa để đòn đánh tất trúng. Nghe thì đáng sợ, nhưng rất khó kể thành chuyện."
+      },
+      "image_prompt": "a chaotic storm of three energies clashing inside a single figure, cracks forming"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Vì mỗi hệ thống được thiết kế cho câu chuyện riêng của nó. Trộn lẫn thì luật bị chồng chéo, và giới hạn, thứ làm trận đấu hay, sẽ biến mất."
+      },
+      "image_prompt": "three puzzle sets whose pieces do not fit together, scattered on a table"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Đây cũng là lý do các tác giả giỏi thường giữ hệ thống của mình gọn gàng: ít khái niệm, luật rõ, và cái giá thật."
+      },
+      "image_prompt": "a single clean glowing emblem inside a simple frame, calm and balanced"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nếu Chakra đứng cuối bảng, vì sao Naruto vẫn là một trong những bộ truyện được yêu thích nhất mọi thời đại?"
+      },
+      "image_prompt": "a massive crowd of fans holding up headbands, glowing blue energy rising above them",
+      "chapter": "Vì sao Chakra vẫn được yêu thích nhất?",
+      "on_screen_text": "Vì sao vẫn được yêu thích?"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Lý do một: Chakra rất dễ hiểu. Một đứa trẻ xem lần đầu cũng hiểu ngay: tập trung năng lượng, kết ấn, tung chiêu."
+      },
+      "image_prompt": "a child copying hand seals in front of a TV screen, eyes shining"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Lý do hai: Naruto tập trung vào cảm xúc và mối quan hệ hơn là luật chơi. Trận đấu hay vì ta quan tâm tới nhân vật, không phải vì ta hiểu hết cơ chế."
+      },
+      "image_prompt": "two rivals facing each other at a waterfall, rain falling, emotions more than energy visible"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Lý do ba: Chakra ra đời sớm hơn và mở đường cho nhiều bộ sau. Nhiều hệ thống hiện đại học hỏi từ những gì Naruto đã làm."
+      },
+      "image_prompt": "a road with footprints leading from an old path into many newer branching paths"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Kaku nghĩ: một hệ thống không cần hoàn hảo để làm nên một câu chuyện tuyệt vời. Luật là công cụ, còn cảm xúc mới là đích đến."
+      },
+      "image_prompt": "the owl mascot placing a rulebook down and picking up a small heart-shaped lantern",
+      "use_mascot": true
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Dù khác nhau, cả ba hệ thống chia sẻ một vài ý tưởng chung, và những ý tưởng này có lẽ là công thức của một hệ thống sức mạnh hay."
+      },
+      "image_prompt": "three overlapping circles of blue, gold, and purple with a glowing intersection",
+      "chapter": "Điểm chung của ba hệ thống",
+      "on_screen_text": "Điểm chung"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Một, sức mạnh đến từ bên trong con người, không phải từ vũ khí hay công nghệ. Người mạnh là người hiểu và làm chủ chính mình."
+      },
+      "image_prompt": "a figure meditating with energy of three colors swirling inside their chest"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Hai, sức mạnh phản ánh tính cách. Năng lực của nhân vật nói lên họ là ai: hệ Nen, thuật thức, hay phong cách chiến đấu đều gắn với con người họ."
+      },
+      "image_prompt": "a mirror reflecting different figures as different glowing emblems"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Ba, sức mạnh có giới hạn và cái giá. Không có năng lực nào vô hạn, và chính giới hạn tạo ra kịch tính."
+      },
+      "image_prompt": "a glowing power source inside a cage made of chains, stable and contained"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Bốn, sức mạnh có thể rèn luyện. Dù tài năng quan trọng, cả ba bộ đều có những nhân vật đi lên nhờ nỗ lực."
+      },
+      "image_prompt": "a figure climbing a staircase with sweat drops, three colored lights at the top"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nếu được tự thiết kế một hệ thống sức mạnh từ những gì học được hôm nay, Kaku sẽ lấy mỗi hệ một điểm mạnh."
+      },
+      "image_prompt": "a blank blueprint on a drafting table with three colored pencils beside it",
+      "chapter": "Hệ thống sức mạnh lý tưởng",
+      "on_screen_text": "Hệ thống lý tưởng"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Từ Chú lực, mình lấy nguồn năng lượng gắn với chủ đề câu chuyện. Nếu truyện nói về lòng dũng cảm, năng lượng nên đến từ lòng dũng cảm."
+      },
+      "image_prompt": "a purple pencil drawing a wellspring connected to a heart icon on the blueprint"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Từ Nen, mình lấy luật rõ ràng, sự công bằng và không gian để mỗi nhân vật tự thiết kế năng lực."
+      },
+      "image_prompt": "a gold pencil drawing a clean hexagon rulebook and a blank emblem slot"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Từ Chakra, mình lấy sự dễ hiểu và cảm xúc. Một đứa trẻ xem lần đầu cũng phải hiểu ngay và thấy phấn khích."
+      },
+      "image_prompt": "a blue pencil drawing a simple glowing hand seal and a smiling child"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và cuối cùng, một cái giá thật cho mọi sức mạnh lớn, để mỗi lựa chọn của nhân vật đều có ý nghĩa."
+      },
+      "image_prompt": "a finished blueprint with a small price tag drawn at the center, glowing softly"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu bạn cũng đang viết truyện hay làm game, hy vọng bảng tiêu chí này giúp ích. Và nếu bạn thiết kế được một hệ thống hay, hãy kể cho Kaku nghe nhé."
+      },
+      "image_prompt": "the owl mascot rolling up the blueprint and tying it with its red scarf",
+      "use_mascot": true
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Để công bằng, đây là vài ý kiến trái chiều mà Kaku thấy fan hay đưa ra, và mình nghĩ chúng đều có lý."
+      },
+      "image_prompt": "a debate stage with several podiums, speech bubbles without text above them",
+      "chapter": "Ý kiến trái chiều",
+      "on_screen_text": "Ý kiến trái chiều"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Có người cho rằng Nen chặt chẽ nhưng tác giả đôi khi vẫn phá luật khi cần, nên không thể cho gần tuyệt đối. Điều này hợp lý, không hệ thống nào hoàn hảo."
+      },
+      "image_prompt": "a precise hexagon diagram with a single small crack glowing at one corner"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Có người cho rằng Chú lực mới là chặt nhất vì có nhiều tầng khái niệm hơn. Nhưng nhiều khái niệm cũng làm người xem mới khó theo."
+      },
+      "image_prompt": "a very tall tower of stacked technique diagrams with a small confused figure at its base"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Và có người cho rằng không nên so sánh vì mỗi bộ có mục đích khác nhau. Điều này cũng đúng, và là lý do Kaku chỉ chấm theo tiêu chí, không nói bộ nào hay hơn."
+      },
+      "image_prompt": "three different-shaped keys each fitting a different lock"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Nếu bạn chấm khác Kaku, hãy viết điểm của bạn cho sáu tiêu chí xuống phần bình luận. Kaku sẽ đọc hết."
+      },
+      "image_prompt": "the owl mascot holding a blank scorecard and a pencil, looking at the viewer",
+      "use_mascot": true
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Tóm lại: theo sáu tiêu chí, Nen đạt hai mươi chín điểm, Chú lực hai mươi sáu, và Chakra mười tám."
+      },
+      "image_prompt": "a final scoreboard showing 29, 26, and 18 under the three symbols",
+      "chapter": "Tóm tắt",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s89",
+      "narration": {
+        "vi": "Nen thắng về luật, sự công bằng và sáng tạo. Chú lực thắng về nguồn năng lượng gắn với chủ đề. Chakra thắng về sự dễ hiểu và cảm xúc."
+      },
+      "image_prompt": "three small trophies each with a different label icon"
+    },
+    {
+      "id": "s90",
+      "narration": {
+        "vi": "Và bài học chung: một hệ thống sức mạnh hay cần nguồn gốc rõ ràng, luật dễ hiểu, cái giá thật, và chỗ cho nhân vật tỏa sáng theo cách riêng."
+      },
+      "image_prompt": "a blueprint of an ideal power system with four glowing pillars"
+    },
+    {
+      "id": "s91",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: hệ thống sức mạnh yêu thích của bạn là gì, kể cả ngoài ba hệ này? Viết xuống phần bình luận để Kaku làm video tiếp theo nhé."
+      },
+      "image_prompt": "the owl mascot holding a suggestion box with a slot on top",
+      "on_screen_text": "Hệ thống bạn thích?",
+      "use_mascot": true
+    },
+    {
+      "id": "s92",
+      "narration": {
+        "vi": "Nếu video hữu ích, hãy đăng ký kênh. Video sau Kaku sẽ xếp hạng các dạng Super Saiyan trong Dragon Ball, theo sức mạnh và cái giá."
+      },
+      "image_prompt": "the owl mascot pointing at a glowing golden aura with spiky hair silhouette",
+      "use_mascot": true
+    },
+    {
+      "id": "s93",
+      "narration": {
+        "vi": "Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing a glowing notebook and waving goodbye behind a judge's desk",
+      "use_mascot": true
+    }
+  ]
+}

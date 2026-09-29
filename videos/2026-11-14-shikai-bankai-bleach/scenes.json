@@ -1,0 +1,681 @@
+{
+  "title": "Bleach: Từ thanh kiếm không tên đến Bankai — bậc thang tiến hóa của trảm phách đao",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối vừa phát xong năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé."
+      },
+      "image_prompt": "a lone katana stuck in the ground on a hill under a pale moon, wind blowing through tall grass",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết Huyết chiến ngàn năm"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một thanh kiếm Nhật bình thường. Không phát sáng, không có hoa văn đặc biệt. Nhưng nếu bạn gọi đúng tên nó, nó sẽ trả lời."
+      },
+      "image_prompt": "an ordinary katana resting on a wooden stand in a dark room, a faint breath of wind stirring dust around it",
+      "on_screen_text": "Gọi đúng tên, kiếm sẽ trả lời",
+      "video_prompt": "dust lifts around the resting katana and its guard begins to glow faintly as if breathing, slow push-in",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trong Bleach, mỗi thanh kiếm của tử thần có một linh hồn riêng. Và sức mạnh của người cầm kiếm tăng theo mức độ họ hiểu linh hồn đó."
+      },
+      "image_prompt": "a warrior kneeling before a translucent spirit that rises from a sword, the two facing each other in silence"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku vẽ một bậc thang sáu nấc, từ thanh kiếm không tên cho tới Bankai. Mỗi nấc có ba dòng: điều kiện, sức mạnh, và cái giá."
+      },
+      "image_prompt": "the owl mascot drawing a staircase with six steps in its notebook, each step with three small icons",
+      "on_screen_text": "6 nấc · Điều kiện · Sức mạnh · Cái giá",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot draws the last step and the whole staircase lights up from bottom to top, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Bộ anime Huyết chiến ngàn năm vừa khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm."
+      },
+      "image_prompt": "a final film reel being placed into a box beside a sheathed katana, soft evening light",
+      "on_screen_text": "Anime vừa kết thúc"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Trước khi leo thang, cần biết tử thần là ai. Trong Bleach, tử thần là những linh hồn chiến binh, dẫn dắt linh hồn người chết sang thế giới bên kia và chiến đấu với ác linh."
+      },
+      "image_prompt": "a black-robed warrior standing on a rooftop at night, watching over a quiet city",
+      "chapter": "Tử thần và thanh kiếm",
+      "on_screen_text": "Tử thần"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Vũ khí của họ là trảm phách đao, thanh kiếm có thể chém cả linh hồn. Nó không phải đồ rèn sẵn để phát cho ai cũng như ai, mà phản chiếu linh hồn của chính người cầm."
+      },
+      "image_prompt": "a row of swords on a rack, each casting a different shaped shadow on the wall behind it",
+      "on_screen_text": "Trảm phách đao"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Vì vậy không có hai thanh trảm phách đao nào giống nhau. Có thanh mang lửa, có thanh mang băng, có thanh biến thành cánh hoa, có thanh biến thành một con thú khổng lồ."
+      },
+      "image_prompt": "a fan of glowing blade silhouettes: one wreathed in fire, one in ice, one dissolving into petals, one casting a beast shadow"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Bleach là manga của Kubo Tite, đăng từ năm 2001 tới 2016. Phần cuối của truyện được chuyển thể thành bộ anime Huyết chiến ngàn năm, phát từ năm 2022."
+      },
+      "image_prompt": "a long bookshelf of manga volumes ending in a dramatic final volume glowing faintly",
+      "on_screen_text": "Manga 2001–2016"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku ghi chú: Bleach nổi tiếng với cách đặt tên và câu gọi kiếm rất đẹp. Mỗi lần giải phóng là một câu thơ ngắn. Kaku sẽ dùng tên tiếng Nhật cho các nấc, vì dịch ra nghe không ngầu bằng."
+      },
+      "image_prompt": "the owl mascot practicing a dramatic pose with a tiny wooden sword",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Nấc đầu tiên của bậc thang thật ra là con số không. Phần cuối truyện tiết lộ rằng mọi tử thần đều bắt đầu với một thanh kiếm không tên gọi là Asauchi."
+      },
+      "image_prompt": "a row of identical plain nameless swords in a training academy armory",
+      "chapter": "Nấc 0: Thanh kiếm không tên",
+      "on_screen_text": "Nấc 0: Asauchi"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Điều kiện: vào học viện đào tạo tử thần và nhận kiếm. Thanh kiếm lúc này không có linh hồn riêng, giống như một trang giấy trắng."
+      },
+      "image_prompt": "a young trainee receiving a plain sword from an instructor in a stone courtyard"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Sức mạnh: chỉ là một thanh kiếm chém được linh hồn. Người cầm dùng nó bằng kiếm thuật thuần túy."
+      },
+      "image_prompt": "a trainee practicing basic sword forms at dawn, the plain blade reflecting light"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Cái giá: chưa có. Nhưng khi chủ nhân chiến đấu, rèn luyện và sống cùng thanh kiếm, linh hồn của họ dần in dấu vào nó. Thanh kiếm bắt đầu trở thành của riêng họ."
+      },
+      "image_prompt": "a faint glow slowly spreading from a trainee's hands into the blade over many seasons",
+      "on_screen_text": "Linh hồn in dấu vào kiếm"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Điều đó cũng giải thích vì sao thanh kiếm của một người không thể đem cho người khác dùng như của mình. Nó đã mang hình dạng linh hồn của đúng một người."
+      },
+      "image_prompt": "two warriors trying to swap swords, the blades flickering and refusing to respond in the wrong hands"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là chi tiết rất đẹp. Thanh kiếm không có sẵn tính cách. Nó lớn lên cùng bạn."
+      },
+      "image_prompt": "the owl mascot pressing its wing print onto a blank sword like a stamp",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Nấc một là trạng thái mà ta thấy thường xuyên nhất: thanh kiếm đã có linh hồn riêng, nhưng đang ngủ, trông như một thanh katana bình thường."
+      },
+      "image_prompt": "a sheathed katana with a unique guard design resting on a warrior's hip",
+      "chapter": "Nấc 1: Trạng thái niêm phong",
+      "on_screen_text": "Nấc 1: Niêm phong"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Điều kiện: thanh kiếm đã mang linh hồn của chủ nhân. Mỗi thanh có một chuôi, một đốc kiếm khác nhau, như dấu vân tay."
+      },
+      "image_prompt": "close-up of several different sword guards: a square one, a flower-shaped one, a star-shaped one"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Sức mạnh: vẫn chỉ là kiếm thuật cộng với sức mạnh tâm linh của người dùng. Nhưng với những người rất mạnh, chỉ một nhát chém ở trạng thái này cũng đã đủ nguy hiểm."
+      },
+      "image_prompt": "a warrior slicing a boulder cleanly in half with a single unreleased stroke"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Cái giá: không có gì, ngoài việc bạn chưa khai thác được sức mạnh thật của nó. Nhiều tử thần cả đời chỉ ở nấc này."
+      },
+      "image_prompt": "a crowd of ordinary black-robed warriors walking in formation, swords still sealed"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Thú vị là có vài nhân vật giữ kiếm ở trạng thái giải phóng suốt, vì sức mạnh tâm linh quá lớn khiến thanh kiếm không thể quay về hình dạng thường. Nhân vật chính Ichigo là một ví dụ."
+      },
+      "image_prompt": "an oversized cleaver-like blade with no guard, wrapped in cloth, strapped to a young warrior's back",
+      "on_screen_text": "Giải phóng thường trực"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Nấc hai là bước ngoặt đầu tiên: nghe được tên của thanh kiếm. Không phải tự đặt tên, mà là nghe linh hồn trong kiếm nói tên của nó."
+      },
+      "image_prompt": "a warrior meditating with a sword across their knees, a faint whisper visualized as glowing characters in the air",
+      "chapter": "Nấc 2: Biết tên thanh kiếm",
+      "on_screen_text": "Nấc 2: Nghe tên kiếm"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Điều kiện: đối thoại với linh hồn trong kiếm, thường qua thiền định, hoặc trong những khoảnh khắc sinh tử. Linh hồn kiếm sống trong thế giới nội tâm của chủ nhân."
+      },
+      "image_prompt": "a surreal inner world: a skyscraper city tilted sideways, a cloaked figure standing on a building's side",
+      "on_screen_text": "Thế giới nội tâm"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Thế giới nội tâm này phản chiếu tâm trạng của người đó. Khi họ buồn, trong đó có thể đổ mưa. Khi họ quyết tâm, bầu trời trong đó trong xanh."
+      },
+      "image_prompt": "a sideways city under heavy rain, then the same city under a clear sky, split down the middle"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Sức mạnh: chưa tăng ngay, nhưng đây là chìa khóa để mở nấc tiếp theo. Cái giá: không phải ai cũng nghe được. Có người mất hàng chục năm, có người không bao giờ nghe thấy."
+      },
+      "image_prompt": "a warrior straining to listen in silence, years passing as seasons change behind them"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku ghi chú: để mạnh hơn, trước tiên phải biết lắng nghe. Kaku thấy câu này đúng cả với việc học hành."
+      },
+      "image_prompt": "the owl mascot cupping a wing to its ear, listening to a tiny book",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Nấc ba là Shikai, lần giải phóng đầu tiên. Người dùng hô một câu lệnh, rồi gọi tên thanh kiếm. Thanh kiếm biến đổi hình dạng và thức tỉnh năng lực."
+      },
+      "image_prompt": "a katana transforming mid-swing, its blade reshaping as a burst of spiritual energy erupts",
+      "chapter": "Nấc 3: Shikai",
+      "on_screen_text": "Nấc 3: Shikai",
+      "video_prompt": "the blade reshapes mid-swing and spiritual energy bursts outward like a shockwave, slow motion orbit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Điều kiện: biết tên kiếm và có đủ sức mạnh tâm linh. Câu lệnh thường là một động từ ngắn, như rơi xuống, gầm lên, hay tan ra, rồi tới tên kiếm."
+      },
+      "image_prompt": "a warrior raising a sword as calligraphy characters of a command swirl around the blade"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Sức mạnh: rất đa dạng. Có thanh kiếm tan thành hàng nghìn lưỡi dao nhỏ như cánh hoa anh đào. Có thanh biến thành một con rồng băng. Có thanh kéo dài và uốn như một con rắn."
+      },
+      "image_prompt": "three panels: a blade dissolving into cherry blossom-like shards, an ice dragon coiling, a segmented whip-sword",
+      "on_screen_text": "Hoa · Băng · Rắn"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Cái giá: tiêu hao sức mạnh tâm linh, và tiết lộ năng lực cho đối thủ. Trong Bleach, biết năng lực của kiếm đối phương là lợi thế cực lớn."
+      },
+      "image_prompt": "an opponent smirking as they study the shape of a newly released blade"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Hầu hết các đội phó và nhiều tử thần mạnh đều đạt tới Shikai. Đây là nấc phân biệt người lính thường với một chiến binh thật sự."
+      },
+      "image_prompt": "a line of officers with released swords of many shapes standing behind their commanders",
+      "on_screen_text": "Đội phó: Shikai"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kaku ghi chú: có một điều kỳ lạ là có những nhân vật rất mạnh mà mãi tới phần cuối truyện mới biết tên thanh kiếm của mình. Sức mạnh thô đôi khi đi trước cả sự thấu hiểu."
+      },
+      "image_prompt": "the owl mascot scratching its head at a sword that refuses to say its name",
+      "use_mascot": true
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Trước khi nói về cái giá, Kaku muốn dừng lại ở thứ khiến Shikai trong Bleach đáng nhớ: những câu lệnh giải phóng."
+      },
+      "image_prompt": "calligraphy brush strokes floating in the air around a raised sword",
+      "chapter": "Những câu lệnh giải phóng đẹp nhất",
+      "on_screen_text": "Câu lệnh giải phóng"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Mỗi câu lệnh là một động từ ngắn trong tiếng Nhật, và nó thường gợi tả đúng năng lực của thanh kiếm."
+      },
+      "image_prompt": "a scroll with several short brushed verbs, each glowing with a different color"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Thanh kiếm tan thành cánh hoa được gọi bằng lệnh rơi rụng. Thanh kiếm hình rắn được gọi bằng lệnh gầm lên. Thanh kiếm băng được gọi bằng một câu dài hơn: ngự trên bầu trời băng giá."
+      },
+      "image_prompt": "three sword silhouettes: one scattering petals, one roaring like a serpent, one surrounded by frost",
+      "on_screen_text": "Rơi rụng · Gầm lên · Ngự trên trời băng"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Có lệnh là nhảy múa, có lệnh là gầm gừ, có lệnh là vươn dài. Nghe tên câu lệnh, người xem gần như đoán được tính cách của cả thanh kiếm lẫn chủ nhân."
+      },
+      "image_prompt": "a small gallery of sword spirits each posing according to its verb: dancing, growling, stretching"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Đây là một cách xây dựng nhân vật rất tiết kiệm: chỉ một câu ngắn, mà nói lên cả một con người."
+      },
+      "image_prompt": "a single brushstroke on paper that forms the silhouette of a warrior"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Kaku ghi chú: nếu bạn học tiếng Nhật, các câu lệnh này là cách học động từ vui nhất quả đất."
+      },
+      "image_prompt": "the owl mascot with a tiny headband practicing brush calligraphy",
+      "use_mascot": true
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Giữa Shikai và Bankai có một nấc mà nhiều người quên: cụ hiện hóa, tức là kéo linh hồn thanh kiếm ra khỏi thế giới nội tâm, đưa nó xuất hiện trong thế giới thực."
+      },
+      "image_prompt": "a translucent spirit stepping out of a sword into the real world, standing face to face with its owner",
+      "chapter": "Nấc 4: Cụ hiện hóa",
+      "on_screen_text": "Nấc 4: Cụ hiện hóa"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Điều kiện: sức mạnh tâm linh và sự hòa hợp đủ lớn để linh hồn kiếm có hình dạng thật. Việc này thường mất rất nhiều năm."
+      },
+      "image_prompt": "a warrior and a spirit meditating opposite each other across seasons, snow falling then melting"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Sức mạnh: chưa tăng, nhưng người dùng giờ có thể đối mặt trực tiếp với linh hồn kiếm. Và bước tiếp theo đòi hỏi chính điều đó."
+      },
+      "image_prompt": "a warrior drawing their sword against their own sword's spirit in an empty training ground"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Cái giá: thời gian và nguy hiểm. Linh hồn kiếm không phải lúc nào cũng thân thiện. Có linh hồn kiêu ngạo, có linh hồn hung dữ, có linh hồn thử thách chủ nhân bằng cả mạng sống."
+      },
+      "image_prompt": "a fierce beast-like spirit roaring at a warrior who stands firm, sword raised",
+      "on_screen_text": "Linh hồn kiếm có tính cách"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nấc cao nhất là Bankai, lần giải phóng cuối cùng. Để đạt được, người dùng phải cụ hiện hóa linh hồn kiếm, rồi khuất phục nó, thường là trong một trận đấu."
+      },
+      "image_prompt": "a warrior standing victorious over a kneeling sword spirit, both glowing with power",
+      "chapter": "Nấc 5: Bankai",
+      "on_screen_text": "Nấc 5: Bankai"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Điều kiện: theo truyện, ngay cả người có tài năng cũng cần khoảng mười năm hoặc hơn để thành thạo Bankai. Đó là lý do nó hiếm đến vậy."
+      },
+      "image_prompt": "a calendar spiraling through ten years behind a warrior training under a waterfall",
+      "on_screen_text": "Khoảng 10 năm"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nhân vật chính là ngoại lệ nổi tiếng: nhờ một phương pháp luyện đặc biệt và đặt cược cả mạng sống, cậu đạt Bankai chỉ trong khoảng ba ngày."
+      },
+      "image_prompt": "a young warrior exhausted in a vast underground training cavern, a glowing figure fading beside him",
+      "on_screen_text": "Ngoại lệ: 3 ngày"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Sức mạnh: truyện nói Bankai mạnh hơn Shikai khoảng năm đến mười lần. Hình dạng thay đổi hoàn toàn, có khi thành cả một chiến trường hay một sinh vật khổng lồ."
+      },
+      "image_prompt": "a colossal armored giant rising behind a warrior, sword raised in unison",
+      "on_screen_text": "Mạnh hơn Shikai 5–10 lần",
+      "video_prompt": "the colossal armored giant rises from the ground behind the warrior, dust and debris falling, slow tilt up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Có Bankai thì gần như đủ điều kiện làm đội trưởng. Trong mười ba đội của lực lượng tử thần, gần như tất cả đội trưởng đều có Bankai."
+      },
+      "image_prompt": "thirteen captain silhouettes in white coats standing in a grand hall",
+      "on_screen_text": "Điều kiện làm đội trưởng"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Mỗi Bankai cũng có tên riêng, thường dài hơn tên kiếm ở Shikai, như thể thanh kiếm được gọi bằng tên đầy đủ khi đã trưởng thành hoàn toàn."
+      },
+      "image_prompt": "a long ceremonial name written vertically on a banner above a warrior with a transformed blade"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku ghi chú: không phải Bankai nào cũng to lớn. Bankai của nhân vật chính lại thu nhỏ thành một thanh kiếm đen mảnh, dồn toàn bộ sức mạnh vào tốc độ."
+      },
+      "image_prompt": "a slim black katana held low by a warrior in a long black coat, speed lines behind him",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Bankai mạnh nhất, nhưng cũng là nấc có cái giá đáng sợ nhất. Và cái giá đó không chỉ là thể lực."
+      },
+      "image_prompt": "a cracked sword lying on stone, a faint crack also glowing on the owner's hand",
+      "chapter": "Cái giá của Bankai",
+      "on_screen_text": "Cái giá lớn nhất"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Truyện nói Bankai bị gãy thì không bao giờ phục hồi hoàn toàn như cũ. Với nhiều người, mất Bankai giống như mất một phần linh hồn."
+      },
+      "image_prompt": "shards of a broken blade scattered on the ground, a warrior kneeling over them in the rain",
+      "on_screen_text": "Gãy = không phục hồi như cũ"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Có Bankai gắn chặt với cơ thể chủ nhân đến mức vết thương của Bankai truyền thẳng sang người dùng. Bankai càng lớn, rủi ro càng lớn."
+      },
+      "image_prompt": "a giant armored figure wounded on its arm, and the small warrior behind it clutching the same arm"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Và trong Huyết chiến ngàn năm, xuất hiện một mối đe dọa chưa từng có: kẻ thù có thể cướp Bankai, rồi dùng chính sức mạnh đó chống lại chủ nhân."
+      },
+      "image_prompt": "a mysterious medallion glowing as a sword's power is pulled away from its horrified owner",
+      "on_screen_text": "Bankai bị cướp"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nhiều đội trưởng mất Bankai trong đợt tấn công đầu tiên. Đó là lúc cả lực lượng nhận ra nấc cao nhất cũng là điểm yếu lớn nhất nếu bị lấy đi."
+      },
+      "image_prompt": "captains standing in a ruined courtyard, empty hilts in their hands, smoke rising"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là thiết kế rất thông minh. Kẻ địch mạnh nhất không cần mạnh hơn bạn. Chỉ cần lấy đi thứ bạn dựa vào nhiều nhất."
+      },
+      "image_prompt": "the owl mascot clutching its notebook tightly while a shadowy hand reaches for it",
+      "use_mascot": true
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Có ba hiểu lầm về Bankai mà Kaku hay thấy trong bình luận, gỡ nhanh trước khi tới bí mật lớn nhất."
+      },
+      "image_prompt": "three sticky notes on a sword rack, each with a red question mark",
+      "chapter": "Ba hiểu lầm về Bankai",
+      "on_screen_text": "3 hiểu lầm"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Hiểu lầm một: Bankai luôn mạnh hơn mọi Shikai. Không hẳn. Bankai của một người luôn mạnh hơn Shikai của chính họ, nhưng có những Shikai đặc biệt nguy hiểm hơn Bankai của người khác."
+      },
+      "image_prompt": "a small released blade defeating a much larger giant form, the giant toppling",
+      "on_screen_text": "1. Không phải lúc nào cũng vậy"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Hiểu lầm hai: ai có Bankai cũng muốn khoe. Thực ra có nhân vật cố tình giấu Bankai của mình, vì nếu lộ ra sẽ bị điều lên làm đội trưởng ở nơi khác, trong khi anh chỉ muốn chiến đấu dưới trướng đội trưởng của mình."
+      },
+      "image_prompt": "a bald warrior hiding a glowing blade behind his back, grinning at his captain in the distance",
+      "on_screen_text": "2. Có người giấu Bankai"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hiểu lầm ba: Bankai là giới hạn cuối cùng. Truyện cho thấy có những sức mạnh vượt cả Bankai. Nhưng một trong số đó đòi hỏi nhân vật chính trả bằng toàn bộ sức mạnh tử thần của mình sau khi dùng."
+      },
+      "image_prompt": "a warrior engulfed in black flames, his sword dissolving into the fire as his power fades",
+      "on_screen_text": "3. Vượt Bankai phải trả giá"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku ghi chú: cả ba hiểu lầm cho thấy một điều: trong Bleach, sức mạnh không phải là một con số, mà là một lựa chọn, và lựa chọn nào cũng có hậu quả."
+      },
+      "image_prompt": "the owl mascot balancing a sword on one wing and a scale on the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Bây giờ là spoiler lớn nhất video. Nếu chưa xem hết Huyết chiến ngàn năm, bạn có thể tua qua chương này."
+      },
+      "image_prompt": "a warning sign on a closed door with a sword emblem",
+      "chapter": "Bí mật của thanh kiếm nhân vật chính",
+      "on_screen_text": "Spoiler lớn"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Suốt nhiều năm, nhân vật chính tưởng linh hồn thanh kiếm của mình là một ông già mặc áo choàng đen. Cậu gọi ông bằng tên thanh kiếm và coi ông là thầy."
+      },
+      "image_prompt": "a tall old man in a tattered black cloak standing on the side of a skyscraper in an inner world"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Nhưng phần cuối truyện tiết lộ: ông già đó thật ra là hiện thân của một dòng sức mạnh khác trong dòng máu của cậu. Còn linh hồn thật của thanh kiếm lại là thứ cậu vẫn tưởng là kẻ thù bên trong mình."
+      },
+      "image_prompt": "a split image: the cloaked old man on one side, a pale mirror-like double with dark eyes on the other",
+      "on_screen_text": "Linh hồn thật là ai?"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Vì vậy thanh kiếm của cậu phải được rèn lại, lần này thành hai thanh, phản ánh đúng hai nửa sức mạnh trong cậu."
+      },
+      "image_prompt": "a blacksmith's forge with two blades glowing on the anvil, one large and one small"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kaku ghi chú: chi tiết này khiến cả bậc thang có ý nghĩa mới. Biết tên kiếm chưa đủ. Phải biết thật sự mình là ai."
+      },
+      "image_prompt": "the owl mascot looking into a mirror that shows a slightly different owl",
+      "use_mascot": true
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Bleach không chỉ có một bậc thang. Các chủng tộc khác cũng có con đường tiến hóa riêng, và nhìn chúng cạnh nhau rất thú vị."
+      },
+      "image_prompt": "three staircases side by side in a vast void, each a different color",
+      "chapter": "Những bậc thang song song",
+      "on_screen_text": "Ba bậc thang"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Những kẻ phản bội từ phe ác linh có dạng giải phóng riêng: họ niêm phong sức mạnh ác linh vào hình dạng một thanh kiếm, và khi giải phóng thì trở về dạng thật."
+      },
+      "image_prompt": "a warrior-like figure with a bone mask fragment releasing a sword into a monstrous armored form",
+      "on_screen_text": "Giải phóng của ác linh"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Còn những cung thủ thuộc tộc người đối lập với tử thần có dạng giải phóng hoàn toàn, với đôi cánh ánh sáng và vầng hào quang trên đầu."
+      },
+      "image_prompt": "an archer figure with glowing wings of light and a halo, arrows of energy hovering around them",
+      "on_screen_text": "Giải phóng của cung thủ"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Điểm chung của cả ba: sức mạnh tối thượng luôn đến từ việc chấp nhận bản chất thật của mình, dù bản chất đó là gì."
+      },
+      "image_prompt": "three figures on top of three staircases, each facing a mirror of themselves"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nhìn lại cả bậc thang, Kaku thấy Bleach đang kể một câu chuyện về sự thấu hiểu bản thân, không phải về sức mạnh."
+      },
+      "image_prompt": "the owl mascot sitting at the top of a small staircase, looking back down it thoughtfully",
+      "chapter": "Góc nhìn của Kaku: kiếm là chính mình",
+      "use_mascot": true
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nấc không là một trang giấy trắng. Nấc một là khi linh hồn bạn in dấu vào kiếm. Nấc hai là khi bạn chịu lắng nghe. Nấc ba là khi bạn gọi đúng tên."
+      },
+      "image_prompt": "the first four steps lighting up one by one with small icons: blank page, fingerprint, ear, voice"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nấc bốn là khi bạn đối mặt với linh hồn đó. Và nấc năm là khi bạn khuất phục nó, không phải bằng cách tiêu diệt, mà bằng cách chứng minh mình xứng đáng."
+      },
+      "image_prompt": "the top steps lighting up: two faces meeting, then a hand resting on a kneeling spirit's shoulder"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nói cách khác: thanh kiếm mạnh nhất là thanh kiếm hiểu bạn nhất, và bạn hiểu nó nhất. Người chưa biết mình là ai thì không thể leo tới đỉnh."
+      },
+      "image_prompt": "a warrior and their sword spirit standing side by side at the peak, looking at the same horizon"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku nghĩ đó là lý do các cảnh giải phóng kiếm trong Bleach luôn xúc động. Đó không chỉ là tăng sức mạnh, mà là một người vừa hiểu thêm về chính mình."
+      },
+      "image_prompt": "a single cherry blossom petal landing on a sheathed blade in soft morning light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Trò chơi cuối: hãy tự đặt tên cho trảm phách đao của bạn, theo đúng luật của Bleach. Tất nhiên đây là trò vui, tên do bạn tự nghĩ."
+      },
+      "image_prompt": "the owl mascot holding a blank sword tag and a brush",
+      "chapter": "Trò chơi: đặt tên thanh kiếm của bạn",
+      "on_screen_text": "Kiếm của bạn tên gì?",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Bước một: nghĩ về tính cách của bạn. Nóng nảy thì có thể là lửa. Điềm tĩnh thì có thể là nước hay băng. Hay thay đổi thì có thể là gió."
+      },
+      "image_prompt": "four small elemental icons around a thoughtful silhouette: fire, water, ice and wind"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Bước hai: chọn một động từ làm câu lệnh, như bùng cháy, đóng băng, hay thức dậy. Bước ba: đặt tên kiếm, thường là tên một hiện tượng hay sinh vật."
+      },
+      "image_prompt": "calligraphy practice sheet with verbs and names written in brush strokes"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku thử trước: câu lệnh là lật trang, tên kiếm là Mực Đêm. Năng lực: biến mọi dòng chữ thành những con chim mực bay ra khỏi trang giấy."
+      },
+      "image_prompt": "the owl mascot raising a pen like a sword as ink birds burst out of its notebook",
+      "on_screen_text": "Kaku: Lật trang, Mực Đêm",
+      "use_mascot": true,
+      "video_prompt": "the owl mascot raises the pen and ink birds burst from the notebook pages and fly past the camera, gentle handheld",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Giờ tới bạn. Hãy viết câu lệnh, tên kiếm và năng lực vào phần bình luận. Kaku sẽ chọn vài cái hay nhất để vẽ minh họa trong video sau."
+      },
+      "image_prompt": "a blank comment card with three lines and a small sword doodle"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Tóm lại: bậc thang của trảm phách đao đi từ thanh kiếm không tên, qua trạng thái niêm phong, biết tên kiếm, Shikai, cụ hiện hóa, cho tới Bankai."
+      },
+      "image_prompt": "a summary staircase with six glowing steps and small labels",
+      "chapter": "Kết",
+      "on_screen_text": "Tóm tắt"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Mỗi nấc cao hơn cần hiểu linh hồn kiếm sâu hơn, mạnh hơn nhiều lần, và mang cái giá lớn hơn: Bankai gãy thì không phục hồi như cũ, và có thể bị cướp đi."
+      },
+      "image_prompt": "a staircase where each higher step casts a longer, darker shadow"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Câu hỏi cho bạn: nếu có Bankai, bạn muốn nó khổng lồ như một đội quân, hay nhỏ gọn và nhanh như một tia chớp?"
+      },
+      "image_prompt": "the owl mascot holding a giant toy sword in one wing and a tiny dagger in the other",
+      "on_screen_text": "To lớn hay nhỏ gọn?",
+      "use_mascot": true
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tới, Kaku sẽ trải một cuộn giấy dài tám trăm năm, để xếp lại dòng thời gian của thế giới One Piece và bí ẩn của Thế kỷ trống."
+      },
+      "image_prompt": "a very long scroll unrolling across a wooden floor with a faded map and dates",
+      "on_screen_text": "Tiếp theo: 800 năm One Piece"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Hãy đăng ký kênh nếu bạn thích video. Kaku tra bút vào vỏ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot sliding a pen into a tiny sheath at its side and bowing",
+      "use_mascot": true
+    }
+  ]
+}
