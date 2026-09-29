@@ -1,0 +1,667 @@
+{
+  "title": "Miền đất hứa: Nếu bạn là đứa trẻ ở Grace Field, bạn có thoát được không?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói về bí mật lớn nhất của Miền đất hứa ngay từ đầu, và đi tới hết cuộc đào thoát khỏi Grace Field, tức anime mùa một. Nếu bạn chưa xem, hãy lưu lại. Tập một của bộ này rất đáng để xem mà không biết gì."
+      },
+      "image_prompt": "a closed storybook with a white picket fence drawn on its cover lying on a wooden table beside a spoiler card, close-up, deceptively warm light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: bí mật lớn nhất"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Giả sử bạn tỉnh dậy trong một trại mồ côi tuyệt đẹp. Có đồng cỏ xanh, rừng cây, đồ ăn ngon, và một người mẹ hiền lành yêu thương tất cả các con."
+      },
+      "image_prompt": "a beautiful white orphanage building surrounded by green meadows and a forest under a clear sky, wide shot, warm idyllic light",
+      "on_screen_text": "Tỉnh dậy ở Grace Field",
+      "video_prompt": "the camera drifts slowly over the green meadow toward the white orphanage",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Bạn có ba mươi tám anh chị em. Mỗi ngày học, chơi, làm bài kiểm tra. Không ai phải đói, không ai bị đánh. Chỉ có hai luật: không được đi quá khu rừng, và không được tới gần cánh cổng."
+      },
+      "image_prompt": "a group of children in plain white clothes running across a grassy field toward a distant tree line, wide shot, bright cheerful light",
+      "on_screen_text": "Hai luật"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Và thỉnh thoảng, một đứa trẻ được nhận nuôi. Nó vui vẻ chào mọi người, đi ra cổng, và không bao giờ viết thư về."
+      },
+      "image_prompt": "a small child waving goodbye at a large closed gate at dusk, back view, wide shot, bittersweet warm light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay bạn là một đứa trẻ ở Grace Field. Kaku sẽ đưa bạn qua mười lựa chọn. Mỗi lựa chọn đúng là một điểm sống sót. Cuối video, bạn biết mình có thoát được hay không."
+      },
+      "image_prompt": "the owl mascot holding a small scorecard with ten empty boxes and a pencil, looking serious",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Miền đất hứa là manga của Shirai Kaiu viết truyện và Demizu Posuka vẽ, đăng trên Weekly Shonen Jump từ năm 2016 tới 2020. Anime mùa một do CloverWorks làm năm 2019."
+      },
+      "image_prompt": "a stack of manga volumes beside a small wooden toy house on a shelf, close-up, warm light",
+      "on_screen_text": "Shirai · Demizu · 2016–2020"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước khi chọn, hãy làm quen ba người sẽ dẫn đường cho bạn. Emma: nhanh nhẹn, lạc quan, học giỏi nhưng quan trọng hơn, cô không bao giờ bỏ ai lại."
+      },
+      "image_prompt": "a cheerful girl running across a meadow while holding the hand of a smaller child, wide shot, bright warm light",
+      "chapter": "Ba bộ óc của Grace Field",
+      "on_screen_text": "Emma"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Norman: điềm tĩnh, giỏi chiến thuật nhất nhà, luôn tính trước vài bước. Cậu là người lên kế hoạch."
+      },
+      "image_prompt": "a calm boy sitting under a tree with a chess board, studying the pieces carefully, medium shot, soft dappled light",
+      "on_screen_text": "Norman"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Ray: trầm lặng, mê đọc sách, lạnh lùng và thực tế. Cậu là người biết nhiều nhất, và giấu nhiều nhất."
+      },
+      "image_prompt": "a quiet boy reading a thick book alone in a corner of a library, lamplight on his face, medium shot, moody light",
+      "on_screen_text": "Ray"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Ba người, ba cách nghĩ: trái tim, chiến thuật, và sự thật lạnh lùng. Mỗi lựa chọn trong video này là một cuộc tranh luận giữa ba cách nghĩ đó."
+      },
+      "image_prompt": "three chairs arranged in a triangle around a small table with a map on it, overhead shot, warm lamplight"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kaku để ý: bạn không cần giống ai trong ba người. Nhưng để thoát, nhóm cần cả ba."
+      },
+      "image_prompt": "the owl mascot placing three small puzzle pieces together to form a complete key shape",
+      "use_mascot": true
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Mỗi sáng, các con phải làm một bài kiểm tra khó: toán, logic, trí nhớ. Người mẹ khen những con được điểm cao. Bạn sẽ làm thế nào?"
+      },
+      "image_prompt": "a classroom with rows of simple desks and test papers, children concentrating in silence, wide shot, bright morning light",
+      "chapter": "Lựa chọn 1: bài kiểm tra mỗi ngày",
+      "on_screen_text": "Lựa chọn 1"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Phương án A: học chăm, cố đạt điểm cao nhất. Phương án B: làm vừa phải, không nổi bật."
+      },
+      "image_prompt": "two paths drawn on parchment: one leading to a trophy, one leading to a quiet ordinary house, amber ink close-up"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nhưng có một nghịch lý: điểm càng cao, bạn càng là món hàng có giá trị hơn. Học giỏi vừa là cách để được giữ lại lâu hơn, vừa khiến bạn trở thành mục tiêu quý giá hơn."
+      },
+      "image_prompt": "a gold trophy sitting inside a birdcage on a shelf, symbolic close-up, cold elegant light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Câu trả lời đúng là A, dù bạn chưa biết vì sao. Ba đứa trẻ giỏi nhất nhà, Emma, Norman và Ray, luôn đạt điểm tối đa. Và điểm cao giúp chúng được giữ lại lâu hơn."
+      },
+      "image_prompt": "three test papers with perfect scores pinned side by side on a corkboard, close-up, warm light",
+      "on_screen_text": "Điểm cao = được giữ lâu hơn"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Về sau bạn sẽ hiểu: bài kiểm tra không chỉ để học. Nó là cách đo xem bộ não của bạn phát triển tới đâu. Bộ não càng tốt, bạn càng có giá trị."
+      },
+      "image_prompt": "a measuring scale with a small brain icon on one side and a coin on the other, symbolic close-up, cold light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Điểm sống sót nếu chọn A: một. Và thêm một điều: bộ não của bạn chính là vũ khí duy nhất để thoát khỏi nơi này."
+      },
+      "image_prompt": "a scorecard with the first box checked in green ink, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Một đêm, Conny, cô bé sáu tuổi, được nhận nuôi. Cô vui vẻ ra đi, nhưng bỏ quên con thỏ bông mà cô không bao giờ rời tay."
+      },
+      "image_prompt": "a small worn stuffed rabbit lying alone on a wooden floor near a door at night, close-up, soft melancholy light",
+      "chapter": "Lựa chọn 2: đêm tiễn bạn",
+      "on_screen_text": "Con thỏ bông bị bỏ quên"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Bạn có mang con thỏ bông ra cổng để trả lại, dù luật cấm tới gần cánh cổng không?"
+      },
+      "image_prompt": "a child's hand hesitating before a large closed gate at night holding a small stuffed rabbit, close-up, tense moonlight"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Emma và Norman đã làm vậy. Và họ phát hiện ra sự thật: không có ai nhận nuôi cả. Ngoài cổng là những sinh vật không phải người, và trẻ em ở Grace Field được nuôi làm thức ăn cho chúng."
+      },
+      "image_prompt": "two small shadows hiding behind a truck at night, peering toward giant shadowy figures in the distance, wide shot, ominous cold light",
+      "on_screen_text": "Sự thật",
+      "video_prompt": "the two small shadows shrink back behind the truck as the giant silhouettes move in the distance",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Hãy tưởng tượng cảm giác của Emma và Norman đêm đó: mọi kỷ niệm đẹp trong mười một năm, mọi bữa ăn, mọi cái ôm của người mẹ, bỗng mang một ý nghĩa khác."
+      },
+      "image_prompt": "a wall of cheerful children's drawings in a dim hallway at night, one drawing slightly crumpled, close-up, cold moonlight"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku không mô tả thêm. Chỉ cần biết: trại mồ côi là một trang trại. Người mẹ là người chăn nuôi. Và các con là sản phẩm."
+      },
+      "image_prompt": "a beautiful orphanage building reflected in a puddle where the reflection shows a cold industrial farm, symbolic close-up, eerie light",
+      "on_screen_text": "Trại mồ côi = trang trại"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Đi hay không đi? Nếu không đi, bạn sẽ sống trong ảo tưởng cho tới ngày tới lượt mình. Nếu đi, bạn biết sự thật nhưng bắt đầu gặp nguy hiểm. Điểm cho lựa chọn đi: một. Không biết sự thật thì không thể thoát."
+      },
+      "image_prompt": "the scorecard with the second box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Giờ bạn biết sự thật. Bạn sẽ nói cho các em nhỏ biết ngay, hay giữ bí mật?"
+      },
+      "image_prompt": "a group of small children laughing and playing tag in a sunny field while an older child watches from a distance with a worried face, wide shot, bittersweet light",
+      "chapter": "Lựa chọn 3: nói hay giữ bí mật",
+      "on_screen_text": "Lựa chọn 3"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Và các em nhỏ có thể vô tình nói ra. Một câu hỏi ngây thơ trong bữa tối cũng đủ để người mẹ biết có chuyện gì đó. Giữ bí mật cũng là để bảo vệ các em."
+      },
+      "image_prompt": "a small child raising a hand at a crowded dinner table to ask something, other children turning to look, medium shot, warm tense light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Nếu nói ngay, các em sẽ hoảng sợ, khóc, và người mẹ sẽ phát hiện ngay lập tức. Kế hoạch sẽ sụp đổ trước khi bắt đầu."
+      },
+      "image_prompt": "a crowd of crying children around a tall calm silhouette in a doorway, symbolic wide shot, cold light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Emma, Norman và Ray chọn giữ bí mật, chỉ nói với vài người đủ lớn và đáng tin. Họ giả vờ như không biết gì, và âm thầm lên kế hoạch."
+      },
+      "image_prompt": "three children whispering together under a large tree at dusk, heads close, medium shot, secretive warm light",
+      "on_screen_text": "Giả vờ không biết"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Điểm cho lựa chọn giữ bí mật: một. Nhưng Kaku muốn bạn để ý cái giá: phải cười mỗi ngày với người mà bạn biết là kẻ nuôi mình để bán."
+      },
+      "image_prompt": "a child's smiling face reflected in a window while their real expression behind the glass looks frightened, symbolic close-up, cold light",
+      "on_screen_text": "+1 điểm, và một cái giá"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Người mẹ, Isabella, dường như luôn biết các con ở đâu. Bạn sẽ đoán cô biết bằng cách nào?"
+      },
+      "image_prompt": "a tall calm woman's silhouette standing at the top of a staircase watching children below, low-angle shot, cold elegant light",
+      "chapter": "Lựa chọn 4: người mẹ biết gì?",
+      "on_screen_text": "Lựa chọn 4"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Người mẹ cũng không bao giờ vội. Cô biết các con có ý định trốn, nhưng cô chơi một ván cờ dài: quan sát, đợi, và phá kế hoạch đúng lúc. Người mẹ là đối thủ đáng sợ nhất, vì cô cũng rất thông minh."
+      },
+      "image_prompt": "a tall calm silhouette slowly moving a chess piece on a board in a dim room, close-up, cold elegant light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Câu trả lời trong truyện: mỗi đứa trẻ đều mang một thiết bị theo dõi được cấy vào người từ khi còn nhỏ. Người mẹ chỉ cần nhìn vào một thiết bị là biết các con ở đâu."
+      },
+      "image_prompt": "a small pocket-watch-like device lying open on a desk with tiny glowing dots on its screen, close-up, eerie blue light",
+      "on_screen_text": "Thiết bị theo dõi"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Và các con còn mang một con số ở cổ, được đánh dấu từ khi còn nhỏ. Mỗi đứa trẻ là một mã số."
+      },
+      "image_prompt": "a ledger with rows of numbers written neatly in ink with no names beside them, extreme close-up, cold office light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nhóm Emma phải tìm ra thiết bị đó nằm ở đâu, và làm sao vô hiệu hóa nó mà không bị phát hiện. Nếu không, trốn chạy là vô ích."
+      },
+      "image_prompt": "a child examining a small diagram of a human outline with several question marks drawn around it, close-up, lamplight"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Điểm cho việc nghi ngờ và đi tìm thiết bị: một. Trong một nhà tù được thiết kế tốt, việc đầu tiên là tìm ra cai ngục nhìn thấy bạn bằng cách nào."
+      },
+      "image_prompt": "the scorecard with the fourth box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Để trốn khỏi một hệ thống, phải hiểu nó. Grace Field không phải trang trại duy nhất. Nó là một trang trại cao cấp, nơi trẻ em được nuôi với sự chăm sóc tốt nhất."
+      },
+      "image_prompt": "a map with several small farm icons scattered across it, one of them marked with a gold star, parchment close-up, cold amber ink",
+      "chapter": "Luật của trang trại",
+      "on_screen_text": "Trang trại cao cấp"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Vì sao phải chăm sóc tốt tới vậy? Vì bộ não được nuôi dưỡng tốt là thứ có giá nhất. Bài kiểm tra mỗi ngày, bữa ăn ngon, tình yêu của người mẹ, tất cả đều là một phần của quy trình."
+      },
+      "image_prompt": "a perfectly arranged dinner table with healthy meals and flowers, filmed through a cold glass window, symbolic wide shot, eerie warm light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Và người mẹ không phải kẻ đến từ bên ngoài. Người mẹ từng là một đứa trẻ ở trang trại. Được chọn, được huấn luyện, và trở thành người chăn nuôi để được sống."
+      },
+      "image_prompt": "an old uniform hanging in a closet beside a child's small white shirt, close-up, melancholy dim light",
+      "on_screen_text": "Người mẹ từng là đứa trẻ"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Cái tên Miền đất hứa cũng liên quan tới một lời hứa cổ xưa giữa con người và những sinh vật ngoài cổng. Phần đó thuộc về những mùa sau, Kaku sẽ không nói thêm."
+      },
+      "image_prompt": "an ancient sealed scroll with two different handprints pressed into wax at its bottom, close-up, mysterious light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Hiểu hệ thống giúp bạn thấy điểm yếu của nó: mọi thứ dựa vào niềm tin rằng trẻ em không biết gì. Khi các con biết, hệ thống bắt đầu nứt."
+      },
+      "image_prompt": "a hairline crack spreading across a perfect porcelain plate, extreme close-up, cold light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Rồi xuất hiện một người lớn thứ hai: Sơ Krone, được gửi tới để giúp mẹ. Sơ có vẻ thù địch với mẹ, và muốn lật đổ mẹ để thay chỗ."
+      },
+      "image_prompt": "a second tall silhouette arriving at the orphanage gate with a suitcase, looking up at the building, wide shot, cold light",
+      "chapter": "Lựa chọn 5: tin ai?",
+      "on_screen_text": "Sơ Krone"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Bạn có hợp tác với Sơ Krone không? Kẻ thù của kẻ thù có phải là bạn?"
+      },
+      "image_prompt": "two chess pieces of different colors side by side, both facing a third piece, close-up, dramatic light"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Nhóm Emma chọn lợi dụng Sơ Krone một cách cẩn thận, trao đổi thông tin nhưng không tin hẳn. Sơ đưa cho họ vài manh mối quan trọng, trước khi bị chính hệ thống loại bỏ."
+      },
+      "image_prompt": "a small folded note being passed secretly under a table, extreme close-up, tense light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Và có một câu hỏi khó hơn nữa: trong chính nhóm của bạn, ai là người đáng tin? Ray, người thông minh nhất, hóa ra đã biết sự thật từ lâu, và đã làm gián điệp cho mẹ."
+      },
+      "image_prompt": "a child standing in shadow at the end of a hallway while two others look toward him with surprise, wide shot, dramatic light",
+      "on_screen_text": "Gián điệp trong nhóm"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Ray đã đổi thông tin lấy những món đồ từ người mẹ, và từng món đều được cậu dùng cho kế hoạch trốn chạy. Một chiếc máy ảnh, những cuốn sách, những mảnh ghép nhỏ cho một bức tranh lớn."
+      },
+      "image_prompt": "a small hidden collection of objects in a secret box: an old camera, a few books, a coil of wire, close-up, secretive warm light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nhưng Ray làm gián điệp để có cơ hội cứu các bạn. Cậu chơi một ván cờ hai mặt từ nhiều năm trước. Tin người không có nghĩa là tin mù quáng. Điểm cho lựa chọn hợp tác nhưng cảnh giác: một."
+      },
+      "image_prompt": "the scorecard with the fifth box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Đây là lựa chọn khó nhất. Kế hoạch trốn thoát có thể chỉ đưa được vài người lớn tuổi. Những em nhỏ bốn, năm tuổi sẽ làm chậm cả nhóm. Bạn sẽ đưa ai đi?"
+      },
+      "image_prompt": "a group of very small children holding hands in a line across a field, wide shot, tender warm light",
+      "chapter": "Lựa chọn 6: đưa ai đi?",
+      "on_screen_text": "Lựa chọn 6: đưa ai đi?"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Phương án A: chỉ những người đủ lớn, đủ nhanh. Tỉ lệ thành công cao hơn. Phương án B: đưa tất cả đi, không bỏ ai lại."
+      },
+      "image_prompt": "two diagrams on parchment: a small fast group running and a large slow group walking together, amber ink close-up"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Hãy tự hỏi thật lòng: nếu bạn là người mười một tuổi, biết rằng mỗi phút chậm trễ có thể khiến tất cả bị bắt, bạn có dám mang theo một em bé bốn tuổi không?"
+      },
+      "image_prompt": "an older child kneeling to tie the shoelace of a tiny child at the edge of a dark forest, close-up, tender tense light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Ray muốn phương án A. Norman thì tính toán thận trọng. Nhưng Emma kiên quyết: không bỏ lại ai. Và chính lựa chọn của Emma định hình cả câu chuyện."
+      },
+      "image_prompt": "a determined girl standing in front of a group of younger children with arms outstretched protectively, medium shot, warm dramatic light",
+      "on_screen_text": "Emma: không bỏ lại ai"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kaku phải nói: về logic thuần túy, phương án A an toàn hơn. Nhưng Miền đất hứa không chấm điểm bằng logic thuần túy. Truyện chấm điểm bằng việc bạn vẫn là người sau khi thoát ra."
+      },
+      "image_prompt": "the owl mascot holding two scorecards, one marked logic and one marked heart, and slowly raising the second",
+      "use_mascot": true
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Kaku cho phương án B: hai điểm. Vì truyện cho thấy những em nhỏ cũng có thể làm được rất nhiều, nếu được tin tưởng và dạy dỗ."
+      },
+      "image_prompt": "the scorecard with the sixth box checked twice in bright ink, close-up, warm light",
+      "on_screen_text": "+2 điểm"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Họ còn phải tính tới cả những em bé chưa biết đi, và những em mới bốn tuổi. Kế hoạch trở thành một bài toán hậu cần: ai bế ai, ai dẫn ai, ai đi trước, ai đi sau."
+      },
+      "image_prompt": "a hand-drawn chart on paper pairing older children's names with younger ones, with arrows and small doodles, close-up, lamplight",
+      "chapter": "Lựa chọn 7: huấn luyện các em"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Muốn đưa tất cả đi, phải chuẩn bị cho tất cả. Nhóm Emma biến những trò chơi hằng ngày thành bài huấn luyện: trốn tìm để học ẩn nấp, đuổi bắt để học chạy nhanh."
+      },
+      "image_prompt": "children playing tag across a meadow with an older child timing them with a stopwatch, wide shot, bright playful light",
+      "on_screen_text": "Trò chơi = huấn luyện"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Họ dạy các em nhớ đường, làm theo tín hiệu, và giữ bình tĩnh. Người mẹ nhìn thấy các con chơi, nhưng không thấy các con đang tập."
+      },
+      "image_prompt": "a watchful tall silhouette at a window looking down on children playing in formation below, wide shot, deceptive warm light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku rất thích chi tiết này. Nó giống như ngoài đời: một nhóm mạnh không phải vì có một người giỏi, mà vì ai cũng được chuẩn bị."
+      },
+      "image_prompt": "a row of small shoes of different sizes lined up neatly by a door, close-up, warm homely light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Điểm cho việc huấn luyện: một. Kế hoạch tốt tới đâu cũng vô ích nếu những người thực hiện nó không sẵn sàng."
+      },
+      "image_prompt": "the scorecard with the seventh box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Bạn nghĩ lối thoát là cánh cổng? Không. Cổng được canh gác. Nhóm Emma khám phá ra khu rừng kết thúc bằng một bức tường cao, và sau bức tường là một vách đá."
+      },
+      "image_prompt": "a towering stone wall at the edge of a forest with a sheer cliff drop visible beyond it, wide shot, dramatic evening light",
+      "chapter": "Lựa chọn 8: bức tường và vách đá",
+      "on_screen_text": "Bức tường và vách đá",
+      "video_prompt": "the camera rises over the stone wall to reveal the sheer cliff drop beyond",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Để vượt qua, họ phải chuẩn bị dây, tính toán độ cao, và tìm cách đưa cả những em nhỏ nhất qua vực."
+      },
+      "image_prompt": "a coil of homemade rope made from knotted bedsheets hidden inside a hollow tree, close-up, secretive dim light",
+      "on_screen_text": "Dây làm từ ga giường"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Họ học cách nhận biết giới hạn tầm phát hiện của thiết bị, và chọn đúng thời điểm để hành động. Mỗi chi tiết nhỏ đều có thể quyết định sống hay chết."
+      },
+      "image_prompt": "a small hand-drawn map of the forest with concentric circles marking distances from the house, parchment close-up, amber ink"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Và họ cũng phải đối mặt với thiết bị theo dõi. Emma quyết định tự tay xử lý thiết bị trong tai mình. Một cái giá bằng đau đớn, để đổi lấy tự do."
+      },
+      "image_prompt": "a girl sitting alone by a window at night pressing a cloth to one ear, eyes determined, medium shot, cold moonlight",
+      "on_screen_text": "Cái giá: đau đớn"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Điểm cho việc tìm đúng lối thoát: một. Lối ra hiển nhiên thường là lối ra được canh gác kỹ nhất."
+      },
+      "image_prompt": "the scorecard with the eighth box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Rồi mọi thứ đổ vỡ. Norman, người lên kế hoạch giỏi nhất, bị đưa đi trước ngày trốn thoát. Anh chấp nhận ra đi để không làm lộ kế hoạch của các bạn."
+      },
+      "image_prompt": "a boy walking calmly toward a large gate at dusk, turning back once to wave, back view, wide shot, heartbreaking warm light",
+      "chapter": "Lựa chọn 9: khi kế hoạch đổ vỡ",
+      "on_screen_text": "Norman ra đi"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Trước khi đi, Norman để lại những gì cậu biết cho Emma và Ray. Một kế hoạch tốt không phụ thuộc vào một người duy nhất. Nó phải được chia sẻ, để tiếp tục kể cả khi người lên kế hoạch không còn."
+      },
+      "image_prompt": "a folded note tucked inside a book on a shelf, with a tiny drawing of a key on it, extreme close-up, soft warm light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Bạn sẽ làm gì khi mất người quan trọng nhất trong kế hoạch? Bỏ cuộc, hay tiếp tục?"
+      },
+      "image_prompt": "an empty chair at a small table where three cups of tea are set, close-up, somber light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Emma và Ray tiếp tục. Ray thậm chí định hy sinh chính mình trong một kế hoạch đốt cháy căn nhà để che giấu cuộc trốn chạy. Và Emma, một lần nữa, không chịu bỏ lại ai, kể cả Ray."
+      },
+      "image_prompt": "a large house glowing with orange light against a night sky, small figures running toward the forest, wide shot, dramatic firelight",
+      "on_screen_text": "Đêm đào thoát",
+      "video_prompt": "orange light flickers from the house as the small figures run toward the dark forest",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Điểm cho việc tiếp tục khi kế hoạch đổ vỡ: một. Không kế hoạch nào đi đúng như dự tính. Người sống sót là người biết đổi kế hoạch."
+      },
+      "image_prompt": "the scorecard with the ninth box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Đêm trốn thoát. Mười lăm đứa trẻ từ năm tuổi trở lên vượt qua bức tường. Những em còn quá nhỏ ở lại, với lời hứa sẽ quay lại đón."
+      },
+      "image_prompt": "a line of small figures crossing a rope over a dark chasm under the moonlight, wide shot, tense silver light",
+      "chapter": "Lựa chọn 10: đêm trốn thoát",
+      "on_screen_text": "Mười lăm đứa trẻ",
+      "video_prompt": "the small figures move one by one along the rope over the moonlit chasm",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và người mẹ Isabella, người đã nuôi và bán bao nhiêu đứa trẻ, đứng nhìn các con biến mất vào màn đêm. Cô thua, và lần đầu tiên, cô thật lòng chúc các con may mắn."
+      },
+      "image_prompt": "a lone woman's silhouette standing at the edge of a cliff at dawn looking out over a vast forest, back view, wide shot, bittersweet light",
+      "on_screen_text": "Người mẹ nhìn theo"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Vì vậy Isabella không hẳn là một phản diện thuần túy. Cô là kết quả của chính hệ thống ấy: một đứa trẻ đã chọn sống sót bằng cách chấp nhận luật chơi. Truyện để người xem tự cảm nhận về cô."
+      },
+      "image_prompt": "a woman's hand gently touching a child's old drawing pinned to a wall, close-up, bittersweet dim light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Kaku để ý: Isabella cũng từng là một đứa trẻ ở Grace Field. Cô từng chọn con đường sống sót bằng cách trở thành người chăn nuôi. Emma chọn con đường ngược lại."
+      },
+      "image_prompt": "an old photograph of a young girl standing in the same meadow, faded sepia tone, close-up, nostalgic light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Điểm cho việc cùng nhau vượt qua: một. Bạn đã ra khỏi Grace Field. Nhưng thế giới bên ngoài còn nguy hiểm hơn nhiều."
+      },
+      "image_prompt": "the scorecard with the tenth box checked, close-up, warm light",
+      "on_screen_text": "+1 điểm"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Tổng kết điểm. Tối đa mười một điểm. Nếu bạn được từ chín tới mười một: bạn giống nhóm Emma. Bạn thoát được, và giữ được con người mình."
+      },
+      "image_prompt": "a scorecard with a high total circled and a small open gate drawn beside it, close-up, warm hopeful light",
+      "chapter": "Bạn sống sót bao lâu?",
+      "on_screen_text": "9–11: thoát được"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Từ năm tới tám: bạn có thể thoát, nhưng sẽ phải trả giá, có thể là bỏ lại ai đó, hoặc bị phát hiện giữa chừng."
+      },
+      "image_prompt": "a scorecard with a middle total circled and a half-open gate drawn beside it, close-up, cautious light",
+      "on_screen_text": "5–8: thoát, nhưng trả giá"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Dưới năm: bạn ở lại Grace Field, sống những ngày hạnh phúc trong ảo tưởng, cho tới ngày tới lượt mình. Kaku sẽ không nói thêm."
+      },
+      "image_prompt": "a scorecard with a low total circled and a closed gate drawn beside it, close-up, somber light",
+      "on_screen_text": "Dưới 5: ở lại"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Và thêm một câu hỏi: nếu bạn là Emma, Norman hay Ray, bạn sẽ là ai? Kaku đoán Kaku là Ray, vì Kaku cũng thích đọc sách một mình. Nhưng Kaku muốn trở thành Emma."
+      },
+      "image_prompt": "the owl mascot holding up three small name cards and hesitating between them",
+      "use_mascot": true
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Viết điểm của bạn vào bình luận nhé. Và cho Kaku biết lựa chọn nào khó nhất với bạn."
+      },
+      "image_prompt": "a comment card drawn on parchment with a tiny gate and a pencil, close-up, warm light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Miền đất hứa là một câu chuyện kinh dị, nhưng Kaku nghĩ nó thật ra là câu chuyện về giáo dục và tự do."
+      },
+      "image_prompt": "a child reading a book under a tree with the light forming a doorway shape behind them, symbolic wide shot, warm light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Và những em nhỏ ở lại không bị bỏ rơi. Lời hứa quay lại đón các em trở thành động lực cho cả những phần sau của câu chuyện."
+      },
+      "image_prompt": "a small handwritten promise note tucked under a pillow in an empty children's bedroom, close-up, soft morning light"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Trường học tốt nhất trong truyện lại là một trang trại. Và những đứa trẻ thoát ra nhờ chính những gì trang trại dạy chúng: suy nghĩ, tính toán, và tin nhau."
+      },
+      "image_prompt": "a classroom blackboard covered in escape route diagrams drawn in chalk, close-up, warm light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Câu hỏi của truyện dành cho mỗi người: nếu phát hiện thế giới mình sống không như vẻ ngoài, bạn sẽ im lặng để được yên ổn, hay dũng cảm bước ra?"
+      },
+      "image_prompt": "a small figure standing at an open gate looking out at a vast unknown forest at dawn, back view, wide shot, hopeful light",
+      "on_screen_text": "Im lặng hay bước ra?"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Miền đất hứa bắt đầu bằng một ngôi nhà hạnh phúc và kết thúc mùa một bằng những đứa trẻ chạy vào bóng tối. Nhưng đó là bóng tối mà chúng tự chọn, và vì thế nó mang tên tự do."
+      },
+      "image_prompt": "children's silhouettes running into a dark forest with the first light of dawn breaking through the trees ahead, wide shot, hopeful light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku trải một dòng thời gian dài hai nghìn năm: Attack on Titan, từ Ymir đầu tiên tới những bức tường, và cuộc chiến cuối cùng."
+      },
+      "image_prompt": "an extremely long scroll unrolled across a stone floor with ink marks spanning its length, overhead shot, warm dramatic light",
+      "on_screen_text": "Tiếp theo: dòng thời gian AoT 2.000 năm"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Nếu bạn thích những video đặt bạn vào trong thế giới anime, hãy đăng ký kênh. Và nếu một ngày ai đó hứa cho bạn một thiên đường không có luật lệ, hãy kiểm tra cánh cổng trước. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot peeking cautiously through a gap in a large gate, then waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

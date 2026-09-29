@@ -1,0 +1,654 @@
+{
+  "title": "Doraemon: 10 bảo bối, cái nào làm được ngoài đời thật?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Video này gần như không có spoiler, chỉ nói về các bảo bối quen thuộc. Và Kaku nhắc trước: đây là video khoa học vui, không phải hướng dẫn chế tạo. Đừng thử bay bằng quạt nhé."
+      },
+      "image_prompt": "a child's desk with a science notebook, a small toy propeller and a warning card that says do not try, close-up, bright cheerful light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Không phải hướng dẫn"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Nếu được chọn một bảo bối của Doraemon, bạn chọn gì? Chong chóng tre để bay đi học? Cánh cửa thần kỳ để khỏi tắc đường? Hay bánh mì trí nhớ trước ngày thi?"
+      },
+      "image_prompt": "a round white pocket-like pouch doodle on paper with small sketches of a propeller, a door and a slice of bread spilling out, close-up, playful light",
+      "on_screen_text": "Bạn chọn bảo bối nào?"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trẻ em Việt Nam hỏi câu này suốt hơn ba mươi năm, từ khi truyện Đôrêmon đến Việt Nam năm 1992. Hôm nay Kaku hỏi một câu khác: bảo bối nào có thể làm được ngoài đời thật?"
+      },
+      "image_prompt": "a worn old comic book on a wooden school desk beside a modern smartphone, close-up, nostalgic warm light",
+      "on_screen_text": "Từ 1992 tới nay"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Và đúng dịp này, ngày năm tháng ba năm 2027, bộ phim Doraemon mới ra rạp ở Nhật. Một thời điểm hoàn hảo để mở túi thần kỳ ra xem."
+      },
+      "image_prompt": "a cinema ticket and a small blue bell charm resting on a table, close-up, warm festive light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku chấm mười bảo bối theo thang điểm độ thật từ không tới mười: trong truyện làm gì, khoa học thật tới đâu, và truyện phóng tay ở chỗ nào."
+      },
+      "image_prompt": "the owl mascot wearing tiny lab goggles, holding a clipboard with a score scale from zero to ten",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Doraemon là manga của Fujiko F. Fujio, xuất hiện lần đầu vào tháng mười hai năm 1969, cùng lúc trên sáu tạp chí. Chú mèo máy trong truyện sinh ngày ba tháng chín năm 2112."
+      },
+      "image_prompt": "an old calendar page from the late nineteen sixties pinned beside a futuristic calendar page from the twenty second century, close-up, nostalgic light",
+      "on_screen_text": "1969 → 2112"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước khi mở túi, một chút lịch sử. Mùa đông năm 1992, Nhà xuất bản Kim Đồng phát hành truyện Đôrêmon ở Việt Nam. Chỉ sau một tuần, bốn tập đầu bán được bốn mươi nghìn bản."
+      },
+      "image_prompt": "a small stack of early nineteen nineties comic books tied with string on a street vendor's table, close-up, nostalgic warm light",
+      "chapter": "Doraemon ở Việt Nam",
+      "on_screen_text": "1992: 40.000 bản trong 1 tuần"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Những bản đầu tiên ra đời khi chưa có bản quyền chính thức. Về sau, Kim Đồng làm việc với nhà xuất bản Nhật để phát hành chính thức, và truyện gắn với tuổi thơ của nhiều thế hệ."
+      },
+      "image_prompt": "an old comic book beside a newer edition with a small official seal on the cover, close-up, warm light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Người Việt còn nhớ những cái tên được Việt hóa: Nobita, Xuka, Chaien, Xêkô. Với nhiều người, đó là những người bạn đầu tiên trong thế giới truyện tranh."
+      },
+      "image_prompt": "four small name tags pinned to a corkboard beside a child's drawing of friends, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Kaku để ý: gần như mọi bảo bối trong video này, bạn đều đã từng ước có ít nhất một lần. Hôm nay, ta thử hỏi khoa học xem điều ước đó xa tới đâu."
+      },
+      "image_prompt": "the owl mascot holding a small wish list written in childlike handwriting",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Bảo bối nổi tiếng nhất: chong chóng tre. Gắn lên đầu, chong chóng quay, và bạn bay lên. Nobita, Xuka, Chaien, Xêkô đều dùng nó để đi chơi."
+      },
+      "image_prompt": "a small bamboo-style propeller hovering above a child's head in a blue sky over rooftops, wide shot, bright sunny light",
+      "chapter": "Bảo bối 1: Chong chóng tre",
+      "on_screen_text": "Chong chóng tre",
+      "video_prompt": "the small propeller spins faster and the child lifts gently into the blue sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Ngoài đời, con người đã bay bằng cánh quạt: trực thăng, và gần đây là những chiếc drone chở người. Nguyên lý giống nhau: cánh quạt đẩy không khí xuống, không khí đẩy máy lên."
+      },
+      "image_prompt": "a small passenger drone with multiple rotors hovering above a test field, wide shot, clear daylight",
+      "on_screen_text": "Nguyên lý thật: lực nâng"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhưng có hai vấn đề. Một: để nâng một người, cánh quạt phải rất lớn và rất mạnh, không thể nhỏ như chiếc chong chóng trên đầu."
+      },
+      "image_prompt": "a diagram comparing a tiny propeller to a huge helicopter rotor with a human silhouette for scale, infographic style, bright light"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Hai: khi cánh quạt quay, nó đẩy ngược lại thứ gắn với nó. Đó là lý do trực thăng cần cánh quạt đuôi. Không có nó, người đội chong chóng sẽ tự xoay tít như con quay."
+      },
+      "image_prompt": "a humorous sketch of a stick figure spinning in circles under a propeller with motion lines, parchment close-up, amber ink",
+      "on_screen_text": "Vấn đề: tự xoay tít"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và thêm một vấn đề nữa: lực kéo toàn bộ cơ thể treo vào đỉnh đầu. Cổ của bạn sẽ không vui chút nào."
+      },
+      "image_prompt": "a small doodle of a neck with a worried face and an upward arrow, parchment close-up, playful light"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Hãy tưởng tượng tiếng ồn nữa. Một cánh quạt đủ mạnh để nâng người sẽ kêu to như máy cắt cỏ ngay trên đầu bạn. Trong truyện, chong chóng tre bay êm ru."
+      },
+      "image_prompt": "a humorous doodle of a child covering their ears under a loud buzzing propeller, parchment close-up, playful amber ink"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Điểm độ thật của chong chóng tre: ba trên mười. Bay cá nhân là có thật, nhưng không nhỏ gọn, không êm như vậy."
+      },
+      "image_prompt": "a scorecard showing three out of ten beside a propeller icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 3/10"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Cánh cửa thần kỳ: mở ra là tới bất cứ nơi nào bạn muốn. Không máy bay, không tắc đường."
+      },
+      "image_prompt": "a single pink-framed door standing alone in a grassy field, slightly open with a beach scene visible through it, wide shot, bright magical light",
+      "chapter": "Bảo bối 2: Cánh cửa thần kỳ",
+      "on_screen_text": "Cánh cửa thần kỳ",
+      "video_prompt": "the door swings open wider revealing waves rolling onto the beach beyond",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Khoa học thật có một thứ nghe giống: dịch chuyển lượng tử. Các nhà khoa học đã truyền được trạng thái của những hạt rất nhỏ từ nơi này sang nơi khác."
+      },
+      "image_prompt": "a laboratory table with lasers and optical equipment and two glowing points connected by a faint line, close-up, cool scientific light",
+      "on_screen_text": "Dịch chuyển lượng tử"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nghiên cứu về hiện tượng rối lượng tử, nền tảng của nó, đã được trao giải Nobel Vật lý năm 2022."
+      },
+      "image_prompt": "a gold medal resting on a stack of physics papers, close-up, warm prestigious light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Và còn một câu hỏi triết học: nếu một người được tách ra ở chỗ này và tạo lại ở chỗ khác, người ở đầu kia có còn là bạn không? Nhiều người sẽ ngại bước qua cánh cửa đó."
+      },
+      "image_prompt": "a person hesitating before an open glowing doorway, hand on the frame, back view, medium shot, mysterious light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Nhưng thứ được dịch chuyển là thông tin về trạng thái của hạt, không phải bản thân vật chất. Và từ vài hạt tới một con người gồm hàng tỉ tỉ nguyên tử là một khoảng cách không tưởng."
+      },
+      "image_prompt": "a single tiny glowing particle beside an enormous silhouette made of countless dots, symbolic comparison, cool light",
+      "on_screen_text": "Khoảng cách không tưởng"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Điểm độ thật của cánh cửa thần kỳ: một trên mười. Có một hiện tượng khoa học thật mang cùng tên, nhưng còn rất xa."
+      },
+      "image_prompt": "a scorecard showing one out of ten beside a door icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 1/10"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Thạch phiên dịch: ăn một miếng, bạn hiểu và nói được mọi ngôn ngữ, kể cả tiếng của động vật trong vài tập."
+      },
+      "image_prompt": "a small wobbly jelly block on a plate with tiny speech bubbles in different scripts floating above it, close-up, bright playful light",
+      "chapter": "Bảo bối 3: Thạch phiên dịch",
+      "on_screen_text": "Thạch phiên dịch"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Đây là bảo bối gần với đời thật nhất. Ngày nay, điện thoại có thể dịch lời nói gần như tức thời, và có cả tai nghe dịch trực tiếp cuộc hội thoại."
+      },
+      "image_prompt": "two people from different countries talking with a smartphone between them displaying translated text, medium shot, warm café light",
+      "on_screen_text": "Dịch tức thời: có thật"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Trí tuệ nhân tạo đã làm cho việc dịch tự động tiến bộ rất nhanh trong vài năm gần đây. Với những câu thông thường, bản dịch đã khá tự nhiên."
+      },
+      "image_prompt": "a laptop screen showing a sentence being translated into several languages side by side, close-up, cool screen light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Và dịch máy vẫn có lúc sai với tiếng lóng, câu đùa, hay những từ mang nhiều tầng nghĩa. Thạch phiên dịch trong truyện thì không bao giờ sai."
+      },
+      "image_prompt": "a phone screen showing a funny mistranslation with a confused emoji beside it, close-up, humorous bright light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Chỗ truyện phóng tay: không cần thiết bị, chỉ cần ăn. Và dịch được cả tiếng động vật. Khoa học chưa hiểu tiếng động vật tới mức đó, dù đã có nghiên cứu về cách cá voi hay chim giao tiếp."
+      },
+      "image_prompt": "a whale surfacing near a small research boat with sound wave graphics drawn above the water, wide shot, soft ocean light"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Điểm độ thật của thạch phiên dịch: tám trên mười. Chúng ta đã có bảo bối này, chỉ là nó nằm trong điện thoại chứ không nằm trong đĩa thạch."
+      },
+      "image_prompt": "a scorecard showing eight out of ten beside a jelly icon and a phone icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 8/10"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Bánh mì trí nhớ: in trang sách lên bánh mì, ăn vào là nhớ. Giấc mơ của mọi học sinh trước kỳ thi."
+      },
+      "image_prompt": "a slice of bread with tiny printed text on its surface resting on an open textbook, close-up, warm morning light",
+      "chapter": "Bảo bối 4: Bánh mì trí nhớ",
+      "on_screen_text": "Bánh mì trí nhớ"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Nhưng trong truyện có một chi tiết rất hay: Nobita ăn quá nhiều, bị đau bụng, và mọi thứ vừa nhớ đều mất khi cậu đi vệ sinh. Truyện tự chế giễu chính bảo bối của mình."
+      },
+      "image_prompt": "a humorous doodle of a stomach with a worried face surrounded by tiny floating letters, parchment close-up, playful light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Ngoài đời, trí nhớ không nằm trong dạ dày. Nó được hình thành bằng cách các tế bào thần kinh trong não tạo và củng cố kết nối, và giấc ngủ đóng vai trò rất quan trọng."
+      },
+      "image_prompt": "a glowing network of neurons with connections lighting up between them, scientific illustration, cool blue light",
+      "on_screen_text": "Trí nhớ nằm ở kết nối thần kinh"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Mẹo thật mà các nhà khoa học khuyên: học rải ra nhiều ngày, tự kiểm tra bằng cách nhớ lại, và ngủ đủ. Nghe không thần kỳ, nhưng hiệu quả hơn nhồi nhét cả đêm."
+      },
+      "image_prompt": "a study planner with short sessions spread across a week and a small moon icon for sleep, close-up, calm light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Có những nghiên cứu về kích thích não để hỗ trợ ghi nhớ, nhưng vẫn còn ở giai đoạn thí nghiệm. Chưa có món ăn nào giúp bạn học thuộc bài."
+      },
+      "image_prompt": "a laboratory model of a brain with small sensor wires and a notebook of experimental data, close-up, clinical light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Điểm độ thật: một trên mười. Cách thật duy nhất để nhớ là học, ôn lại, và ngủ đủ giấc. Kaku biết, nghe chán hơn bánh mì nhiều."
+      },
+      "image_prompt": "a scorecard showing one out of ten beside a bread icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 1/10"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Đèn pin thu nhỏ: chiếu vào đâu, thứ đó nhỏ lại. Nhóm bạn dùng nó để đi phiêu lưu trong những thế giới tí hon."
+      },
+      "image_prompt": "a flashlight beam shining on a toy car that is shrinking, with sparkles along the beam, close-up, magical light",
+      "chapter": "Bảo bối 5: Đèn pin thu nhỏ",
+      "on_screen_text": "Đèn pin thu nhỏ",
+      "video_prompt": "the flashlight beam sweeps across the toy car as it shrinks with sparkles",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Khoa học có một định luật khiến việc thu nhỏ rất khó: định luật bình phương, lập phương. Khi một vật nhỏ lại, thể tích giảm nhanh hơn diện tích bề mặt rất nhiều."
+      },
+      "image_prompt": "a diagram of a large cube and a small cube with their surface areas and volumes labeled, infographic style, clean light",
+      "on_screen_text": "Định luật bình phương, lập phương"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Một người tí hon sẽ mất nhiệt rất nhanh, như những con vật nhỏ phải ăn liên tục để giữ ấm. Và nếu số nguyên tử giữ nguyên, người tí hon vẫn nặng như cũ."
+      },
+      "image_prompt": "a tiny figure shivering on a leaf next to a small mouse eating a seed, humorous close-up, cool light",
+      "on_screen_text": "Người tí hon: lạnh và nặng"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Khoa học thì làm theo hướng ngược lại: không thu nhỏ người, mà làm những cỗ máy siêu nhỏ, như robot tí hon hay thiết bị y tế có thể đi vào cơ thể. Chuyến phiêu lưu tí hon, nhưng không có người ngồi trong."
+      },
+      "image_prompt": "a tiny medical capsule device beside a coin for scale on a laboratory tray, extreme close-up, clean light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Nếu số nguyên tử giảm đi, thì bộ não tí hon cũng mất bớt tế bào. Bạn sẽ không còn là bạn nữa."
+      },
+      "image_prompt": "a tiny brain model beside a normal-sized one with a question mark between them, close-up, scientific light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Điểm độ thật: một trên mười. Khoa học có thể làm những cỗ máy rất nhỏ, nhưng không thể thu nhỏ một con người."
+      },
+      "image_prompt": "a scorecard showing one out of ten beside a flashlight icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 1/10"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Cỗ máy thời gian nằm trong ngăn kéo bàn học của Nobita. Chui vào ngăn kéo, và bạn có thể đi tới quá khứ hay tương lai."
+      },
+      "image_prompt": "an open desk drawer with a swirling colorful tunnel of light inside, close-up, magical light",
+      "chapter": "Bảo bối 6: Cỗ máy thời gian",
+      "on_screen_text": "Cỗ máy thời gian"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Ngoài đời, đi tới tương lai theo một cách nào đó là có thật. Theo thuyết tương đối của Einstein, thời gian trôi chậm hơn khi bạn di chuyển rất nhanh, hoặc ở gần một vật rất nặng."
+      },
+      "image_prompt": "two clocks side by side, one on a fast-moving rocket and one on the ground, showing slightly different times, infographic style, cool light",
+      "on_screen_text": "Thuyết tương đối"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Bằng chứng nằm ngay trong điện thoại của bạn. Đồng hồ trên vệ tinh GPS chạy nhanh hơn đồng hồ dưới mặt đất khoảng ba mươi tám micro giây mỗi ngày. Nếu không hiệu chỉnh, định vị sẽ lệch khoảng mười cây số mỗi ngày."
+      },
+      "image_prompt": "a satellite orbiting Earth with a small clock icon beside it and a map pin on the ground below, wide shot, cool space light",
+      "on_screen_text": "GPS: 38 micro giây/ngày"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Phi hành gia sống lâu ngày trên trạm vũ trụ cũng già đi chậm hơn người dưới đất một chút xíu, nhỏ tới mức phải đo bằng những đồng hồ cực kỳ chính xác. Du hành tới tương lai có thật, nhưng chỉ vài phần nghìn giây."
+      },
+      "image_prompt": "a space station orbiting above Earth with a tiny clock icon beside it, wide shot, cool space light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nhưng mức chênh lệch đó rất nhỏ. Và đi về quá khứ thì khoa học chưa tìm ra cách nào, lại còn gặp rất nhiều nghịch lý."
+      },
+      "image_prompt": "a loop of arrows drawn on parchment with a small crossed-out figure at the center, amber ink close-up",
+      "on_screen_text": "Về quá khứ: chưa có"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Điểm độ thật: hai trên mười. Tương lai thì có một chút, quá khứ thì không."
+      },
+      "image_prompt": "a scorecard showing two out of ten beside a drawer icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 2/10"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Áo choàng tàng hình: khoác vào là không ai nhìn thấy. Bảo bối yêu thích của những ai muốn trốn học, hay trốn Chaien."
+      },
+      "image_prompt": "an empty cloak floating in a school hallway with footprints appearing on the floor below it, humorous wide shot, bright light",
+      "chapter": "Bảo bối 7: Áo choàng tàng hình",
+      "on_screen_text": "Áo choàng tàng hình"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Năm 2006, các nhà khoa học ở Đại học Duke giới thiệu áo choàng tàng hình đầu tiên, làm từ siêu vật liệu. Nó bẻ cong sóng vi ba đi vòng qua một vật, như thể vật đó không có ở đó."
+      },
+      "image_prompt": "a small cylindrical device made of patterned rings on a lab bench with wave lines bending around it, close-up, cool scientific light",
+      "on_screen_text": "Siêu vật liệu, 2006",
+      "video_prompt": "wave lines bend smoothly around the cylindrical device and continue on the other side",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Nhưng thiết bị chỉ hoạt động với sóng vi ba, không phải ánh sáng nhìn thấy. Và rất khó làm cho nó hoạt động với mọi màu, mọi góc nhìn cùng lúc."
+      },
+      "image_prompt": "a rainbow spectrum diagram with only a small section highlighted, infographic style, clean light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Quân đội và các nhà khoa học còn phát triển vật liệu giấu nhiệt, để không bị camera hồng ngoại phát hiện. Tàng hình không nhất thiết là biến mất trước mắt, mà là không bị cảm biến nhìn thấy."
+      },
+      "image_prompt": "a thermal camera image showing a bright landscape with one area strangely cool and blank, close-up, false-color light"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Có những vật liệu ngụy trang thật, như tấm bẻ ánh sáng để làm mờ vật phía sau. Nhưng chúng giống kính đặc biệt hơn là một chiếc áo biến mất hoàn toàn."
+      },
+      "image_prompt": "a sheet of ribbed transparent material in front of a tree making it look blurred and partially hidden, close-up, outdoor daylight"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Điểm độ thật: bốn trên mười. Tàng hình có thật trong phòng thí nghiệm, với vài loại sóng, trong vài điều kiện."
+      },
+      "image_prompt": "a scorecard showing four out of ten beside a cloak icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 4/10"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Và chiếc túi trước bụng Doraemon, túi bốn chiều, chứa được vô số bảo bối, lớn tới đâu cũng vừa."
+      },
+      "image_prompt": "a small white half-moon pouch with a swirling starry space visible inside it, close-up, magical light",
+      "chapter": "Bảo bối 8: Túi thần kỳ",
+      "on_screen_text": "Túi bốn chiều"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Chữ bốn chiều gợi tới toán học: nếu có thêm một chiều không gian, một cái túi có thể chứa nhiều hơn vẻ ngoài của nó. Giống như một tờ giấy phẳng không thể chứa một quả bóng, nhưng một chiếc hộp thì có thể."
+      },
+      "image_prompt": "a flat sheet of paper beside a cardboard box with a ball inside it, infographic style, bright light",
+      "on_screen_text": "Thêm một chiều"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Các nhà vật lý có bàn tới những chiều không gian thêm trong một số lý thuyết. Nhưng chưa có bằng chứng nào, và càng chưa có cách nào tạo ra một cái túi dẫn vào đó."
+      },
+      "image_prompt": "a chalkboard filled with physics equations and a small doodle of a pouch in the corner, close-up, classroom light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Điểm độ thật: không trên mười. Nhưng Kaku cho thêm một điểm phụ, vì chiếc ba lô đi học của Kaku cũng chứa được nhiều thứ một cách khó hiểu."
+      },
+      "image_prompt": "the owl mascot pulling an impossibly long scarf out of a tiny backpack",
+      "use_mascot": true
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Khăn trùm thời gian: trùm lên một vật, nó trở về trạng thái mới tinh. Trùm lâu hơn, nó quay về trạng thái trước khi được làm ra. Đổi mặt khăn, vật cũ đi."
+      },
+      "image_prompt": "a colorful cloth draped over an old broken toy, with sparkles suggesting it is becoming new again, close-up, magical light",
+      "chapter": "Bảo bối 9: Khăn trùm thời gian",
+      "on_screen_text": "Khăn trùm thời gian"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Ngoài đời, ta có những kỹ thuật phục chế đồ cũ rất giỏi, và khoa học vật liệu làm được những lớp phủ tự lành vết xước."
+      },
+      "image_prompt": "a craftsman carefully restoring an antique wooden chair in a workshop, medium shot, warm workshop light",
+      "on_screen_text": "Phục chế và vật liệu tự lành"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Nhưng đảo ngược quá trình lão hóa của vật chất hay của cơ thể thì vẫn là một thách thức rất lớn. Có nhiều nghiên cứu về lão hóa, nhưng mọi quảng cáo trẻ hóa thần kỳ đều đáng nghi ngờ."
+      },
+      "image_prompt": "a flashy miracle product advertisement with a large red warning stamp across it, close-up, harsh light",
+      "on_screen_text": "Cẩn thận với quảng cáo thần kỳ"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Điểm độ thật: hai trên mười. Sửa được, làm mới được bề mặt, nhưng không quay ngược thời gian."
+      },
+      "image_prompt": "a scorecard showing two out of ten beside a cloth icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 2/10"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Và bảo bối cuối cùng, cũng là bảo bối lớn nhất: chính Doraemon. Một chú mèo máy biết nói, biết buồn, biết giận, biết chăm sóc một cậu bé vụng về."
+      },
+      "image_prompt": "a round friendly robot cat silhouette sitting beside a sleeping child in a cozy bedroom at night, wide shot, soft warm light",
+      "chapter": "Bảo bối 10: chính Doraemon",
+      "on_screen_text": "Bảo bối lớn nhất",
+      "video_prompt": "the robot cat silhouette gently pulls the blanket over the sleeping child",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Ngày nay, chúng ta đã có robot đi lại được, robot trò chuyện được, và những trợ lý trí tuệ nhân tạo có thể nói chuyện khá tự nhiên."
+      },
+      "image_prompt": "a humanoid robot walking in a bright laboratory beside a tablet displaying a chat interface, wide shot, clean light",
+      "on_screen_text": "Robot và trí tuệ nhân tạo"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Nhật Bản còn có những robot chăm sóc người già, robot thú cưng, và cả robot đồng hành cho trẻ em. Giấc mơ về một Doraemon đã truyền cảm hứng cho không ít kỹ sư robot Nhật."
+      },
+      "image_prompt": "a small robot pet sitting on the lap of an elderly person in a cozy living room, medium shot, warm gentle light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Nhưng một người bạn máy thật sự hiểu và quan tâm tới bạn như Doraemon, có cảm xúc thật, thì vẫn là câu hỏi mà các nhà khoa học và triết học còn tranh luận."
+      },
+      "image_prompt": "a robot hand and a child's hand almost touching, with a question mark drawn in the space between, symbolic close-up, soft warm light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Điểm độ thật: năm trên mười. Phần thân máy và giọng nói đang tới gần. Phần trái tim thì còn rất xa."
+      },
+      "image_prompt": "a scorecard showing five out of ten beside a small robot icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 5/10"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku tặng thêm hai bảo bối nhanh. Bảo bối mười một: cây bút chì tự làm bài. Cầm bút, nó tự viết đáp án đúng."
+      },
+      "image_prompt": "a pencil writing on its own across a homework sheet with small sparkles along the tip, close-up, playful light",
+      "chapter": "Hai bảo bối tặng thêm",
+      "on_screen_text": "Bút chì tự làm bài"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Ngày nay, trí tuệ nhân tạo có thể giải rất nhiều bài tập. Về kỹ thuật, bảo bối này gần thành thật rồi: bảy trên mười. Nhưng giống như trong truyện, nếu để bút làm hết, bạn sẽ không học được gì."
+      },
+      "image_prompt": "a tablet showing a solved math problem beside an untouched textbook gathering dust, close-up, cool light",
+      "on_screen_text": "Độ thật: 7/10, nhưng…"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Bảo bối mười hai: điều khiển thời tiết. Muốn mưa là mưa, muốn nắng là nắng."
+      },
+      "image_prompt": "a small control panel with sun, cloud and rain buttons floating in front of a changing sky, wide shot, magical light",
+      "on_screen_text": "Điều khiển thời tiết"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Ngoài đời có kỹ thuật gieo mây: rải những hạt nhỏ như bạc iodua vào mây để kích thích mưa. Nó chỉ tăng khả năng mưa khi đã có mây phù hợp, không tạo mưa từ bầu trời trong. Độ thật: ba trên mười."
+      },
+      "image_prompt": "a small aircraft flying through grey clouds releasing a faint trail of particles, wide shot, overcast light",
+      "on_screen_text": "Gieo mây · 3/10"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Tổng kết bảng điểm. Thạch phiên dịch: tám. Chính Doraemon: năm. Áo choàng tàng hình: bốn. Chong chóng tre: ba."
+      },
+      "image_prompt": "a ranked scoreboard on parchment with small gadget icons and their scores, top half filled, amber ink close-up",
+      "chapter": "Bảng điểm độ thật"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Cỗ máy thời gian và khăn trùm thời gian: hai. Cánh cửa thần kỳ, bánh mì trí nhớ, đèn pin thu nhỏ: một. Túi bốn chiều: không, cộng một điểm của Kaku."
+      },
+      "image_prompt": "the completed scoreboard with the bottom half filled and a small smiley sticker beside the last entry, amber ink close-up",
+      "on_screen_text": "Bảng điểm độ thật"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Hai bảo bối tặng thêm: bút chì tự làm bài bảy điểm, điều khiển thời tiết ba điểm. Nghĩa là bảo bối thật nhất lại là thứ mà Doraemon luôn dặn Nobita đừng lạm dụng."
+      },
+      "image_prompt": "two small bonus entries added to the bottom of the scoreboard in a different ink color, close-up, amber ink"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Điều thú vị: bảo bối thật nhất là bảo bối giúp con người hiểu nhau, còn những bảo bối kém thật nhất là những thứ giúp ta đi đường tắt: học không cần học, đi không cần đi."
+      },
+      "image_prompt": "two paths drawn on a map, a short shortcut path crossed out and a longer winding path with footprints, parchment close-up, warm light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nhiều tập truyện kết thúc bằng cảnh bảo bối gây họa, và Nobita phải tự sửa sai. Tác giả đã dùng những món đồ tương lai để dạy trẻ em những bài học rất bình thường."
+      },
+      "image_prompt": "a small broken gadget on a desk beside a child's handwritten apology note, close-up, soft warm light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Kaku nghĩ đó chính là bài học của Doraemon. Bảo bối nào cũng giúp Nobita thoát khỏi rắc rối, nhưng rồi cũng tạo ra rắc rối mới. Cuối cùng, Nobita vẫn phải tự lớn lên."
+      },
+      "image_prompt": "a child's small shoes beside a pair of adult shoes at a doorway, symbolic close-up, warm sunset light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và có lẽ vì vậy mà Doraemon vẫn được yêu hơn năm mươi năm. Không phải vì chiếc túi, mà vì người bạn luôn ở bên, kể cả khi bạn thất bại."
+      },
+      "image_prompt": "a robot cat silhouette and a child sitting together on a grassy hill watching the sunset, back view, wide shot, warm golden light"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Nếu được chọn một bảo bối có thật trong tương lai, bạn muốn các nhà khoa học làm ra cái nào trước? Viết vào bình luận nhé."
+      },
+      "image_prompt": "a comment card drawn on parchment with a tiny pouch doodle and a question mark, close-up, warm light",
+      "on_screen_text": "Bạn muốn bảo bối nào thành thật?"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và nếu bạn là người lớn, hãy thử kể cho một đứa trẻ nghe về Doraemon. Có thể bạn sẽ là người truyền lại chiếc túi thần kỳ cho thế hệ tiếp theo."
+      },
+      "image_prompt": "an adult and a child sitting together reading an old comic book on a sofa, medium shot, warm cozy light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku vẽ một cây phả hệ đầy ngôi sao: dòng họ Joestar trong JoJo, và vết bớt hình ngôi sao truyền qua nhiều thế hệ."
+      },
+      "image_prompt": "an old family tree drawing with small star marks beside each name, parchment close-up, warm golden light",
+      "on_screen_text": "Tiếp theo: cây phả hệ Joestar"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nếu bạn thích những video khoa học vui như thế này, hãy đăng ký kênh. Kaku không có túi thần kỳ, nhưng có một cuốn sổ, và cuốn sổ này còn rất nhiều trang. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing its notebook and tucking it into a tiny pouch with a satisfied smile",
+      "use_mascot": true
+    }
+  ]
+}

@@ -86,12 +86,12 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 61 | 2027-02-23 | Lịch sử luật bài, từ Fusion đến Link | Yu-Gi-Oh! | C · Lịch sử / tiến hóa | 4 | ? | 5 | 4 | 13 | `videos/2027-02-23-lich-su-luat-bai-yu-gi-oh/` | Kịch bản xong — chờ kiểm nguồn |
 | 62 | 2027-02-25 | Các dạng Ác ma hợp thể của Asta | Black Clover (mùa 2 đang phát) | G · Bậc thang tiến hóa | 4 | ? | 4 | 4 | 12 | `videos/2027-02-25-ac-ma-hop-the-asta/` | Kịch bản xong — chờ kiểm nguồn |
 | 63 | 2027-02-27 | Luật của cuốn sổ và cách phá | Death Note | B · Luật chơi và cách phá | 5 | ? | 5 | 4 | 14 | `videos/2027-02-27-luat-death-note/` | Kịch bản xong — chờ kiểm nguồn |
-| 64 | 2027-03-02 | Bảo bối nào làm được ngoài đời thật | Doraemon (phim mới 05/03) | P · Khoa học trong anime | 5 | ? | 5 | 5 | 15 | `videos/2027-03-02-khoa-hoc-doraemon/` | Chưa viết |
-| 65 | 2027-03-04 | Cây phả hệ Joestar và dấu ngôi sao | JoJo | D · Cây phả hệ | 4 | ? | 4 | 4 | 12 | `videos/2027-03-04-cay-pha-he-joestar/` | Chưa viết |
-| 66 | 2027-03-06 | Người Viking thật và Thorfinn thật | Vinland Saga | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 5 | 14 | `videos/2027-03-06-viking-that-vinland-saga/` | Chưa viết |
-| 67 | 2027-03-09 | "Tao" (Đạo) hoạt động thế nào | Hell's Paradise | A · Giải thích hệ thống | 4 | ? | 4 | 4 | 12 | `videos/2027-03-09-tao-hells-paradise/` | Chưa viết |
-| 68 | 2027-03-11 | Nếu bạn là đứa trẻ ở Grace Field | Miền đất hứa | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2027-03-11-neu-ban-o-grace-field/` | Chưa viết |
-| 69 | 2027-03-13 | Dòng thời gian 2.000 năm | Attack on Titan | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2027-03-13-dong-thoi-gian-attack-on-titan/` | Chưa viết |
+| 64 | 2027-03-02 | Bảo bối nào làm được ngoài đời thật | Doraemon (phim mới 05/03) | P · Khoa học trong anime | 5 | ? | 5 | 5 | 15 | `videos/2027-03-02-khoa-hoc-doraemon/` | Kịch bản xong — chờ kiểm nguồn |
+| 65 | 2027-03-04 | Cây phả hệ Joestar và dấu ngôi sao | JoJo | D · Cây phả hệ | 4 | ? | 4 | 4 | 12 | `videos/2027-03-04-cay-pha-he-joestar/` | Kịch bản xong — chờ kiểm nguồn |
+| 66 | 2027-03-06 | Người Viking thật và Thorfinn thật | Vinland Saga | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 5 | 14 | `videos/2027-03-06-viking-that-vinland-saga/` | Kịch bản xong — chờ kiểm nguồn |
+| 67 | 2027-03-09 | "Tao" (Đạo) hoạt động thế nào | Hell's Paradise | A · Giải thích hệ thống | 4 | ? | 4 | 4 | 12 | `videos/2027-03-09-tao-hells-paradise/` | Kịch bản xong — chờ kiểm nguồn |
+| 68 | 2027-03-11 | Nếu bạn là đứa trẻ ở Grace Field | Miền đất hứa | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2027-03-11-neu-ban-o-grace-field/` | Kịch bản xong — chờ kiểm nguồn |
+| 69 | 2027-03-13 | Dòng thời gian 2.000 năm | Attack on Titan | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2027-03-13-dong-thoi-gian-attack-on-titan/` | Kịch bản xong — chờ kiểm nguồn |
 | 70 | 2027-03-16 | Chi tiết cài cắm về Himmel | Frieren | R · Cài cắm và chi tiết ẩn | 5 | ? | 5 | 4 | 14 | `videos/2027-03-16-cai-cam-himmel-frieren/` | Chưa viết |
 | 71 | 2027-03-18 | Hồ sơ 9 Vĩ thú | Naruto | E · Hồ sơ bách khoa | 5 | ? | 4 | 5 | 14 | `videos/2027-03-18-ho-so-vi-thu-naruto/` | Chưa viết |
 | 72 | 2027-03-20 | 10 hiểu lầm phổ biến | Dragon Ball | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2027-03-20-10-hieu-lam-dragon-ball/` | Chưa viết |

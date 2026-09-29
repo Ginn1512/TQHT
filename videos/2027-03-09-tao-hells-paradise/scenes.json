@@ -1,0 +1,636 @@
+{
+  "title": "Hell's Paradise: Đạo, ngũ hành và âm dương hoạt động thế nào",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime Hell's Paradise mùa hai. Truyện có nhiều cảnh bạo lực, nhưng Kaku sẽ không mô tả chi tiết. Hôm nay mình chỉ nói về hệ thống sức mạnh."
+      },
+      "image_prompt": "a closed ancient scroll tied with a red cord lying on a stone step beside strange flowers, spoiler card beside it, close-up, eerie soft light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết mùa 2"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một hòn đảo đầy hoa đẹp tới kỳ lạ, những bức tượng Phật khổng lồ, và những sinh vật bất tử. Ai đặt chân lên đảo cũng tìm một thứ: thuốc trường sinh."
+      },
+      "image_prompt": "a mysterious island covered in vivid flowers and giant stone statues rising from the mist, wide shot, eerie beautiful light",
+      "on_screen_text": "Hòn đảo và thuốc trường sinh",
+      "video_prompt": "mist drifts between the giant statues as flower petals float through the air",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Và để sống sót trên hòn đảo đó, con người phải hiểu một khái niệm mà người Việt nghe rất quen: Đạo, ngũ hành tương sinh tương khắc, và âm dương."
+      },
+      "image_prompt": "a circular diagram of five elements drawn in ink with arrows connecting them, parchment close-up, warm candlelight",
+      "on_screen_text": "Đạo · Ngũ hành · Âm dương"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Một chi tiết vui: tác giả Hell's Paradise tên là Kaku Yuji. Cùng tên với Kaku. Kaku không có họ hàng gì đâu, nhưng rất tự hào."
+      },
+      "image_prompt": "the owl mascot proudly pointing at its own name tag with a tiny smug smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku giải thích Đạo trong Hell's Paradise: luật nền, ngũ hành, âm dương, luật nâng cao, và những hiểu lầm. Cuối video là sơ đồ tổng kết trong một hình."
+      },
+      "image_prompt": "the owl mascot unrolling a scroll with a five-element circle diagram on it",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Hell's Paradise, hay Địa ngục cực lạc, là manga của Kaku Yuji, đăng trên Shonen Jump+ từ tháng một năm 2018 tới tháng một năm 2021. Anime do MAPPA làm, mùa một năm 2023, mùa hai từ tháng một năm 2026."
+      },
+      "image_prompt": "a small stack of manga volumes with flower-patterned spines beside a streaming remote, close-up, warm light",
+      "chapter": "Bối cảnh: hòn đảo Shinsenkyo",
+      "on_screen_text": "Kaku Yuji · MAPPA"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Bối cảnh là Nhật Bản thời Edo. Tướng quân nghe tin về một hòn đảo xa, nơi có thuốc trường sinh. Nhưng mọi đoàn thám hiểm cử tới đều không trở về, hoặc trở về trong tình trạng kỳ lạ."
+      },
+      "image_prompt": "an Edo-period castle town at dusk with a messenger kneeling before a curtained palace hall, wide shot, warm lantern light"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Mỗi tử tù là một kẻ nguy hiểm: ninja, samurai, thủ lĩnh cướp, kẻ lừa đảo. Mỗi đao phủ là một kiếm sĩ giỏi. Một tổ hợp kỳ lạ: người canh gác và người bị canh gác phải sống sót cùng nhau."
+      },
+      "image_prompt": "a line of mismatched figures standing on a beach, each paired with a sword-bearing guardian, wide shot, tense grey light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Vì vậy, tướng quân cử những tử tù ra đảo. Ai mang thuốc trường sinh về sẽ được tha tội. Mỗi tử tù đi cùng một người thuộc dòng họ đao phủ Yamada Asaemon, người sẽ chém đầu họ nếu họ bỏ trốn."
+      },
+      "image_prompt": "a row of small boats rowing away from a dark shore toward a misty island, wide shot, cold grey light",
+      "on_screen_text": "Tử tù và đao phủ"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nhân vật chính là Gabimaru, một ninja được gọi là kẻ trống rỗng, người tưởng như không có cảm xúc. Nhưng cậu có một lý do để sống: người vợ đang chờ ở quê nhà."
+      },
+      "image_prompt": "a lone figure sitting on a rock by the sea at dusk, holding a small keepsake in his hand, back view, wide shot, melancholy light",
+      "on_screen_text": "Gabimaru"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Người đi cùng cậu là Sagiri, một nữ đao phủ trẻ, luôn nghi ngờ chính mình vì phải cầm kiếm lấy mạng người. Hai con người đầy mâu thuẫn trên một hòn đảo đầy bí ẩn."
+      },
+      "image_prompt": "a young swordswoman standing alone in a bamboo grove with her sword sheathed, eyes lowered, medium shot, soft green light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Trên đảo, họ gặp những sinh vật đáng sợ nhất: Tiên nhân, những kẻ gần như bất tử, có thể tái tạo cơ thể. Và mọi vũ khí thông thường đều vô dụng với chúng. Chỉ có một thứ có tác dụng: Đạo."
+      },
+      "image_prompt": "several tall elegant silhouettes standing among giant flowers in a misty garden, low-angle shot, eerie divine light",
+      "on_screen_text": "Tiên nhân",
+      "video_prompt": "the tall silhouettes turn slowly as petals swirl around them in the misty garden",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Trước khi vào luật, hãy nhìn hòn đảo. Shinsenkyo đẹp như thiên đường: hoa nở khắp nơi, bướm bay, cây cối rực rỡ. Nhưng mọi vẻ đẹp đó đều che giấu nguy hiểm."
+      },
+      "image_prompt": "a breathtaking island garden with giant blooming flowers and drifting butterflies, a faint shadow lurking between the petals, wide shot, eerie beautiful light",
+      "chapter": "Một hòn đảo sống",
+      "on_screen_text": "Thiên đường che giấu nguy hiểm"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Trên đảo có những sinh vật lạ, mang dáng dấp tượng thần tượng Phật, lai giữa người, thú và côn trùng. Chúng tấn công bất kỳ ai đặt chân lên đảo."
+      },
+      "image_prompt": "a strange hybrid creature silhouette with a serene stone-like face standing among tall flowers, low-angle shot, unsettling soft light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và cả những con người biến thành hoa. Kaku không mô tả chi tiết. Chỉ cần biết: thuốc trường sinh trên hòn đảo này có một cái giá rất đen tối."
+      },
+      "image_prompt": "a single enormous pale flower blooming in a dark clearing with mist curling around it, close-up, ominous soft light",
+      "on_screen_text": "Cái giá của thuốc trường sinh"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Tất cả những điều kỳ lạ đó đều có chung một gốc: Đạo. Hòn đảo được xây dựng, và vận hành, bằng chính năng lượng sống này."
+      },
+      "image_prompt": "glowing threads of energy running through roots, flowers and stone statues across the island, symbolic wide shot, magical light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku để ý: đây là một ý tưởng rất hay. Hệ thống sức mạnh không chỉ để đánh nhau, mà còn giải thích vì sao cả thế giới trên đảo lại kỳ dị như vậy."
+      },
+      "image_prompt": "the owl mascot peering nervously at a giant flower through a small magnifying glass",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Trong Hell's Paradise, Đạo là năng lượng sống chảy trong mọi sinh vật: con người, động vật, cây cỏ. Ai cũng có Đạo, chỉ là phần lớn không biết cách cảm nhận và điều khiển nó."
+      },
+      "image_prompt": "a human silhouette with faint flowing lines of energy running through its body like rivers, symbolic diagram, soft glowing light",
+      "chapter": "Luật nền: Đạo là gì?",
+      "on_screen_text": "Đạo: năng lượng sống"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Luật một: Đạo có thể cảm nhận được. Người luyện tập có thể thấy luồng Đạo của người khác, đoán được họ mạnh hay yếu, và đòn tấn công sẽ tới từ đâu."
+      },
+      "image_prompt": "a figure with closed eyes sensing faint glowing auras around several shadowy shapes in a dark forest, wide shot, eerie light",
+      "on_screen_text": "Luật 1: cảm nhận được"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Luật hai: Đạo có thể được tập trung để tăng sức mạnh cơ thể, gia cố vũ khí, hoặc chữa lành vết thương nhanh hơn."
+      },
+      "image_prompt": "a sword blade glowing faintly as energy flows from the hand into it, dynamic close-up, warm light",
+      "on_screen_text": "Luật 2: tăng sức mạnh"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Trên đảo, những người mạnh thường là những người học được cách thở chậm, giữ bình tĩnh ngay cả khi đối mặt nguy hiểm. Đạo đòi hỏi tâm trí vững vàng."
+      },
+      "image_prompt": "a figure sitting cross-legged in meditation on a rock while chaos swirls faintly around, medium shot, calm soft light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Luật ba: Đạo có thể bị cạn. Dùng quá nhiều, cơ thể kiệt sức. Đạo cũng dao động theo cảm xúc: sợ hãi, giận dữ làm luồng Đạo rối loạn."
+      },
+      "image_prompt": "a candle flame flickering wildly in a draft beside a steady flame protected by a glass, close-up, contrasting light",
+      "on_screen_text": "Luật 3: có thể cạn, dễ rối"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Kaku để ý: Đạo trong truyện giống chakra trong Naruto hay Khí trong Black Clover. Nhưng điểm khác biệt, và thú vị nhất, là nó được chia theo ngũ hành."
+      },
+      "image_prompt": "the owl mascot placing three small cards labeled with simple energy icons side by side and tapping the last one",
+      "use_mascot": true
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Mỗi người và mỗi sinh vật có một thuộc tính Đạo, thuộc một trong năm hành: Mộc, Hỏa, Thổ, Kim, Thủy."
+      },
+      "image_prompt": "five small stones arranged in a circle on dark cloth, each carved with a different symbol: a leaf, a flame, a mountain, a blade, a wave, close-up, warm light",
+      "chapter": "Ngũ hành: năm thuộc tính",
+      "on_screen_text": "Mộc · Hỏa · Thổ · Kim · Thủy"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Chẳng hạn, nhiều người Việt vẫn nghe ông bà nói người mệnh này hợp màu này, tuổi này hợp tuổi kia. Đó là cách ngũ hành đi vào đời sống văn hóa, dù không phải khoa học."
+      },
+      "image_prompt": "a grandmother pointing at a colorful chart on a calendar while a child listens curiously, medium shot, warm homely light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Nếu bạn lớn lên ở Việt Nam, rất có thể bạn đã nghe về ngũ hành qua ông bà, qua xem ngày, hay qua đông y. Hell's Paradise mượn đúng hệ thống đó."
+      },
+      "image_prompt": "an old Vietnamese almanac book lying open on a wooden table beside a cup of tea, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Và các hành tác động lẫn nhau theo hai vòng. Vòng thứ nhất là tương sinh: hành này nuôi dưỡng hành kia."
+      },
+      "image_prompt": "a circle of five element symbols with green arrows flowing clockwise between them, parchment diagram, warm light",
+      "on_screen_text": "Tương sinh"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Mộc sinh Hỏa: gỗ cháy thành lửa. Hỏa sinh Thổ: lửa để lại tro thành đất. Thổ sinh Kim: trong đất có kim loại. Kim sinh Thủy: kim loại lạnh đọng hơi nước. Thủy sinh Mộc: nước nuôi cây."
+      },
+      "image_prompt": "five small illustrated vignettes in a row: burning wood, ash on soil, ore in rock, dew on metal, water on a sprout, parchment close-up, amber ink"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Vòng thứ hai là tương khắc: hành này áp chế hành kia. Mộc khắc Thổ, Thổ khắc Thủy, Thủy khắc Hỏa, Hỏa khắc Kim, Kim khắc Mộc."
+      },
+      "image_prompt": "the same circle of five element symbols with red arrows forming a star pattern inside, parchment diagram, dramatic light",
+      "on_screen_text": "Tương khắc",
+      "video_prompt": "red arrows trace the star pattern inside the element circle one by one",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Trong truyện, đây là luật chiến đấu quan trọng nhất. Tấn công bằng hành khắc đối thủ thì hiệu quả hơn nhiều. Tấn công bằng hành bị đối thủ khắc thì gần như vô dụng."
+      },
+      "image_prompt": "two opposing glowing energies colliding, one clearly overpowering the other, dynamic close-up, dramatic light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Và ngược lại, ở cạnh một người có hành sinh ra mình, Đạo của bạn sẽ mạnh lên. Chọn đồng đội cũng phải tính theo ngũ hành."
+      },
+      "image_prompt": "two figures standing back to back with complementary glowing auras merging slightly, medium shot, warm light",
+      "on_screen_text": "Chọn đồng đội theo ngũ hành"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Hãy thử một ví dụ. Nếu kẻ thù thuộc Mộc, bạn nên tấn công bằng Kim, vì Kim khắc Mộc. Tấn công bằng Thổ thì ngược lại, vì Mộc khắc Thổ, đòn của bạn sẽ bị áp chế."
+      },
+      "image_prompt": "a simple battle diagram on parchment with a leaf symbol facing a blade symbol and a mountain symbol, arrows showing advantage, amber ink close-up",
+      "chapter": "Ngũ hành trong chiến đấu",
+      "on_screen_text": "Ví dụ: Mộc gặp Kim"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nhưng nếu đồng đội của bạn thuộc Thủy, và bạn thuộc Mộc, Thủy sinh Mộc, Đạo của bạn sẽ được nuôi thêm khi hai người cùng chiến đấu."
+      },
+      "image_prompt": "two figures side by side with a wave symbol and a leaf symbol glowing between them, medium shot, warm light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Nghĩa là mỗi trận đấu giống một ván cờ ngũ hành: phải đọc hành của đối thủ, chọn đúng người ra trận, và giữ vị trí đúng với đồng đội."
+      },
+      "image_prompt": "a board game with five-element tokens arranged on a grid, a hand moving one token forward, close-up, warm light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Và điều thú vị: con người không đổi được hành của mình. Nhưng họ có thể học cách dùng Đạo của đồng đội, hoặc dùng vật dụng mang hành khác, để bù đắp."
+      },
+      "image_prompt": "a sword and a lantern and a small vial laid on a cloth, each glowing with a different colored aura, still life, soft light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Đan xen với ngũ hành là âm và dương. Mọi thứ đều có cả hai mặt: tối và sáng, tĩnh và động, mềm và cứng."
+      },
+      "image_prompt": "a simple black and white yin-yang symbol drawn in ink on rice paper, close-up, calm balanced light",
+      "chapter": "Âm và dương",
+      "on_screen_text": "Âm dương"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Trong truyện, cả nam và nữ, người mạnh và người yếu, đều mang cả âm lẫn dương. Không có phía nào hoàn toàn thắng thế."
+      },
+      "image_prompt": "a pair of stones, one dark and one light, placed side by side on a smooth river rock, close-up, soft balanced light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Trong truyện, Đạo mạnh nhất khi âm dương cân bằng. Người quá thiên về một phía thì Đạo sẽ lệch, dễ bị đánh bại."
+      },
+      "image_prompt": "a balance scale with a dark stone on one side and a light stone on the other, perfectly level, close-up, soft light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Các Tiên nhân thậm chí có thể thay đổi giữa hai dạng âm và dương, và dùng sự kết hợp âm dương để duy trì sức mạnh bất tử của mình."
+      },
+      "image_prompt": "a mysterious figure's silhouette half in shadow and half in light standing among flowers, symbolic medium shot, dramatic split light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku để ý: đây là một ý tưởng rất gần với triết học Đạo giáo thật. Không có gì là thuần túy tốt hay thuần túy xấu. Mọi thứ cần cân bằng."
+      },
+      "image_prompt": "a small pebble balanced perfectly on top of a larger stone beside a calm stream, close-up, peaceful light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Giờ tới câu hỏi lớn: làm sao đánh bại một Tiên nhân bất tử?"
+      },
+      "image_prompt": "a tall elegant silhouette regenerating from swirling petals while small human figures watch in shock, dramatic wide shot, eerie light",
+      "chapter": "Luật nâng cao: đánh bại kẻ bất tử"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Luật nâng cao một: Tiên nhân tái tạo cơ thể nhờ Đạo. Muốn đánh bại chúng, phải dùng Đạo để làm rối loạn dòng Đạo của chúng."
+      },
+      "image_prompt": "a glowing stream of energy being disrupted by a sharp contrasting beam, symbolic diagram, dramatic light",
+      "on_screen_text": "Làm rối dòng Đạo"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Luật nâng cao hai: tấn công đúng hành khắc với thuộc tính của Tiên nhân. Mỗi Tiên nhân có một hành, và luôn có một hành khắc nó."
+      },
+      "image_prompt": "a five-element wheel with one symbol highlighted and a red arrow pointing to it from its counter, parchment close-up, dramatic light"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Khái niệm đan điền cũng có thật trong võ thuật và khí công truyền thống. Người tập được dạy tập trung hơi thở vào vùng bụng dưới. Nhưng đó là khái niệm truyền thống, không phải một bộ phận giải phẫu."
+      },
+      "image_prompt": "a martial artist practicing slow breathing exercises in a courtyard at dawn, hands resting on the lower abdomen, medium shot, calm light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Luật nâng cao ba: tấn công vào nơi tập trung Đạo của cơ thể, gọi là đan điền, nằm ở vùng bụng dưới. Phá được nơi đó, khả năng tái tạo bị chặn lại."
+      },
+      "image_prompt": "an anatomical diagram of a human silhouette with a small glowing point marked below the navel, parchment close-up, amber ink",
+      "on_screen_text": "Đan điền"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Và luật nâng cao bốn, quan trọng nhất: phối hợp. Một người hiếm khi đủ. Nhóm tử tù và đao phủ phải kết hợp các hành khác nhau, người này mở đường, người kia kết thúc."
+      },
+      "image_prompt": "several small figures surrounding a towering silhouette, each with a different colored glow, wide shot, dramatic teamwork light",
+      "on_screen_text": "Luật 4: phối hợp",
+      "video_prompt": "the small figures' colored glows brighten and converge toward the towering silhouette",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Nhiều cặp tử tù và đao phủ bắt đầu bằng sự nghi ngờ, rồi dần trở thành đồng đội thật. Có cặp chiến đấu vì nhau tới cuối cùng. Đạo của họ mạnh lên cùng với sự tin tưởng."
+      },
+      "image_prompt": "two figures standing back to back in a misty forest, weapons drawn, calm expressions, medium shot, soft warm light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku thấy luật này là thông điệp của cả bộ truyện: những người ban đầu muốn giết nhau, tử tù và đao phủ, phải học cách hợp tác để sống sót."
+      },
+      "image_prompt": "two hands, one in shackles and one holding a sword hilt, reaching toward each other, symbolic close-up, warm light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Gabimaru xuất thân từ một làng ninja khắc nghiệt, nơi con người bị huấn luyện như vũ khí. Cậu được gọi là kẻ trống rỗng vì không biểu lộ cảm xúc, và vì không gì giết được cậu."
+      },
+      "image_prompt": "a hidden village in a rocky valley shrouded in mist with training grounds carved into the cliffs, wide shot, cold harsh light",
+      "chapter": "Gabimaru và Đạo của cảm xúc"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Gabimaru là ví dụ đẹp nhất về cách Đạo gắn với con người. Cậu được huấn luyện để trống rỗng, không cảm xúc, như một công cụ giết người."
+      },
+      "image_prompt": "an empty clay vessel sitting alone on a dark shelf, close-up, cold dim light",
+      "on_screen_text": "Kẻ trống rỗng"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nhưng Đạo của cậu mạnh nhất khi cậu nghĩ về người vợ, về lý do để sống. Cảm xúc mà cậu tưởng mình không có lại là nguồn sức mạnh lớn nhất."
+      },
+      "image_prompt": "a small figure standing in a burning forest with a faint warm glow around their chest, wide shot, dramatic warm light",
+      "on_screen_text": "Cảm xúc là sức mạnh",
+      "video_prompt": "the warm glow in the figure's chest grows brighter as flames flicker around",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Có một câu hỏi Sagiri tự hỏi suốt truyện: một người cầm kiếm lấy mạng người khác có quyền được sống thanh thản không? Cô tìm ra câu trả lời không phải bằng lý thuyết, mà bằng cách chiến đấu để bảo vệ người khác."
+      },
+      "image_prompt": "a young swordswoman kneeling beside a wounded companion in a misty forest, sword laid down beside her, medium shot, soft compassionate light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Sagiri cũng vậy. Cô học được rằng nghi ngờ bản thân không phải điểm yếu, mà là một phần của âm dương: sự yếu đuối cân bằng với sự cứng rắn."
+      },
+      "image_prompt": "a swordswoman standing calmly with her eyes closed as petals drift around her, medium shot, soft balanced light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku để ý: trong Hell's Paradise, người mạnh không phải người vô cảm, mà là người hiểu và cân bằng được cảm xúc của mình."
+      },
+      "image_prompt": "the owl mascot holding a small yin-yang pendant and looking at it thoughtfully",
+      "use_mascot": true
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Hiểu lầm một: Đạo là phép thuật. Không. Trong truyện, Đạo là năng lượng sống có sẵn trong mọi thứ. Không ai được ban cho nó, chỉ là học cách cảm nhận."
+      },
+      "image_prompt": "a crossed-out magic wand doodle beside a sprouting seed with faint energy lines, parchment close-up, amber ink",
+      "chapter": "Những hiểu lầm về Đạo",
+      "on_screen_text": "Hiểu lầm 1: Đạo là phép thuật"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Trong truyện có những trận mà tử tù yếu hơn nhiều vẫn gây thương tích cho Tiên nhân, nhờ đúng hành và đúng thời điểm. Đó là lúc người xem thấy luật ngũ hành đáng giá thế nào."
+      },
+      "image_prompt": "a small figure striking at exactly the right moment as a towering shadow staggers, dynamic wide shot, dramatic light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Hiểu lầm hai: Đạo mạnh hơn thì luôn thắng. Không. Tương khắc quan trọng hơn độ mạnh. Một người yếu hơn nhưng đúng hành vẫn có thể đánh bại người mạnh hơn."
+      },
+      "image_prompt": "a small figure with a red glow standing confidently before a much larger figure with a blue glow, symbolic wide shot, dramatic light",
+      "on_screen_text": "Hiểu lầm 2: mạnh hơn luôn thắng"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Hiểu lầm ba: chỉ Tiên nhân mới dùng được Đạo. Không. Con người cũng dùng được, và nhiều tử tù học rất nhanh ngay trên đảo."
+      },
+      "image_prompt": "a group of weary human figures practicing breathing exercises together at the edge of a strange forest, wide shot, soft light",
+      "on_screen_text": "Hiểu lầm 3: chỉ Tiên nhân"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hiểu lầm bốn, lớn nhất: ngũ hành trong truyện là khoa học. Không. Ngũ hành ngoài đời là một hệ thống triết học và văn hóa cổ, dùng trong đông y, phong thủy, xem ngày. Nó không phải một định luật vật lý."
+      },
+      "image_prompt": "an old philosophy book open beside a modern science textbook, with a small dividing line drawn between them, close-up, warm light",
+      "on_screen_text": "Hiểu lầm 4: ngũ hành là khoa học"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku nhắc thêm: video này nói về truyện, không phải lời khuyên sức khỏe. Nếu bạn quan tâm tới đông y, hãy hỏi thầy thuốc có chuyên môn."
+      },
+      "image_prompt": "a small notice card with a simple health cross icon pinned to a board, close-up, soft clean light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Chữ Đạo gắn với Đạo giáo, một trường phái triết học Trung Hoa cổ, thường được gắn với tên Lão Tử và cuốn Đạo Đức Kinh."
+      },
+      "image_prompt": "an old bamboo scroll with brush calligraphy rolled out on a low wooden table beside incense, close-up, warm serene light",
+      "chapter": "Đạo ngoài đời thật",
+      "on_screen_text": "Đạo giáo · Lão Tử"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Đạo Đức Kinh có một ý rất nổi tiếng: nước là thứ mềm yếu nhất, nhưng lại thắng được những thứ cứng rắn nhất. Hell's Paradise thể hiện đúng tinh thần đó: người mềm dẻo, biết cân bằng, mới là người sống sót."
+      },
+      "image_prompt": "water flowing gently around a large hard rock in a stream, slowly carving it smooth, close-up, calm natural light",
+      "on_screen_text": "Nước mềm thắng cứng"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Tư tưởng cốt lõi: sống thuận theo tự nhiên, cân bằng, không cưỡng ép. Hell's Paradise lấy cảm hứng từ đó để xây hòn đảo và các Tiên nhân."
+      },
+      "image_prompt": "a quiet mountain stream flowing around rocks through a misty forest, wide shot, peaceful green light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và ý tưởng tìm thuốc trường sinh cũng có thật trong lịch sử. Nhiều vị vua xưa đã sai người đi tìm thuốc bất tử, và có những người còn tìm tới những hòn đảo huyền thoại ngoài biển."
+      },
+      "image_prompt": "an ancient ship with a large sail heading toward a misty island on the horizon, wide shot, legendary golden light",
+      "on_screen_text": "Truyền thuyết thuốc trường sinh"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Theo truyền thuyết, người được Tần Thủy Hoàng sai đi là Từ Phúc. Ông dẫn một đoàn thuyền ra biển Đông tìm tiên đảo, và không bao giờ trở về. Có truyền thuyết còn nói ông tới Nhật Bản."
+      },
+      "image_prompt": "a fleet of ancient ships sailing into a misty eastern sea toward a faint mountainous island, wide shot, legendary golden light",
+      "on_screen_text": "Từ Phúc tìm tiên đảo"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kaku để ý: chính Tần Thủy Hoàng, người mà Kaku đã nói trong video về Kingdom, cũng được sử sách kể là từng sai người đi tìm thuốc trường sinh."
+      },
+      "image_prompt": "a small bronze seal resting beside a tiny vial on an old map, close-up, warm historical light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và đây là Đạo trong một hình. Ở giữa: Đạo, năng lượng sống. Ba luật nền: cảm nhận được, tăng sức mạnh được, và có thể cạn."
+      },
+      "image_prompt": "a large circular diagram on parchment with a glowing center labeled with a simple energy symbol, amber ink overhead shot, warm light",
+      "chapter": "Sơ đồ tổng kết một hình"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Vòng trong: ngũ hành với hai vòng tương sinh và tương khắc. Bao quanh: âm và dương."
+      },
+      "image_prompt": "the diagram with the five-element wheel and a yin-yang ring drawn around it, amber and red ink close-up"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Và ở góc giấy, những chú thích nhỏ: Đạo cần tâm trí vững vàng, và người ta mạnh lên cùng với sự tin tưởng giữa đồng đội."
+      },
+      "image_prompt": "small handwritten notes in the margins of the parchment diagram beside tiny doodles of a calm face and two joined hands, extreme close-up, amber ink"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Vòng ngoài: bốn luật nâng cao để đánh bại Tiên nhân: làm rối dòng Đạo, đúng hành khắc, nhắm vào đan điền, và phối hợp."
+      },
+      "image_prompt": "the complete circular diagram with four small icons around its outer edge, amber ink overhead shot",
+      "on_screen_text": "Sơ đồ Đạo"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và một dòng chữ nhỏ ở mép giấy: cảm xúc không làm Đạo yếu đi, nếu bạn biết cân bằng nó."
+      },
+      "image_prompt": "a small handwritten note in the corner of the parchment diagram beside a tiny heart, extreme close-up, warm light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Giờ tới trò chơi. Nếu bạn là một tử tù trên hòn đảo, Đạo của bạn thuộc hành nào?"
+      },
+      "image_prompt": "five small cards laid face down on a table, each with a faint element symbol showing through, close-up, mysterious warm light",
+      "chapter": "Trò chơi: bạn thuộc hành nào?",
+      "on_screen_text": "Bạn thuộc hành nào?"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nếu bạn nóng tính, hành động nhanh, có lẽ bạn thuộc Hỏa. Nếu bạn điềm tĩnh, linh hoạt, có lẽ là Thủy. Nếu bạn kiên định, cứng rắn, có lẽ là Kim."
+      },
+      "image_prompt": "three small cards turned over showing a flame, a wave and a blade, close-up, warm light"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Nếu bạn thích giúp người khác lớn lên, có lẽ là Mộc. Và nếu bạn là người mà ai cũng muốn dựa vào, có lẽ là Thổ. Đây là trò chơi vui, không phải xem bói nhé."
+      },
+      "image_prompt": "two more cards turned over showing a leaf and a mountain, with a small playful disclaimer tag beside them, close-up, warm light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Gợi ý thêm: nếu bạn thuộc Hỏa, đồng đội lý tưởng của bạn thuộc Mộc, vì Mộc sinh Hỏa. Và hãy cẩn thận với người thuộc Thủy trong những ngày căng thẳng. Đùa thôi, nhưng cũng vui phải không?"
+      },
+      "image_prompt": "a small playful chart showing a leaf and a flame joined by a heart, and a wave with a tiny warning sign, parchment close-up, playful light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Kaku tự nhận mình thuộc Mộc, vì Kaku sống trong một cuốn sổ bằng giấy. Còn bạn? Viết vào bình luận, và cho Kaku biết đồng đội lý tưởng của bạn thuộc hành nào."
+      },
+      "image_prompt": "the owl mascot holding up a leaf-symbol card with a proud expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và nếu bạn chưa xem, Kaku khuyên bắt đầu từ mùa một. Nó đẹp, đáng sợ, và có những nhân vật mà bạn sẽ nhớ rất lâu, trên một hòn đảo mà bạn sẽ không bao giờ muốn tới."
+      },
+      "image_prompt": "a small boat drifting away from a beautiful mist-covered island at sunset, wide shot, bittersweet golden light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Hell's Paradise lấy một hệ thống tư tưởng hàng nghìn năm tuổi, và biến nó thành luật chiến đấu. Nhưng bài học của nó vẫn giữ nguyên: cân bằng, và không ai sống sót một mình."
+      },
+      "image_prompt": "a lone flower growing between two stones on a misty island shore at dawn, close-up, peaceful golden light"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đưa bạn vào một trò chơi đáng sợ hơn nhiều: Miền đất hứa. Nếu bạn là một đứa trẻ ở trại mồ côi Grace Field, bạn sẽ sống sót bằng cách nào?"
+      },
+      "image_prompt": "a peaceful orphanage building surrounded by a tall forest and a high fence in the distance, wide shot, deceptively warm light",
+      "on_screen_text": "Tiếp theo: Miền đất hứa"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu video này giúp bạn hiểu Đạo và ngũ hành rõ hơn, hãy đăng ký kênh. Và nhớ tìm đồng đội có hành sinh ra hành của mình nhé. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the five-element scroll and bowing with its wings folded",
+      "use_mascot": true
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "title": "Vinland Saga: Người Viking thật và Thorfinn thật là ai?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime Vinland Saga mùa hai, và nhắc nhẹ hướng đi của manga, đã kết thúc năm 2025. Phần lịch sử thật thì không phải spoiler, nó đã xảy ra từ một nghìn năm trước."
+      },
+      "image_prompt": "an old leather-bound saga manuscript lying closed on a wooden table beside a spoiler warning card, close-up, cold northern light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết anime mùa 2"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Câu chuyện này có thật hơn bạn nghĩ. Khoảng năm 1010, một người Iceland tên Thorfinn dẫn ba con tàu vượt biển Bắc Đại Tây Dương, tới một vùng đất mà người châu Âu chưa từng sống: châu Mỹ."
+      },
+      "image_prompt": "three Norse longships with square sails crossing a grey stormy ocean toward a distant forested coastline, wide shot, dramatic cold light",
+      "on_screen_text": "Khoảng năm 1010",
+      "video_prompt": "the three longships crest a large wave as the forested coastline emerges from the mist",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Gần năm trăm năm trước Columbus. Và tên của ông, Thorfinn, chính là cái tên mà tác giả Yukimura Makoto chọn cho nhân vật chính của Vinland Saga."
+      },
+      "image_prompt": "a hand-drawn Atlantic map with a dotted route from Iceland to Greenland to a green coastline, parchment close-up, amber ink",
+      "on_screen_text": "Trước Columbus gần 500 năm"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Câu hỏi hôm nay: trong Vinland Saga, bao nhiêu là thật? Thorfinn thật là ai? Người Viking thật sống thế nào? Và tác giả đã thay đổi những gì, vì sao?"
+      },
+      "image_prompt": "a large parchment divided into two columns, one marked with a rune and one with a question mark, close-up, amber ink"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku đặt Vinland Saga cạnh những bộ sử thi Iceland. Cuối video là bản đồ thật và hư cấu trong một hình."
+      },
+      "image_prompt": "the owl mascot wearing a tiny fur cloak, unrolling an old map on a wooden table by candlelight",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Như mọi video dạng này, Kaku không vẽ chân dung người thật. Kaku dùng tàu, cổ vật, bản đồ, và những bóng người."
+      },
+      "image_prompt": "a museum display of a Viking-age iron sword, a brooch and a comb under soft spotlight, close-up, museum light"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Vinland Saga là manga của Yukimura Makoto, đăng từ năm 2005 và kết thúc với chương hai trăm hai mươi vào tháng bảy năm 2025, sau đúng hai mươi năm."
+      },
+      "image_prompt": "a long row of manga volumes on a wooden shelf with a small carved longship bookend, close-up, warm light",
+      "chapter": "Vinland Saga là gì?",
+      "on_screen_text": "2005 → 2025"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Anime mùa một do WIT Studio làm năm 2019, mùa hai do MAPPA làm năm 2023. Hai mùa rất khác nhau: mùa một là chiến tranh, mùa hai là một nông trại."
+      },
+      "image_prompt": "a split image: a battlefield with shields and smoke on the left, a quiet farm field with a wooden house on the right, symmetrical composition",
+      "on_screen_text": "Chiến tranh → nông trại"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Câu chuyện theo Thorfinn, cậu bé chứng kiến cha mình bị giết, rồi lớn lên trong băng lính đánh thuê của kẻ thù, chỉ sống để trả thù."
+      },
+      "image_prompt": "a young boy sitting alone on a ship's deck clutching a short knife, staring at the sea, wide shot, cold grey light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nhiều người xem thích Vinland Saga vì nó dám thay đổi thể loại giữa chừng: từ một bộ hành động về chiến binh, thành một câu chuyện về chuộc lỗi và hòa bình."
+      },
+      "image_prompt": "a battle axe lying abandoned on a field where small green shoots are starting to grow around it, close-up, soft morning light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Rồi, sau tất cả, cậu bỏ kiếm, và mơ đưa mọi người tới một vùng đất không có chiến tranh, không có nô lệ: Vinland."
+      },
+      "image_prompt": "a wooden sword laid down on the grass beside a plow in a sunny green field, close-up, warm hopeful light",
+      "on_screen_text": "Bỏ kiếm, tìm Vinland"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Trước hết, người Viking thật là ai? Viking không phải một dân tộc, mà là cách gọi những người Bắc Âu đi biển để buôn bán, cướp bóc, hay định cư, khoảng từ cuối thế kỷ tám tới thế kỷ mười một."
+      },
+      "image_prompt": "a Norse longship pulled up on a pebble beach beside a trading post with barrels and furs, wide shot, cold morning light",
+      "chapter": "Người Viking thật",
+      "on_screen_text": "Viking: một nghề, không phải một dân tộc"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Phần lớn thời gian, họ là nông dân, thợ thủ công, thương nhân. Đi biển cướp bóc chỉ là một phần, dù là phần nổi tiếng nhất."
+      },
+      "image_prompt": "a turf-roofed longhouse with smoke rising from its chimney, sheep grazing nearby, wide shot, soft overcast light"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Một hiểu lầm lớn: mũ sừng. Chưa có bằng chứng khảo cổ nào cho thấy chiến binh Viking đội mũ có sừng. Hình ảnh đó phổ biến từ trang phục sân khấu ở châu Âu thế kỷ mười chín."
+      },
+      "image_prompt": "a plain rounded iron helmet on a museum stand beside a crossed-out horned helmet doodle, close-up, clean light",
+      "on_screen_text": "Mũ sừng: không có thật"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Tàu Viking cũng là một kỳ quan kỹ thuật: đáy nông để vào được sông, thân ghép ván chồng lên nhau cho mềm dẻo, vừa có buồm vừa có mái chèo. Những con tàu như tàu Gokstad ở Na Uy vẫn còn tới ngày nay."
+      },
+      "image_prompt": "a restored ancient longship displayed in a museum hall with its curved prow and overlapping planks visible, wide shot, soft museum light",
+      "on_screen_text": "Tàu Viking"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku để ý: Vinland Saga không cho nhân vật đội mũ sừng. Tác giả đã nghiên cứu rất kỹ trang phục, vũ khí và tàu thuyền thời đó."
+      },
+      "image_prompt": "the owl mascot trying on a tiny horned helmet, then taking it off with an embarrassed look",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Người Viking cũng buôn bán nô lệ, gọi là thrall. Tù binh từ các cuộc cướp bóc bị bán qua nhiều vùng. Mùa hai của Vinland Saga, với Thorfinn làm nô lệ ở nông trại, dựa trên sự thật tàn khốc này."
+      },
+      "image_prompt": "a heavy iron shackle lying on a rough wooden floor of a farm storehouse, close-up, somber cold light",
+      "on_screen_text": "Nô lệ: có thật"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Để hiểu Thorfinn thật, hãy nhìn thế giới của ông. Người Bắc Âu định cư ở Iceland từ cuối thế kỷ chín, trên một hòn đảo núi lửa gần như không người."
+      },
+      "image_prompt": "a volcanic Icelandic landscape with a small turf farmstead beside a river, wide shot, soft misty light",
+      "chapter": "Thế giới Bắc Âu năm 1000",
+      "on_screen_text": "Iceland: đảo núi lửa"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Năm 930, họ lập ra Althing, một hội nghị nơi các thủ lĩnh gặp nhau hằng năm để làm luật và xử án. Nhiều người gọi đó là một trong những nghị viện lâu đời nhất thế giới."
+      },
+      "image_prompt": "a gathering of cloaked figures in a rocky valley beside a large flat stone under an open sky, wide shot, cold clear light",
+      "on_screen_text": "Althing, năm 930"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Khoảng năm 985, Erik Đỏ, bị trục xuất khỏi Iceland, đi về phía tây và lập khu định cư ở Greenland. Ông đặt tên Greenland, vùng đất xanh, để thu hút người tới ở."
+      },
+      "image_prompt": "a rugged fjord with icebergs and a thin strip of green grass along the shore where a few houses stand, wide shot, cold bright light",
+      "on_screen_text": "Erik Đỏ và Greenland"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Và khoảng năm 1000, Iceland chính thức chuyển sang Kitô giáo qua một quyết định tại Althing. Thế giới của Thorfinn là một thế giới đang thay đổi rất nhanh."
+      },
+      "image_prompt": "a small wooden church beside an old rune stone on a grassy hill, wide shot, soft morning light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku để ý: Vinland Saga cũng là một câu chuyện về thời đại chuyển giao. Giữa thần cũ và thần mới, giữa cướp bóc và làm ruộng, con người phải chọn cách sống."
+      },
+      "image_prompt": "the owl mascot standing at a fork in a path with a rune stone on one side and a small church on the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Người đầu tiên tới Vinland theo sử thi là Leif Erikson, con trai của Erik Đỏ, khoảng năm 1000."
+      },
+      "image_prompt": "a single longship approaching a misty forested coast with a lone figure standing at the bow, wide shot, cold dawn light",
+      "chapter": "Leif Erikson và Vinland đầu tiên",
+      "on_screen_text": "Leif Erikson"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Leif đặt tên cho ba vùng đất: Helluland, vùng đá phẳng; Markland, vùng rừng; và Vinland. Các nhà nghiên cứu cho rằng chúng tương ứng với những vùng bờ biển đông bắc Bắc Mỹ ngày nay."
+      },
+      "image_prompt": "a hand-drawn coastline map with three regions labeled by small icons: flat stones, a forest, and a vine, parchment close-up, amber ink",
+      "on_screen_text": "Helluland · Markland · Vinland"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Vinland thường được hiểu là vùng đất nho, vì sử thi kể họ tìm thấy nho mọc hoang. Có học giả hiểu khác, nhưng cách hiểu vùng đất nho là phổ biến nhất."
+      },
+      "image_prompt": "a cluster of wild grapes growing on a vine in a sunlit forest clearing, close-up, warm light",
+      "on_screen_text": "Vùng đất nho"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Thorfinn Karlsefni đi sau Leif vài năm, với ý định không chỉ khám phá, mà định cư lâu dài: mang theo người, gia súc, và cả phụ nữ."
+      },
+      "image_prompt": "a longship loaded with livestock, barrels and families sailing on calm water, wide shot, hopeful morning light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Thorfinn thật tên đầy đủ là Thorfinn Karlsefni. Karlsefni nghĩa là người có tố chất của một người đàn ông thực thụ. Ông là một thương nhân Iceland."
+      },
+      "image_prompt": "a Norse trader's scale and a pouch of silver pieces on a wooden table beside a rune-carved stick, close-up, warm candlelight",
+      "chapter": "Thorfinn thật",
+      "on_screen_text": "Thorfinn Karlsefni"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Chuyện của ông được ghi lại trong hai bộ sử thi Iceland: Sử thi về Erik Đỏ, và Sử thi về người Greenland. Cả hai được viết lại nhiều thế kỷ sau sự kiện."
+      },
+      "image_prompt": "two old manuscript pages side by side with Old Norse script and small illuminated initials, close-up, warm parchment light",
+      "on_screen_text": "Hai bộ sử thi"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Theo sử thi, Thorfinn dẫn ba con tàu từ Greenland đi về phía tây, theo con đường mà Leif Erikson đã mở ra khoảng bảy năm trước. Họ tới vùng đất mà người Bắc Âu gọi là Vinland."
+      },
+      "image_prompt": "three longships sailing past icy cliffs along a rugged coastline at dawn, wide shot, cold clear light",
+      "on_screen_text": "Theo đường của Leif Erikson",
+      "video_prompt": "the longships glide past the icy cliffs as dawn light spreads across the water",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Vợ ông là Gudrid, một người phụ nữ phi thường, đã đi qua gần hết thế giới Bắc Âu thời đó. Và con trai họ, Snorri, được cho là đứa trẻ châu Âu đầu tiên sinh ra ở Bắc Mỹ."
+      },
+      "image_prompt": "a small wooden cradle inside a turf house with a woven blanket and light coming through a doorway, close-up, warm gentle light",
+      "on_screen_text": "Snorri: đứa trẻ châu Âu đầu tiên ở Bắc Mỹ"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Sử thi kể về những lần trao đổi hàng hóa với người bản địa, rồi những hiểu lầm và xung đột. Người Bắc Âu ít người, ở quá xa quê nhà, và không thể ở lại."
+      },
+      "image_prompt": "a small pile of trade goods, cloth and furs, placed on a rock between two groups on a beach, wide shot, tense cautious light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Sau khoảng ba năm, nhóm của Thorfinn rời Vinland. Sử thi kể về những xung đột với cư dân bản địa. Người Bắc Âu không ở lại lâu dài."
+      },
+      "image_prompt": "a longship sailing away from a forested coast at dusk with a distant campfire on the shore, wide shot, bittersweet light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Và Thorfinn thật không phải một chiến binh trả thù. Ông là thương nhân, người đi tìm vùng đất mới để làm ăn và định cư. Nhân vật trong manga có cuộc đời rất khác."
+      },
+      "image_prompt": "a merchant's ledger and a map lying beside a sheathed knife on a table, close-up, warm light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Vậy Yukimura đã lấy gì và đổi gì? Ông lấy cái tên, và điểm đến: Vinland. Nhưng gần như toàn bộ tuổi thơ và tuổi trẻ của Thorfinn trong truyện là sáng tạo."
+      },
+      "image_prompt": "a blank page with a single name and a destination written at the top, the rest empty, close-up, warm light",
+      "chapter": "Chỗ tác giả thay đổi: Thorfinn trong truyện"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Sử thi gần như không kể gì về thời trẻ của Thorfinn Karlsefni. Và cũng như Kingdom, khoảng trống đó là món quà cho tác giả."
+      },
+      "image_prompt": "an old manuscript with a large blank section between two dense blocks of text, close-up, parchment light",
+      "on_screen_text": "Khoảng trống trong sử"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Cha của Thorfinn trong truyện là Thors, một chiến binh huyền thoại đã bỏ kiếm. Cha thật của Thorfinn Karlsefni, theo sử thi, là một người khác. Tác giả tạo ra Thors để đặt câu hỏi về bạo lực."
+      },
+      "image_prompt": "a sheathed sword hung on a wall above a family hearth, gathering dust, close-up, warm quiet light",
+      "on_screen_text": "Thors: sáng tạo"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Câu nói nổi tiếng của Thors, đại ý: con không có kẻ thù nào cả, không ai có kẻ thù cả. Câu đó trở thành trái tim của cả bộ truyện."
+      },
+      "image_prompt": "a father's large hand resting on a child's head beside a calm fjord at dusk, close-up, warm tender light",
+      "on_screen_text": "Không ai có kẻ thù",
+      "video_prompt": "the fjord water ripples softly as the father's hand rests on the child's head",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Ở cuối manga, Thorfinn trong truyện thật sự đi tới Vinland, như Thorfinn thật. Hai cuộc đời khác nhau hội tụ ở cùng một điểm đến. Kaku sẽ không kể thêm."
+      },
+      "image_prompt": "two paths drawn on a map, one straight and one winding, meeting at the same small coastal point, parchment close-up, warm light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kaku thấy tác giả chọn một thương nhân có thật làm khung, rồi lấp vào đó hành trình từ trả thù tới hòa bình. Lịch sử cho đích đến, còn con đường là của nhà văn."
+      },
+      "image_prompt": "a map with a fixed destination marked in ink and a winding pencil path leading to it, parchment close-up, amber ink"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Phần đầu Vinland Saga diễn ra trong những cuộc chiến của người Đan Mạch ở Anh. Bối cảnh này cũng có thật."
+      },
+      "image_prompt": "a misty English countryside with a burned village on a hill and longships moored in a river below, wide shot, grey somber light",
+      "chapter": "Chiến tranh ở nước Anh"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Để mua bình yên, nước Anh nhiều lần phải trả cho người Viking những khoản tiền cống nạp lớn bằng bạc, sau này được gọi là Danegeld."
+      },
+      "image_prompt": "heavy chests of silver coins being loaded onto a longship at a riverside dock, close-up, cold grey light",
+      "on_screen_text": "Danegeld: tiền cống nạp"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Năm 1002, vua Anh Æthelred ra lệnh giết những người Đan Mạch sống ở Anh, sự kiện gọi là vụ thảm sát ngày thánh Brice. Nhiều sử gia cho rằng nó góp phần khiến người Đan Mạch trả thù dữ dội hơn."
+      },
+      "image_prompt": "an old English church door at night with a single candle burning before it, close-up, somber cold light",
+      "on_screen_text": "Thảm sát ngày thánh Brice, 1002"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Chính những vòng lặp trả thù đó là nền cho câu hỏi của Vinland Saga. Tác giả không phải bịa ra một thế giới bạo lực. Ông chỉ cần nhìn vào lịch sử."
+      },
+      "image_prompt": "a circle of arrows drawn on parchment looping endlessly around a small map of the North Sea, amber ink close-up"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Nhiều nhân vật khác trong Vinland Saga cũng có thật. Thorkell Cao lớn là một thủ lĩnh Viking có thật, từng đánh ở Anh đầu thế kỷ mười một."
+      },
+      "image_prompt": "a massive Norse war camp on an English riverbank with many longships moored, wide shot, misty morning light",
+      "chapter": "Những người có thật khác",
+      "on_screen_text": "Thorkell Cao lớn"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Thorkell thật từng đổi phe nhiều lần: đánh nước Anh, rồi phục vụ vua Anh Æthelred, rồi theo vua Cnut. Cnut phong ông làm bá tước vùng Đông Anglia năm 1017."
+      },
+      "image_prompt": "a banner being lowered from one side of a wall and a different banner raised on the other, symbolic wide shot, grey light",
+      "on_screen_text": "Đổi phe nhiều lần"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Trong manga, Thorkell là một chiến binh cuồng nhiệt, chỉ muốn đánh nhau với người mạnh. Tính đổi phe trong sử thật được tác giả diễn giải thành một người chỉ đi theo trận đấu hay nhất."
+      },
+      "image_prompt": "a giant silhouette laughing on a battlefield with a broken spear in each hand, dramatic low-angle shot, warm stormy light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Cnut, hay Canute, là vua có thật: vua Anh từ năm 1016, vua Đan Mạch, rồi cả Na Uy. Ông lập nên một đế chế quanh biển Bắc."
+      },
+      "image_prompt": "a map of the North Sea with England, Denmark and Norway shaded in the same color, parchment close-up, amber ink",
+      "on_screen_text": "Cnut Đại đế"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Cha của Cnut, vua Sweyn Râu Chẻ, cũng có thật. Ông chiếm được nước Anh năm 1013 và mất vào đầu năm 1014."
+      },
+      "image_prompt": "an old royal seal pressed into red wax beside a crown resting on a cushion, close-up, cold regal light",
+      "on_screen_text": "Sweyn Râu Chẻ"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Có một giai thoại nổi tiếng về Cnut thật: ông ngồi bên bờ biển và ra lệnh cho sóng lùi lại, để cho các cận thần thấy rằng quyền lực của vua cũng có giới hạn. Đây là giai thoại được kể lại, không chắc đã xảy ra."
+      },
+      "image_prompt": "an empty wooden throne placed on a sandy beach as waves wash around its legs, wide shot, grey dramatic light",
+      "on_screen_text": "Giai thoại: Cnut và sóng biển"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Trong manga, Cnut thay đổi từ một hoàng tử nhút nhát thành một vị vua lạnh lùng, quyết tâm xây thiên đường trên mặt đất bằng mọi giá. Sự thay đổi đó là sáng tạo, nhưng đế chế thì có thật."
+      },
+      "image_prompt": "a young silhouette standing on a cliff overlooking a vast sea at dawn, back view, wide shot, cold majestic light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Askeladd, thủ lĩnh lính đánh thuê, người giết cha Thorfinn và nuôi Thorfinn lớn, là nhân vật hư cấu. Tên của ông lấy từ một nhân vật trong truyện cổ tích Na Uy, cậu bé Askeladden."
+      },
+      "image_prompt": "an old Norwegian folk tale book opened to an illustration of a young lad by a fireplace, close-up, warm storybook light",
+      "chapter": "Những gì hư cấu",
+      "on_screen_text": "Askeladd: hư cấu"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Trong truyện, Askeladd tự nhận là hậu duệ của một vị tướng La Mã gắn với truyền thuyết vua Arthur. Đó là một lớp truyền thuyết chồng lên hư cấu."
+      },
+      "image_prompt": "a weathered Roman-era stone carving of a warrior beside an old book of Arthurian legends, close-up, misty light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Mùa hai được nhiều người xem đánh giá là một trong những phần hay nhất của anime, dù không có trận chiến lớn nào. Nó cho thấy một chiến binh học lại cách làm người, bằng tay trồng lúa mì."
+      },
+      "image_prompt": "a pair of calloused hands planting seeds in a furrowed field at dawn, close-up, warm hopeful light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nông trại của Ketil ở mùa hai, và những nô lệ như Einar, cũng là sáng tạo. Nhưng cuộc sống của nô lệ Bắc Âu thời đó thì dựa trên tư liệu thật."
+      },
+      "image_prompt": "a sprawling Danish farm with wheat fields and a large wooden hall under a wide sky, wide shot, soft golden light",
+      "on_screen_text": "Nông trại Ketil: sáng tạo"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Jomsviking, đội chiến binh xuất hiện trong truyện, có trong sử thi. Nhưng các nhà sử học vẫn tranh luận họ có thật như lời kể hay chỉ là huyền thoại."
+      },
+      "image_prompt": "a legendary fortress on a misty coast drawn in an old manuscript style, parchment close-up, amber ink",
+      "on_screen_text": "Jomsviking: còn tranh luận"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Và đây là phần Kaku thích nhất. Vinland không chỉ có trong sử thi. Năm 1960, các nhà nghiên cứu Na Uy tìm thấy dấu vết một khu định cư Bắc Âu ở Newfoundland, Canada, tại một nơi tên L'Anse aux Meadows."
+      },
+      "image_prompt": "grassy mounds of reconstructed turf houses on a windswept coastal meadow, wide shot, soft overcast light",
+      "chapter": "Vinland có thật: L'Anse aux Meadows",
+      "on_screen_text": "L'Anse aux Meadows",
+      "video_prompt": "wind sweeps across the grassy mounds as clouds drift over the coastal meadow",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Đây là bằng chứng khảo cổ đầu tiên và rõ ràng nhất cho thấy người Bắc Âu đã tới châu Mỹ trước Columbus."
+      },
+      "image_prompt": "an archaeologist's hand brushing soil from an iron rivet at a dig site, extreme close-up, natural daylight"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Năm 2021, một nghiên cứu đăng trên tạp chí Nature dùng vòng gỗ để xác định chính xác: người Bắc Âu đã chặt cây ở đây vào năm 1021."
+      },
+      "image_prompt": "a cross-section of an old tree trunk with rings highlighted and a small marker at one ring, close-up, clean scientific light",
+      "on_screen_text": "Năm 1021"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Bí quyết: năm 993 có một cơn bão tia vũ trụ hiếm gặp, để lại dấu vết trong vòng cây trên toàn thế giới. Đếm từ vòng đó ra tới vỏ cây là hai mươi tám vòng. 993 cộng 28 là 1021."
+      },
+      "image_prompt": "a diagram of tree rings with one bright highlighted ring and a count of rings to the outer edge, infographic style, bright light",
+      "on_screen_text": "993 + 28 = 1021",
+      "video_prompt": "the highlighted tree ring glows and a counter ticks outward ring by ring to the bark",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku thấy đây là một trong những khám phá khoa học đẹp nhất: một cơn bão từ vũ trụ giúp ta biết năm chính xác người Viking cầm rìu ở châu Mỹ."
+      },
+      "image_prompt": "the owl mascot counting tree rings on a stump with a tiny pointer, wide-eyed with delight",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Ngày nay, L'Anse aux Meadows là Di sản Thế giới UNESCO, với những ngôi nhà mái cỏ được dựng lại. Bạn có thể tới đó và đứng đúng nơi người Bắc Âu từng đứng một nghìn năm trước."
+      },
+      "image_prompt": "visitors walking along a wooden path toward reconstructed turf houses on a windy coastal meadow, wide shot, soft overcast light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nhưng chưa ai chắc L'Anse aux Meadows có phải chính là Vinland trong sử thi hay không, hay chỉ là một trạm trung chuyển. Vinland có thể rộng hơn, xa hơn về phía nam."
+      },
+      "image_prompt": "a coastal map of northeastern North America with a question mark hovering over the southern coast, parchment close-up, amber ink"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Trước đó, hãy nhớ rằng chính các sử thi Iceland cũng không phải ghi chép chính xác từng chữ. Chúng được truyền miệng qua nhiều thế hệ rồi mới được viết lại. Lịch sử của người Viking vốn đã là một câu chuyện được kể."
+      },
+      "image_prompt": "an elder telling a story by a longhouse fire to a group of listeners, wide shot, warm flickering light",
+      "chapter": "Chỗ tác giả thay đổi và vì sao"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Vậy vì sao Yukimura thay đổi lịch sử? Kaku thấy có ba lý do."
+      },
+      "image_prompt": "a notebook page with three numbered empty lines, close-up, amber ink"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Một: lấp khoảng trống. Sử thi chỉ kể chuyến đi, không kể con người trước chuyến đi. Tác giả tạo nên cả một tuổi trẻ đầy máu và hối hận."
+      },
+      "image_prompt": "a crumbling wall with fresh bricks filling in the gaps, symbolic close-up, warm light",
+      "on_screen_text": "1. Lấp khoảng trống"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Hai: đặt câu hỏi cho thời đại. Người Viking thường được tô vẽ là chiến binh oai hùng. Vinland Saga hỏi ngược lại: bạo lực đó có ý nghĩa gì với người bị cướp, bị bán làm nô lệ?"
+      },
+      "image_prompt": "a romantic painting of a heroic warrior hanging on a wall, with a small realistic sketch of a grieving farmer pinned beside it, close-up, contrasting light",
+      "on_screen_text": "2. Đặt câu hỏi cho thời đại"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và tác giả chọn những chi tiết thật một cách rất tinh tế: tên người, tên tàu, tên vùng đất. Người đọc tò mò có thể tự tra, và sẽ thấy lịch sử hiện ra sau từng trang."
+      },
+      "image_prompt": "a manga volume open beside a history encyclopedia with sticky notes connecting pages, close-up, cozy lamplight"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Ba: một hành trình của chính tác giả. Yukimura từng chia sẻ rằng ông muốn viết về cách con người vượt qua bạo lực. Thorfinn là câu trả lời của ông."
+      },
+      "image_prompt": "a writer's desk with an open notebook, a stack of history books and a small wooden longship model, close-up, warm lamplight",
+      "on_screen_text": "3. Câu trả lời của tác giả"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku nghĩ đây là cách dùng lịch sử rất đẹp: không bóp méo những gì đã xảy ra, mà dùng khoảng trống để nói điều mình tin."
+      },
+      "image_prompt": "a gentle hand writing in the margin of an old history book with a quill, close-up, warm candlelight"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Và đây là bản đồ trong một hình. Cột thật: Thorfinn Karlsefni, Gudrid, Snorri, Leif Erikson, Thorkell Cao lớn, Cnut, Sweyn, chuyến đi tới Vinland, và L'Anse aux Meadows năm 1021."
+      },
+      "image_prompt": "a two-column chart on parchment with the left column filled with small rune stamps, amber ink close-up",
+      "chapter": "Bản đồ thật và hư cấu",
+      "on_screen_text": "Thật"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Cột tên thật nhưng đời khác: Thorfinn trong truyện, một chiến binh trả thù rồi bỏ kiếm, và tính cách của Thorkell, Cnut."
+      },
+      "image_prompt": "the middle section of the chart with half-filled circle icons, amber ink close-up",
+      "on_screen_text": "Tên thật, đời khác"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Cột hư cấu: Thors, Askeladd, nông trại Ketil, Einar. Và cột còn tranh luận: Jomsviking, và vị trí chính xác của Vinland."
+      },
+      "image_prompt": "the right side of the chart with dotted circle icons and a small question mark note pinned at the edge, amber ink close-up",
+      "on_screen_text": "Hư cấu · Còn tranh luận"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và có lẽ đó là điểm chung sâu nhất: cả hai Thorfinn đều là người dám đi xa khỏi vùng đất quen thuộc, để tìm một cách sống mới."
+      },
+      "image_prompt": "a lone figure standing on the prow of a ship looking toward a distant unknown coastline, back view, wide shot, golden dawn light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Thorfinn thật đi tìm đất mới để buôn bán. Thorfinn trong truyện đi tìm đất mới để không ai phải cầm kiếm nữa. Kaku thích cả hai."
+      },
+      "image_prompt": "two longships sailing side by side toward the same horizon, one loaded with trade goods and one with farming tools, wide shot, golden light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Và câu hỏi của Thors vẫn còn đó cho chúng ta: nếu không ai có kẻ thù, thì ta đang chiến đấu với ai? Viết suy nghĩ của bạn vào bình luận nhé."
+      },
+      "image_prompt": "a quiet fjord at dawn with a single empty boat resting on still water, wide shot, peaceful light",
+      "on_screen_text": "Không ai có kẻ thù?"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Vinland Saga là câu chuyện về một cái tên có thật trong sử thi, được tác giả trao cho một cuộc đời mới, để hỏi một câu hỏi rất cũ: làm sao để sống mà không cần kẻ thù."
+      },
+      "image_prompt": "an old saga manuscript lying open beside a modern manga volume on a wooden table, close-up, warm candlelight",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một hệ thống sức mạnh kỳ lạ: Hell's Paradise, và khái niệm Đạo, cân bằng âm dương, trên một hòn đảo mà ai cũng muốn tìm thuốc trường sinh."
+      },
+      "image_prompt": "a mysterious island covered in strange flowers under a misty sky, a small boat approaching the shore, wide shot, eerie beautiful light",
+      "on_screen_text": "Tiếp theo: Đạo trong Hell's Paradise"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Nếu bạn thích những video đặt anime cạnh lịch sử thật, hãy đăng ký kênh. Kaku sẽ tiếp tục đi tìm những câu chuyện có thật hơn bạn nghĩ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the old map and waving from the bow of a tiny longship",
+      "use_mascot": true
+    }
+  ]
+}
