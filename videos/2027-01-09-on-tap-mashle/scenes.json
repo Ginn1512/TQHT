@@ -1,0 +1,654 @@
+{
+  "title": "Mashle: Ôn tập mọi thứ cần nhớ trước mùa 3",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Mashle tới hết anime mùa hai, arc kỳ thi ứng viên Thần giác giả. Không có nội dung của mùa ba."
+      },
+      "image_prompt": "a grand magic academy castle at dusk with glowing windows, a closed notebook on a stone bench in the foreground, wide establishing shot, warm magical light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Mùa ba của Mashle trở lại trong tháng một, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn."
+      },
+      "image_prompt": "a wall calendar showing January with a small cream puff doodle drawn on a date, close-up, bright morning light",
+      "on_screen_text": "Mùa 3: tháng 1/2027"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Mashle là manga của tác giả Komoto Hajime, đăng trên Shonen Jump từ năm 2020 tới 2023. Anime mùa một ra mắt năm 2023 và nổi tiếng khắp thế giới với bài hát mở đầu mà ai nghe cũng muốn nhún nhảy."
+      },
+      "image_prompt": "a stack of manga volumes next to headphones and a phone playing an upbeat song, close-up, cozy light",
+      "on_screen_text": "Manga 2020–2023 · Anime 2023"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đây là một bộ truyện hài nhại lại các câu chuyện học viện phép thuật nổi tiếng. Nhưng càng về sau, nó càng có những câu hỏi rất nghiêm túc về xã hội."
+      },
+      "image_prompt": "a classic magic school book cover next to a parody version with a muscular silhouette bursting through, side by side, humorous still life"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Kaku sẽ nhắc lại thế giới của Mashle, luật sức mạnh, những người bạn, các phe, và những nút thắt còn mở. Cuối video là ba điều nên để ý ở mùa mới."
+      },
+      "image_prompt": "five small index cards on a desk with icons: a castle, a rulebook, a group of friends, a chessboard and a knot, top-down shot",
+      "on_screen_text": "Ôn tập 5 phần"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Nếu bạn chưa xem Mashle, video này vẫn giúp bạn hiểu đủ để bắt đầu. Nhưng nhớ là có spoiler mùa một và mùa hai."
+      },
+      "image_prompt": "a friendly signpost at a crossroads pointing toward a castle, with a small warning ribbon tied to it, wide shot, soft light"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku phát bài ôn tập kèm một chiếc bánh su kem, vì thiếu bánh su kem thì không thể nói về Mashle."
+      },
+      "image_prompt": "the owl mascot holding a tiny cream puff on a plate beside a stack of study notes, cheerful expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trong thế giới Mashle, phép thuật không chỉ là năng lực. Nó là địa vị, là giai cấp, là giấy thông hành để được sống."
+      },
+      "image_prompt": "a society pyramid diagram on parchment with glowing wand icons at the top and a small crossed-out figure at the bottom, amber ink",
+      "chapter": "Thế giới: phép thuật là địa vị",
+      "on_screen_text": "Phép thuật = địa vị"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Phép thuật dùng cho mọi việc trong đời sống: nấu ăn, dọn nhà, đi lại. Một người không có phép thuật sẽ không làm được những việc tưởng như đơn giản nhất."
+      },
+      "image_prompt": "a bustling magical town where brooms sweep by themselves and pots stir on their own, one person struggling to open a magically locked door, wide shot, bright light",
+      "on_screen_text": "Phép thuật cho mọi việc"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và những gia đình có nhiều người sở hữu phép mạnh thì sống ở những khu cao cấp, học ở những trường danh giá, nắm giữ những vị trí quyền lực."
+      },
+      "image_prompt": "an elegant upper district of a city on a hill with tall spires, a poorer district in the valley below, wide shot, contrasting warm and cool light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Mỗi người có những vạch trên mặt, gọi là dấu ấn phép thuật. Số vạch cho biết người đó dùng được bao nhiêu loại phép. Càng nhiều vạch, càng được kính trọng."
+      },
+      "image_prompt": "three stylized face silhouettes side by side with one, two and three glowing lines on their cheeks, clean diagram style, soft light",
+      "on_screen_text": "Dấu ấn: số vạch"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku thấy đây là một câu chuyện rất quen: một xã hội đánh giá con người bằng một thứ họ không tự chọn được khi sinh ra."
+      },
+      "image_prompt": "a birth certificate style document with a single glowing mark stamp deciding a person's future, close-up, cold light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nếu có một thế giới xếp hạng theo khả năng đọc sách, Kaku chắc chắn lên ngôi. Tiếc là thế giới Mashle xếp theo phép thuật."
+      },
+      "image_prompt": "the owl mascot wearing a paper crown made of book pages, sighing at a wand it cannot use",
+      "use_mascot": true
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Còn người không có phép thuật thì sao? Họ bị coi là khiếm khuyết của xã hội, và có thể bị thanh trừng. Không có phép thuật là một tội."
+      },
+      "image_prompt": "a dark notice board with a sealed decree pinned on it, a small shadowy figure hiding behind a corner, medium shot, cold light",
+      "on_screen_text": "Không có phép = có tội"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và nhân vật chính của chúng ta, Mash Burnedead, không có một chút phép thuật nào."
+      },
+      "image_prompt": "a quiet young man sitting on a tree stump in a forest clearing, holding a cream puff, no marks on his face, medium shot, soft green light",
+      "on_screen_text": "Mash: không có phép thuật"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Mash không oán hận ai. Cậu điềm tĩnh, ít nói, thẳng thắn tới mức ngây ngô, và chỉ muốn được sống yên ổn với ông và những chiếc bánh su kem."
+      },
+      "image_prompt": "a calm young man and an old man sharing cream puffs on a wooden porch at sunset, medium shot, warm homely light",
+      "on_screen_text": "Chỉ muốn sống yên ổn"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Nhưng một ngày, người ta phát hiện ra cậu. Và để bảo vệ ông, Mash quyết định bước vào chính cái thế giới đã muốn loại bỏ mình."
+      },
+      "image_prompt": "a young man walking out of a forest toward a distant city of spires, looking back once at a small cabin, wide shot, dawn light",
+      "on_screen_text": "Bước vào thế giới muốn loại bỏ mình"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Mash được một ông lão tên Regro nhặt về nuôi trong rừng. Để bảo vệ cậu, ông giấu cậu khỏi xã hội. Và Mash thì tập luyện cơ bắp mỗi ngày, tới mức vượt xa giới hạn con người."
+      },
+      "image_prompt": "an old man watching fondly from a small cabin porch as a young man does one-armed handstand push-ups on a boulder, wide shot, warm forest light",
+      "on_screen_text": "Ông Regro và cơ bắp",
+      "video_prompt": "the young man lowers into a slow one-armed push-up on the boulder as leaves drift by",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Để cha nuôi được sống yên ổn, Mash vào học viện phép thuật Easton với một mục tiêu duy nhất: trở thành Thần giác giả, danh hiệu cao quý nhất giới pháp sư. Một Thần giác giả có quyền lực đủ để bảo vệ gia đình mình."
+      },
+      "image_prompt": "a young man standing at the enormous gates of a magic academy, looking up at the towers, back view, wide shot, bright hopeful light",
+      "chapter": "Tình hình hiện tại: từ học viện tới án tử",
+      "on_screen_text": "Mục tiêu: Thần giác giả"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Ngay trong kỳ thi đầu vào, Mash đã gây chấn động. Những bài thi cần phép thuật, cậu giải bằng sức mạnh và sự lì lợm, khiến giám khảo không biết nên cho điểm thế nào."
+      },
+      "image_prompt": "a bewildered examiner holding a clipboard while a young man stands beside a completely shattered magical test apparatus, humorous medium shot",
+      "on_screen_text": "Kỳ thi đầu vào"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Cậu được xếp vào ký túc xá Adler. Và từ ngày đầu, những học sinh quý tộc đã coi cậu là cái gai trong mắt."
+      },
+      "image_prompt": "a group of arrogant students with wands glaring at a calm young man in a dormitory hallway, medium shot, cold light",
+      "on_screen_text": "Ký túc xá Adler"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Cậu vượt qua kỳ thi đầu vào, rồi mọi thử thách trong học viện, bằng cơ bắp nhưng giả vờ như đó là phép thuật. Đập vỡ quả cầu, bay bằng cách nhảy, bẻ cong luật bằng sức mạnh."
+      },
+      "image_prompt": "a young man jumping so high he appears to be flying past astonished students holding wands, humorous wide shot, bright sky",
+      "on_screen_text": "Giả vờ dùng phép",
+      "video_prompt": "the young man leaps upward past astonished students, cloak billowing",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Đồng xu được trao cho những thành tích đặc biệt: đánh bại kẻ thù nguy hiểm, cứu người, hoàn thành nhiệm vụ khó. Với Mash, mỗi đồng xu là thêm một bước gần tới sự an toàn cho gia đình."
+      },
+      "image_prompt": "a gold coin being placed into a young man's large palm by an old teacher's hand, extreme close-up, warm light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Trong học viện, học sinh thu thập những đồng xu vàng. Ai có đủ số đồng xu sẽ trở thành ứng viên Thần giác giả."
+      },
+      "image_prompt": "a small velvet pouch spilling shiny gold coins with a crest onto a wooden desk, close-up, warm light",
+      "on_screen_text": "Đồng xu vàng"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Trong những trận đấu đó, Mash lần đầu gặp những đối thủ thật sự nguy hiểm, những người sẵn sàng làm tổn thương bạn bè cậu chỉ để chứng minh đẳng cấp."
+      },
+      "image_prompt": "a smug noble student holding a wand toward a fallen friend while a calm young man steps between them, medium shot, tense light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Mùa một kết thúc với những trận đấu giữa ký túc xá Adler của Mash và ký túc xá Lang, cùng sự xuất hiện của một tổ chức bí ẩn tên là Innocent Zero."
+      },
+      "image_prompt": "two dormitory banners with different crests hanging opposite each other in a great hall, a dark insignia faintly visible in the shadows above, wide shot",
+      "on_screen_text": "Adler vs Lang · Innocent Zero"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Thầy hiệu trưởng Wahlberg là người đứng ra bảo vệ cậu. Ông đưa ra điều kiện: nếu Mash trở thành ứng viên Thần giác giả, cậu sẽ có đủ vị thế để không ai động tới được."
+      },
+      "image_prompt": "a very old headmaster standing calmly between a young man and a group of stern officials, back view, dramatic hall light",
+      "on_screen_text": "Điều kiện của hiệu trưởng"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kỳ thi ứng viên giống một giải đấu thật sự: những trận đấu một chọi một, những thử thách đồng đội, và những đối thủ đều là thiên tài của thế hệ."
+      },
+      "image_prompt": "a tournament bracket carved on a stone wall with glowing names, a young man studying it with arms crossed, medium shot",
+      "on_screen_text": "Kỳ thi như một giải đấu"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Sang mùa hai, bí mật của Mash bị lộ. Cậu bị kết án, và cách duy nhất để thoát là trở thành ứng viên Thần giác giả trước khi hết năm. Thế là cậu bước vào kỳ thi dành cho những pháp sư ưu tú nhất."
+      },
+      "image_prompt": "a courtroom-like hall with stern mages seated high above a calm young man standing alone, dramatic low-angle shot, cold light",
+      "on_screen_text": "Mùa 2: bị kết án"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Mash cùng các bạn đánh bại nhóm Magia Lupus, giành được đồng xu của ký túc xá Lang, và tiến thêm một bước gần danh hiệu. Đó là nơi mùa ba bắt đầu."
+      },
+      "image_prompt": "a group of students celebrating in a ruined arena, a young man calmly eating a cream puff among them, wide shot, triumphant warm light",
+      "on_screen_text": "Đánh bại Magia Lupus"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Pháp sư dùng đũa để tập trung và giải phóng phép. Họ đọc thần chú, vung đũa, và phép thuật xuất hiện. Mash thì không có đũa nào hoạt động, nên cậu dùng… tay."
+      },
+      "image_prompt": "a row of students raising glowing wands, one young man at the end raising only his bare fist, humorous wide shot, bright light",
+      "chapter": "Luật sức mạnh cần nhớ",
+      "on_screen_text": "Đũa phép vs nắm đấm"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Luật thứ nhất: phép thuật trong Mashle mỗi người thường có một thuộc tính chính. Có người điều khiển trọng lực, có người tạo vụ nổ, có người hoán đổi vị trí các vật."
+      },
+      "image_prompt": "three mages demonstrating different magic: one pressing the air down with gravity, one making a small explosion, one swapping two teacups, triptych composition",
+      "on_screen_text": "Luật 1: mỗi người một thuộc tính"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Có những người mang một dấu ấn đặc biệt, và càng về sau truyện càng cho thấy dấu ấn không chỉ nói lên sức mạnh, mà còn có thể nói lên dòng dõi. Kaku dừng ở đây để không spoiler."
+      },
+      "image_prompt": "a mysterious double mark glowing on an ancient portrait's cheek in a dim gallery, close-up, eerie light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Luật thứ hai: số vạch trên mặt nói lên tiềm năng. Hai vạch là rất giỏi. Ba vạch là cực hiếm, và những Thần giác giả thường ở mức đó."
+      },
+      "image_prompt": "a close-up of a stylized face with three bright magic lines glowing on the cheek, dramatic side light",
+      "on_screen_text": "Luật 2: vạch = tiềm năng"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Có lần Mash chặn một phép tấn công bằng cách xoay tay thật nhanh tới mức tạo ra luồng gió. Có lần cậu bơi trong không khí. Truyện không cần giải thích, chỉ cần bạn cười."
+      },
+      "image_prompt": "a young man spinning his arms so fast they blur into a whirlwind that deflects a glowing spell, humorous dynamic shot, bright light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Luật thứ ba, luật của riêng Mash: cơ bắp thắng phép thuật, nếu đủ mạnh. Cậu chặn phép bằng tay không, phá kết giới bằng cú đấm, và dùng tốc độ để né mọi thứ."
+      },
+      "image_prompt": "a young man punching straight through a glowing magical barrier, shards of light flying, dynamic low-angle shot",
+      "on_screen_text": "Luật 3: cơ bắp thắng phép",
+      "video_prompt": "the fist bursts through the glowing barrier as shards of light scatter outward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Nhưng nhại lại không có nghĩa là không có luật. Mashle giữ một luật rất chặt: Mash không bao giờ tự nhiên có phép thuật. Cậu mạnh lên chỉ bằng tập luyện. Đó là lời hứa của tác giả với người đọc."
+      },
+      "image_prompt": "a training log notebook filled with endless tally marks of push-ups and squats, close-up, warm lamplight",
+      "on_screen_text": "Lời hứa: không bao giờ có phép"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nghe thì vô lý, nhưng Mashle là một bộ truyện nhại lại chính các bộ truyện phép thuật. Luật thứ ba tồn tại để chế giễu một thế giới coi phép thuật là tất cả."
+      },
+      "image_prompt": "a spell book with a big muscular arm bursting through its cover, humorous still life, bright light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Và cậu có một cách giải quyết mâu thuẫn rất riêng: nói thẳng. Nhiều kẻ thù bị bất ngờ không phải vì cú đấm, mà vì Mash nói ra đúng điều họ không muốn nghe."
+      },
+      "image_prompt": "a young man calmly speaking to a startled arrogant noble student, the noble's wand drooping, medium shot, soft light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Luật thứ tư: Mash không bao giờ nói dối vì ác ý. Cậu chỉ giấu chuyện không có phép để được sống. Và cậu sẵn sàng liều mạng vì bạn bè ngay khi họ gặp nguy."
+      },
+      "image_prompt": "a young man standing protectively in front of his friends facing a powerful dark mage, back view, dramatic light",
+      "on_screen_text": "Luật 4: vì bạn bè"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kaku ghi chú: nếu bạn muốn biết một trận đấu trong Mashle sẽ kết thúc thế nào, hãy nhìn xem Mash đã ăn bánh su kem chưa. Ăn rồi thì đối thủ nên chuẩn bị tinh thần."
+      },
+      "image_prompt": "the owl mascot pointing at a small cream puff icon drawn at the top of a battle diagram",
+      "use_mascot": true
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Finn Ames, người bạn cùng phòng nhút nhát, có phép hoán đổi vị trí. Cậu yếu về chiến đấu nhưng thông minh và luôn đi theo Mash."
+      },
+      "image_prompt": "a small nervous student holding a wand with two glowing swap arrows above it, medium shot, soft light",
+      "chapter": "Những người bạn",
+      "on_screen_text": "Finn Ames"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Lúc đầu Lance coi Mash là đối thủ. Nhưng sau khi chứng kiến Mash chiến đấu vì người khác, anh trở thành một trong những đồng minh đáng tin nhất."
+      },
+      "image_prompt": "two young men standing side by side on a bridge at night, one with gravity magic swirling around his hand, back view, soft moonlight"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Lance Crown, thiên tài hai vạch điều khiển trọng lực, lạnh lùng nhưng cực kỳ thương em gái."
+      },
+      "image_prompt": "a cool student with two magic lines on his cheek pressing the air downward with his palm, a small locket in his other hand, medium shot",
+      "on_screen_text": "Lance Crown"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nhưng ở những trận quan trọng, Dot chứng minh mình là người đáng tin cậy nhất: đứng dậy dù đã kiệt sức, chỉ vì không muốn bạn mình phải chiến đấu một mình."
+      },
+      "image_prompt": "a battered student rising from rubble with small sparks flickering in his hand, determined face, dramatic low-angle shot"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Dot Barrett, chuyên phép nổ, ồn ào, nóng tính, và luôn thất bại trong chuyện tình cảm. Kaku không bình luận thêm."
+      },
+      "image_prompt": "a loud student surrounded by small colorful explosions striking a dramatic pose, humorous medium shot, bright light",
+      "on_screen_text": "Dot Barrett"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Lemon Irvine, cô bạn học đã phải lòng Mash và tự xưng là vợ tương lai của cậu. Mash thì không hiểu chuyện gì đang xảy ra."
+      },
+      "image_prompt": "a cheerful girl clasping her hands with heart shapes floating around her, a confused young man eating a cream puff beside her, humorous medium shot",
+      "on_screen_text": "Lemon Irvine"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku để ý: mỗi người bạn của Mash đều từng bị coi thường vì một lý do nào đó. Finn bị coi là yếu, Dot bị coi là ồn ào, Lance bị coi là lạnh lùng. Họ hiểu cảm giác bị đánh giá sai."
+      },
+      "image_prompt": "four small portraits pinned on a corkboard, each with a crossed-out unfair label beneath it, close-up, warm light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Anh trai của Finn là Rayne Ames, một Thần giác giả trẻ tuổi, nổi tiếng lạnh lùng và cực mạnh. Mối quan hệ giữa hai anh em là một trong những mạch truyện cảm động của mùa hai."
+      },
+      "image_prompt": "a tall stern young mage in a long coat standing at the top of a staircase, a smaller student looking up at him from below, low-angle shot",
+      "on_screen_text": "Rayne Ames"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Nhóm bạn này là lý do Mash tiếp tục. Mỗi người có phép thuật, nhưng đều chọn đứng về phía một người không có phép thuật."
+      },
+      "image_prompt": "a group of students standing in a row on a castle bridge at sunset, arms around each other's shoulders, back view, warm light",
+      "on_screen_text": "Đứng về phía Mash"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Phe thứ nhất: học viện Easton và thầy hiệu trưởng Wahlberg, người biết Mash không có phép thuật nhưng vẫn tin vào cậu."
+      },
+      "image_prompt": "a very old kind headmaster with a long beard smiling behind a desk piled with books, medium shot, warm office light",
+      "chapter": "Các phe",
+      "on_screen_text": "Phe 1: Easton"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Và bản thân các Thần giác giả cũng không giống nhau. Có người tin vào luật thanh trừng, có người âm thầm nghi ngờ nó. Kỳ thi cuối sẽ cho ta thấy họ đứng ở đâu."
+      },
+      "image_prompt": "a council of powerful mages seated in a semicircle, some with arms crossed, some glancing at each other uneasily, wide shot, dramatic light",
+      "on_screen_text": "Thần giác giả cũng chia rẽ"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Phe thứ hai: giới cầm quyền pháp sư, những người coi luật thanh trừng là trật tự tự nhiên. Họ là lý do Mash bị kết án."
+      },
+      "image_prompt": "a row of stern officials in dark robes seated at a long elevated bench, looking down, low-angle shot, cold light",
+      "on_screen_text": "Phe 2: giới cầm quyền"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Ở mùa hai, một tay sai của Innocent Zero tên Cell War đã đột nhập học viện. Sau trận đấu đó, tin đồn về việc Mash không có phép thuật bắt đầu lan ra khắp trường."
+      },
+      "image_prompt": "a sinister figure in a long coat walking away from a damaged academy corridor, students whispering in the background, wide shot, cold light",
+      "on_screen_text": "Cell War"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Phe thứ ba: tổ chức Innocent Zero, kẻ thù lớn nhất. Họ cài người vào học viện, và dường như có mục tiêu liên quan tới chính những học sinh có tiềm năng đặc biệt."
+      },
+      "image_prompt": "a shadowy organization emblem glowing on a dark stone wall behind hooded figures, wide shot, ominous violet light",
+      "on_screen_text": "Phe 3: Innocent Zero",
+      "video_prompt": "the dark emblem pulses with violet light as the hooded figures turn",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku mà là Mash thì sẽ lo lắng lắm. Nhưng Mash thì chắc chỉ lo cửa hàng bánh su kem hôm nay có mở không."
+      },
+      "image_prompt": "the owl mascot biting its nails nervously next to a calm silhouette reading a bakery's opening hours sign",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Kaku ghi chú: hãy để ý rằng Innocent Zero có vẻ quan tâm tới Mash nhiều hơn mức bình thường. Kaku không spoiler, chỉ khuyên bạn chú ý."
+      },
+      "image_prompt": "the owl mascot pinning a small question mark on an organization chart next to a cream puff icon",
+      "use_mascot": true
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Những đối thủ trong kỳ thi cuối đều là những người giỏi nhất thế hệ. Mash không chỉ phải thắng họ, mà còn phải thắng định kiến của cả khán đài."
+      },
+      "image_prompt": "a packed arena crowd booing and cheering at the same time, one calm young man standing in the center, wide shot, dramatic light",
+      "chapter": "Nút thắt còn mở"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Nút thắt thứ nhất: kỳ thi cuối cùng để chọn Thần giác giả sẽ diễn ra thế nào, và Mash có thể thắng mà không bị lộ, hoặc không cần giấu nữa?"
+      },
+      "image_prompt": "an enormous arena carved into a mountain with floating platforms, crowds of spectators, wide epic shot, dramatic sky",
+      "on_screen_text": "Kỳ thi cuối"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Có một chi tiết Kaku rất muốn bạn để ý: tổ chức này có vẻ quan tâm tới thể chất và dòng máu hơn là phép thuật. Tại sao? Mùa ba sẽ trả lời."
+      },
+      "image_prompt": "a vial of glowing liquid on a dark laboratory table beside an old family tree scroll, close-up, eerie light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Nút thắt thứ hai: Innocent Zero muốn gì? Tổ chức này đã tấn công học viện, nhưng mục tiêu thật sự vẫn còn trong bóng tối."
+      },
+      "image_prompt": "a chessboard in shadow with most pieces hidden under a dark cloth, one visible piece shaped like a crown, close-up, cold light",
+      "on_screen_text": "Innocent Zero muốn gì?"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nếu Mash thắng, cả hệ thống xã hội dựa trên phép thuật sẽ bị đặt dấu hỏi. Đó là lý do nhiều người quyền lực muốn cậu thua, bất kể cậu tốt hay xấu."
+      },
+      "image_prompt": "a tall pyramid of glowing wand icons with a single crack starting at its base, parchment illustration, dramatic light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Nút thắt thứ ba, và là câu hỏi lớn của cả bộ truyện: nếu một người không có phép thuật trở thành Thần giác giả, thì luật thanh trừng còn ý nghĩa gì?"
+      },
+      "image_prompt": "a decree scroll with the word purge being crossed out by a single muscular hand, close-up, dramatic light",
+      "on_screen_text": "Luật thanh trừng còn ý nghĩa?"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Ông Regro chưa bao giờ kể nhiều về ngày tìm thấy Mash. Và trong một bộ truyện nhại như Mashle, những gì không được nói ra thường là những gì quan trọng nhất."
+      },
+      "image_prompt": "an old man sitting alone by a fireplace looking at a small worn blanket in his hands, medium shot, warm flickering light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Nút thắt nhỏ hơn nhưng quan trọng: Mash đến từ đâu? Vì sao một đứa trẻ bị bỏ rơi trong rừng lại có một thể chất phi thường như vậy?"
+      },
+      "image_prompt": "a small basket left at the edge of a dark forest under a full moon, close-up, mysterious light",
+      "on_screen_text": "Mash đến từ đâu?"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kaku có một trò chơi nhỏ cho bạn: mỗi lần đối thủ tung một phép mới, hãy dừng video và đoán xem Mash sẽ phá nó bằng cách nào. Kaku đoán đúng khoảng một nửa."
+      },
+      "image_prompt": "the owl mascot pausing a video with a remote, scribbling guesses on a sticky note",
+      "chapter": "Ba điều nên để ý ở mùa mới",
+      "use_mascot": true
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Một: để ý cách Mash giải quyết từng phép thuật. Đa số các trận, cậu không thắng bằng sức mạnh thô, mà bằng một ý tưởng vật lý đơn giản tới mức buồn cười."
+      },
+      "image_prompt": "a diagram showing a spinning spell being stopped by a simple lever action, parchment style, amber ink",
+      "on_screen_text": "1. Ý tưởng vật lý"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Đặc biệt là hiệu trưởng Wahlberg và những Thần giác giả. Một cái gật đầu hay một cái nhíu mày của họ đôi khi nói nhiều hơn cả trận đấu."
+      },
+      "image_prompt": "a close-up of an old headmaster's eyes narrowing slightly behind round spectacles, warm dim light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Hai: để ý những người lớn xung quanh Mash. Trong kỳ thi cuối, ai đứng về phía cậu và ai không sẽ cho bạn biết thế giới này sắp thay đổi theo hướng nào."
+      },
+      "image_prompt": "several adult mage silhouettes in the audience of an arena, some leaning forward in support, others with arms crossed, medium shot",
+      "on_screen_text": "2. Người lớn đứng về phía ai"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nếu một nhân vật khác chia bánh su kem với Mash, hãy coi đó là dấu hiệu họ đã trở thành bạn thật sự. Trong Mashle, đó là nghi thức kết nghĩa."
+      },
+      "image_prompt": "two hands sharing a single cream puff split in half over a table, extreme close-up, warm light",
+      "on_screen_text": "Chia bánh = kết bạn"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Ba: để ý bánh su kem. Kaku không đùa đâu. Trong Mashle, bánh su kem xuất hiện ở những khoảnh khắc quan trọng nhất, như một lời nhắc về những niềm vui giản dị mà Mash chiến đấu để giữ."
+      },
+      "image_prompt": "a single cream puff sitting on a stone windowsill overlooking a vast arena, close-up, soft warm light",
+      "on_screen_text": "3. Bánh su kem"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nhìn lại hai mùa, Kaku thấy Mashle làm một việc rất khéo: dùng tiếng cười để đưa người xem tới gần một câu hỏi khó mà không thấy nặng nề."
+      },
+      "image_prompt": "a jester's mask and a judge's gavel lying side by side on a velvet cloth, still life, warm dramatic light",
+      "chapter": "Góc nhìn của Kaku: vì sao Mashle hài mà sâu",
+      "on_screen_text": "Tiếng cười dẫn tới câu hỏi khó"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Mỗi lần Mash đấm vỡ một phép thuật, ta cười. Nhưng đồng thời, ta cũng thấy một hệ thống xã hội bị đấm vỡ theo."
+      },
+      "image_prompt": "a magical barrier shattering into pieces that look like fragments of an official decree, dynamic close-up, amber light"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Và Mash không bao giờ muốn làm cách mạng. Cậu chỉ muốn được sống. Chính sự đơn giản đó khiến cậu trở thành người thách thức lớn nhất của cả hệ thống."
+      },
+      "image_prompt": "a calm young man eating a cream puff on a castle wall while alarms and flying messengers swirl chaotically around him, humorous wide shot"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kaku nghĩ đây là lý do Mashle hợp với thời đại: người xem ngày nay thích những nhân vật chiến thắng bằng sự kiên trì của bản thân, không phải bằng dòng máu hay năng lực trời cho."
+      },
+      "image_prompt": "a young person training alone in an empty gym at dawn, a small poster of a muscular silhouette on the wall, medium shot, soft light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Và câu hỏi Kaku muốn để lại cho bạn: nếu bạn sống trong thế giới Mashle, bạn sẽ có mấy vạch trên mặt? Và bạn có dám kết bạn với một người không có vạch nào không?"
+      },
+      "image_prompt": "a mirror reflecting a face with an empty space where magic marks would be, a question mark drawn in the mist on the glass, close-up",
+      "on_screen_text": "Bạn có mấy vạch?"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Mashle là một câu chuyện nghe rất ngớ ngẩn: một cậu bé dùng cơ bắp giả làm phép thuật. Nhưng bên dưới tiếng cười là một câu hỏi nghiêm túc: xã hội có quyền quyết định ai đáng được sống chỉ vì một năng lực bẩm sinh không?"
+      },
+      "image_prompt": "a young man standing alone on a castle rooftop at sunset looking at the academy below, a cream puff in hand, wide shot, bittersweet warm light",
+      "chapter": "Kết",
+      "video_prompt": "slow crane shot rising from the young man on the rooftop to the academy glowing at sunset",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Và nếu bạn chưa xem hai mùa trước, đây là thời điểm tốt nhất để cày lại. Hai mùa chỉ khoảng hai mươi lăm tập, đủ cho vài buổi tối."
+      },
+      "image_prompt": "a cozy couch with a blanket, a bowl of cream puffs and a remote, evening light through a window, medium shot"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Mùa ba sẽ trả lời câu hỏi đó. Xem xong vài tập, hãy quay lại đây xem ba điều Kaku gợi ý có đúng không nhé."
+      },
+      "image_prompt": "a small note pinned to the notebook reading come back later with a tiny clock drawn beside it, close-up"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku kể chuyện một con slime nhỏ trở thành Ma vương: bậc thang tiến hóa của Rimuru trong Tensura, từng nấc một."
+      },
+      "image_prompt": "a small blue gelatinous blob sitting at the bottom of a tall glowing staircase that leads to a throne, wide shot, magical light",
+      "on_screen_text": "Tiếp theo: Rimuru tiến hóa"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nếu bài ôn tập này hữu ích, hãy đăng ký kênh để Kaku ôn tập thêm cho các bộ sắp trở lại. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot finishing the cream puff and waving goodbye with a tiny crumb on its beak",
+      "use_mascot": true
+    }
+  ]
+}

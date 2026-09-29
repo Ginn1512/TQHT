@@ -62,12 +62,12 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 37 | 2026-12-29 | Hồ sơ 4 loại Kagune | Tokyo Ghoul | E · Hồ sơ bách khoa | 4 | ? | 4 | 4 | 12 | `videos/2026-12-29-ho-so-kagune-tokyo-ghoul/` | Kịch bản xong — chờ kiểm nguồn |
 | 38 | 2026-12-31 | Lịch sử các hệ, từ 15 lên 18 | Pokémon | C · Lịch sử / tiến hóa | 5 | ? | 4 | 4 | 13 | `videos/2026-12-31-lich-su-cac-he-pokemon/` | Kịch bản xong — chờ kiểm nguồn |
 | 39 | 2027-01-02 | Phiên tòa: Eren Yeager | Attack on Titan | U · Phiên tòa nhân vật | 5 | ? | 5 | 4 | 14 | `videos/2027-01-02-phien-toa-eren/` | Kịch bản xong — chờ kiểm nguồn |
-| 40 | 2027-01-05 | Ôn tập trước mùa 2 | Sakamoto Days (mùa 2 tháng 1) | T · Ôn tập trước mùa mới | 4 | ? | 4 | 4 | 12 | `videos/2027-01-05-on-tap-sakamoto-days/` | Chưa viết |
-| 41 | 2027-01-07 | Bảng chỉ số kiểu game | Shangri-La Frontier (mùa 3 tháng 1) | F · Bảng chỉ số kiểu game | 4 | ? | 5 | 5 | 14 | `videos/2027-01-07-bang-chi-so-shangri-la-frontier/` | Chưa viết |
-| 42 | 2027-01-09 | Ôn tập trước mùa 3 | Mashle (mùa 3 tháng 1) | T · Ôn tập trước mùa mới | 4 | ? | 4 | 4 | 12 | `videos/2027-01-09-on-tap-mashle/` | Chưa viết |
-| 43 | 2027-01-12 | Rimuru tiến hóa từ slime đến Ma vương | Tensura | G · Bậc thang tiến hóa | 4 | ? | 4 | 5 | 13 | `videos/2027-01-12-rimuru-tien-hoa-tensura/` | Chưa viết |
-| 44 | 2027-01-14 | Cây phả hệ One For All, 9 người kế thừa | My Hero Academia | D · Cây phả hệ | 4 | ? | 4 | 4 | 12 | `videos/2027-01-14-cay-pha-he-one-for-all/` | Chưa viết |
-| 45 | 2027-01-16 | APTX 4869 và đồ của tiến sĩ Agasa: khoa học thật tới đâu | Thám tử lừng danh Conan | P · Khoa học trong anime | 5 | ? | 5 | 4 | 14 | `videos/2027-01-16-khoa-hoc-conan/` | Chưa viết |
+| 40 | 2027-01-05 | Ôn tập trước mùa 2 | Sakamoto Days (mùa 2 tháng 1) | T · Ôn tập trước mùa mới | 4 | ? | 4 | 4 | 12 | `videos/2027-01-05-on-tap-sakamoto-days/` | Kịch bản xong — chờ kiểm nguồn |
+| 41 | 2027-01-07 | Bảng chỉ số kiểu game | Shangri-La Frontier (mùa 3 tháng 1) | F · Bảng chỉ số kiểu game | 4 | ? | 5 | 5 | 14 | `videos/2027-01-07-bang-chi-so-shangri-la-frontier/` | Kịch bản xong — chờ kiểm nguồn |
+| 42 | 2027-01-09 | Ôn tập trước mùa 3 | Mashle (mùa 3 tháng 1) | T · Ôn tập trước mùa mới | 4 | ? | 4 | 4 | 12 | `videos/2027-01-09-on-tap-mashle/` | Kịch bản xong — chờ kiểm nguồn |
+| 43 | 2027-01-12 | Rimuru tiến hóa từ slime đến Ma vương | Tensura | G · Bậc thang tiến hóa | 4 | ? | 4 | 5 | 13 | `videos/2027-01-12-rimuru-tien-hoa-tensura/` | Kịch bản xong — chờ kiểm nguồn |
+| 44 | 2027-01-14 | Cây phả hệ One For All, 9 người kế thừa | My Hero Academia | D · Cây phả hệ | 4 | ? | 4 | 4 | 12 | `videos/2027-01-14-cay-pha-he-one-for-all/` | Kịch bản xong — chờ kiểm nguồn |
+| 45 | 2027-01-16 | APTX 4869 và đồ của tiến sĩ Agasa: khoa học thật tới đâu | Thám tử lừng danh Conan | P · Khoa học trong anime | 5 | ? | 5 | 4 | 14 | `videos/2027-01-16-khoa-hoc-conan/` | Kịch bản xong — chờ kiểm nguồn |
 | 46 | 2027-01-19 | Luật chơi Tử Diệt Hồi Du và cách phá | Jujutsu Kaisen | B · Luật chơi và cách phá | 5 | ? | 4 | 4 | 13 | `videos/2027-01-19-luat-tu-diet-hoi-du/` | Chưa viết |
 | 47 | 2027-01-21 | Nếu bạn dự kỳ thi sát thủ JCC | Sakamoto Days (mùa 2 đang phát) | L · Thử nghiệm "nếu… thì" | 4 | ? | 5 | 4 | 13 | `videos/2027-01-21-neu-ban-thi-jcc-sakamoto-days/` | Chưa viết |
 | 48 | 2027-01-23 | Nhập môn Jinki (bảo khí) | Gachiakuta | Q · Nhập môn | 4 | ? | 4 | 5 | 13 | `videos/2027-01-23-nhap-mon-gachiakuta/` | Chưa viết |

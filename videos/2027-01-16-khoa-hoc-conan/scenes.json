@@ -1,0 +1,649 @@
+{
+  "title": "Thám tử lừng danh Conan: APTX 4869 và đồ của tiến sĩ Agasa — khoa học thật tới đâu?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Video này có spoiler nhẹ về bí mật của Conan và Haibara, những điều ai xem vài tập đầu cũng biết. Và một lưu ý quan trọng: đây là nội dung giải trí, không phải hướng dẫn hay lời khuyên y tế."
+      },
+      "image_prompt": "a cozy detective's study with a magnifying glass and a closed notebook on a wooden desk, wide establishing shot, warm lamplight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Không phải hướng dẫn"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Trong đời thật, liệu một viên thuốc có thể làm một chàng trai mười bảy tuổi teo nhỏ thành một cậu bé bảy tuổi không?"
+      },
+      "image_prompt": "a small unmarked capsule resting on a velvet cloth under a single spotlight, extreme close-up, dramatic light",
+      "on_screen_text": "Viên thuốc teo nhỏ?",
+      "video_prompt": "slow push-in on the capsule as the spotlight flickers slightly",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Liệu một chiếc nơ có thể giả giọng bất kỳ ai? Một chiếc đồng hồ có thể bắn kim làm người ta ngủ ngay lập tức? Một đôi giày có thể giúp trẻ con đá bay cả xe máy?"
+      },
+      "image_prompt": "a tiny collar-mounted voice gadget, a wristwatch and a pair of sneakers displayed on a workbench like museum pieces, still life, warm light",
+      "on_screen_text": "Nơ · đồng hồ · giày"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Hơn ba mươi năm qua, Thám tử lừng danh Conan đã là một phần tuổi thơ của rất nhiều người Việt. Và câu hỏi khoa học thật tới đâu thì ai cũng từng tự hỏi."
+      },
+      "image_prompt": "a stack of well-worn manga volumes on a bedroom shelf beside a childhood photo, close-up, nostalgic warm light",
+      "on_screen_text": "30 năm tuổi thơ"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Manga Conan của tác giả Aoyama Gosho bắt đầu từ năm 1994, anime từ năm 1996, và tới nay đã có hơn một nghìn tập phim cùng một bộ phim điện ảnh mỗi năm."
+      },
+      "image_prompt": "a very long bookshelf filled with numbered manga volumes stretching into the distance, wide shot, warm library light",
+      "on_screen_text": "Từ 1994 tới nay"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Ở Việt Nam, truyện được xuất bản từ những năm chín mươi, và nhiều thế hệ đã lớn lên cùng những chuyến đi thuê truyện, đợi tập mới ra."
+      },
+      "image_prompt": "a small neighborhood book rental shop with stacks of comics and a child browsing, medium shot, nostalgic warm light"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở phòng thí nghiệm của Conan: mỗi món đồ, Kaku xem truyện nói gì, khoa học thật nói gì, và truyện phóng tay ở đâu. Cuối mỗi món là điểm độ thật từ một tới mười."
+      },
+      "image_prompt": "the owl mascot wearing tiny safety goggles in a home laboratory, holding a clipboard with a score column",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Kudo Shinichi là một thám tử học sinh cấp ba thiên tài. Một buổi tối ở công viên giải trí, anh bí mật theo dõi hai gã đàn ông mặc đồ đen."
+      },
+      "image_prompt": "a teenage detective silhouette hiding behind a roller coaster pillar at night, watching two tall figures in dark coats, wide shot, neon amusement park light",
+      "chapter": "Bối cảnh trong một phút",
+      "on_screen_text": "Kudo Shinichi"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Hai gã mặc đồ đen thuộc về một tổ chức tội phạm bí ẩn mà fan gọi là Tổ chức Áo đen. Họ tin Shinichi đã chết, và Conan phải giấu thân phận để không ai quanh mình gặp nguy hiểm."
+      },
+      "image_prompt": "two tall silhouettes in long dark coats and hats walking away down a rainy street at night, wide shot, cold light",
+      "on_screen_text": "Tổ chức Áo đen"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Anh bị đánh từ phía sau và bị ép uống một viên thuốc độc thử nghiệm. Nhưng thay vì chết, cơ thể anh teo nhỏ lại thành một cậu bé."
+      },
+      "image_prompt": "a small child figure waking up inside an oversized school uniform on the ground of an empty park at night, wide shot, eerie light",
+      "on_screen_text": "Teo nhỏ thành cậu bé"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Tên Edogawa lấy từ nhà văn trinh thám Nhật Edogawa Ranpo, còn Conan lấy từ Arthur Conan Doyle, cha đẻ của Sherlock Holmes. Chỉ một cái tên đã là một lời tri ân dòng truyện trinh thám."
+      },
+      "image_prompt": "two classic detective novels with worn covers placed side by side on a shelf, close-up, warm lamplight",
+      "on_screen_text": "Edogawa + Conan"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Anh lấy tên Edogawa Conan, sống nhờ nhà cô bạn thân Ran, và bí mật phá án bằng những món đồ do nhà phát minh hàng xóm, tiến sĩ Agasa, chế tạo."
+      },
+      "image_prompt": "a kindly round elderly inventor with a white lab coat handing a small gadget to a young boy in a cluttered garage lab, medium shot, warm light",
+      "on_screen_text": "Tiến sĩ Agasa"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Haibara bỏ trốn khỏi tổ chức, và từ đó trở thành người đồng hành của Conan, vừa là nhà khoa học duy nhất có thể chế ra thuốc giải, vừa là người hiểu rõ nhất sự nguy hiểm của chính phát minh ấy."
+      },
+      "image_prompt": "a young girl silhouette running through a rainy alley at night clutching a small case, wide shot, dramatic cold light",
+      "on_screen_text": "Người duy nhất có thể chế thuốc giải"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Về sau, người tạo ra viên thuốc, nhà khoa học Miyano Shiho, cũng uống chính loại thuốc đó, teo nhỏ, và trở thành cô bé Haibara Ai."
+      },
+      "image_prompt": "a young girl with a cool expression sitting at a laboratory desk with test tubes, looking out a window, medium shot, soft cool light",
+      "on_screen_text": "Haibara Ai"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Trong truyện, tên thuốc APTX là viết tắt của Apoptoxin, một chất độc gây ra quá trình tự chết của tế bào, rồi không để lại dấu vết."
+      },
+      "image_prompt": "a stylized textbook diagram of a cell gently dissolving into small fragments, clean scientific illustration, soft light",
+      "chapter": "Món 1: viên thuốc APTX 4869",
+      "on_screen_text": "APTX = Apoptoxin"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Phần này có một nửa là khoa học thật. Apoptosis, hay chết tế bào theo chương trình, là một quá trình có thật và rất bình thường trong cơ thể người."
+      },
+      "image_prompt": "a microscope on a lab bench beside an open biology textbook, close-up, clean white light",
+      "on_screen_text": "Apoptosis: có thật"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Mỗi ngày, cơ thể bạn loại bỏ hàng tỉ tế bào cũ hoặc hỏng theo cách này, như một đội dọn dẹp tự động. Ngón tay của thai nhi tách ra được cũng là nhờ các tế bào giữa các ngón tự chết đi."
+      },
+      "image_prompt": "a gentle diagram of a developing hand shape with the webbing between fingers fading away, scientific illustration style, soft light",
+      "on_screen_text": "Cơ thể dọn dẹp mỗi ngày",
+      "video_prompt": "the webbing between the fingers of the diagram fades away gently",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Truyện còn nói chất độc không để lại dấu vết. Ngoài đời, khoa học pháp y ngày nay phát hiện được rất nhiều loại chất lạ trong cơ thể. Chất độc hoàn hảo không dấu vết gần như chỉ có trong tiểu thuyết."
+      },
+      "image_prompt": "a forensic laboratory with sample vials and a mass spectrometer machine, a scientist silhouette analyzing results, medium shot, clean white light",
+      "on_screen_text": "Không dấu vết? Pháp y ngày nay"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Truyện còn nói thuốc có thành phần liên quan tới telomerase, một loại enzyme giúp kéo dài phần đầu mút của nhiễm sắc thể. Telomerase cũng là thứ có thật, và các nhà khoa học vẫn nghiên cứu nó trong chuyện lão hóa."
+      },
+      "image_prompt": "a stylized chromosome with glowing caps at its ends, clean scientific illustration, cool blue light",
+      "on_screen_text": "Telomerase: có thật"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Trong truyện, Haibara từng chế được những viên thuốc giải tạm thời, giúp Conan trở lại dạng Shinichi trong một thời gian ngắn. Nhưng mỗi lần như vậy đều kèm những cơn đau dữ dội."
+      },
+      "image_prompt": "a young man gripping his chest in pain on the floor of a dim room as a faint glow fades from his body, medium shot, dramatic light",
+      "on_screen_text": "Thuốc giải tạm thời"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Nhưng tới phần teo nhỏ thì truyện phóng tay rất xa. Cơ thể một người mười bảy tuổi không thể thu lại thành cơ thể bảy tuổi. Xương đã dài ra thì không co lại, và khối lượng cơ thể không thể tự nhiên biến mất."
+      },
+      "image_prompt": "a skeleton diagram of a teenager next to a much smaller child skeleton, with a large crossed-out arrow between them, parchment diagram, crimson ink",
+      "on_screen_text": "Teo nhỏ: không thể"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và quan trọng nhất: đây là một chất độc trong truyện. Ngoài đời, không có loại thuốc nào biến người lớn thành trẻ con, và mọi thứ gọi là thuốc trẻ hóa thần kỳ đều đáng nghi ngờ."
+      },
+      "image_prompt": "a suspicious bottle with a flashy miracle label and a big warning stamp across it, close-up, harsh light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Manga của Aoyama Gosho từ 1994, anime từ 1996, hơn 1.000 tập, phim điện ảnh hằng năm; tên Edogawa (Ranpo) + Conan (Doyle); Tổ chức Áo đen; Haibara chế thuốc giải tạm thời; Shinichi từng chơi bóng đá; huy hiệu Đội thám tử nhí có bộ đàm và định vị"
+      },
+      "image_prompt": "cần kiểm lại"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Điểm độ thật của viên thuốc: ba trên mười. Có khái niệm khoa học thật làm nền, nhưng hiệu ứng chính là hư cấu hoàn toàn."
+      },
+      "image_prompt": "a scorecard showing 3 out of 10 next to a capsule icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 3/10"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhưng giả giọng chỉ là một nửa. Conan còn phải giả cả cách nói chuyện của ông Mori: từ ngữ, nhịp điệu, cả những câu cửa miệng. Đó là kỹ năng diễn xuất, không phải của máy."
+      },
+      "image_prompt": "a young boy hiding behind a sofa whispering into a small device while a sleeping man sits in the armchair in front, humorous medium shot, warm light",
+      "chapter": "Món 2: nơ đổi giọng"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku thử giả giọng của một giáo sư đọc sách rất chán. Kết quả là Kaku tự ngủ trước."
+      },
+      "image_prompt": "the owl mascot asleep on top of an open book, a tiny microphone slipping from its wing",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Chiếc nơ đổi giọng là món đồ nổi tiếng nhất của Conan. Cậu vặn núm, nói vào nơ, và giọng phát ra giống hệt giọng người khác, thường là ông Mori, để suy luận thay ông."
+      },
+      "image_prompt": "a tiny collar-mounted voice gadget with small dials on its side resting on a desk beside a microphone, extreme close-up, warm light",
+      "on_screen_text": "Nơ đổi giọng"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Khoa học thật: thiết bị đổi giọng đã có từ lâu. Chúng thay đổi cao độ và âm sắc, biến giọng trầm thành bổng hoặc ngược lại."
+      },
+      "image_prompt": "a vintage voice-changer device next to a modern audio waveform on a laptop screen, close-up, cool light",
+      "on_screen_text": "Thiết bị đổi giọng: có thật"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Và ngày nay, trí tuệ nhân tạo đã có thể bắt chước giọng của một người cụ thể chỉ từ vài đoạn ghi âm. Nghĩa là về mặt kỹ thuật, chiếc nơ của Conan gần với hiện thực hơn bao giờ hết."
+      },
+      "image_prompt": "a sound waveform on a screen transforming into another person's silhouette icon, clean digital illustration, cyan light",
+      "on_screen_text": "Giả giọng bằng AI: có thật",
+      "video_prompt": "the waveform morphs smoothly into a silhouette icon",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nhưng điều này cũng có mặt tối: kẻ gian dùng giọng giả để lừa đảo qua điện thoại. Kaku nhắc bạn: nếu người thân gọi tới xin tiền gấp, hãy gọi lại bằng số quen để kiểm tra."
+      },
+      "image_prompt": "a phone showing an incoming call next to a small shield icon and a checklist, close-up, cautionary light",
+      "on_screen_text": "Cẩn thận lừa đảo giọng giả"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Chỗ truyện phóng tay: một chiếc nơ nhỏ như vậy mà giả được mọi giọng tức thì, không cần mẫu ghi âm, là chưa có thật. Nhưng khoảng cách đang hẹp dần."
+      },
+      "image_prompt": "a tiny collar-mounted voice gadget next to a large computer server rack, humorous size comparison, parchment illustration"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Điểm độ thật của chiếc nơ: bảy trên mười. Món đồ gần hiện thực nhất trong phòng thí nghiệm."
+      },
+      "image_prompt": "a scorecard showing 7 out of 10 next to a small microphone icon, close-up",
+      "on_screen_text": "Độ thật: 7/10"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Chiếc đồng hồ đeo tay có nắp bật lên, ngắm qua một ô kính nhỏ, và bắn ra một cây kim tẩm thuốc mê. Người trúng kim ngủ ngay lập tức, thường là ông Mori tội nghiệp."
+      },
+      "image_prompt": "a sleek wristwatch with its cover flipped open revealing a tiny aiming lens, extreme close-up, dramatic side light",
+      "chapter": "Món 3: đồng hồ bắn kim gây mê",
+      "on_screen_text": "Đồng hồ bắn kim"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Thời gian thuốc tác dụng phụ thuộc vào vị trí trúng kim, cân nặng, và loại thuốc. Không có công thức nào vừa nhanh tức thì vừa an toàn cho mọi người."
+      },
+      "image_prompt": "a veterinarian's clipboard with a weight chart and a clock sketched on it, close-up, clean light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Khoa học thật: súng bắn phi tiêu gây mê có thật, dùng để bắt động vật hoang dã. Nhưng thuốc mê không bao giờ tác dụng ngay. Con vật thường mất vài phút mới ngủ, và liều phải tính theo cân nặng."
+      },
+      "image_prompt": "a wildlife veterinarian silhouette kneeling beside a sleeping large animal in tall grass, wide shot, golden afternoon light",
+      "on_screen_text": "Thuốc mê cần vài phút"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Và gây mê là việc cực kỳ nguy hiểm. Sai liều có thể làm người ta ngừng thở. Trong bệnh viện, luôn có bác sĩ gây mê theo dõi từng chỉ số."
+      },
+      "image_prompt": "a hospital monitor showing heart and breathing lines beside an anesthesia machine, close-up, clean clinical light",
+      "on_screen_text": "Gây mê rất nguy hiểm"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Chiếc đồng hồ còn có đèn pin và chỉ mang theo một cây kim mỗi lần. Giới hạn một cây kim là chi tiết khéo của tác giả: Conan phải chọn đúng thời điểm, không thể bắn bừa."
+      },
+      "image_prompt": "a wristwatch with a small beam of flashlight in a dark room, a single tiny needle visible in its chamber, extreme close-up, dramatic light",
+      "on_screen_text": "Chỉ một cây kim"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Chỗ truyện phóng tay: ngủ ngay lập tức, rồi tỉnh dậy khỏe mạnh vài chục phút sau, lần nào cũng như vậy. Nếu ngoài đời, ông Mori chắc đã phải vào viện rất nhiều lần."
+      },
+      "image_prompt": "a man slumped comically on a chair with a tiny needle in his neck, a question mark above him, humorous illustration, parchment style"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kaku nhắc lại: đây không phải hướng dẫn. Đừng bao giờ thử dùng thuốc gây mê với bất kỳ ai."
+      },
+      "image_prompt": "the owl mascot holding up a large stop sign with a serious expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Điểm độ thật của đồng hồ: bốn trên mười. Thiết bị bắn kim có thật, nhưng hiệu ứng tức thì và an toàn là hư cấu."
+      },
+      "image_prompt": "a scorecard showing 4 out of 10 next to a watch icon, close-up",
+      "on_screen_text": "Độ thật: 4/10"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Đôi giày tăng lực có núm vặn bên hông. Khi bật, nó kích thích chân để Conan đá với lực của một vận động viên, thậm chí làm vỡ kính, hạ gục kẻ xấu từ xa."
+      },
+      "image_prompt": "a pair of children's sneakers with a small dial on the side glowing faintly, extreme close-up, dramatic light",
+      "chapter": "Món 4: giày tăng lực",
+      "on_screen_text": "Giày tăng lực"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Trong truyện, giày hoạt động bằng cách kích thích huyệt đạo và dùng điện, từ trường. Khoa học thật có một thứ gần giống: kích thích cơ bằng xung điện, dùng trong vật lý trị liệu và tập luyện."
+      },
+      "image_prompt": "a physical therapy session with small electrode pads on a leg connected to a device, medium shot, soft clinic light",
+      "on_screen_text": "Kích thích cơ bằng điện: có thật"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nhưng xung điện chỉ làm cơ co lại, không biến cơ của một cậu bé bảy tuổi thành cơ của vận động viên. Và cú đá quá mạnh sẽ làm chính chân người đá bị thương trước."
+      },
+      "image_prompt": "a diagram comparing a small child's leg bone and a strong adult's leg bone with force arrows, parchment style, amber ink"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Shinichi vốn là cầu thủ bóng đá giỏi hồi cấp hai, nên đá bóng là kỹ năng sẵn có. Tiến sĩ Agasa chỉ chế thiết bị để phóng đại kỹ năng ấy."
+      },
+      "image_prompt": "a teenage boy practicing soccer kicks alone on a school field at sunset, the ball curving into the goal, wide shot, warm light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kết hợp với thắt lưng bắn bóng, Conan có cả một hệ thống vũ khí dựa trên bóng đá. Kaku nghĩ tác giả chắc là người rất mê bóng đá."
+      },
+      "image_prompt": "a soccer ball inflating from a small belt buckle mid-air, a small figure winding up for a kick, dynamic illustration, bright light",
+      "on_screen_text": "Thắt lưng bắn bóng"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Điểm độ thật của đôi giày: hai trên mười. Có khái niệm thật, nhưng hiệu quả là hư cấu hoàn toàn."
+      },
+      "image_prompt": "a scorecard showing 2 out of 10 next to a sneaker icon, close-up",
+      "on_screen_text": "Độ thật: 2/10"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Kính còn có chức năng phóng to như ống nhòm, và về sau được nâng cấp thêm nhiều thứ. Nó giống một chiếc điện thoại thông minh đeo trên mặt, từ trước khi điện thoại thông minh ra đời."
+      },
+      "image_prompt": "a small boy peering through glasses with a zoom reticle overlay at a distant building, close-up, cool light",
+      "chapter": "Món 5: kính truy tìm"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Cặp kính của Conan có ăng-ten ẩn, màn hình radar hiện ngay trên mắt kính, và có thể dò tìm một thiết bị định vị cách xa hàng chục cây số, kèm chức năng nghe lén."
+      },
+      "image_prompt": "a pair of glasses with a faint green radar grid reflected on one lens, extreme close-up, cool light",
+      "on_screen_text": "Kính truy tìm"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Khoa học thật: thiết bị định vị nhỏ gọn đã rất phổ biến, từ thẻ định vị chìa khóa tới vòng đeo cổ thú cưng. Và kính thông minh có màn hình hiển thị cũng đã được bán ngoài thị trường."
+      },
+      "image_prompt": "a small modern tracking tag beside a pair of sleek smart glasses on a table, still life, soft daylight",
+      "on_screen_text": "Định vị và kính thông minh: có thật"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kaku ghi chú: năm 1994, khi truyện ra đời, những thứ này là khoa học viễn tưởng. Ba mươi năm sau, nhiều thứ đã thành đồ dùng hằng ngày. Truyện trinh thám đôi khi đoán trước tương lai."
+      },
+      "image_prompt": "a split image of a 1990s bulky mobile phone and a modern slim smartphone, symmetrical composition, soft light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Chỗ truyện phóng tay: kính nhỏ vậy mà có ăng-ten mạnh, pin dùng mãi không hết, và bắt sóng qua cả tòa nhà. Nhưng ý tưởng thì rất gần hiện thực."
+      },
+      "image_prompt": "a tiny battery icon next to a big question mark on a parchment note, humorous close-up"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku phải nói thêm: định vị và nghe lén người khác mà không được phép là vi phạm quyền riêng tư. Trong truyện Conan dùng để phá án, ngoài đời thì không nên."
+      },
+      "image_prompt": "a small privacy lock icon glowing over a map with a tracking dot, clean illustration, cool light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Điểm độ thật của cặp kính: tám trên mười. Món đồ gần hiện thực nhất sau chiếc nơ, thậm chí có mặt còn vượt qua."
+      },
+      "image_prompt": "a scorecard showing 8 out of 10 next to a glasses icon, close-up",
+      "on_screen_text": "Độ thật: 8/10"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Ván trượt thường xuất hiện ở những cảnh rượt đuổi hay nhất, khi Conan phải đuổi theo xe hơi của hung thủ. Đó là món đồ cho những pha hành động của một thám tử không biết lái xe."
+      },
+      "image_prompt": "a small boy crouching low on a speeding skateboard chasing a car through city traffic, dynamic wide shot, golden light",
+      "chapter": "Món 6: ván trượt năng lượng mặt trời"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Chiếc ván trượt của Conan chạy bằng năng lượng mặt trời, tăng tốc đuổi kịp cả ô tô trên đường cao tốc."
+      },
+      "image_prompt": "a sleek skateboard with small solar panels on its deck speeding along a highway at sunset, dynamic wide shot, warm light",
+      "on_screen_text": "Ván trượt năng lượng mặt trời",
+      "video_prompt": "the solar skateboard speeds along the highway as the sunset glows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku làm một phép tính nhanh: tấm pin mặt trời bằng cỡ mặt ván chỉ cho công suất nhỏ, đủ sạc chậm cho một chiếc điện thoại, chứ không đủ đẩy một người đi với tốc độ ô tô."
+      },
+      "image_prompt": "a small solar panel connected to a phone charging slowly, a racing car drawn beside it with a crossed-out arrow, parchment diagram, amber ink"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Khoa học thật: ván trượt điện đã có thật và khá phổ biến. Tấm pin mặt trời cũng có thật. Nhưng tấm pin nhỏ trên mặt ván không thể cung cấp đủ năng lượng để chạy nhanh như ô tô."
+      },
+      "image_prompt": "a modern electric skateboard parked beside a small solar panel, still life, bright daylight",
+      "on_screen_text": "Ván điện: có thật"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Chạy nhanh như vậy mà không có mũ bảo hiểm thì cực kỳ nguy hiểm. Kaku nhắc: đi ván điện ngoài đời phải có đồ bảo hộ và đúng nơi cho phép."
+      },
+      "image_prompt": "a helmet, knee pads and elbow pads neatly arranged next to a skateboard, close-up, clean light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Điểm độ thật của ván trượt: năm trên mười."
+      },
+      "image_prompt": "a scorecard showing 5 out of 10 next to a skateboard icon, close-up",
+      "on_screen_text": "Độ thật: 5/10"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Đội thám tử nhí, những người bạn cùng lớp của Conan, mỗi người có một chiếc huy hiệu. Nó vừa là bộ đàm để nói chuyện, vừa có thiết bị định vị để tìm nhau."
+      },
+      "image_prompt": "three small children proudly showing their shiny detective badges in a schoolyard, medium shot, bright cheerful light",
+      "chapter": "Món 7: huy hiệu thám tử",
+      "on_screen_text": "Huy hiệu = bộ đàm + định vị"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Khoa học thật: bộ đàm và thiết bị định vị cho trẻ em đã có thật, như đồng hồ định vị mà nhiều phụ huynh mua cho con."
+      },
+      "image_prompt": "a child's smartwatch with a small map on its screen beside a pair of walkie-talkies on a table, still life, soft daylight",
+      "on_screen_text": "Có thật"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Chỗ truyện phóng tay rất ít: chủ yếu là kích thước nhỏ gọn và pin lâu. Nhiều vụ án được cứu chỉ nhờ một đứa trẻ bấm nút huy hiệu đúng lúc."
+      },
+      "image_prompt": "a small hand pressing a badge button in a dark storage room, a faint signal wave emanating from it, close-up, dramatic light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Điểm độ thật của huy hiệu: chín trên mười. Món đồ thật nhất trong cả video."
+      },
+      "image_prompt": "a scorecard showing 9 out of 10 next to a badge icon, close-up, amber ink",
+      "on_screen_text": "Độ thật: 9/10"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Nhưng đừng quên còn một món nữa, không nằm trong phòng thí nghiệm: những chiếc huy hiệu của Đội thám tử nhí."
+      },
+      "image_prompt": "a small shiny detective badge resting on a child's palm, extreme close-up, warm light",
+      "chapter": "Bảng điểm độ thật"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kaku gom lại bảng điểm. Cao nhất là huy hiệu thám tử, chín điểm, rồi cặp kính truy tìm, tám điểm, và chiếc nơ đổi giọng, bảy điểm. Ba món này ngày nay gần như đã có thật."
+      },
+      "image_prompt": "a ranked chart on parchment with glasses and microphone icons at the top, amber ink, close-up",
+      "on_screen_text": "Huy hiệu 9 · Kính 8 · Nơ 7"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Ở giữa là ván trượt, năm điểm, và đồng hồ gây mê, bốn điểm. Cuối bảng là viên thuốc, ba điểm, và đôi giày tăng lực, hai điểm."
+      },
+      "image_prompt": "the lower part of the ranked chart with skateboard, watch, capsule and sneaker icons, parchment close-up",
+      "on_screen_text": "Ván 5 · Đồng hồ 4 · Thuốc 3 · Giày 2"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku để ý thêm: những món đồ gần hiện thực nhất đều là thứ giúp giao tiếp và tìm kiếm. Conan thật ra là một bộ truyện về thông tin, và ai có thông tin đúng lúc thì thắng."
+      },
+      "image_prompt": "a web of communication lines connecting small icons of people, a magnifying glass at the center, parchment illustration, amber ink"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Có một quy luật thú vị: những món đồ về thông tin, như giọng nói và định vị, thì gần hiện thực nhất. Những món đồ thay đổi cơ thể người thì xa hiện thực nhất."
+      },
+      "image_prompt": "a two-column diagram: information gadgets on a bright side, body-changing gadgets on a dim side, parchment illustration",
+      "on_screen_text": "Thông tin: gần thật · Cơ thể: xa thật"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku nghĩ điều này phản ánh đúng khoa học ngoài đời: máy móc và điện tử tiến rất nhanh, còn cơ thể người thì phức tạp hơn nhiều so với những gì truyện tranh muốn."
+      },
+      "image_prompt": "the owl mascot holding a tiny circuit board in one wing and a biology textbook in the other, weighing them thoughtfully",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nhưng Kaku muốn nói thêm một điều. Trong Conan, tất cả những món đồ này không bao giờ là thứ giải quyết vụ án. Chúng chỉ giúp Conan nói ra được suy luận của mình."
+      },
+      "image_prompt": "a boy detective pointing confidently at a pinned evidence board full of clues and red strings, medium shot, warm dramatic light",
+      "chapter": "Góc nhìn của Kaku: khoa học phục vụ suy luận",
+      "on_screen_text": "Đồ vật chỉ là công cụ"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Rất nhiều vụ án trong Conan xoay quanh những kiến thức có thật: tính chất hóa học, thời gian đông cứng của vật liệu, đặc điểm của ánh sáng, thậm chí thói quen tâm lý của con người."
+      },
+      "image_prompt": "a notebook page with small sketches of a chemistry flask, an ice cube melting, a beam of light and a thinking face, parchment style, amber ink"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Kaku có một bài tập nhỏ: hôm nay, hãy thử quan sát một người quen thật kỹ, rồi đoán xem họ vừa làm gì trước khi gặp bạn. Không cần đồ nghề, chỉ cần để ý."
+      },
+      "image_prompt": "a person at a café table observing a friend's muddy shoes and a train ticket sticking out of a pocket, medium shot, warm light",
+      "on_screen_text": "Bài tập quan sát"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Thứ phá án luôn là quan sát, logic, và kiến thức. Và kiến thức trong Conan, từ hóa học, vật lý tới tâm lý, phần lớn là có thật."
+      },
+      "image_prompt": "a desk covered with a chemistry book, a physics diagram and a psychology notebook, a magnifying glass on top, close-up, warm light",
+      "on_screen_text": "Phá án bằng kiến thức thật"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku rất muốn biết: vụ án nào trong Conan khiến bạn nhớ nhất vì một chi tiết khoa học bất ngờ? Kể cho Kaku nghe trong phần bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding a tiny magnifying glass over a comment box drawn on parchment",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kaku nghĩ đó là lý do Conan sống được hơn ba mươi năm và vẫn được yêu thích: truyện dạy người xem cách quan sát và suy luận, những thứ không cần phát minh nào cả."
+      },
+      "image_prompt": "a child looking carefully through a magnifying glass at a small leaf in a garden, close-up, bright natural light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu được chọn một món đồ của tiến sĩ Agasa để mang về nhà, bạn chọn món nào, và để làm gì? Kaku đoán nhiều bạn sẽ chọn chiếc nơ để… giả giọng xin nghỉ học. Đừng nhé."
+      },
+      "image_prompt": "a small wish list on a notepad with gadget icons and checkboxes, a pencil beside it, top-down shot",
+      "on_screen_text": "Bạn chọn món nào?"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và nếu một ngày ai đó nói với bạn họ đã chế ra thuốc trẻ hóa, hãy nhớ bảng điểm của Kaku: những gì thay đổi cơ thể người luôn là thứ khó tin nhất."
+      },
+      "image_prompt": "a skeptical eyebrow raised in front of a flashy advertisement for a miracle youth pill, close-up, humorous light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Thuốc teo nhỏ thì còn là giấc mơ của tiểu thuyết. Nhưng nơ đổi giọng và kính định vị thì đã ở trong túi chúng ta. Có lẽ tiến sĩ Agasa đi trước thời đại chỉ vài chục năm."
+      },
+      "image_prompt": "a kindly elderly inventor silhouette looking at a modern smartphone with delighted surprise, medium shot, warm light",
+      "video_prompt": "the inventor turns the smartphone over in his hands with growing delight",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku quay lại Jujutsu Kaisen với một trò chơi sinh tử: Tử Diệt Hồi Du. Luật chơi là gì, và làm sao để phá nó?"
+      },
+      "image_prompt": "a game board drawn over a city map with glowing point markers and barrier lines, top-down shot, eerie violet light",
+      "on_screen_text": "Tiếp theo: luật Tử Diệt Hồi Du"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn thích kiểu video tách bạch thật và hư cấu, hãy đăng ký kênh để Kaku mở thêm nhiều phòng thí nghiệm nữa. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot taking off its safety goggles and waving goodbye from the laboratory doorway",
+      "use_mascot": true
+    }
+  ]
+}

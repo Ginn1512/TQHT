@@ -1,0 +1,669 @@
+{
+  "title": "My Hero Academia: Cây phả hệ One For All — 9 người kế thừa và một nhánh bị mất",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler toàn bộ My Hero Academia, bao gồm cả cái kết của manga và mùa anime cuối cùng. Nếu bạn chưa xem hết, hãy lưu video lại."
+      },
+      "image_prompt": "a quiet hero academy rooftop at sunset with a closed notebook resting on the railing, wide establishing shot, warm golden light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler toàn bộ"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Có một sức mạnh không sinh ra cùng ai cả. Nó được trao tay, từ người này sang người khác, qua chín thế hệ. Mỗi người nhận nó đều để lại một phần của mình bên trong."
+      },
+      "image_prompt": "a single glowing flame being passed from hand to hand across a long line of silhouettes stretching into the past, wide shot, warm golden light",
+      "on_screen_text": "Một sức mạnh trao tay 9 đời",
+      "video_prompt": "the small flame travels from hand to hand down the long line of silhouettes",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Sức mạnh đó tên là One For All. Và cây phả hệ của nó không phải cây phả hệ theo huyết thống, mà là cây phả hệ của những người được chọn."
+      },
+      "image_prompt": "a glowing tree whose branches are made of light and whose leaves are small human silhouettes, wide shot, magical warm light",
+      "on_screen_text": "Cây phả hệ của những người được chọn"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Nhưng cây nào cũng có rễ, và rễ của One For All mọc lên từ một cuộc chiến giữa hai anh em ruột."
+      },
+      "image_prompt": "the roots of a glowing tree splitting into two twisted directions deep underground, one bright and one dark, cross-section illustration",
+      "on_screen_text": "Rễ cây: hai anh em"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "My Hero Academia là manga của tác giả Horikoshi Kohei, đăng trên Shonen Jump từ năm 2014 tới 2024. Anime chạy suốt gần mười năm, và mùa cuối cùng khép lại vào năm 2025."
+      },
+      "image_prompt": "a long row of manga volumes on a shelf ending with a final volume, a small hero figurine beside it, close-up, warm light",
+      "on_screen_text": "Manga 2014–2024"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku vẽ cây phả hệ One For All: từ gốc, qua chín nhánh, tới những nhánh bị mất và những nhánh tối. Cuối video là cả cây trong một hình."
+      },
+      "image_prompt": "the owl mascot unrolling a large blank parchment and dipping a quill into ink, ready to draw a tree",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Và Kaku sẽ chỉ ra một điều mà nhiều người không để ý: cây phả hệ này giao nhau với một cây phả hệ khác theo cách rất bi kịch."
+      },
+      "image_prompt": "two tree diagrams on parchment with one branch from each crossing over the other, a small red mark at the intersection, close-up, amber ink",
+      "on_screen_text": "Hai cây giao nhau"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Ngày xưa, khi siêu năng lực, hay còn gọi là quirk, bắt đầu xuất hiện ở loài người, xã hội rơi vào hỗn loạn. Trong thời loạn đó có một người đàn ông có năng lực cướp và trao năng lực của người khác."
+      },
+      "image_prompt": "a chaotic city in an early era of superpowers, fires and strange lights in the streets, a calm dark figure watching from a rooftop, wide shot, ominous light",
+      "chapter": "Gốc cây: hai anh em",
+      "on_screen_text": "Thời kỳ đầu của quirk"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Hắn không chỉ mạnh. Hắn có sức hút, biết thao túng, và thu phục những người bị xã hội bỏ rơi. Trong thời loạn, hắn giống một vị vua bóng tối."
+      },
+      "image_prompt": "a charismatic dark figure standing on a stage in a shadowy hall, many lost people gathered at his feet looking up, wide shot, ominous light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Hắn được gọi là All For One, và hắn trở thành kẻ thống trị thế giới ngầm. Hắn có một người em trai, Yoichi, một người nhỏ bé, yếu ớt, và bị coi là không có năng lực."
+      },
+      "image_prompt": "two brothers silhouettes, one tall and imposing in a dark suit, one small and frail beside him, back view, dim cold light",
+      "on_screen_text": "All For One và Yoichi"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "All For One ép em trai nhận một năng lực đặc biệt: năng lực tích trữ sức mạnh. Hắn nghĩ mình đang cho em một món quà, hoặc đang kiểm soát em."
+      },
+      "image_prompt": "a large hand pressing a small glowing orb into a frail young man's chest, dramatic close-up, cold and gold light",
+      "on_screen_text": "Ép nhận năng lực tích trữ"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Năng lực truyền đi của Yoichi nhỏ tới mức không ai, kể cả chính ông, biết tới nó. Nó chỉ lộ ra khi được trộn với năng lực tích trữ. Một năng lực vô dụng hóa ra lại là chìa khóa."
+      },
+      "image_prompt": "a tiny, almost invisible spark hidden inside a frail palm, only glowing when a second light approaches, extreme close-up, soft light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhưng thật ra Yoichi có một năng lực ẩn: năng lực truyền đi. Hai năng lực hòa vào nhau, tạo thành một thứ hoàn toàn mới: một sức mạnh có thể tích trữ và truyền từ người này sang người khác."
+      },
+      "image_prompt": "two small streams of light, one gathering and one flowing outward, merging into a single spiraling flame, close-up, warm golden light",
+      "on_screen_text": "Tích trữ + Truyền đi = One For All",
+      "video_prompt": "the two streams of light spiral together into a single growing golden flame",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Đó là hạt giống của One For All. Và ngay từ đầu, nó được tạo ra để chống lại chính người đã vô tình tạo ra nó."
+      },
+      "image_prompt": "a single glowing seed planted in dark soil beneath the shadow of a looming figure, extreme close-up, dramatic light",
+      "on_screen_text": "Hạt giống"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Kaku ghi chú: gốc của cây này là một câu chuyện gia đình. Một người anh muốn sở hữu tất cả, và một người em chọn trao lại tất cả. Tên của hai sức mạnh nói lên điều đó."
+      },
+      "image_prompt": "the owl mascot writing two names on opposite sides of a page, one surrounded by grabbing arrows and one by giving arrows",
+      "use_mascot": true
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Trước khi đi qua các nhánh, cần biết luật của cây. Luật một: sức mạnh được truyền bằng cách người nhận hấp thụ ADN của người trao, ví dụ nuốt một sợi tóc."
+      },
+      "image_prompt": "a single strand of hair glowing faintly in an open palm, extreme close-up, soft golden light",
+      "chapter": "Luật của cây",
+      "on_screen_text": "Luật 1: truyền qua ADN"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Luật hai: mỗi thế hệ, sức mạnh tích trữ thêm và lớn dần. Người sau luôn nhận được nhiều hơn người trước."
+      },
+      "image_prompt": "a series of glowing vessels in a row, each one filled higher than the last, parchment diagram, amber ink",
+      "on_screen_text": "Luật 2: mỗi đời mạnh hơn"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Những bóng hình này không phải hồn ma. Chúng là dấu vết ý chí được lưu lại cùng sức mạnh, và mỗi người còn giữ tính cách riêng: có người ít nói, có người nóng nảy, có người rất vui tính."
+      },
+      "image_prompt": "a circle of translucent silhouettes seated around a glowing flame in a misty space, each with a different posture, wide shot, ethereal light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Luật ba: những người cũ để lại một phần ý thức bên trong, gọi là bóng hình. Họ có thể xuất hiện, nói chuyện, và dẫn dắt người đang giữ sức mạnh."
+      },
+      "image_prompt": "a young man standing in a misty inner space surrounded by faint translucent silhouettes of past holders, wide shot, ethereal light",
+      "on_screen_text": "Luật 3: bóng hình người cũ"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nhưng để dùng được năng lực của người cũ, Deku phải được họ chấp nhận, và cơ thể phải đủ mạnh. Mỗi năng lực mới đến vào đúng lúc cậu cần nó nhất, và cũng khiến cậu kiệt sức hơn."
+      },
+      "image_prompt": "a young man straining as a new dark tendril power bursts uncontrolled from his arm, dramatic close-up, harsh light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Luật bốn, được hé lộ khá muộn: năng lực riêng của những người cũ cũng được giữ lại bên trong, và người kế thừa có thể dần đánh thức chúng."
+      },
+      "image_prompt": "several small glowing icons orbiting a single flame: a whip, a floating feather, a smoke puff, an eye, a gear, parchment illustration",
+      "on_screen_text": "Luật 4: năng lực cũ còn lại"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và có một luật ngầm đáng sợ hơn: sức mạnh quá lớn có thể làm người giữ nó chết sớm, nhất là những người vốn đã có năng lực riêng. Kaku gắn nhãn cần kiểm lại cho chi tiết này."
+      },
+      "image_prompt": "an hourglass with sand running faster than normal beside a glowing flame, close-up, somber light",
+      "on_screen_text": "Luật ngầm: cái giá tuổi thọ"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Nhánh một: Yoichi Shigaraki, người đầu tiên. Ông không đủ sức đánh bại anh trai, nên ông truyền sức mạnh đi, gửi gắm hy vọng vào người sau."
+      },
+      "image_prompt": "a frail young man handing a small glowing flame to another person in a dark alley, both looking over their shoulders, medium shot",
+      "chapter": "Nhánh 1 tới 3: những người đầu tiên",
+      "on_screen_text": "Nhánh 1: Yoichi"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Người thứ hai trở thành người dẫn dắt các bóng hình, người nói chuyện nhiều nhất với Deku. Ông từng là một người trẻ nổi loạn chống lại All For One từ những ngày đầu."
+      },
+      "image_prompt": "a bold young silhouette standing at the front of a group of faint figures, arms crossed, facing a young hero, medium shot, misty light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhánh hai: người sử dụng thứ hai, có năng lực tăng giảm tốc độ, như sang số của một cỗ máy."
+      },
+      "image_prompt": "a figure with gear-shaped light patterns spinning around their legs as they accelerate, dynamic shot, amber light",
+      "on_screen_text": "Nhánh 2: sang số"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Nhánh ba: người sử dụng thứ ba, có năng lực tích động năng rồi giải phóng một lúc để tăng tốc. Cả ba người đầu đều sống trong thời kỳ All For One còn ở đỉnh cao."
+      },
+      "image_prompt": "a figure crouched like a coiled spring releasing a burst of stored energy, dynamic close-up, warm light",
+      "on_screen_text": "Nhánh 3: tích động năng"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Yoichi, người đầu tiên, về sau là bóng hình đặc biệt nhất. Ông thường xuất hiện ở những khoảnh khắc quan trọng, nhìn người em cuối cùng của cây phả hệ bằng ánh mắt vừa buồn vừa hy vọng."
+      },
+      "image_prompt": "a frail faint figure standing slightly apart from the other silhouettes, looking at a young hero with gentle eyes, close-up, soft light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Và cả ba đều không thắng được All For One. Họ chỉ có thể sống sót đủ lâu để truyền sức mạnh đi. Mỗi lần trao tay là một lần thua, nhưng cũng là một lần hy vọng được giữ lại."
+      },
+      "image_prompt": "a relay baton made of light passed from a falling runner to the next in a dark stadium, dramatic wide shot",
+      "on_screen_text": "Thua nhưng giữ được hy vọng"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Kaku để ý: những nhánh đầu tiên của cây gần như không có tên trong truyện một thời gian dài. Họ là những người hùng vô danh, và bộ truyện mất rất lâu mới kể về họ."
+      },
+      "image_prompt": "three faded silhouettes on an old photograph with their faces blurred, close-up, sepia light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nhánh bốn: Shinomori Hikage, năng lực cảm nhận nguy hiểm. Ông già đi rất nhanh, và mất khi còn khá trẻ."
+      },
+      "image_prompt": "a gaunt figure with prematurely grey hair sitting alone, faint warning pulses radiating around his head, medium shot, dim light",
+      "chapter": "Nhánh 4 tới 6: những người đứng giữa",
+      "on_screen_text": "Nhánh 4: cảm nhận nguy hiểm"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Banjo là người ồn ào và nhiệt huyết nhất trong các bóng hình. Năng lực roi đen của ông là năng lực đầu tiên Deku đánh thức, và cũng khó điều khiển nhất lúc ban đầu."
+      },
+      "image_prompt": "a burly cheerful silhouette laughing loudly among quieter faint figures, dark tendrils flickering at his hands, medium shot, warm light",
+      "on_screen_text": "Năng lực đầu tiên thức tỉnh"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Nhánh năm: Banjo Daigoro, năng lực roi đen, những sợi năng lượng đen có thể quấn, kéo, trói."
+      },
+      "image_prompt": "dark energy tendrils whipping out from a burly figure's arms and wrapping around a steel beam, dynamic wide shot, dramatic light",
+      "on_screen_text": "Nhánh 5: roi đen"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nghe thì khói có vẻ không mạnh bằng roi hay bay. Nhưng trong chiến đấu, che mắt kẻ thù đôi khi quyết định sống chết. Cây phả hệ này cần cả những năng lực không hào nhoáng."
+      },
+      "image_prompt": "a young hero using a dark smoke cloud to shield injured civilians while escaping, wide shot, tense light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Nhánh sáu: En, năng lực tạo khói, giúp ẩn nấp và gây rối. Ông cũng là người đã chiến đấu và hi sinh trước All For One."
+      },
+      "image_prompt": "a figure disappearing into a thick cloud of dark smoke in a ruined alley, wide shot, eerie light",
+      "on_screen_text": "Nhánh 6: khói"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Cảm nhận nguy hiểm của Shinomori về sau trở thành một trong những năng lực Deku dùng nhiều nhất, như một hệ thống cảnh báo sớm gắn trong đầu."
+      },
+      "image_prompt": "a faint warning pulse radiating around a young hero's head as a hidden attack approaches from behind, dynamic close-up, amber light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Ba nhánh này có điểm chung: đều đối đầu trực tiếp với All For One hoặc thuộc hạ của hắn, và đều không sống lâu. Cây One For All lớn lên trên những mất mát."
+      },
+      "image_prompt": "a tree trunk with three carved notches near its middle, rain running down the bark, close-up, grey light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku phải nói thật: sau này khi Deku đánh thức năng lực của họ, Kaku mới hiểu vì sao tác giả để các nhánh giữa này có năng lực rất khác nhau. Mỗi người là một mảnh ghép cho người cuối cùng."
+      },
+      "image_prompt": "the owl mascot fitting three small puzzle pieces into a larger picture, nodding thoughtfully",
+      "use_mascot": true
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhánh bảy: Shimura Nana, năng lực bay lơ lửng. Bà là một anh hùng chuyên nghiệp mạnh mẽ, vui tính, và là người thầy của All Might."
+      },
+      "image_prompt": "a confident woman in a hero cape floating calmly above a city skyline at sunset, low-angle shot, warm golden light",
+      "chapter": "Nhánh 7: Nana Shimura",
+      "on_screen_text": "Nhánh 7: Nana Shimura"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Nana dạy Toshinori một điều quan trọng hơn mọi kỹ thuật: hãy luôn mỉm cười. Anh hùng mỉm cười để người khác bớt sợ, và để chính mình không gục ngã."
+      },
+      "image_prompt": "a woman and a young man both grinning widely on a rooftop, the city behind them, medium shot, bright warm light",
+      "on_screen_text": "Nụ cười học từ Nana"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Nụ cười nổi tiếng của All Might, thứ mà cả thế giới nhớ tới, thật ra là bài học của người thầy. Cây phả hệ này truyền cả sức mạnh lẫn nụ cười."
+      },
+      "image_prompt": "a small smile drawn on a notebook page passed between two hands, extreme close-up, warm light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Bà nhìn thấy ở một cậu thanh niên không có năng lực, Yagi Toshinori, điều mà người khác không thấy: một trái tim sẵn sàng cứu người bằng mọi giá."
+      },
+      "image_prompt": "a woman placing her hand on the shoulder of a thin young man looking at a city from a rooftop, back view, soft evening light",
+      "on_screen_text": "Chọn Toshinori"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Để bảo vệ gia đình, bà đã gửi con trai mình đi, cắt đứt liên lạc, để All For One không thể dùng đứa bé làm con tin."
+      },
+      "image_prompt": "a small child being handed to a foster family at a doorway, a woman walking away in the rain without looking back, wide shot, somber light",
+      "on_screen_text": "Gửi con trai đi"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Người bạn thân của bà, một anh hùng già tên Gran Torino, sau đó tiếp tục huấn luyện Toshinori, và nhiều năm sau còn huấn luyện cả Deku. Những người không giữ ngọn lửa cũng góp phần bảo vệ nó."
+      },
+      "image_prompt": "a short elderly hero in a cape bouncing energetically off walls while a young student struggles to keep up, humorous dynamic shot, bright light",
+      "on_screen_text": "Gran Torino"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Và rồi bà hi sinh trong trận chiến với All For One. Lựa chọn gửi con đi, tưởng là để bảo vệ, về sau lại trở thành một nhánh cây rất tối."
+      },
+      "image_prompt": "a torn hero cape caught on a broken railing, blowing in the wind, extreme close-up, grey light",
+      "on_screen_text": "Hi sinh"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nhánh tám: Yagi Toshinori, All Might. Người đầu tiên trong cây không có năng lực riêng nào, và cũng là người mạnh nhất tới lúc đó."
+      },
+      "image_prompt": "a towering muscular hero silhouette standing in front of a crowd with arms raised, sunlight behind him, low-angle shot, heroic golden light",
+      "chapter": "Nhánh 8: All Might",
+      "on_screen_text": "Nhánh 8: All Might"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Vì không có năng lực riêng, cơ thể ông không phải gánh hai sức mạnh cùng lúc. Nhiều người cho rằng đó là lý do ông dùng One For All mạnh mẽ và lâu dài tới vậy. Kaku gắn nhãn đây là cách giải thích của truyện, cần kiểm lại."
+      },
+      "image_prompt": "a single empty vessel receiving a large flame without any other contents, parchment diagram, amber ink",
+      "on_screen_text": "Không có năng lực riêng = bình chứa trọn vẹn"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Nhưng khi hết sức, All Might trở lại dáng vẻ gầy gò, ho ra máu. Thế giới không biết. Chỉ vài người thân cận biết Biểu tượng Hòa bình đang cạn dần."
+      },
+      "image_prompt": "a thin gaunt man sitting alone in a dim room, a giant hero poster of himself on the wall behind him, medium shot, melancholic light",
+      "on_screen_text": "Dáng vẻ thật"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ông trở thành Biểu tượng Hòa bình, người mà sự có mặt thôi cũng khiến tội phạm chùn tay. Và ông đã đánh bại All For One lần đầu, nhưng phải trả giá bằng một vết thương không bao giờ lành."
+      },
+      "image_prompt": "a hero silhouette standing victorious in a destroyed city, one hand clutching his side, dust settling, wide shot, bittersweet light",
+      "on_screen_text": "Biểu tượng Hòa bình"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Ở trận chiến Kamino, All Might dùng chút lửa cuối cùng để đánh bại All For One lần nữa. Rồi ông chỉ tay vào ống kính và nói với cả thế giới: tiếp theo là cậu. Người xem hiểu câu đó dành cho Deku."
+      },
+      "image_prompt": "a gaunt hero pointing forward toward the viewer in a smoky destroyed city, flashes of news cameras around, dramatic low-angle shot",
+      "on_screen_text": "Kamino: tiếp theo là cậu"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Vết thương khiến thời gian ông ở dạng anh hùng ngày càng ngắn lại. Ông cần người kế nhiệm, và ông tìm thấy người đó ở một cậu bé không có năng lực, lao vào cứu bạn khi mọi anh hùng khác còn đứng yên."
+      },
+      "image_prompt": "a skinny boy running toward danger with his backpack flying, while adult heroes hesitate in the background, dynamic wide shot, dramatic light",
+      "on_screen_text": "Tìm người kế nhiệm"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Từ nhỏ Deku đã bị bác sĩ nói là không có năng lực, và bị bạn bè coi thường. Nhưng cậu có một thói quen: ghi chép tỉ mỉ về năng lực của mọi anh hùng vào những cuốn sổ."
+      },
+      "image_prompt": "a stack of worn notebooks filled with hero sketches and notes on a child's desk, one slightly burnt at the edges, close-up, warm lamplight",
+      "chapter": "Nhánh 9: Midoriya Izuku",
+      "on_screen_text": "Những cuốn sổ phân tích"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku phải nói: Kaku rất có cảm tình với một nhân vật chính mê ghi chép. Nếu Deku có kênh YouTube, chắc là đối thủ đáng gờm nhất của Kaku."
+      },
+      "image_prompt": "the owl mascot comparing its own notebook with a similar notebook, nodding with respect",
+      "use_mascot": true
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Nhánh chín: Midoriya Izuku, Deku. Cậu nuốt sợi tóc của All Might và nhận One For All. Sức mạnh quá lớn, lần đầu dùng là xương tay gãy."
+      },
+      "image_prompt": "a boy holding his injured arm after a massive punch that cleared the clouds above him, wide shot, dramatic sky",
+      "on_screen_text": "Nhánh 9: Deku"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Cậu còn đổi cách chiến đấu: chuyển từ đấm sang đá, để tay không bị hỏng thêm. Mỗi lần thích nghi là một lần cậu hiểu cơ thể mình rõ hơn."
+      },
+      "image_prompt": "a young hero switching from a punch to a powerful kick in midair, glowing lines around his legs, dynamic shot, bright light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Cậu học cách dùng từng phần trăm sức mạnh: năm phần trăm, tám phần trăm, hai mươi phần trăm, để cơ thể không vỡ. Giống như học lái một chiếc xe quá mạnh so với tay lái của mình."
+      },
+      "image_prompt": "a glowing percentage gauge drawn beside a young fighter, the needle carefully held at a low value, parchment diagram, amber ink",
+      "on_screen_text": "Từng phần trăm"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Rồi những bóng hình người cũ bắt đầu thức tỉnh. Deku lần lượt dùng được roi đen, khói, bay lơ lửng, cảm nhận nguy hiểm, và những năng lực khác. Cả cây phả hệ cùng chiến đấu trong một người."
+      },
+      "image_prompt": "a young hero surrounded by faint silhouettes of past holders, each lending a different glowing power to him, wide shot, epic light",
+      "on_screen_text": "Cả cây trong một người",
+      "video_prompt": "the faint silhouettes step forward one by one, each lending a glowing power",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Deku là người cuối cùng của cây. Theo truyện, cậu là nhánh được chọn để kết thúc cuộc chiến bắt đầu từ hai anh em ở gốc cây."
+      },
+      "image_prompt": "the top of a glowing tree with a single bright leaf at its tip, wide shot, dawn light",
+      "on_screen_text": "Nhánh cuối cùng"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Giờ tới nhánh bi kịch nhất. Con trai của Nana Shimura lớn lên không biết mẹ mình là ai, và căm ghét anh hùng vì nghĩ mẹ đã bỏ rơi mình."
+      },
+      "image_prompt": "a stern man standing in a dim living room with his back to a small boy, a hero poster torn on the wall, medium shot, cold light",
+      "chapter": "Nhánh bị mất: dòng họ Shimura",
+      "on_screen_text": "Con trai Nana"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Cậu bé từng mơ làm anh hùng, như bà mình. Nhưng không ai tới cứu cậu vào đêm hôm đó. Đó là vết thương lớn nhất của Shigaraki, và là câu hỏi mà bộ truyện đặt ra cho chính các anh hùng."
+      },
+      "image_prompt": "a small boy walking alone along a busy street at night, adults passing by without looking down at him, wide shot, cold light",
+      "on_screen_text": "Không ai tới cứu"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Cháu của Nana, cậu bé Shimura Tenko, lớn lên trong một gia đình cấm nhắc tới anh hùng. Một ngày, năng lực phân rã của cậu thức tỉnh, và gây ra một thảm kịch cho chính gia đình mình."
+      },
+      "image_prompt": "a small boy standing alone in a ruined garden at night, crumbling dust drifting from his hands, wide shot, eerie cold light",
+      "on_screen_text": "Tenko Shimura"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Deku về sau hiểu ra rằng mình muốn cứu cả Shigaraki, không chỉ đánh bại hắn. Nhánh cây bị mất cuối cùng cũng có người muốn đưa nó về."
+      },
+      "image_prompt": "a young hero reaching out his hand toward a figure surrounded by crumbling dust, dramatic close-up, contrasting warm and cold light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "All For One tìm tới cậu bé, nuôi dạy, đổi tên cậu thành Shigaraki Tomura, và biến cậu thành kẻ thù lớn nhất của các anh hùng."
+      },
+      "image_prompt": "a tall dark figure placing a hand on the head of a small lost boy on a rainy street, wide shot, ominous light",
+      "on_screen_text": "Thành Shigaraki Tomura"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Hãy nhìn cái tên: Shigaraki là họ của chính Yoichi, người đầu tiên của One For All. All For One lấy họ của em trai mình đặt cho cháu của người giữ One For All thứ bảy. Hai cây phả hệ giao nhau ngay ở đây."
+      },
+      "image_prompt": "two family trees on parchment crossing branches, the name tags at the intersection glowing red, close-up, crimson and amber ink",
+      "on_screen_text": "Hai cây giao nhau",
+      "video_prompt": "the two family trees slowly cross and the intersection glows red",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku thấy đây là chi tiết tàn nhẫn nhất của cả bộ truyện: người giữ ngọn lửa hi sinh gia đình để bảo vệ nó, và kẻ thù dùng chính gia đình đó để dập tắt ngọn lửa."
+      },
+      "image_prompt": "a small candle flame beside a dark hand reaching toward it from the shadows, extreme close-up, dramatic light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Hắn kéo dài tuổi thọ, thay đổi cơ thể, và thậm chí tìm cách trở lại qua người khác. Một kẻ không chịu buông tay bất cứ thứ gì, trái ngược với một cây phả hệ sống nhờ việc buông tay."
+      },
+      "image_prompt": "a clenched dark fist gripping many glowing threads next to an open hand releasing a single light, split composition, dramatic light",
+      "chapter": "Nhánh đối nghịch: All For One"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Và ở phía đối diện của cây là All For One: kẻ sống qua nhiều thế hệ, lấy năng lực của vô số người, và luôn muốn lấy lại thứ mà em trai đã trao đi."
+      },
+      "image_prompt": "a dark tree with twisted branches mirroring the glowing tree, a looming figure at its roots, split composition, cold and warm light",
+      "on_screen_text": "Cây đối nghịch"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku để ý: Yoichi và All For One đều là những nhân vật được nhắc tới từ đầu, nhưng mãi tới cuối truyện ta mới hiểu cuộc chiến của cả thế giới bắt nguồn từ mối quan hệ của họ."
+      },
+      "image_prompt": "an old photograph of two young brothers smiling together, faded and torn down the middle, close-up, sepia light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Hai sức mạnh đối lập hoàn toàn: một bên lấy mọi thứ cho một người, một bên trao một thứ cho mọi người sau. Tên của chúng đã nói lên tất cả: tất cả vì một, và một vì tất cả."
+      },
+      "image_prompt": "two symbols side by side on parchment: many arrows pointing into one point, and one point sending arrows outward, amber ink",
+      "on_screen_text": "All For One vs One For All"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Và câu chuyện của cả chín thế hệ, rốt cuộc, là cuộc cãi nhau chưa dứt giữa hai anh em ruột."
+      },
+      "image_prompt": "two small brothers' silhouettes sitting on opposite ends of a long bench under a single streetlight, back view, melancholic light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Trong trận chiến cuối cùng, Deku dùng toàn bộ sức mạnh của cả cây phả hệ. Và sau đó, One For All dần tắt trong người cậu."
+      },
+      "image_prompt": "a young hero standing in a devastated field at dawn as golden embers slowly drift away from his body, wide shot, bittersweet light",
+      "chapter": "Cái kết của cây",
+      "on_screen_text": "One For All dần tắt",
+      "video_prompt": "golden embers drift slowly upward from the standing hero into the dawn sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nhiều năm sau, All Might, người không còn năng lực, và Deku, người đã mất năng lực, đều vẫn được gọi là anh hùng. Bộ truyện kết thúc bằng câu trả lời cho câu hỏi đầu tiên: người không có năng lực có thể trở thành anh hùng không?"
+      },
+      "image_prompt": "an older man and a young teacher standing side by side watching students train in a sunny yard, back view, warm hopeful light",
+      "on_screen_text": "Người không có năng lực vẫn là anh hùng"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Deku không còn sức mạnh. Nhưng truyện cho thấy cậu vẫn là anh hùng: trở thành giáo viên, rồi được bạn bè giúp đỡ để có thể tiếp tục chiến đấu bằng một bộ trang phục đặc biệt."
+      },
+      "image_prompt": "a young teacher standing in front of a class of eager students, a hero suit hanging in a display case behind him, medium shot, warm light",
+      "on_screen_text": "Không còn sức mạnh, vẫn là anh hùng"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kaku thấy cái kết này khép lại cây phả hệ rất đẹp: sức mạnh được trao qua chín đời để kết thúc một cuộc chiến. Khi cuộc chiến kết thúc, sức mạnh cũng không cần nữa. Chỉ còn ý chí được trao lại."
+      },
+      "image_prompt": "the owl mascot gently closing a book with a glowing tree on its cover, a small ember floating up from it",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku vẽ lại toàn bộ cây. Gốc: hai anh em, All For One và Yoichi. Thân cây: năng lực tích trữ và truyền đi hòa làm một."
+      },
+      "image_prompt": "a complete glowing tree drawing on parchment with two roots labeled by small icons, close-up, amber ink",
+      "chapter": "Cây hoàn chỉnh",
+      "on_screen_text": "Gốc và thân"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Và bên cạnh cây là những người không ở trong cây nhưng giữ cho nó sống: Gran Torino, mẹ của Deku, những người bạn cùng lớp đã đứng cạnh cậu tới cuối cùng."
+      },
+      "image_prompt": "small supporting figures standing around the base of the glowing tree, holding it steady with ropes of light, parchment illustration"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Chín nhánh: Yoichi, sang số, tích động năng, cảm nhận nguy hiểm, roi đen, khói, bay lơ lửng, All Might, và Deku."
+      },
+      "image_prompt": "nine glowing branches each tipped with a small icon, arranged from bottom to top, parchment illustration",
+      "on_screen_text": "9 nhánh"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Một nhánh bị mất: dòng họ Shimura, bị cây đối nghịch cướp đi và biến thành Shigaraki Tomura. Và ngọn cây: ý chí được truyền lại, sau khi sức mạnh đã tắt."
+      },
+      "image_prompt": "a dark broken branch hanging off the side of the tree, and a small light rising from the treetop into the sky, close-up, dramatic contrast",
+      "on_screen_text": "Nhánh bị mất · Ngọn cây"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Nếu được chọn một người trong chín nhánh để kể riêng một video, bạn chọn ai? Kaku nghiêng về Nana Shimura. Viết lựa chọn của bạn vào bình luận nhé."
+      },
+      "image_prompt": "nine small portrait frames on a wall with one empty frame and a question mark, close-up, warm light",
+      "on_screen_text": "Bạn chọn nhánh nào?"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Kaku mong bạn cũng có một người để truyền lại điều gì đó: một kỹ năng, một thói quen tốt, hay chỉ là một nụ cười như Nana đã truyền cho All Might."
+      },
+      "image_prompt": "two hands, one old and one young, holding a small glowing notebook together, extreme close-up, warm light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Cây phả hệ One For All không nối với nhau bằng máu, mà bằng lựa chọn. Mỗi người chọn trao đi, và nhờ vậy, ngọn lửa đi được tới người cuối cùng."
+      },
+      "image_prompt": "a long line of hands passing a small flame toward a bright horizon, wide shot, warm golden light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở phòng thí nghiệm của tiến sĩ Agasa trong Thám tử lừng danh Conan: viên thuốc teo nhỏ và những món đồ phát minh. Khoa học thật tới đâu? Và tất nhiên, không phải hướng dẫn."
+      },
+      "image_prompt": "a cluttered home laboratory with strange gadgets, a small pill bottle under a desk lamp, wide shot, warm yellow light",
+      "on_screen_text": "Tiếp theo: khoa học trong Conan"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu bạn thích những cây phả hệ như thế này, hãy đăng ký kênh để Kaku vẽ thêm nhiều cây nữa. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the parchment tree and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}
