@@ -57,11 +57,11 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 32 | 2026-12-17 | Luật du hành thời gian 12 năm và cách "phá" tương lai | Tokyo Revengers (mùa 4 đang phát) | B · Luật chơi và cách phá | 4 | ? | 5 | 4 | 13 | `videos/2026-12-17-luat-du-hanh-tokyo-revengers/` | Kịch bản xong — chờ kiểm nguồn |
 | 33 | 2026-12-19 | Xếp hạng các vị thần | Dragon Ball (DBS: Beerus đang phát) | J · Xếp hạng có tiêu chí | 5 | ? | 4 | 4 | 13 | `videos/2026-12-19-xep-hang-cac-vi-than-dragon-ball/` | Kịch bản xong — chờ kiểm nguồn |
 | 34 | 2026-12-22 | Cấy ghép cơ thể và chứng "loạn thần máy" | Cyberpunk: Edgerunners (mùa 2 ra 20/10) | A · Giải thích hệ thống | 4 | ? | 5 | 5 | 14 | `videos/2026-12-22-cay-ghep-edgerunners/` | Kịch bản xong — chờ kiểm nguồn |
-| 35 | 2026-12-24 | Truyền thuyết Momotaro thật và cách bộ truyện lật ngược nó | Tougen Anki (đang phát) | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 5 | 14 | `videos/2026-12-24-momotaro-that-tougen-anki/` | Chưa viết |
-| 36 | 2026-12-26 | Phân tích trận Ichigo vs Byakuya | Bleach | M · Phân tích trận đấu | 4 | ? | 4 | 4 | 12 | `videos/2026-12-26-tran-ichigo-byakuya/` | Chưa viết |
-| 37 | 2026-12-29 | Hồ sơ 4 loại Kagune | Tokyo Ghoul | E · Hồ sơ bách khoa | 4 | ? | 4 | 4 | 12 | `videos/2026-12-29-ho-so-kagune-tokyo-ghoul/` | Chưa viết |
-| 38 | 2026-12-31 | Lịch sử các hệ, từ 15 lên 18 | Pokémon | C · Lịch sử / tiến hóa | 5 | ? | 4 | 4 | 13 | `videos/2026-12-31-lich-su-cac-he-pokemon/` | Chưa viết |
-| 39 | 2027-01-02 | Phiên tòa: Eren Yeager | Attack on Titan | U · Phiên tòa nhân vật | 5 | ? | 5 | 4 | 14 | `videos/2027-01-02-phien-toa-eren/` | Chưa viết |
+| 35 | 2026-12-24 | Truyền thuyết Momotaro thật và cách bộ truyện lật ngược nó | Tougen Anki (đang phát) | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 5 | 14 | `videos/2026-12-24-momotaro-that-tougen-anki/` | Kịch bản xong — chờ kiểm nguồn |
+| 36 | 2026-12-26 | Phân tích trận Ichigo vs Byakuya | Bleach | M · Phân tích trận đấu | 4 | ? | 4 | 4 | 12 | `videos/2026-12-26-tran-ichigo-byakuya/` | Kịch bản xong — chờ kiểm nguồn |
+| 37 | 2026-12-29 | Hồ sơ 4 loại Kagune | Tokyo Ghoul | E · Hồ sơ bách khoa | 4 | ? | 4 | 4 | 12 | `videos/2026-12-29-ho-so-kagune-tokyo-ghoul/` | Kịch bản xong — chờ kiểm nguồn |
+| 38 | 2026-12-31 | Lịch sử các hệ, từ 15 lên 18 | Pokémon | C · Lịch sử / tiến hóa | 5 | ? | 4 | 4 | 13 | `videos/2026-12-31-lich-su-cac-he-pokemon/` | Kịch bản xong — chờ kiểm nguồn |
+| 39 | 2027-01-02 | Phiên tòa: Eren Yeager | Attack on Titan | U · Phiên tòa nhân vật | 5 | ? | 5 | 4 | 14 | `videos/2027-01-02-phien-toa-eren/` | Kịch bản xong — chờ kiểm nguồn |
 | 40 | 2027-01-05 | Ôn tập trước mùa 2 | Sakamoto Days (mùa 2 tháng 1) | T · Ôn tập trước mùa mới | 4 | ? | 4 | 4 | 12 | `videos/2027-01-05-on-tap-sakamoto-days/` | Chưa viết |
 | 41 | 2027-01-07 | Bảng chỉ số kiểu game | Shangri-La Frontier (mùa 3 tháng 1) | F · Bảng chỉ số kiểu game | 4 | ? | 5 | 5 | 14 | `videos/2027-01-07-bang-chi-so-shangri-la-frontier/` | Chưa viết |
 | 42 | 2027-01-09 | Ôn tập trước mùa 3 | Mashle (mùa 3 tháng 1) | T · Ôn tập trước mùa mới | 4 | ? | 4 | 4 | 12 | `videos/2027-01-09-on-tap-mashle/` | Chưa viết |

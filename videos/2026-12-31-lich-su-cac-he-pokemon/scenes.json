@@ -1,0 +1,706 @@
+{
+  "title": "Pokémon: Lịch sử các hệ từ 15 lên 18 — vì sao phải thêm Bóng tối, Thép và Tiên?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Video này không có spoiler cốt truyện. Kaku chỉ nói về luật chơi, chủ yếu trong các phiên bản trò chơi chính, và một chút về anime."
+      },
+      "image_prompt": "a cozy bedroom desk with an old handheld game console, a notebook and a small lamp, wide establishing shot, warm nostalgic light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Không spoiler cốt truyện"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Năm 1996, một trò chơi trên máy cầm tay ra mắt ở Nhật Bản với mười lăm hệ. Lửa, Nước, Cỏ, Điện, và mười một hệ khác."
+      },
+      "image_prompt": "a vintage handheld console with a small greenish screen showing a simple grid of fifteen icons, close-up, soft nostalgic light",
+      "on_screen_text": "1996: 15 hệ",
+      "video_prompt": "the old handheld screen flickers on and the grid of fifteen icons lights up one by one",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Ba mươi năm sau, con số đó là mười tám. Bảng tương khắc có ba trăm hai mươi bốn ô, và mỗi ô là một luật nhỏ quyết định trận đấu."
+      },
+      "image_prompt": "a large modern type chart grid of 18 by 18 colorful cells glowing on a screen, wide shot, vibrant light",
+      "on_screen_text": "2026: 18 hệ · 324 ô"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Nhưng ba hệ mới không được thêm vào cho vui. Mỗi hệ ra đời để sửa một vấn đề của bảng cũ. Và có một hệ từng mạnh tới mức gần như không ai đánh bại được."
+      },
+      "image_prompt": "a single glowing violet icon sitting on top of a pile of defeated icons, dramatic spotlight, close-up",
+      "on_screen_text": "Có một hệ từng quá mạnh"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Ở Việt Nam, nhiều thế hệ biết tới Pokémon qua truyện tranh, phim hoạt hình trên truyền hình và những tấm thẻ bài đổi nhau ở cổng trường. Ai cũng từng tranh cãi xem hệ nào mạnh nhất."
+      },
+      "image_prompt": "a group of kids trading colorful cards on the steps outside a school gate in the afternoon, medium shot, warm nostalgic light",
+      "on_screen_text": "Tuổi thơ ở cổng trường"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Và câu trả lời cho cuộc tranh cãi đó đã thay đổi nhiều lần trong ba mươi năm. Đó chính là nội dung hôm nay."
+      },
+      "image_prompt": "an old notebook page with a childish drawing of a ranking of elemental icons, several names crossed out and rewritten, close-up"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Nhân dịp Pokémon vừa tròn ba mươi tuổi, hôm nay Kaku kể lại lịch sử các hệ: từng thời kỳ, mỗi thời kỳ một phát minh, và lý do đằng sau mỗi thay đổi."
+      },
+      "image_prompt": "the owl mascot opening a notebook with a big birthday cake drawing on one page and a type grid on the other, cheerful warm light",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trước khi đi vào lịch sử, nhắc lại luật cơ bản. Mỗi sinh vật trong Pokémon có một hoặc hai hệ. Mỗi chiêu thức cũng thuộc một hệ."
+      },
+      "image_prompt": "a simple diagram of a creature silhouette with two small elemental badges beside it, and a move card with one badge, parchment style, amber ink",
+      "chapter": "Hệ là gì",
+      "on_screen_text": "1–2 hệ mỗi sinh vật"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Khi một chiêu đánh trúng, trò chơi so hệ của chiêu với hệ của mục tiêu. Có thể gây gấp đôi sát thương, một nửa, hoặc không có tác dụng gì."
+      },
+      "image_prompt": "three result cards: a bold x2, a faded x0.5 and an empty x0, arranged in a row on a desk, close-up",
+      "on_screen_text": "×2 · ×0,5 · ×0"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nước dập Lửa, Lửa đốt Cỏ, Cỏ hút Nước. Đây là vòng tròn đầu tiên mà mọi người chơi đều học, giống như oẳn tù tì."
+      },
+      "image_prompt": "a circular diagram with a water drop, a flame and a leaf connected by arrows, parchment style, blue red green accents",
+      "on_screen_text": "Nước > Lửa > Cỏ > Nước"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Có cả những ô số không, tức miễn nhiễm hoàn toàn. Hệ Đất không bị chiêu Điện làm gì cả. Hệ Ma thì không bị chiêu Thường và Giác đấu chạm tới."
+      },
+      "image_prompt": "an electric bolt fizzling out against a mound of earth, and a fist passing through a ghostly wisp, two small panels, parchment illustration",
+      "on_screen_text": "Các ô số 0"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Thêm một luật nhỏ: nếu sinh vật dùng chiêu cùng hệ với mình, sức mạnh chiêu được tăng thêm một nửa. Vì vậy một sinh vật Lửa dùng chiêu Lửa luôn mạnh hơn dùng chiêu hệ khác."
+      },
+      "image_prompt": "a flame-themed silhouette casting a large flame with a small plus fifty percent badge glowing beside it, close-up, warm light",
+      "on_screen_text": "Cùng hệ: +50%"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Và nếu sinh vật có hai hệ, các hệ số nhân với nhau. Một chiêu có thể gây gấp bốn sát thương, hoặc chỉ một phần tư."
+      },
+      "image_prompt": "a calculation drawn on a chalkboard: two small multiplier cards combining into a large x4, amber chalk, close-up",
+      "on_screen_text": "Hai hệ: ×4 hoặc ×0,25"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nếu so với các bộ Kaku đã phân tích như Nen hay Haki, đây là hệ thống sức mạnh minh bạch nhất: mọi luật đều được viết thành số, ai cũng tra được."
+      },
+      "image_prompt": "a clear glass box containing neatly labeled gears and numbers, next to a mysterious glowing orb, comparison still life, soft light",
+      "on_screen_text": "Minh bạch nhất"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Bảng tương khắc chính là hệ thống sức mạnh của Pokémon. Không có năng lượng bí ẩn nào cả, chỉ có một cái bảng. Nhưng cái bảng đó đã thay đổi nhiều hơn bạn nghĩ."
+      },
+      "image_prompt": "an old paper chart with many hand-written corrections and crossed-out cells, close-up, warm lamplight",
+      "on_screen_text": "Hệ thống sức mạnh = một cái bảng"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku phải thú nhận: hồi nhỏ Kaku từng thuộc lòng bảng này, và quên sạch bảng cửu chương. Mỗi người một ưu tiên."
+      },
+      "image_prompt": "the owl mascot proudly holding a type chart while a multiplication table lies forgotten on the floor",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Thời kỳ đầu tiên bắt đầu với hai phiên bản Đỏ và Xanh lá ở Nhật năm 1996. Phát minh của thời kỳ này chính là ý tưởng về bảng tương khắc."
+      },
+      "image_prompt": "two old game cartridges, one red and one green, lying side by side on a wooden desk, close-up, nostalgic light",
+      "chapter": "Thời kỳ 1 (1996): bảng mười lăm hệ",
+      "on_screen_text": "Phát minh 1: bảng tương khắc"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Mười lăm hệ gồm: Thường, Lửa, Nước, Cỏ, Điện, Băng, Giác đấu, Độc, Đất, Bay, Siêu linh, Côn trùng, Đá, Ma, và Rồng."
+      },
+      "image_prompt": "a grid of fifteen simple elemental icons drawn on parchment: a circle, flame, drop, leaf, bolt, snowflake, fist, skull, mound, wing, eye, beetle, rock, ghost wisp, dragon head, top-down shot",
+      "on_screen_text": "15 hệ đầu tiên"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Bảng thời kỳ đầu còn có vài luật lạ mà ít người nhớ. Ví dụ, Côn trùng và Độc từng khắc chế lẫn nhau, cùng gây gấp đôi sát thương cho nhau."
+      },
+      "image_prompt": "a beetle icon and a skull icon punching each other with matching x2 badges, humorous parchment illustration",
+      "on_screen_text": "Côn trùng ⇄ Độc"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Và Băng lúc đó không bị Lửa kháng. Những chi tiết này đều bị sửa ở thời kỳ sau. Kaku gắn nhãn cần kiểm lại cho từng chi tiết nhỏ, vì sách hướng dẫn thời đó cũng không ghi đúng hết."
+      },
+      "image_prompt": "an old strategy guide book with sticky notes and corrections scribbled in the margins, close-up, warm lamplight",
+      "on_screen_text": "Những luật đã bị sửa"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Ý tưởng rất hay: không có hệ nào tuyệt đối mạnh. Muốn thắng, người chơi phải xây một đội đa dạng, và đổi sinh vật đúng lúc."
+      },
+      "image_prompt": "a small team of six silhouettes of different shapes standing together on a grassy hill, back view, bright adventurous light",
+      "on_screen_text": "Xây đội đa dạng"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Nhưng lý thuyết là một chuyện, thực tế lại là chuyện khác. Và thực tế của thời kỳ này có tên là hệ Siêu linh."
+      },
+      "image_prompt": "a calm psychic silhouette levitating with glowing violet eyes in a dark room, other silhouettes backing away, dramatic low-angle shot",
+      "on_screen_text": "Thực tế: Siêu linh"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Trên giấy, Siêu linh có hai điểm yếu: Côn trùng và Ma. Nhưng thời đó, gần như không có chiêu Côn trùng nào đủ mạnh để dùng."
+      },
+      "image_prompt": "a tiny beetle icon throwing a weak punch at a large violet eye icon, humorous diagram on parchment",
+      "chapter": "Vấn đề của thời kỳ 1: Siêu linh quá mạnh",
+      "on_screen_text": "Côn trùng: quá yếu"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Còn Ma thì sao? Chiêu Ma lẽ ra phải gây gấp đôi sát thương. Nhưng một lỗi trong trò chơi khiến chiêu Ma hoàn toàn không có tác dụng lên Siêu linh."
+      },
+      "image_prompt": "a ghostly wisp bouncing harmlessly off a violet shield with a small error symbol blinking above, close-up, glitchy light",
+      "on_screen_text": "Lỗi: Ma không có tác dụng",
+      "video_prompt": "the ghostly wisp bounces off the violet shield as a small error symbol blinks",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nghĩa là hệ mạnh nhất trò chơi gần như không có điểm yếu thật sự. Trong khi đó, nó lại khắc chế hệ Giác đấu và Độc, rất phổ biến lúc bấy giờ."
+      },
+      "image_prompt": "a violet eye icon standing tall on a podium while fist and skull icons lie defeated below, parchment illustration",
+      "on_screen_text": "Gần như không có điểm yếu"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Hệ Rồng thì có vấn đề ngược lại: cả trò chơi chỉ có một chiêu hệ Rồng, và nó luôn gây đúng bốn mươi điểm sát thương, bất kể hệ nào."
+      },
+      "image_prompt": "a single lonely dragon move card on an otherwise empty shelf, a fixed number 40 stamped on it, close-up, dim light",
+      "on_screen_text": "Rồng: chỉ có 1 chiêu"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Ngay cả sinh vật huyền thoại mạnh nhất phiên bản đầu, Mewtwo, cũng là hệ Siêu linh. Hệ mạnh nhất lại có đại diện mạnh nhất."
+      },
+      "image_prompt": "a tall mysterious psychic silhouette hovering in a dark cave surrounded by glowing violet energy, low-angle shot, dramatic light",
+      "on_screen_text": "Đại diện mạnh nhất"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kaku hồi đó cũng có một đội toàn Siêu linh. Không phải vì Kaku giỏi, mà vì Kaku không biết gì hơn. Giờ nghĩ lại hơi xấu hổ."
+      },
+      "image_prompt": "the owl mascot hiding its face behind an old team roster full of eye icons, embarrassed",
+      "use_mascot": true
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Những năm đó chưa có mạng internet phổ biến như bây giờ. Người chơi phát hiện lỗi hệ Ma bằng cách tự thử, rồi truyền tai nhau, hoặc đọc trong tạp chí trò chơi."
+      },
+      "image_prompt": "two kids connecting two old handheld consoles with a cable on a bedroom floor, a gaming magazine open beside them, medium shot, nostalgic light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kết quả là trong các trận đấu giữa người chơi, đội nào cũng có ít nhất một sinh vật Siêu linh. Sự đa dạng mà bảng tương khắc hứa hẹn bị phá vỡ bởi một hệ."
+      },
+      "image_prompt": "several team rosters pinned on a board, each with the same violet eye icon circled in red, close-up",
+      "on_screen_text": "Đội nào cũng có Siêu linh"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Vậy các nhà làm game đã sửa thế nào? Câu trả lời đến sau ba năm."
+      },
+      "image_prompt": "a calendar with pages flipping from 1996 to 1999, close-up, warm light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là bài học đầu tiên về thiết kế hệ thống sức mạnh. Một luật hay trên giấy vẫn có thể hỏng nếu thiếu công cụ để dùng nó."
+      },
+      "image_prompt": "the owl mascot circling a crack in a beautifully drawn chart with a red pencil",
+      "use_mascot": true
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Cùng với hai hệ mới là những sinh vật mới mang hệ đó, và cả những sinh vật cũ được đổi hệ. Một số sinh vật hệ Điện được thêm hệ Thép, vì chúng vốn trông như làm bằng kim loại."
+      },
+      "image_prompt": "a small magnet-like floating silhouette receiving a new steel badge beside its electric badge, parchment illustration, close-up",
+      "chapter": "Thời kỳ 2 (1999): Bóng tối và Thép",
+      "on_screen_text": "Sinh vật cũ thêm hệ Thép"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Năm 1999, phiên bản Vàng và Bạc ra mắt với lời giải: hai hệ mới, Bóng tối và Thép. Bảng tăng lên mười bảy hệ."
+      },
+      "image_prompt": "two new icons, a crescent moon and a steel gear, being added to an old parchment chart with fresh ink, close-up, warm light",
+      "on_screen_text": "1999: +Bóng tối +Thép = 17"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Phát minh thứ nhất: hệ Bóng tối miễn nhiễm hoàn toàn với chiêu Siêu linh. Lần đầu tiên, Siêu linh có một khắc tinh thật sự."
+      },
+      "image_prompt": "a dark shadowy silhouette calmly standing as violet psychic waves pass through it without effect, dramatic medium shot",
+      "on_screen_text": "Bóng tối: miễn nhiễm Siêu linh",
+      "video_prompt": "violet waves wash through the calm dark silhouette without effect",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Tính ra, Thép chống chịu được mười hệ khác nhau ở thời kỳ này, và miễn nhiễm hoàn toàn với Độc. Không hệ nào có bức tường dày như vậy."
+      },
+      "image_prompt": "a steel gear icon at the center of a chart with ten arrows bouncing off it, one arrow vanishing entirely, parchment diagram",
+      "on_screen_text": "Thép chống 10 hệ"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Phát minh thứ hai: hệ Thép chống chịu rất nhiều hệ, trong đó có Siêu linh. Nó là bức tường mới của bảng tương khắc."
+      },
+      "image_prompt": "a heavy steel shield icon deflecting arrows from many elemental icons, parchment diagram, amber and steel tones",
+      "on_screen_text": "Thép: bức tường"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Lỗi hệ Ma cũng được sửa. Chiêu Ma giờ gây gấp đôi sát thương lên Siêu linh đúng như thiết kế ban đầu."
+      },
+      "image_prompt": "a small repair wrench fixing a cracked line between a ghost wisp icon and an eye icon on the chart, close-up",
+      "on_screen_text": "Sửa lỗi Ma"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Và có thêm một thay đổi lớn: chỉ số Đặc biệt được tách thành hai: tấn công đặc biệt và phòng thủ đặc biệt. Siêu linh từng dùng một chỉ số cho cả công lẫn thủ, giờ thì không."
+      },
+      "image_prompt": "a single stat bar splitting into two separate bars labeled with a sword icon and a shield icon, diagram style, close-up",
+      "on_screen_text": "Tách chỉ số Đặc biệt"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Nhưng hai hệ mới cũng tạo ra những kẻ thống trị mới. Một số sinh vật mang cả hệ Đá và Bóng tối, hay Thép và Côn trùng, trở thành cơn ác mộng mới của các trận đấu. Cân bằng là một cuộc chạy đua không có vạch đích."
+      },
+      "image_prompt": "a racetrack loop with several elemental icons chasing each other endlessly, humorous parchment illustration",
+      "on_screen_text": "Cân bằng: không có vạch đích"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kaku thấy cách sửa này rất khéo: không giảm sức mạnh của Siêu linh một cách thô bạo, mà thêm công cụ cho người chơi. Hệ thống được cân bằng bằng cách mở rộng, không phải bằng cách cấm."
+      },
+      "image_prompt": "a scale being balanced by adding a new weight on one side rather than removing one from the other, close-up, warm light",
+      "on_screen_text": "Cân bằng bằng cách mở rộng"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Trước đó một chút, năm 2002, phiên bản Hồng ngọc và Lam ngọc đã thêm một lớp mới: đặc tính. Mỗi sinh vật có một khả năng bị động có thể bẻ cong bảng tương khắc."
+      },
+      "image_prompt": "two gem-shaped cartridges, one red and one blue, beside a small card showing a passive ability icon, close-up, warm light",
+      "chapter": "Thời kỳ 3 (2006): vật lý và đặc biệt",
+      "on_screen_text": "2002: đặc tính"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Ví dụ đặc tính Bay lơ lửng giúp sinh vật miễn nhiễm hoàn toàn chiêu Đất, dù hệ của nó không phải hệ Bay. Bảng tương khắc giờ có ngoại lệ gắn với từng sinh vật."
+      },
+      "image_prompt": "a floating round silhouette hovering calmly above cracks in the ground from an earthquake, medium shot, dramatic light",
+      "on_screen_text": "Ngoại lệ gắn với từng sinh vật"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Thời kỳ thứ ba không thêm hệ nào, nhưng thay đổi cách mọi hệ hoạt động. Phát minh của phiên bản Kim cương và Ngọc trai năm 2006 là tách chiêu vật lý và chiêu đặc biệt."
+      },
+      "image_prompt": "two game cartridges with diamond and pearl symbols resting on a desk beside a notebook, close-up, soft light",
+      "on_screen_text": "Phát minh 3: tách vật lý / đặc biệt"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Trước đó, một chiêu dùng sức tấn công thường hay tấn công đặc biệt là do hệ của nó quyết định. Mọi chiêu Lửa đều là đặc biệt, mọi chiêu Giác đấu đều là vật lý."
+      },
+      "image_prompt": "a sorting chart where every flame icon goes into one box and every fist icon goes into another, rigid rules, parchment style",
+      "on_screen_text": "Trước: hệ quyết định"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Điều này tạo ra những chuyện rất vô lý. Một cú đấm lửa lại tính theo sức mạnh đặc biệt, dù rõ ràng là một cú đấm."
+      },
+      "image_prompt": "a flaming fist punch labeled with a magic sparkle icon, a confused question mark floating above, humorous illustration",
+      "on_screen_text": "Cú đấm lửa… là phép?"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Những sinh vật có sức tấn công vật lý cao nhưng mang hệ vốn là đặc biệt, như Lửa hay Nước, cuối cùng cũng có chiêu phù hợp với cơ thể mình."
+      },
+      "image_prompt": "a muscular fire-themed silhouette finally throwing a powerful flaming punch, triumphant pose, dramatic warm light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Từ năm 2006, mỗi chiêu tự có loại riêng. Cú đấm lửa thành vật lý, luồng lửa thổi ra thành đặc biệt. Bỗng nhiên rất nhiều sinh vật trước đây vô dụng trở nên đáng dùng."
+      },
+      "image_prompt": "a flaming fist and a stream of fire sorted into two different boxes now, several previously ignored silhouettes stepping forward, parchment diagram",
+      "on_screen_text": "Sau: mỗi chiêu một loại"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku ghi chú: đôi khi thay đổi lớn nhất không phải là thêm thứ mới, mà là sửa cách chia những thứ cũ."
+      },
+      "image_prompt": "the owl mascot rearranging books on a shelf into a new order, looking satisfied",
+      "use_mascot": true
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Những sinh vật Rồng thời này thường là át chủ bài trong đội: hiếm, mạnh, và gần như ai có cũng mang ra trận. Các giải đấu lớn đầy những đội có hai, ba con Rồng."
+      },
+      "image_prompt": "a tournament bracket board filled with dragon head icons across most slots, close-up, dramatic stadium light",
+      "chapter": "Thời kỳ 4 (2013): hệ Tiên"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Sau Siêu linh, tới lượt hệ Rồng thống trị. Tới thời kỳ này, Rồng có nhiều chiêu mạnh, chỉ số cao, và chỉ yếu trước Băng và chính Rồng."
+      },
+      "image_prompt": "a large dragon silhouette perched atop a mountain of defeated icons, wings spread, dramatic sunset light",
+      "on_screen_text": "Rồng thống trị"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Hệ Tiên còn khắc chế Giác đấu và Bóng tối, hai hệ đang rất mạnh lúc đó. Một hệ mới, cùng lúc kiềm chế ba kẻ thống trị."
+      },
+      "image_prompt": "a sparkling star icon with three arrows pointing outward at a dragon head, a fist and a crescent moon, parchment diagram",
+      "on_screen_text": "Tiên: kiềm chế 3 hệ"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Năm 2013, phiên bản X và Y thêm hệ thứ mười tám: Tiên. Đây là hệ mới đầu tiên sau hơn mười hai năm."
+      },
+      "image_prompt": "a delicate glowing pink star icon being added to the chart with a sparkle, close-up, soft magical light",
+      "on_screen_text": "2013: +Tiên = 18"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Phát minh của hệ Tiên: miễn nhiễm hoàn toàn với chiêu Rồng, và đánh Rồng gấp đôi. Kẻ thống trị lần đầu gặp khắc tinh thật sự."
+      },
+      "image_prompt": "a small sparkling fairy silhouette standing unharmed as a dragon's breath passes around it, wide shot, pink and gold light",
+      "on_screen_text": "Tiên: miễn nhiễm Rồng",
+      "video_prompt": "the dragon's breath curls around the small sparkling silhouette as pink light grows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Để Tiên không trở thành hệ quá mạnh tiếp theo, nó yếu trước Độc và Thép. Hai hệ vốn ít được dùng để tấn công bỗng có giá trị hơn."
+      },
+      "image_prompt": "a fairy icon with two arrows pointing at it from a skull icon and a gear icon, parchment diagram, balanced composition",
+      "on_screen_text": "Tiên yếu trước Độc và Thép"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Nhiều sinh vật mang hình dáng dễ thương hay mang yếu tố thần tiên được xếp lại vào hệ mới. Có những sinh vật Siêu linh được thêm hệ Tiên và bỗng trở thành khắc tinh của Rồng."
+      },
+      "image_prompt": "a graceful psychic silhouette gaining a new sparkling badge, a surprised dragon silhouette stepping back, wide shot, pink and violet light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Một số sinh vật cũ còn được đổi hệ sang Tiên. Những sinh vật bao nhiêu năm là hệ Thường bỗng có danh tính mới."
+      },
+      "image_prompt": "an old identity card being restamped with a new sparkling badge, close-up, warm lamplight",
+      "on_screen_text": "Đổi hệ cho sinh vật cũ"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Và hệ Thép bị giảm nhẹ: mất khả năng chống chịu chiêu Ma và Bóng tối. Mười hai năm làm bức tường, giờ tường cũng phải có vài cửa sổ."
+      },
+      "image_prompt": "a steel wall with two small new windows cut into it, a ghost wisp and a crescent moon peeking through, humorous illustration",
+      "on_screen_text": "Thép bị giảm nhẹ"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Thời kỳ gần nhất không thêm hệ, nhưng cho phép một điều trước đây không thể: đổi hệ ngay giữa trận đấu. Cơ chế này có tên là Terastal."
+      },
+      "image_prompt": "a creature silhouette encased in a glowing crystal shell, a new elemental crown floating above its head, dramatic close-up, prismatic light",
+      "chapter": "Thời kỳ 5 (2022): đổi hệ ngay trong trận",
+      "on_screen_text": "Phát minh 5: đổi hệ giữa trận",
+      "video_prompt": "the crystal shell forms around the creature and the elemental crown lights up above",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Về sau còn có một hệ Tera đặc biệt tên là Tinh tú, xuất hiện trong phần mở rộng. Kaku ghi cần kiểm lại cho chi tiết này."
+      },
+      "image_prompt": "a prismatic star-shaped crystal glowing with all colors at once, extreme close-up, rainbow light",
+      "on_screen_text": "Hệ Tera Tinh tú"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Mỗi sinh vật có một hệ Tera riêng. Khi kích hoạt, nó mang hệ đó, bất kể hệ gốc là gì. Một sinh vật hệ Lửa có thể bỗng trở thành hệ Nước."
+      },
+      "image_prompt": "a fire-themed silhouette cracking into a crystal form with water drop symbols glowing inside, sequential illustration, close-up",
+      "on_screen_text": "Lửa hóa Nước"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Nghĩa là bảng tương khắc giờ có thêm một lớp đoán ý đối thủ. Bạn không chỉ nhìn hệ trước mặt, mà phải đoán hệ nó sẽ trở thành."
+      },
+      "image_prompt": "two players across a table, one holding a hidden card close to the chest, the other studying them intently, medium shot, tense warm light",
+      "on_screen_text": "Thêm lớp đoán ý"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Nhưng nhìn theo lịch sử, Terastal vẫn theo đúng nguyên tắc cũ: không bỏ bảng tương khắc, mà thêm công cụ để người chơi xoay chuyển nó."
+      },
+      "image_prompt": "an old chart pinned on the wall with a new crystal tool hanging beside it on a hook, close-up, warm light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku phải nói thật: cơ chế này khiến nhiều người chơi lâu năm vừa thích vừa đau đầu. Ba mươi năm học thuộc bảng, giờ bảng lại biết đổi mặt."
+      },
+      "image_prompt": "the owl mascot staring at a chart where the icons keep changing places, holding its head",
+      "use_mascot": true
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Có cả những trận mà nhân vật chính thắng bằng cách đảo ngược bảng tương khắc: dùng điểm yếu của mình làm điểm mạnh, hoặc dùng địa hình chiến đấu để bù lại bất lợi."
+      },
+      "image_prompt": "a small creature using a river in the arena to redirect an attack, clever tactical diagram overlay, wide shot, bright light",
+      "chapter": "Anime và trò chơi: hai luật khác nhau"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Còn trong anime thì sao? Anime Pokémon dùng bảng tương khắc lỏng hơn nhiều. Một sinh vật hệ Điện có thể thắng hệ Đất nhờ ý chí, chiến thuật, hoặc đơn giản vì nó là nhân vật chính."
+      },
+      "image_prompt": "a small determined electric creature silhouette standing victorious in front of a large collapsed rock-like opponent, dramatic arena light, wide shot",
+      "on_screen_text": "Anime: ý chí > bảng"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku nghĩ đây là lựa chọn có chủ đích. Trò chơi cần luật chặt để công bằng. Phim thì cần kịch tính, và kịch tính đến từ việc vượt qua lợi thế."
+      },
+      "image_prompt": "a split image: a neat rulebook on one side, a dramatic comeback moment on the other, symmetrical composition, warm and cool light",
+      "on_screen_text": "Game cần công bằng, phim cần kịch tính"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku để ý thấy những trận hay nhất trong anime thường là trận mà bảng tương khắc bất lợi cho nhân vật chính. Phim dùng bảng để tạo khó khăn, rồi dùng tình bạn để vượt qua."
+      },
+      "image_prompt": "a young trainer and a small creature standing together against a much larger opponent, backlit by stadium lights, low-angle shot, inspiring light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nhưng anime vẫn dùng bảng làm nền. Khi nhân vật chính đổi sinh vật đúng hệ để thắng, người xem thấy mình hiểu và cổ vũ theo."
+      },
+      "image_prompt": "a young trainer silhouette pointing forward confidently, a type chart faintly glowing in the sky above the arena, low-angle shot, bright light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Và ba mươi năm qua, cậu bé Satoshi cùng chú chuột điện của mình đã dạy cả một thế hệ thuộc lòng bảng tương khắc mà không cần sách giáo khoa."
+      },
+      "image_prompt": "a vintage television in a living room glowing with a bright cartoon scene, children sitting on the floor watching, back view, nostalgic warm light",
+      "on_screen_text": "Cả một thế hệ thuộc bảng"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hầu hết hệ thống sức mạnh trong anime được viết một lần rồi giữ nguyên. Bảng tương khắc Pokémon thì khác: nó là một hệ thống sống, được sửa đi sửa lại suốt ba mươi năm."
+      },
+      "image_prompt": "a living tree whose branches are shaped like a growing type chart, new leaves sprouting at the edges, wide shot, warm light",
+      "chapter": "Góc nhìn của Kaku: một hệ thống sống",
+      "on_screen_text": "Một hệ thống sống"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Và mỗi thời kỳ đều để lại những hệ từng mạnh rồi yếu, từng bị quên rồi được nhớ lại. Côn trùng từng vô dụng, giờ có nhiều chiêu đáng dùng. Độc từng bị coi thường, giờ là khắc tinh của Tiên."
+      },
+      "image_prompt": "a wheel of elemental icons slowly rotating, some rising into light and others dipping into shadow, parchment illustration, warm light",
+      "on_screen_text": "Mạnh rồi yếu, quên rồi nhớ"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Mỗi lần sửa đều theo một nguyên tắc giống nhau: khi một hệ quá mạnh, không cấm nó, mà thêm khắc tinh. Siêu linh có Bóng tối, Rồng có Tiên."
+      },
+      "image_prompt": "two pairs of icons facing each other: an eye versus a crescent moon, a dragon head versus a sparkling star, parchment diagram",
+      "on_screen_text": "Quá mạnh → thêm khắc tinh"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku thấy đây là cách cân bằng rất đáng học, không chỉ trong trò chơi. Khi một thứ trở nên quá áp đảo, đôi khi giải pháp tốt nhất là tạo thêm lựa chọn, chứ không phải cấm đoán."
+      },
+      "image_prompt": "a crowded single-lane road turning into a multi-lane road with new paths opening, top-down diagram, amber ink"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kaku để một gợi ý: hãy nhìn xem hệ nào xuất hiện nhiều nhất trong các đội thi đấu hiện nay. Lịch sử cho thấy đó thường là ứng viên tiếp theo cần một khắc tinh."
+      },
+      "image_prompt": "a pie chart on parchment with one slice much larger than the others, a small question mark beside it, top-down shot, amber ink"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Kaku thì chỉ mong có một hệ Cú. Mạnh trước Côn trùng, yếu trước… bài kiểm tra buổi sáng."
+      },
+      "image_prompt": "the owl mascot sketching a tiny owl-shaped type icon in the empty nineteenth slot, grinning",
+      "use_mascot": true
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Theo bạn, hệ nào hiện đang quá mạnh và cần một khắc tinh mới? Và nếu được đặt tên hệ thứ mười chín, bạn chọn gì? Kaku đoán sẽ có người đề xuất hệ Ánh sáng."
+      },
+      "image_prompt": "an empty nineteenth slot at the edge of the type chart with a question mark and a pencil beside it, close-up, inviting light",
+      "on_screen_text": "Hệ thứ 19?"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku thu gọn ba mươi năm vào một đường thời gian."
+      },
+      "image_prompt": "the owl mascot unrolling a long timeline banner across a table, markers at five points",
+      "chapter": "Đường thời gian thu gọn",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Năm 1996: mười lăm hệ và ý tưởng bảng tương khắc. Siêu linh thống trị vì lỗi hệ Ma và chiêu Côn trùng quá yếu."
+      },
+      "image_prompt": "the first marker on the timeline with an eye icon and a small bug symbol, close-up, amber ink",
+      "on_screen_text": "1996 · 15 hệ"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Năm 2002: đặc tính, những ngoại lệ gắn với từng sinh vật."
+      },
+      "image_prompt": "a small marker on the timeline with a passive ability icon between the 1999 and 2006 markers, close-up",
+      "on_screen_text": "2002 · Đặc tính"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Năm 1999: thêm Bóng tối và Thép, sửa lỗi hệ Ma, tách chỉ số Đặc biệt. Năm 2006: tách chiêu vật lý và đặc biệt."
+      },
+      "image_prompt": "the second and third markers with a crescent moon, a gear and a split stat icon, close-up",
+      "on_screen_text": "1999 · 2006"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Năm 2013: thêm hệ Tiên để khắc chế Rồng. Năm 2022: đổi hệ ngay trong trận. Và năm 2026: Pokémon tròn ba mươi tuổi."
+      },
+      "image_prompt": "the last markers with a sparkling star, a crystal icon and a small birthday cake, close-up, warm light",
+      "on_screen_text": "2013 · 2022 · 2026"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Và có lẽ đó là lý do Pokémon sống được ba mươi năm: mỗi lần người chơi tìm ra cách phá, trò chơi lại tìm ra cách cân bằng. Hai bên cùng lớn lên."
+      },
+      "image_prompt": "a grown-up player and a child sitting side by side playing handheld games on a couch, warm evening light, medium shot",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Từ mười lăm lên mười tám hệ, ba mươi năm của bảng tương khắc là câu chuyện về việc sửa sai, cân bằng và mở rộng. Một hệ thống sức mạnh không cần hoàn hảo ngay từ đầu, miễn là nó biết lắng nghe."
+      },
+      "image_prompt": "a big hand-drawn type chart on parchment, covered with notes from many different pens and eras, wide shot, warm nostalgic light"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một phiên tòa. Bị cáo là Eren Yeager. Kaku sẽ trình bày cáo trạng, lời bào chữa và các nhân chứng, còn phán quyết là của bạn."
+      },
+      "image_prompt": "an empty wooden courtroom with a single spotlight on the defendant's chair, a gavel resting on the judge's bench, wide shot, dramatic light",
+      "on_screen_text": "Tiếp theo: Phiên tòa Eren"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nếu bạn lớn lên cùng bảng tương khắc này, hãy đăng ký kênh và chia sẻ video cho người bạn từng đấu với bạn hồi nhỏ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot waving goodbye beside an old handheld console and a tiny birthday cake",
+      "use_mascot": true
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "title": "Phiên tòa: Eren Yeager — có tội hay không?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler toàn bộ Attack on Titan, bao gồm cả cái kết của manga và anime. Nếu bạn chưa xem hết, hãy lưu video lại."
+      },
+      "image_prompt": "an empty old courtroom with tall windows, dust in the light beams, a closed notebook resting on the clerk's desk, wide establishing shot, cold daylight",
+      "chapter": "Khai mạc phiên tòa",
+      "on_screen_text": "Cảnh báo spoiler toàn bộ"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Bị cáo: Eren Yeager. Tội danh: gây ra Địa minh, cuộc hành quân của những người khổng lồ đã xóa sổ khoảng tám mươi phần trăm nhân loại bên ngoài đảo Paradis."
+      },
+      "image_prompt": "a lone empty defendant's chair under a single spotlight in a dark courtroom, a thick case file on the table beside it, dramatic medium shot",
+      "on_screen_text": "Bị cáo: Eren Yeager",
+      "video_prompt": "slow push-in on the empty defendant's chair as dust drifts through the spotlight",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Đây là một trong những nhân vật gây tranh cãi nhất lịch sử anime. Có người gọi cậu là quỷ dữ. Có người gọi cậu là người hi sinh tất cả vì bạn bè. Có người không biết gọi cậu là gì."
+      },
+      "image_prompt": "a split crowd in a public gallery, some people raising angry fists, others looking down in sorrow, others confused, wide shot, dramatic light",
+      "on_screen_text": "Quỷ dữ? Người hi sinh?"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku không phải thẩm phán. Kaku là thư ký tòa: đọc cáo trạng, ghi lời bào chữa, gọi nhân chứng. Mọi nhân chứng đều là chi tiết có thật trong truyện."
+      },
+      "image_prompt": "the owl mascot seated at a clerk's desk with a quill pen and a small stack of case files, serious expression, warm lamplight",
+      "use_mascot": true
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Vì sao lại là một phiên tòa? Vì với một nhân vật như Eren, xếp hạng hay giải thích sức mạnh đều không đủ. Câu hỏi thật sự mà người xem vẫn tranh cãi là: cậu có đáng bị kết tội không?"
+      },
+      "image_prompt": "a courthouse facade at dawn with a crowd gathering on the steps, some holding signs, wide shot, cool morning light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Còn phán quyết? Phán quyết thuộc về bạn. Bạn là bồi thẩm của phiên tòa này, và cuối video Kaku sẽ mời bạn bỏ phiếu."
+      },
+      "image_prompt": "a row of empty jury chairs facing the viewer, each with a small ballot card on the seat, wide shot, soft light",
+      "on_screen_text": "Bạn là bồi thẩm"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Một lưu ý trước khi bắt đầu: phiên tòa này là để hiểu một nhân vật hư cấu, không phải để cổ vũ hay biện minh cho bạo lực ngoài đời."
+      },
+      "image_prompt": "a small printed notice pinned on the courtroom door, close-up, neutral light"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Eren lớn lên trong những bức tường khổng lồ bao quanh một thị trấn nhỏ. Người dân tin rằng bên ngoài chỉ có những người khổng lồ ăn thịt người."
+      },
+      "image_prompt": "three gigantic concentric stone walls surrounding a small medieval town seen from high above, wide aerial shot, soft morning mist",
+      "chapter": "Hồ sơ bị cáo",
+      "on_screen_text": "Lớn lên trong tường thành"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Cậu gia nhập Trinh sát đoàn, đơn vị duy nhất dám ra ngoài tường thành. Với Eren, bầu trời bên ngoài tượng trưng cho một thứ duy nhất: tự do."
+      },
+      "image_prompt": "a squad of riders on horseback charging out through a massive gate into open fields, cloaks with wing emblems fluttering, wide shot, bright sky",
+      "on_screen_text": "Trinh sát đoàn · tự do"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Hình ảnh cánh chim xuất hiện suốt bộ truyện. Eren luôn nhìn lên những con chim bay qua tường và tự hỏi vì sao con người lại phải sống như gia súc trong chuồng."
+      },
+      "image_prompt": "a flock of birds flying over a towering stone wall at sunset, a small boy silhouette looking up from below, wide shot, warm golden light",
+      "on_screen_text": "Cánh chim trên tường thành"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Năm mười tuổi, cậu tận mắt chứng kiến mẹ mình bị một người khổng lồ giết khi bức tường bị phá. Cậu thề sẽ tiêu diệt toàn bộ bọn chúng."
+      },
+      "image_prompt": "a small boy being carried away by an adult, reaching back toward a collapsed house engulfed in dust, wide shot, dramatic grey light",
+      "on_screen_text": "Lời thề năm 10 tuổi"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Về sau, cậu phát hiện mình có thể biến thành người khổng lồ. Rồi phát hiện sự thật lớn hơn: người trên đảo là tộc Eldia, và thế giới bên ngoài coi họ là quỷ."
+      },
+      "image_prompt": "a young man standing at the edge of a wall looking out at a distant sea for the first time, back view, wide shot, bright but uneasy light",
+      "on_screen_text": "Thế giới coi họ là quỷ"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Bên kia biển, quốc gia Marley nhốt người Eldia trong khu cách ly, buộc họ đeo băng tay đánh dấu, và biến trẻ em Eldia thành chiến binh khổng lồ."
+      },
+      "image_prompt": "a fenced internment district in a grey city, residents wearing armbands on their sleeves, guards at the gate, wide shot, cold overcast light",
+      "on_screen_text": "Khu cách ly · băng tay"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Và thế giới đã có kế hoạch cho hòn đảo: không phải hòa bình, mà là tiêu diệt. Eren biết điều đó khi chạm vào ký ức của những người khổng lồ trước."
+      },
+      "image_prompt": "a map of an island with ominous red arrows from warships converging on it, parchment style, crimson ink",
+      "on_screen_text": "Thế giới muốn xóa hòn đảo"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Kaku ghi thêm: bí mật về thế giới bên ngoài nằm trong tầng hầm nhà Eren, nơi cha cậu để lại những cuốn sổ. Mười một năm đi tìm, cuối cùng câu trả lời là: kẻ thù không phải quái vật, mà là cả thế giới."
+      },
+      "image_prompt": "a dusty basement with a single desk and three old notebooks under a beam of light, close-up, dramatic light",
+      "on_screen_text": "Tầng hầm và ba cuốn sổ"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Cậu nắm trong tay hai sức mạnh: Người khổng lồ Tiến công, có thể thấy ký ức của cả những người kế thừa trong tương lai, và Người khổng lồ Thủy tổ, có thể điều khiển mọi người khổng lồ."
+      },
+      "image_prompt": "two glowing symbols floating above an open hand: an eye looking forward in time and a crown-like sigil, close-up, dramatic light",
+      "on_screen_text": "Tiến công · Thủy tổ"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku ghi vào hồ sơ: bị cáo không phải là một kẻ sinh ra đã ác. Nhưng hồ sơ không quyết định bản án. Hành động mới quyết định."
+      },
+      "image_prompt": "the owl mascot stamping a small seal on the defendant's file, thoughtful expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Công tố viên xin trình bày. Tội danh thứ nhất: cuộc tấn công ở Liberio. Giữa một lễ hội ở thành phố của Marley, Eren biến thành người khổng lồ và tấn công."
+      },
+      "image_prompt": "a festival stage in a crowded city square collapsing as a massive shadow rises behind it, wide shot, chaotic red light",
+      "chapter": "Cáo trạng",
+      "on_screen_text": "Tội danh 1: Liberio"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Eren còn tấn công ngay khi Marley vừa tuyên chiến với hòn đảo trước toàn thế giới. Công tố nói: đó là trả đũa nhắm vào cả một thành phố. Bào chữa sẽ nói: đó là ra tay trước khi bị tiêu diệt."
+      },
+      "image_prompt": "a grand stage with national flags and a speaker at a podium addressing foreign diplomats, a massive shadow looming behind the backdrop, wide shot, tense light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Mục tiêu là giới lãnh đạo quân sự và các chiến binh khổng lồ của Marley. Nhưng trong cuộc tấn công, rất nhiều thường dân, kể cả người Eldia trong khu cách ly, đã chết."
+      },
+      "image_prompt": "a scattered festival banner lying in rubble on a quiet street after the attack, extreme close-up, somber grey light",
+      "on_screen_text": "Thường dân thiệt mạng"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Trước khi bắt đầu, Eren dùng sức mạnh Thủy tổ nói thẳng vào tâm trí mọi người Eldia: cậu sẽ giẫm nát mọi vùng đất bên ngoài, cho tới khi không còn gì để giẫm."
+      },
+      "image_prompt": "thousands of people in different places all stopping at the same moment and looking up at an empty sky, wide shot, eerie pale light",
+      "on_screen_text": "Lời tuyên bố"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Tội danh thứ hai, nghiêm trọng nhất: Địa minh. Eren dùng sức mạnh Thủy tổ đánh thức hàng triệu người khổng lồ trong tường thành và cho chúng giẫm nát thế giới bên ngoài."
+      },
+      "image_prompt": "an endless line of colossal silhouettes marching across a plain toward the horizon, dust rising to the sky, wide epic shot, ominous orange light",
+      "on_screen_text": "Tội danh 2: Địa minh",
+      "video_prompt": "the endless line of colossal silhouettes marches forward as dust rises to the sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Theo truyện, khoảng tám mươi phần trăm nhân loại đã chết trước khi Địa minh bị chặn lại. Công tố nhấn mạnh: đây không phải phòng vệ. Đây là tiêu diệt."
+      },
+      "image_prompt": "a world map on parchment with most of its land shaded dark and only a few small areas left light, top-down shot, crimson and navy ink",
+      "on_screen_text": "Khoảng 80% nhân loại"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Zeke, anh trai cùng cha, có một kế hoạch khác: dùng sức mạnh Thủy tổ khiến người Eldia không thể sinh con nữa, để cả dân tộc biến mất trong hòa bình. Eren giả vờ đồng ý, rồi phản bội kế hoạch đó."
+      },
+      "image_prompt": "two brothers standing on a vast glowing sandy plain under a starry sky, one reaching out his hand, the other turning away, wide shot, surreal light",
+      "on_screen_text": "Kế hoạch của Zeke"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Tội danh thứ ba: thao túng. Eren giấu kế hoạch với chính những người đồng đội, lợi dụng anh trai Zeke, và đẩy mọi người vào những lựa chọn mà họ không được biết trước."
+      },
+      "image_prompt": "a chess board where several pieces are tied by faint strings to a hand above the board, close-up, cold light",
+      "on_screen_text": "Tội danh 3: thao túng"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Tội danh thứ tư gây tranh cãi nhất. Trong chương cuối, truyện hé lộ Eren đã tác động tới quá khứ qua sức mạnh nhìn ký ức, góp phần vào chính những bi kịch trong gia đình mình, kể cả cái chết của mẹ."
+      },
+      "image_prompt": "a boy looking at a shattered family photograph on the floor, faint glowing threads running from it into the past, close-up, melancholic light",
+      "on_screen_text": "Tội danh 4: tác động tới quá khứ"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Công tố kết luận phần cáo trạng: dù hoàn cảnh ra sao, không có lý do nào biện minh cho việc giết phần lớn nhân loại."
+      },
+      "image_prompt": "a gavel resting firmly on a thick stack of documents, extreme close-up, stark light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Luật sư bào chữa xin trình bày. Trước hết, hãy nhìn vào hoàn cảnh. Người Eldia bị áp bức suốt hàng chục năm, bị coi là quỷ chỉ vì dòng máu."
+      },
+      "image_prompt": "an old generation of armband-wearing families behind a fence looking through the wire at a free city, medium shot, grey light",
+      "chapter": "Lời bào chữa",
+      "on_screen_text": "Hoàn cảnh: bị áp bức"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Thế giới bên ngoài không chỉ ghét hòn đảo. Họ đang chuẩn bị tấn công nó. Với Eren, nếu không làm gì, những người cậu yêu thương chắc chắn sẽ chết."
+      },
+      "image_prompt": "a fleet of warships gathering on a stormy sea at night, distant island lights on the horizon, wide shot, cold blue light",
+      "on_screen_text": "Không làm gì = mọi người chết"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Bào chữa cũng chỉ ra: lựa chọn còn lại mà Eren có là kế hoạch của Zeke, để chính dân tộc mình tự biến mất. Với Eren, đó không phải hòa bình mà là đầu hàng."
+      },
+      "image_prompt": "an empty cradle in a quiet sunlit room, dust floating in the air, close-up, melancholic light",
+      "on_screen_text": "Lựa chọn khác: biến mất"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Thứ hai, sức mạnh Tiến công cho Eren thấy ký ức của tương lai. Cậu nói rằng tương lai ấy như đã được định sẵn. Câu hỏi đặt ra là: cậu có thật sự được tự do lựa chọn không?"
+      },
+      "image_prompt": "a young man standing on a single narrow path carved into stone with walls on either side stretching into the distance, wide shot, dim light",
+      "on_screen_text": "Tương lai đã định sẵn?"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Không còn người khổng lồ, người Eldia không còn bị coi là mối đe dọa sinh học. Bào chữa lập luận: đây là điều mà không một cuộc đàm phán nào trước đó làm được."
+      },
+      "image_prompt": "a child with an armband slowly taking it off and letting it fall to the ground, close-up, soft hopeful light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Thứ ba, kết quả cuối cùng của câu chuyện: sức mạnh người khổng lồ biến mất vĩnh viễn. Lời nguyền kéo dài hai nghìn năm chấm dứt."
+      },
+      "image_prompt": "a massive ancient tree of light slowly fading away above a quiet hill, wide shot, soft dawn light",
+      "on_screen_text": "Lời nguyền 2.000 năm chấm dứt"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Và thứ tư: Eren đã chủ động để chính bạn bè mình chặn cậu lại. Bằng cách trở thành kẻ thù chung, cậu biến những người bạn thành anh hùng cứu thế giới, những người mà thế giới sẽ khó lòng căm ghét."
+      },
+      "image_prompt": "a group of young silhouettes standing together on a hill at sunset, facing a distant colossal shadow, wide shot, warm and cold contrast",
+      "on_screen_text": "Biến bạn bè thành anh hùng"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Bào chữa kết luận: Eren là sản phẩm của một vòng thù hận mà cậu không tạo ra. Cậu đã chọn một con đường khủng khiếp, nhưng trong một thế giới chỉ cho cậu những con đường khủng khiếp."
+      },
+      "image_prompt": "a circular path carved into stone with no exits, a lone figure walking along it, top-down shot, grey light",
+      "on_screen_text": "Sản phẩm của vòng thù hận"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku ghi chép lại mà không bình luận. Việc của thư ký là ghi đủ, không ghi thiên."
+      },
+      "image_prompt": "the owl mascot writing carefully in a ledger, both columns filling evenly",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Tòa mời nhân chứng thứ nhất: Reiner Braun, chiến binh Marley từng phá bức tường năm Eren mười tuổi."
+      },
+      "image_prompt": "a tired broad-shouldered man in a military uniform standing in a witness box, hands trembling, medium shot, dim light",
+      "chapter": "Nhân chứng 1: Reiner",
+      "on_screen_text": "Nhân chứng 1: Reiner"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Trước cuộc tấn công Liberio, Eren gặp Reiner trong một tầng hầm. Và Eren nói một câu mà nhiều người nhớ mãi: Tôi cũng giống anh."
+      },
+      "image_prompt": "two men sitting across from each other in a dim basement, one leaning forward calmly, the other shaking, medium shot, single lamp light",
+      "on_screen_text": "\"Tôi cũng giống anh\""
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Ý của Eren: Reiner từng phá tường, giết người trên đảo, vì tin mình đang cứu thế giới khỏi quỷ. Giờ Eren sắp làm điều tương tự với thế giới của Reiner, vì cùng một lý do."
+      },
+      "image_prompt": "two mirrored scenes side by side: a wall collapsing on one island, a city stage collapsing in another country, symmetrical composition, grey and red light",
+      "on_screen_text": "Hai phía, cùng một lý do"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Về sau, chính Reiner cũng chiến đấu để ngăn Địa minh, cùng những người từng là kẻ thù của anh. Một người từng phá tường giờ đứng chắn trước bức tường người khổng lồ."
+      },
+      "image_prompt": "a tired soldier standing shoulder to shoulder with former enemies on a hill, facing a distant cloud of dust, wide shot, dusk light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Lời khai này có lợi cho ai? Bào chữa nói nó cho thấy Eren hiểu vòng thù hận. Công tố nói: hiểu mà vẫn làm, thì càng đáng trách."
+      },
+      "image_prompt": "a balance scale with the same small object placed first on one side, then the other, parchment illustration, close-up",
+      "on_screen_text": "Có lợi cho ai?"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Nhân chứng thứ hai: Gabi Braun, cô bé người Eldia ở Marley, được dạy từ nhỏ rằng người trên đảo là quỷ."
+      },
+      "image_prompt": "a young girl in a soldier's uniform with an armband standing on a crate to see over the witness box, determined face, medium shot",
+      "chapter": "Nhân chứng 2: Gabi",
+      "on_screen_text": "Nhân chứng 2: Gabi"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Người bạn Falco của Gabi thì từ đầu đã không muốn thù hận. Cậu bé chỉ muốn Gabi được sống. Hai đứa trẻ này là hình ảnh ngược lại với Eren và những người bạn của cậu."
+      },
+      "image_prompt": "two children sitting on a fallen log in a forest, one offering the other a piece of bread, medium shot, soft dappled light",
+      "on_screen_text": "Falco"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Sau cuộc tấn công, Gabi lên đảo trả thù. Cô gây ra cái chết của Sasha, một người bạn của Eren. Nhưng rồi cô sống giữa những người mà cô từng gọi là quỷ, và nhận ra họ cũng là con người."
+      },
+      "image_prompt": "a young girl sitting at a farmhouse dinner table with a family who welcomes her, her expression shifting from anger to confusion, medium shot, warm light",
+      "on_screen_text": "Từ thù hận → thấu hiểu"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Công tố dùng nhân chứng này làm bằng chứng quan trọng: vòng thù hận có thể bị phá vỡ bằng sự thấu hiểu, không cần tới việc tiêu diệt. Gabi làm được, sao Eren lại không chọn con đường đó?"
+      },
+      "image_prompt": "a broken chain on a table next to two small hands clasped together, close-up, soft warm light",
+      "on_screen_text": "Vòng thù hận có thể phá"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku ghi nhận: đây là một trong những cuộc tranh luận hay nhất của phiên tòa. Cả hai bên đều dùng cùng một nhân chứng, và cả hai đều có lý."
+      },
+      "image_prompt": "the owl mascot looking back and forth between two lawyers pointing at the same witness",
+      "use_mascot": true
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Bào chữa phản biện: một cô bé thay đổi không có nghĩa là cả thế giới thay đổi kịp, khi chiến hạm đã ở ngoài khơi."
+      },
+      "image_prompt": "a single small candle burning on a windowsill while a massive fleet sails past in the dark sea outside, wide shot, cold and warm contrast"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Nhân chứng thứ ba: Armin Arlert, bạn thân nhất của Eren từ thuở nhỏ, người từng cùng cậu mơ về biển cả bên ngoài bức tường."
+      },
+      "image_prompt": "two young boys sitting on a stone step reading a book about the ocean together, back view, warm afternoon light",
+      "chapter": "Nhân chứng 3: Armin",
+      "on_screen_text": "Nhân chứng 3: Armin"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Trong cuộc trò chuyện cuối cùng ở một không gian ngoài thời gian, Eren thừa nhận một điều rất con người: một phần trong cậu đã muốn làm điều đó, muốn san phẳng tất cả."
+      },
+      "image_prompt": "two young men sitting on a sandy beach at the edge of a strange glowing endless space, one looking down, medium shot, surreal soft light",
+      "on_screen_text": "\"Một phần trong tôi đã muốn\"",
+      "video_prompt": "waves gently wash the strange beach as light shimmers across the endless space",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Armin là người đã chiến đấu để ngăn bạn mình. Nhưng cậu cũng là người duy nhất nghe Eren nói thật lòng, và cậu không quay lưng lại với bạn trong giây phút cuối."
+      },
+      "image_prompt": "two young men sitting side by side on the sand, one gently resting his head against the other's shoulder, back view, soft glowing light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nhưng cậu cũng thừa nhận mình không muốn chết, muốn được sống bên bạn bè. Một thiếu niên sợ hãi đằng sau kẻ gây ra thảm họa."
+      },
+      "image_prompt": "a young man crying with his face in his hands, a friend's hand resting on his shoulder, close-up, soft melancholic light",
+      "on_screen_text": "Một thiếu niên sợ hãi"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Có một chi tiết thú vị cho bồi thẩm: một câu nói của Armin trong cuộc trò chuyện này ở manga từng gây tranh cãi dữ dội, và bản anime đã chỉnh lại lời thoại. Kaku ghi cần kiểm lại nguyên văn."
+      },
+      "image_prompt": "two versions of the same printed page side by side, one line highlighted differently on each, close-up, amber light",
+      "on_screen_text": "Lời khai bị chỉnh sửa"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Lời khai của Armin khó xếp vào bên nào. Nó cho thấy Eren vừa có lựa chọn, vừa bị dằn vặt bởi lựa chọn đó."
+      },
+      "image_prompt": "the owl mascot holding a witness statement up to the light, unable to decide which pile to put it in",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nhân chứng cuối cùng: Mikasa Ackerman, người luôn ở bên Eren từ nhỏ."
+      },
+      "image_prompt": "a young woman in a dark military jacket standing silently in the witness box, eyes lowered, medium shot, soft light",
+      "chapter": "Nhân chứng 4: Mikasa",
+      "on_screen_text": "Nhân chứng 4: Mikasa"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Chính Mikasa là người kết thúc Địa minh bằng một lựa chọn rất đau đớn: cô ngăn Eren lại bằng chính tay mình. Và theo truyện, lựa chọn đó giải phóng Ymir, người khởi đầu lời nguyền."
+      },
+      "image_prompt": "a lone figure standing on a vast battlefield at dusk, holding a small bundle wrapped in cloth, a colossal shadow collapsing behind, wide shot, bittersweet light",
+      "on_screen_text": "Lựa chọn của Mikasa",
+      "video_prompt": "wind moves across the battlefield as the colossal shadow slowly collapses behind the lone figure",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Truyện gợi ý rằng Ymir, người khổng lồ đầu tiên, đã bị trói buộc hai nghìn năm bởi một tình yêu dành cho kẻ đã đối xử tệ với mình. Mikasa thì khác: cô yêu nhưng vẫn chọn buông tay. Lựa chọn đó cắt đứt sợi xích."
+      },
+      "image_prompt": "a chain wrapped around an ancient tree snapping apart as a young woman lets go of a hand, symbolic composition, soft golden light",
+      "on_screen_text": "Yêu nhưng buông tay"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Kaku ghi chép mà tay hơi run. Trong cả phiên tòa, đây là lời khai khó ghi nhất."
+      },
+      "image_prompt": "the owl mascot pausing with the quill above the page, a single tear-shaped ink drop on the paper",
+      "use_mascot": true
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Lời khai của Mikasa không bằng lời, mà bằng hành động: cô yêu Eren, và vẫn chọn ngăn cậu lại. Với nhiều người, đó là phán quyết rõ nhất trong truyện."
+      },
+      "image_prompt": "a single white flower lying on a stone beneath a large tree on a hill, extreme close-up, gentle warm light",
+      "on_screen_text": "Yêu, và vẫn ngăn lại"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Nhưng hãy nhớ: truyện cũng cho thấy Eren đã biết trước và chờ đợi lựa chọn ấy. Đến cả khoảnh khắc bị ngăn lại cũng nằm trong kế hoạch của cậu."
+      },
+      "image_prompt": "a small hourglass with sand running out placed beside a folded letter, close-up, dim light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Công tố tổng kết. Bị cáo đã giết phần lớn nhân loại, trong đó có vô số người vô tội, trẻ em, những người chưa từng biết tới hòn đảo."
+      },
+      "image_prompt": "a vast empty landscape with silent ruined towns stretching to the horizon, wide shot, grey ash-colored sky",
+      "chapter": "Luận điểm cuối của công tố",
+      "on_screen_text": "Vô số người vô tội"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Công tố cũng lưu ý: nhiều người trong số những người chết không hề cầm vũ khí, không hề biết tới Paradis, và không liên quan gì tới quyết định của các chính phủ."
+      },
+      "image_prompt": "a quiet village marketplace far from any war, people buying bread and fruit, unaware of the dust cloud on the horizon, wide shot, warm then ominous light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Bị cáo có những lựa chọn khác. Gabi chứng minh sự thấu hiểu là có thể. Bị cáo thừa nhận một phần trong mình muốn làm điều đó."
+      },
+      "image_prompt": "three evidence folders laid on a table with small tags: a broken chain, a confession, a map, top-down shot, stark light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Công tố còn đặt câu hỏi: nếu Eren thấy trước tương lai, thì cậu cũng thấy trước con số. Biết trước mà vẫn làm là một lựa chọn, không phải số phận."
+      },
+      "image_prompt": "a hand holding a telescope looking at a distant catastrophe, the other hand not reaching for any brake lever, close-up, stark light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và kế hoạch biến bạn bè thành anh hùng không thay đổi được con số. Không có mục đích nào đủ lớn để biện minh cho tám mươi phần trăm."
+      },
+      "image_prompt": "a single large number 80 carved into a stone tablet in an empty hall, low-angle shot, cold light",
+      "on_screen_text": "Không mục đích nào đủ lớn"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Bào chữa tổng kết. Không ai phủ nhận thảm họa. Nhưng bị cáo sinh ra trong một thế giới đã chọn sẵn hòn đảo làm vật hi sinh."
+      },
+      "image_prompt": "a small island on a map surrounded by arrows from every direction, parchment illustration, crimson ink",
+      "chapter": "Luận điểm cuối của bào chữa",
+      "on_screen_text": "Thế giới đã chọn sẵn"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Bào chữa cũng nhắc: sau Địa minh, những người sống sót trên đảo và ngoài đảo lần đầu tiên phải ngồi lại với nhau. Một thế giới tan hoang, nhưng không còn sức mạnh nào để thù hận nhắm vào."
+      },
+      "image_prompt": "a small group of people from different sides sitting together around a campfire in a ruined landscape, medium shot, warm firelight"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Bị cáo thấy một tương lai mà cậu tin là không thể thay đổi. Cậu gánh lấy tội lỗi lớn nhất lịch sử, để kết thúc lời nguyền và để bạn bè mình được sống như những người anh hùng."
+      },
+      "image_prompt": "a lone figure carrying an enormous stone on his back up a hill while friends watch from a distance, wide shot, heavy dusk light",
+      "on_screen_text": "Gánh tội để người khác được sống"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Bào chữa không xin tòa gọi bị cáo là người tốt. Chỉ xin tòa hiểu rằng câu chuyện này không có lựa chọn nào sạch sẽ."
+      },
+      "image_prompt": "a pair of hands held out palms up, empty, in soft light, extreme close-up",
+      "on_screen_text": "Không có lựa chọn sạch sẽ"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Cái kết của Attack on Titan ra mắt năm 2021 ở manga và năm 2023 ở anime, và tới giờ vẫn chia rẽ người đọc. Có người thấy trọn vẹn, có người thấy hụt hẫng. Chính sự chia rẽ ấy là lý do phiên tòa này tồn tại."
+      },
+      "image_prompt": "a bookstore shelf with the final volume of a long series, two readers standing nearby with opposite expressions, medium shot, warm light",
+      "chapter": "Góc nhìn của Kaku: vì sao tác giả không tuyên án",
+      "on_screen_text": "Cái kết vẫn chia rẽ"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Kaku có một nhận xét cuối, không phải phán quyết. Tác giả Isayama không đưa ra câu trả lời rõ ràng. Ông để nhân vật của mình vừa đáng thương, vừa đáng sợ."
+      },
+      "image_prompt": "an unfinished manuscript page on a desk with the last panel left blank, a pen resting beside it, close-up, warm lamplight",
+      "on_screen_text": "Tác giả không tuyên án"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Tên truyện trong tiếng Nhật có thể hiểu là người khổng lồ tấn công. Nhưng đến cuối, câu hỏi thật sự là: ai mới là người tấn công, và ai là người bị tấn công?"
+      },
+      "image_prompt": "an old stone gate with its carved inscription half worn away, wind blowing leaves across it, close-up, grey light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Và có lẽ đó là chủ đích. Attack on Titan là câu chuyện về việc mỗi bên đều nghĩ mình đang chiến đấu cho tự do, và đều gọi bên kia là quỷ."
+      },
+      "image_prompt": "two armies facing each other across a river, each carrying banners with the same symbol of wings, wide shot, grey light",
+      "on_screen_text": "Ai cũng nghĩ mình chiến đấu cho tự do"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Nếu bạn thấy khó bỏ phiếu, đó là dấu hiệu bạn đã hiểu câu chuyện. Một phiên tòa dễ dàng thì không cần tới bồi thẩm."
+      },
+      "image_prompt": "the owl mascot sitting quietly with the quill pen put down, looking at the empty jury chairs",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Phương án A: có tội, không có tình tiết giảm nhẹ."
+      },
+      "image_prompt": "a ballot card with option A highlighted in crimson ink, close-up, stark light",
+      "chapter": "Bồi thẩm bỏ phiếu",
+      "on_screen_text": "A: Có tội"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Phương án B: có tội, nhưng có tình tiết giảm nhẹ vì hoàn cảnh và mục đích."
+      },
+      "image_prompt": "a ballot card with option B highlighted in amber ink, close-up, soft light",
+      "on_screen_text": "B: Có tội, có giảm nhẹ"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Phương án C: không thể phán xét theo luật thông thường, vì đây là một thế giới không có lựa chọn đúng."
+      },
+      "image_prompt": "a ballot card with option C highlighted in navy ink, close-up, cool light",
+      "on_screen_text": "C: Không thể phán xét"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Và nếu bạn chọn khác với số đông, đừng ngại. Một bồi thẩm tốt là người nói ra lý do của mình, không phải người đoán xem mọi người chọn gì."
+      },
+      "image_prompt": "a single raised hand in an otherwise still jury box, close-up, warm light"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Hãy bình luận chữ cái bạn chọn, kèm một câu lý do. Kaku sẽ đếm phiếu và công bố kết quả ở phần ghim bình luận."
+      },
+      "image_prompt": "a ballot box on the clerk's desk with small paper cards dropping into it, medium shot, warm lamplight",
+      "on_screen_text": "Bình luận A, B hay C"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Eren từng mơ được nhìn thấy biển. Cậu đã nhìn thấy nó, và rồi cậu chọn đi qua nó theo cách không ai có thể quên."
+      },
+      "image_prompt": "a young man standing alone on a beach facing a vast calm sea at sunset, waves reaching his feet, wide shot, bittersweet warm light",
+      "chapter": "Kết",
+      "video_prompt": "gentle waves roll in toward the lone figure as the sun sinks into the sea",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn đã đi cùng Kaku từ video đầu tiên về Nen, cảm ơn bạn rất nhiều. Ba mươi chín cuốn sổ đã mở, và Kaku còn rất nhiều cuốn nữa."
+      },
+      "image_prompt": "a tall stack of thirty-nine small notebooks on a desk with a thank-you note on top, close-up, warm lamplight",
+      "on_screen_text": "39 cuốn sổ"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video này khép lại chín mươi ngày đầu của kênh. Video tiếp theo mở đầu năm mới bằng một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng."
+      },
+      "image_prompt": "a calendar page turning to a new year with a small countdown circle drawn on it, close-up, fresh morning light",
+      "on_screen_text": "Tiếp theo: ôn tập Sakamoto Days"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu bạn thích dạng phiên tòa này và muốn Kaku xử thêm nhân vật khác, hãy đăng ký kênh và đề cử bị cáo tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing the court ledger and bowing politely toward the jury chairs",
+      "use_mascot": true
+    }
+  ]
+}

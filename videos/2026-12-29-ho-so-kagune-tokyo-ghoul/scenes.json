@@ -1,0 +1,714 @@
+{
+  "title": "Tokyo Ghoul: Hồ sơ 4 loại Kagune và vòng khắc chế",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Tokyo Ghoul tới hết anime mùa một, và nhắc ngắn vài khái niệm xuất hiện sau đó như Kakuja. Video không mô tả cảnh máu me chi tiết."
+      },
+      "image_prompt": "a dim archive room with rows of metal filing cabinets, a single desk lamp lighting a closed notebook, wide establishing shot, cold blue light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hồ sơ số ba mươi bảy. Loại tài liệu: vũ khí sinh học. Mức độ nguy hiểm: cao. Nguồn gốc: cơ thể của những sinh vật trông giống hệt con người."
+      },
+      "image_prompt": "a thick case file stamped with a red crest being slid across a steel desk, close-up, harsh overhead light",
+      "on_screen_text": "Hồ sơ số 37"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Trong Tokyo Ghoul, ngạ quỷ sống lẫn giữa người thường ở Tokyo. Họ đi học, đi làm, uống cà phê. Nhưng khi cần chiến đấu, một thứ vũ khí sống mọc ra từ chính cơ thể họ."
+      },
+      "image_prompt": "a quiet café with ordinary customers, one person's shadow on the wall showing strange flowing shapes rising from the back, medium shot, warm interior light",
+      "on_screen_text": "Ngạ quỷ giữa đời thường"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Thứ vũ khí đó gọi là Kagune. Và không phải Kagune nào cũng giống nhau. Có bốn loại, mỗi loại mọc ra từ một vị trí khác nhau trên cơ thể, với điểm mạnh và điểm yếu riêng."
+      },
+      "image_prompt": "four silhouettes standing in a row, each with a different abstract glowing shape emerging from a different part of the back, wide shot, crimson and navy light",
+      "on_screen_text": "4 loại Kagune"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Tokyo Ghoul là manga của tác giả Ishida Sui, ra mắt năm 2011 và được chuyển thể anime từ năm 2014. Nhân vật chính Kaneki Ken là một sinh viên mê đọc sách, cho tới một buổi hẹn làm thay đổi cả cuộc đời cậu."
+      },
+      "image_prompt": "a shy university student reading a novel on a park bench under autumn trees, a quiet city behind him, wide shot, soft golden light",
+      "on_screen_text": "Tokyo Ghoul (2011)"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Kaku phải nói trước: đây là một bộ truyện u tối. Kaku sẽ giữ video ở mức phân tích hệ thống, không đi vào những cảnh nặng nề."
+      },
+      "image_prompt": "the owl mascot pulling a small curtain over a dark corner of the notebook page, serious but gentle expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở tủ hồ sơ Kagune. Mỗi hồ sơ ghi theo cùng một thứ tự: tên, vị trí, hình dạng, điểm mạnh, điểm yếu, và một người mang nó."
+      },
+      "image_prompt": "the owl mascot wearing a tiny archivist's visor, pulling a folder out of a cabinet with great seriousness",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Cuối video là bảng khắc chế giữa bốn loại, giống như trò oẳn tù tì, và một mục lục để bạn tự đoán Kagune của nhân vật mới."
+      },
+      "image_prompt": "a circular diagram with four icons connected by arrows like a rock paper scissors cycle, parchment style, amber ink",
+      "on_screen_text": "Bảng khắc chế"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Trước khi mở hồ sơ, cần hiểu cơ thể ngạ quỷ. Họ giống người về ngoại hình, nhưng hệ tiêu hóa không nhận được thức ăn của người. Thứ duy nhất nuôi sống họ là thịt người."
+      },
+      "image_prompt": "a plate of ordinary food untouched on a table, a person sitting before it looking pale and unwell, medium shot, somber light",
+      "chapter": "Ngạ quỷ là ai",
+      "on_screen_text": "Không ăn được đồ ăn người"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Quán Anteiku trong truyện là nơi trú ẩn của những ngạ quỷ muốn sống yên ổn, không săn người. Họ giúp nhau tồn tại mà không gây hại, và Kaneki được đưa về đây khi không còn chỗ nào để đi."
+      },
+      "image_prompt": "a cozy old café with warm lamps and wooden furniture at night, a few quiet customers and a gentle elderly owner behind the counter, wide shot",
+      "on_screen_text": "Anteiku: nơi trú ẩn"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Có một ngoại lệ dễ thương hiếm hoi: cà phê. Ngạ quỷ uống được cà phê, nên quán cà phê trở thành nơi tụ họp của họ trong truyện."
+      },
+      "image_prompt": "a steaming cup of black coffee on a wooden café counter, warm soft light, extreme close-up",
+      "on_screen_text": "Ngoại lệ: cà phê"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Trong cơ thể họ có một loại tế bào đặc biệt gọi là tế bào RC, nhiều hơn người thường rất nhiều. Tế bào này giúp họ hồi phục vết thương cực nhanh."
+      },
+      "image_prompt": "a stylized microscope view of glowing red cells flowing like liquid, diagram style, crimson and navy",
+      "on_screen_text": "Tế bào RC"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Da của ngạ quỷ cứng tới mức dao kéo và đạn thường gần như không làm gì được. Vì vậy con người phải dùng tới vũ khí làm từ chính Kagune của ngạ quỷ."
+      },
+      "image_prompt": "a broken ordinary knife blade lying next to an unharmed hand, close-up, cold light",
+      "on_screen_text": "Dao thường vô dụng"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "CCG còn đặt những cổng kiểm tra ở một số nơi trong thành phố. Cổng đo lượng tế bào RC của người đi qua. Ngạ quỷ có lượng tế bào RC cao hơn người thường rất nhiều, nên cổng sẽ báo động."
+      },
+      "image_prompt": "a security gate at a subway entrance glowing red as a person walks through, alarm light flashing, medium shot, cold fluorescent light",
+      "on_screen_text": "Cổng đo tế bào RC"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Tức là trong thế giới này, một con số trong máu có thể quyết định bạn là công dân hay là con mồi."
+      },
+      "image_prompt": "a blood test result sheet with a single number highlighted in red, extreme close-up, harsh clinical light"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Tổ chức săn ngạ quỷ tên là CCG. Họ chế tạo vũ khí gọi là Quinque từ những cơ quan Kagune thu được. Nghĩa là con người chiến đấu với ngạ quỷ bằng chính một phần cơ thể của ngạ quỷ."
+      },
+      "image_prompt": "a metal briefcase opening to reveal a strange organic-looking weapon folded inside, medium shot, harsh clinical light",
+      "on_screen_text": "Quinque"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là thế giới mà ranh giới giữa kẻ săn và con mồi rất mờ. Và chính sự mờ nhạt đó là linh hồn của Tokyo Ghoul."
+      },
+      "image_prompt": "the owl mascot drawing a blurry line between two words on a chalkboard, looking thoughtful",
+      "use_mascot": true
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Tế bào RC được dự trữ trong một cơ quan gọi là Kakuhou. Khi chiến đấu, ngạ quỷ giải phóng tế bào từ cơ quan này. Chúng chảy ra như chất lỏng, rồi đông cứng lại thành vũ khí."
+      },
+      "image_prompt": "an anatomical silhouette with a glowing organ near the spine, streams of red liquid flowing out and hardening into solid shapes, diagram style",
+      "chapter": "Kagune hình thành thế nào",
+      "on_screen_text": "Kakuhou → Kagune"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Nhưng mỗi Kagune lại có hình dạng riêng, như vân tay. Hai người cùng loại Ukaku có thể có đôi cánh rất khác nhau về kích thước, màu sắc và cách tấn công."
+      },
+      "image_prompt": "two winged silhouettes side by side, one with small sharp crystal wings and one with wide flowing wings, comparison shot, crimson light",
+      "on_screen_text": "Như vân tay"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Vị trí của Kakuhou quyết định loại Kagune. Và mỗi ngạ quỷ sinh ra với một loại, không đổi được. Giống như nhóm máu."
+      },
+      "image_prompt": "a back silhouette with four marked zones: shoulders, shoulder blades, lower back and tailbone, each with a small label icon, parchment diagram",
+      "on_screen_text": "Vị trí quyết định loại"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Khi Kagune xuất hiện, mắt ngạ quỷ cũng đổi màu: lòng trắng chuyển đen, con ngươi chuyển đỏ. Đây là dấu hiệu dễ nhận biết nhất."
+      },
+      "image_prompt": "an extreme close-up of a stylized eye with a dark sclera and a glowing crimson iris, dramatic shadow",
+      "on_screen_text": "Đôi mắt đổi màu"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kagune rất mạnh, nhưng nó tiêu hao tế bào RC. Dùng càng nhiều, càng phải ăn để bù lại. Nghĩa là sức mạnh của ngạ quỷ luôn gắn với cơn đói."
+      },
+      "image_prompt": "an empty glass slowly draining of glowing red liquid, extreme close-up, cold light",
+      "on_screen_text": "Sức mạnh gắn với cơn đói"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Giờ ta mở bốn hồ sơ, theo thứ tự từ vai xuống tới đuôi."
+      },
+      "image_prompt": "four folders fanned out on a desk, each with a small icon: a feather, a shield, a tentacle, a tail, top-down shot, lamplight"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Hồ sơ số một: Ukaku, nghĩa là loại lông vũ. Vị trí: vùng vai. Hình dạng: như đôi cánh hoặc một chùm lông tỏa ra sau lưng."
+      },
+      "image_prompt": "a figure with glowing translucent feather-like wings spreading from the shoulders, silhouetted against a night sky, low-angle shot, crimson light",
+      "chapter": "Hồ sơ 1: Ukaku",
+      "on_screen_text": "Hồ sơ 1: Ukaku — vai",
+      "video_prompt": "the translucent wings unfold slowly as feathers of light drift in the night wind",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Điểm mạnh thứ nhất: tốc độ. Ukaku là loại nhanh nhất trong bốn loại."
+      },
+      "image_prompt": "a blurred figure dashing across rooftops leaving a trail of light feathers, dynamic wide shot, night city light",
+      "on_screen_text": "Điểm mạnh: nhanh nhất"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Điểm mạnh thứ hai: tấn công từ xa. Người dùng có thể bắn ra những mảnh tinh thể sắc như mưa đạn."
+      },
+      "image_prompt": "a rain of crystal shards fired from glowing wings toward a distant target, dynamic shot, crimson highlights",
+      "on_screen_text": "Bắn mảnh tinh thể",
+      "video_prompt": "the crystal shards fire forward in a sweeping rain toward the target",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Điểm yếu: sức bền kém. Ukaku tiêu tế bào RC rất nhanh, nên người dùng mệt nhanh. Họ phải thắng nhanh, hoặc không thắng được."
+      },
+      "image_prompt": "a figure kneeling and panting on a rooftop, wings flickering and fading, medium shot, cold light",
+      "on_screen_text": "Điểm yếu: mệt nhanh"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Em trai của cô, Ayato, cũng mang Ukaku. Hai chị em cùng một loại nhưng chọn hai con đường khác nhau: một người ở lại với quán cà phê, một người gia nhập nhóm ngạ quỷ hung bạo."
+      },
+      "image_prompt": "two young silhouettes with similar wings standing on opposite sides of a dark street, one near a warm café door, the other near a shadowy alley, wide shot",
+      "on_screen_text": "Cùng loại, khác đường"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Kaku thấy chi tiết này rất đúng tinh thần bộ truyện: Kagune quyết định cách bạn chiến đấu, không quyết định bạn là người thế nào."
+      },
+      "image_prompt": "two identical feather icons on a page with two very different paths drawn from them, parchment diagram, amber ink"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Người mang: Kirishima Touka, cô gái làm ở quán cà phê Anteiku. Cô chiến đấu nhanh, dữ dội, và thường muốn kết thúc trận đấu trước khi đối thủ kịp phản ứng."
+      },
+      "image_prompt": "a young woman silhouette in a café apron standing in a dark alley, faint glowing wings forming behind her shoulders, medium shot, dramatic light",
+      "on_screen_text": "Người mang: Touka"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Kaku ghi chú: nếu Kagune là môn thể thao, Ukaku chính là vận động viên chạy nước rút. Rất nhanh, rất đẹp, nhưng đừng bắt họ chạy marathon."
+      },
+      "image_prompt": "the owl mascot holding a stopwatch at a tiny running track, a feather icon sprinting past",
+      "use_mascot": true
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Hồ sơ số hai: Koukaku, nghĩa là loại giáp. Vị trí: ngay dưới xương bả vai. Hình dạng: cứng và nặng, như tấm khiên, lưỡi kiếm lớn hoặc mũi khoan."
+      },
+      "image_prompt": "a figure holding a massive armored organic blade that extends from below the shoulder blade, heavy stance, low-angle shot, crimson and steel light",
+      "chapter": "Hồ sơ 2: Koukaku",
+      "on_screen_text": "Hồ sơ 2: Koukaku — bả vai"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Điểm mạnh: phòng thủ tốt nhất. Kagune loại này cứng tới mức có thể dùng làm khiên, chặn gần như mọi đòn tấn công."
+      },
+      "image_prompt": "a large shield-like armored shape blocking a storm of crystal shards, sparks flying off its surface, dynamic close-up",
+      "on_screen_text": "Điểm mạnh: phòng thủ"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Điểm yếu: nặng và chậm. Mật độ tế bào dày khiến Kagune khó điều khiển nhanh. Người dùng thường chiến đấu như một pháo đài di động."
+      },
+      "image_prompt": "a slow heavy figure lumbering forward while a lighter opponent circles around, wide shot, dusk light",
+      "on_screen_text": "Điểm yếu: chậm"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Koukaku còn có thể đổi hình dạng trong trận: lúc thì dựng thành khiên, lúc thì xoắn lại thành mũi khoan. Người dùng giỏi biết khi nào nên thủ, khi nào nên đâm."
+      },
+      "image_prompt": "an armored organic shape shifting from a flat shield into a spiraling drill point, sequential illustration, crimson and steel",
+      "on_screen_text": "Khiên ↔ mũi khoan"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku mà có Koukaku thì chắc chỉ dùng làm ô che mưa. Mà ô nặng quá thì cũng thôi, Kaku ở nhà đọc sách."
+      },
+      "image_prompt": "the owl mascot struggling to hold up a heavy armored umbrella in the rain, comic expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Người mang: Tsukiyama Shuu, quý ông lịch lãm có sở thích ẩm thực kỳ quặc. Kagune của anh có dạng một lưỡi kiếm xoắn, vừa tấn công vừa phòng thủ."
+      },
+      "image_prompt": "an elegant man silhouette in a tailored suit holding a long spiraling organic blade, theatrical pose, spotlight lighting",
+      "on_screen_text": "Người mang: Tsukiyama"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Kaku ghi chú: Koukaku là thủ môn của đội. Chạy thì không nhanh, nhưng muốn qua mặt thì rất khó."
+      },
+      "image_prompt": "a small goalkeeper silhouette with an enormous shield standing in a goal, humorous illustration, parchment style"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Hồ sơ số ba: Rinkaku, nghĩa là loại vảy. Vị trí: vùng thắt lưng. Hình dạng: những xúc tu dài, mềm dẻo, có thể đâm, quật và quấn."
+      },
+      "image_prompt": "a silhouette with several long glowing tentacle-like shapes rising from the lower back, curling in the air, low-angle shot, crimson light",
+      "chapter": "Hồ sơ 3: Rinkaku",
+      "on_screen_text": "Hồ sơ 3: Rinkaku — thắt lưng",
+      "video_prompt": "the long tentacle-like shapes rise and curl in slow motion behind the silhouette",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Điểm mạnh thứ nhất: sức công phá. Mỗi xúc tu có thể đâm xuyên hoặc đập vỡ bê tông."
+      },
+      "image_prompt": "a tentacle-like shape smashing through a concrete wall, debris flying, dynamic close-up, dramatic light",
+      "on_screen_text": "Điểm mạnh: công phá"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Điểm mạnh thứ hai: hồi phục. Rinkaku có khả năng tái tạo mạnh nhất, nên người dùng thường rất khó bị hạ."
+      },
+      "image_prompt": "a wound closing rapidly as glowing red cells knit together, extreme close-up, stylized",
+      "on_screen_text": "Điểm mạnh: hồi phục"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Điểm yếu: cấu trúc liên kết yếu, dễ bị cắt đứt. Và người ta hay nói những người mang Rinkaku thường có tâm lý bất ổn, dễ mất kiểm soát. Kaku gắn nhãn đây là nhận xét của người xem, không phải luật."
+      },
+      "image_prompt": "a tentacle-like shape cleanly severed and falling apart, beside a small label tag reading fan observation, close-up",
+      "on_screen_text": "Điểm yếu: dễ đứt"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Số lượng xúc tu cũng khác nhau ở mỗi người. Kaneki lúc đầu chỉ có một vài xúc tu, và gần như không điều khiển được chúng. Chúng xuất hiện khi cậu đói, sợ hãi hoặc giận dữ."
+      },
+      "image_prompt": "a young man clutching his stomach in a dark alley while unstable glowing shapes flicker from his lower back, medium shot, cold streetlight",
+      "on_screen_text": "Không điều khiển được"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Học cách điều khiển Kagune cũng chính là học cách chấp nhận phần ngạ quỷ trong mình. Và với Kaneki, đó là một quá trình rất đau."
+      },
+      "image_prompt": "a young man sitting on the floor of an empty training room, eyes closed, a faint controlled glow around him, medium shot, dim warm light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Người mang: Kamishiro Rize, ngạ quỷ đã gặp Kaneki Ken trong buổi hẹn định mệnh. Và sau này là chính Kaneki."
+      },
+      "image_prompt": "a silhouette of a woman with long hair holding a book in a dim library corner, soft ominous light, medium shot",
+      "on_screen_text": "Người mang: Rize"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Vì sao một con người như Kaneki lại có Kagune? Sau một tai nạn, bác sĩ đã cấy nội tạng của Rize vào người cậu. Kaneki trở thành nửa người nửa ngạ quỷ, mang Kakuhou loại Rinkaku."
+      },
+      "image_prompt": "a hospital operating room with bright surgical lights and a lone gurney, medium shot, cold clinical light",
+      "on_screen_text": "Kaneki: nửa ngạ quỷ"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Kẻ thù đáng sợ trong mùa một, Yamori, cũng mang Rinkaku. Trận đấu giữa hai người mang cùng loại là một trong những đoạn nặng nề nhất của bộ phim."
+      },
+      "image_prompt": "two silhouettes both with tentacle-like shapes facing each other in an empty warehouse, wide shot, harsh light",
+      "on_screen_text": "Rinkaku vs Rinkaku"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Hồ sơ số bốn: Bikaku, nghĩa là loại đuôi. Vị trí: vùng xương cụt. Hình dạng: một cái đuôi dài, đôi khi có nhiều đốt."
+      },
+      "image_prompt": "a silhouette with a long segmented glowing tail extending from the lower spine, crouched in a fighting stance, medium shot, crimson light",
+      "chapter": "Hồ sơ 4: Bikaku",
+      "on_screen_text": "Hồ sơ 4: Bikaku — đuôi"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Điểm mạnh: cân bằng. Bikaku không nhanh nhất, không cứng nhất, không mạnh nhất, nhưng không có điểm yếu rõ rệt. Tầm đánh trung bình, tốc độ khá, độ bền khá."
+      },
+      "image_prompt": "a balanced radar chart on parchment with four evenly spread points, amber ink, close-up",
+      "on_screen_text": "Điểm mạnh: cân bằng"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Điểm yếu: vì không có gì nổi bật, người dùng Bikaku phải dựa vào kỹ năng chiến đấu nhiều hơn các loại khác."
+      },
+      "image_prompt": "a fighter practicing precise movements alone in an empty gym at night, the tail curling in controlled arcs, medium shot, dim light",
+      "on_screen_text": "Điểm yếu: phụ thuộc kỹ năng"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nishiki có một bạn gái là con người, và cô biết anh là ngạ quỷ. Một chi tiết nhỏ nhưng cho thấy người và ngạ quỷ vẫn có thể thương nhau, bất chấp mọi luật lệ."
+      },
+      "image_prompt": "a couple sitting on a small apartment balcony at night sharing a blanket, city lights behind them, back view, warm light",
+      "on_screen_text": "Người và ngạ quỷ vẫn thương nhau"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Và vì Bikaku cân bằng, Nishiki chiến đấu rất linh hoạt: lúc quật, lúc đâm, lúc cuốn lấy đối thủ."
+      },
+      "image_prompt": "a segmented tail sweeping in a wide arc, then stabbing forward, then coiling, sequential illustration, crimson highlights"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Người mang: Nishio Nishiki, đàn anh cùng trường của Kaneki. Anh là một trong những kẻ thù đầu tiên của Kaneki, và sau này lại trở thành đồng minh."
+      },
+      "image_prompt": "a young man silhouette in a university hallway, glasses reflecting light, a faint tail shadow on the wall, medium shot",
+      "on_screen_text": "Người mang: Nishiki"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku ghi chú: Bikaku là học sinh giỏi đều các môn. Không có điểm mười nào, nhưng cũng không có điểm liệt nào."
+      },
+      "image_prompt": "the owl mascot proudly holding a report card full of identical good grades",
+      "use_mascot": true
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Giờ tới phần thú vị nhất. Bốn loại Kagune khắc chế nhau theo một vòng tròn, giống trò oẳn tù tì."
+      },
+      "image_prompt": "a large circular diagram with four icons: feather, shield, tentacle, tail, connected by arrows in a loop, parchment style, amber and crimson",
+      "chapter": "Bảng khắc chế",
+      "on_screen_text": "Vòng khắc chế",
+      "video_prompt": "the four icons light up one after another as arrows travel around the cycle",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Vì sao lại có vòng khắc chế này? Nếu nghĩ theo vật lý, nó khá hợp lý: nhanh thắng cân bằng, cân bằng thắng mạnh mà dễ gãy, mạnh thắng nặng mà chậm, nặng thắng nhanh mà yếu sức bền."
+      },
+      "image_prompt": "a simple physics-style sketch comparing speed, balance, power and weight with arrows in a loop, parchment style, amber ink",
+      "on_screen_text": "Vì sao lại khắc nhau?"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Ukaku thắng Bikaku: nhờ tốc độ và tầm xa, Ukaku giữ khoảng cách và bắn phá trước khi cái đuôi kịp chạm tới."
+      },
+      "image_prompt": "an arrow from the feather icon to the tail icon, with a small illustration of shards raining on a tailed silhouette from afar, close-up",
+      "on_screen_text": "Ukaku > Bikaku"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Bikaku thắng Rinkaku: cái đuôi cứng và cân bằng hơn, đủ sức cắt đứt những xúc tu dễ gãy."
+      },
+      "image_prompt": "an arrow from the tail icon to the tentacle icon, with a tail slicing through a tentacle, close-up",
+      "on_screen_text": "Bikaku > Rinkaku"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Rinkaku thắng Koukaku: sức công phá của xúc tu đủ để đập vỡ lớp giáp nặng, và giáp nặng thì quá chậm để né."
+      },
+      "image_prompt": "an arrow from the tentacle icon to the shield icon, with a tentacle cracking an armored shape, close-up",
+      "on_screen_text": "Rinkaku > Koukaku"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Koukaku thắng Ukaku: tấm khiên chặn hết mưa tinh thể, và chờ tới khi người dùng Ukaku kiệt sức."
+      },
+      "image_prompt": "an arrow from the shield icon back to the feather icon, with a shield blocking shards while the winged figure tires, close-up",
+      "on_screen_text": "Koukaku > Ukaku"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Ví dụ, một người dùng Ukaku thông minh có thể tránh đánh lâu với Koukaku, chờ đối thủ mệt trước. Luật khắc chế chỉ đúng khi hai bên ngang sức."
+      },
+      "image_prompt": "a winged figure patiently circling a heavy armored opponent from a safe distance on a rooftop, wide shot, night light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Và CCG biết rõ điều này. Khi đi săn, họ chọn Quinque phù hợp để khắc chế loại Kagune của mục tiêu."
+      },
+      "image_prompt": "an investigator choosing a briefcase from a rack labeled with four icons, medium shot, cold armory light",
+      "on_screen_text": "CCG chọn Quinque theo loại"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Nhưng nhớ: đây chỉ là xu hướng. Trong truyện, kinh nghiệm, trí thông minh và lượng tế bào RC có thể lật ngược mọi lợi thế."
+      },
+      "image_prompt": "the owl mascot adding a small asterisk beside the cycle diagram with the note tendency, not a rule",
+      "on_screen_text": "Xu hướng, không phải luật",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Ngoài bốn loại, Tokyo Ghoul còn có những trường hợp đặc biệt. Đầu tiên là Kakuja: khi một ngạ quỷ ăn thịt đồng loại nhiều lần, tế bào RC biến đổi, tạo thành lớp giáp phủ khắp cơ thể."
+      },
+      "image_prompt": "a figure partially covered in jagged organic armor plates, an eerie mask-like shape forming over the face, dramatic low-angle shot, crimson light",
+      "chapter": "Những trường hợp đặc biệt",
+      "on_screen_text": "Kakuja",
+      "video_prompt": "jagged armor plates spread across the figure as the mask-like shape forms",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Kaku thấy đây là cơ chế đáng sợ nhất: để mạnh hơn, ngạ quỷ phải làm điều mà chính đồng loại của họ coi là cấm kỵ. Sức mạnh lớn nhất nằm sau ranh giới đạo đức lớn nhất."
+      },
+      "image_prompt": "a dark doorway with a warning line painted on the floor in front of it, a faint red glow beyond, medium shot, ominous light",
+      "on_screen_text": "Sức mạnh sau ranh giới đạo đức"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kakuja mạnh hơn nhiều, nhưng cái giá là tâm trí. Người mang dễ mất lý trí, và bộ giáp thường không hoàn chỉnh, có chỗ hở."
+      },
+      "image_prompt": "a cracked armored mask with one side broken open, extreme close-up, cold light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Chimera rất hiếm, và thường là kết quả của những trường hợp bất thường về tế bào RC. Trong một vòng khắc chế, người có hai loại gần như không bị khắc chế hoàn toàn."
+      },
+      "image_prompt": "the rock paper scissors cycle diagram with a special figure standing in the middle, touching two icons at once, parchment style"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Thứ hai là Chimera: một số ngạ quỷ hiếm hoi có hai loại Kagune cùng lúc. Họ có thể đổi cách chiến đấu tùy đối thủ."
+      },
+      "image_prompt": "a silhouette with both feather-like wings from the shoulders and a tail from the lower back, balanced stance, medium shot",
+      "on_screen_text": "Chimera: 2 loại"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Thứ ba là những con người được cấy Kakuhou nhân tạo, như Kaneki. Kỹ thuật này về sau được phát triển thành cả một chương trình, nhưng Kaku sẽ không spoiler thêm."
+      },
+      "image_prompt": "a sealed laboratory door with a warning sign and a faint red glow from the gap underneath, medium shot, cold clinical light",
+      "on_screen_text": "Kakuhou nhân tạo"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Và cuối cùng là Quinque của CCG. Mỗi Quinque vẫn giữ đặc tính của loại Kagune gốc. Một Quinque làm từ Koukaku sẽ nặng và bền, từ Ukaku thì bắn xa. Vũ khí của con người cũng chơi oẳn tù tì."
+      },
+      "image_prompt": "a row of four metal briefcases each with a different organic weapon inside, labeled with the four icons, still life, harsh light",
+      "on_screen_text": "Quinque cũng khắc chế"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Kaku thấy thiết kế Kagune rất có ý đồ. Vũ khí không nằm trong tay, mà mọc ra từ bên trong cơ thể. Bạn không thể đặt nó xuống. Nó là một phần của bạn."
+      },
+      "image_prompt": "a figure trying to push a glowing shape back into their own back, struggling, medium shot, somber light",
+      "chapter": "Góc nhìn của Kaku: vũ khí mọc ra từ con người",
+      "on_screen_text": "Không thể đặt vũ khí xuống"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Có một hình ảnh lặp lại trong truyện: Kaneki muốn giữ lấy phần người của mình, nhưng mỗi lần phải bảo vệ ai đó, cậu lại phải dùng tới phần ngạ quỷ."
+      },
+      "image_prompt": "a young man shielding a friend with one arm while a glowing shape rises from his back, torn between two directions, dramatic medium shot"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kagune vì vậy không chỉ là vũ khí. Nó là cái giá phải trả để bảo vệ người khác. Một chủ đề mà Kaku thấy xuất hiện ở rất nhiều bộ anime, từ Edgerunners tới Tokyo Ghoul."
+      },
+      "image_prompt": "a small balance scale with a glowing organic shape on one side and a small heart on the other, close-up, amber light",
+      "on_screen_text": "Cái giá để bảo vệ người khác"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Với Kaneki, Kagune của Rize là một gánh nặng. Mỗi lần nó xuất hiện, cậu nhớ ra rằng mình không còn là người bình thường nữa."
+      },
+      "image_prompt": "a young man staring into a cracked bathroom mirror, one eye normal and the other darkened, close-up, cold light",
+      "on_screen_text": "Nhắc nhở mỗi ngày"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Còn với CCG, biến Kagune thành Quinque là biến kẻ thù thành công cụ. Nhưng nếu người và ngạ quỷ cùng dùng một thứ vũ khí, thì ai mới là quái vật?"
+      },
+      "image_prompt": "a split image of an investigator holding a briefcase weapon and a ghoul with the same glowing shape, symmetrical composition, crimson and steel",
+      "on_screen_text": "Ai mới là quái vật?"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Đó là câu hỏi mà Tokyo Ghoul đặt ra suốt cả bộ truyện, và hệ thống Kagune là cách tác giả vẽ nó thành hình."
+      },
+      "image_prompt": "a single white chrysanthemum lying on a dark café table next to an empty coffee cup, close-up, quiet melancholic light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Kaku đóng tủ hồ sơ bằng một bảng mục lục."
+      },
+      "image_prompt": "the owl mascot closing a filing cabinet drawer and pinning an index card on its front",
+      "chapter": "Mục lục hồ sơ",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Thêm một dòng nhỏ cho mục lục: tất cả đều đến từ tế bào RC, tích trong Kakuhou, và tiêu hao theo cơn đói."
+      },
+      "image_prompt": "a small footnote line written at the bottom of the index card with a cell icon, close-up, amber ink"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Ukaku: vai, như cánh, nhanh và bắn xa, mệt nhanh. Koukaku: bả vai, như giáp, phòng thủ tốt, chậm."
+      },
+      "image_prompt": "two index cards side by side with a feather icon and a shield icon and short notes, parchment close-up, amber ink",
+      "on_screen_text": "Ukaku · Koukaku"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Rinkaku: thắt lưng, xúc tu, công phá và hồi phục, dễ đứt. Bikaku: xương cụt, đuôi, cân bằng, cần kỹ năng."
+      },
+      "image_prompt": "two index cards with a tentacle icon and a tail icon and short notes, parchment close-up",
+      "on_screen_text": "Rinkaku · Bikaku"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và vòng khắc chế: lông vũ thắng đuôi, đuôi thắng xúc tu, xúc tu thắng giáp, giáp thắng lông vũ."
+      },
+      "image_prompt": "the circular cycle diagram glowing on the final page of the notebook, top-down shot, warm lamplight",
+      "on_screen_text": "Vòng khắc chế"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Và nếu bạn là nhà nghiên cứu CCG, bạn sẽ mang Quinque loại nào khi đi tuần? Câu hỏi này khó hơn bạn nghĩ đấy."
+      },
+      "image_prompt": "a rack of four sealed weapon briefcases with a single empty slot waiting, medium shot, cold light"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Nếu bạn là ngạ quỷ, bạn muốn Kagune của mình mọc ở đâu? Kaku đoán nhiều bạn chọn đôi cánh cho ngầu. Viết lựa chọn và lý do của bạn vào bình luận nhé."
+      },
+      "image_prompt": "four empty checkboxes next to the four icons on a form, a pen resting on it, top-down shot",
+      "on_screen_text": "Bạn chọn loại nào?"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Bốn loại Kagune, bốn cách chiến đấu, và một câu hỏi chung: sức mạnh mọc ra từ nỗi đau thì có còn là của mình không?"
+      },
+      "image_prompt": "a lone figure sitting on a rooftop at dawn, faint shapes fading from their back as the sun rises over Tokyo, wide shot, soft light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Tokyo Ghoul có phần tiếp theo tên là Tokyo Ghoul:re, nơi hệ thống này còn được mở rộng thêm nhiều. Nếu bạn muốn Kaku làm hồ sơ phần hai, hãy nói trong bình luận."
+      },
+      "image_prompt": "a second filing cabinet next to the first, its drawer labeled with a small question mark, medium shot, lamplight"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku chuyển sang một thế giới tươi sáng hơn nhiều: lịch sử các hệ trong Pokémon, từ mười lăm hệ ban đầu tới mười tám hệ hôm nay. Có một hệ được thêm vào chỉ để cân bằng lại một hệ quá mạnh."
+      },
+      "image_prompt": "a colorful chart of elemental type icons arranged in a grid on a bright desk, close-up, cheerful light",
+      "on_screen_text": "Tiếp theo: lịch sử các hệ Pokémon"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Nếu bạn thích kiểu hồ sơ bách khoa như thế này, hãy đăng ký kênh để Kaku mở thêm nhiều tủ hồ sơ nữa. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot taking off its archivist visor and waving from beside the filing cabinet",
+      "use_mascot": true
+    }
+  ]
+}

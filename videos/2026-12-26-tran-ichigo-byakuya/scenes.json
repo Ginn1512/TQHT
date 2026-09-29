@@ -1,0 +1,689 @@
+{
+  "title": "Bleach: Phân tích trận Ichigo vs Byakuya theo từng hiệp",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Bleach tới hết arc Soul Society, tức khoảng sáu mươi tập đầu của anime. Không có spoiler phần sau."
+      },
+      "image_prompt": "a tall white tower on a hill under a dark stormy sky, a single closed notebook resting on a stone step at its base, wide establishing shot, cold light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Trên đồi Song Cực, hai người cầm kiếm đứng đối diện nhau. Một người là đội trưởng đội sáu, trưởng tộc của một gia tộc quý tộc bậc nhất, đã luyện kiếm hàng trăm năm."
+      },
+      "image_prompt": "an elegant noble swordsman silhouette in a long white captain's coat standing calmly on a hilltop, wind blowing, low-angle shot, cold rim light",
+      "on_screen_text": "Đội trưởng · quý tộc · trăm năm"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Người kia là một cậu học sinh mười lăm tuổi, vừa học Bankai được đúng ba ngày, trong khi người bình thường mất ít nhất mười năm."
+      },
+      "image_prompt": "a teenage swordsman silhouette in a black robe standing opposite, gripping a sword with both hands, determined stance, low-angle shot, warm rim light",
+      "on_screen_text": "Học sinh · Bankai 3 ngày"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Bối cảnh: Rukia, người đã trao sức mạnh tử thần cho Ichigo, bị kết án tử vì phạm luật. Ichigo cùng bạn bè xông vào Soul Society để cứu cô, vượt qua từng đội trưởng một."
+      },
+      "image_prompt": "a small group of teenage silhouettes running across rooftops of a vast walled city of white buildings, wide aerial shot, bright dramatic sky",
+      "on_screen_text": "Xông vào Soul Society"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Nếu phải đặt cược trước trận, Kaku nghĩ gần như ai ở Soul Society cũng sẽ đặt vào vị đội trưởng. Vậy mà người thắng lại là cậu học sinh."
+      },
+      "image_prompt": "a betting board with two columns, one overflowing with coins, the other almost empty, close-up, amber light",
+      "on_screen_text": "Tỉ lệ cược trước trận"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình phân tích trận Kurosaki Ichigo đối đầu Kuchiki Byakuya theo từng hiệp: mỗi người muốn gì, chọn gì, và trả giá gì."
+      },
+      "image_prompt": "the owl mascot unrolling a tactical map on a table with two small chess pieces, one white and one black, warm lamplight",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Kaku sẽ kể bằng sơ đồ và tranh tự vẽ, không dựng lại cảnh trong anime. Cuối video là ba bài học chiến thuật mà bạn có thể áp dụng cho… bất cứ trận đấu nào trong đời."
+      },
+      "image_prompt": "a hand-drawn tactical diagram with arrows, circles and small sword icons on parchment, top-down shot, amber ink",
+      "on_screen_text": "Từng hiệp · Sơ đồ · Bài học"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Đấu thủ thứ nhất, Byakuya. Kiếm của anh tên là Thiên Bản Anh. Khi giải phóng, lưỡi kiếm vỡ thành hàng nghìn mảnh nhỏ như cánh hoa anh đào, và mỗi cánh hoa là một lưỡi dao."
+      },
+      "image_prompt": "a sword blade dissolving into thousands of tiny glowing pink petals that swirl around its hilt, close-up, dramatic cherry blossom light",
+      "chapter": "Trước trận: hồ sơ hai đấu thủ",
+      "on_screen_text": "Thiên Bản Anh: nghìn cánh hoa"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Gia tộc Kuchiki là một trong những gia tộc quý tộc lớn nhất Soul Society. Byakuya là trưởng tộc, nghĩa là mọi hành động của anh đều là tấm gương cho cả dòng họ."
+      },
+      "image_prompt": "a grand traditional estate with white walls and a quiet garden, a lone figure standing on the veranda, wide shot, cool elegant light",
+      "on_screen_text": "Trưởng tộc Kuchiki"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Anh còn là bậc thầy Thuấn bộ, kiểu di chuyển nhanh tới mức như biến mất. Anh ít nói, không bao giờ vội vàng, và chưa từng để lộ cảm xúc."
+      },
+      "image_prompt": "a noble figure appearing behind an opponent with only a faint afterimage left where he stood, medium shot, cold light",
+      "on_screen_text": "Bậc thầy Thuấn bộ"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Ichigo là một tử thần thay thế: một con người được Rukia trao sức mạnh trong một đêm khẩn cấp. Cậu chưa từng học ở học viện tử thần, chưa từng được ai dạy bài bản."
+      },
+      "image_prompt": "a teenager in a black robe standing in his ordinary bedroom at night, looking at his own hands in disbelief, medium shot, moonlight",
+      "on_screen_text": "Tử thần thay thế"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Đấu thủ thứ hai, Ichigo. Kiếm của cậu tên là Trảm Nguyệt, to và nặng. Cậu mạnh về sức và ý chí, nhưng thiếu kinh nghiệm và kỹ thuật."
+      },
+      "image_prompt": "a very large broad cleaver-like blade planted in the ground beside a resting teenager, close-up, warm sunset light",
+      "on_screen_text": "Trảm Nguyệt: to và nặng"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Cậu vừa học Bankai bằng một phương pháp đặc biệt trong ba ngày, dưới sự giám sát của Yoruichi. Nghĩa là cậu có sức mạnh, nhưng chưa có thời gian làm quen với nó."
+      },
+      "image_prompt": "a teenager training exhausted in a vast underground cavern with rocky cliffs, a cat silhouette sitting on a rock watching, wide shot, dim warm light",
+      "on_screen_text": "Có sức mạnh, chưa kịp quen"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Động cơ của hai người cũng khác nhau. Ichigo tới để cứu Rukia khỏi án tử. Byakuya là anh nuôi của Rukia, nhưng anh đứng về phía luật lệ và sẽ không để ai ngăn bản án."
+      },
+      "image_prompt": "a condemned young woman silhouette standing on a tall execution platform, two swordsmen facing each other far below, wide shot, stormy light",
+      "on_screen_text": "Cứu Rukia vs giữ luật"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Bảng tỉ số trước trận: kinh nghiệm, kỹ thuật và tốc độ nghiêng về Byakuya. Sức bền và ý chí nghiêng về Ichigo. Kaku chấm tỉ số ba – hai cho Byakuya."
+      },
+      "image_prompt": "a scoreboard showing 3 to 2 with small icons for experience, technique, speed on one side and stamina, will on the other, close-up",
+      "on_screen_text": "Trước trận: 3 – 2"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Thật ra đây là lần gặp thứ hai. Lần đầu là ở thế giới người, khi Soul Society tới bắt Rukia. Ichigo lao vào, và bị Byakuya hạ gục trong nháy mắt."
+      },
+      "image_prompt": "a rainy city street at night, a teenager falling to the wet pavement while a calm swordsman walks away, wide shot, cold streetlight",
+      "chapter": "Hiệp 0: món nợ cũ",
+      "on_screen_text": "Lần gặp đầu: thua trong nháy mắt"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Để lấy lại sức mạnh, Ichigo phải qua một bài huấn luyện nguy hiểm của Urahara: bị trói linh hồn dưới đáy một cái hố sâu, và phải tự thức tỉnh trước khi biến thành Hollow."
+      },
+      "image_prompt": "a teenager sitting at the bottom of a deep rocky pit, looking up at a distant circle of light, a broken chain on his chest, wide shot, dim dramatic light",
+      "on_screen_text": "Huấn luyện dưới đáy hố"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Cậu thành công, và lần đầu tiên có được thanh Trảm Nguyệt của chính mình. Tức là thất bại trước Byakuya đã buộc cậu phải trở thành một tử thần thật sự."
+      },
+      "image_prompt": "a teenager climbing out of a pit holding a huge sword, light breaking over the edge, low-angle shot, triumphant warm light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Byakuya không chỉ đánh bại cậu. Anh cắt đứt nguồn linh lực của cậu, khiến cậu mất hết sức mạnh tử thần. Cậu phải đi tìm lại chúng từ đầu."
+      },
+      "image_prompt": "a glowing thread snapping inside a translucent chest silhouette, fading particles drifting away, extreme close-up, cold blue light",
+      "on_screen_text": "Mất hết sức mạnh"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Mục tiêu của Ichigo ở hiệp này rất đơn giản: xông lên. Lựa chọn của cậu: dùng hết sức. Cái giá: suýt mất mạng, và mất Rukia vào tay Soul Society."
+      },
+      "image_prompt": "a three-row tactical note card: goal, choice, cost, filled with short handwritten icons, parchment close-up, amber ink",
+      "on_screen_text": "Mục tiêu · Lựa chọn · Cái giá"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku ghi chú: bài học của hiệp không là ý chí thôi chưa đủ. Chính vì thua trận này, Ichigo mới chịu học hỏi thật sự."
+      },
+      "image_prompt": "the owl mascot drawing a small zero on a scoreboard and circling it with the note lesson learned",
+      "use_mascot": true
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Trận tái đấu trên đồi Song Cực bắt đầu. Byakuya ra đòn bằng Thuấn bộ, như lần trước. Nhưng lần này, Ichigo theo kịp."
+      },
+      "image_prompt": "two blurred figures crossing paths at high speed on a rocky hilltop, sparks where their blades meet, dynamic wide shot, stormy light",
+      "chapter": "Hiệp 1: tốc độ",
+      "on_screen_text": "Hiệp 1: Ichigo theo kịp"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Đây là thành quả của những ngày tập với Yoruichi, người được mệnh danh là nữ thần Thuấn bộ. Byakuya không nói gì, nhưng đây là lần đầu anh phải thật sự chú ý."
+      },
+      "image_prompt": "a close-up of a calm face in shadow with a single eye narrowing slightly, cold rim light",
+      "on_screen_text": "Byakuya bắt đầu chú ý"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Với Byakuya, tốc độ luôn là cách giữ khoảng cách: ra đòn rồi biến mất, không bao giờ để đối thủ chạm vào mình. Khi Ichigo theo kịp, khoảng cách ấy bắt đầu co lại."
+      },
+      "image_prompt": "two figures on a hilltop with a dotted line between them shrinking step by step, parchment diagram overlay, cold light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Sơ đồ hiệp một: Byakuya muốn kết thúc nhanh bằng tốc độ. Ichigo chứng minh cậu không còn là người của lần trước. Kết quả: hòa. Nhưng về tâm lý, Ichigo thắng."
+      },
+      "image_prompt": "a tactical diagram with two arrows running side by side at equal length, a small heart icon next to the black piece, parchment top-down shot",
+      "on_screen_text": "Hiệp 1: hòa (Ichigo thắng tâm lý)"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku mà tập Thuấn bộ ba ngày thì chắc chỉ nhanh hơn được… con rùa trong video Gojo. Mà con rùa đó còn không bị đuổi kịp."
+      },
+      "image_prompt": "the owl mascot running in place with a small tortoise calmly walking ahead of it, comic expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Kaku để ý điều này rất hay: trong một trận đấu giữa người mạnh và người yếu hơn, chỉ cần người yếu hơn chứng minh được một lần rằng mình không dễ bị hạ, trận đấu đã khác."
+      },
+      "image_prompt": "two chess pieces on a board, the smaller one standing firm as a crack appears in the board near the larger one, close-up, dramatic light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Byakuya giải phóng Thiên Bản Anh. Hàng nghìn lưỡi dao nhỏ xíu tràn ra như một cơn bão cánh hoa, và gần như không thể nhìn thấy từng lưỡi."
+      },
+      "image_prompt": "a storm of glowing pink petals flooding across a rocky hilltop toward a lone swordsman, wide dynamic shot, dramatic pink and navy light",
+      "chapter": "Hiệp 2: nghìn cánh hoa",
+      "on_screen_text": "Hiệp 2: bão cánh hoa",
+      "video_prompt": "the storm of glowing petals surges across the hilltop and wraps around the lone swordsman",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Thiên Bản Anh còn có một điểm đáng sợ: Byakuya đứng yên vẫn tấn công được. Anh không cần tới gần, chỉ cần một cái vẫy tay là cơn bão đổi hướng."
+      },
+      "image_prompt": "a calm figure standing still with one hand slightly raised while a river of petals bends through the air around him, medium shot, pink and navy light",
+      "on_screen_text": "Đứng yên vẫn tấn công"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Trong khi đó Ichigo chỉ có một cách tấn công: chạy tới và chém. Khoảng cách chính là thứ Byakuya dùng để thắng hiệp này."
+      },
+      "image_prompt": "a tactical diagram showing a long distance line between two pieces filled with swirling dots, parchment top-down shot, amber ink",
+      "on_screen_text": "Khoảng cách = vũ khí"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Vấn đề của Ichigo là thanh kiếm to của cậu chỉ chặn được một hướng. Còn cánh hoa tấn công từ mọi hướng cùng lúc."
+      },
+      "image_prompt": "a diagram showing a single wide shield blocking arrows from the front while dozens of tiny arrows curve around from the sides and back, parchment style, amber ink",
+      "on_screen_text": "Một thanh kiếm vs nghìn lưỡi dao"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Cậu cố chém, cố né, cố xông thẳng vào người điều khiển. Nhưng mỗi lần xông tới, cơn bão lại cắt thêm vài vết trên người cậu."
+      },
+      "image_prompt": "a wounded teenager pushing forward through a swirling wall of petals, shielding his face with his arm, medium shot, harsh backlight"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Sơ đồ hiệp hai: Byakuya chọn đánh bằng số lượng. Ichigo chọn đánh bằng sức mạnh đơn lẻ. Và số lượng thắng. Hiệp hai thuộc về Byakuya."
+      },
+      "image_prompt": "a tactical diagram with hundreds of small dots surrounding a single large dot, the large dot marked with small red cuts, parchment top-down shot",
+      "on_screen_text": "Hiệp 2: Byakuya"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Cái giá cho Ichigo: mất máu, và nhận ra rằng cách đánh cũ không dùng được nữa. Muốn thắng, cậu phải đổi cách chơi."
+      },
+      "image_prompt": "a drop of blood falling onto a rock beside a large sword, extreme close-up, cold light",
+      "on_screen_text": "Phải đổi cách chơi"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku thử đếm số cánh hoa trong cảnh này để làm sơ đồ chính xác. Tới cánh thứ ba trăm thì Kaku quyết định làm tròn thành rất nhiều."
+      },
+      "image_prompt": "the owl mascot buried under a pile of pink petal sketches, holding up a sign with the word many",
+      "use_mascot": true
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Ichigo giải phóng Bankai. Nhưng khác với mọi người mong đợi, thanh kiếm không to hơn. Nó thu nhỏ lại thành một thanh kiếm đen mảnh, gọn như một thanh kiếm bình thường."
+      },
+      "image_prompt": "a slim black sword with a chain dangling from its hilt held in one hand, dark energy swirling faintly around it, close-up, dramatic dark light",
+      "chapter": "Hiệp 3: Bankai đấu Bankai",
+      "on_screen_text": "Bankai: kiếm nhỏ lại?",
+      "video_prompt": "dark energy spirals inward as the huge blade collapses into a slim black sword",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Đây là Bankai tên Thiên Tỏa Trảm Nguyệt. Toàn bộ sức mạnh được nén vào một lưỡi kiếm nhỏ, để Ichigo di chuyển và ra đòn ở tốc độ cực cao."
+      },
+      "image_prompt": "a diagram of a large sword shape being compressed into a thin line with arrows pointing inward, a speed trail behind it, parchment style, amber ink",
+      "on_screen_text": "Nén sức mạnh → tốc độ"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Byakuya thậm chí tỏ ra khó chịu. Một kẻ vừa học Bankai ba ngày dám đứng ngang hàng với anh, ở cùng cấp độ sức mạnh mà anh mất hàng trăm năm để đạt tới."
+      },
+      "image_prompt": "a close-up of a noble swordsman's hand tightening on a sword hilt, a single petal trembling in the air, cold light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Byakuya đáp trả bằng Bankai của mình. Những thanh kiếm khổng lồ mọc lên từ mặt đất, rồi vỡ ra thành hàng trăm triệu cánh hoa. Cơn bão lần này lớn gấp bội."
+      },
+      "image_prompt": "rows of giant blades rising out of the ground in a vast dark space, dissolving into an ocean of glowing petals, wide shot, pink and black light",
+      "on_screen_text": "Bankai của Byakuya: biển cánh hoa"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Nhiều người nghĩ Bankai càng to càng mạnh. Trận này chứng minh điều ngược lại: không phải kích thước, mà là cách sức mạnh phù hợp với người dùng."
+      },
+      "image_prompt": "a giant empty suit of armor next to a small nimble fighter, the fighter clearly faster, humorous comparison illustration, parchment style",
+      "on_screen_text": "To ≠ mạnh"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Đây là cuộc đối đầu thú vị nhất về chiến thuật: một bên nén tất cả vào một điểm, một bên trải tất cả ra khắp không gian."
+      },
+      "image_prompt": "a split diagram: one tiny concentrated star on the left, a vast diffuse cloud on the right, parchment top-down shot, amber and pink ink",
+      "on_screen_text": "Nén một điểm vs trải khắp nơi"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Ichigo còn giải thích cho Byakuya rằng Bankai của cậu không to, vì nó dồn hết sức mạnh vào tốc độ. Một lời giải thích mà ngay cả khán giả lúc đó cũng cần."
+      },
+      "image_prompt": "a teenager holding a slim black sword up between himself and his opponent as if showing it, dramatic low-angle shot, dark swirling light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Với tốc độ mới, Ichigo không cần chặn cánh hoa nữa. Cậu né, chém xuyên qua khe hở, và lần đầu tiên chạm được kiếm vào Byakuya."
+      },
+      "image_prompt": "a black blur slicing a clean path through a wall of petals, a thin cut appearing on a white sleeve, dynamic close-up",
+      "on_screen_text": "Lần đầu chạm tới Byakuya"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Sơ đồ hiệp ba: Byakuya chọn phủ kín không gian. Ichigo chọn tốc độ để đi xuyên qua khe hở. Hiệp này nghiêng về Ichigo, và tỉ số giờ là hai – một."
+      },
+      "image_prompt": "a tactical diagram with a fast line weaving through gaps in a cloud of dots, a small score of 2 to 1 written in the corner, parchment top-down shot",
+      "on_screen_text": "Hiệp 3: Ichigo"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Cái giá cho Ichigo: tốc độ cực cao đòi hỏi cơ thể rất nhiều. Cậu học Bankai trong ba ngày, nên chưa biết giới hạn của chính mình ở đâu."
+      },
+      "image_prompt": "a teenager's hand trembling as it grips a slim black sword, extreme close-up, cold light",
+      "on_screen_text": "Chưa biết giới hạn của mình"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Rồi tới khoảnh khắc mà người xem lần đầu không hiểu chuyện gì xảy ra. Giữa trận, một nửa khuôn mặt Ichigo bị phủ bởi một chiếc mặt nạ trắng, và giọng cậu đổi khác."
+      },
+      "image_prompt": "a close-up of a face half covered by a cracked white bone-like mask, the visible eye glowing, dark energy bursting around, dramatic light",
+      "chapter": "Hiệp 4: kẻ thù bên trong",
+      "on_screen_text": "Hiệp 4: chiếc mặt nạ",
+      "video_prompt": "the white mask spreads across half the face as dark energy bursts outward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Thứ sức mạnh ấy không giống của tử thần. Nó thô bạo, không có kỹ thuật, chỉ muốn phá hủy. Và nó không nghe lời Ichigo."
+      },
+      "image_prompt": "a shadowy twin silhouette of the teenager with white glowing eyes grinning in a dark reflection on a broken sword blade, extreme close-up, eerie light",
+      "on_screen_text": "Sức mạnh không nghe lời"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Đó là Hollow ẩn trong cậu, một thực thể muốn chiếm lấy cơ thể. Trong vài giây, sức mạnh của Ichigo tăng vọt, đủ khiến Byakuya bất ngờ."
+      },
+      "image_prompt": "a dark figure bursting forward with wild energy, the calm opponent stepping back for the first time, wide shot, black and red light",
+      "on_screen_text": "Hollow bên trong"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Nhưng Ichigo tự đập vỡ chiếc mặt nạ. Cậu không muốn thắng bằng thứ sức mạnh không phải của mình."
+      },
+      "image_prompt": "a hand gripping and shattering a white mask into fragments, extreme close-up, fragments flying, dramatic backlight",
+      "on_screen_text": "Tự đập vỡ mặt nạ"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Sơ đồ hiệp bốn: Ichigo có một lựa chọn dễ để thắng nhanh, và cậu từ chối nó. Về điểm số, hiệp này hòa. Về con người, đây là hiệp quan trọng nhất."
+      },
+      "image_prompt": "a tactical diagram with two paths from the black piece: a short glowing red path crossed out, a longer honest path highlighted, parchment top-down shot",
+      "on_screen_text": "Hiệp 4: từ chối lối tắt"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Kaku thấy đây là một chi tiết kể chuyện rất khéo: cùng một trận đấu, Ichigo phải đánh hai kẻ thù cùng lúc, một bên ngoài, một bên trong."
+      },
+      "image_prompt": "a split diagram with one arrow pointing outward toward an opponent and another arrow pointing inward toward a small shadow inside the chest, parchment style",
+      "on_screen_text": "Hai kẻ thù cùng lúc"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Cái giá: cậu đã dùng rất nhiều sức lực để kìm Hollow lại, trong khi trận đấu còn chưa kết thúc."
+      },
+      "image_prompt": "a nearly empty glowing energy bar drawn on parchment beside a small black sword icon, close-up"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Kaku phải nói thêm: Hollow của Ichigo là một bí ẩn lớn mà Bleach giải thích dần ở những arc sau. Hôm nay Kaku dừng ở đây để không spoiler."
+      },
+      "image_prompt": "the owl mascot quickly covering a page of its notebook with a white paper mask sticker, looking mischievous",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Lần đầu tiên, Byakuya dùng tới hình thái mà anh dành riêng cho kẻ thù anh thề tự tay giết. Những cánh hoa tụ lại thành hàng nghìn thanh kiếm lơ lửng xếp thành bốn vòng quanh hai người."
+      },
+      "image_prompt": "a vast circle of a thousand floating swords arranged in four rotating rings around two small figures, top-down wide shot, pink and silver light",
+      "chapter": "Hiệp 5: hình thái thật của Thiên Bản Anh",
+      "on_screen_text": "Hiệp 5: hình thái thật",
+      "video_prompt": "the thousand floating swords slowly rotate in four rings around the two small figures",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Hình thái này yêu cầu Byakuya tự cầm kiếm lao vào. Người đã quen chiến đấu từ xa giờ phải bước vào tầm đánh của đối thủ."
+      },
+      "image_prompt": "a noble swordsman stepping forward into close range with a single glowing sword in hand, medium shot, tense dramatic light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Đây là một lựa chọn chiến thuật rất đáng chú ý. Byakuya từ bỏ lợi thế tấn công từ xa bằng cơn bão cánh hoa, để đổi lấy sức sát thương tập trung trong tay mình."
+      },
+      "image_prompt": "a diagram showing a wide cloud of dots collapsing into a ring of sharp swords around a center, parchment style, amber and pink ink",
+      "on_screen_text": "Đổi phạm vi lấy sát thương"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Anh còn gom cánh hoa thành một đôi cánh trắng sau lưng, dồn tất cả vào một đòn cuối."
+      },
+      "image_prompt": "a noble swordsman silhouette with glowing white feathered wings made of light petals unfolding behind him, low-angle shot, radiant light",
+      "on_screen_text": "Đôi cánh trắng"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Với một người luôn giữ khoảng cách với mọi người như Byakuya, việc tự bước lại gần một đối thủ có lẽ là thay đổi lớn hơn bất kỳ chiêu thức nào."
+      },
+      "image_prompt": "two figures standing close within a quiet circle of floating swords, the space between them small for the first time, close-up, warm light breaking through"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Kaku đọc lựa chọn này như một sự thừa nhận: Byakuya cuối cùng coi Ichigo là đối thủ ngang hàng, đáng để anh đích thân ra tay."
+      },
+      "image_prompt": "two swordsmen standing inside the ring of blades, now facing each other as equals, wide shot, balanced dramatic light",
+      "on_screen_text": "Coi nhau là ngang hàng"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku để ý: nếu nhìn trận đấu từ trên cao, sơ đồ hiệp năm giống hệt sơ đồ hiệp ba, chỉ là hai quân cờ đã đổi chỗ cho nhau."
+      },
+      "image_prompt": "two nearly identical tactical diagrams side by side, the black and white pieces swapped in the second, parchment top-down shot, amber ink"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Sơ đồ hiệp năm: Byakuya chọn dồn toàn lực vào một điểm, giống cách Ichigo làm với Bankai. Hai người giờ chơi cùng một kiểu. Và khi cùng kiểu, ý chí sẽ quyết định."
+      },
+      "image_prompt": "a tactical diagram with two concentrated stars facing each other at close range, parchment top-down shot, amber ink",
+      "on_screen_text": "Cùng một kiểu chơi"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Hai người lao vào nhau. Nguyệt Nha Thiên Xung màu đen của Ichigo va vào đòn cánh trắng của Byakuya."
+      },
+      "image_prompt": "a black crescent wave of energy colliding with a white wave of light petals in the center of a stormy hill, wide dynamic shot, black and white light",
+      "chapter": "Hiệp 6: đòn cuối",
+      "on_screen_text": "Hiệp 6: đòn cuối",
+      "video_prompt": "the black crescent wave and the white petal wave collide in a blinding flash",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Khi khói tan, cả hai vẫn đứng. Nhưng thanh kiếm của Byakuya đã gãy, và người lùi bước là anh."
+      },
+      "image_prompt": "a broken sword blade lying on cracked stone, smoke clearing around two standing silhouettes, medium shot, soft grey light",
+      "on_screen_text": "Kiếm gãy"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và chỉ ít lâu sau, khi một đội trưởng phản bội tấn công Rukia, chính Byakuya lấy thân mình đỡ đòn cho cô. Người đứng về phía luật lệ cuối cùng đã chọn giữ lời hứa với vợ."
+      },
+      "image_prompt": "a wounded noble figure standing in front of a young woman, shielding her with his body as a long blade strikes, dramatic medium shot, cold light",
+      "on_screen_text": "Đỡ đòn cho Rukia"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Byakuya nói rằng anh đã thua, và thanh kiếm của anh không còn muốn chém Ichigo nữa. Kaku thấy đây là cách thua đẹp nhất trong Bleach."
+      },
+      "image_prompt": "a noble figure turning away with his long coat torn, walking slowly into the mist, back view, melancholic light",
+      "on_screen_text": "Một cách thua đẹp"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Nhưng hãy nhớ: Ichigo cũng đã ở sát giới hạn. Sau trận, cậu gần như không thể cử động. Trận này không có người thắng tuyệt đối, chỉ có người đứng được lâu hơn một chút."
+      },
+      "image_prompt": "a teenager kneeling on one knee, leaning on a slim black sword to stay upright, exhausted, medium shot, dusk light",
+      "on_screen_text": "Thắng ở sát giới hạn"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku chấm như vậy vì điểm số chỉ đo từng hiệp. Nếu chấm cả trận, có lẽ phải thêm một cột cho thứ không đo được: người nào dám đổi cách chơi khi đang thua."
+      },
+      "image_prompt": "a scoreboard with an extra blank column labeled with a question mark added by hand, close-up, warm light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Tỉ số chung cuộc theo sơ đồ của Kaku: ba – hai cho Ichigo, sau khi bị dẫn trước. Một cuộc lội ngược dòng thật sự."
+      },
+      "image_prompt": "a scoreboard updated to 3 to 2 in favor of the black piece, confetti of petals falling, close-up",
+      "on_screen_text": "Chung cuộc: 3 – 2 Ichigo"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Sau trận, Bleach mới cho ta biết vì sao Byakuya lạnh lùng tới vậy. Rukia là em gái của người vợ quá cố của anh, Hisana."
+      },
+      "image_prompt": "an old family portrait of a gentle woman placed on a small altar with a single candle, close-up, soft warm light",
+      "chapter": "Sau trận: lý do của Byakuya",
+      "on_screen_text": "Lời hứa với Hisana"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Hisana từng bỏ rơi em gái khi còn nhỏ vì hoàn cảnh, và day dứt suốt phần đời còn lại. Trước khi mất, cô nhờ Byakuya tìm và bảo vệ Rukia."
+      },
+      "image_prompt": "a young woman lying weakly in a bed by a window, holding the hand of a man sitting beside her, soft evening light, medium shot",
+      "on_screen_text": "Lời nhờ cuối cùng"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Anh đã hứa với vợ sẽ bảo vệ Rukia. Nhưng anh cũng đã thề trước cha mẹ mình sẽ không bao giờ phá luật nữa, sau khi đã phá luật một lần để cưới Hisana."
+      },
+      "image_prompt": "a man standing between two glowing vows written on scrolls, one tied with a ribbon, one sealed with a family crest, medium shot, conflicted light",
+      "on_screen_text": "Hai lời thề mâu thuẫn"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Hai lời thề kéo anh về hai phía. Anh chọn luật, và chờ một người đủ mạnh tới phá vỡ nó thay anh. Kaku nghĩ trong thâm tâm, Byakuya đã chờ Ichigo thắng."
+      },
+      "image_prompt": "a chain stretched between two anchors with a figure in the middle, one link cracking, close-up, dramatic light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Sau khi mọi chuyện kết thúc, Byakuya kể cho Rukia sự thật về chị gái cô, và nói lời xin lỗi. Với một người như anh, đó có lẽ là việc khó hơn cả trận đấu."
+      },
+      "image_prompt": "a man and a young woman standing on a quiet veranda at dusk, cherry petals drifting between them, back view, gentle warm light",
+      "on_screen_text": "Lời xin lỗi"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Và vì vậy, nếu nhìn lại toàn trận, đối thủ thật của Ichigo không chỉ là thanh kiếm nghìn cánh hoa, mà là bức tường luật lệ trong lòng Byakuya."
+      },
+      "image_prompt": "a tall stone wall with carved rules cracking down the middle, a small figure with a sword standing before it, wide shot, dawn light breaking through"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Nhưng trước ba bài học trong trận, có một bài học từ hiệp số không: thua một trận không phải là hết. Ichigo thắng lần này chính vì lần trước đã thua quá đau."
+      },
+      "image_prompt": "a crumpled losing scorecard pinned beside a winning one on a corkboard, close-up, warm lamplight",
+      "chapter": "Ba bài học chiến thuật",
+      "on_screen_text": "Bài học 0: thua để học"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Giờ tới ba bài học. Bài một: khi đối thủ đánh bằng số lượng, đừng cố chặn tất cả. Hãy đủ nhanh để đi xuyên qua khe hở."
+      },
+      "image_prompt": "a small fast arrow slipping through a gap in a wall of many small dots, parchment diagram, amber ink",
+      "on_screen_text": "1. Đi xuyên khe hở"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Bài hai: nén sức mạnh vào một điểm thường hiệu quả hơn trải đều khắp nơi. Ichigo dùng nó ngay từ Bankai, còn Byakuya chỉ dùng ở hiệp cuối."
+      },
+      "image_prompt": "a diagram comparing a focused beam hitting a target and a diffuse spray missing, parchment style",
+      "on_screen_text": "2. Nén vào một điểm"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Bài ba: đừng dùng lối tắt mà bạn không kiểm soát được. Chiếc mặt nạ Hollow có thể giúp Ichigo thắng nhanh, nhưng cái giá có thể là mất chính mình."
+      },
+      "image_prompt": "a shortcut path on a map leading to a cliff edge, the long path winding safely around, parchment top-down shot",
+      "on_screen_text": "3. Tránh lối tắt nguy hiểm"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và một bài học không nằm trên sơ đồ: người có lý do để chiến đấu rõ ràng hơn thường đứng được lâu hơn. Ichigo biết mình muốn gì. Byakuya thì bị kẹt giữa hai điều mình muốn."
+      },
+      "image_prompt": "a single clear arrow next to a tangled knot of two arrows pulling in opposite directions, parchment diagram, close-up",
+      "on_screen_text": "Lý do rõ ràng"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku có một mẹo nhỏ: lần sau xem lại trận này, hãy tắt tiếng và chỉ nhìn khoảng cách giữa hai người. Bạn sẽ thấy cả câu chuyện nằm ở đó."
+      },
+      "image_prompt": "a tiny remote control with a muted speaker icon resting on the tactical map, close-up, cozy light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Bạn có nghĩ Byakuya thua vì kém hơn, hay vì trong thâm tâm anh không muốn thắng? Kaku rất muốn nghe ý kiến của bạn trong phần bình luận."
+      },
+      "image_prompt": "a single cherry blossom petal resting on a closed sword sheath, extreme close-up, soft pink light",
+      "on_screen_text": "Byakuya thua thật hay nhường?"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Ichigo đối đầu Byakuya là một trận mà Kaku tin rằng ai xem Bleach cũng nhớ. Không chỉ vì những đòn đẹp mắt, mà vì mỗi lựa chọn trong trận đều nói lên con người của người chọn nó."
+      },
+      "image_prompt": "two silhouettes standing on a hilltop at dawn after a battle, cherry petals drifting in the wind, wide shot, soft warm light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một cuốn hồ sơ đáng sợ hơn: bốn loại vũ khí sinh học mọc ra từ cơ thể của ngạ quỷ trong Tokyo Ghoul. Mỗi loại một điểm mạnh, một điểm yếu."
+      },
+      "image_prompt": "an old filing cabinet in a dark office with one drawer slightly open and a red glow coming from inside, medium shot, ominous light",
+      "on_screen_text": "Tiếp theo: hồ sơ Tokyo Ghoul"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu bạn thích xem trận đấu được mổ xẻ như một ván cờ, hãy đăng ký kênh để không bỏ lỡ trận tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot folding the tactical map and bowing like a referee after a match",
+      "use_mascot": true
+    }
+  ]
+}

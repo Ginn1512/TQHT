@@ -1,0 +1,684 @@
+{
+  "title": "Tougen Anki: Truyền thuyết Momotaro thật và vì sao anh hùng thành kẻ săn quỷ",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler nhẹ tiền đề của Tougen Anki, tương đương vài tập đầu của anime. Phần lớn video nói về truyện cổ tích thật, nên ai chưa xem vẫn theo được."
+      },
+      "image_prompt": "an old wooden storybook shelf in a quiet room with a single paper lantern glowing beside a closed notebook, wide establishing shot, warm amber light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler nhẹ"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Câu chuyện này có thật hơn bạn nghĩ. Một quả đào khổng lồ trôi trên sông. Một bà cụ vớt nó lên. Bên trong là một cậu bé."
+      },
+      "image_prompt": "a giant peach floating down a gentle river past reeds, an elderly woman kneeling at the bank with a washing basket, wide shot, soft morning light",
+      "on_screen_text": "Câu chuyện này có thật hơn bạn nghĩ",
+      "video_prompt": "the giant peach drifts slowly downstream as reeds sway and morning mist rises",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Cậu lớn lên, mang theo bánh kê, rủ một con chó, một con khỉ và một con chim trĩ, rồi vượt biển tới đảo Quỷ để diệt lũ quỷ và mang châu báu về làng."
+      },
+      "image_prompt": "a young hero silhouette walking on a coastal path with a dog, a monkey and a pheasant following, a distant dark island on the horizon, wide shot, golden light",
+      "on_screen_text": "Đảo Quỷ"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Trẻ con Nhật Bản lớn lên với câu chuyện Momotaro, cậu bé quả đào. Anh hùng là Momotaro, còn quỷ là kẻ xấu. Đơn giản vậy thôi."
+      },
+      "image_prompt": "a classroom of young children sitting on the floor listening to a teacher holding up a picture scroll, back view, warm afternoon light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Nhưng trong Tougen Anki, hậu duệ của Momotaro lại là những kẻ đi săn, còn hậu duệ của quỷ là những người bị truy đuổi. Tác giả lật ngược cả truyện cổ tích."
+      },
+      "image_prompt": "a split composition: an elegant hunter silhouette in a dark suit on the left, a frightened young man with faint glowing horns on the right, dramatic red and navy light",
+      "on_screen_text": "Anh hùng thành kẻ săn?"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Nghe như một bộ anime nổi loạn cố tình đi ngược. Nhưng nếu đọc kỹ lịch sử của truyện cổ tích này, bạn sẽ thấy nó từng bị kể lại theo đủ mọi hướng."
+      },
+      "image_prompt": "a stack of different book covers of the same folktale from many eras fanned out on a table, top-down shot, warm light"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình lần ngược về truyện Momotaro thật: phiên bản cũ nhất, gốc gác ở đâu, quỷ là ai. Và bạn sẽ thấy tác giả Tougen Anki không phải người đầu tiên lật ngược nó."
+      },
+      "image_prompt": "the owl mascot opening an ancient picture scroll on a low wooden table, a small peach resting beside it, warm lamplight",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trước hết, tiền đề của Tougen Anki. Ichinose Shiki là một cậu thiếu niên sống bình thường cùng cha nuôi, cho tới ngày bị một người đàn ông bí ẩn tấn công."
+      },
+      "image_prompt": "a rebellious teenager silhouette and an older man running through a dark suburban street at night, a menacing figure following, wide shot, cold streetlight",
+      "chapter": "Tougen Anki trong một phút",
+      "on_screen_text": "Ichinose Shiki"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Từ đó Shiki bước vào một thế giới khác: có trường học dành riêng cho những người trẻ mang máu quỷ, nơi họ học cách sống sót và chiến đấu."
+      },
+      "image_prompt": "a hidden academy building among dark forested hills, a group of young students with faint horn shadows walking through its gate, wide shot, dusk light",
+      "on_screen_text": "Trường học của hậu duệ quỷ"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Trong khi đó phía Momotaro hoạt động như một cơ quan có tổ chức, có cấp bậc, và coi việc săn quỷ là nhiệm vụ bảo vệ xã hội."
+      },
+      "image_prompt": "an orderly briefing room with silhouettes seated in rows before a large screen displaying a map with red markers, medium shot, cold blue light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Kẻ tấn công thuộc về một tổ chức của hậu duệ Momotaro. Và Shiki biết được sự thật: trong người cậu chảy dòng máu của quỷ."
+      },
+      "image_prompt": "a drop of blood falling onto a white floor and blooming into a faint horned shape, extreme close-up, crimson accent",
+      "on_screen_text": "Dòng máu quỷ"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Điều làm Kaku thấy thú vị nhất là người cha nuôi. Ông mang dòng máu Momotaro, tức là đáng lẽ phải săn quỷ. Nhưng ông đã không giết đứa trẻ sơ sinh ấy, mà nhận nuôi và yêu thương cậu."
+      },
+      "image_prompt": "a man holding a sleeping infant in his arms in a dim room, a hunter's weapon leaning forgotten against the wall behind him, medium shot, warm lamp light",
+      "on_screen_text": "Cha nuôi: dòng máu Momotaro"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Trong thế giới này, quỷ dùng chính máu của mình làm vũ khí: làm nó cứng lại, tạo hình, bắn ra ngoài. Còn phía Momotaro có năng lực riêng và cả một tổ chức lớn, có kỷ luật."
+      },
+      "image_prompt": "crimson blood forming into a sharp weapon shape above an open palm, opposite a row of disciplined silhouettes in dark uniforms, split composition, dramatic light",
+      "on_screen_text": "Máu quỷ vs tổ chức Momotaro"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới đang phát từ tháng mười, và Kaku sẽ không kể nội dung của nó ở đây."
+      },
+      "image_prompt": "the owl mascot closing a small book with a peach sticker on the cover and putting it aside politely",
+      "use_mascot": true
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Giờ ta mở truyện cổ tích ra. Phiên bản phổ biến ngày nay bắt đầu với hai ông bà già không có con. Ông lên núi đốn củi, bà ra sông giặt đồ."
+      },
+      "image_prompt": "a thatched-roof farmhouse at the foot of a mountain, an old man carrying firewood up a path, an old woman walking toward a river, wide shot, peaceful morning light",
+      "chapter": "Momotaro mà ai cũng biết",
+      "on_screen_text": "Phiên bản phổ biến"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Bà thấy một quả đào khổng lồ trôi tới, mang về nhà. Khi hai ông bà định bổ đào, một cậu bé bước ra. Họ đặt tên là Momotaro, nghĩa là cậu con trai quả đào."
+      },
+      "image_prompt": "a giant peach split open on a wooden floor, a tiny baby sitting inside it, an elderly couple staring in amazement, medium shot, warm hearth light",
+      "on_screen_text": "Momotaro = cậu con trai quả đào"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Cậu lớn nhanh và khỏe mạnh khác thường. Một ngày, cậu quyết định tới đảo Quỷ, nơi lũ quỷ vẫn hay sang cướp phá làng."
+      },
+      "image_prompt": "a strong young man kneeling respectfully before the elderly couple, a small travel bundle beside him, medium shot, soft lantern light"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Bà làm cho cậu những chiếc bánh kê. Trên đường đi, cậu chia bánh cho một con chó, một con khỉ và một con chim trĩ, đổi lấy việc chúng đi theo cậu."
+      },
+      "image_prompt": "a hand offering small round millet dumplings to a dog, a monkey and a pheasant on a forest path, close-up, dappled sunlight",
+      "on_screen_text": "Bánh kê đổi đồng đội"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Đây là phiên bản mà gần như mọi người Nhật đều thuộc lòng. Có cả một bài hát thiếu nhi về Momotaro xin bánh kê, mà trẻ con hát từ thời mẫu giáo."
+      },
+      "image_prompt": "a kindergarten classroom with children singing together around a small piano, a picture of a peach on the wall, medium shot, cheerful light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nhưng thử đọc lại với con mắt người lớn: Momotaro chưa hề bị quỷ làm hại. Cậu chủ động tới đảo, đánh bại chủ đảo, và mang của cải về. Chính chi tiết này sau này sẽ bị lật ngược."
+      },
+      "image_prompt": "a treasure chest overflowing with gold being carried away from a dark island, a small crying shadow watching from a cave entrance, wide shot, dusk light",
+      "on_screen_text": "Đọc lại bằng mắt người lớn"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Cả nhóm vượt biển, đánh bại lũ quỷ, và mang châu báu về làng. Hết truyện. Mọi người sống hạnh phúc."
+      },
+      "image_prompt": "a small boat returning to a village harbor loaded with treasure chests, villagers cheering on the shore, wide shot, bright victorious light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku phải khen chú chim trĩ. Trong đội có một con chó, một con khỉ, và một con chim chuyên đi mổ mắt quỷ. Nhỏ mà có võ, giống Kaku lúc bị hỏi bài khó."
+      },
+      "image_prompt": "the owl mascot puffing its chest proudly beside a small pheasant, both looking heroic",
+      "use_mascot": true
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Nhưng đây mới là phiên bản được chuẩn hóa về sau. Trong phần lớn các văn bản thời Edo, Momotaro không chui ra từ quả đào."
+      },
+      "image_prompt": "a stack of old woodblock-printed books with worn covers on a scholar's desk, close-up, candlelight",
+      "chapter": "Phiên bản cũ hơn: ông bà hóa trẻ",
+      "on_screen_text": "Thời Edo: khác hẳn"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Hai ông bà ăn quả đào, và trẻ lại như thời thanh xuân. Rồi họ sinh ra một đứa con theo cách bình thường. Đứa con ấy là Momotaro."
+      },
+      "image_prompt": "an elderly couple sharing slices of a glowing peach, their silhouettes gradually becoming young again, before-and-after composition, soft golden light",
+      "on_screen_text": "Ăn đào → hóa trẻ → sinh con",
+      "video_prompt": "the elderly couple's silhouettes shimmer and slowly become young as golden light grows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Ở một số vùng, truyện dân gian còn có những phiên bản khác nữa: có nơi kể Momotaro lúc nhỏ rất lười, chỉ chịu ra khỏi nhà khi bị cả làng thúc giục."
+      },
+      "image_prompt": "a lazy young man napping under a tree while villagers stand around him with their hands on their hips, humorous medium shot, afternoon light",
+      "on_screen_text": "Momotaro… lười biếng?"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Kaku thích phiên bản này nhất, vì nó cho Kaku hy vọng rằng anh hùng cũng từng ngủ nướng."
+      },
+      "image_prompt": "the owl mascot yawning under a blanket with a peach-shaped pillow",
+      "use_mascot": true
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Vì sao câu chuyện đổi đi? Khi truyện được đưa vào sách giáo khoa luân lý thời Minh Trị, chi tiết hóa trẻ và mang thai bị coi là không phù hợp với trẻ em. Phiên bản sinh ra từ quả đào trở thành bản chính thức."
+      },
+      "image_prompt": "a Meiji-era classroom with desks in rows and a standardized textbook open on a desk, close-up, cool daylight",
+      "on_screen_text": "Sách giáo khoa Minh Trị"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Kaku thấy chi tiết này rất đáng suy nghĩ. Một truyện cổ tích không phải là thứ đứng yên. Nó được kể lại, sửa lại, và cắt gọt theo điều người lớn muốn trẻ con tin."
+      },
+      "image_prompt": "a pair of scissors trimming a paper scroll, small cut-off fragments drifting away, close-up, warm lamplight",
+      "on_screen_text": "Truyện cổ tích cũng bị sửa"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Và nếu truyện đã từng được sửa để phục vụ giáo dục, thì một tác giả hiện đại sửa nó thêm lần nữa cũng là tiếp nối một truyền thống rất cũ."
+      },
+      "image_prompt": "a long line of hands passing the same scroll from one era to the next, each hand dressed differently, horizontal composition, amber light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Truyện Momotaro gắn với nhiều vùng ở Nhật, nhưng nổi tiếng nhất là tỉnh Okayama. Ở đó có một truyền thuyết cổ hơn nhiều về một vị hoàng tử tên Kibitsuhiko."
+      },
+      "image_prompt": "a misty rural landscape with rice fields and low mountains, an old shrine roof visible among trees, wide establishing shot, soft morning fog",
+      "chapter": "Gốc Okayama: hoàng tử và quỷ Ura",
+      "on_screen_text": "Okayama"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Theo truyền thuyết, vùng Kibi xưa có một con quỷ tên Ura sống trong một thành đá trên núi, đi cướp phá làng mạc. Triều đình Yamato cử hoàng tử Kibitsuhiko tới diệt quỷ."
+      },
+      "image_prompt": "a stone fortress on a mountain ridge under dark clouds, a small army of ancient warriors approaching along a valley road, wide shot, stormy light",
+      "on_screen_text": "Kibitsuhiko vs quỷ Ura"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Ngày nay ở Okayama vẫn còn di tích một thành cổ trên núi, và người ta gọi nó là Kinojo, nghĩa là thành của quỷ. Truyền thuyết nói đó chính là nơi quỷ Ura từng sống."
+      },
+      "image_prompt": "ancient stone fortress walls winding along a misty mountain ridge, a rebuilt wooden gate at the top, wide establishing shot, soft morning fog",
+      "on_screen_text": "Kinojo: thành của quỷ"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Và ở Okayama có đền Kibitsu, nơi thờ chính vị hoàng tử diệt quỷ. Một truyền thuyết tới giờ vẫn có đền, có thành, có lễ hội."
+      },
+      "image_prompt": "a long covered wooden corridor of an old shrine stretching into the distance under red autumn leaves, wide shot, warm light",
+      "on_screen_text": "Đền Kibitsu"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Nhiều người tin đây chính là hình mẫu gốc của Momotaro. Ngày nay Okayama vẫn tự gọi mình là quê hương của cậu bé quả đào, có tượng, có lễ hội, và bánh kê là đặc sản."
+      },
+      "image_prompt": "a small bronze statue of a boy with animal companions in front of a modern train station, tourists taking photos, medium shot, bright daylight",
+      "on_screen_text": "Quê hương Momotaro"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Nhưng có một chi tiết làm Kaku dừng lại. Vùng Kibi xưa nổi tiếng về luyện sắt. Một số cách diễn giải cho rằng những kẻ bị gọi là quỷ có thể là những người từ nơi khác đến, mang theo kỹ thuật và quyền lực riêng."
+      },
+      "image_prompt": "an ancient iron smelting furnace glowing in a mountain village, workers silhouetted against the fire, medium shot, orange firelight",
+      "on_screen_text": "Quỷ = người nơi khác đến?"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku phải nói rõ: đây là cách diễn giải của một số nhà nghiên cứu và câu chuyện địa phương, không phải sự thật lịch sử đã được chứng minh."
+      },
+      "image_prompt": "the owl mascot holding up a paper tag reading interpretation on a string, eyebrows raised seriously",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Nhưng nó mở ra một câu hỏi rất lớn, đúng thứ mà Tougen Anki đặt ra: khi người thắng kể lại câu chuyện, kẻ thua sẽ trở thành gì trong trang sử?"
+      },
+      "image_prompt": "a victorious scribe writing on a scroll while a defeated figure's shadow on the wall grows horns, medium shot, dramatic candlelight",
+      "on_screen_text": "Người thắng viết lịch sử"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Vậy quỷ, hay oni, trong văn hóa Nhật là gì? Hình ảnh quen thuộc nhất là sừng trên đầu, khố bằng da hổ, và cây gậy sắt có gai."
+      },
+      "image_prompt": "a traditional theatrical demon mask with two horns hanging on a wooden wall beside a spiked iron club, still life, dramatic side light",
+      "chapter": "Quỷ trong văn hóa Nhật",
+      "on_screen_text": "Sừng · da hổ · gậy sắt"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Có một cách giải thích rất thú vị cho hình ảnh này. Hướng đông bắc được coi là quỷ môn, cửa của quỷ. Trong mười hai con giáp, hướng đó là giữa Sửu và Dần, tức là trâu và hổ."
+      },
+      "image_prompt": "an old compass diagram on parchment with the northeast direction highlighted, small ox and tiger icons at that position, top-down shot, amber ink",
+      "on_screen_text": "Quỷ môn: Sửu + Dần"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Và giờ tới chi tiết Kaku thích nhất. Hướng ngược lại với quỷ môn là tây nam, ứng với ba con giáp Thân, Dậu, Tuất: khỉ, gà, chó."
+      },
+      "image_prompt": "the same compass diagram with the southwest direction now highlighted in gold, small monkey, rooster and dog icons at that position, top-down shot, amber ink",
+      "on_screen_text": "Ngược quỷ môn: Thân · Dậu · Tuất"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Khỉ, một con chim, và chó. Chính là ba người bạn đồng hành của Momotaro. Theo cách giải thích này, đội hình của cậu bé quả đào được chọn từ hướng khắc chế quỷ."
+      },
+      "image_prompt": "a monkey, a pheasant and a dog standing in formation facing a horned shadow across the compass diagram, parchment illustration, warm light",
+      "on_screen_text": "Đội hình khắc chế quỷ"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kaku phải nói rõ: đây là cách giải thích phổ biến, được nhắc nhiều ở Nhật, nhưng không ai chắc người kể truyện đầu tiên đã nghĩ như vậy. Dù sao thì nó quá đẹp để không kể."
+      },
+      "image_prompt": "the owl mascot pinning a small star sticker labeled popular theory next to the compass diagram",
+      "use_mascot": true
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Sừng trâu và da hổ. Quỷ được vẽ theo đúng hướng mà nó được cho là đi vào. Kaku không biết có đúng hoàn toàn không, nhưng đây là cách giải thích phổ biến ở Nhật."
+      },
+      "image_prompt": "an ox horn and a tiger-striped cloth placed side by side under a single spotlight, close-up, warm light"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Có cả những hòn đảo thật tự nhận là đảo Quỷ. Một hòn đảo nhỏ ở biển nội địa Seto có hang động lớn, và người ta đón khách du lịch tới xem hang của quỷ."
+      },
+      "image_prompt": "a small green island in a calm inland sea with a dark cave entrance on its hillside, tourists walking on a path toward it, wide shot, bright daylight",
+      "on_screen_text": "Đảo Quỷ có thật?"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Mỗi năm vào dịp tiết Phân, người Nhật ném đậu ra cửa và hô quỷ ra ngoài, phúc vào nhà. Quỷ là thứ bị đẩy ra ngoài ranh giới."
+      },
+      "image_prompt": "a family tossing roasted beans out of an open door at dusk, a small shadow of horns fleeing outside, medium shot, warm interior light",
+      "on_screen_text": "Quỷ ra ngoài, phúc vào nhà"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Và đó là chìa khóa: trong nhiều câu chuyện, quỷ đại diện cho những gì ở bên ngoài: người lạ, kẻ nổi loạn, người bị gạt ra lề. Ai được gọi là quỷ phụ thuộc vào ai đứng bên trong cánh cửa."
+      },
+      "image_prompt": "a door half open, warm light inside with a family, a lonely silhouette with faint horns standing in the cold outside, wide shot",
+      "on_screen_text": "Ai bên trong cánh cửa?"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Nhưng văn hóa Nhật cũng có những câu chuyện về quỷ tốt bụng, quỷ khóc vì bị hiểu lầm. Quỷ không phải lúc nào cũng là cái ác thuần túy."
+      },
+      "image_prompt": "a large gentle demon silhouette sitting alone on a hillside, a small flower in its giant hand, wide shot, melancholic sunset"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Năm 1924, nhà văn Akutagawa Ryunosuke, người mà giải văn học lớn nhất Nhật Bản mang tên, đăng một truyện ngắn tên là Momotaro. Và ông đã làm đúng điều Tougen Anki làm, trước gần một trăm năm."
+      },
+      "image_prompt": "a 1920s writer's desk with a fountain pen, ink bottle and newspaper pages, a small peach sketch in the margin, close-up, warm lamplight",
+      "chapter": "Akutagawa: người lật ngược đầu tiên",
+      "on_screen_text": "Akutagawa, 1924"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Ông viết rằng lũ quỷ ở đó chơi đàn, múa hát, và kể cho nhau nghe chuyện về con người như kể chuyện ma. Con người mới là thứ đáng sợ trong mắt quỷ."
+      },
+      "image_prompt": "a group of gentle horned figures sitting around a campfire telling scary stories, one shaping a human silhouette with its hands in the smoke, medium shot, warm firelight",
+      "on_screen_text": "Trong mắt quỷ, con người mới đáng sợ"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Trong truyện của Akutagawa, đảo Quỷ là một hòn đảo yên bình. Lũ quỷ sống hiền hòa, yêu âm nhạc, yêu gia đình."
+      },
+      "image_prompt": "a peaceful tropical island village with gentle horned figures playing music and children playing on the beach, wide shot, warm golden light",
+      "on_screen_text": "Đảo Quỷ yên bình",
+      "video_prompt": "gentle horned villagers play music on the beach as warm light ripples across the water",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Truyện kết thúc không có đoạn sống hạnh phúc mãi mãi. Những con quỷ sống sót ôm hận, và mối thù ấy được hứa hẹn sẽ còn tiếp diễn."
+      },
+      "image_prompt": "a small horned child silhouette standing on a ruined beach looking at a departing boat on the horizon, wide shot, cold grey dusk",
+      "on_screen_text": "Không có kết có hậu"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Momotaro tới xâm chiếm hòn đảo đó, không vì lý do chính đáng nào, và những con vật đi theo cậu chỉ vì được trả công. Người anh hùng bị kể lại như một kẻ xâm lược."
+      },
+      "image_prompt": "a dark silhouette with three animal shadows arriving on a beach at night with torches, frightened villagers watching from the trees, wide shot, ominous red light",
+      "on_screen_text": "Anh hùng → kẻ xâm lược"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Đây là một truyện châm biếm tinh thần chiến tranh và bành trướng lúc bấy giờ. Akutagawa dùng chính câu chuyện mà ai cũng yêu để đặt ra câu hỏi: có thật kẻ thắng luôn đúng?"
+      },
+      "image_prompt": "a newspaper page with a satirical ink cartoon of a boy marching with a flag, close-up, sepia tones"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku thấy tác giả Tougen Anki đi cùng một hướng. Có thể không phải bắt chước, nhưng rõ ràng câu hỏi ấy đã nằm trong truyện cổ tích từ rất lâu."
+      },
+      "image_prompt": "two books side by side, one old and worn, one modern, both with a peach symbol on the cover, close-up, amber light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Rồi có một mặt ngược lại. Trong Thế chiến thứ hai, Momotaro được dùng làm biểu tượng tuyên truyền. Quỷ trở thành hình ảnh của kẻ thù bên ngoài."
+      },
+      "image_prompt": "a faded wartime poster style illustration of a boy hero leading animal soldiers, rendered in muted sepia, close-up",
+      "chapter": "Momotaro ra trận",
+      "on_screen_text": "Momotaro trong tuyên truyền"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Trong phim, Momotaro chỉ huy những con vật đáng yêu trong vai binh lính. Lũ quỷ đại diện cho kẻ thù ngoại quốc. Truyện cổ tích bị biến thành một công cụ chính trị."
+      },
+      "image_prompt": "a row of cute animal silhouettes in sailor caps marching in line under a flag, rendered as a faded vintage cartoon still, wide shot, sepia tones"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Năm 1945, bộ phim hoạt hình dài đầu tiên của Nhật ra đời, tên là Momotaro: Thần binh trên biển. Đó là một bộ phim tuyên truyền do hải quân đặt làm."
+      },
+      "image_prompt": "an old film projector casting light onto a screen in a dark cinema, rows of empty wooden seats, wide shot, flickering light",
+      "on_screen_text": "Phim hoạt hình dài đầu tiên: 1945"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Nghĩa là lịch sử anime có một điểm khởi đầu rất lạ: phim hoạt hình dài đầu tiên của Nhật kể về Momotaro và những con quỷ."
+      },
+      "image_prompt": "a single frame of old film strip glowing against darkness, close-up, warm amber light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Kaku ghi chú: cùng một câu chuyện, một người dùng để cổ vũ chiến tranh, một người dùng để phê phán chiến tranh. Truyện cổ tích không có lập trường. Người kể mới có."
+      },
+      "image_prompt": "the owl mascot holding two identical scrolls, one tied with a red ribbon and one with a white ribbon, looking thoughtful",
+      "on_screen_text": "Truyện không có lập trường, người kể mới có",
+      "use_mascot": true
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Giờ quay lại Tougen Anki. Thứ nhất, tác giả biến Momotaro từ một người anh hùng thành cả một dòng máu, một tổ chức có quy củ, có quyền lực, có cả vỏ bọc hợp pháp."
+      },
+      "image_prompt": "a sleek corporate building lobby with a subtle peach emblem on the wall, rows of disciplined silhouettes in dark suits, wide shot, cold light",
+      "chapter": "Tougen Anki lật ngược những gì",
+      "on_screen_text": "Momotaro → một tổ chức"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Nghĩa là không còn đảo Quỷ ở xa ngoài biển nữa. Ranh giới giữa bên trong và bên ngoài cánh cửa giờ nằm ngay trong một thành phố, thậm chí trong một gia đình."
+      },
+      "image_prompt": "a modern apartment building at night, one window glowing red among many warm yellow windows, wide shot, quiet urban light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Thứ hai, quỷ không còn là con quái vật ngoài đảo. Họ là người sống lẫn trong xã hội, nhiều người không hề biết mình mang dòng máu ấy cho tới khi thức tỉnh."
+      },
+      "image_prompt": "an ordinary city crosswalk crowd, one person in the middle with faint translucent horns only visible in their reflection on a shop window, medium shot, daylight",
+      "on_screen_text": "Quỷ sống giữa chúng ta"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Thứ ba, trong truyện gốc quỷ bị đánh và bị cướp châu báu. Trong Tougen Anki, hậu duệ quỷ bị truy đuổi chỉ vì dòng máu, không cần biết họ đã làm gì."
+      },
+      "image_prompt": "a young person running through rain at night, their shadow on the wall showing horns while their own figure looks completely ordinary, wide shot, cold light",
+      "on_screen_text": "Bị săn vì dòng máu"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và phía Momotaro cũng không phải ai cũng giống ai. Truyện cho thấy trong mỗi phe đều có người tàn nhẫn và người tử tế. Dòng máu chỉ là điểm xuất phát."
+      },
+      "image_prompt": "two groups of silhouettes facing each other, a few individuals on each side stepping slightly forward with open hands, wide shot, balanced warm and cold light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Thứ tư, và đây là chỗ tinh tế nhất: dòng máu không quyết định tất cả. Người cha nuôi mang máu Momotaro nhưng chọn yêu thương một đứa trẻ quỷ. Lựa chọn quan trọng hơn nguồn gốc."
+      },
+      "image_prompt": "a large hand and a small hand holding each other, one with a faint peach-pink glow and one with a faint crimson glow, extreme close-up, warm light",
+      "on_screen_text": "Lựa chọn > nguồn gốc"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Và tên truyện, Tougen Anki, có chữ Đào Nguyên, nghĩa là vườn đào tiên, chốn thiên đường. Nhưng đi kèm với nó là chữ quỷ. Một thiên đường có quỷ ẩn bên trong."
+      },
+      "image_prompt": "a beautiful peach orchard in full bloom with a single dark horned shadow standing between the trees, wide shot, pink and navy light",
+      "on_screen_text": "Đào Nguyên + quỷ",
+      "video_prompt": "peach blossoms fall slowly through the orchard as the dark horned shadow turns its head",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku để ý thêm một điều: năng lực của quỷ trong truyện đến từ chính dòng máu. Như thể thứ khiến họ bị săn đuổi cũng là thứ giúp họ tự vệ."
+      },
+      "image_prompt": "a single drop of crimson blood suspended above a palm, glowing and forming a small shield shape, extreme close-up, dramatic light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Tại sao tác giả hiện đại lại thích lật ngược truyện cổ tích? Kaku nghĩ có ba lý do."
+      },
+      "image_prompt": "the owl mascot holding up three fingers in front of a chalkboard with a peach drawn upside down",
+      "chapter": "Vì sao phải lật ngược",
+      "on_screen_text": "3 lý do",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Một: người đọc hôm nay không còn chấp nhận câu chuyện có kẻ xấu chỉ vì họ trông khác. Chúng ta muốn biết lý do, muốn nghe cả phía bên kia."
+      },
+      "image_prompt": "two people sitting across a table in conversation, one with faint horns, both listening intently, medium shot, warm café light",
+      "on_screen_text": "1. Muốn nghe phía bên kia"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Hai: truyện cổ tích quá quen, nên lật ngược nó là cách nhanh nhất để gây bất ngờ. Người Nhật nghe tên Momotaro là đã có sẵn hình ảnh trong đầu, và tác giả chỉ cần xoay nó lại."
+      },
+      "image_prompt": "a familiar picture book cover being turned around on a table to reveal a darker version on the back, close-up, dramatic light",
+      "on_screen_text": "2. Gây bất ngờ"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Kaku nghĩ đây cũng là lý do truyện được yêu thích ngoài Nhật Bản: câu chuyện về người bị ghét chỉ vì nguồn gốc là câu chuyện mà ai cũng có thể hiểu."
+      },
+      "image_prompt": "readers from different backgrounds holding the same book on a crowded train, each absorbed in reading, medium shot, soft daylight"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Ba: câu hỏi ai là quỷ vẫn luôn đúng với thời nào cũng vậy. Mỗi xã hội đều có những người bị coi là quỷ chỉ vì họ đến từ bên ngoài."
+      },
+      "image_prompt": "a line drawn on the ground separating a crowd from a small group of outsiders, both sides looking wary, top-down wide shot, grey light",
+      "on_screen_text": "3. Câu hỏi không bao giờ cũ"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và đây là lý do dạng video này tồn tại trên kênh: hiểu câu chuyện gốc, bạn sẽ thấy anime hay hơn nhiều, vì bạn biết tác giả đang đối thoại với ai."
+      },
+      "image_prompt": "a reader holding a modern manga in one hand and an old folktale book in the other, reading both, close-up, warm light"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku gom lại thành một tấm bản đồ. Cột bên trái là những gì có thật trong văn hóa và lịch sử."
+      },
+      "image_prompt": "a large parchment map divided into two columns, the left side illustrated with a shrine, a scroll and an iron furnace, top-down shot, amber ink",
+      "chapter": "Bản đồ thật và hư cấu",
+      "on_screen_text": "Bản đồ thật / hư cấu"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Cũng ở cột có thật: di tích thành cổ ở Okayama gắn với truyền thuyết quỷ Ura, và cách giải thích chó, khỉ, chim là các con giáp ngược hướng quỷ môn, với nhãn là giả thuyết phổ biến."
+      },
+      "image_prompt": "a small fortress wall icon and a compass icon on the left column of the map, one with a tiny label tag, close-up"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Có thật: truyện Momotaro với chó, khỉ, chim trĩ và bánh kê. Phiên bản cũ ông bà hóa trẻ. Truyền thuyết Kibitsuhiko và quỷ Ura ở Okayama. Tục ném đậu đuổi quỷ."
+      },
+      "image_prompt": "small icons on the left column of the map: a peach, three animals, a shrine and a handful of beans, close-up, warm light",
+      "on_screen_text": "Có thật"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Cũng có thật: truyện châm biếm năm 1924 của Akutagawa, và bộ phim hoạt hình tuyên truyền năm 1945."
+      },
+      "image_prompt": "a newspaper and a film reel drawn on the left column of the map, close-up"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Cột bên phải là sáng tạo của Tougen Anki: hai dòng máu Momotaro và quỷ di truyền tới ngày nay, năng lực điều khiển máu, tổ chức săn quỷ hiện đại, và người cha nuôi chọn tình thương thay vì dòng máu."
+      },
+      "image_prompt": "the right column of the map illustrated with a blood drop, a corporate emblem and two clasped hands, close-up, crimson and navy",
+      "on_screen_text": "Hư cấu của tác giả"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và ở giữa hai cột, Kaku vẽ một mũi tên: câu hỏi ai mới thật sự là quỷ. Câu hỏi đó đi từ truyền thuyết cổ, qua Akutagawa, tới tận Tougen Anki hôm nay."
+      },
+      "image_prompt": "a glowing arrow crossing from the left column to the right column of the map with a question mark at its center, close-up, amber light",
+      "on_screen_text": "Ai mới là quỷ?"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Một quả đào trôi trên sông đã đi một hành trình dài hơn bất kỳ ai tưởng: từ truyền thuyết địa phương, vào sách giáo khoa, lên màn ảnh chiến tranh, rồi thành một bộ anime về những con người bị săn đuổi."
+      },
+      "image_prompt": "a giant peach floating down a river that flows through different eras: ancient villages, a Meiji town, a modern city at night, wide panoramic shot, warm to cool light",
+      "chapter": "Kết",
+      "video_prompt": "the peach floats through changing eras as the riverbanks transform from villages to a neon city",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Hãy nhớ lần sau nghe ai đó kể một câu chuyện có anh hùng và quỷ: thử hỏi xem ai đang cầm bút, và câu chuyện đã được sửa bao nhiêu lần."
+      },
+      "image_prompt": "a brush pen resting on an unfinished scroll where a hero and a demon are drawn side by side, close-up, warm candlelight"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu bạn là người kể lại truyện Momotaro, bạn sẽ đứng về phía ai? Viết phiên bản một câu của bạn vào bình luận nhé, Kaku sẽ đọc từng câu."
+      },
+      "image_prompt": "an empty scroll and a brush waiting on a low table beside a peach, top-down shot, inviting warm light",
+      "on_screen_text": "Phiên bản của bạn?"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku quay lại với một trận đấu kinh điển: Ichigo đối đầu Byakuya. Kaku sẽ chia trận đấu thành từng hiệp, xem mỗi người đã chọn gì và trả giá gì."
+      },
+      "image_prompt": "two sword-wielding silhouettes facing each other on a tall white tower under a storm of falling cherry blossom petals, wide shot, dramatic light",
+      "on_screen_text": "Tiếp theo: Ichigo vs Byakuya"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu bạn thích những video đào ngược về nguồn gốc thật như thế này, hãy đăng ký kênh để không bỏ lỡ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the ancient scroll, placing a peach on top, and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}
