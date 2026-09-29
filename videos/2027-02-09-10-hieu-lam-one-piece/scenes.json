@@ -1,0 +1,654 @@
+{
+  "title": "One Piece: 10 hiểu lầm mà cả fan lâu năm cũng tin",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới khoảng arc Wano và đầu arc Egghead của manga One Piece. Nếu bạn chỉ định xem bản làm lại sắp ra mắt từ đầu, hãy cẩn thận với vài hiểu lầm ở nửa sau video."
+      },
+      "image_prompt": "a rolled treasure map tied with a red cord beside a spoiler warning card on an old wooden ship deck, close-up, warm sunset light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới Wano, đầu Egghead"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Luffy muốn làm Vua Hải Tặc để giàu nhất thế giới. Chiếc mũ rơm vốn là của Shanks. Luffy là người nhỏ tuổi nhất trên tàu. Nếu bạn tin cả ba câu này, video này dành cho bạn."
+      },
+      "image_prompt": "three handwritten notes pinned to a ship's mast, each with a large red X drawn over it, close-up, bright sea light",
+      "on_screen_text": "Ai cũng tin, nhưng…"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "One Piece đã đăng hơn hai mươi lăm năm, hơn một trăm mười tập truyện, và vượt sáu trăm triệu bản trên toàn thế giới. Truyện càng dài, hiểu lầm càng nhiều."
+      },
+      "image_prompt": "a towering stack of manga volumes on a wooden table beside a ship's wheel, close-up, warm golden light",
+      "on_screen_text": "Hơn 600 triệu bản"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Và đầu năm 2027, Netflix ra mắt bản anime làm lại, bắt đầu từ biển Đông. Rất nhiều người sẽ xem One Piece lần đầu, hoặc xem lại sau nhiều năm. Đây là lúc tốt nhất để gỡ những hiểu lầm cũ."
+      },
+      "image_prompt": "a small sailboat setting out from a peaceful harbor at dawn with gulls overhead, wide shot, fresh morning light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku gỡ mười hiểu lầm về One Piece, từ nhỏ tới lớn. Hiểu lầm lớn nhất, Kaku để dành tới cuối."
+      },
+      "image_prompt": "the owl mascot wearing a tiny captain's hat, crossing out items on a long checklist with a quill",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Với mỗi hiểu lầm, Kaku đi qua ba bước: người ta tin gì, truyện thật sự nói gì, và vì sao lại dễ hiểu nhầm như vậy."
+      },
+      "image_prompt": "a notebook page with three columns headed by small icons of a speech bubble, an open book, and a question mark, close-up, amber ink"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Nhiều người nghĩ Luffy muốn làm Vua Hải Tặc để có kho báu lớn nhất, hoặc để thống trị biển cả, giống những hải tặc khác."
+      },
+      "image_prompt": "a mountain of gold coins and jewels glowing inside a dark cave, a crown resting on top, wide shot, greedy golden light",
+      "chapter": "Hiểu lầm 1: Vua Hải Tặc là người giàu nhất",
+      "on_screen_text": "Người ta tin: giàu nhất, mạnh nhất"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhưng Luffy đã nói rõ: cậu không muốn thống trị ai cả. Với cậu, Vua Hải Tặc là người tự do nhất trên biển."
+      },
+      "image_prompt": "a small figure standing on the bow of a ship with arms spread wide as wind blows across an endless ocean, wide shot, bright open sky light",
+      "on_screen_text": "Truyện nói: người tự do nhất"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Luffy từng giải thích đại ý: người mạnh nhất có thể ra lệnh cho người khác, nhưng cậu chỉ muốn được đi bất cứ đâu, làm bất cứ điều gì mình thích. Không ai trói được cậu."
+      },
+      "image_prompt": "a broken chain lying on a ship deck while seagulls fly freely overhead, close-up, bright sunny light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Trong One Piece có hai kiểu hải tặc: kiểu đi cướp bóc, và kiểu đi phiêu lưu. Luffy thuộc kiểu thứ hai, và chính cậu cũng hay đánh nhau với kiểu thứ nhất."
+      },
+      "image_prompt": "two ships on the sea, one dark and menacing with cannons out, one small and bright with laundry drying on deck, wide shot, contrasting light",
+      "on_screen_text": "Cướp bóc vs phiêu lưu"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì trong truyện, gần như mọi hải tặc khác đều muốn kho báu hay quyền lực. Luffy đứng cạnh họ nên ta nghĩ cậu cũng giống vậy."
+      },
+      "image_prompt": "a row of pirate flags flapping in the wind, one plain flag with a simple smiling face standing out among fearsome designs, wide shot, dramatic sky"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Hãy để ý: Luffy chưa bao giờ muốn cai trị một hòn đảo nào sau khi giải phóng nó. Cậu thắng, ăn tiệc, rồi ra khơi. Một vị vua kỳ lạ không cần vương quốc."
+      },
+      "image_prompt": "a lively harbor festival with lanterns and music while a small ship quietly sails away in the background, wide shot, warm festive light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Kaku thấy hiểu lầm này quan trọng vì nó thay đổi cả cách ta hiểu Luffy. Cậu không đánh nhau để chiếm, mà để giải phóng. Gần như mọi arc đều kết thúc bằng việc một nơi nào đó được tự do."
+      },
+      "image_prompt": "the owl mascot opening a birdcage and watching a small bird fly out toward the sea",
+      "use_mascot": true
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Ai xem tập một cũng nhớ cảnh Shanks đội chiếc mũ rơm lên đầu Luffy. Nên nhiều người nghĩ đó là mũ của Shanks."
+      },
+      "image_prompt": "a worn wide-brimmed hat being placed gently on a small child's head on a harbor dock, close-up of hands and hat, warm nostalgic light",
+      "chapter": "Hiểu lầm 2: Chiếc mũ rơm vốn là của Shanks",
+      "on_screen_text": "Người ta tin: mũ của Shanks"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Nhưng trước Shanks, chiếc mũ thuộc về một người khác: Gol D. Roger, Vua Hải Tặc. Shanks từng là một cậu bé tập sự trên tàu của Roger, và được Roger trao lại chiếc mũ."
+      },
+      "image_prompt": "an old wide-brimmed hat resting on a barrel on the deck of a grand old pirate ship at sunset, close-up, golden nostalgic light",
+      "on_screen_text": "Truyện nói: mũ của Roger trước"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Nghĩa là chiếc mũ đã đi qua ba đời: Roger, Shanks, rồi Luffy. Nó như một lời hứa được truyền tay nhau, chờ người tiếp theo."
+      },
+      "image_prompt": "three hands passing an old wide-brimmed hat along a line, each hand looking different in age, symbolic close-up, warm light",
+      "on_screen_text": "Roger → Shanks → Luffy",
+      "video_prompt": "the old hat passes slowly from hand to hand as warm light shifts",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và khi Luffy nhận mũ, cậu hứa sẽ trả lại cho Shanks khi đã trở thành một hải tặc vĩ đại. Chiếc mũ vì thế vừa là quà tặng, vừa là một lời hẹn."
+      },
+      "image_prompt": "a child's small hand shaking a grown-up's hand on a harbor dock, the sea sparkling behind them, close-up, warm nostalgic light",
+      "on_screen_text": "Một lời hẹn"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì chi tiết này được tiết lộ rất lâu sau tập một. Người chỉ xem phần đầu sẽ không biết."
+      },
+      "image_prompt": "a flashback-style faded illustration of a young cabin boy looking up at a tall captain, sepia tone, soft light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kaku thích nghĩ rằng chiếc mũ rơm là vật cài cắm lâu đời nhất One Piece. Nó xuất hiện từ trang đầu tiên, và ý nghĩa của nó vẫn đang lớn dần tới hôm nay."
+      },
+      "image_prompt": "an old wide-brimmed hat placed on an old map beside a compass, close-up, warm adventurous light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Luffy hồn nhiên, ham ăn, hay làm trò. Nhiều người nghĩ cậu là em út của băng Mũ Rơm."
+      },
+      "image_prompt": "a cheerful young figure stuffing food into their mouth at a crowded ship's dining table, humorous medium shot, warm light",
+      "chapter": "Hiểu lầm 3: Luffy là người nhỏ tuổi nhất",
+      "on_screen_text": "Người ta tin: Luffy là em út"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Sự thật: sau hai năm tập luyện, Luffy mười chín tuổi. Người nhỏ tuổi nhất băng là bác sĩ Chopper, chú tuần lộc mười bảy tuổi."
+      },
+      "image_prompt": "a tiny doctor's bag with a small hat on top placed beside a stethoscope on a ship's medical desk, close-up, warm light",
+      "on_screen_text": "Truyện nói: Chopper nhỏ nhất"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì tính cách của Luffy trẻ con hơn tuổi thật. Và Chopper trông lại giống một thú bông hơn là một người."
+      },
+      "image_prompt": "a small plush-like reindeer silhouette sitting beside a tall silhouette laughing loudly, humorous medium shot, bright light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Thực ra trong băng có nhiều người lớn tuổi hơn Luffy khá nhiều, từ nhà khảo cổ, thợ đóng tàu tới một nhạc công đã sống qua cả trăm năm. Và họ đều chọn đi theo một cậu trai mười chín tuổi."
+      },
+      "image_prompt": "a varied group of silhouettes of different heights and ages standing behind a young captain on a ship's deck, wide shot, warm sunset light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Kaku thấy đây là một hiểu lầm nhỏ, nhưng thú vị: Oda cố ý để thuyền trưởng là người vô tư nhất, chứ không phải người già dặn nhất. Lãnh đạo không cần phải nghiêm nghị."
+      },
+      "image_prompt": "a ship's crew around a campfire on a beach, the captain doing a silly dance while everyone laughs, wide shot, warm firelight"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Suốt hơn hai mươi năm, ai cũng biết Luffy ăn trái Gomu Gomu, trái cao su, thuộc hệ Paramecia, tức là hệ biến đổi cơ thể hoặc môi trường."
+      },
+      "image_prompt": "a strange swirling fruit on a wooden table labeled with a small tag, close-up, soft mysterious light",
+      "chapter": "Hiểu lầm 4: Trái của Luffy là trái cao su",
+      "on_screen_text": "Người ta tin: trái cao su"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Nhưng ở chương 1044, truyện tiết lộ: tên thật của trái này là Hito Hito no Mi, mô hình Nika. Nó thuộc hệ Zoan thần thoại, loại trái hiếm nhất."
+      },
+      "image_prompt": "an ancient mural of a laughing sun god with swirling clouds, painted on weathered stone, close-up, radiant warm light",
+      "on_screen_text": "Truyện nói: Zoan thần thoại, mô hình Nika",
+      "video_prompt": "the ancient mural glows as the painted sun god's laugh seems to ripple across the stone",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Chính phủ Thế giới đã đổi tên trái này suốt nhiều thế kỷ để che giấu nó. Nika là một vị thần mặt trời trong truyền thuyết, người mang lại nụ cười và sự giải phóng."
+      },
+      "image_prompt": "a thick government ledger with one entry scratched out and rewritten, a faint sun symbol showing through the ink, extreme close-up, dim light",
+      "on_screen_text": "Bị đổi tên để che giấu"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì đây là một trong những cú bẻ lái lớn nhất lịch sử manga. Suốt hơn một nghìn chương, chính truyện cũng gọi nó là trái cao su."
+      },
+      "image_prompt": "a label being peeled off a jar to reveal an older label underneath, extreme close-up, warm light"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Chi tiết thú vị: chương 1044 được chính Oda xem là một chương bước ngoặt, vì đây cũng là lúc Luffy thức tỉnh dạng mới mà fan gọi là Gear 5."
+      },
+      "image_prompt": "a manga chapter page corner marked with a special gold bookmark, close-up, radiant warm light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nhưng khi nhìn lại, có rất nhiều chi tiết ám chỉ: tiếng trống, nụ cười, những người bị áp bức chờ đợi một người giải phóng. Oda đã cài cắm điều này từ rất lâu."
+      },
+      "image_prompt": "a small drum and an old wide-brimmed hat resting together on a ship's rail at sunset, close-up, warm golden light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Luật nổi tiếng của trái ác quỷ: mỗi người chỉ có thể ăn một trái. Ăn trái thứ hai, cơ thể sẽ nổ tung."
+      },
+      "image_prompt": "two strange swirling fruits placed on opposite sides of a table with a warning skull drawn between them on parchment, close-up, ominous light",
+      "chapter": "Hiểu lầm 5: Ăn hai trái ác quỷ là chết",
+      "on_screen_text": "Người ta tin: ăn 2 trái là chết"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Nhưng Râu Đen, Marshall D. Teach, là ngoại lệ. Hắn sở hữu hai năng lực trái ác quỷ: bóng tối và rung chấn."
+      },
+      "image_prompt": "a dark figure's silhouette with one hand wreathed in black shadow and the other surrounded by shattering cracks in the air, dramatic low-angle shot",
+      "on_screen_text": "Truyện nói: Râu Đen là ngoại lệ"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Cách hắn làm được, và vì sao cơ thể hắn khác người thường, truyện vẫn chưa giải thích đầy đủ. Có nhiều lý thuyết, nhưng chưa có câu trả lời chính thức."
+      },
+      "image_prompt": "a doctor's examination chart of a silhouette with a large question mark over its chest, parchment close-up, amber ink",
+      "on_screen_text": "Chưa có lời giải thích đầy đủ"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì luật này được nói rất sớm và rất chắc chắn. Nên khi có ngoại lệ, nhiều người nghĩ đó là lỗi của tác giả, trong khi thật ra đó là một bí ẩn được cài sẵn."
+      },
+      "image_prompt": "a rulebook with one rule circled and a small key tucked beside it, close-up, mysterious light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Và điều đó khiến Râu Đen trở thành một trong những phản diện đáng sợ nhất. Hắn không chỉ mạnh, hắn còn là kẻ phá luật mà chính truyện đặt ra."
+      },
+      "image_prompt": "a dark silhouette laughing on a stormy cliff edge with lightning behind, dramatic low-angle shot, ominous light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku để ý: trong One Piece, gần như mọi luật đều có một ngoại lệ, và ngoại lệ đó thường là manh mối của một bí mật lớn hơn."
+      },
+      "image_prompt": "the owl mascot holding up a rulebook with one page sticking out, winking",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Tứ Hoàng, bốn hải tặc cai trị Tân Thế giới. Nhiều người hiểu đó là bốn hải tặc mạnh nhất thế giới."
+      },
+      "image_prompt": "four large pirate flags planted on four islands on a sea chart, parchment close-up, amber and red ink",
+      "chapter": "Hiểu lầm 6: Tứ Hoàng là bốn người mạnh nhất",
+      "on_screen_text": "Người ta tin: 4 người mạnh nhất"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Thật ra, Tứ Hoàng là một danh hiệu thể hiện tầm ảnh hưởng: lãnh thổ, số tàu, số đồng minh, và mức độ mà Chính phủ Thế giới lo ngại."
+      },
+      "image_prompt": "a large map of a sea with territories shaded in four colors and many small ship icons clustered around them, parchment close-up",
+      "on_screen_text": "Truyện nói: danh hiệu về tầm ảnh hưởng"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Bằng chứng rõ nhất: ở chương 1058, Buggy trở thành Tứ Hoàng. Buggy không phải người mạnh nhất, nhưng danh tiếng và tổ chức phía sau giúp anh ta được xếp vào nhóm này."
+      },
+      "image_prompt": "a clownish silhouette sitting nervously on a giant throne while two stronger silhouettes stand calmly behind him, humorous wide shot, dramatic light",
+      "on_screen_text": "Buggy thành Tứ Hoàng",
+      "video_prompt": "the clownish silhouette fidgets on the giant throne as the two figures behind exchange a glance",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì những Tứ Hoàng đầu tiên ta gặp, như Râu Trắng, đều thật sự rất mạnh. Nên danh hiệu và sức mạnh bị gộp làm một."
+      },
+      "image_prompt": "a massive silhouette with a crescent-shaped mustache outline standing on a ship's bow, wide shot, stormy dramatic light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Danh sách Tứ Hoàng cũng thay đổi theo thời gian. Có người ngã xuống, có người mới lên. Nó giống một bảng xếp hạng chính trị hơn là một bảng xếp hạng sức mạnh."
+      },
+      "image_prompt": "a wooden noticeboard with four name plates, two being replaced by new ones, close-up, harbor daylight"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Kaku thấy Buggy là cách Oda chế giễu chính hệ thống danh hiệu: đôi khi người được đội vương miện chỉ là người đứng đúng chỗ, đúng lúc."
+      },
+      "image_prompt": "a small paper crown sitting crookedly on a statue in a town square while pigeons land on it, humorous close-up, bright light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Thất Vũ Hải, bảy hải tặc được Chính phủ cấp phép, là một phần quen thuộc của One Piece giai đoạn đầu. Nhiều người xem lâu năm vẫn nghĩ hệ thống này còn tồn tại."
+      },
+      "image_prompt": "seven small official seals lined up on a government desk, each stamped on a different document, close-up, cold official light",
+      "chapter": "Hiểu lầm 7: Thất Vũ Hải vẫn còn",
+      "on_screen_text": "Người ta tin: vẫn còn"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Nhưng ở chương 956, sau hội nghị Reverie, Thất Vũ Hải bị bãi bỏ. Các cựu thành viên mất đặc quyền và trở thành mục tiêu săn đuổi."
+      },
+      "image_prompt": "seven official seals being swept off a desk into a wastebasket, one document torn in half, close-up, dramatic light",
+      "on_screen_text": "Truyện nói: bị bãi bỏ ở chương 956"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Lý do: lãnh đạo một số quốc gia, như Alabasta và Dressrosa, lên tiếng rằng đất nước họ từng khổ sở dưới tay những hải tặc được cấp phép này."
+      },
+      "image_prompt": "a council chamber with many representatives seated around a large round table, one figure standing to speak, wide shot, solemn light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì nhiều người ngừng xem giữa chừng, và phần lớn nội dung được làm lại hay tóm tắt đều tập trung vào giai đoạn Thất Vũ Hải còn tồn tại."
+      },
+      "image_prompt": "a bookshelf with early volumes worn and dog-eared while later volumes remain crisp and untouched, close-up, soft light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Việc bãi bỏ này cũng đặt ra câu hỏi thú vị: nếu hải tặc từng được Chính phủ bảo vệ, thì ranh giới giữa hải tặc và chính quyền trong One Piece rốt cuộc nằm ở đâu?"
+      },
+      "image_prompt": "a blurred line drawn between a pirate flag and a government seal on parchment, close-up, amber ink"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Sự kiện này thay đổi cả cán cân quyền lực, và mở đường cho những liên minh mới. Kaku coi đây là một trong những bước ngoặt chính trị lớn nhất truyện."
+      },
+      "image_prompt": "a set of scales on a map table tipping sharply to one side, close-up, dramatic light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Nhiều người nghĩ Hải quân chính là Chính phủ Thế giới, hay là thế lực cầm quyền cao nhất."
+      },
+      "image_prompt": "a large naval fortress with seagull emblems on its flags under a clear sky, wide shot, bright official light",
+      "chapter": "Hiểu lầm 8: Hải quân là Chính phủ Thế giới",
+      "on_screen_text": "Người ta tin: Hải quân = Chính phủ"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Thật ra, Hải quân chỉ là lực lượng quân sự dưới quyền Chính phủ Thế giới. Phía trên còn có các cơ quan tình báo bí mật, Ngũ Lão Tinh, và một nhân vật bí ẩn đứng trên tất cả."
+      },
+      "image_prompt": "a pyramid diagram drawn on parchment with a soldier icon at the bottom, hooded figures in the middle, and an empty throne at the top, amber ink close-up",
+      "on_screen_text": "Truyện nói: Hải quân chỉ là lực lượng"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Và bên cạnh đó là Thiên Long Nhân, hậu duệ của những người lập ra Chính phủ, được hưởng đặc quyền gần như tuyệt đối."
+      },
+      "image_prompt": "a gilded floating city high above clouds with ordinary towns far below in shadow, wide shot, cold elitist light"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Nói gọn: Hải quân là cánh tay, không phải cái đầu. Muốn hiểu ai thật sự ra lệnh, phải nhìn lên cao hơn rất nhiều."
+      },
+      "image_prompt": "a marionette arm in a naval sleeve connected by strings rising up into darkness, symbolic close-up, ominous light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì trong phần đầu truyện, Hải quân là bộ mặt duy nhất của chính quyền mà băng Mũ Rơm gặp. Những tầng cao hơn chỉ lộ dần về sau."
+      },
+      "image_prompt": "a curtain slowly pulled back to reveal a much larger stage behind a small one, symbolic close-up, dramatic light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Có những Hải quân từng rời bỏ hàng ngũ, hay công khai phản đối cấp trên. Truyện không chia đơn giản thành hải tặc tốt và Hải quân xấu, mà để mỗi người tự chọn công lý của mình."
+      },
+      "image_prompt": "a naval officer's coat left folded on a harbor bench with a letter tucked under it, close-up, quiet morning light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku để ý: nhiều Hải quân trong truyện là người tốt, tin vào công lý. Bi kịch của họ là phục vụ một hệ thống mà họ không hoàn toàn hiểu."
+      },
+      "image_prompt": "a lone naval officer standing at a harbor looking at the sea with a troubled expression, back view, wide shot, overcast light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kho báu One Piece. Nhiều người hình dung nó là một núi vàng, hay một thứ vũ khí khổng lồ."
+      },
+      "image_prompt": "a massive treasure chest overflowing with gold on a distant island under dramatic clouds, wide shot, golden light",
+      "chapter": "Hiểu lầm 9: Kho báu One Piece là vàng bạc",
+      "on_screen_text": "Người ta tin: núi vàng"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Sự thật: không ai biết. Nhưng truyện cho ta một manh mối rất lạ. Khi Roger tới hòn đảo cuối cùng và thấy kho báu, ông bật cười."
+      },
+      "image_prompt": "a group of old sailors laughing uproariously on a beach at night under a starry sky, wide shot, warm firelight",
+      "on_screen_text": "Roger bật cười",
+      "video_prompt": "the old sailors throw their heads back laughing as sparks from the fire drift into the starry sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Ông cười nhiều tới mức đặt tên hòn đảo là Laugh Tale, câu chuyện của tiếng cười. Chi tiết này được tiết lộ ở chương 967."
+      },
+      "image_prompt": "an old ship's logbook opened to a page with a large laughing face doodle beside an island sketch, close-up, warm lamplight",
+      "on_screen_text": "Laugh Tale"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Kho báu đó được để lại bởi một người tên Joy Boy từ thời Thế kỷ trống. Nó là gì, vì sao khiến Roger cười, vẫn là câu hỏi lớn nhất của cả bộ truyện."
+      },
+      "image_prompt": "a weathered stone tablet half buried in sand with an ancient laughing figure carved into it, close-up, mysterious light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Roger còn nói một điều khiến người đọc suy nghĩ mãi: ông tới quá sớm. Nghĩa là kho báu cần một thời điểm, hay một người, mà thời của Roger chưa có."
+      },
+      "image_prompt": "an old captain's silhouette standing on a beach at night looking up at a vast starry sky, back view, wide shot, bittersweet light",
+      "on_screen_text": "Roger: tới quá sớm"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì chữ kho báu trong truyện hải tặc luôn gợi tới vàng bạc. Nhưng ở One Piece, rất có thể kho báu là một sự thật, không phải một vật."
+      },
+      "image_prompt": "an open treasure chest containing only a single old scroll glowing softly, close-up, warm mysterious light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Kaku có một đoán nhỏ, nhưng đây là LÝ THUYẾT: một kho báu khiến người ta cười phải là thứ khiến mọi cuộc chạy đua giành nó trở nên buồn cười. Bạn đoán sao?"
+      },
+      "image_prompt": "the owl mascot holding a tiny treasure chest to its ear and listening with a grin",
+      "use_mascot": true
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Và đây là hiểu lầm lớn nhất. Nhiều người chưa xem nghĩ One Piece là một truyện phiêu lưu vui nhộn cho trẻ con: nhân vật tay dài, đánh nhau, ăn thịt, cười hô hố."
+      },
+      "image_prompt": "a colorful cartoonish pirate ship sailing on bright blue water with silly flags, wide shot, cheerful bright light",
+      "chapter": "Hiểu lầm 10, lớn nhất: One Piece chỉ là truyện phiêu lưu cho trẻ con",
+      "on_screen_text": "Người ta tin: truyện trẻ con"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Nhưng One Piece nói về những chủ đề rất nặng. Ohara, hòn đảo mà các học giả bị xóa sổ chỉ vì nghiên cứu lịch sử bị cấm."
+      },
+      "image_prompt": "a great library tree burning on a small island while scholars throw books into the lake to save them, wide shot, tragic orange light",
+      "on_screen_text": "Ohara: xóa sổ tri thức",
+      "video_prompt": "the scholars hurry books into the lake as embers float through the air around the burning tree",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Thiên Long Nhân và chế độ nô lệ. Phân biệt chủng tộc với người cá. Những quốc gia bị cai trị bằng dối trá. Chiến tranh, mất mát, và cái giá của tự do."
+      },
+      "image_prompt": "a heavy iron collar lying broken on a stone floor, chains trailing away into shadow, extreme close-up, somber light",
+      "on_screen_text": "Nô lệ · Phân biệt · Chiến tranh"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Những chủ đề đó được kể bằng nét vẽ tươi sáng và rất nhiều tiếng cười. Và chính sự tương phản ấy khiến những khoảnh khắc buồn trở nên đau hơn gấp bội."
+      },
+      "image_prompt": "a bright festive harbor celebration in the foreground with a single figure crying quietly in the corner, wide shot, bittersweet warm light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku gợi ý: nếu bạn chỉ có thời gian xem một arc để hiểu chiều sâu này, hãy xem arc Enies Lobby. Tiếng cười, nước mắt và câu hỏi về tự do đều có ở đó."
+      },
+      "image_prompt": "a tall government island tower under a stormy sky with a small ship approaching it, wide shot, dramatic light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Vì sao dễ hiểu nhầm? Vì phong cách vẽ của Oda rất hoạt hình, và phần đầu truyện nhẹ nhàng hơn nhiều. Người đọc cần đi qua nhiều arc mới thấy chiều sâu."
+      },
+      "image_prompt": "a staircase of books with the lower steps brightly colored and the upper steps gradually darker and richer, symbolic close-up, warm to deep light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku nghĩ đây là bí quyết của One Piece: nó cho bạn cười trước, để khi bạn khóc, bạn không kịp phòng bị."
+      },
+      "image_prompt": "the owl mascot laughing and wiping a tear at the same time while holding a manga volume",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Trước khi tổng kết, Kaku tặng thêm ba hiểu lầm nhỏ, đặc biệt hữu ích nếu bạn sắp xem bản làm lại từ biển Đông."
+      },
+      "image_prompt": "a small gift box tied with a ribbon sitting on a ship's barrel, close-up, warm cheerful light",
+      "chapter": "Ba hiểu lầm nhỏ tặng thêm",
+      "on_screen_text": "Tặng thêm 3 hiểu lầm nhỏ"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Hiểu lầm nhỏ một: Nami là người đầu tiên gia nhập băng. Không. Người đầu tiên là kiếm sĩ Zoro, người Luffy gặp khi đang bị trói ở căn cứ Hải quân."
+      },
+      "image_prompt": "a lone swordsman's silhouette tied to a wooden post in a dusty naval yard under a hot sun, wide shot, harsh daylight",
+      "on_screen_text": "Zoro gia nhập đầu tiên"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Hiểu lầm nhỏ hai: Luffy ra khơi bằng tàu Going Merry. Không. Cậu ra khơi trên một chiếc thuyền nhỏ xíu. Con tàu Going Merry là món quà cậu nhận được sau đó ở làng Syrup."
+      },
+      "image_prompt": "a tiny rowboat drifting alone on a calm vast ocean with a single barrel inside, wide shot, bright morning light",
+      "on_screen_text": "Ra khơi bằng thuyền nhỏ"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Hiểu lầm nhỏ ba: Haki là thứ chỉ vài người được chọn mới có. Truyện nói mọi người đều có tiềm năng, chỉ là phần lớn không bao giờ đánh thức được. Kaku đã giải thích kỹ trong video về Haki."
+      },
+      "image_prompt": "a crowd of ordinary people in a harbor town, each with a very faint glow around them that most do not notice, wide shot, soft light",
+      "on_screen_text": "Ai cũng có tiềm năng Haki"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku để ý: cả ba hiểu lầm nhỏ này đều nằm ở phần đầu truyện. Bản làm lại sẽ là dịp tốt để nhiều người xem lại và tự sửa trí nhớ của mình."
+      },
+      "image_prompt": "the owl mascot flipping back to the first pages of a thick book with a nostalgic smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Tổng kết mười hiểu lầm. Một: Vua Hải Tặc là người tự do nhất, không phải người giàu nhất. Hai: mũ rơm là của Roger trước Shanks. Ba: Chopper mới là em út."
+      },
+      "image_prompt": "a checklist on parchment with the first three items checked in green ink, close-up, warm light",
+      "chapter": "Bảng tổng kết"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Bốn: trái của Luffy là Zoan thần thoại mô hình Nika. Năm: Râu Đen là ngoại lệ của luật hai trái. Sáu: Tứ Hoàng là danh hiệu về tầm ảnh hưởng."
+      },
+      "image_prompt": "the same checklist with the next three items checked, close-up, amber ink"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Bảy: Thất Vũ Hải đã bị bãi bỏ. Tám: Hải quân chỉ là một lực lượng dưới Chính phủ. Chín: không ai biết kho báu là gì, chỉ biết nó khiến Roger bật cười."
+      },
+      "image_prompt": "the same checklist with three more items checked, close-up, amber ink"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Cộng thêm ba hiểu lầm nhỏ: Zoro gia nhập đầu tiên, Luffy ra khơi bằng thuyền nhỏ, và ai cũng có tiềm năng Haki."
+      },
+      "image_prompt": "the checklist with three extra small items added at the bottom in a different ink color, close-up, amber and green ink"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và mười: One Piece không chỉ là truyện cho trẻ con. Nó là một câu chuyện về tự do, được kể bằng tiếng cười."
+      },
+      "image_prompt": "the complete checklist with a gold star drawn next to the final item, close-up, warm triumphant light",
+      "on_screen_text": "10 hiểu lầm đã gỡ"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Bạn đã từng tin hiểu lầm nào? Hay bạn còn biết một hiểu lầm khác mà Kaku chưa nói? Viết vào bình luận, Kaku sẽ gom lại cho một video tiếp theo."
+      },
+      "image_prompt": "a comment box drawn on parchment with a small hat doodle and a pencil, close-up, warm light",
+      "chapter": "Kết",
+      "on_screen_text": "Bạn từng tin hiểu lầm nào?"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một hồ sơ ngon miệng: Dungeon Meshi, bách khoa quái vật trong hầm ngục, và quan trọng nhất, con nào ăn được."
+      },
+      "image_prompt": "a cozy campfire in a stone dungeon with a cooking pot bubbling over it, close-up, warm firelight",
+      "on_screen_text": "Tiếp theo: hồ sơ quái vật Dungeon Meshi"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Nếu bạn sắp xem bản làm lại, hãy đăng ký kênh. Kaku sẽ đi cùng bạn qua từng arc, và chỉ cho bạn những chi tiết cài cắm mà ngày xưa ai cũng bỏ lỡ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot tipping its tiny captain's hat and waving from the bow of a small paper boat",
+      "use_mascot": true
+    }
+  ]
+}

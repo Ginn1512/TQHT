@@ -1,0 +1,680 @@
+{
+  "title": "Naruto vs Pain: Phân tích từng hiệp — thông tin, năm giây và lựa chọn cuối cùng",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói trọn arc Pain tấn công làng Lá, tức manga chương 413 tới 453, và Naruto Shippuden khoảng tập 152 tới 175. Kể cả quá khứ của Nagato."
+      },
+      "image_prompt": "a closed scroll tied with a red cord lying on a stone ledge overlooking a ruined village, close-up, overcast grey light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: trọn arc Pain"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Một ngôi làng bị san phẳng chỉ trong một đòn. Không còn nhà, không còn tường, chỉ còn một hố sâu khổng lồ ở chính giữa. Và giữa hố là một người đàn ông đứng một mình."
+      },
+      "image_prompt": "an enormous circular crater where a village used to be, debris scattered at its rim, a single figure standing at the center, aerial wide shot, dramatic grey light",
+      "on_screen_text": "Làng Lá bị san phẳng",
+      "video_prompt": "the camera slowly descends over the vast crater toward the lone figure at its center",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Rồi một tiếng động vang lên. Một làn khói bốc lên ở rìa hố. Người anh hùng của làng vừa trở về, cưỡi trên lưng những con cóc khổng lồ."
+      },
+      "image_prompt": "a thick plume of smoke rising at the edge of a crater with giant silhouettes of toads emerging from it, wide shot, dramatic backlight",
+      "on_screen_text": "Người anh hùng trở về"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đây là Naruto đấu với Pain, một trong những trận được người xem tìm kiếm nhiều nhất của cả loạt Naruto. Nhưng nếu chỉ nhớ nó là một trận đánh đẹp, bạn đang bỏ lỡ một nửa."
+      },
+      "image_prompt": "two silhouettes facing each other across a vast crater under a heavy sky, wide shot, tense dramatic light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Vì đây là một trận đấu chiến thuật: thông tin, chuẩn bị, và cả kiểm soát cảm xúc. Và nó kết thúc theo một cách mà không trận shounen nào trước đó dám làm."
+      },
+      "image_prompt": "a strategy board with pieces arranged around a central crater drawing, close-up, warm lamplight"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku phân tích trận Naruto đấu Pain, từng hiệp một: mục tiêu, lựa chọn, và cái giá. Cuối video là ba bài học chiến thuật."
+      },
+      "image_prompt": "the owl mascot wearing a tiny referee headband, standing beside a tactical board with arrows and circles",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước trận, gần như mọi thứ đều nghiêng về phía Pain. Hãy xem hồ sơ hai bên."
+      },
+      "image_prompt": "a scale drawn on parchment tipping heavily to one side, amber ink close-up, warm light",
+      "chapter": "Trước trận: tỉ số trên giấy",
+      "on_screen_text": "Tỉ số trên giấy"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Pain: thủ lĩnh Akatsuki, sở hữu đôi mắt Luân Hồi Nhãn. Hắn điều khiển sáu thân xác cùng lúc, mỗi thân xác một năng lực khác nhau, và cả sáu nhìn thấy những gì các thân khác thấy."
+      },
+      "image_prompt": "six cloaked silhouettes standing in a row on a rooftop in the rain, each with a slightly different posture, wide shot, cold grey light",
+      "on_screen_text": "Pain: sáu thân xác"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Hắn vừa giết Jiraiya, thầy của Naruto và là một trong ba Ninja huyền thoại. Hắn vừa san phẳng cả làng Lá bằng một đòn duy nhất."
+      },
+      "image_prompt": "a broken writing brush and an open notebook lying in shallow water at the bottom of a misty lake, close-up, somber blue light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Naruto: vừa hoàn thành khóa luyện tập Hiền nhân ở núi Myoboku. Cậu có một sức mạnh mới, nhưng chưa từng dùng trong một trận thật."
+      },
+      "image_prompt": "a young figure meditating on a stone pillar above a misty mountain valley with large toads watching nearby, wide shot, soft green light",
+      "on_screen_text": "Naruto: chế độ Hiền nhân"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Nếu hỏi người trong làng lúc đó, gần như ai cũng sẽ đặt cược vào Pain. Và Kaku cũng vậy, nếu chỉ nhìn trên giấy."
+      },
+      "image_prompt": "a betting board drawn on parchment with most tally marks under one column, amber ink close-up"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Nhưng Naruto có một thứ Pain không biết: một manh mối từ người thầy đã chết."
+      },
+      "image_prompt": "a coded message tattooed in small symbols on the back of an old toad's shell, extreme close-up, mysterious warm light",
+      "on_screen_text": "Manh mối từ người thầy"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Trước khi vào trận, Kaku mở nhanh hồ sơ sáu thân xác của Pain, vì mỗi thân là một bài toán riêng mà Naruto phải giải."
+      },
+      "image_prompt": "six small index cards laid out in a row on a stone table, each with a different symbol, close-up, warm lamplight",
+      "chapter": "Hồ sơ sáu thân xác",
+      "on_screen_text": "Hồ sơ 6 thân xác"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Thiên Đạo: điều khiển lực đẩy và lực hút. Đây là thân xác mạnh nhất, và cũng là bộ mặt mà cả thế giới biết tới dưới cái tên Pain."
+      },
+      "image_prompt": "a card with a symbol of outward-pointing arrows around a circle, parchment close-up, amber ink",
+      "on_screen_text": "Thiên Đạo"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Tu La Đạo: thân xác như một cỗ máy, gắn vũ khí khắp người, bắn tên lửa và lưỡi dao. Súc Sinh Đạo: triệu hồi những con thú khổng lồ."
+      },
+      "image_prompt": "two cards side by side, one with a gear symbol and one with a paw print symbol, parchment close-up, amber ink",
+      "on_screen_text": "Tu La Đạo · Súc Sinh Đạo"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Nhân Đạo: đọc ký ức và rút linh hồn chỉ bằng một cái chạm. Ngạ Quỷ Đạo: hút mọi loại chakra và thuật nhẫn."
+      },
+      "image_prompt": "two cards side by side, one with a hand symbol and one with an open mouth symbol, parchment close-up, amber ink",
+      "on_screen_text": "Nhân Đạo · Ngạ Quỷ Đạo"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Địa Ngục Đạo: triệu hồi một thực thể có thể hồi phục các thân xác khác. Đây là lý do phải hạ nó, nếu không các thân khác sẽ đứng dậy mãi."
+      },
+      "image_prompt": "a card with a symbol of a gate with a crown above it, parchment close-up, amber ink",
+      "on_screen_text": "Địa Ngục Đạo"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Sáu thân xác, sáu năng lực, và chúng thấy những gì nhau thấy. Đánh một chọi sáu mà sáu cùng một bộ não, đó là bài toán Naruto phải giải."
+      },
+      "image_prompt": "six connected dots forming a network on parchment with lines linking every dot to every other, amber ink close-up"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Trước khi Naruto trở về, làng Lá đã chiến đấu. Kakashi đấu với nhiều thân xác cùng lúc, và chính trong trận đó ông phát hiện ra khoảng nghỉ năm giây."
+      },
+      "image_prompt": "a lone silver-haired silhouette crouched on a rooftop facing several cloaked figures in the distance, wide shot, tense grey light",
+      "chapter": "Làng Lá trước khi Naruto về"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Hokage Tsunade dùng rất nhiều năng lượng của mình để cùng Katsuyu, con sên triệu hồi, chia nhỏ thân mình bao bọc và chữa trị cho dân làng khi làng bị san phẳng."
+      },
+      "image_prompt": "countless tiny glowing slug-like creatures clinging protectively to villagers amid collapsing buildings, wide shot, soft healing light",
+      "on_screen_text": "Tsunade bảo vệ dân làng"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Nhờ vậy, dù cả làng bị san phẳng, rất nhiều người vẫn sống sót. Kaku thấy đây là một chi tiết hay bị bỏ qua: trận của Naruto chỉ có thể xảy ra vì những người khác đã giữ làng tới lúc cậu về."
+      },
+      "image_prompt": "villagers huddled together in the rubble looking up toward the sky with hope, wide shot, dusty warm light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Trước khi chết, Jiraiya đã chiến đấu với Pain và phát hiện ra một bí mật. Ông không kịp nói ra, nên để lại một mật mã trên lưng một con cóc."
+      },
+      "image_prompt": "an old sage fighting alone in a rain-soaked village of towers, silhouetted against lightning, wide shot, dramatic stormy light",
+      "chapter": "Hiệp 0: manh mối của Jiraiya"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Mật mã được giải: người thật không nằm trong số đó. Nghĩa là sáu thân xác không phải Pain thật. Có một người đang điều khiển chúng từ nơi khác."
+      },
+      "image_prompt": "a decoded note on parchment with six crossed-out silhouettes and an arrow pointing to an empty space outside the frame, amber ink close-up",
+      "on_screen_text": "Người thật không nằm trong số đó"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Đây là hiệp quan trọng nhất, dù không có cú đấm nào. Nhờ Jiraiya, Naruto biết rằng đánh bại sáu thân xác chưa phải là kết thúc."
+      },
+      "image_prompt": "a chess board where six pieces surround a king piece, but a hand is reaching in from off the board, close-up, dramatic light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku để ý: Jiraiya dùng cả mạng sống của mình để đổi lấy một câu. Và câu đó quyết định cả trận đấu. Thông tin là vũ khí mạnh nhất trong trận này."
+      },
+      "image_prompt": "the owl mascot holding up a single small note card very carefully with both wings, eyes serious",
+      "use_mascot": true
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Mục tiêu của Naruto ở hiệp một: hạ từng thân xác một, trước khi chúng phối hợp được với nhau."
+      },
+      "image_prompt": "a tactical diagram on parchment with six dots scattered around a crater and one arrow picking them off one by one, amber ink close-up",
+      "chapter": "Hiệp 1: Hiền nhân xuất hiện",
+      "on_screen_text": "Mục tiêu: hạ từng thân một"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Chế độ Hiền nhân cho Naruto sức mạnh thể chất lớn hơn, cảm nhận được xung quanh, và một thứ đặc biệt: đòn đánh của cậu có một vùng ảnh hưởng rộng hơn cả nắm tay."
+      },
+      "image_prompt": "a fist striking the air with a wide shimmering ripple of natural energy around it, dynamic close-up, green-gold light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Naruto hạ được thân xác Tu La Đạo, thân xác máy móc với vũ khí gắn khắp người, bằng một đòn Rasengan khổng lồ."
+      },
+      "image_prompt": "a huge spinning sphere of energy slamming into a mechanical silhouette on the ground, dust exploding outward, dynamic wide shot, blue light",
+      "on_screen_text": "Hạ Tu La Đạo"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Rồi tới Ngạ Quỷ Đạo, thân xác có thể hút mọi loại chakra. Nó tóm lấy Naruto để hút năng lượng."
+      },
+      "image_prompt": "a cloaked silhouette gripping another figure's arm with glowing energy being drawn into its palm, close-up, eerie purple light",
+      "on_screen_text": "Ngạ Quỷ Đạo hút chakra"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Nhưng năng lượng Hiền nhân là năng lượng tự nhiên, và cơ thể người thường không chịu nổi. Ngạ Quỷ Đạo hút vào, rồi hóa đá thành một bức tượng cóc."
+      },
+      "image_prompt": "a stone statue with a frog-like shape frozen mid-motion in the middle of a ruined street, close-up, grey dusty light",
+      "on_screen_text": "Hóa thành tượng cóc",
+      "video_prompt": "the grey stone spreads across the figure until it freezes into a frog-like statue",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Kaku rất thích chi tiết này. Naruto không cần đánh. Chính luật của năng lượng tự nhiên đánh bại đối thủ. Đây là thắng bằng hiểu biết, không phải bằng sức mạnh."
+      },
+      "image_prompt": "a small toad sitting calmly on top of a stone statue, close-up, soft ironic light"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Những con cóc khổng lồ cũng không đứng ngoài. Chúng chiến đấu cùng Naruto, và các lão cóc Hiền nhân ngồi trên vai cậu, giúp cậu hợp nhất năng lượng tự nhiên."
+      },
+      "image_prompt": "two small elderly toads perched on a figure's shoulders in the middle of a battlefield, close-up, soft green light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Hiệp một thuộc về Naruto. Nhưng Pain vẫn còn bốn thân xác, và hắn bắt đầu hiểu sức mạnh mới của đối thủ."
+      },
+      "image_prompt": "four remaining cloaked silhouettes regrouping on a ridge above the crater, wide shot, cold grey light",
+      "on_screen_text": "Hiệp 1: Naruto"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Nhưng chế độ Hiền nhân có một điểm yếu chí mạng: nó không kéo dài lâu. Muốn nạp lại năng lượng tự nhiên, Naruto phải ngồi yên hoàn toàn."
+      },
+      "image_prompt": "a meditating figure sitting perfectly still while an enemy silhouette approaches from behind, wide shot, tense light",
+      "chapter": "Hiệp 2: điểm yếu của Hiền nhân",
+      "on_screen_text": "Điểm yếu: phải ngồi yên"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Và ngồi yên giữa chiến trường với sáu kẻ thù thì gần như tự sát. Đây là vấn đề mà cả người thầy Jiraiya cũng chưa giải quyết được."
+      },
+      "image_prompt": "a lone meditating silhouette in the center of a crater surrounded by shadowy approaching figures, aerial wide shot, dramatic light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Giải pháp của Naruto rất thông minh: cậu để các phân thân bóng ngồi yên ở núi Myoboku, gom năng lượng tự nhiên. Khi bản thể cần, cậu hủy một phân thân, và năng lượng chuyển về."
+      },
+      "image_prompt": "several identical meditating figures sitting in a row on a distant mountain ledge, one of them vanishing in a puff of smoke, wide shot, green mist light",
+      "on_screen_text": "Phân thân làm bình dự trữ"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Nhưng chỉ có một số lượng phân thân giới hạn. Mỗi lần dùng một cái là một lần nạp. Naruto phải tính toán rất kỹ."
+      },
+      "image_prompt": "a row of small glass vials on a shelf, some empty and some full of glowing green liquid, close-up, soft light",
+      "on_screen_text": "Số lần nạp có hạn"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Với năng lượng được nạp, Naruto dùng Phong độn Rasen Shuriken, lần này có thể ném đi, hạ hai thân xác Nhân Đạo và Súc Sinh Đạo cùng lúc."
+      },
+      "image_prompt": "a spinning disc of wind energy with a glowing core flying through the air toward two silhouettes, dynamic wide shot, bright white-blue light",
+      "on_screen_text": "Rasen Shuriken hạ hai thân"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Địa Ngục Đạo, thân xác có thể hồi sinh các thân khác, cũng không trụ được. Naruto đã đi qua năm trên sáu thân xác."
+      },
+      "image_prompt": "five fallen cloaked silhouettes lying on the rubble of a crater, one silhouette still standing in the distance, wide shot, dust-filled light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku đánh giá: hiệp hai là chiến thắng của sự chuẩn bị. Naruto thua Jiraiya về kinh nghiệm, nhưng hơn ở chỗ biết dùng thế mạnh riêng của mình, phân thân, để vá điểm yếu."
+      },
+      "image_prompt": "a patch sewn carefully over a hole in a cloth banner, close-up, warm light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Chỉ còn lại Thiên Đạo, thân xác mạnh nhất. Năng lực của nó: đẩy mọi thứ ra xa, hoặc kéo mọi thứ lại gần."
+      },
+      "image_prompt": "a lone cloaked figure standing calmly as rubble and dust are pushed outward in a perfect circle around him, wide shot, dramatic light",
+      "chapter": "Hiệp 3: Thiên Đạo và cái bẫy",
+      "on_screen_text": "Thiên Đạo: đẩy và kéo"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Chính năng lực đẩy này, Thần La Thiên Chinh, đã san phẳng cả làng Lá. Ở quy mô nhỏ, nó biến Thiên Đạo thành gần như bất khả xâm phạm."
+      },
+      "image_prompt": "a shockwave ring visibly bending the air around a figure, stones frozen mid-flight at its edge, dynamic close-up, cool light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nhưng có một thông tin quý giá. Trước đó, Kakashi đã phát hiện ra: giữa hai lần dùng Thần La Thiên Chinh, Thiên Đạo cần khoảng năm giây để hồi."
+      },
+      "image_prompt": "a stopwatch lying in the dust with its hand frozen at five seconds, close-up, dramatic grey light",
+      "on_screen_text": "Khoảng nghỉ: 5 giây"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kakashi đã ngã xuống trong trận trước đó, nhưng thông tin ông tìm được vẫn được truyền đi. Lại một lần nữa, một người đã mất để lại vũ khí cho người còn sống."
+      },
+      "image_prompt": "a torn headband lying on rubble beside a small handwritten note weighted down by a stone, close-up, somber light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Nhưng Pain cũng không đứng yên. Hắn ghim Naruto xuống đất bằng những thanh kim loại truyền chakra, khiến cậu không cử động được."
+      },
+      "image_prompt": "a figure pinned to the ground by several dark metal rods in the middle of a crater, overhead shot, cold harsh light",
+      "on_screen_text": "Naruto bị ghim"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Những thanh kim loại đó chính là thứ Nagato dùng để truyền chakra điều khiển sáu thân xác. Bị ghim bằng chúng, Naruto không chỉ bị trói, mà còn bị nhiễu loạn năng lượng."
+      },
+      "image_prompt": "a close-up of a dark metal rod with small ridges glowing faintly at the tip, embedded in the ground, extreme close-up, eerie light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Hiệp ba thuộc về Pain. Naruto bị bắt, và có vẻ như mọi chuẩn bị đã không đủ."
+      },
+      "image_prompt": "the tactical board with most arrows erased and a single dark circle drawn over the center, amber ink close-up",
+      "on_screen_text": "Hiệp 3: Pain"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Và rồi Hinata xuất hiện. Cô bé nhút nhát, người luôn dõi theo Naruto từ xa, bước ra một mình để bảo vệ cậu."
+      },
+      "image_prompt": "a small figure standing alone between a pinned figure and a towering cloaked silhouette, wide shot, dramatic backlight",
+      "chapter": "Hiệp 4: cơn giận và cánh cửa",
+      "on_screen_text": "Hinata bước ra"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Hinata nói ra điều cô giữ trong lòng suốt nhiều năm: cô thích Naruto. Rồi cô chiến đấu, dù biết mình không có cơ hội thắng."
+      },
+      "image_prompt": "a close-up of determined eyes reflecting a distant looming shadow, dramatic soft light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Pain hạ gục Hinata. Kaku không mô tả chi tiết. Chỉ cần biết: Naruto nhìn thấy, và trong cậu có thứ gì đó vỡ ra."
+      },
+      "image_prompt": "a small figure lying still on rubble in the distance, out of focus, while a pinned figure in the foreground clenches a fist, wide shot, heavy grey light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Cơn giận làm Cửu Vĩ bên trong Naruto trỗi dậy. Sáu đuôi, rồi tám đuôi. Cậu mất dần kiểm soát, và sức mạnh hủy diệt tràn ra."
+      },
+      "image_prompt": "a swirling storm of red-orange energy erupting from a crater with multiple tail-like streams lashing outward, wide shot, fierce red light",
+      "on_screen_text": "Cửu Vĩ trỗi dậy"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Pain đáp trả bằng Địa Bạo Thiên Tinh: hắn tạo ra một khối cầu khổng lồ, kéo đất đá xung quanh vào, định giam cầm cả sinh vật bên trong."
+      },
+      "image_prompt": "a colossal sphere of rock and earth forming in the sky as debris is pulled upward from the ground, wide shot, dramatic stormy light",
+      "on_screen_text": "Địa Bạo Thiên Tinh",
+      "video_prompt": "rocks and debris rise from the ground and spiral into the forming giant sphere in the sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Và ở tận sâu trong tâm trí Naruto, khi cậu gần mở phong ấn cuối cùng, một người xuất hiện: cha của cậu, Minato, Hokage đệ tứ."
+      },
+      "image_prompt": "a tall figure appearing in a dim flooded corridor inside a mind, reaching out to stop a hand from pulling off a seal, wide shot, soft golden light",
+      "on_screen_text": "Minato xuất hiện"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Minato đã cài sẵn một phần chakra của mình vào phong ấn, để xuất hiện đúng lúc con trai cần. Ông sửa lại phong ấn, và lần đầu tiên hai cha con nói chuyện với nhau."
+      },
+      "image_prompt": "two silhouettes of a father and son standing face to face in a quiet glowing space, symbolic wide shot, warm golden light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Minato cũng nói với Naruto rằng ông tin con trai mình sẽ tìm ra câu trả lời mà thế hệ của ông chưa tìm được. Một lời tin tưởng, không phải một mệnh lệnh."
+      },
+      "image_prompt": "a large hand resting gently on a younger figure's head in a glowing quiet space, close-up, warm golden light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku thấy hiệp bốn là trận thua lớn nhất của Naruto, không phải vì Pain, mà vì cơn giận của chính cậu. Và nó được cứu bởi người cha mà cậu chưa từng gặp."
+      },
+      "image_prompt": "the owl mascot sitting quietly with a hand on a small closed box, eyes soft and serious",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Naruto trở lại, bình tĩnh hơn, với phân thân cuối cùng trong chế độ Hiền nhân. Mục tiêu của hiệp cuối: tận dụng đúng năm giây."
+      },
+      "image_prompt": "a calm figure standing up from the rubble with a steady gaze, wide shot, clearing sky light",
+      "chapter": "Hiệp 5: năm giây",
+      "on_screen_text": "Mục tiêu: 5 giây"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Naruto tung một phân thân tấn công trước. Thiên Đạo dùng Thần La Thiên Chinh để đẩy nó đi. Và đồng hồ bắt đầu đếm."
+      },
+      "image_prompt": "a decoy figure being blasted backward by a shockwave while a second figure waits hidden behind rubble, dynamic wide shot, dusty light",
+      "on_screen_text": "Mồi nhử"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Đây chính là cách thông tin của Kakashi được biến thành chiến thuật. Biết đối thủ có năm giây trống là một chuyện. Tạo ra năm giây đó đúng lúc mình cần là chuyện khác."
+      },
+      "image_prompt": "a hand pressing the start button of a stopwatch while a second hand draws an arrow on a tactical map, close-up, warm light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Trong năm giây đó, Naruto thật lao tới từ một hướng khác. Thiên Đạo không thể đẩy nữa, và buộc phải đỡ đòn trực diện."
+      },
+      "image_prompt": "a figure dashing across the crater at incredible speed with a trail of dust, dynamic wide shot, bright light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Rasengan trúng đích. Thân xác cuối cùng ngã xuống. Hiệp năm, và trận đấu trên chiến trường, thuộc về Naruto."
+      },
+      "image_prompt": "a sphere of spinning energy impacting a figure at close range, a bright ring of light bursting outward, dynamic close-up, brilliant blue light",
+      "on_screen_text": "Rasengan trúng đích",
+      "video_prompt": "the sphere of energy impacts and a bright ring of light bursts outward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Và hãy nhớ, lúc này Naruto đã không còn nhiều phân thân dự trữ. Nếu đòn này hụt, trận đấu có thể đã kết thúc theo cách khác."
+      },
+      "image_prompt": "a single remaining glowing vial on an otherwise empty shelf, close-up, tense dim light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku để ý: đòn quyết định không phải là đòn mạnh nhất. Nó là một đòn Rasengan cơ bản, thứ Naruto đã học từ rất lâu. Đúng thời điểm đánh bại sức mạnh."
+      },
+      "image_prompt": "a simple wooden practice target with a single perfect mark at its center, close-up, warm light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Nhưng nhớ lại mật mã của Jiraiya: người thật không nằm trong số đó. Naruto quyết định đi tìm người điều khiển sáu thân xác. Một mình."
+      },
+      "image_prompt": "a lone figure walking through a forest toward a distant tree with a strange tower-like structure growing from it, back view, wide shot, quiet grey light",
+      "chapter": "Sau trận: người thật"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Người thật là Nagato, một người từng là học trò của Jiraiya, giống như Naruto. Cơ thể ông gầy yếu, bị gắn vào một cỗ máy, điều khiển sáu thân xác từ xa."
+      },
+      "image_prompt": "a frail silhouette sitting inside a mechanical frame with dark rods protruding from it, dimly lit inside a hollow tree, wide shot, eerie light",
+      "on_screen_text": "Nagato"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Nagato kể quá khứ của mình: chiến tranh đã cướp đi cha mẹ, bạn bè, và cả hy vọng của ông. Ông tin rằng chỉ có nỗi đau mới khiến con người hiểu nhau."
+      },
+      "image_prompt": "a faded memory scene of three children huddled together under a single umbrella in the rain amid a war-torn landscape, sepia tone, melancholy light",
+      "on_screen_text": "Nỗi đau và hận thù"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nagato hỏi Naruto một câu: vậy cậu sẽ làm gì để mang lại hòa bình? Và Naruto thừa nhận: cậu chưa có câu trả lời. Nhưng cậu sẽ tìm, và sẽ không từ bỏ."
+      },
+      "image_prompt": "two figures facing each other in a dim hollow tree, one seated and frail, one standing with an open posture, medium shot, soft light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Đây là lúc Naruto phải lựa chọn khó nhất trận. Người trước mặt đã giết thầy cậu, phá hủy làng cậu. Cậu có thể kết thúc mọi thứ ngay bây giờ."
+      },
+      "image_prompt": "a figure standing before a frail seated silhouette, fist clenched at his side, medium shot, tense dim light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nhưng Naruto chọn không giết. Cậu nói rằng nếu cậu trả thù, vòng lặp hận thù sẽ tiếp tục. Cậu tin vào điều mà Jiraiya từng tin: một ngày nào đó, con người sẽ hiểu nhau."
+      },
+      "image_prompt": "an unclenched open hand extended forward in a dim room, symbolic close-up, soft warm light",
+      "on_screen_text": "Chọn không giết"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nagato bị thuyết phục. Ông dùng hết sức lực cuối cùng để thi triển một thuật hồi sinh, đưa những người đã chết ở làng Lá trở lại. Rồi ông ra đi."
+      },
+      "image_prompt": "a gentle rain of soft light falling over a ruined village as figures begin to stir and rise from the rubble, wide shot, warm hopeful light",
+      "on_screen_text": "Hồi sinh làng Lá",
+      "video_prompt": "soft light rains down over the ruined village as figures slowly rise from the rubble",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Konan, người bạn đồng hành của Nagato, tin vào lựa chọn của Naruto. Cô mang thi thể của bạn mình đi, và để lại cho Naruto một bó hoa giấy như lời chúc."
+      },
+      "image_prompt": "a bouquet of delicate paper flowers resting on a stone step, close-up, soft melancholy light",
+      "on_screen_text": "Hoa giấy của Konan"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Naruto trở về làng không phải như một chiến binh thắng trận, mà như một người hùng được cả làng chào đón. Cậu bé từng bị cả làng xa lánh, giờ được cả làng tung hô."
+      },
+      "image_prompt": "a crowd of villagers cheering and lifting a young figure onto their shoulders amid ruins at sunset, wide shot, warm golden light",
+      "on_screen_text": "Người hùng của làng"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Tổng kết trận đấu trên một sơ đồ. Hiệp không: thông tin từ Jiraiya. Hiệp một: Hiền nhân và Ngạ Quỷ Đạo hóa đá. Hiệp hai: phân thân dự trữ, Rasen Shuriken."
+      },
+      "image_prompt": "a tactical board with the first three rounds marked with small icons: a note, a statue, and a spinning disc, amber ink close-up",
+      "chapter": "Sơ đồ chiến thuật"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Hiệp ba: Pain ghim Naruto. Hiệp bốn: Hinata, Cửu Vĩ, và Minato. Hiệp năm: năm giây và một Rasengan. Sau trận: một cuộc nói chuyện thay vì một đòn đánh."
+      },
+      "image_prompt": "the tactical board completed with icons of a pinned figure, a flame, a stopwatch, and an open hand, amber ink close-up",
+      "on_screen_text": "Toàn bộ trận đấu"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Điểm số theo hiệp: Naruto thắng hiệp không, một, hai, năm. Pain thắng hiệp ba và gần như thắng hiệp bốn. Nhưng trận thật sự được quyết định sau tiếng chuông."
+      },
+      "image_prompt": "a scoreboard on parchment with round-by-round marks and a large final column labeled with a heart icon, amber ink close-up"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Bài học một: thông tin thắng sức mạnh. Mật mã của Jiraiya và năm giây của Kakashi quyết định trận đấu nhiều hơn bất kỳ kỹ thuật nào."
+      },
+      "image_prompt": "a small note card placed on top of a heavy sword on a table, symbolic close-up, warm light",
+      "chapter": "Ba bài học chiến thuật",
+      "on_screen_text": "1. Thông tin thắng sức mạnh"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Bài học hai: dùng thế mạnh của mình để vá điểm yếu. Naruto không sửa được điểm yếu của chế độ Hiền nhân, nhưng cậu dùng phân thân, thứ cậu giỏi nhất, để bù vào."
+      },
+      "image_prompt": "a puzzle piece fitting perfectly into a gap in another puzzle, close-up, soft light",
+      "on_screen_text": "2. Thế mạnh vá điểm yếu"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Và điều đáng nói: Naruto không giỏi kiểm soát cảm xúc một mình. Cậu được cứu bởi người cha. Kiểm soát cảm xúc đôi khi cũng cần có người bên cạnh."
+      },
+      "image_prompt": "a steady hand resting on a trembling shoulder in a quiet room, close-up, warm soft light"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Bài học ba: kiểm soát cảm xúc. Khoảnh khắc Naruto gần thua nhất không phải khi bị ghim, mà khi cơn giận chiếm lấy cậu."
+      },
+      "image_prompt": "a calm still lake reflecting a storm cloud above it, symbolic wide shot, contrasting light",
+      "on_screen_text": "3. Kiểm soát cảm xúc"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Bài học phụ: người thầy vẫn ở trong học trò. Nagato và Naruto là hai học trò của cùng một người thầy. Một người mất niềm tin, một người giữ được. Và người giữ được đã nhắc lại cho người kia."
+      },
+      "image_prompt": "two small books with identical covers side by side, one faded and torn, one intact and glowing faintly, close-up, warm light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và một bài học không thuộc về chiến thuật: đôi khi chiến thắng lớn nhất là không đánh đòn cuối cùng."
+      },
+      "image_prompt": "the owl mascot gently placing a chess king piece back upright instead of knocking it over",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Trận Naruto đấu Pain bắt đầu bằng một ngôi làng bị san phẳng, và kết thúc bằng một ngôi làng được hồi sinh. Giữa hai điều đó là một cậu bé học cách phá vỡ vòng lặp hận thù."
+      },
+      "image_prompt": "a village being rebuilt at dawn with scaffolding and people working together, wide shot, warm hopeful light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Bạn nghĩ sao về lựa chọn của Naruto? Nếu là bạn, bạn có tha cho Nagato không? Viết vào bình luận nhé, Kaku rất muốn đọc."
+      },
+      "image_prompt": "a comment card on parchment with a small open hand doodle and a question mark, close-up, warm light",
+      "on_screen_text": "Nếu là bạn?"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Và đúng câu hỏi đó sẽ trở lại trong video tiếp theo: Kaku mở một phiên tòa, bị cáo là Lelouch của Code Geass. Người muốn thay đổi thế giới có được phép dùng mọi cách?"
+      },
+      "image_prompt": "a courtroom gavel resting on a chess board with a black king piece, close-up, dramatic light",
+      "on_screen_text": "Tiếp theo: Phiên tòa Lelouch"
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Nếu bạn thích những video phân tích trận đấu như thế này, hãy đăng ký kênh. Kaku sẽ tiếp tục mổ xẻ từng hiệp của những trận kinh điển. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up a tactical map and bowing respectfully",
+      "use_mascot": true
+    }
+  ]
+}

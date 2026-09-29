@@ -1,0 +1,690 @@
+{
+  "title": "Chainsaw Man: Bí ẩn Quỷ Cưa Máy — vì sao cả địa ngục sợ nó?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết phần một manga Chainsaw Man, và vài chi tiết đầu phần hai. Manga đã kết thúc tháng ba năm 2026, nhưng Kaku không nói gì về cái kết để bạn tự đọc."
+      },
+      "image_prompt": "a closed case file folder with a red spoiler stamp on the cover lying on a dark desk, close-up, moody lamplight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết phần 1"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy thử nghĩ: bạn sợ gì hơn, một khẩu súng, bóng tối, hay một cái cưa máy? Phần lớn chúng ta sẽ nói súng, hoặc bóng tối. Cưa máy thì đáng sợ, nhưng không đến mức ám ảnh cả nhân loại."
+      },
+      "image_prompt": "three objects on a table under a single spotlight: a revolver silhouette, a patch of pure darkness, and an old chainsaw, still life, dramatic light",
+      "on_screen_text": "Súng · Bóng tối · Cưa máy"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Vậy mà trong Chainsaw Man, cả thế giới ác quỷ lại sợ một con quỷ cưa máy. Những con quỷ mạnh nhất cũng muốn bắt nó, điều khiển nó, hoặc tránh xa nó."
+      },
+      "image_prompt": "a crowd of shadowy monstrous silhouettes backing away from a single faint engine glow in the darkness, wide shot, ominous red light",
+      "video_prompt": "the shadowy silhouettes slowly back away as the engine glow pulses brighter",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Theo luật của truyện, quỷ càng mạnh khi con người càng sợ cái tên của nó. Vậy vì sao một nỗi sợ nhỏ lại tạo ra con quỷ đáng sợ nhất?"
+      },
+      "image_prompt": "a scale weighing a tiny chainsaw icon against a huge dark cloud, the scale tipping toward the tiny icon, symbolic close-up, eerie light",
+      "on_screen_text": "Luật bị phá?"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở hồ sơ điều tra: năm manh mối có thật trong truyện, ba giả thuyết có gắn nhãn, và phần phản biện. Cuối video là một câu hỏi mở dành cho bạn."
+      },
+      "image_prompt": "the owl mascot wearing a tiny detective hat, holding a magnifying glass over a case file",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Kaku nhắc lại quy tắc của kênh: manh mối là chi tiết có trong truyện. Giả thuyết là suy đoán, Kaku sẽ gắn nhãn LÝ THUYẾT mỗi khi nói tới."
+      },
+      "image_prompt": "two stamps on a desk, one solid and one dotted outline, beside an ink pad, close-up, warm light"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trước khi mở hồ sơ, Kaku kể nhanh bối cảnh. Chainsaw Man là manga của Fujimoto Tatsuki, anime do MAPPA làm, và phim Reze ra rạp năm 2025. Một dự án anime mới cho arc tiếp theo đã được công bố, nhưng chưa có ngày phát."
+      },
+      "image_prompt": "a movie ticket stub and a manga volume lying on a dark café table beside a small notebook, close-up, warm moody light",
+      "chapter": "Hồ sơ vụ án",
+      "on_screen_text": "Fujimoto Tatsuki · MAPPA"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Nhắc lại luật nền, Kaku đã giải thích kỹ trong video về luật ác quỷ: mỗi con quỷ mang tên một nỗi sợ. Quỷ súng mạnh vì người ta rất sợ súng. Quỷ cà chua yếu vì chẳng ai sợ cà chua."
+      },
+      "image_prompt": "a small ripe tomato next to a heavy metal padlock on a table, humorous comparison still life, bright light",
+      "on_screen_text": "Sợ nhiều = mạnh"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Quỷ chết ở trái đất thì tái sinh ở địa ngục, chết ở địa ngục thì tái sinh ở trái đất. Nghĩa là với quỷ, cái chết chỉ là chuyển nhà."
+      },
+      "image_prompt": "two doors facing each other in a dark void with a glowing path looping between them, symbolic wide shot, eerie light",
+      "on_screen_text": "Chết = chuyển nhà"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Nhưng có một thứ phá vỡ vòng lặp đó. Và nó chính là đối tượng của cuộc điều tra hôm nay: Quỷ Cưa Máy, hay như nhiều người gọi, Chainsaw Man."
+      },
+      "image_prompt": "a broken loop drawn on parchment with a jagged tooth-like cut through it, close-up, red ink",
+      "on_screen_text": "Đối tượng: Quỷ Cưa Máy"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Câu hỏi của hồ sơ: vì sao ác quỷ sợ Quỷ Cưa Máy, khi con người không sợ cưa máy nhiều như vậy?"
+      },
+      "image_prompt": "a pinned case board with a single question card in the center surrounded by empty spaces for clues, close-up, moody lamplight"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Truyện bắt đầu khi cậu bé Denji tìm thấy một con quỷ nhỏ bị thương nặng. Nó trông giống một chú chó con. Denji đặt tên nó là Pochita."
+      },
+      "image_prompt": "a small injured puppy-like creature curled up in a rainy alley beside a cardboard box, close-up, cold blue light",
+      "chapter": "Manh mối 1: Chú chó nhỏ bị thương",
+      "on_screen_text": "Manh mối 1"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Denji nuôi Pochita, chia cho nó chút máu để nó sống. Hai kẻ yếu ớt dựa vào nhau trong một túp lều nghèo nàn."
+      },
+      "image_prompt": "a boy and a small puppy sleeping curled together on a thin mattress in a shabby room, wide shot, dim warm light"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Hãy để ý cách truyện giới thiệu nó. Không có màn ra mắt hoành tráng, không có tiếng sấm sét. Chỉ là một sinh vật nhỏ, run rẩy, cần được giúp đỡ."
+      },
+      "image_prompt": "a tiny shivering puppy silhouette under a flickering street lamp in the rain, wide shot, lonely cold light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Câu hỏi đầu tiên: tại sao một con quỷ được cho là đáng sợ nhất lại ở trong tình trạng thảm hại như vậy? Ai đã làm nó bị thương?"
+      },
+      "image_prompt": "a small bandage lying on a wet street beside a faint trail of paw prints, extreme close-up, grey light"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Truyện cho thấy Pochita từng bị săn đuổi và chiến đấu với rất nhiều quỷ khác trước khi gặp Denji. Nó không yếu. Nó kiệt sức."
+      },
+      "image_prompt": "a battered small silhouette standing alone on a hill of shadowy defeated shapes under a red sky, wide shot, dramatic light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và khi Denji bị giết, Pochita trao trái tim mình cho cậu. Đổi lại, Pochita chỉ xin một điều: được thấy giấc mơ của Denji."
+      },
+      "image_prompt": "a small glowing heart floating between a small puppy silhouette and a sleeping boy, symbolic close-up, warm soft light",
+      "on_screen_text": "Trái tim đổi lấy một giấc mơ"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Và mỗi khi Denji giật sợi dây trên ngực, cậu biến thành một hình dạng nửa người nửa cưa máy. Nhưng ở những lúc nguy hiểm nhất, một thứ khác thức dậy, mạnh hơn và đáng sợ hơn Denji rất nhiều."
+      },
+      "image_prompt": "a pull cord handle dangling in darkness with a faint red glow behind it, extreme close-up, ominous light",
+      "on_screen_text": "Thứ gì đó thức dậy"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Kaku ghi nhận manh mối một: con quỷ đáng sợ nhất lại chọn một cậu bé nghèo, và chỉ đòi một giấc mơ. Rất lạ cho một thứ bị cả địa ngục sợ."
+      },
+      "image_prompt": "the owl mascot pinning a small puppy doodle card onto the case board",
+      "use_mascot": true
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Ở gần cuối phần một, truyện tiết lộ một biệt danh của Quỷ Cưa Máy ở địa ngục: Anh hùng của địa ngục."
+      },
+      "image_prompt": "an ancient carved stone tablet in a dark cavern with a heroic silhouette engraved on it, close-up, eerie red light",
+      "chapter": "Manh mối 2: Anh hùng của địa ngục",
+      "on_screen_text": "Manh mối 2: Anh hùng của địa ngục"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Theo lời kể trong truyện, khi một con quỷ ở địa ngục kêu cứu, Quỷ Cưa Máy sẽ xuất hiện. Nhưng nó không chỉ giết kẻ tấn công. Nó giết cả kẻ kêu cứu."
+      },
+      "image_prompt": "a single engine roar symbol echoing across a dark landscape, many shadowy figures scattering in panic, wide shot, red and black light",
+      "on_screen_text": "Giết tất cả",
+      "video_prompt": "the roar symbol ripples outward and the shadowy figures scatter across the landscape",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Nghe tiếng động cơ cưa máy vang lên, quỷ ở địa ngục vừa sợ vừa mong. Nó vừa là ác mộng, vừa là thứ duy nhất có thể chấm dứt một con quỷ khác."
+      },
+      "image_prompt": "a dark cavern filled with trembling shadowy creatures looking up toward a distant glow, wide shot, ominous red light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Hãy tưởng tượng một thế giới mà cứu hỏa tới dập lửa, nhưng thiêu luôn cả ngôi nhà gọi họ. Ai dám gọi cứu hỏa nữa? Đó chính là cảm giác của quỷ ở địa ngục."
+      },
+      "image_prompt": "a humorous doodle on parchment of a fire truck arriving at a house that is also on fire, amber ink close-up",
+      "on_screen_text": "Gọi cứu mà cũng bị diệt"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Kaku để ý: đây là một anh hùng rất lạ. Không có công lý, không có phe. Chỉ có tiếng kêu cứu, và sự hủy diệt."
+      },
+      "image_prompt": "a broken scale of justice lying on a stone floor, close-up, cold dim light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Kaku để ý một chi tiết nhỏ: danh hiệu anh hùng thường do kẻ được cứu trao tặng. Nghĩa là đã có những con quỷ thật sự được nó cứu, dù cách cứu rất đáng sợ."
+      },
+      "image_prompt": "a small shadowy figure standing alone amid a ruined landscape, looking up gratefully at a distant red glow, wide shot, eerie red light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Vì vậy các con quỷ vừa tôn thờ, vừa kinh sợ nó. Có quỷ muốn gặp nó như gặp thần tượng. Có quỷ muốn tiêu diệt nó để không bao giờ phải nghe tiếng máy đó nữa."
+      },
+      "image_prompt": "a split scene: shadowy figures kneeling in worship on one side and shadowy figures sharpening weapons on the other, symmetrical composition, red light",
+      "on_screen_text": "Vừa tôn thờ, vừa kinh sợ"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Đây là manh mối quan trọng nhất. Khi Quỷ Cưa Máy ăn một con quỷ, cái tên của con quỷ đó biến mất khỏi thế giới. Không chỉ con quỷ chết, mà cả khái niệm nó đại diện cũng bị xóa."
+      },
+      "image_prompt": "a dictionary page with one entry slowly dissolving into dust while the surrounding words remain, extreme close-up, eerie light",
+      "chapter": "Manh mối 3: Những thứ đã biến mất",
+      "on_screen_text": "Manh mối 3: ăn = xóa khỏi thế giới",
+      "video_prompt": "the dictionary entry dissolves into drifting dust particles",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Nói cách khác, Quỷ Cưa Máy không giết. Nó xóa. Giết thì còn để lại nấm mồ, còn người nhớ. Xóa thì không để lại gì."
+      },
+      "image_prompt": "a pencil drawing on paper half erased, only faint outlines remaining, extreme close-up, soft grey light",
+      "on_screen_text": "Không giết, mà xóa"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Con người không còn nhớ khái niệm đó. Sách vở không còn ghi. Nó chưa từng tồn tại, với tất cả mọi người trừ vài con quỷ."
+      },
+      "image_prompt": "a library shelf with a single empty gap between books, dust motes floating in a beam of light, close-up, quiet light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Trong truyện, nhân vật có nhắc tới một số khái niệm từng tồn tại trong lịch sử thật của chúng ta, nhưng không có trong thế giới Chainsaw Man, vì đã bị Quỷ Cưa Máy ăn."
+      },
+      "image_prompt": "a world map with a few regions blurred out as if erased by an eraser, parchment close-up, amber ink"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Đây là lý do vì sao tái sinh không còn là tấm khiên. Bị Quỷ Cưa Máy ăn thì không có địa ngục nào để quay về, không có trái đất nào để tái sinh. Chỉ có hư vô."
+      },
+      "image_prompt": "the looping path between two doors cut cleanly in half, one door crumbling into nothing, symbolic wide shot, cold void light",
+      "on_screen_text": "Không tái sinh, chỉ hư vô",
+      "video_prompt": "the looping path splits apart and one door crumbles into the void",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Hãy tưởng tượng bạn là một con quỷ bất tử. Không gì giết được bạn thật sự. Rồi xuất hiện một thứ có thể xóa bạn mãi mãi, kể cả khỏi trí nhớ của thế giới. Bạn sẽ sợ nó hơn bất cứ thứ gì."
+      },
+      "image_prompt": "a lone shadowy figure standing at the edge of a vast white emptiness, back view, wide shot, stark eerie light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kaku thấy manh mối này gần như trả lời hồ sơ. Nhưng chưa hết. Vì còn câu hỏi: ai muốn dùng sức mạnh đó?"
+      },
+      "image_prompt": "the owl mascot staring at an empty space on the case board with a worried expression",
+      "use_mascot": true
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Makima, người phụ nữ bí ẩn của Cục An ninh, hóa ra là Quỷ Kiểm Soát. Và mục tiêu của cô là Quỷ Cưa Máy."
+      },
+      "image_prompt": "a leash and a velvet glove resting on a dark desk beside a sealed folder, close-up, cold elegant light",
+      "chapter": "Manh mối 4: Người muốn điều khiển nó",
+      "on_screen_text": "Manh mối 4: Quỷ Kiểm Soát"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Cô muốn điều khiển Quỷ Cưa Máy để xóa những nỗi sợ xấu khỏi thế giới: chiến tranh, cái chết, nạn đói. Theo cô, đó là cách tạo ra một thế giới tốt đẹp hơn."
+      },
+      "image_prompt": "a hand holding a pen hovering over a list of dark words, about to cross them out, extreme close-up, cold light",
+      "on_screen_text": "Xóa những điều xấu"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Nghe thì cao cả. Nhưng Kaku muốn bạn để ý: một thế giới mà ai đó có quyền xóa bất kỳ khái niệm nào, là một thế giới không ai được tự do."
+      },
+      "image_prompt": "a single hand holding a large eraser over a map of the world, symbolic wide shot, ominous light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Nhiều người đọc cho rằng đây là mối quan hệ đáng sợ nhất truyện: một người vừa yêu vừa muốn sở hữu. Kaku gọi đó là thứ tình cảm giống sợi dây xích hơn là cái ôm."
+      },
+      "image_prompt": "a delicate chain wrapped around a small wrapped gift box, close-up, cold elegant light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Makima cũng tiết lộ một điều: cô ngưỡng mộ Quỷ Cưa Máy từ lâu. Cô là một người hâm mộ, đồng thời là người muốn sở hữu nó."
+      },
+      "image_prompt": "a wall covered with old newspaper clippings and sketches of a mysterious silhouette, close-up, dim obsessive light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Và cô không phải người duy nhất. Nhiều thế lực trong truyện, cả người lẫn quỷ, đều muốn chiếm lấy trái tim của Denji. Một cậu bé nghèo bỗng mang trong ngực món đồ mà cả thế giới săn lùng."
+      },
+      "image_prompt": "a small glowing heart inside a glass box on a pedestal, many shadowy hands of different sizes reaching toward it from the darkness, close-up, dramatic red light",
+      "on_screen_text": "Cả thế giới săn lùng một trái tim"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Manh mối bốn cho thấy: Quỷ Cưa Máy đáng sợ không chỉ vì nó mạnh, mà vì sức mạnh của nó có thể thay đổi cả thế giới nếu rơi vào tay kẻ khác."
+      },
+      "image_prompt": "a glowing key lying on a table while many shadowy hands reach toward it from all sides, close-up, dramatic light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Ở phần hai, ta gặp những con quỷ rất mạnh như Quỷ Chiến Tranh. Và truyện cho biết Quỷ Cưa Máy từng ăn mất một phần sức mạnh của nó."
+      },
+      "image_prompt": "a torn battle banner with a large section missing, the edges burned, close-up, somber light",
+      "chapter": "Manh mối 5: Những kẻ bị ăn mất một phần",
+      "on_screen_text": "Manh mối 5"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Khi một phần khái niệm bị ăn, con quỷ yếu đi, vì con người không còn sợ thứ đã biến mất. Quỷ Chiến Tranh muốn lấy lại những gì đã mất."
+      },
+      "image_prompt": "a puzzle with a large missing piece at its center and a shadowy hand searching the table, close-up, cold light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Nghĩa là Quỷ Cưa Máy không chỉ đe dọa tính mạng quỷ. Nó đe dọa chính nguồn sức mạnh của quỷ: nỗi sợ của con người."
+      },
+      "image_prompt": "a candle flame being snuffed out by a small metal cap, extreme close-up, dark dramatic light",
+      "on_screen_text": "Đe dọa nguồn sức mạnh"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Nếu phần một cho thấy Quỷ Cưa Máy có thể xóa những thứ nhỏ, thì phần hai gợi ý rằng nó từng xóa cả những mảnh của nỗi sợ lớn nhất loài người. Đó là tầm vóc thật của nó."
+      },
+      "image_prompt": "a huge dark storm cloud with a large clean bite-shaped gap cut out of it, wide shot, dramatic stormy light",
+      "on_screen_text": "Xóa cả nỗi sợ lớn"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku dừng manh mối ở đây, vì từ phần sau của phần hai trở đi là những bí mật mà bạn nên tự đọc."
+      },
+      "image_prompt": "the owl mascot placing a hand over a later chapter of a book with a playful shushing gesture",
+      "use_mascot": true
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Để hiểu vì sao Quỷ Cưa Máy đặc biệt, hãy nhìn những con quỷ mạnh nhất truyện. Người đọc thường gọi chúng là Tứ Kỵ sĩ: Kiểm Soát, Chiến Tranh, Nạn Đói, và Cái Chết."
+      },
+      "image_prompt": "four dark horse silhouettes standing on a ridge against a red sky, wide shot, ominous dramatic light",
+      "chapter": "Hồ sơ phụ: bốn con quỷ lớn",
+      "on_screen_text": "Tứ Kỵ sĩ"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Đây là bốn nỗi sợ lớn nhất của loài người. Không ai không sợ chiến tranh, nạn đói hay cái chết. Theo luật nỗi sợ, chúng mạnh là hợp lý."
+      },
+      "image_prompt": "four ancient symbols drawn on parchment: a leash, a broken sword, an empty bowl, and an hourglass, amber ink close-up"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Vậy mà những con quỷ này vẫn để mắt tới Quỷ Cưa Máy, hoặc muốn lợi dụng nó, hoặc muốn tránh nó. Một cái cưa máy khiến cả chiến tranh và nạn đói phải dè chừng."
+      },
+      "image_prompt": "four horse silhouettes turning their heads toward a small red glow in the distance, wide shot, tense red light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku ghi chú: truyện gợi ý rằng Quỷ Cái Chết là con quỷ đáng sợ nhất trong bốn. Nhưng về Quỷ Cái Chết, Kaku sẽ không nói gì thêm, vì đó là vùng spoiler của phần hai."
+      },
+      "image_prompt": "a closed door with a heavy lock and a small hourglass hanging from the handle, close-up, cold dim light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Một chút ngoài lề nhưng rất liên quan. Cưa máy ngoài đời đáng sợ tới đâu?"
+      },
+      "image_prompt": "an old rusty chainsaw lying on a wooden workbench in a quiet shed, close-up, dusty afternoon light",
+      "chapter": "Cưa máy ngoài đời thật",
+      "on_screen_text": "Cưa máy ngoài đời"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Một sự thật bất ngờ: dạng sơ khai của cưa xích được hai bác sĩ người Scotland mô tả vào cuối thế kỷ mười tám, như một dụng cụ phẫu thuật cầm tay. Công cụ đốn cây ra đời muộn hơn nhiều."
+      },
+      "image_prompt": "an antique hand-cranked surgical instrument with a fine chain of small teeth displayed in a museum case, close-up, soft museum light",
+      "on_screen_text": "Ban đầu là dụng cụ y khoa"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Rồi năm 1974, một bộ phim kinh dị nổi tiếng của Mỹ biến cưa máy thành biểu tượng của phim sát nhân. Từ đó, tiếng động cơ cưa máy gắn với nỗi sợ trong văn hóa đại chúng."
+      },
+      "image_prompt": "an old cinema poster wall with torn posters and a single spotlight on an empty frame, wide shot, eerie retro light",
+      "on_screen_text": "Biểu tượng phim kinh dị"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Fujimoto Tatsuki nổi tiếng là người mê phim, và Chainsaw Man có rất nhiều cảnh nhại phim. Có thể cưa máy được chọn vì nó là nỗi sợ điện ảnh, hơn là nỗi sợ đời thường."
+      },
+      "image_prompt": "a stack of old VHS tapes beside a small CRT television glowing in a dark room, close-up, nostalgic blue light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku nói rõ: đây là suy đoán về cảm hứng của tác giả, không phải lời tác giả xác nhận."
+      },
+      "image_prompt": "the owl mascot holding a movie ticket and a question mark card side by side",
+      "use_mascot": true
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Trước khi tới giả thuyết, Kaku loại vài lời đồn. Lời đồn một: Quỷ Cưa Máy yếu vì cưa máy không đáng sợ. Sai. Truyện cho thấy nó là một trong những con quỷ mạnh nhất."
+      },
+      "image_prompt": "a crossed-out rumor card pinned to the case board with a red X, close-up, warm light",
+      "chapter": "Những lời đồn cần loại khỏi hồ sơ",
+      "on_screen_text": "Lời đồn 1: bị loại"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Lời đồn hai: Denji và Quỷ Cưa Máy là một. Không hẳn. Denji mang trái tim của Pochita, nhưng Pochita vẫn là một ý thức riêng, và chỉ thức dậy hoàn toàn trong những lúc đặc biệt."
+      },
+      "image_prompt": "two overlapping silhouettes of a boy and a small puppy sharing one glowing heart, symbolic close-up, soft light",
+      "on_screen_text": "Lời đồn 2: chưa đúng"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Lời đồn ba: Makima muốn tiêu diệt Quỷ Cưa Máy. Sai. Cô muốn điều khiển nó, và muốn được nó chú ý."
+      },
+      "image_prompt": "a crossed-out card showing a broken chain, replaced by a card showing a leash, pinned to the case board, close-up"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Giờ tới giả thuyết. LÝ THUYẾT A: sức mạnh của Quỷ Cưa Máy không đến từ nỗi sợ của con người, mà từ nỗi sợ của chính các con quỷ."
+      },
+      "image_prompt": "a stamp marked THEORY A pressed onto a notebook page with a drawing of trembling shadowy figures, close-up, amber ink",
+      "chapter": "Giả thuyết A: nỗi sợ của quỷ, không phải của người",
+      "on_screen_text": "LÝ THUYẾT A"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Con người có thể không sợ cưa máy lắm. Nhưng ác quỷ thì sợ nó hơn tất cả. Và nếu nỗi sợ của quỷ cũng được tính, thì Quỷ Cưa Máy mạnh là hợp lý."
+      },
+      "image_prompt": "a diagram showing arrows of fear flowing from many small shadowy figures toward one central glowing point, parchment close-up, red ink"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Bằng chứng ủng hộ: ở địa ngục, nó được gọi là anh hùng và là nỗi kinh hoàng. Tiếng tăm của nó lan trong giới quỷ, không phải trong giới người."
+      },
+      "image_prompt": "a dark tavern-like cavern with shadowy figures whispering to each other, wide shot, dim red light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Điểm yếu: truyện chưa bao giờ nói thẳng rằng nỗi sợ của quỷ cũng làm quỷ mạnh lên. Đây vẫn là suy luận từ các chi tiết."
+      },
+      "image_prompt": "a question mark drawn beside the diagram in pencil, parchment close-up, amber ink",
+      "on_screen_text": "Chưa được xác nhận"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "LÝ THUYẾT B: con quỷ đáng sợ nhất là con quỷ khiến bạn quên mất mình đã sợ gì."
+      },
+      "image_prompt": "a stamp marked THEORY B pressed onto a notebook page with a blank space where a word used to be, close-up, amber ink",
+      "chapter": "Giả thuyết B: nỗi sợ bị lãng quên",
+      "on_screen_text": "LÝ THUYẾT B"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Theo giả thuyết này, Quỷ Cưa Máy là hiện thân của sự lãng quên. Nó không làm bạn sợ bằng hình dáng, mà bằng cách xóa bạn khỏi ký ức."
+      },
+      "image_prompt": "an old family photo with one person faded to a blank silhouette, close-up, melancholy light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Với một sinh vật sống nhờ việc được nhớ đến và được sợ hãi như ác quỷ, bị lãng quên chính là cái chết thật sự."
+      },
+      "image_prompt": "a candle burning in an empty room, its light slowly shrinking, extreme close-up, fading warm light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Điểm yếu: giả thuyết này đẹp, nhưng khó chứng minh. Truyện cho thấy hậu quả, không nói bản chất."
+      },
+      "image_prompt": "a pencil eraser resting on a blank notebook page, close-up, soft light",
+      "on_screen_text": "Đẹp nhưng khó chứng minh"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "LÝ THUYẾT C, giả thuyết Kaku thích nhất: Quỷ Cưa Máy không muốn được sợ. Nó muốn được yêu thương."
+      },
+      "image_prompt": "a stamp marked THEORY C pressed onto a notebook page with a small heart drawing, close-up, amber ink",
+      "chapter": "Giả thuyết C: con quỷ chỉ muốn được ôm",
+      "on_screen_text": "LÝ THUYẾT C"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Hãy nhìn lại những gì Pochita làm: chọn một cậu bé nghèo, đổi trái tim lấy giấc mơ của cậu, và nhiều lần cho thấy nó chỉ muốn Denji được sống một cuộc đời bình thường."
+      },
+      "image_prompt": "a boy eating a simple slice of bread with jam at a small table, a puppy silhouette watching happily, medium shot, warm homely light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Một con quỷ bị cả địa ngục sợ hãi, có lẽ điều nó thiếu nhất là một ai đó không sợ nó. Và Denji là người đầu tiên ôm nó."
+      },
+      "image_prompt": "a small child hugging a puppy tightly in a rainy alley, close-up, warm light cutting through cold rain",
+      "on_screen_text": "Người đầu tiên không sợ nó",
+      "video_prompt": "rain falls softly as the child hugs the puppy tighter and warm light spreads",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Điểm yếu: đây là cách đọc cảm xúc, không giải thích được sức mạnh. Nhưng nó giải thích được vì sao Quỷ Cưa Máy chọn Denji. Và có lẽ đó mới là bí ẩn quan trọng hơn."
+      },
+      "image_prompt": "the owl mascot hugging its notebook tightly with a soft smile",
+      "use_mascot": true
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Giờ Kaku tự phản biện. Nếu chỉ vì ăn là xóa khái niệm, thì vì sao Quỷ Cưa Máy không ăn hết những con quỷ mạnh nhất từ lâu?"
+      },
+      "image_prompt": "a chess board with one powerful piece standing idle among many opposing pieces, close-up, moody light",
+      "chapter": "Phản biện",
+      "on_screen_text": "Phản biện 1"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Có thể vì nó bị thương, bị săn đuổi, và phải ẩn mình trong hình dạng một chú chó nhỏ. Sức mạnh lớn không có nghĩa là không bao giờ gặp nguy hiểm."
+      },
+      "image_prompt": "a small bandaged puppy silhouette hiding under a porch while large shadows pass on the street, wide shot, cold light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Phản biện hai: nếu con người không sợ cưa máy, vậy tại sao luật nỗi sợ vẫn đúng? Câu trả lời có thể là: luật đúng với phần lớn quỷ, và Quỷ Cưa Máy là ngoại lệ được tác giả cố ý tạo ra."
+      },
+      "image_prompt": "a neat row of identical stamps with one stamp printed differently, close-up, amber ink",
+      "on_screen_text": "Phản biện 2"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Phản biện ba: nếu Pochita chỉ muốn được yêu thương, vì sao ở địa ngục nó tàn nhẫn tới mức giết cả kẻ kêu cứu? Có thể vì ở địa ngục, không ai từng ôm nó. Nó chỉ biết một cách tồn tại."
+      },
+      "image_prompt": "a lone small silhouette standing in an endless dark wasteland with no one around, wide shot, cold empty light",
+      "on_screen_text": "Phản biện 3"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Và khi gặp Denji, lần đầu tiên nó có một lựa chọn khác. Kaku không chắc đây là câu trả lời đúng, nhưng nó khớp với những gì truyện cho thấy."
+      },
+      "image_prompt": "a small puppy silhouette stepping out of darkness onto a patch of warm light on the floor, close-up, gentle warm light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kaku thấy Fujimoto Tatsuki thích phá luật chính mình đặt ra. Và mỗi lần phá luật, ông lại cho ta một câu hỏi mới thay vì một câu trả lời."
+      },
+      "image_prompt": "an open rulebook with a page torn out and folded into a paper crane, close-up, soft light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Tổng kết hồ sơ. Năm manh mối: chú chó bị thương chọn Denji, anh hùng của địa ngục, ăn là xóa khỏi thế giới, Quỷ Kiểm Soát muốn điều khiển nó, và những con quỷ lớn bị ăn mất một phần."
+      },
+      "image_prompt": "a complete case board with five clue cards connected by red string to the central question, wide shot, moody lamplight",
+      "chapter": "Bảng manh mối",
+      "on_screen_text": "5 manh mối"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Ba giả thuyết: A, nỗi sợ của quỷ. B, nỗi sợ bị lãng quên. C, một con quỷ chỉ muốn được yêu thương."
+      },
+      "image_prompt": "three theory cards pinned below the clue cards, each with a different stamp, close-up, amber ink",
+      "on_screen_text": "3 giả thuyết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Mức độ chắc chắn: manh mối một, hai, ba, bốn là chi tiết truyện nói rõ. Manh mối năm là chi tiết phần hai, Kaku ghi cần kiểm lại. Ba giả thuyết đều là lý thuyết."
+      },
+      "image_prompt": "a checklist on parchment with solid circles, one half circle and three dotted circles beside the items, close-up, amber ink",
+      "on_screen_text": "Mức độ chắc chắn"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Câu trả lời gần với truyện nhất: ác quỷ sợ Quỷ Cưa Máy vì nó là thứ duy nhất có thể chấm dứt chúng mãi mãi. Phần còn lại, bạn là thám tử."
+      },
+      "image_prompt": "a single bright card at the center of the case board with a small padlock icon broken open, close-up, warm light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku nghĩ Chainsaw Man đặt ra một câu hỏi rất người: điều gì đáng sợ hơn, cái chết hay bị lãng quên?"
+      },
+      "image_prompt": "an old gravestone overgrown with moss beside a blank stone with no name, wide shot, quiet grey light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Những con quỷ trong truyện sống nhờ được nhớ tới, dù bằng nỗi sợ. Con người cũng vậy, chỉ khác là ta có thể được nhớ tới bằng tình thương."
+      },
+      "image_prompt": "a handwritten name on a small card tucked into a bouquet of flowers on a doorstep, close-up, soft morning light"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Và câu trả lời của truyện, ít nhất với Kaku, là: cách chống lại sự lãng quên không phải là trở nên đáng sợ, mà là có một ai đó nhớ tới bạn."
+      },
+      "image_prompt": "a boy's hand and a small paw print side by side drawn in the dust on a window, close-up, warm soft light"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Câu hỏi mở cho bạn: nếu Quỷ Cưa Máy có thể xóa một khái niệm khỏi thế giới thật, bạn muốn nó xóa điều gì? Và điều đó có thể gây ra hậu quả gì mà ta không lường trước?"
+      },
+      "image_prompt": "a comment box drawn on parchment with a small eraser doodle and a question mark, close-up, warm light",
+      "chapter": "Kết: câu hỏi mở",
+      "on_screen_text": "Bạn muốn xóa điều gì?"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Kaku sẽ không xóa gì cả. Vì Kaku sợ lỡ tay xóa mất bánh su kem."
+      },
+      "image_prompt": "the owl mascot protectively holding a cream puff away from a giant eraser",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "Video tiếp theo đúng dịp Tết. Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc."
+      },
+      "image_prompt": "a festive table with a small red envelope and a percentage meter doodle on a notebook, close-up, warm cheerful light",
+      "on_screen_text": "Tiếp theo: Mob Psycho 100"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Nếu bạn thích những hồ sơ điều tra như thế này, hãy đăng ký kênh. Hồ sơ Chainsaw Man tạm đóng, nhưng chưa bao giờ đóng hẳn. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot closing the case file and tipping its tiny detective hat goodbye",
+      "use_mascot": true
+    }
+  ]
+}

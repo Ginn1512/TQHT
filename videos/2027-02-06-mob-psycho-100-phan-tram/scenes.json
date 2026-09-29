@@ -1,0 +1,666 @@
+{
+  "title": "Mob Psycho 100: Từ 1% đến 100% — khi sức mạnh là cảm xúc",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn định xem trong kỳ nghỉ Tết, hãy lưu video lại, xem xong rồi quay lại với Kaku."
+      },
+      "image_prompt": "a cozy living room decorated for the lunar new year with a small TV and a closed notebook on the table, close-up, warm festive light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết anime"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Chúc mừng năm mới! Năm mới người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình."
+      },
+      "image_prompt": "red lucky envelopes and a plate of candied fruit on a wooden table beside a small handwritten card, close-up, warm festive light",
+      "on_screen_text": "Chúc mừng năm mới"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Hãy tưởng tượng một cậu bé mười bốn tuổi có sức mạnh siêu nhiên mạnh nhất thế giới. Cậu có thể bẻ cong kim loại, bay lên trời, đánh tan cả những linh hồn ác độc nhất."
+      },
+      "image_prompt": "a quiet schoolboy silhouette standing in an empty street while bent street signs and floating pebbles hover around him, wide shot, eerie calm light"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Vậy mà điều cậu muốn nhất lại là chạy nhanh hơn một chút, nói chuyện tự nhiên hơn một chút, và được cô bạn cùng lớp để ý."
+      },
+      "image_prompt": "a thin boy panting at the end of a running track, hands on his knees, a distant group of students chatting, wide shot, soft late afternoon light",
+      "on_screen_text": "Điều cậu muốn: bình thường"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Cậu tên là Kageyama Shigeo, biệt danh Mob. Và bộ truyện của cậu có một con số rất lạ ở ngay trong tên: một trăm."
+      },
+      "image_prompt": "a large number one hundred painted in bold brush strokes on white paper with a tiny percent sign beside it, close-up, dramatic light",
+      "on_screen_text": "Mob Psycho 100"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay, ngày đầu năm, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu."
+      },
+      "image_prompt": "the owl mascot wearing a tiny festive scarf, holding a paintbrush over a blank portrait canvas",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mob Psycho 100 là truyện của ONE, cũng là tác giả One Punch Man. Truyện bắt đầu đăng trên mạng từ tháng tư năm 2012, và studio Bones làm anime ba mùa: 2016, 2019 và 2022."
+      },
+      "image_prompt": "a laptop showing a simple hand-drawn webcomic page beside a stack of anime DVD cases, close-up, cozy desk light",
+      "chapter": "Ai là Mob?",
+      "on_screen_text": "ONE · Bones · 2016–2022"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Biệt danh Mob nghĩa là nhân vật quần chúng, kiểu người đứng ở phía sau trong mọi bức ảnh lớp. Và đó đúng là Shigeo: ít nói, ít biểu cảm, học bình thường, thể thao kém."
+      },
+      "image_prompt": "a class photo with many smiling students and one quiet boy half hidden at the edge of the back row, close-up, nostalgic light",
+      "on_screen_text": "Mob = quần chúng"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Nhưng Mob là người có năng lực siêu nhiên mạnh nhất trong truyện. Những người khác cũng có năng lực, nhưng không ai đến gần được sức mạnh của cậu."
+      },
+      "image_prompt": "a small figure standing in front of an enormous swirling vortex of energy that towers over a city skyline, wide shot, dramatic purple light"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Trong nhà, Mob là một người anh hiền lành. Ở trường, cậu là học sinh chẳng ai để ý. Chỉ khi gặp những linh hồn ác, người ta mới thấy sức mạnh thật của cậu, và cậu cũng không muốn ai thấy."
+      },
+      "image_prompt": "a boy quietly washing dishes at a family kitchen sink while a faint glow flickers around his fingertips unnoticed, medium shot, warm homely light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Cậu làm thêm cho một văn phòng tư vấn tâm linh, dưới quyền một người đàn ông tên Reigen Arataka, tự xưng là nhà ngoại cảm vĩ đại nhất thế kỷ hai mươi mốt."
+      },
+      "image_prompt": "a small shabby office with a hand-painted sign on the door, a cheap desk and a single potted plant, wide shot, warm afternoon light",
+      "on_screen_text": "Văn phòng của Reigen"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Điều buồn cười là Reigen không có chút năng lực siêu nhiên nào. Và Mob làm việc cho ông với mức lương rất thấp. Nhưng như Kaku sẽ kể, đó là quyết định đúng nhất đời cậu."
+      },
+      "image_prompt": "a tiny paper envelope with a few coins on a desk, a small handwritten receipt beside it, extreme close-up, humorous warm light"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Mob còn tự tham gia câu lạc bộ Cải thiện Cơ thể, toàn những anh chàng cơ bắp. Cậu muốn tự mạnh lên, không nhờ tới năng lực."
+      },
+      "image_prompt": "a group of muscular students jogging in formation past a school gate at sunrise, a skinny boy trailing behind them, wide shot, warm morning light",
+      "on_screen_text": "Tự mạnh lên"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Kaku thấy chỉ riêng những chi tiết này đã đủ vẽ nên một người: có sức mạnh lớn nhất, nhưng chọn con đường khó nhất để trở nên tốt hơn."
+      },
+      "image_prompt": "the owl mascot sketching a small figure climbing a steep hill while an easy elevator stands unused beside it",
+      "use_mascot": true
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Giờ tới chi tiết đặc biệt nhất của bộ truyện: con số phần trăm. Trên màn hình thỉnh thoảng hiện một bộ đếm, từ vài phần trăm tăng dần lên."
+      },
+      "image_prompt": "a glowing percentage counter floating in dark space, the numbers rising from single digits, close-up, cool blue light",
+      "chapter": "Chiếc đồng hồ cảm xúc",
+      "on_screen_text": "Bộ đếm phần trăm"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Bộ đếm này đo cảm xúc bị dồn nén của Mob. Mỗi lần cậu bị trêu chọc, bị ép, bị tổn thương mà không nói ra, con số lại tăng lên."
+      },
+      "image_prompt": "a glass jar slowly filling with swirling colored smoke on a school desk, close-up, soft ominous light",
+      "on_screen_text": "Đo cảm xúc bị dồn nén"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Khi chạm một trăm phần trăm, cảm xúc bùng nổ. Và sức mạnh siêu nhiên của Mob bùng nổ theo, gắn với đúng cảm xúc đó."
+      },
+      "image_prompt": "the glass jar cracking with light and colored smoke bursting outward, dynamic close-up, explosive bright light",
+      "on_screen_text": "100% = bùng nổ",
+      "video_prompt": "the glass jar cracks and colored smoke bursts outward in slow motion",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Anime còn cho người xem thấy bộ đếm ngay trên màn hình. Mỗi lần con số hiện lên, người xem tự đếm theo, và hồi hộp chờ xem điều gì sẽ khiến nó chạm một trăm."
+      },
+      "image_prompt": "a TV screen in a dark room showing a glowing percentage number, silhouettes of viewers leaning forward on a couch, wide shot, tense cool light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Nghĩa là trong Mob Psycho 100, sức mạnh không đo bằng cấp độ hay chiêu thức. Nó đo bằng cảm xúc. Sức mạnh lớn nhất xuất hiện khi cậu không còn kìm nén được nữa."
+      },
+      "image_prompt": "a comparison drawn on parchment: a ladder of levels crossed out, replaced by a heart with a percentage meter inside, amber ink close-up"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Đây là một ẩn dụ rất đẹp cho tuổi dậy thì. Ai cũng từng có lúc dồn nén quá lâu, rồi một ngày bùng lên vì một chuyện rất nhỏ."
+      },
+      "image_prompt": "a teenager sitting alone on a staircase with headphones on, a crumpled test paper beside him, medium shot, moody evening light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku để ý: bộ đếm không bao giờ đo năng lực của Mob. Nó chỉ đo khoảng cách giữa cái Mob cảm thấy và cái Mob dám thể hiện."
+      },
+      "image_prompt": "two parallel lines drawn on a notebook page with a widening gap between them labeled with a small heart icon, close-up, amber ink"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và câu hỏi lớn của truyện là: liệu Mob có thể sống mà không cần chạm tới một trăm phần trăm? Liệu cậu có thể nói ra cảm xúc trước khi nó bùng nổ?"
+      },
+      "image_prompt": "a percentage meter frozen at a calm low number with a small sprout growing beside it, symbolic close-up, gentle morning light",
+      "on_screen_text": "Nói ra trước khi bùng nổ"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Vì sao một cậu bé lại khóa chặt cảm xúc như vậy? Câu trả lời nằm ở tuổi thơ."
+      },
+      "image_prompt": "an old family photo album lying open on a table with a faded childhood picture, close-up, soft nostalgic light",
+      "chapter": "Vì sao Mob kìm nén?"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Khi còn nhỏ, có lần Mob mất kiểm soát sức mạnh, và vô tình làm em trai Ritsu bị thương. Từ đó, cậu sợ chính mình."
+      },
+      "image_prompt": "a small child staring at his own trembling hands in a dim room, a toy lying broken on the floor, close-up, cold melancholy light",
+      "on_screen_text": "Sợ chính mình"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Mob tự đặt ra cho mình một luật: không dùng sức mạnh để làm hại người khác, và không để cảm xúc điều khiển mình."
+      },
+      "image_prompt": "a small handwritten rule card pinned above a child's desk, slightly faded with age, close-up, warm lamplight",
+      "on_screen_text": "Luật của Mob"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Nghe thì trưởng thành. Nhưng cách cậu làm là tắt hết cảm xúc. Không vui quá, không buồn quá, không giận quá. Và đó chính là lý do bộ đếm cứ âm thầm tăng lên."
+      },
+      "image_prompt": "a volume knob turned all the way down on an old radio while a faint glow builds inside the speaker, extreme close-up, moody light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Kaku thấy đây là chỗ bộ truyện rất thật. Nhiều người lớn lên cũng tin rằng kìm nén là mạnh mẽ. Nhưng cảm xúc bị khóa không biến mất. Nó chỉ chờ ngày bùng ra."
+      },
+      "image_prompt": "the owl mascot holding a tightly sealed lunchbox that is bulging and about to pop open, looking worried",
+      "use_mascot": true
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Và Mob cũng tin một điều khác nữa: năng lực siêu nhiên không làm cậu đặc biệt hơn ai. Nó chỉ là một khả năng, giống như chạy nhanh hay học giỏi."
+      },
+      "image_prompt": "a row of small icons on parchment: a running shoe, a book, a paintbrush, and a floating spoon, all the same size, amber ink close-up",
+      "on_screen_text": "Năng lực không làm ai đặc biệt"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Điều thú vị nhất: mỗi lần chạm một trăm phần trăm, Mob bùng nổ theo một cảm xúc khác nhau. Và sức mạnh mang màu của cảm xúc đó."
+      },
+      "image_prompt": "a row of several glass jars each filled with a different colored glowing smoke, still life, dramatic light",
+      "chapter": "Những kiểu 100%",
+      "on_screen_text": "Mỗi cảm xúc một màu"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Có lúc là tức giận, khi cậu thấy người khác bị làm hại. Sức mạnh khi đó dữ dội, muốn phá hủy mọi thứ trước mặt."
+      },
+      "image_prompt": "a jar of swirling crimson smoke with small cracks spreading through the glass, dramatic close-up, harsh red light",
+      "on_screen_text": "Tức giận"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Có lúc là buồn bã. Sức mạnh khi đó không tấn công, mà lan ra như một làn sóng nặng nề, khiến mọi thứ xung quanh chìm xuống."
+      },
+      "image_prompt": "a jar of slow heavy deep blue smoke sinking downward, close-up, melancholy blue light",
+      "on_screen_text": "Buồn bã"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Có lúc là lòng dũng cảm, hay lòng biết ơn. Sức mạnh khi đó sáng và ấm, dùng để bảo vệ chứ không để phá hủy."
+      },
+      "image_prompt": "a jar of bright golden smoke glowing warmly and lighting up the table around it, close-up, warm hopeful light",
+      "on_screen_text": "Dũng cảm · Biết ơn"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nghĩa là sức mạnh của Mob không tốt, không xấu. Nó chỉ khuếch đại cái đang có trong tim cậu. Giống như một chiếc loa: bạn nói gì, nó phát to lên cái đó."
+      },
+      "image_prompt": "an old loudspeaker on a pole with different colored sound waves coming out of it, symbolic close-up, warm light",
+      "on_screen_text": "Sức mạnh = chiếc loa của trái tim"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Đây là lý do Kaku chọn Mob cho video Tết. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì."
+      },
+      "image_prompt": "a small heart-shaped lantern glowing among festive red decorations, close-up, warm festive light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Kaku rất thích cách anime thể hiện những khoảnh khắc này: màu sắc, nét vẽ, cả phong cách hình thay đổi theo từng cảm xúc. Bạn không cần nghe lời thoại cũng biết Mob đang cảm thấy gì."
+      },
+      "image_prompt": "an animator's desk with several sketches of swirling energy in different art styles pinned side by side, close-up, warm studio light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Nhưng có một trạng thái đáng sợ hơn một trăm phần trăm. Bộ đếm không hiện số, chỉ hiện ba dấu hỏi."
+      },
+      "image_prompt": "a glowing counter display showing three question marks instead of numbers, flickering in darkness, extreme close-up, eerie white light",
+      "chapter": "???%: phần bị giấu kín",
+      "on_screen_text": "???%"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Trạng thái này thường xuất hiện khi Mob bất tỉnh. Cậu không còn tỉnh táo, và sức mạnh tự hành động, mạnh hơn và khó kiểm soát hơn mọi lần."
+      },
+      "image_prompt": "a boy lying unconscious on the ground while a huge swirl of white energy rises above him, wide shot, eerie light",
+      "on_screen_text": "Khi Mob bất tỉnh",
+      "video_prompt": "the swirl of white energy slowly rises and expands above the unconscious boy",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Nhiều người xem hiểu ???% là phần sâu nhất của Mob: tất cả những cảm xúc cậu đã khóa lại suốt nhiều năm, giờ có hình dạng riêng."
+      },
+      "image_prompt": "a locked wooden chest at the bottom of a dark basement with light leaking out from the seams, close-up, eerie glow"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Trong mùa cuối, phần bị giấu kín đó mất kiểm soát, và trở thành mối nguy lớn nhất của câu chuyện. Không có kẻ thù nào mạnh hơn chính cảm xúc bị dồn nén của Mob."
+      },
+      "image_prompt": "a colossal swirling storm of white energy rising over a city at night, tiny figures looking up from rooftops, wide shot, ominous light",
+      "on_screen_text": "Kẻ thù lớn nhất: chính mình"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kaku thấy đây là một ý tưởng rất dũng cảm của tác giả. Trận cuối không phải là đánh bại một phản diện, mà là một cậu bé học cách gặp lại chính mình."
+      },
+      "image_prompt": "a boy standing in front of a mirror that reflects a glowing version of himself, symbolic medium shot, soft dramatic light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Giờ tới nhân vật quan trọng thứ hai trong chân dung của Mob: Reigen. Một người lừa đảo, không có năng lực, nói dối rất giỏi."
+      },
+      "image_prompt": "a man in a plain suit confidently pointing at a whiteboard covered in scribbled diagrams in a cheap office, medium shot, humorous warm light",
+      "chapter": "Người thầy không có năng lực: Reigen",
+      "on_screen_text": "Reigen: người thầy lừa đảo"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Nhưng Reigen dạy Mob những điều không siêu năng lực nào dạy được: cách đối xử với người khác, cách nhìn một vấn đề từ nhiều phía, và cách xin lỗi."
+      },
+      "image_prompt": "a man and a boy sitting side by side on a park bench eating street food, the man gesturing as he talks, medium shot, warm evening light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Reigen từng nói với Mob, đại ý: gặp chuyện mình không thích thì bỏ chạy cũng được. Với một cậu bé luôn cố chịu đựng, đó là lời cho phép quan trọng nhất."
+      },
+      "image_prompt": "an open door at the end of a dark hallway with warm light spilling through, symbolic wide shot, hopeful light",
+      "on_screen_text": "Bỏ chạy cũng được"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Reigen cũng không bao giờ coi Mob là vũ khí. Với ông, Mob là một đứa trẻ. Ông muốn Mob có bạn bè, có câu lạc bộ, có cuộc sống bình thường."
+      },
+      "image_prompt": "a man ruffling a boy's hair outside a school gate as other students walk by, medium shot, warm afternoon light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Và mối quan hệ này đi theo cả hai chiều. Mob thấy Reigen nói dối, nhưng cũng thấy Reigen thật lòng. Có lúc Mob phải tự quyết định rời khỏi cái bóng của thầy."
+      },
+      "image_prompt": "a boy walking away down a street as a man watches from a doorway, both glancing back, wide shot, bittersweet dusk light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kaku nghĩ Reigen là một trong những người thầy hay nhất trong anime. Ông không mạnh, không hoàn hảo, nhưng ông giúp học trò trở thành người tốt hơn chính mình."
+      },
+      "image_prompt": "the owl mascot holding a small trophy labeled with a heart and handing it to an empty office chair",
+      "use_mascot": true
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Một nhân vật nữa giúp ta hiểu Mob: em trai Ritsu. Ritsu là học sinh giỏi, được thầy cô quý, là hội viên hội học sinh. Nhìn từ ngoài, Ritsu mới là người thành công trong nhà."
+      },
+      "image_prompt": "a neat student desk with stacks of perfect test papers and a student council badge, close-up, clean bright light",
+      "chapter": "Ritsu: người em muốn có năng lực",
+      "on_screen_text": "Ritsu"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Nhưng Ritsu lại ghen tị với anh. Cậu muốn có năng lực siêu nhiên như Mob, vì trong mắt cậu, đó là thứ duy nhất anh có mà mình không có."
+      },
+      "image_prompt": "a younger boy watching through a doorway as a floating spoon hovers above his older brother's hand, medium shot, wistful evening light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Khi Ritsu thức tỉnh năng lực, cậu vui, nhưng cũng bắt đầu đi sai đường. Năng lực không làm Ritsu hạnh phúc hơn. Nó chỉ làm cậu hiểu anh mình phải gánh nặng thế nào."
+      },
+      "image_prompt": "a boy staring at his own glowing hands in a dark room with a conflicted expression, close-up, cold blue light",
+      "on_screen_text": "Năng lực không làm hạnh phúc hơn"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Hai anh em là hai mặt của một câu hỏi: người có năng lực muốn bình thường, người bình thường muốn có năng lực. Và cả hai đều học được rằng giá trị của mình không nằm ở đó."
+      },
+      "image_prompt": "two brothers sitting back to back on the floor of a shared bedroom, one holding a textbook and one holding a floating pebble, wide shot, warm lamplight"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Còn một người bạn đồng hành rất lạ: một linh hồn tên Dimple. Ban đầu Dimple muốn chiếm cơ thể Mob để trở thành thần, nhưng thất bại và bị Mob đánh bại."
+      },
+      "image_prompt": "a small mischievous wisp of green light floating over a boy's shoulder in a quiet street, medium shot, playful light",
+      "chapter": "Dimple: linh hồn đồng hành",
+      "on_screen_text": "Dimple"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Thay vì biến mất, Dimple ở lại bên Mob, nói là để chờ cơ hội. Nhưng dần dần, linh hồn này trở thành một người bạn, người hay trêu chọc nhưng luôn có mặt."
+      },
+      "image_prompt": "a boy walking home from school with a tiny floating light bobbing beside him, back view, wide shot, warm sunset light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Kaku để ý: từ kẻ muốn lợi dụng sức mạnh của Mob, Dimple trở thành một trong những người hiểu Mob nhất. Một lần nữa, truyện cho thấy người ta gắn bó với Mob vì con người cậu, không phải vì năng lực."
+      },
+      "image_prompt": "the owl mascot sharing a small snack with a tiny floating wisp of light, both looking content",
+      "use_mascot": true
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Để hiểu Mob, hãy nhìn những người có năng lực khác trong truyện. Nhiều người trong số họ tin rằng năng lực khiến họ đặc biệt, cao hơn người thường."
+      },
+      "image_prompt": "a small group of silhouettes standing on a raised stage above a crowd, arms raised arrogantly, wide shot, harsh spotlight",
+      "chapter": "Những người có sức mạnh và lạc lối"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Có một cậu học sinh tên Teru, người dùng năng lực để làm trùm trường. Khi gặp Mob, cậu thua, và lần đầu tiên nhận ra năng lực không làm mình trở thành người tốt hơn."
+      },
+      "image_prompt": "a proud boy's silhouette on a school rooftop, his shadow shrinking as the sun sets, wide shot, dramatic dusk light",
+      "on_screen_text": "Teru"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Có cả một tổ chức gồm những người có năng lực muốn thống trị thế giới. Họ tin người có năng lực phải đứng trên người thường."
+      },
+      "image_prompt": "a sinister corporate tower at night with glowing windows and a large symbol on its top floor, wide shot, cold ominous light",
+      "on_screen_text": "Tổ chức muốn thống trị"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Mob thì ngược lại. Cậu mạnh nhất, nhưng tin rằng năng lực chỉ là một đặc điểm, như chiều cao hay màu tóc. Cậu không muốn đứng trên ai cả."
+      },
+      "image_prompt": "a boy standing at ground level among ordinary people on a busy crosswalk, blending in, wide shot, bright everyday light"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Chính niềm tin đó khiến Mob thay đổi được nhiều người. Cậu không đánh bại họ bằng sức mạnh, mà bằng cách cho họ thấy họ không cần sức mạnh để có giá trị."
+      },
+      "image_prompt": "several hands reaching out to help a fallen figure stand up in an empty schoolyard, close-up, warm hopeful light",
+      "on_screen_text": "Thay đổi người khác"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Có một nhóm nhân vật Kaku rất thích: câu lạc bộ Cải thiện Cơ thể. Những anh chàng to cao, cơ bắp, nhìn thì đáng sợ, nhưng hóa ra rất tử tế."
+      },
+      "image_prompt": "a group of large muscular students cheering loudly on the side of a running track, wide shot, bright cheerful light",
+      "chapter": "Câu lạc bộ Cải thiện Cơ thể",
+      "on_screen_text": "Câu lạc bộ Cải thiện Cơ thể"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Mob là thành viên yếu nhất. Chạy chậm nhất, hụt hơi nhanh nhất. Nhưng không ai chê cậu. Họ chờ cậu, cổ vũ cậu, và tôn trọng việc cậu cố gắng."
+      },
+      "image_prompt": "a skinny boy struggling to finish a lap while a line of big students waits at the finish line clapping, wide shot, warm sunset light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Điều thú vị là các anh chàng này không có năng lực siêu nhiên nào. Nhưng với Mob, họ là những người đầu tiên chấp nhận cậu như một người bình thường."
+      },
+      "image_prompt": "a group of students sharing drinks and laughing on a school bench after practice, medium shot, golden hour light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Và trong trận cuối, khi Mob mất kiểm soát, họ cũng có mặt. Không phải để chiến đấu, mà để nói với cậu rằng họ vẫn ở đây."
+      },
+      "image_prompt": "a line of big silhouettes standing firmly together against a swirling storm of light, wide shot, determined warm backlight"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Có một câu nói của đội trưởng câu lạc bộ mà nhiều người nhớ, đại ý: cơ thể không lừa dối ai. Mỗi bước chạy thêm là một bước thật, không có phép màu nào thay được."
+      },
+      "image_prompt": "a worn training notebook open to a page with a running log and small checkmarks, close-up, warm morning light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Kaku nghĩ đây là thông điệp giản dị nhất của truyện: đôi khi người giúp bạn nhiều nhất không phải người mạnh nhất, mà là người không bỏ bạn lại phía sau."
+      },
+      "image_prompt": "a pair of running shoes placed side by side with a much bigger pair on a locker room bench, close-up, warm soft light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Tới mùa cuối, Mob quyết định làm một việc rất bình thường mà rất khó: nói ra tình cảm với cô bạn thời thơ ấu, Tsubomi."
+      },
+      "image_prompt": "a boy holding a small handwritten letter standing at a school gate in the evening, nervous posture, medium shot, soft warm light",
+      "chapter": "Cái kết: một trăm phần trăm chính mình",
+      "on_screen_text": "Nói ra tình cảm"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Nỗi sợ bị từ chối khiến bộ đếm tăng vọt, và phần bị giấu kín của Mob bùng nổ thành một cơn bão khổng lồ phủ lên cả thành phố."
+      },
+      "image_prompt": "a gigantic swirling storm of white energy engulfing a city skyline at night, tiny lights flickering below, wide shot, dramatic light",
+      "video_prompt": "the giant storm of white energy swirls and spreads over the city skyline",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Những người quanh Mob lần lượt tới: em trai, thầy Reigen, bạn bè, cả những người từng là đối thủ. Họ không tới để đánh bại cơn bão. Họ tới để gọi Mob trở về."
+      },
+      "image_prompt": "many small figures walking toward the center of a storm, each holding a small lantern, wide shot, warm lights against cold storm",
+      "on_screen_text": "Mọi người gọi Mob về",
+      "video_prompt": "the small figures with lanterns walk steadily toward the storm as their lights grow brighter",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và Mob gặp chính mình, phần cảm xúc cậu đã giấu suốt bao năm. Cậu không tiêu diệt nó. Cậu chấp nhận nó, như một phần của mình."
+      },
+      "image_prompt": "a boy embracing a glowing reflection of himself in the eye of a calming storm, symbolic wide shot, soft radiant light",
+      "on_screen_text": "Chấp nhận chính mình",
+      "video_prompt": "the storm calms as the boy embraces his glowing reflection and soft light spreads",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Cậu vẫn đi gặp Tsubomi. Lời tỏ tình không được đáp lại như cậu mong. Nhưng cậu không bùng nổ. Cậu buồn, và cậu để mình buồn."
+      },
+      "image_prompt": "a boy walking home alone under streetlights with a small calm smile despite teary eyes, wide shot, gentle evening light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Hãy so sánh với mùa một: một cậu bé giấu mọi cảm xúc sau gương mặt không biểu cảm. Tới mùa cuối, cậu khóc, cậu cười, cậu nói ra. Đó là sự trưởng thành lớn nhất trong truyện."
+      },
+      "image_prompt": "two small portrait sketches side by side on parchment, one with a blank expression and one with a tearful smile, amber ink close-up",
+      "on_screen_text": "Mùa 1 → mùa cuối"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Kaku thấy đây là cái kết đẹp nhất có thể. Mob không thắng tình yêu, nhưng thắng được nỗi sợ cảm xúc của chính mình. Bộ đếm không cần chạm một trăm nữa."
+      },
+      "image_prompt": "a percentage counter gently fading away into warm morning light, symbolic close-up, peaceful light",
+      "on_screen_text": "Không cần chạm 100"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Và thầy Reigen có mặt ở đó, như mọi lần, để mời Mob đi ăn. Một cái kết nhỏ, bình thường, đúng như điều Mob mong muốn từ đầu."
+      },
+      "image_prompt": "a man and a boy sitting at a small ramen stall at night, steam rising from two bowls, wide shot, warm cozy light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?"
+      },
+      "image_prompt": "a small notebook open to a blank page titled with a new year's date, a pen beside it, close-up, soft morning light",
+      "chapter": "Bài học cho năm mới"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Một: cảm xúc không phải là điểm yếu. Giận, buồn, sợ, vui, tất cả đều là một phần của bạn. Khóa chúng lại không làm bạn mạnh hơn."
+      },
+      "image_prompt": "a set of colorful paper lanterns hanging in a row, each a different color, wide shot, warm festive light",
+      "on_screen_text": "1. Cảm xúc không phải điểm yếu"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Hai: năng lực, tài năng, hay bất cứ điều gì bạn giỏi, không làm bạn cao hơn người khác. Nó chỉ là một phần của bạn."
+      },
+      "image_prompt": "a small trophy placed on the same shelf as a teacup and a houseplant, all equally sized, still life, soft light",
+      "on_screen_text": "2. Tài năng không làm ai cao hơn"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Ba: hãy tìm những người như Reigen và câu lạc bộ cơ bắp. Những người không cần bạn mạnh, chỉ cần bạn là chính mình."
+      },
+      "image_prompt": "a family and friends gathered around a festive table sharing food and laughing, wide shot, warm lantern light",
+      "on_screen_text": "3. Tìm người bên cạnh"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Bốn: đừng so sánh mình với người khác theo kiểu ai có năng lực hơn. Mob và Ritsu, mỗi người đều có giá trị riêng, không ai hơn ai."
+      },
+      "image_prompt": "two different potted plants of different heights growing side by side on a windowsill, both blooming, still life, soft morning light",
+      "on_screen_text": "4. Đừng so sánh"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku đề nghị một thử thách nhỏ cho năm mới: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm."
+      },
+      "image_prompt": "the owl mascot handing a small red envelope with a heart drawn on it toward the viewer",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Và giờ, Kaku tóm cả con người Mob trong đúng một câu, như đã hứa ở đầu video."
+      },
+      "image_prompt": "a finished portrait canvas turned away from the viewer on an easel, a paintbrush resting on the ledge, close-up, warm studio light",
+      "chapter": "Chân dung trong một câu"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Mob không phải người mạnh nhất học cách kiểm soát sức mạnh. Mob là người học cách không cần sức mạnh để được là chính mình."
+      },
+      "image_prompt": "a quiet boy standing in an ordinary sunny street, arms relaxed, a calm smile, no glowing effects around him, wide shot, bright gentle light",
+      "on_screen_text": "Không cần sức mạnh để là chính mình"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nếu năm nay bạn chỉ xem một bộ anime cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp."
+      },
+      "image_prompt": "a family sitting together on a couch under a blanket watching TV with snacks and tea, back view, wide shot, cozy festive light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, đúng lúc bản làm lại chuẩn bị ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin."
+      },
+      "image_prompt": "a small straw-colored treasure map with ten red X marks drawn across it, close-up, warm adventurous light",
+      "on_screen_text": "Tiếp theo: 10 hiểu lầm One Piece"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Kaku chúc bạn một năm mới thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn cả năm nhé. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot bowing deeply with a festive scarf and holding a small lantern",
+      "use_mascot": true
+    }
+  ]
+}

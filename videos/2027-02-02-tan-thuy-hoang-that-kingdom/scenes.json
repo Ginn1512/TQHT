@@ -1,0 +1,628 @@
+{
+  "title": "Kingdom: Tần Thủy Hoàng và Lý Tín ngoài đời thật là ai?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Câu chuyện này có thật hơn bạn nghĩ. Một cậu bé mồ côi, lớn lên như một người hầu, mơ trở thành đại tướng quân thiên hạ. Nghe như truyện tranh. Nhưng tên của cậu thật sự có trong sử sách."
+      },
+      "image_prompt": "an ancient bamboo scroll partially unrolled on a dark wooden table, a single name brushed in ink highlighted by a beam of light, close-up, warm candlelight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Có thật hơn bạn nghĩ",
+      "video_prompt": "a beam of light slowly moves across the bamboo scroll and lands on the brushed name",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Và vị vua trẻ mà cậu phò tá sau này sẽ trở thành một trong những người nổi tiếng nhất lịch sử Trung Hoa: Tần Thủy Hoàng."
+      },
+      "image_prompt": "an imposing ancient palace gate at dawn with rows of banners fluttering in the wind, wide shot, golden light"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nói về spoiler: với Kingdom, spoiler lớn nhất đã có trong sách lịch sử từ hơn hai nghìn năm trước. Nước Tần sẽ thống nhất thiên hạ. Nhưng Kaku sẽ không nói trước các trận chưa lên anime."
+      },
+      "image_prompt": "a history textbook lying open next to a stack of manga volumes, a small spoiler warning card between them, close-up, warm light",
+      "on_screen_text": "Spoiler lớn nhất: lịch sử"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Câu hỏi hôm nay: trong Kingdom, bao nhiêu là thật, bao nhiêu là hư cấu? Doanh Chính và Lý Tín ngoài đời là người thế nào? Và tác giả đã thay đổi những gì, vì sao?"
+      },
+      "image_prompt": "a large parchment divided into two columns, one side marked with a brush stroke and the other with a question mark, close-up, amber ink"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Kaku nói trước một nguyên tắc: Kaku sẽ không vẽ chân dung người thật. Vì không ai biết chính xác họ trông thế nào. Kaku dùng cổ vật, bản đồ và những bóng người."
+      },
+      "image_prompt": "a museum display case with ancient bronze artifacts and a small placard, soft spotlight, medium shot"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku mở một cuốn sử thật, đặt cạnh Kingdom, và cuối video là bản đồ thật và hư cấu trong một hình."
+      },
+      "image_prompt": "the owl mascot wearing tiny reading glasses opening a large ancient bamboo scroll with great care",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Kingdom là manga của tác giả Hara Yasuhisa, đăng trên tạp chí Weekly Young Jump từ tháng một năm 2006. Tới tháng một năm 2026, truyện đã vượt một trăm hai mươi triệu bản."
+      },
+      "image_prompt": "a tall stack of thick manga volumes towering on a bookstore table with a small sign, close-up, warm store light",
+      "chapter": "Kingdom là gì?",
+      "on_screen_text": "Hơn 120 triệu bản"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Truyện có anime nhiều mùa, mùa sáu phát từ tháng mười năm 2025, và cả loạt phim người đóng ở Nhật rất thành công."
+      },
+      "image_prompt": "a movie theater marquee glowing at night with an empty ticket booth below, wide shot, warm neon light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Bối cảnh là thời Chiến Quốc ở Trung Hoa, khoảng thế kỷ thứ ba trước Công nguyên. Bảy nước lớn đánh nhau suốt hàng trăm năm."
+      },
+      "image_prompt": "an old hand-drawn map of ancient China divided into seven colored regions, parchment close-up, warm light",
+      "on_screen_text": "Thời Chiến Quốc"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Truyện theo hai nhân vật: Lý Tín, cậu bé muốn thành đại tướng, và Doanh Chính, vị vua trẻ nước Tần muốn chấm dứt chiến tranh bằng cách thống nhất cả bảy nước."
+      },
+      "image_prompt": "two small silhouettes standing on a hill overlooking a vast plain, one holding a sword and one holding a scroll, wide shot, dramatic sunset light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Thời Chiến Quốc thật kéo dài khoảng hai trăm năm mươi năm, từ thế kỷ thứ năm tới năm hai trăm hai mươi mốt trước Công nguyên."
+      },
+      "image_prompt": "a long timeline scroll with many small crossed-sword marks spaced along it, parchment close-up, amber ink",
+      "chapter": "Thời Chiến Quốc thật",
+      "on_screen_text": "Khoảng 250 năm chiến tranh"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Bảy nước lớn là Tần, Triệu, Hàn, Ngụy, Sở, Yên và Tề. Tần ở phía tây, từng bị các nước khác xem là vùng biên, nửa văn minh."
+      },
+      "image_prompt": "a map of seven ancient states with the western region shaded darker and slightly isolated by mountains, parchment close-up, amber and red ink",
+      "on_screen_text": "Bảy nước"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Nhưng Tần mạnh lên nhờ cải cách của Thương Ưởng khoảng một trăm năm trước thời Doanh Chính: luật lệ nghiêm khắc, thưởng phạt rõ ràng, và lên chức theo chiến công chứ không theo dòng dõi."
+      },
+      "image_prompt": "an ancient stone tablet engraved with columns of rules beside a bronze tally token, close-up, stark light",
+      "on_screen_text": "Cải cách của Thương Ưởng"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Chi tiết cuối cùng này rất quan trọng với Kingdom. Ở nước Tần thật, một người lính thường có thể thăng tiến nhờ chiến công. Đó là nền móng để một cậu bé như Lý Tín có thể mơ làm tướng."
+      },
+      "image_prompt": "a simple soldier's helmet placed on a step at the bottom of a tall staircase leading to a general's banner, symbolic wide shot, warm light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Kaku để ý: Kingdom không phát minh ra giấc mơ đổi đời bằng chiến công. Nó lấy từ chính luật lệ nước Tần."
+      },
+      "image_prompt": "the owl mascot pointing at an old rulebook with a small helmet doodle on the margin",
+      "use_mascot": true
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Doanh Chính thật sinh năm hai trăm năm mươi chín trước Công nguyên ở Hàm Đan, kinh đô nước Triệu, nơi cha ông đang làm con tin."
+      },
+      "image_prompt": "an ancient walled city at dusk with narrow streets and a lone child's silhouette at a gate, wide shot, cold dusk light",
+      "chapter": "Doanh Chính trong truyện và ngoài đời",
+      "on_screen_text": "Sinh ở Hàm Đan, nước Triệu"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Thời đó, các nước thường gửi con cháu hoàng tộc sang nước khác làm con tin để bảo đảm hòa ước. Khi hai nước trở mặt, con tin là người đầu tiên gặp nguy hiểm."
+      },
+      "image_prompt": "an ornate sealed treaty scroll lying beside a small child's shoe on a stone floor, symbolic close-up, cold light",
+      "on_screen_text": "Con tin bảo đảm hòa ước"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kingdom khắc họa tuổi thơ khốn khổ của ông ở nước Triệu, bị người Triệu thù ghét. Phần này có gốc thật: ông lớn lên ở đất địch, trong thân phận con của con tin."
+      },
+      "image_prompt": "a small child hiding in the shadow of a stone wall while hostile silhouettes pass by, medium shot, cold harsh light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Năm hai trăm bốn mươi bảy trước Công nguyên, Doanh Chính lên ngôi vua Tần khi mới khoảng mười ba tuổi. Quyền lực thật lúc đó nằm trong tay thừa tướng Lã Bất Vi."
+      },
+      "image_prompt": "an oversized throne in a vast hall with a small figure seated on it, a tall shadow standing beside the throne, wide shot, dramatic light",
+      "on_screen_text": "Lên ngôi năm 13 tuổi"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Lã Bất Vi vốn là một thương nhân giàu có. Ông đầu tư vào cha của Doanh Chính khi người cha còn là con tin, và giúp ông ta lên ngôi. Một thương vụ đổi lấy cả một đất nước."
+      },
+      "image_prompt": "a merchant's abacus and a stack of ancient coins beside a small royal seal on a lacquered table, close-up, warm candlelight",
+      "on_screen_text": "Thương nhân Lã Bất Vi"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Sử ký của Tư Mã Thiên còn chép một lời đồn: Lã Bất Vi mới là cha ruột của Doanh Chính. Nhiều nhà sử học hiện đại nghi ngờ lời đồn này. Kaku ghi nó là lời đồn, không phải sự thật."
+      },
+      "image_prompt": "an ancient scroll with a passage circled and a small question mark stamp beside it, parchment close-up, amber ink",
+      "on_screen_text": "Lời đồn, chưa chắc"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Năm hai trăm ba mươi tám trước Công nguyên, khi Doanh Chính làm lễ trưởng thành, Lao Ái, một kẻ thân cận của thái hậu, nổi loạn. Doanh Chính dẹp loạn, rồi dần lấy lại quyền từ Lã Bất Vi."
+      },
+      "image_prompt": "a palace courtyard at night with torches and scattered banners after a clash, wide shot, dramatic firelight",
+      "on_screen_text": "Dẹp loạn, nắm quyền"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Còn nhân vật người đóng thế giống hệt nhà vua ở đầu truyện, người bạn thân của Lý Tín, là hoàn toàn hư cấu. Tác giả cần một cách để hai nhân vật chính gặp nhau."
+      },
+      "image_prompt": "two identical silhouettes facing each other like a mirror reflection, one fading, symbolic close-up, soft melancholy light",
+      "on_screen_text": "Hư cấu: người đóng thế"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Và lý tưởng thống nhất để chấm dứt chiến tranh, như Doanh Chính trong truyện thường nói, là cách tác giả diễn giải. Sử sách ghi lại việc ông làm, nhưng không ghi lại ông nghĩ gì."
+      },
+      "image_prompt": "a young ruler's silhouette standing on a palace balcony overlooking a war-torn land at sunset, back view, wide shot, somber golden light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Giờ tới Lý Tín. Trong truyện, cậu là trẻ mồ côi chiến tranh, lớn lên làm người hầu, và luyện kiếm mỗi ngày với giấc mơ thành đại tướng quân thiên hạ."
+      },
+      "image_prompt": "a young boy swinging a wooden stick like a sword alone in a dusty village yard at dawn, wide shot, warm hopeful light",
+      "chapter": "Lý Tín trong truyện và ngoài đời",
+      "on_screen_text": "Lý Tín trong truyện"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Ngoài đời, sử sách gần như không ghi gì về tuổi thơ của Lý Tín. Không có dòng nào nói ông là trẻ mồ côi hay người hầu. Ông xuất hiện trong sử khi đã là một vị tướng."
+      },
+      "image_prompt": "a mostly empty bamboo scroll with only a few lines of ink near the end, parchment close-up, dim light",
+      "on_screen_text": "Tuổi thơ: không có trong sử"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Và chính khoảng trống này là món quà cho tác giả. Không có ghi chép thì có thể sáng tạo. Hara Yasuhisa đã cho Lý Tín một câu chuyện đi lên từ con số không."
+      },
+      "image_prompt": "a blank page with a brush poised above it, a single drop of ink about to fall, extreme close-up, warm light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Lý Tín thật được sử sách nhắc tới như một vị tướng trẻ dũng mãnh. Ông từng dẫn quân truy đuổi thái tử Đan nước Yên, người đứng sau vụ ám sát Doanh Chính."
+      },
+      "image_prompt": "a small cavalry unit riding hard across a frozen river under a pale sky, wide shot, cold winter light",
+      "on_screen_text": "Truy đuổi thái tử Đan"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Rồi tới trận nổi tiếng nhất. Năm hai trăm hai mươi lăm trước Công nguyên, Doanh Chính hỏi các tướng cần bao nhiêu quân để đánh nước Sở. Lão tướng Vương Tiễn nói sáu mươi vạn."
+      },
+      "image_prompt": "a war council scene with generals' silhouettes around a large map table, one elderly figure raising six fingers, medium shot, warm lamplight",
+      "on_screen_text": "Vương Tiễn: 60 vạn"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Lý Tín trẻ tuổi nói: hai mươi vạn là đủ. Nhà vua chọn Lý Tín."
+      },
+      "image_prompt": "a younger silhouette at the map table raising two fingers confidently while the elderly figure turns away, medium shot, warm lamplight",
+      "on_screen_text": "Lý Tín: 20 vạn",
+      "video_prompt": "the elderly silhouette slowly turns away from the map table as candlelight flickers",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Và Hạng Yên là ai? Ông là ông nội của Hạng Vũ, Tây Sở Bá Vương, người mà người Việt biết qua câu chuyện Hán Sở tranh hùng. Người đánh bại Lý Tín là ông nội của đối thủ lớn nhất của nhà Hán sau này."
+      },
+      "image_prompt": "an old family tree scroll with a line connecting a general's name to a famous grandson's name marked with a small crown, close-up, warm candlelight",
+      "on_screen_text": "Hạng Yên: ông nội Hạng Vũ"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Kết quả: quân Sở do tướng Hạng Yên chỉ huy đánh úp quân Tần, và Lý Tín thua lớn. Nhà vua phải đích thân tới mời Vương Tiễn trở lại cầm quân."
+      },
+      "image_prompt": "a battlefield at dusk with scattered banners and broken chariot wheels in tall grass, wide shot, somber red light",
+      "on_screen_text": "Thua Hạng Yên"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kaku thấy thú vị: Kingdom không giấu thất bại này. Truyện biết trước rằng nhân vật chính sẽ có một trận thua lớn trong sử sách, và cả người đọc Nhật lẫn Trung đều chờ xem tác giả xử lý thế nào."
+      },
+      "image_prompt": "the owl mascot holding a history book in one wing and a manga volume in the other, looking back and forth nervously",
+      "use_mascot": true
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Sau trận thua, Lý Tín vẫn tiếp tục cầm quân. Sử sách ghi ông cùng Vương Bí, con trai Vương Tiễn, tham gia những chiến dịch cuối cùng của quá trình thống nhất."
+      },
+      "image_prompt": "two riders side by side on a hill looking toward a distant coastline, back view, wide shot, bright morning light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Và một chi tiết đẹp: theo Sử ký, danh tướng Lý Quảng của nhà Hán, người được gọi là Phi tướng quân, là hậu duệ bốn đời của Lý Tín. Giấc mơ đại tướng quân có lẽ đã được truyền lại trong gia đình."
+      },
+      "image_prompt": "an ancient family genealogy scroll with a line of names connected by ink, a small bow and arrow drawn beside the last name, close-up, warm light",
+      "on_screen_text": "Hậu duệ: Lý Quảng"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kingdom có rất nhiều nhân vật có thật. Vương Tiễn là một trong những danh tướng lớn nhất nước Tần, người cuối cùng chinh phục nước Sở với sáu mươi vạn quân như ông đã nói."
+      },
+      "image_prompt": "a massive army camp stretching to the horizon with countless tents and banners, wide shot, hazy morning light",
+      "chapter": "Những người có thật khác",
+      "on_screen_text": "Vương Tiễn"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Sử ký kể một chuyện rất đời: trước khi xuất quân, Vương Tiễn liên tục xin nhà vua ruộng đất, nhà cửa. Ông giải thích: để nhà vua yên tâm rằng ông chỉ ham của cải, không ham quyền."
+      },
+      "image_prompt": "a scroll listing fields and houses held beside a general's helmet, close-up, warm candlelight",
+      "on_screen_text": "Xin ruộng để vua yên tâm"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Lý Mục, danh tướng nước Triệu, là đối thủ đáng sợ nhất của Tần, từng đánh bại quân Tần nhiều lần. Nhưng năm hai trăm hai mươi chín trước Công nguyên, ông bị gièm pha là muốn làm phản và bị xử tử."
+      },
+      "image_prompt": "a lone general's banner lying fallen in the rain outside a city gate, close-up, somber grey light",
+      "on_screen_text": "Lý Mục"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kẻ gièm pha là Quách Khai, một cận thần nước Triệu đã nhận hối lộ của Tần. Không thắng được trên chiến trường, Tần thắng bằng lời nói trong triều đình địch."
+      },
+      "image_prompt": "a small pouch of coins passed secretly between two hands in a dark palace corridor, extreme close-up, shadowy light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Kinh Kha, người mà người Việt biết qua rất nhiều phim, là thích khách do thái tử Đan nước Yên cử đi ám sát Doanh Chính năm hai trăm hai mươi bảy trước Công nguyên, với con dao giấu trong một tấm bản đồ."
+      },
+      "image_prompt": "a rolled map on a lacquered tray with the glint of a hidden blade at its core, extreme close-up, tense candlelight",
+      "on_screen_text": "Kinh Kha",
+      "video_prompt": "the map slowly unrolls on the tray revealing the glint of the hidden blade",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Dương Đoan Hòa là một cái tên có thật trong Sử ký, một tướng Tần từng đánh vào đất Triệu. Trong Kingdom, tác giả biến nhân vật này thành nữ vương của các bộ tộc miền núi."
+      },
+      "image_prompt": "a mountain fortress on a rocky peak with tribal banners, wide shot, dramatic misty light",
+      "on_screen_text": "Dương Đoan Hòa: tên thật, người khác"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Hoàn Nghĩ cũng là một tướng Tần có thật. Ông từng thắng nhiều trận, rồi thua đậm trước Lý Mục, và sau đó biến mất khỏi sử sách nước Tần."
+      },
+      "image_prompt": "a Qin war banner half buried in mud on an empty battlefield, close-up, grey overcast light",
+      "on_screen_text": "Hoàn Nghĩ"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Một số nhà sử học cho rằng ông có thể đã trốn sang nước Yên và đổi tên thành Phàn Ô Kỳ, người mà Kinh Kha mang đầu tới gặp Doanh Chính để được tiếp kiến. Đây là giả thuyết, chưa có kết luận."
+      },
+      "image_prompt": "a figure in a traveling cloak walking away from a border gate at dusk, a signpost pointing two directions, wide shot, mysterious light",
+      "on_screen_text": "Giả thuyết: Hoàn Nghĩ là Phàn Ô Kỳ?"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Mông Vũ và Mông Điềm cũng là cha con tướng Tần có thật. Mông Điềm sau này nổi tiếng vì đánh người Hung Nô ở phương Bắc và nối các đoạn trường thành."
+      },
+      "image_prompt": "a long earthen wall winding over northern hills under a pale sky, wide shot, cold windy light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Giờ tới phía hư cấu. Người đóng thế giống nhà vua, như Kaku đã nói, là hư cấu. Cô gái đeo mặt nạ trong nhóm của Lý Tín cũng không có trong sử."
+      },
+      "image_prompt": "a simple ceremonial bird-shaped mask lying on a stone step, close-up, soft mysterious light",
+      "chapter": "Những gì hoàn toàn hư cấu",
+      "on_screen_text": "Hư cấu"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Phần lớn đội quân riêng của Lý Tín và các đồng đội trong truyện là nhân vật sáng tạo. Sử sách thời đó chỉ ghi tên các tướng lớn, gần như không ghi tên lính."
+      },
+      "image_prompt": "a vast crowd of anonymous soldiers' silhouettes marching, only a few banners with names visible, wide shot, dusty light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Những võ tướng một mình chém cả trăm người, những cú nhảy bay qua cả hàng quân, là phong cách manga. Chiến tranh thời đó chủ yếu dựa vào đội hình, cung nỏ và hậu cần."
+      },
+      "image_prompt": "an ancient crossbow and a bundle of bronze arrowheads laid on a wooden table beside a formation diagram, close-up, warm light",
+      "on_screen_text": "Phóng đại: võ tướng một người địch trăm"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Kaku nhắc thêm: nước Tần thật có nỏ rất mạnh và các bộ phận vũ khí được chuẩn hóa để dễ thay thế. Đó mới là lợi thế thật, dù trên trang truyện không hấp dẫn bằng một nhát kiếm."
+      },
+      "image_prompt": "a row of identical bronze crossbow trigger mechanisms lined up neatly on a workbench, close-up, clean light",
+      "on_screen_text": "Lợi thế thật: nỏ và chuẩn hóa"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Và thời gian trong truyện được nén lại hoặc kéo dài theo nhịp kể chuyện. Có trận sử sách chỉ ghi một dòng, nhưng truyện dành cả chục tập."
+      },
+      "image_prompt": "a single line of brushed text on bamboo stretched out into a long illustrated scroll of battle scenes, symbolic close-up, warm light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Vậy vì sao tác giả thay đổi? Kaku thấy có bốn lý do."
+      },
+      "image_prompt": "a notebook page titled with four numbered empty lines, close-up, amber ink",
+      "chapter": "Tác giả thay đổi và vì sao"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Một: lấp khoảng trống. Nơi sử sách im lặng, như tuổi thơ Lý Tín, truyện có quyền sáng tạo mà không nói sai lịch sử."
+      },
+      "image_prompt": "a crumbling ancient wall with gaps being filled by fresh bricks of a different color, symbolic close-up, warm light",
+      "on_screen_text": "1. Lấp khoảng trống"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Hai: tạo nhân vật để người đọc đồng cảm. Một cậu bé mồ côi đi lên dễ khiến ta cổ vũ hơn một vị tướng xuất thân quý tộc."
+      },
+      "image_prompt": "a small figure climbing a tall rocky cliff toward a banner at the top, low-angle shot, inspiring light",
+      "on_screen_text": "2. Để ta cổ vũ"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Ba: diễn giải lại một nhân vật gây tranh cãi. Tần Thủy Hoàng thường bị nhớ tới như một bạo chúa. Kingdom cho ông một lý tưởng, để người đọc tự hỏi: liệu ông có đáng bị nhớ như vậy?"
+      },
+      "image_prompt": "a two-sided bronze mirror, one side dark and cracked, the other polished and bright, close-up, dramatic split light",
+      "on_screen_text": "3. Diễn giải lại"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Bốn: phục vụ thể loại. Kingdom là manga hành động dành cho người lớn. Những trận đánh cần kịch tính, nên nó phóng đại sức mạnh cá nhân."
+      },
+      "image_prompt": "a dramatic ink splash of a charging horse on rice paper, dynamic close-up, energetic light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Mẹo nhỏ của Kaku: nếu bạn tò mò, hãy đọc Kingdom cùng một bản tóm tắt thời Chiến Quốc. Mỗi khi truyện nhắc tới một cái tên, bạn tra thử xem người đó có thật không. Rất nhiều bất ngờ đang chờ."
+      },
+      "image_prompt": "a manga volume and a slim history book open side by side on a desk, a pencil and sticky notes marking pages, close-up, cozy lamplight",
+      "on_screen_text": "Mẹo: đọc kèm sử"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku nghĩ đây là cách làm truyện lịch sử rất khéo: giữ đúng các cột mốc lớn, và sáng tạo ở giữa. Người đọc biết đích đến, nhưng không biết đường đi."
+      },
+      "image_prompt": "the owl mascot placing small flags on a map at fixed points and drawing a winding path between them",
+      "use_mascot": true
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Năm hai trăm hai mươi mốt trước Công nguyên, nước Tần diệt nước Tề, nước cuối cùng. Doanh Chính thống nhất thiên hạ và tự xưng là Thủy Hoàng Đế, hoàng đế đầu tiên."
+      },
+      "image_prompt": "a vast unified map of ancient China with all seven regions merging into one color, parchment close-up, golden light",
+      "chapter": "Phần lịch sử truyện chưa tới",
+      "on_screen_text": "Năm 221 TCN: thống nhất",
+      "video_prompt": "the seven colored regions on the map slowly merge into a single golden color",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Trước đó, Tần diệt sáu nước trong khoảng mười năm: Hàn, rồi Triệu, Ngụy, Sở, Yên, và cuối cùng là Tề. Kingdom hiện vẫn đang kể những năm đầu của cuộc chinh phạt đó."
+      },
+      "image_prompt": "a map with six regions being crossed out one by one in red ink, each with a small date marker, parchment close-up, dramatic light",
+      "on_screen_text": "Diệt 6 nước trong khoảng 10 năm"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Ông chuẩn hóa chữ viết, tiền tệ, đo lường, và cả khoảng cách giữa hai bánh xe để xe đi được trên mọi con đường. Những cải cách đó ảnh hưởng tới Trung Hoa suốt hai nghìn năm."
+      },
+      "image_prompt": "a flat lay of ancient round bronze coins with square holes, a bamboo measuring rod and a set of weights, overhead shot, warm museum light",
+      "on_screen_text": "Chuẩn hóa chữ, tiền, đo lường"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Nhưng ông cũng nổi tiếng vì những chính sách hà khắc: đốt sách, lao dịch nặng nề, và luật lệ tàn nhẫn."
+      },
+      "image_prompt": "a pile of burning bamboo scrolls in a courtyard with smoke rising into a grey sky, wide shot, somber orange light",
+      "on_screen_text": "Hà khắc"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Năm hai trăm mười trước Công nguyên, ông mất trong một chuyến tuần du. Nhà Tần sụp đổ chỉ vài năm sau đó, tổng cộng tồn tại khoảng mười lăm năm."
+      },
+      "image_prompt": "an ornate carriage traveling along an empty road under a dark sky, wide shot, melancholy light",
+      "on_screen_text": "Nhà Tần: khoảng 15 năm"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Năm 1974, những người nông dân đào giếng gần Tây An tình cờ tìm thấy mảnh gốm. Đó là đội quân đất nung trong khu lăng mộ của ông, với hơn tám nghìn tượng lính theo ước tính."
+      },
+      "image_prompt": "rows of ancient terracotta soldier statues standing in an excavation pit, wide shot, soft museum light",
+      "on_screen_text": "Đội quân đất nung",
+      "video_prompt": "the camera glides slowly along the rows of terracotta soldiers in the excavation pit",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Mỗi tượng có khuôn mặt hơi khác nhau. Kaku luôn tự hỏi: trong tám nghìn gương mặt đó, có ai là những người lính vô danh mà sử sách không ghi tên không?"
+      },
+      "image_prompt": "extreme close-up of the weathered face of a terracotta statue, soft dramatic side light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Phần lớn những gì ta biết về Tần Thủy Hoàng đến từ Sử ký của Tư Mã Thiên, viết dưới thời nhà Hán, khoảng một thế kỷ sau khi nhà Tần sụp đổ."
+      },
+      "image_prompt": "an ancient historian's writing desk with brushes, an ink stone and stacks of bamboo slips, close-up, warm candlelight",
+      "chapter": "Bạo chúa hay minh quân?",
+      "on_screen_text": "Nguồn chính: Sử ký"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Nhà Hán lên thay nhà Tần, nên có lý do để kể nhà Tần như một triều đại tàn bạo. Nhiều nhà sử học hiện đại đã đánh giá lại, công nhận cả những đóng góp lẫn tội ác của ông."
+      },
+      "image_prompt": "a balance scale with bamboo slips on one side and a bronze coin on the other, close-up, neutral light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kingdom chọn kể câu chuyện của một Doanh Chính trẻ, trước khi thành hoàng đế. Nó không trả lời ông là bạo chúa hay minh quân. Nó để người đọc tự quyết định."
+      },
+      "image_prompt": "a young ruler's silhouette standing at a fork in a road at dawn, one path bright and one path dark, wide shot, dramatic light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku cũng làm vậy. Bạn nghĩ sao: Tần Thủy Hoàng là bạo chúa hay minh quân? Hay cả hai? Viết vào bình luận nhé."
+      },
+      "image_prompt": "the owl mascot holding up two small signs, one with a crown and one with a chain, looking thoughtful",
+      "use_mascot": true
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Có một chi tiết nối lịch sử này với Việt Nam. Sau khi thống nhất, nhà Tần đem quân xuống phương Nam, vùng mà sử sách gọi là đất Bách Việt."
+      },
+      "image_prompt": "an old map showing armies' arrows moving south toward a lush green region with rivers and mountains, parchment close-up, amber ink",
+      "chapter": "Góc nhìn từ Việt Nam",
+      "on_screen_text": "Tần xuống phương Nam"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Triệu Đà, người sau này lập nước Nam Việt, vốn là một viên tướng nhà Tần tham gia cuộc chinh phạt đó. Người Việt học về ông trong sách sử, và vẫn tranh luận về vai trò của ông tới nay."
+      },
+      "image_prompt": "a quiet southern river landscape with misty mountains and a small ancient fortress, wide shot, soft green light",
+      "on_screen_text": "Triệu Đà"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Nghĩa là thế giới của Kingdom không xa lạ như ta nghĩ. Nó là một phần câu chuyện lớn mà lịch sử Việt Nam cũng có mặt."
+      },
+      "image_prompt": "two old maps laid over each other, one of ancient China and one of ancient Vietnam, their edges overlapping, close-up, warm light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và đây là bản đồ thật và hư cấu trong một hình. Cột thật: Doanh Chính, Lã Bất Vi, loạn Lao Ái, Vương Tiễn, Lý Mục, Kinh Kha, trận thua Hạng Yên, và Lý Tín."
+      },
+      "image_prompt": "a two-column chart on parchment with the left column filled with small seal-stamp icons, amber ink close-up",
+      "chapter": "Bản đồ thật và hư cấu",
+      "on_screen_text": "Thật"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Cột có tên thật nhưng thay đổi: Dương Đoan Hòa thành nữ vương miền núi, tuổi thơ mồ côi của Lý Tín, và lý tưởng của Doanh Chính."
+      },
+      "image_prompt": "the middle of the chart with half-filled circle icons beside a few entries, amber ink close-up",
+      "on_screen_text": "Tên thật, người khác"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Cột hư cấu: người đóng thế, cô gái đeo mặt nạ, phần lớn đồng đội của Lý Tín, và những võ tướng một người địch trăm."
+      },
+      "image_prompt": "the right column of the chart with dotted circle icons, amber ink close-up",
+      "on_screen_text": "Hư cấu"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Cột giả thuyết: Lã Bất Vi là cha ruột, và Hoàn Nghĩ là Phàn Ô Kỳ. Sử sách chưa trả lời, nên Kaku để chúng ở mép giấy."
+      },
+      "image_prompt": "a small note pinned at the edge of the chart with two question marks, close-up, amber ink",
+      "on_screen_text": "Giả thuyết"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Kingdom là câu chuyện về một cậu bé không có tên trong sử sách thời thơ ấu, nhưng có tên ở những trang quan trọng nhất. Tác giả chỉ viết thêm phần mà lịch sử bỏ trống."
+      },
+      "image_prompt": "a bamboo scroll with the blank early section now filled with delicate illustrations, leading into the historical text, close-up, warm candlelight",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một hồ sơ bí ẩn: Chainsaw Man, và câu hỏi vì sao cả thế giới ác quỷ lại sợ một con quỷ cưa máy. Có lý thuyết, và Kaku sẽ gắn nhãn rõ ràng."
+      },
+      "image_prompt": "a magnifying glass lying on a case file with a small chainsaw doodle on the cover, close-up, moody light",
+      "on_screen_text": "Tiếp theo: bí ẩn Chainsaw Man"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nếu bạn thích những video đặt truyện cạnh lịch sử thật, hãy đăng ký kênh. Lần sau bạn đọc Kingdom, bạn sẽ biết trang nào là sử, trang nào là mơ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot rolling up the bamboo scroll and bowing politely",
+      "use_mascot": true
+    }
+  ]
+}

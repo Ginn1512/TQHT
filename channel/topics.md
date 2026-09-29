@@ -74,12 +74,12 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 49 | 2027-01-26 | Du hành thời gian: luật nào chặt nhất | Tokyo Revengers / Steins;Gate / Re:Zero | I · So sánh chéo có chấm điểm | 4 | ? | 5 | 4 | 13 | `videos/2027-01-26-so-sanh-du-hanh-thoi-gian/` | Kịch bản xong — chờ kiểm nguồn |
 | 50 | 2027-01-28 | Dòng thời gian 1.000 năm, từ Muzan tới Tanjiro | Kimetsu no Yaiba | O · Dòng thời gian | 5 | ? | 4 | 4 | 13 | `videos/2027-01-28-dong-thoi-gian-kimetsu/` | Kịch bản xong — chờ kiểm nguồn |
 | 51 | 2027-01-30 | Giả kim thuật và luật trao đổi ngang giá | Fullmetal Alchemist | A · Giải thích hệ thống | 5 | ? | 4 | 5 | 14 | `videos/2027-01-30-gia-kim-thuat-fullmetal/` | Kịch bản xong — chờ kiểm nguồn |
-| 52 | 2027-02-02 | Tần Thủy Hoàng và Lý Tín thật | Kingdom | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 4 | 13 | `videos/2027-02-02-tan-thuy-hoang-that-kingdom/` | Chưa viết |
-| 53 | 2027-02-04 | Bí ẩn Ác quỷ Cưa máy (lý thuyết có gắn nhãn) | Chainsaw Man | N · Điều tra bí ẩn | 4 | ? | 4 | 4 | 12 | `videos/2027-02-04-bi-an-ac-quy-cua-may/` | Chưa viết |
-| 54 | 2027-02-06 | Từ 1% đến 100%: sức mạnh là cảm xúc | Mob Psycho 100 | H · Chân dung qua sức mạnh | 4 | ? | 5 | 4 | 13 | `videos/2027-02-06-mob-psycho-100-phan-tram/` | Chưa viết |
-| 55 | 2027-02-09 | 10 hiểu lầm phổ biến | One Piece | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2027-02-09-10-hieu-lam-one-piece/` | Chưa viết |
-| 56 | 2027-02-11 | Hồ sơ quái vật (và ăn được không) | Dungeon Meshi | E · Hồ sơ bách khoa | 4 | ? | 5 | 5 | 14 | `videos/2027-02-11-ho-so-quai-vat-dungeon-meshi/` | Chưa viết |
-| 57 | 2027-02-13 | Phân tích trận Naruto vs Pain | Naruto | M · Phân tích trận đấu | 5 | ? | 4 | 4 | 13 | `videos/2027-02-13-tran-naruto-pain/` | Chưa viết |
+| 52 | 2027-02-02 | Tần Thủy Hoàng và Lý Tín thật | Kingdom | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 4 | 13 | `videos/2027-02-02-tan-thuy-hoang-that-kingdom/` | Kịch bản xong — chờ kiểm nguồn |
+| 53 | 2027-02-04 | Bí ẩn Ác quỷ Cưa máy (lý thuyết có gắn nhãn) | Chainsaw Man | N · Điều tra bí ẩn | 4 | ? | 4 | 4 | 12 | `videos/2027-02-04-bi-an-ac-quy-cua-may/` | Kịch bản xong — chờ kiểm nguồn |
+| 54 | 2027-02-06 | Từ 1% đến 100%: sức mạnh là cảm xúc | Mob Psycho 100 | H · Chân dung qua sức mạnh | 4 | ? | 5 | 4 | 13 | `videos/2027-02-06-mob-psycho-100-phan-tram/` | Kịch bản xong — chờ kiểm nguồn |
+| 55 | 2027-02-09 | 10 hiểu lầm phổ biến | One Piece | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2027-02-09-10-hieu-lam-one-piece/` | Kịch bản xong — chờ kiểm nguồn |
+| 56 | 2027-02-11 | Hồ sơ quái vật (và ăn được không) | Dungeon Meshi | E · Hồ sơ bách khoa | 4 | ? | 5 | 5 | 14 | `videos/2027-02-11-ho-so-quai-vat-dungeon-meshi/` | Kịch bản xong — chờ kiểm nguồn |
+| 57 | 2027-02-13 | Phân tích trận Naruto vs Pain | Naruto | M · Phân tích trận đấu | 5 | ? | 4 | 4 | 13 | `videos/2027-02-13-tran-naruto-pain/` | Kịch bản xong — chờ kiểm nguồn |
 | 58 | 2027-02-16 | Phiên tòa: Lelouch | Code Geass | U · Phiên tòa nhân vật | 4 | ? | 5 | 4 | 13 | `videos/2027-02-16-phien-toa-lelouch/` | Chưa viết |
 | 59 | 2027-02-18 | Chi tiết cài cắm trong 50 chương đầu | One Piece (bản làm lại tháng 2) | R · Cài cắm và chi tiết ẩn | 5 | ? | 4 | 4 | 13 | `videos/2027-02-18-cai-cam-50-chuong-one-piece/` | Chưa viết |
 | 60 | 2027-02-20 | Bảng xếp hạng anh hùng và cấp thảm họa | One Punch Man | F · Bảng chỉ số kiểu game | 4 | ? | 4 | 5 | 13 | `videos/2027-02-20-xep-hang-anh-hung-one-punch-man/` | Chưa viết |

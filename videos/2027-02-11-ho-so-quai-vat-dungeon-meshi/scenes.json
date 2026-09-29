@@ -1,0 +1,678 @@
+{
+  "title": "Dungeon Meshi: Hồ sơ quái vật hầm ngục — và con nào ăn được?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime Dungeon Meshi mùa một, hai mươi bốn tập. Kaku không nói gì về phần sau trong manga."
+      },
+      "image_prompt": "a closed leather field journal with a small fork and spoon tied to its strap, resting on a stone dungeon floor, close-up, warm torchlight",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới hết mùa 1"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Bạn đang ở tầng sâu của một hầm ngục. Hết tiền, hết lương thực, và đồng đội của bạn vừa bị một con rồng nuốt mất. Bạn sẽ làm gì?"
+      },
+      "image_prompt": "a small adventuring party sitting exhausted around an empty cooking pot in a dark stone corridor, wide shot, dim torchlight",
+      "on_screen_text": "Hết lương thực trong hầm ngục"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Câu trả lời của Dungeon Meshi rất đơn giản: ăn quái vật."
+      },
+      "image_prompt": "a cooking pot bubbling over a campfire with a strange tentacle poking out over the rim, humorous close-up, warm firelight",
+      "on_screen_text": "Ăn quái vật"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Và từ ý tưởng tưởng như đùa đó, tác giả Kui Ryoko xây nên một trong những thế giới giả tưởng chi tiết nhất Kaku từng đọc. Mỗi con quái vật đều có cơ thể, tập tính, và mùi vị."
+      },
+      "image_prompt": "an illustrated naturalist's notebook with detailed anatomical sketches of fantasy creatures and handwritten notes, close-up, warm lamplight"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Hôm nay Kaku mở một hồ sơ đặc biệt: hồ sơ quái vật hầm ngục. Mỗi con một thẻ: tên, loại, điểm mạnh, điểm yếu, và câu hỏi quan trọng nhất, ăn được không?"
+      },
+      "image_prompt": "a stack of index cards with creature sketches and a small spoon icon rating on each, close-up, warm amber light",
+      "on_screen_text": "Hồ sơ quái vật"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku vừa là nhà sinh vật học, vừa là đầu bếp, và hơi đói bụng một chút."
+      },
+      "image_prompt": "the owl mascot wearing a tiny chef's apron, holding a notebook in one wing and a ladle in the other",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mỗi thẻ hồ sơ có sáu dòng. Tên và loại. Điểm mạnh, tức là cách nó gây nguy hiểm. Điểm yếu, tức là cách đánh bại nó. Và cuối cùng là món ăn mà nhóm đã nấu từ nó."
+      },
+      "image_prompt": "a blank index card template drawn on parchment with six labeled lines, close-up, amber ink",
+      "chapter": "Cách đọc hồ sơ"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Kaku chấm thêm độ ngon theo thang năm cái muỗng, dựa trên phản ứng của nhân vật trong truyện. Đây là cảm nhận của Kaku, không phải con số chính thức."
+      },
+      "image_prompt": "five small spoons lined up on a wooden table, three of them polished and two dull, close-up, warm light",
+      "on_screen_text": "Thang 5 muỗng"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Và Kaku nói rõ trước: đây là quái vật giả tưởng. Ngoài đời, đừng bao giờ ăn nấm dại, côn trùng lạ hay động vật hoang dã chưa rõ nguồn gốc. Video này không phải hướng dẫn ăn uống."
+      },
+      "image_prompt": "a warning card with a crossed-out wild mushroom drawing pinned to a kitchen corkboard, close-up, clear light",
+      "on_screen_text": "Không phải hướng dẫn"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Hồ sơ chia làm bốn nhóm: quái vật tầng nông, kẻ giả dạng, sinh vật kỳ lạ, và cuối cùng là con rồng."
+      },
+      "image_prompt": "four colored folder tabs sticking out of a thick case file on a stone table, close-up, warm torchlight"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Dungeon Meshi là manga của Kui Ryoko, đăng trên tạp chí Harta từ năm 2014 tới 2023, gồm mười bốn tập. Anime do studio Trigger làm, phát năm 2024, và mùa hai đã được công bố."
+      },
+      "image_prompt": "a neat stack of fourteen manga volumes beside a streaming remote on a cozy table, close-up, warm light",
+      "chapter": "Bối cảnh: Dungeon Meshi là gì?",
+      "on_screen_text": "Kui Ryoko · Trigger · 2024"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Câu chuyện theo Laios, một chiến binh mê quái vật tới mức kỳ quặc. Em gái anh, Falin, bị một con rồng đỏ nuốt chửng trong khi cứu cả nhóm thoát ra."
+      },
+      "image_prompt": "a huge red dragon silhouette looming in a dark underground cavern with a tiny figure standing defiantly before it, wide shot, fiery red light",
+      "on_screen_text": "Rồng đỏ nuốt Falin"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Trong thế giới này, người chết trong hầm ngục có thể được hồi sinh bằng phép thuật, nếu thi thể còn nguyên vẹn. Nên nhóm phải xuống cứu Falin trước khi con rồng tiêu hóa xong."
+      },
+      "image_prompt": "an hourglass with red sand running quickly placed on a map of a deep dungeon, close-up, tense torchlight",
+      "on_screen_text": "Chạy đua với thời gian"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Không đủ tiền mua lương thực, Laios đề xuất một ý điên rồ: vừa đi vừa ăn quái vật. Cả nhóm phản đối, trừ chính anh."
+      },
+      "image_prompt": "a tall adventurer excitedly holding up a monster cookbook while two companions look horrified, humorous medium shot, warm light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Rồi họ gặp một người lùn đã sống trong hầm ngục nhiều năm, chuyên nấu quái vật. Người đó tên Senshi, và ông trở thành đầu bếp của cả nhóm."
+      },
+      "image_prompt": "a stout bearded cook stirring a large pot over a fire in a stone alcove, his back to the viewer, medium shot, warm cozy firelight",
+      "on_screen_text": "Đầu bếp Senshi"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Kaku rất thích cách bộ truyện xem hầm ngục như một hệ sinh thái thật. Quái vật ăn gì, sống ở đâu, sinh sản thế nào, và tất nhiên, nấu thế nào cho ngon."
+      },
+      "image_prompt": "the owl mascot peering through a tiny magnifying glass at a mushroom growing between dungeon stones",
+      "use_mascot": true
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Trước khi mở hồ sơ, hãy làm quen với bốn thực khách, vì mỗi người phản ứng với món quái vật một kiểu, và đó là nửa niềm vui của bộ truyện."
+      },
+      "image_prompt": "four empty wooden bowls of different sizes placed around a campfire on a stone floor, close-up, warm firelight",
+      "chapter": "Bốn người trong bếp"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Laios, trưởng nhóm, mê quái vật từ nhỏ. Với anh, được ăn quái vật là một giấc mơ. Anh thường là người háo hức nhất bên nồi."
+      },
+      "image_prompt": "a tall adventurer leaning eagerly over a bubbling pot with shining eyes, humorous medium shot, warm light",
+      "on_screen_text": "Laios: háo hức"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Marcille, pháp sư tộc elf, là người phản đối dữ nhất. Cô kêu la, từ chối, rồi cuối cùng vẫn ăn, và thường là người khen ngon đầu tiên."
+      },
+      "image_prompt": "a slender mage covering her mouth in disgust at a strange dish, then a second small panel of her happily eating, humorous split illustration",
+      "on_screen_text": "Marcille: sợ rồi mê"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Chilchuck, thợ mở khóa tộc người nhỏ, là người thực tế nhất. Anh không quan tâm quái vật ngon hay không, chỉ quan tâm có an toàn và có tính công không."
+      },
+      "image_prompt": "a small figure with lockpicks and a skeptical expression inspecting a spoonful of stew, close-up, dry humorous light",
+      "on_screen_text": "Chilchuck: thực tế"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Và Senshi, người nấu, xem mỗi bữa ăn như một cách tôn trọng hầm ngục. Bốn người, bốn thái độ, và mỗi món ăn thử thách cả bốn."
+      },
+      "image_prompt": "a stout bearded cook carefully tasting broth from a wooden ladle, his back to the viewer, medium shot, warm firelight"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Hồ sơ số một: Bọ cạp khổng lồ. Loại: côn trùng hầm ngục. Điểm mạnh: càng khỏe và đuôi độc. Điểm yếu: phần khớp mềm giữa các lớp vỏ."
+      },
+      "image_prompt": "a giant scorpion with a glossy segmented shell crouched on a rocky dungeon floor, low-angle shot, dramatic torchlight",
+      "chapter": "Nhóm A: quái vật tầng nông",
+      "on_screen_text": "Hồ sơ 1: Bọ cạp khổng lồ"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Hồ sơ số hai: Nấm biết đi. Loại: nấm có chân, di chuyển được. Điểm mạnh: bào tử. Điểm yếu: chậm, và chân dễ bị chặt."
+      },
+      "image_prompt": "a large mushroom with stubby legs waddling across a mossy dungeon corridor, humorous medium shot, soft glowing light",
+      "on_screen_text": "Hồ sơ 2: Nấm biết đi",
+      "video_prompt": "the mushroom waddles forward on stubby legs, its cap bobbing",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Senshi còn chỉ ra một điều: phần ngon nhất của nấm biết đi lại là phần chân, chỗ cơ bắp chắc nhất. Món đầu tiên đã nói rõ phong cách của bộ truyện: quái vật cũng là sinh vật có thịt, có cơ."
+      },
+      "image_prompt": "sliced mushroom stems arranged neatly on a wooden cutting board beside a small knife, close-up, warm light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Món ăn: lẩu bọ cạp và nấm biết đi, món đầu tiên trong truyện. Senshi luộc bọ cạp như luộc cua, và nhóm bất ngờ vì nó ngon. Kaku chấm bốn muỗng."
+      },
+      "image_prompt": "a steaming hot pot with a red crab-like shell and sliced mushrooms floating in broth over a campfire, close-up, warm firelight",
+      "on_screen_text": "Lẩu bọ cạp · 4 muỗng"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Hồ sơ số ba: Slime. Loại: sinh vật không xương dạng keo. Điểm mạnh: bịt kín miệng mũi con mồi. Điểm yếu: dễ bị tách ra nếu biết chỗ."
+      },
+      "image_prompt": "a translucent jelly-like blob sliding across a damp stone floor, glistening in torchlight, close-up, cool light",
+      "on_screen_text": "Hồ sơ 3: Slime"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Món ăn: slime phơi khô. Senshi lấy phần cơ quan bên trong, phơi khô, dùng như một nguyên liệu cao cấp. Kaku chấm ba muỗng, vì nghe thì ghê nhưng hóa ra rất tinh tế."
+      },
+      "image_prompt": "thin translucent sheets drying on a small wooden rack beside a dungeon campfire, close-up, warm light",
+      "on_screen_text": "Slime khô · 3 muỗng"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Một mẹo của Senshi mà Kaku rất thích: nếu không chắc một quái vật có ăn được không, hãy xem những sinh vật khác trong hầm ngục có ăn nó không. Thiên nhiên thường đã thử trước bạn."
+      },
+      "image_prompt": "a small bird pecking at a mushroom on a dungeon floor while a cook watches from behind a rock, humorous medium shot, soft light"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Hồ sơ số bốn: Basilisk. Loại: nửa gà trống, nửa rắn. Điểm mạnh: nọc độc và đuôi rắn. Điểm yếu: phần thân gà vẫn là gà."
+      },
+      "image_prompt": "a large rooster-like creature with a long serpent tail coiled behind it, standing in a ruined dungeon hall, medium shot, dramatic light",
+      "on_screen_text": "Hồ sơ 4: Basilisk"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Món ăn: basilisk quay và trứng ốp la. Thịt gà mềm, phần đuôi rắn ngon như thịt trắng. Kaku chấm năm muỗng. Đây là món khiến cả nhóm bắt đầu tin vào Senshi."
+      },
+      "image_prompt": "a golden roasted bird with crispy skin on a wooden board beside a fluffy omelette in a small pan, close-up, appetizing warm light",
+      "on_screen_text": "Basilisk quay · 5 muỗng"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Hồ sơ số năm: Mandrake. Loại: cây có rễ hình người. Điểm mạnh: tiếng hét khi bị nhổ lên, có thể làm người nghe mất trí. Điểm yếu: nếu biết cách nhổ an toàn, nó chỉ là một củ rau."
+      },
+      "image_prompt": "a strange root with a vaguely human shape half pulled from dark soil, close-up, eerie greenish light",
+      "on_screen_text": "Hồ sơ 5: Mandrake"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Trong Dungeon Meshi, Senshi có cách nhổ mandrake an toàn, và dùng củ của nó như một loại rau củ trong món trứng. Truyền thuyết đáng sợ, trong tay đầu bếp, thành nguyên liệu."
+      },
+      "image_prompt": "a pale root vegetable being sliced into a sizzling pan of eggs, close-up, appetizing warm light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Kaku thích mandrake vì đây là quái vật có gốc thật trong truyền thuyết châu Âu. Người xưa tin rằng ai nhổ mandrake và nghe tiếng hét của nó sẽ chết."
+      },
+      "image_prompt": "an old European herbal manuscript page with an illustration of a human-shaped root, close-up, aged parchment light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Nhóm thứ hai khiến Kaku thích nhất: những kẻ giả dạng. Nhìn một đằng, bên trong một nẻo."
+      },
+      "image_prompt": "a folder tab labeled with a small mask icon opened on a stone table, close-up, warm torchlight",
+      "chapter": "Nhóm B: kẻ giả dạng"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Hồ sơ số sáu: Giáp sống. Loại: một bộ giáp tự di chuyển, cầm kiếm tấn công. Điểm mạnh: cứng, và không có đầu để chém. Điểm yếu: những khe hở giữa các tấm giáp."
+      },
+      "image_prompt": "an empty suit of plate armor walking stiffly down a dark dungeon corridor holding a sword, low-angle shot, ominous torchlight",
+      "on_screen_text": "Hồ sơ 6: Giáp sống"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Và đây là phát hiện tuyệt vời nhất của Laios: bên trong bộ giáp không có linh hồn nào. Chỉ có một đàn sinh vật thân mềm, giống trai hay hến, sống bám vào mặt trong của giáp và điều khiển nó như một cơ thể."
+      },
+      "image_prompt": "the inside of an opened armor breastplate revealing clusters of small shellfish-like creatures clinging to the metal, close-up, cool light",
+      "on_screen_text": "Bên trong: sinh vật thân mềm",
+      "video_prompt": "the armor plate swings open and the shellfish creatures inside shift and cling to the metal",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Món ăn: giáp sống xào kiểu người lùn. Senshi nấu chúng như hải sản. Kaku chấm bốn muỗng, và thêm một điểm cho sự sáng tạo khoa học."
+      },
+      "image_prompt": "a sizzling pan of stir-fried shellfish with herbs over a campfire, close-up, appetizing warm light",
+      "on_screen_text": "Giáp sống xào · 4 muỗng"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Hồ sơ số bảy: Mimic, rương báu giả. Loại: sinh vật sống trong rương. Điểm mạnh: kẹp chặt tay kẻ tham lam mở rương. Điểm yếu: rời khỏi vỏ thì yếu ớt."
+      },
+      "image_prompt": "an old wooden treasure chest slightly open with a pair of crustacean claws peeking out from the gap, close-up, suspenseful torchlight",
+      "on_screen_text": "Hồ sơ 7: Mimic",
+      "video_prompt": "the chest lid creaks open a little wider as the claws snap once",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Trong Dungeon Meshi, mimic giống một loài giáp xác, như tôm hay cua ẩn sĩ, sống trong rương như cua ẩn sĩ sống trong vỏ ốc. Món ăn: mimic luộc. Kaku chấm bốn muỗng."
+      },
+      "image_prompt": "a pot of boiled crustacean legs steaming on a stone slab beside an empty treasure chest, close-up, warm light",
+      "on_screen_text": "Mimic luộc · 4 muỗng"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Hồ sơ số tám: Golem. Loại: người đá khổng lồ, bảo vệ một khu vực. Điểm mạnh: to, nặng, gần như không biết đau. Điểm yếu: có một điểm yếu trên thân."
+      },
+      "image_prompt": "a massive stone golem with moss growing on its shoulders standing guard in an underground cavern, low-angle shot, soft green light",
+      "on_screen_text": "Hồ sơ 8: Golem"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Và Senshi làm một việc không ai nghĩ tới: ông dùng lưng golem làm vườn rau. Đất trên lưng golem màu mỡ, lại được chính golem bảo vệ khỏi kẻ trộm."
+      },
+      "image_prompt": "vegetables and leafy greens growing neatly in soil on the back of a sleeping stone giant, wide shot, warm gentle light",
+      "on_screen_text": "Golem = vườn rau"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Có một chi tiết hài hước: khi cả nhóm cần đánh golem, Senshi lại lo cho vườn rau của mình hơn. Với ông, golem là đồng nghiệp, không phải kẻ thù."
+      },
+      "image_prompt": "a stout cook shielding a row of vegetables with his arms while a stone giant stirs behind him, humorous medium shot, warm light"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Kaku thấy chi tiết golem là linh hồn của Dungeon Meshi. Quái vật không chỉ là kẻ thù hay thức ăn. Nó là một phần của hệ sinh thái mà con người có thể sống cùng."
+      },
+      "image_prompt": "the owl mascot happily harvesting a small carrot from a mossy stone surface",
+      "use_mascot": true
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Hồ sơ số chín: Hồn ma. Loại: linh hồn không thể chạm. Điểm mạnh: kéo nhiệt độ xuống rất thấp, làm con người lạnh cóng. Điểm yếu: nước thánh."
+      },
+      "image_prompt": "a pale translucent ghostly shape drifting through a frosty stone chamber, frost patterns spreading on the walls, medium shot, cold blue light",
+      "chapter": "Nhóm C: sinh vật kỳ lạ",
+      "on_screen_text": "Hồ sơ 9: Hồn ma"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Senshi không ăn được hồn ma. Nhưng ông lợi dụng nó. Ông làm một loại nước thánh ngọt, rồi để hồn ma làm đông lạnh, tạo thành một món kem mà ông gọi là kem trừ tà."
+      },
+      "image_prompt": "a small bowl of pale shaved ice dessert with frost crystals on a stone table in a cold chamber, close-up, cool blue light",
+      "on_screen_text": "Kem trừ tà · 4 muỗng",
+      "video_prompt": "frost crystals spread across the dessert bowl as the pale ghostly shape drifts past",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Chi tiết thú vị: Senshi coi việc trừ tà và làm kem là cùng một việc. Hồn ma được siêu thoát, cả nhóm có món tráng miệng. Không ai bị thiệt."
+      },
+      "image_prompt": "a faint ghostly shape rising peacefully toward a soft light above a small bowl of frozen dessert, symbolic close-up, gentle blue light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Kaku chấm bốn muỗng, và cho thêm một huy chương cho món có tên hay nhất cả hồ sơ."
+      },
+      "image_prompt": "a tiny gold medal placed next to a bowl of frosty dessert, close-up, warm light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Hồ sơ số mười: Bọ châu báu. Loại: côn trùng giả làm đồ trang sức. Điểm mạnh: lừa kẻ tham lam nhặt lên. Điểm yếu: không có nhiều sức tấn công."
+      },
+      "image_prompt": "a small pile of what looks like gemstones and gold rings on a stone floor, some of them sprouting tiny insect legs, close-up, sparkling light",
+      "on_screen_text": "Hồ sơ 10: Bọ châu báu"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Kaku để ý: trong hầm ngục, những kẻ tham lam thường là người chết sớm nhất. Mimic, bọ châu báu, đều là cái bẫy dành cho người chỉ nhìn thấy tiền."
+      },
+      "image_prompt": "a skeleton hand still clutching a fake jewel beside an open chest in a dusty corner, close-up, eerie dim light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Một bài học nho nhỏ của hầm ngục: không phải thứ gì lấp lánh cũng là báu vật. Và đôi khi, báu vật lại ngọt, vì Senshi dùng chúng làm nguyên liệu cho món kem."
+      },
+      "image_prompt": "a jeweled ring beside a small spoon of glossy dessert, still life, sparkling warm light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Hồ sơ số mười một: Vòng nấm tiên. Loại: một vòng nấm mọc tròn, nơi các sinh vật tí hon sống. Điểm mạnh: ai bước vào có thể bị hoán đổi chủng tộc. Điểm yếu: tránh bước vào là được."
+      },
+      "image_prompt": "a perfect ring of pale mushrooms growing on a mossy dungeon floor, tiny glowing lights hovering above it, wide shot, magical soft light",
+      "on_screen_text": "Hồ sơ 11: Vòng nấm tiên"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku thấy chương vòng nấm là cách tác giả cho các nhân vật thử sống trong thân thể người khác. Và họ hiểu nhau hơn nhờ đó, dù chỉ trong một bữa ăn."
+      },
+      "image_prompt": "four pairs of different-sized boots placed swapped in front of four different-sized sleeping bags, whimsical close-up, soft light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Ở cuối mùa một, cả nhóm bị hoán đổi chủng tộc sau khi bước vào vòng nấm. Người lùn thành người cao, người cao thành người tí hon. Và Senshi, dĩ nhiên, vẫn nấu ăn, lần này là món bánh bao."
+      },
+      "image_prompt": "a plate of steamed dumplings on a flat stone beside a ring of mushrooms, close-up, warm soft light",
+      "on_screen_text": "Bánh bao · 4 muỗng"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Và hồ sơ cuối cùng, hồ sơ số mười hai: Rồng đỏ. Loại: rồng. Điểm mạnh: lửa, sức mạnh, và vảy gần như không thể xuyên thủng."
+      },
+      "image_prompt": "a colossal red dragon rearing up in a vast underground chamber, flames curling from its jaws, dramatic low-angle wide shot, intense red light",
+      "chapter": "Nhóm D: Rồng đỏ",
+      "on_screen_text": "Hồ sơ 12: Rồng đỏ",
+      "video_prompt": "the red dragon rears up and flames curl upward from its jaws",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Điểm yếu: như mọi sinh vật, rồng có phần cổ và vảy ngược. Laios, người mê quái vật, biết rõ cơ thể rồng hơn ai hết, và chính kiến thức đó giúp nhóm tìm ra cách đánh."
+      },
+      "image_prompt": "an anatomical sketch of a dragon's neck with a single circled scale drawn in red ink, parchment close-up, amber light",
+      "on_screen_text": "Điểm yếu: vảy ngược"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Kaku không kể chi tiết trận đánh để bạn tự xem. Nhưng nó là một trong những trận hay nhất của anime năm 2024, và nó thắng không phải bằng sức mạnh mà bằng hiểu biết."
+      },
+      "image_prompt": "a small group of shadows standing firm before a giant red silhouette in a firelit cavern, wide shot, dramatic contrast"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Và sau trận đánh là câu hỏi không thể tránh: ăn rồng thế nào? Senshi làm cả một bữa tiệc: thịt nướng, giăm bông, và nhiều món khác từ một con vật khổng lồ."
+      },
+      "image_prompt": "a feast spread on a huge stone slab with roasted meat, hams hanging from a rack, and bowls of broth, wide shot, warm celebratory firelight",
+      "on_screen_text": "Tiệc rồng · 5 muỗng"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Mùa một khép lại ở đây, với những câu hỏi còn bỏ ngỏ về Falin và bí mật sâu hơn của hầm ngục. Mùa hai sẽ trả lời, và Kaku hứa sẽ mở tiếp hồ sơ khi đó."
+      },
+      "image_prompt": "a dark staircase leading deeper into a dungeon with a faint glow at the bottom, wide shot, mysterious light",
+      "on_screen_text": "Còn tiếp ở mùa 2"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Nhưng Kaku muốn nói rõ: bữa tiệc rồng không hoàn toàn vui vẻ. Vì cả nhóm biết rằng trong bụng rồng là Falin. Ăn và cứu, sống và chết, được đặt cạnh nhau một cách rất nặng nề."
+      },
+      "image_prompt": "a quiet campfire scene after a feast with the party sitting in silence, bones and empty bowls around them, wide shot, somber warm light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Kaku thấy đây là lúc Dungeon Meshi cho thấy chiều sâu thật sự. Ăn không chỉ là để sống. Ăn là chấp nhận rằng mọi sự sống đều nối với nhau."
+      },
+      "image_prompt": "the owl mascot holding a small bowl with both wings and bowing its head quietly before eating",
+      "use_mascot": true
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Qua cả mùa một, Senshi dạy cả nhóm vài luật ăn uống rất giản dị. Kaku ghi lại năm luật."
+      },
+      "image_prompt": "a small handwritten recipe card with five numbered lines pinned to a wooden board, close-up, warm light",
+      "chapter": "Luật ẩm thực hầm ngục của Senshi",
+      "on_screen_text": "5 luật của Senshi"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Luật một: ăn uống cân bằng. Dù ở hầm ngục, vẫn phải có rau, thịt, tinh bột. Đó là lý do ông trồng rau trên lưng golem."
+      },
+      "image_prompt": "a rustic plate with a balanced portion of vegetables, meat and bread on a stone table, close-up, warm homely light",
+      "on_screen_text": "1. Ăn cân bằng"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Luật hai: không lãng phí. Đã giết một sinh vật thì phải dùng hết những gì có thể dùng."
+      },
+      "image_prompt": "neatly separated piles of bones, meat and hide on a clean butcher's board, still life, soft light",
+      "on_screen_text": "2. Không lãng phí"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Luật ba: tôn trọng hệ sinh thái. Nếu ăn quá nhiều một loài, cả hầm ngục sẽ mất cân bằng."
+      },
+      "image_prompt": "a simple food chain diagram drawn on parchment with arrows connecting mushrooms, insects, birds and a dragon, amber ink close-up",
+      "on_screen_text": "3. Tôn trọng hệ sinh thái"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Luật bốn: nấu cho đúng. Nhiều quái vật có độc nếu ăn sai cách. Senshi luôn biết phần nào ăn được, phần nào phải bỏ."
+      },
+      "image_prompt": "a cook's knife carefully separating a dark gland from pale meat on a board, extreme close-up, clean light",
+      "on_screen_text": "4. Nấu cho đúng"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Luật năm, luật Kaku thích nhất: ăn cùng nhau. Những bữa ăn chung là lúc nhóm hiểu nhau hơn, cãi nhau, làm hòa, và trở thành một đội thật sự."
+      },
+      "image_prompt": "a small group sitting close together around a campfire sharing food from one pot, back view, wide shot, warm golden firelight",
+      "on_screen_text": "5. Ăn cùng nhau"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Kaku thêm luật thứ sáu của riêng mình, không có trong truyện: rửa nồi ngay sau khi ăn. Vì trong hầm ngục, mùi thức ăn là lời mời gọi cho con quái vật tiếp theo."
+      },
+      "image_prompt": "a cook scrubbing a pot in an underground stream while glowing eyes watch curiously from the darkness nearby, humorous wide shot, cool light",
+      "on_screen_text": "Luật 6 của Kaku"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Nhiều quái vật trong Dungeon Meshi có gốc từ truyền thuyết châu Âu. Basilisk trong truyền thuyết là vua của loài rắn, được cho là có ánh mắt giết người."
+      },
+      "image_prompt": "an old bestiary illustration of a crowned serpent with a rooster's head, aged parchment close-up, warm light",
+      "chapter": "Quái vật và đời thật",
+      "on_screen_text": "Basilisk trong truyền thuyết"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Nhưng Kui Ryoko làm một việc thú vị: bà lấy quái vật truyền thuyết rồi hỏi, nếu nó có thật thì cơ thể nó hoạt động thế nào, và thịt nó có vị gì?"
+      },
+      "image_prompt": "a split page: on the left a fantasy creature drawing, on the right a detailed anatomical cross-section of the same creature, amber ink close-up"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Giáp sống thành trai hến. Mimic thành cua ẩn sĩ. Đây là cách biến truyền thuyết thành sinh học giả tưởng rất đáng tin."
+      },
+      "image_prompt": "a real hermit crab peeking out of a shell on wet sand beside a tiny toy treasure chest, close-up, bright beach light",
+      "on_screen_text": "Truyền thuyết → sinh học"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và Kaku nhắc lại một lần nữa: ngoài đời, nấm dại có thể gây chết người, và nhiều loài vật hoang dã mang mầm bệnh. Hãy để việc ăn quái vật ở lại trong truyện."
+      },
+      "image_prompt": "a basket of wild mushrooms with a red warning sign beside it on a forest floor, close-up, clear daylight",
+      "on_screen_text": "Đừng ăn nấm dại"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Giờ tới trò chơi nhỏ. Bạn là đầu bếp của một nhóm phiêu lưu, và trước mặt bạn là ba con quái vật: một slime, một mimic, và một con nấm biết đi. Bạn chỉ được nấu một món."
+      },
+      "image_prompt": "three small creature sketches on a parchment menu card with empty checkboxes beside them, close-up, warm amber light",
+      "chapter": "Nếu bạn là đầu bếp hầm ngục",
+      "on_screen_text": "Bạn nấu món gì?"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Kaku chọn mimic, luộc với chút muối và thảo mộc, vì Kaku tin mọi thứ giống cua đều ngon. Và vì Kaku muốn trả thù những chiếc rương từng kẹp tay mình."
+      },
+      "image_prompt": "the owl mascot proudly holding up a boiled crab-like claw on a tiny plate, looking triumphant",
+      "use_mascot": true
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Còn bạn? Bạn chọn con nào, nấu món gì, và đặt tên món là gì? Tên hay nhất sẽ được Kaku vẽ lên một thẻ hồ sơ đặc biệt."
+      },
+      "image_prompt": "a blank recipe card and a pencil resting on a stone table beside a small campfire, close-up, warm light"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Gợi ý của Senshi mà Kaku rất thích: món ngon nhất không phải món cầu kỳ nhất, mà là món làm cả nhóm ngồi lại với nhau."
+      },
+      "image_prompt": "a group of hands reaching into a shared pot with ladles and bowls, close-up, warm cozy firelight"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Và đây là mục lục hồ sơ quái vật. Nhóm A, tầng nông: bọ cạp khổng lồ, nấm biết đi, slime, basilisk, mandrake."
+      },
+      "image_prompt": "an index page of a field journal listing entries with small creature doodles beside each, amber ink close-up",
+      "chapter": "Mục lục hồ sơ"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nhóm B, kẻ giả dạng: giáp sống, mimic, golem. Nhóm C, sinh vật kỳ lạ: hồn ma, bọ châu báu, vòng nấm tiên. Và nhóm D: rồng đỏ."
+      },
+      "image_prompt": "the second half of the index page with more doodles and a large dragon sketch at the bottom, amber ink close-up"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Giải món ngon nhất theo Kaku: đồng hạng năm muỗng, basilisk quay và tiệc rồng. Giải món sáng tạo nhất: giáp sống xào. Giải tên hay nhất: kem trừ tà."
+      },
+      "image_prompt": "three small ribbons pinned beside three dish sketches on a journal page, close-up, warm light",
+      "on_screen_text": "Giải thưởng của Kaku"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Còn bạn? Bạn muốn thử món nào nhất, và món nào bạn nhất quyết không ăn? Viết vào bình luận nhé."
+      },
+      "image_prompt": "a comment card drawn on parchment with a fork and a question mark, close-up, warm light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Kaku nghĩ Dungeon Meshi là một bộ truyện về sự tò mò. Laios nhìn quái vật không bằng sợ hãi, mà bằng câu hỏi: nó sống thế nào?"
+      },
+      "image_prompt": "a curious adventurer crouching to observe a small creature on the dungeon floor with a notebook in hand, medium shot, soft warm light",
+      "chapter": "Góc nhìn của Kaku"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Và khi bạn tò mò về một thứ, bạn bắt đầu hiểu nó, rồi tôn trọng nó. Kể cả khi thứ đó muốn ăn bạn."
+      },
+      "image_prompt": "a small figure and a large gentle creature sitting side by side at the edge of an underground lake, back view, wide shot, peaceful light"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Dungeon Meshi dạy ta rằng mọi thứ trong hầm ngục đều nối với nhau, qua một thứ rất bình thường: bữa ăn."
+      },
+      "image_prompt": "a single cooking pot over a small fire in a vast dark cavern, a thin wisp of steam rising toward faint light above, wide shot, warm and cold contrast",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku phân tích một trong những trận đấu được tìm nhiều nhất của Naruto: Naruto đấu với Pain, từng hiệp một, và câu hỏi về vòng lặp hận thù."
+      },
+      "image_prompt": "a crater in the middle of a destroyed village with two small figures facing each other, wide shot, dramatic overcast light",
+      "on_screen_text": "Tiếp theo: Naruto vs Pain"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu hồ sơ này làm bạn đói bụng, Kaku xin lỗi. Hãy đăng ký kênh, rồi đi ăn một bữa thật ngon với người bạn thương. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot sitting at a tiny table with a napkin tucked in, raising a spoon in farewell",
+      "use_mascot": true
+    }
+  ]
+}
