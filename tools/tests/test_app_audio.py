@@ -114,3 +114,23 @@ def test_import_cuts_chunk_into_scene_files(tmp_path):
     assert abs(lengths[0] - 2.06) < 0.15 and abs(lengths[1] - 4.12) < 0.15 and abs(lengths[2] - 2.06) < 0.15
     usage = json.loads((video / "cost.json").read_text())
     assert usage["tts_app_seconds"]["vi"] > 9 and usage["usd"] == 0
+
+
+def test_import_unwraps_base64_text_from_studio_page(tmp_path):
+    import base64
+
+    video = tmp_path / "v"
+    video.mkdir()
+    raw = {"languages": ["vi"], "scenes": [
+        {"id": "s01", "chapter": "A", "narration": {"vi": "x" * 26}, "image_prompt": "p"},
+        {"id": "s02", "narration": {"vi": "x" * 26}, "image_prompt": "p"},
+    ]}
+    (video / "scenes.json").write_text(json.dumps(raw), encoding="utf-8")
+    tone_wav(tmp_path / "raw.wav", [(2, True), (0.6, False), (2, True)])
+    src = tmp_path / "in"
+    src.mkdir()
+    b64 = base64.b64encode((tmp_path / "raw.wav").read_bytes()).decode()
+    (src / "c01.txt").write_text("KAKU-AUDIO-B64 1 audio/wav c01.wav\n" + b64, encoding="utf-8")
+    done, _ = app_audio.import_audio(video, src)
+    assert done == ["c01"]
+    assert abs(media.wav_duration(video / "assets" / "audio" / "vi" / "s02.wav") - 2.06) < 0.15

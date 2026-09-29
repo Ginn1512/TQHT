@@ -2,6 +2,7 @@
 
     python -m tools.app_audio export videos/<thư-mục> --engine gemini       # đoạn đọc c01, c02… (JSON)
     python -m tools.app_audio import videos/<thư-mục> --from <folder>       # c01.wav, c02.mp3… → giọng từng cảnh
+                                                                             # (c01.txt: gói base64 tải từ trang Xưởng)
 
 Mỗi đoạn đọc gồm vài chương liền nhau (tối đa khoảng 2.000 ký tự, khoảng 2,5 phút). Khi nhập, mỗi
 đoạn được cắt thành từng cảnh tại khoảng lặng gần nhất với chỗ cắt dự kiến (tỉ lệ theo số ký tự), rồi
@@ -12,6 +13,7 @@ Cấu hình giọng, ghi chú đạo diễn và thẻ của từng công cụ: c
 from __future__ import annotations
 
 import argparse
+import base64
 import json
 import re
 import sys
@@ -162,9 +164,23 @@ def split_segments(
     return segments
 
 
+B64_HEAD = "KAKU-AUDIO-B64"
+WRAPPED_EXTS = {".txt", ".b64"}
+
+
 def find_sources(folder: Path) -> dict[str, Path]:
-    """{chunk id: file} theo tên file (c01.wav, c02.mp3, …). Bỏ qua file không phải âm thanh."""
-    return {p.stem.lower(): p for p in sorted(Path(folder).iterdir()) if p.suffix.lower() in AUDIO_EXTS}
+    """{chunk id: file} theo tên file (c01.wav, c02.mp3, c03.txt…). Bỏ qua file khác."""
+    ok = AUDIO_EXTS | WRAPPED_EXTS
+    return {p.stem.lower(): p for p in sorted(Path(folder).iterdir()) if p.suffix.lower() in ok}
+
+
+def unwrap(src: Path, out: Path) -> Path:
+    """Mở gói giọng base64 do trang Xưởng lưu (dòng đầu "KAKU-AUDIO-B64 1 <mime> <tên>")."""
+    text = Path(src).read_text(encoding="utf-8")
+    if text.startswith(B64_HEAD):
+        text = text.split("\n", 1)[1]
+    out.write_bytes(base64.b64decode("".join(text.split())))
+    return out
 
 
 def import_audio(video_dir: Path, folder: Path, lang: str = config.PRIMARY_LANGUAGE) -> tuple[list[str], list[str]]:
@@ -181,6 +197,8 @@ def import_audio(video_dir: Path, folder: Path, lang: str = config.PRIMARY_LANGU
             if not src:
                 missing.append(chunk.id)
                 continue
+            if src.suffix.lower() in WRAPPED_EXTS:
+                src = unwrap(src, Path(tmp) / f"{chunk.id}.src")
             wav = Path(tmp) / f"{chunk.id}.wav"
             media.run_ffmpeg(["-i", str(src), "-ac", "1", "-ar", str(config.TTS_SAMPLE_RATE), "-sample_fmt", "s16", str(wav)])
             total = media.wav_duration(wav)

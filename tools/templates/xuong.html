@@ -1,0 +1,671 @@
+<title>Xưởng Kaku __LABEL__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Bố cục: một cột, đầu trang dính có 3 thẻ tab như mép sổ (Ảnh / Giọng / Kiểm tra); màu lấy từ Cú Kaku: bóng navy, kính vàng hổ phách, khăn đỏ son. */
+:root {
+  --bg: #eef1f6;
+  --surface: #ffffff;
+  --ink: #1a2132;
+  --muted: #586177;
+  --line: #d6dce6;
+  --accent: #c98a0b;
+  --accent-ink: #1a1405;
+  --scarf: #b83b33;
+  --ok: #23804f;
+  --ok-soft: #e3f3ea;
+  --warn: #9a5b00;
+  --warn-soft: #fbefd9;
+  --focus: #2f6fd6;
+  --font-display: "Be Vietnam Pro", "Segoe UI", Roboto, system-ui, sans-serif;
+  --font-body: "Be Vietnam Pro", "Segoe UI", Roboto, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f131c; --surface: #171e2c; --ink: #e7ebf3; --muted: #9aa3b7; --line: #29334a;
+    --accent: #f0b43a; --accent-ink: #1a1405; --scarf: #e2665d; --ok: #4cc38a; --ok-soft: #173327;
+    --warn: #f0b43a; --warn-soft: #2d2513; --focus: #7aa7ff;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f131c; --surface: #171e2c; --ink: #e7ebf3; --muted: #9aa3b7; --line: #29334a;
+  --accent: #f0b43a; --accent-ink: #1a1405; --scarf: #e2665d; --ok: #4cc38a; --ok-soft: #173327;
+  --warn: #f0b43a; --warn-soft: #2d2513; --focus: #7aa7ff;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.55 var(--font-body); }
+.wrap { max-width: 760px; margin: 0 auto; padding-inline: 16px; padding-block: 0 56px; display: grid; gap: 14px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+h1 { font-size: 1.35rem; font-weight: 800; letter-spacing: -0.01em; }
+h1 small { font-weight: 600; color: var(--muted); font-size: 0.95rem; }
+h2 { font-size: 0.78rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); padding-top: 10px; }
+h3 { font-size: 1rem; font-weight: 800; }
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.muted { color: var(--muted); }
+p { margin: 0; }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 12px 10px; margin-inline: -16px; padding-inline: 16px; border-bottom: 1px solid var(--line); display: grid; gap: 10px; }
+.bar-top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.tabs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+.tab { font: 700 0.9rem var(--font-body); padding: 8px 6px 7px; border: 1px solid var(--line); border-bottom-width: 3px; border-radius: 9px 9px 4px 4px; background: var(--surface); color: var(--muted); cursor: pointer; display: grid; gap: 1px; justify-items: center; min-width: 0; }
+.tab .n { font: 500 0.74rem var(--font-mono); font-variant-numeric: tabular-nums; }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.tab.full .n { color: var(--ok); }
+.tab:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.meter { height: 6px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.meter > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s ease; }
+.pills { display: flex; gap: 6px; flex-wrap: wrap; }
+.pills input { position: absolute; opacity: 0; pointer-events: none; }
+.pills label { font-size: 0.82rem; font-weight: 600; padding: 5px 12px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); cursor: pointer; }
+.pills input:checked + label { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.pills input:focus-visible + label { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+.panel { display: grid; gap: 14px; min-width: 0; }
+.notice { border: 1px solid var(--line); border-left: 4px solid var(--scarf); background: var(--surface); border-radius: var(--r); padding: 10px 12px; font-size: 0.9rem; }
+details.guide { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; }
+details.guide summary { font-weight: 800; cursor: pointer; font-family: var(--font-display); }
+details.guide ol { margin: 10px 0 6px; padding-left: 1.25rem; display: grid; gap: 6px; }
+details.guide p { margin-top: 6px; font-size: 0.88rem; }
+
+.list { display: grid; gap: 14px; min-width: 0; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px; display: grid; gap: 10px; min-width: 0; }
+.card.done { border-color: color-mix(in srgb, var(--ok) 45%, var(--line)); }
+.card.redo { border-color: var(--warn); }
+.card.ref { border: 2px solid var(--accent); }
+.head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.sid { font-family: var(--font-mono); font-size: 0.85rem; font-weight: 500; padding: 1px 7px; border-radius: 6px; background: var(--bg); border: 1px solid var(--line); }
+.tag { font-size: 0.72rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 8px; border-radius: 99px; }
+.tag.kaku { color: var(--scarf); border: 1px solid var(--scarf); }
+.tag.ok { color: var(--ok); background: var(--ok-soft); }
+.tag.wait { color: var(--muted); border: 1px dashed var(--line); }
+.tag.warn { color: var(--warn); background: var(--warn-soft); }
+.say { font-size: 0.86rem; color: var(--muted); }
+.meta { font-size: 0.82rem; color: var(--muted); }
+.prompt { font-family: var(--font-mono); font-size: 0.78rem; line-height: 1.5; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin: 0; white-space: pre-wrap; word-break: break-word; max-height: 4.6em; overflow: hidden; }
+.prompt.open { max-height: none; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.btn { font: 600 0.88rem var(--font-body); padding: 8px 14px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.btn.link { border: none; padding: 8px 4px; color: var(--muted); text-decoration: underline; background: none; }
+.btn.flag[aria-pressed="true"] { background: var(--warn-soft); color: var(--warn); border-color: var(--warn); }
+.btn:focus-visible, .upl:focus-within { outline: 2px solid var(--focus); outline-offset: 2px; }
+.upl { position: relative; }
+.upl input { position: absolute; inset: 0; opacity: 0; width: 100%; cursor: pointer; }
+.upl[aria-busy="true"] { opacity: .6; cursor: progress; }
+.thumb { width: 100%; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); }
+audio { width: 100%; max-width: 100%; }
+.status { font-size: 0.82rem; color: var(--muted); min-height: 1.2em; }
+.status.err { color: var(--scarf); font-weight: 600; }
+.voices { display: grid; gap: 10px; }
+.voice { border: 1px solid var(--line); border-radius: 8px; padding: 10px; display: grid; gap: 6px; min-width: 0; }
+.voice b { font-family: var(--font-display); }
+.how { font-size: 0.86rem; background: var(--bg); border-radius: 8px; padding: 8px 10px; }
+
+.checks { display: grid; gap: 4px; }
+.check { display: flex; gap: 10px; align-items: flex-start; padding: 8px 4px; border-bottom: 1px solid var(--line); cursor: pointer; }
+.check:last-child { border-bottom: none; }
+.check input { width: 20px; height: 20px; margin-top: 1px; accent-color: var(--ok); flex: none; }
+.sum { display: grid; gap: 6px; }
+.sum-row { display: flex; justify-content: space-between; gap: 12px; font-size: 0.92rem; border-bottom: 1px dashed var(--line); padding-bottom: 6px; }
+.sum-row:last-child { border-bottom: none; }
+.ready { border: 2px solid var(--ok); background: var(--ok-soft); }
+.ready h3 { color: var(--ok); }
+.toast { position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 8px 14px; border-radius: 99px; font-size: 0.88rem; font-weight: 600; z-index: 9; max-width: calc(100% - 32px); }
+@media (prefers-reduced-motion: reduce) { .meter > i { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header class="bar">
+    <div class="bar-top">
+      <h1>Xưởng Kaku <small>__LABEL__</small></h1>
+      <span class="meta mono" id="bar-count"></span>
+    </div>
+    <div class="tabs" role="tablist" aria-label="Công đoạn">
+      <button class="tab" role="tab" id="tab-anh" aria-controls="panel-anh" aria-selected="true" type="button">Ảnh<span class="n" id="n-anh">0/0</span></button>
+      <button class="tab" role="tab" id="tab-giong" aria-controls="panel-giong" aria-selected="false" type="button">Giọng<span class="n" id="n-giong">0/0</span></button>
+      <button class="tab" role="tab" id="tab-kiemtra" aria-controls="panel-kiemtra" aria-selected="false" type="button">Kiểm tra<span class="n" id="n-kiemtra">0/0</span></button>
+    </div>
+    <div class="meter" aria-hidden="true"><i id="meter"></i></div>
+  </header>
+
+  <p class="say" id="video-title"></p>
+  <div class="notice" id="notice" hidden></div>
+
+  <section class="panel" id="panel-anh" role="tabpanel" aria-labelledby="tab-anh">
+    <div class="pills" role="radiogroup" aria-label="Lọc cảnh">
+      <input type="radio" name="flt" id="flt-all" value="all" checked><label for="flt-all">Tất cả</label>
+      <input type="radio" name="flt" id="flt-missing" value="missing"><label for="flt-missing">Chưa có ảnh</label>
+      <input type="radio" name="flt" id="flt-kaku" value="kaku"><label for="flt-kaku">Cảnh có Kaku</label>
+      <input type="radio" name="flt" id="flt-redo" value="redo"><label for="flt-redo">Cần làm lại</label>
+    </div>
+    <details class="guide" id="guide-anh">
+      <summary>Cách làm ảnh trong Gemini</summary>
+      <ol>
+        <li>Làm thẻ <b>Ảnh mẫu Kaku</b> trước tiên (một lần cho cả kênh), rồi tải ảnh đó lên thẻ REF.</li>
+        <li>Mỗi cảnh: bấm <b>Sao chép prompt</b>, mở <a href="https://gemini.google.com/app" target="_blank" rel="noopener">Gemini</a>, dán và gửi. Cảnh có nhãn <b>Kaku</b>: đính kèm ảnh mẫu Kaku trước khi gửi.</li>
+        <li>Tải ảnh gốc về máy (nút tải xuống, không chụp màn hình).</li>
+        <li>Bấm <b>Tải ảnh lên</b> ở đúng cảnh. Tải lại là thay ảnh cũ.</li>
+      </ol>
+      <p class="muted">Ảnh có chữ lạ, tay hoặc mặt dị dạng, giống nhân vật có thật, hoặc lệch bảng màu navy và vàng hổ phách: tạo lại, hoặc bấm <b>Cần làm lại</b> để đánh dấu. Claude tự cắt ảnh về 1920×1080 khi dựng.</p>
+    </details>
+    <div id="list-anh" class="list"></div>
+  </section>
+
+  <section class="panel" id="panel-giong" role="tabpanel" aria-labelledby="tab-giong" hidden>
+    <div class="card">
+      <h3>Công cụ đọc</h3>
+      <div class="pills" role="radiogroup" aria-label="Công cụ đọc" id="engines"></div>
+      <p class="how" id="engine-how"></p>
+    </div>
+    <div class="card ref" id="voice-pick" hidden>
+      <div class="head"><span class="sid">1 lần</span><h3>Chọn giọng Kaku</h3></div>
+      <p class="say">Tạo cả 3 giọng bằng Voice Design (AI Studio hoặc ElevenLabs), cho mỗi giọng đọc đoạn thử, rồi nhắn Claude: "chọn giọng" kèm mã giọng (ví dụ <span class="mono">nam-bac</span>).</p>
+      <div class="voices" id="voices"></div>
+      <div class="voice">
+        <b>Đoạn đọc thử</b>
+        <pre class="prompt" id="sample"></pre>
+        <div class="row"><button class="btn" type="button" id="copy-sample">Sao chép đoạn thử</button></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="head"><span class="sid">Chỉ đạo</span><h3>Ghi chú đạo diễn</h3><span class="tag ok" id="voice-chosen" hidden></span></div>
+      <p class="say">Dán một lần vào ô hướng dẫn phong cách (Style instructions) của AI Studio. ElevenLabs không có ô này: cảm xúc nằm sẵn trong các thẻ của lời đọc.</p>
+      <pre class="prompt" id="notes"></pre>
+      <div class="row">
+        <button class="btn" type="button" id="copy-notes">Sao chép ghi chú</button>
+        <button class="btn link" type="button" id="more-notes">Xem đủ</button>
+      </div>
+    </div>
+    <div id="list-giong" class="list"></div>
+  </section>
+
+  <section class="panel" id="panel-kiemtra" role="tabpanel" aria-labelledby="tab-kiemtra" hidden>
+    <div class="card" id="ready-card">
+      <h3 id="ready-title">Chưa sẵn sàng dựng</h3>
+      <div class="sum" id="sum"></div>
+      <div class="row" id="ready-row" hidden>
+        <button class="btn primary" type="button" id="copy-ready">Sao chép tin nhắn gửi Claude</button>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Ảnh</h3>
+      <div class="checks" id="checks-anh"></div>
+    </div>
+    <div class="card">
+      <h3>Giọng</h3>
+      <div class="checks" id="checks-giong"></div>
+    </div>
+  </section>
+</div>
+<div class="toast" id="toast" hidden role="status"></div>
+
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(function () {
+  const DATA = JSON.parse(document.getElementById("data").textContent);
+  const IMG = DATA.images, VOICE = DATA.voice;
+  const SCENES = IMG.scenes, CHUNKS = VOICE.chunks;
+  const CHECKS = {
+    anh: [
+      ["frame", "Mọi ảnh là khung ngang, không cắt mất chủ thể"],
+      ["text", "Không có chữ lạ, logo hay watermark"],
+      ["anatomy", "Tay và mặt không dị dạng"],
+      ["original", "Không ảnh nào giống nhân vật anime có thật"],
+      ["palette", "Đúng bảng màu: bóng navy, sáng vàng hổ phách, một điểm đỏ"],
+      ["kaku", "Kaku giống ảnh mẫu ở mọi cảnh có Kaku"],
+    ],
+    giong: [
+      ["one", "Cả video dùng một giọng và một công cụ"],
+      ["names", "Tên riêng và thuật ngữ đọc đúng"],
+      ["flow", "Không ngắt giữa câu, không đọc thành chữ các thẻ trong ngoặc"],
+    ],
+  };
+  const TOTAL_CHECKS = CHECKS.anh.length + CHECKS.giong.length;
+  const B64_HEAD = "KAKU-AUDIO-B64 1";
+  const MAX_RAW = 14.5 * 1024 * 1024; // base64 tăng 1/3: giữ dưới giới hạn 20 MB của kho tệp
+
+  let images = {}, audio = {}, checks = {};
+  let db = null, assets = null, filter = "all", tab = "anh";
+  let engine = "gemini";
+  try { engine = localStorage.getItem("xuong-engine") || "gemini"; } catch (e) {}
+  if (!VOICE.engines[engine]) engine = "gemini";
+
+  const $ = (id) => document.getElementById(id);
+  function el(tag, cls, text) {
+    const n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+  function toast(msg) {
+    const t = $("toast");
+    t.textContent = msg; t.hidden = false;
+    clearTimeout(toast._t); toast._t = setTimeout(() => { t.hidden = true; }, 2200);
+  }
+  function notice(msg) { const n = $("notice"); n.textContent = msg; n.hidden = !msg; }
+  function copyText(text, pre, what) {
+    const done = () => toast("Đã sao chép " + what);
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(done, () => selectPre(pre));
+    else selectPre(pre);
+  }
+  function selectPre(pre) {
+    pre.classList.add("open");
+    const r = document.createRange(); r.selectNodeContents(pre);
+    const s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    toast("Giữ tay lên đoạn đã chọn để sao chép");
+  }
+  function moreToggle(btn, pre) {
+    btn.addEventListener("click", () => {
+      pre.classList.toggle("open");
+      btn.textContent = pre.classList.contains("open") ? "Thu gọn" : "Xem đủ";
+    });
+  }
+  function uploader(label, accept, id, onFile) {
+    const upl = el("label", "upl btn primary");
+    const input = document.createElement("input");
+    input.type = "file"; input.accept = accept; input.id = id;
+    input.setAttribute("aria-label", label);
+    const text = el("span", "", label);
+    upl.append(input, text);
+    input.addEventListener("change", () => { if (input.files && input.files[0]) onFile(input.files[0]); input.value = ""; });
+    return { upl, text };
+  }
+  const MESSAGES = {
+    too_large: "File quá lớn (trên 20 MB). Hãy tải bản nhỏ hơn.",
+    unsupported_type: "Định dạng không hỗ trợ.",
+    quota_or_state: "Kho tệp của trang đã đầy hoặc trang đang tạm khóa.",
+    rate_limited: "Tải hơi nhanh, hãy đợi vài giây rồi thử lại.",
+    upstream_auth: "Phiên đăng nhập hết hạn. Hãy tải lại trang.",
+    not_granted: "Trang chưa được cấp quyền tải tệp. Hãy tải lại trang và cho phép.",
+    too_long: "Đoạn giọng quá dài để lưu. Hãy tách đôi đoạn này và báo Claude.",
+  };
+
+  $("video-title").textContent = DATA.title;
+
+  /* ---------- Tab ---------- */
+  const TABS = ["anh", "giong", "kiemtra"];
+  function showTab(name) {
+    tab = name;
+    TABS.forEach((t) => {
+      $("tab-" + t).setAttribute("aria-selected", String(t === name));
+      $("panel-" + t).hidden = t !== name;
+    });
+    try { localStorage.setItem("xuong-tab", name); } catch (e) {}
+    paintBar();
+  }
+  TABS.forEach((t) => $("tab-" + t).addEventListener("click", () => showTab(t)));
+
+  /* ---------- Ảnh ---------- */
+  const imgCards = {};
+  function buildImageCard(item, isRef) {
+    const c = el("section", "card" + (isRef ? " ref" : ""));
+    const head = el("div", "head");
+    head.append(el("span", "sid", isRef ? "REF" : item.id));
+    if (isRef) head.append(el("h3", "", "Ảnh mẫu Kaku"));
+    if (item.mascot) head.append(el("span", "tag kaku", "Kaku"));
+    const stat = el("span", "tag wait", "Chưa có ảnh");
+    head.append(stat);
+    c.append(head);
+    if (item.say) c.append(el("p", "say", item.say));
+    const pre = el("pre", "prompt", item.prompt);
+    c.append(pre);
+    const row = el("div", "row");
+    const copy = el("button", "btn", "Sao chép prompt"); copy.type = "button";
+    copy.addEventListener("click", () => copyText(item.prompt, pre, "prompt"));
+    const u = uploader("Tải ảnh lên", "image/*", "file-" + item.id, (f) => uploadImage(item.id, f));
+    const flag = el("button", "btn flag", "Cần làm lại"); flag.type = "button"; flag.hidden = true;
+    flag.setAttribute("aria-pressed", "false");
+    flag.addEventListener("click", () => toggleRedo(item.id));
+    const more = el("button", "btn link", "Xem đủ"); more.type = "button"; moreToggle(more, pre);
+    row.append(copy, u.upl, flag, more);
+    c.append(row);
+    const img = el("img", "thumb"); img.alt = "Ảnh của " + item.id; img.loading = "lazy"; img.hidden = true;
+    c.append(img);
+    const status = el("div", "status");
+    c.append(status);
+    imgCards[item.id] = { c, stat, img, status, upl: u.upl, uplText: u.text, flag, mascot: !!item.mascot };
+    return c;
+  }
+  const listAnh = $("list-anh");
+  listAnh.append(buildImageCard({ id: "kaku-ref", prompt: IMG.mascot_reference, say: "Một lần cho cả kênh: đính kèm ảnh này khi tạo các cảnh có nhãn Kaku.", mascot: true }, true));
+  SCENES.forEach((s) => {
+    if (s.chapter) listAnh.append(el("h2", "", s.chapter));
+    listAnh.append(buildImageCard(s, false));
+  });
+
+  function paintImage(sid) {
+    const k = imgCards[sid]; if (!k) return;
+    const doc = images[sid];
+    const has = !!(doc && doc.asset), redo = has && !!doc.redo;
+    k.c.classList.toggle("done", has && !redo);
+    k.c.classList.toggle("redo", redo);
+    k.stat.className = "tag " + (redo ? "warn" : has ? "ok" : "wait");
+    k.stat.textContent = redo ? "Cần làm lại" : has ? "Đã có ảnh" : "Chưa có ảnh";
+    k.uplText.textContent = has ? "Thay ảnh" : "Tải ảnh lên";
+    k.flag.hidden = !has || sid === "kaku-ref";
+    k.flag.setAttribute("aria-pressed", String(redo));
+    if (has) { const src = "/_blob/" + doc.asset; if (k.img.getAttribute("src") !== src) k.img.src = src; k.img.hidden = false; }
+    else { k.img.hidden = true; k.img.removeAttribute("src"); }
+  }
+  function applyFilter() {
+    Object.entries(imgCards).forEach(([sid, k]) => {
+      const doc = images[sid], has = !!(doc && doc.asset);
+      let show = true;
+      if (filter === "missing") show = !has;
+      if (filter === "kaku") show = k.mascot;
+      if (filter === "redo") show = has && !!doc.redo;
+      k.c.hidden = !show;
+    });
+    listAnh.querySelectorAll("h2").forEach((h) => { h.hidden = filter !== "all"; });
+  }
+  document.querySelectorAll('input[name="flt"]').forEach((r) => r.addEventListener("change", () => { filter = r.value; applyFilter(); }));
+
+  async function shrinkImage(file) {
+    try {
+      const bmp = await createImageBitmap(file);
+      const scale = Math.min(1, 1920 / Math.max(bmp.width, bmp.height));
+      const w = Math.round(bmp.width * scale), h = Math.round(bmp.height * scale);
+      const cv = document.createElement("canvas"); cv.width = w; cv.height = h;
+      cv.getContext("2d").drawImage(bmp, 0, 0, w, h);
+      const blob = await new Promise((res) => cv.toBlob(res, "image/jpeg", 0.92));
+      return blob || file;
+    } catch (e) { return file; }
+  }
+  async function uploadImage(sid, file) {
+    const k = imgCards[sid];
+    if (!db || !assets) { k.status.className = "status err"; k.status.textContent = "Chưa kết nối được kho tệp, chưa tải lên được."; return; }
+    k.upl.setAttribute("aria-busy", "true"); k.uplText.textContent = "Đang tải…";
+    k.status.className = "status"; k.status.textContent = "";
+    try {
+      const blob = await shrinkImage(file);
+      const res = await assets.upload(blob, blob.type ? undefined : { type: "image/jpeg" });
+      const old = images[sid] && images[sid].asset;
+      await db.doc("images/" + sid).set({ asset: res.id, type: res.contentType, size: res.sizeBytes, name: file.name || "", redo: false, at: new Date().toISOString() });
+      images[sid] = { asset: res.id, redo: false };
+      if (old && old !== res.id) assets.delete(old).catch(() => {});
+      paintAll();
+      toast("Đã lưu ảnh " + (sid === "kaku-ref" ? "mẫu Kaku" : sid));
+    } catch (e) {
+      k.status.className = "status err";
+      k.status.textContent = MESSAGES[e && e.code] || "Tải ảnh thất bại. Hãy thử lại.";
+      paintImage(sid);
+    } finally { k.upl.removeAttribute("aria-busy"); }
+  }
+  async function toggleRedo(sid) {
+    const doc = images[sid]; if (!db || !doc || !doc.asset) return;
+    const next = !doc.redo;
+    try { await db.doc("images/" + sid).update({ redo: next }); images[sid] = Object.assign({}, doc, { redo: next }); paintAll(); }
+    catch (e) { toast("Chưa lưu được, hãy thử lại"); }
+  }
+
+  /* ---------- Giọng ---------- */
+  const engBox = $("engines");
+  Object.entries(VOICE.engines).forEach(([key, e]) => {
+    const input = document.createElement("input");
+    input.type = "radio"; input.name = "engine"; input.id = "eng-" + key; input.value = key; input.checked = key === engine;
+    const label = el("label", "", e.label.split(" (")[0]); label.htmlFor = input.id;
+    input.addEventListener("change", () => { engine = key; try { localStorage.setItem("xuong-engine", key); } catch (err) {} paintEngine(); });
+    engBox.append(input, label);
+  });
+
+  const chosen = VOICE.voices.find((v) => v.id === VOICE.chosen);
+  if (chosen) { $("voice-chosen").hidden = false; $("voice-chosen").textContent = chosen.label; }
+  else {
+    $("voice-pick").hidden = false;
+    VOICE.voices.forEach((v) => {
+      const box = el("div", "voice");
+      const title = el("b", "", v.label + " "); title.append(el("span", "mono muted", "(" + v.id + ")"));
+      const pre = el("pre", "prompt", v.design_prompt);
+      const copy = el("button", "btn", "Sao chép mô tả giọng"); copy.type = "button";
+      copy.addEventListener("click", () => copyText(v.design_prompt, pre, "mô tả giọng"));
+      const row = el("div", "row"); row.append(copy);
+      box.append(title, el("p", "say", v.summary), pre, row);
+      $("voices").append(box);
+    });
+    $("sample").textContent = VOICE.sample;
+    $("copy-sample").addEventListener("click", () => copyText(VOICE.sample, $("sample"), "đoạn thử"));
+  }
+  $("notes").textContent = VOICE.notes;
+  $("copy-notes").addEventListener("click", () => copyText(VOICE.notes, $("notes"), "ghi chú đạo diễn"));
+  moreToggle($("more-notes"), $("notes"));
+
+  const audCards = {};
+  const listGiong = $("list-giong");
+  CHUNKS.forEach((ch) => {
+    const c = el("section", "card");
+    const head = el("div", "head");
+    head.append(el("span", "sid", ch.id));
+    head.append(el("h3", "", ch.chapters.join(" · ") || "Phần tiếp"));
+    const stat = el("span", "tag wait", "Chưa có giọng");
+    head.append(stat);
+    c.append(head);
+    c.append(el("p", "meta mono", "Khoảng " + ch.seconds + " giây · cảnh " + ch.scenes[0] + "–" + ch.scenes[ch.scenes.length - 1] + " · " + ch.chars + " ký tự"));
+    const pre = el("pre", "prompt", "");
+    c.append(pre);
+    const row = el("div", "row");
+    const copy = el("button", "btn", "Sao chép lời đọc"); copy.type = "button";
+    copy.addEventListener("click", () => copyText(ch.text[engine], pre, "lời đọc " + ch.id));
+    const u = uploader("Tải giọng lên", "audio/*,.wav,.mp3,.m4a,.ogg,.webm,.flac", "audio-" + ch.id, (f) => uploadAudio(ch.id, f));
+    const play = el("button", "btn", "Nghe lại"); play.type = "button"; play.hidden = true;
+    play.addEventListener("click", () => playAudio(ch.id));
+    const more = el("button", "btn link", "Xem đủ"); more.type = "button"; moreToggle(more, pre);
+    row.append(copy, u.upl, play, more);
+    c.append(row);
+    const player = document.createElement("audio"); player.controls = true; player.hidden = true; player.preload = "none";
+    c.append(player);
+    const status = el("div", "status");
+    c.append(status);
+    listGiong.append(c);
+    audCards[ch.id] = { ch, c, stat, pre, upl: u.upl, uplText: u.text, play, player, status };
+  });
+
+  function paintEngine() {
+    $("engine-how").textContent = VOICE.engines[engine].how;
+    Object.values(audCards).forEach((k) => { k.pre.textContent = k.ch.text[engine]; });
+  }
+  function offBy(ch, doc) {
+    if (!doc || !doc.seconds || !ch.seconds) return 0;
+    return doc.seconds / ch.seconds - 1;
+  }
+  function paintAudio(cid) {
+    const k = audCards[cid]; const doc = audio[cid];
+    const has = !!(doc && doc.asset);
+    const off = offBy(k.ch, doc), bad = has && Math.abs(off) > 0.2;
+    k.c.classList.toggle("done", has && !bad);
+    k.c.classList.toggle("redo", bad);
+    k.stat.className = "tag " + (bad ? "warn" : has ? "ok" : "wait");
+    k.stat.textContent = bad ? "Lệch thời lượng" : has ? "Đã có giọng" : "Chưa có giọng";
+    k.uplText.textContent = has ? "Thay giọng" : "Tải giọng lên";
+    k.play.hidden = !has;
+    if (!has) { k.player.hidden = true; k.player.removeAttribute("src"); }
+    if (has && !k.status.classList.contains("err")) {
+      const secs = doc.seconds ? Math.round(doc.seconds) + " giây" : "chưa đo được độ dài";
+      k.status.className = "status";
+      k.status.textContent = "Đã lưu " + (doc.name || "") + " · " + secs + (bad ? " · dự kiến " + k.ch.seconds + " giây, lệch " + Math.round(off * 100) + "%: nghe lại xem có đọc quá nhanh, quá chậm hay sót câu" : "");
+    }
+  }
+
+  function measure(blob) {
+    return new Promise((res) => {
+      const a = new Audio(); const url = URL.createObjectURL(blob);
+      let settled = false;
+      const done = (v) => { if (settled) return; settled = true; URL.revokeObjectURL(url); res(v); };
+      a.preload = "metadata";
+      a.onloadedmetadata = () => done(isFinite(a.duration) ? a.duration : null);
+      a.onerror = () => done(null);
+      setTimeout(() => done(null), 8000);
+      a.src = url;
+    });
+  }
+  function wavBlob(samples, rate) {
+    const buf = new ArrayBuffer(44 + samples.length * 2), v = new DataView(buf);
+    const str = (o, s) => { for (let i = 0; i < s.length; i++) v.setUint8(o + i, s.charCodeAt(i)); };
+    str(0, "RIFF"); v.setUint32(4, 36 + samples.length * 2, true); str(8, "WAVE"); str(12, "fmt ");
+    v.setUint32(16, 16, true); v.setUint16(20, 1, true); v.setUint16(22, 1, true); v.setUint32(24, rate, true);
+    v.setUint32(28, rate * 2, true); v.setUint16(32, 2, true); v.setUint16(34, 16, true); str(36, "data");
+    v.setUint32(40, samples.length * 2, true);
+    for (let i = 0; i < samples.length; i++) { const s = Math.max(-1, Math.min(1, samples[i])); v.setInt16(44 + i * 2, s < 0 ? s * 0x8000 : s * 0x7fff, true); }
+    return new Blob([buf], { type: "audio/wav" });
+  }
+  // File quá lớn (WAV 48 kHz stereo…): đổi về WAV mono 24 kHz, đúng định dạng giọng dùng khi dựng.
+  async function compactAudio(file) {
+    const AC = window.AudioContext || window.webkitAudioContext;
+    const ctx = new AC();
+    const decoded = await ctx.decodeAudioData(await file.arrayBuffer());
+    if (ctx.close) ctx.close();
+    const rate = 24000, off = new OfflineAudioContext(1, Math.ceil(decoded.duration * rate), rate);
+    const src = off.createBufferSource(); src.buffer = decoded; src.connect(off.destination); src.start();
+    const out = await off.startRendering();
+    return wavBlob(out.getChannelData(0), rate);
+  }
+  function toB64(u8) {
+    let s = ""; const CH = 0x8000;
+    for (let i = 0; i < u8.length; i += CH) s += String.fromCharCode.apply(null, u8.subarray(i, i + CH));
+    return btoa(s);
+  }
+  // Kho tệp của trang không nhận file âm thanh, nên giọng được gói thành văn bản base64 (có dòng đầu ghi định dạng).
+  async function uploadAudio(cid, file) {
+    const k = audCards[cid];
+    if (!db || !assets) { k.status.className = "status err"; k.status.textContent = "Chưa kết nối được kho tệp, chưa tải lên được."; return; }
+    k.upl.setAttribute("aria-busy", "true"); k.uplText.textContent = "Đang tải…";
+    k.status.className = "status"; k.status.textContent = "";
+    try {
+      let blob = file;
+      if (blob.size > MAX_RAW) blob = await compactAudio(file);
+      if (blob.size > MAX_RAW) { const e = new Error("too_long"); e.code = "too_long"; throw e; }
+      const seconds = await measure(blob);
+      const mime = blob.type || "application/octet-stream";
+      const text = B64_HEAD + " " + mime + " " + encodeURIComponent(file.name || cid) + "\n" + toB64(new Uint8Array(await blob.arrayBuffer()));
+      const res = await assets.upload(new Blob([text], { type: "text/plain" }), { type: "text/plain" });
+      const old = audio[cid] && audio[cid].asset;
+      await db.doc("audio/" + cid).set({ asset: res.id, mime, name: file.name || "", size: blob.size, seconds: seconds ? Math.round(seconds * 10) / 10 : null, engine, at: new Date().toISOString() });
+      audio[cid] = { asset: res.id, mime, name: file.name || "", seconds };
+      if (old && old !== res.id) assets.delete(old).catch(() => {});
+      delete playCache[old];
+      paintAll();
+      toast("Đã lưu giọng " + cid);
+    } catch (e) {
+      k.status.className = "status err";
+      k.status.textContent = MESSAGES[e && e.code] || "Tải giọng thất bại. Hãy thử lại, hoặc tải file WAV/MP3.";
+      paintAudio(cid);
+    } finally { k.upl.removeAttribute("aria-busy"); }
+  }
+  const playCache = {};
+  async function playAudio(cid) {
+    const k = audCards[cid], doc = audio[cid];
+    if (!doc || !doc.asset) return;
+    try {
+      if (!playCache[doc.asset]) {
+        k.play.textContent = "Đang mở…";
+        const text = await (await fetch("/_blob/" + doc.asset)).text();
+        const nl = text.indexOf("\n");
+        const headLine = text.slice(0, nl), body = text.slice(nl + 1);
+        const mime = headLine.startsWith(B64_HEAD) ? headLine.split(" ")[2] : (doc.mime || "audio/wav");
+        const bin = atob(body.trim()), u8 = new Uint8Array(bin.length);
+        for (let i = 0; i < bin.length; i++) u8[i] = bin.charCodeAt(i);
+        playCache[doc.asset] = URL.createObjectURL(new Blob([u8], { type: mime }));
+      }
+      k.player.src = playCache[doc.asset]; k.player.hidden = false;
+      k.player.play().catch(() => {});
+    } catch (e) { toast("Chưa mở được file giọng"); }
+    finally { k.play.textContent = "Nghe lại"; }
+  }
+
+  /* ---------- Kiểm tra ---------- */
+  function buildChecks(group) {
+    const box = $("checks-" + group);
+    CHECKS[group].forEach(([key, text]) => {
+      const label = el("label", "check");
+      const input = document.createElement("input"); input.type = "checkbox"; input.id = "chk-" + key;
+      input.addEventListener("change", () => saveCheck(key, input.checked));
+      label.append(input, el("span", "", text));
+      box.append(label);
+    });
+  }
+  buildChecks("anh"); buildChecks("giong");
+  let checkWrite = Promise.resolve();
+  function saveCheck(key, value) {
+    checks = Object.assign({}, checks, { [key]: value });
+    paintAll();
+    if (!db) return;
+    const snapshot = Object.assign({}, checks);
+    checkWrite = checkWrite.then(() => db.doc("checks/main").set({ items: snapshot, at: new Date().toISOString() })).catch(() => toast("Chưa lưu được danh sách kiểm tra"));
+  }
+  const READY_MSG = "Xong ảnh + giọng __LABEL__";
+  $("copy-ready").addEventListener("click", () => {
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(READY_MSG).then(() => toast("Đã sao chép. Dán vào khung chat với Claude"), () => toast(READY_MSG));
+    else toast(READY_MSG);
+  });
+
+  /* ---------- Tổng hợp ---------- */
+  function counts() {
+    const imgDone = SCENES.filter((s) => images[s.id] && images[s.id].asset).length;
+    const redo = SCENES.filter((s) => images[s.id] && images[s.id].asset && images[s.id].redo).length;
+    const audDone = CHUNKS.filter((c) => audio[c.id] && audio[c.id].asset).length;
+    const off = CHUNKS.filter((c) => audio[c.id] && audio[c.id].asset && Math.abs(offBy(c, audio[c.id])) > 0.2).length;
+    const chk = [...CHECKS.anh, ...CHECKS.giong].filter(([key]) => checks[key]).length;
+    return { imgDone, redo, audDone, off, chk };
+  }
+  function paintBar() {
+    const n = counts();
+    $("n-anh").textContent = n.imgDone + "/" + SCENES.length;
+    $("n-giong").textContent = n.audDone + "/" + CHUNKS.length;
+    $("n-kiemtra").textContent = n.chk + "/" + TOTAL_CHECKS;
+    $("tab-anh").classList.toggle("full", n.imgDone === SCENES.length && !n.redo);
+    $("tab-giong").classList.toggle("full", n.audDone === CHUNKS.length && !n.off);
+    $("tab-kiemtra").classList.toggle("full", n.chk === TOTAL_CHECKS);
+    const pct = tab === "anh" ? n.imgDone / SCENES.length : tab === "giong" ? n.audDone / CHUNKS.length : n.chk / TOTAL_CHECKS;
+    $("meter").style.width = (100 * pct).toFixed(1) + "%";
+    const refDone = !!(images["kaku-ref"] && images["kaku-ref"].asset);
+    $("bar-count").textContent = refDone ? "Ảnh mẫu Kaku: có" : "Ảnh mẫu Kaku: chưa có";
+    return n;
+  }
+  function paintSummary(n) {
+    const rows = [
+      ["Ảnh", n.imgDone + "/" + SCENES.length + (n.redo ? " · " + n.redo + " cần làm lại" : "")],
+      ["Giọng", n.audDone + "/" + CHUNKS.length + " đoạn" + (n.off ? " · " + n.off + " lệch thời lượng" : "")],
+      ["Danh sách kiểm tra", n.chk + "/" + TOTAL_CHECKS],
+    ];
+    const sum = $("sum"); sum.textContent = "";
+    rows.forEach(([a, b]) => { const r = el("div", "sum-row"); r.append(el("span", "", a), el("span", "mono", b)); sum.append(r); });
+    const ready = n.imgDone === SCENES.length && !n.redo && n.audDone === CHUNKS.length && !n.off && n.chk === TOTAL_CHECKS;
+    $("ready-card").classList.toggle("ready", ready);
+    $("ready-title").textContent = ready ? "Sẵn sàng dựng" : "Chưa sẵn sàng dựng";
+    $("ready-row").hidden = !ready;
+    Object.keys(checks).forEach((key) => { const i = $("chk-" + key); if (i) i.checked = !!checks[key]; });
+  }
+  function paintAll() {
+    Object.keys(imgCards).forEach(paintImage);
+    Object.keys(audCards).forEach(paintAudio);
+    applyFilter();
+    paintSummary(paintBar());
+  }
+
+  paintEngine();
+  let startTab = "anh";
+  const hash = (location.hash || "").slice(1);
+  if (TABS.includes(hash)) startTab = hash;
+  else { try { const t = localStorage.getItem("xuong-tab"); if (TABS.includes(t)) startTab = t; } catch (e) {} }
+  showTab(startTab);
+  paintAll();
+
+  (async function connect() {
+    if (!window.claude || !window.claude.use) { notice("Mở trang này trong claude.ai để tải ảnh và giọng lên."); return; }
+    db = await window.claude.use("db");
+    assets = await window.claude.use("assets");
+    if (!db) { notice("Chưa kết nối được kho lưu trữ. Hãy mở trang khi đã đăng nhập claude.ai."); return; }
+    if (!assets) notice("Bạn đang ở chế độ chỉ xem nên không tải tệp lên được.");
+    const fail = () => notice("Mất kết nối với kho lưu trữ. Hãy tải lại trang.");
+    const docsOf = (snap) => { const out = {}; snap.docs.forEach((d) => { if (d.exists) out[d.id] = d.data(); }); return out; };
+    db.collection("images").onSnapshot((snap) => { images = docsOf(snap); paintAll(); }, fail);
+    db.collection("audio").onSnapshot((snap) => { audio = docsOf(snap); paintAll(); }, fail);
+    db.collection("checks").onSnapshot((snap) => { const d = docsOf(snap).main; checks = (d && d.items) || {}; paintAll(); }, fail);
+  })();
+})();
+</script>
