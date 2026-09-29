@@ -1,0 +1,65 @@
+{
+  "_ghi_chu": "Cấu hình giọng Cú Kaku, dùng chung cho mọi video và mọi công cụ (xem channel/profile.md mục 5). Sửa file này thay vì sửa code. Sau khi nghe thử, ghi id giọng đã chọn vào 'chosen'.",
+  "chosen": null,
+  "voices": [
+    {
+      "id": "nam-bac",
+      "label": "Nam · giọng Bắc",
+      "summary": "Nam khoảng 25 tuổi, giọng Hà Nội, ấm và sáng, như một anh gia sư mê kể chuyện.",
+      "accent": "Northern Vietnamese (Hanoi) accent",
+      "design_prompt": "A young Vietnamese man in his mid-20s speaking with a clear Northern (Hanoi) accent. Warm, bright mid-range voice with a gentle smile in it; articulate and precise like a friendly university tutor who loves telling stories. Curious and playful, confident but never shouting. Close-mic, clean studio recording, no background noise."
+    },
+    {
+      "id": "nam-nam",
+      "label": "Nam · giọng Nam",
+      "summary": "Nam khoảng 25 tuổi, giọng Sài Gòn, thân thiện và có năng lượng, như một người bạn giải thích anime lúc khuya.",
+      "accent": "Southern Vietnamese (Saigon) accent",
+      "design_prompt": "A young Vietnamese man around 25 speaking with a natural Southern (Saigon) accent. Friendly, energetic mid-range voice, relaxed and approachable, like an older friend explaining anime lore late at night. Playful humor, clear diction, never shouting. Close-mic, clean studio recording, no background noise."
+    },
+    {
+      "id": "nu-bac",
+      "label": "Nữ · giọng Bắc",
+      "summary": "Nữ khoảng 25 tuổi, giọng Hà Nội, trong và tự tin, hơi khàn nhẹ, như một MC gameshow thầm mê anime.",
+      "accent": "Northern Vietnamese (Hanoi) accent",
+      "design_prompt": "A young Vietnamese woman in her mid-20s speaking with a clear Northern (Hanoi) accent. Bright, confident voice with a slight husky texture and a playful smile; sharp and articulate like a quiz-show host who secretly loves anime. Never shrill, never shouting. Close-mic, clean studio recording, no background noise."
+    }
+  ],
+  "sample": "Mở sổ ra nào! Mình là Kaku, một con cú tự nhận đã đọc hết thư viện, rồi bị chính các bạn sửa sai trong phần bình luận. Hôm nay mình sẽ giải mã một hệ thống sức mạnh mà ai cũng tưởng là hiểu rồi. Nhưng khoan đã. Nếu luật chơi đơn giản như vậy, thì tại sao nhân vật mạnh nhất lại thua? Câu trả lời nằm ở một dòng chữ nhỏ mà rất ít người để ý.",
+  "director_notes": {
+    "profile": "AUDIO PROFILE: Kaku, a witty owl scholar who narrates a Vietnamese anime-lore channel. Young adult narrator, warm and bright, with a knowing smile.",
+    "scene": "THE SCENE: Late evening in a cozy library lit by a desk lamp. Kaku leans toward the microphone and shares a secret he has just decoded in his notebook with a close friend.",
+    "direction": [
+      "Speak Vietnamese naturally, like a real storyteller; never robotic, never news-anchor stiff.",
+      "Pace: steady and unhurried, about 150 words per minute; slow down slightly on key terms and numbers.",
+      "Tone: curious and confident; light humor with a smile in the voice on jokes; never shout.",
+      "Take a short breath-pause before every reveal (sentences starting with 'Nhưng', 'Thật ra', 'Hóa ra').",
+      "Say Japanese and English terms (Nen, Haki, Bankai...) the way Vietnamese fans say them, clearly articulated.",
+      "Keep exactly the same voice, energy and loudness in every segment so the pieces join seamlessly."
+    ]
+  },
+  "engines": {
+    "gemini": {
+      "label": "Gemini (AI Studio / API)",
+      "how": "AI Studio → Generate speech (Gemini TTS). Chọn giọng Kaku đã tạo bằng Voice Design, dán Ghi chú đạo diễn vào ô Style instructions, dán từng đoạn đọc vào ô văn bản, bấm Run rồi tải file về, đặt tên c01, c02…",
+      "pause": "<short pause>",
+      "smile": "<laugh>",
+      "question": ""
+    },
+    "elevenlabs": {
+      "label": "ElevenLabs (Eleven v3)",
+      "how": "ElevenLabs → Voices → Voice Design: dán Mô tả giọng, lưu giọng Kaku. Text to Speech → model Eleven v3 → chọn giọng Kaku → dán từng đoạn đọc (đã có thẻ [..]) → Generate → tải file về, đặt tên c01, c02… ElevenLabs không có ô chỉ đạo: cảm xúc nằm trong thẻ.",
+      "pause": "[pause]",
+      "smile": "[chuckles]",
+      "question": "[curious]"
+    },
+    "plain": {
+      "label": "Bản thường (công cụ khác / tự thu âm)",
+      "how": "Dán lời đọc vào công cụ bất kỳ, hoặc tự đọc theo. Mỗi cảnh là một đoạn: nghỉ khoảng nửa giây giữa các đoạn.",
+      "pause": "",
+      "smile": "",
+      "question": ""
+    }
+  },
+  "twist_starts": ["Nhưng", "Thật ra", "Hóa ra", "Và đây mới là", "Điều bất ngờ", "Vấn đề là", "Khoan đã", "Tuy nhiên"],
+  "max_chunk_chars": 2000
+}

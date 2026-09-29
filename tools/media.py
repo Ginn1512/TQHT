@@ -59,6 +59,40 @@ def concat_wavs_exact(parts: list[Path], durations: list[float], out: Path) -> N
                 dst.writeframes(data + b"\x00" * frame_bytes * (want - have))
 
 
+_SIL_START = re.compile(r"silence_start: (-?\d+(?:\.\d+)?)")
+_SIL_END = re.compile(r"silence_end: (\d+(?:\.\d+)?)")
+
+
+def silences(path: Path, noise_db: float = -35.0, min_s: float = 0.2) -> list[tuple[float, float]]:
+    """Các khoảng lặng (bắt đầu, kết thúc) tính bằng giây, dò bằng bộ lọc silencedetect của ffmpeg."""
+    cmd = [ffmpeg_exe(), "-hide_banner", "-nostats", "-i", str(path),
+           "-af", f"silencedetect=noise={noise_db}dB:d={min_s}", "-f", "null", "-"]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"ffmpeg lỗi ({result.returncode}): {result.stderr.strip()[-2000:]}")
+    starts = [max(0.0, float(x)) for x in _SIL_START.findall(result.stderr)]
+    ends = [float(x) for x in _SIL_END.findall(result.stderr)]
+    if len(ends) < len(starts):  # khoảng lặng kéo tới hết file
+        ends.append(wav_duration(path) if Path(path).suffix.lower() == ".wav" else probe(path).duration_s)
+    return list(zip(starts, ends))
+
+
+def cut_wav(src: Path, segments: list[tuple[float, float]], outs: list[Path]) -> None:
+    """Cắt một WAV thành nhiều file theo các đoạn (bắt đầu, kết thúc) tính bằng giây."""
+    with wave.open(str(src), "rb") as w:
+        params = w.getparams()
+        data = w.readframes(w.getnframes())
+    frame_bytes = params.nchannels * params.sampwidth
+    for (start, end), out in zip(segments, outs):
+        a, b = int(round(start * params.framerate)), int(round(end * params.framerate))
+        out.parent.mkdir(parents=True, exist_ok=True)
+        with wave.open(str(out), "wb") as dst:
+            dst.setnchannels(params.nchannels)
+            dst.setsampwidth(params.sampwidth)
+            dst.setframerate(params.framerate)
+            dst.writeframes(data[a * frame_bytes : b * frame_bytes])
+
+
 @dataclass
 class MediaInfo:
     duration_s: float

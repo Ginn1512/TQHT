@@ -51,12 +51,12 @@ _CAMERA_RULES = [
      "clean side-by-side panel composition, each part equally balanced"),
     ("diagram", r"\b(diagram|chart|graph|gauge|timeline|status window|stat bars?|stat card|scorecard|blueprint|"
      r"family tree|pyramid|flowchart|infographic|icons?|meter|table of|grid of|ranking|tier list|scoreboard)\b",
-     "clean centered infographic composition on a dark slate board, flat front view, generous negative space"),
+     "clean centered composition with the diagram as the clear focal point, flat front view, generous negative space"),
     ("figure", r"\b(man|woman|men|women|boy|girl|people|crowd|child|children|(?:figure|silhouette|warrior|swordsman|"
      r"ninja|mage|fighter|hunter|person|soldier|strategist|king|queen|hero|villain|monster|creature|giant|titan|"
      r"demon|sorcerer|witch|pirate|samurai|knight|elf|student|mentor|teenager|brother|sister|reader|diviner|priest|"
      r"monk|gardener|founder|traveler|merchant|scholar|doctor|scientist|guard|chef|captain|detective|trainee)s?)\b",
-     "dynamic low-angle medium shot, strong readable silhouette"),
+     "medium shot, expressive body language, strong readable silhouette"),
     ("landscape", r"\b(city|cities|landscape|sea|seas|ocean|mountain|mountains|sky|island|islands|world|kingdom|"
      r"forest|desert|village|ruins|hellscape|void|horizon|valley|castle|space|planet|continents?|coast|harbor)\b",
      "wide establishing shot with deep perspective"),
@@ -65,11 +65,14 @@ _CAMERA_RULES = [
      r"letter|page|notebook|fruit|stone|crystal|bell|compass|hourglass|feather|gem|orb)\b",
      "close-up detail shot with shallow depth of field"),
 ]
+# Cảnh nhân vật có sức mạnh bùng nổ thì đổi sang góc thấp cho có khí thế.
+_POWER = re.compile(r"\b(aura|power|energy|attack|punch|strike|clash|battle|explosion|fist|roar|lightning|unleash\w*)\b", re.I)
+_POWER_CAMERA = "dynamic low-angle shot, sense of overwhelming power"
 _MASCOT_CAMERA = "medium shot at eye level, the mascot in sharp focus in the foreground"
 _DEFAULT_CAMERA = "cinematic medium-wide shot, rule-of-thirds composition"
 _CHAPTER_CAMERA = "wide establishing shot with deep perspective"
 DEFAULT_LIGHT = "moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light"
-DIAGRAM_LIGHT = "lines glowing softly in white and amber against the dark board"
+DIAGRAM_LIGHT = "diagram lines glowing softly in white and amber, deep navy surroundings"
 
 
 def camera_kind(scene: scenes.Scene) -> str:
@@ -94,6 +97,8 @@ def camera_hint(scene: scenes.Scene) -> str:
     if _SHOT.search(scene.image_prompt):
         return ""
     kind = camera_kind(scene)
+    if kind == "figure" and _POWER.search(scene.image_prompt):
+        return _POWER_CAMERA
     hints = {k: h for k, _, h in _CAMERA_RULES}
     hints.update(mascot=_MASCOT_CAMERA, chapter=_CHAPTER_CAMERA, default=_DEFAULT_CAMERA)
     return hints[kind]

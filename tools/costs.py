@@ -2,6 +2,7 @@
 
     python -m tools.costs estimate videos/<thư-mục>            # trước khi tạo
     python -m tools.costs estimate videos/<thư-mục> --lang en  # chỉ tính 1 ngôn ngữ
+    python -m tools.costs estimate videos/<thư-mục> --no-images --no-tts   # làm tay cả ảnh lẫn giọng: 0 USD
     python -m tools.costs record videos/<thư-mục>              # sau khi xong, ghi vào channel/costs.md
 """
 
@@ -17,8 +18,10 @@ from tools import config, scenes, timing
 COST_FILE = "cost.json"
 
 
-def estimate(board: scenes.Storyboard, languages: list[str] | None = None, images: bool = True) -> dict:
-    langs = languages or board.languages
+def estimate(
+    board: scenes.Storyboard, languages: list[str] | None = None, images: bool = True, tts: bool = True
+) -> dict:
+    langs = (languages or board.languages) if tts else []
     seconds = {
         lang: round(sum(len(s.narration.get(lang, "")) for s in board.scenes) / config.CHARS_PER_SECOND[lang], 1)
         for lang in langs
@@ -89,14 +92,15 @@ def main() -> None:
     e = sub.add_parser("estimate")
     e.add_argument("video_dir", type=Path)
     e.add_argument("--lang", action="append", help="chỉ tính các ngôn ngữ này")
-    e.add_argument("--no-images", action="store_true", help="bỏ qua ảnh (ví dụ chỉ thêm bản lồng tiếng)")
+    e.add_argument("--no-images", action="store_true", help="bỏ qua ảnh (ảnh làm tay bằng Gemini app, hoặc chỉ thêm lồng tiếng)")
+    e.add_argument("--no-tts", action="store_true", help="bỏ qua giọng (giọng làm tay bằng AI Studio, ElevenLabs…)")
     r = sub.add_parser("record")
     r.add_argument("video_dir", type=Path)
     args = p.parse_args()
 
     if args.cmd == "estimate":
         board = scenes.load(args.video_dir)
-        est = estimate(board, args.lang, images=not args.no_images)
+        est = estimate(board, args.lang, images=not args.no_images, tts=not args.no_tts)
         spent = month_total()
         print(f"Ảnh: {est['images']} × {config.PRICE_PER_IMAGE} USD")
         if est["clip_seconds"]:

@@ -58,6 +58,11 @@ def test_camera_hint_picks_earliest_subject():
     assert images.camera_kind(scene("ancient beads in a museum case")) == "default"
 
 
+def test_power_scenes_get_low_angle_quiet_ones_do_not():
+    assert images.camera_hint(scene("a warrior silhouette with a flaming aura")) == images._POWER_CAMERA
+    assert "low-angle" not in images.camera_hint(scene("a small boy sitting alone on a hospital bed"))
+
+
 def test_hints_skip_when_prompt_already_has_them():
     s = scene("close-up of a sword glowing in candlelight")
     assert images.camera_hint(s) == "" and images.light_hint(s) == ""
