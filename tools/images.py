@@ -29,6 +29,16 @@ def build_prompt(board: scenes.Storyboard, scene: scenes.Scene) -> str:
     return " ".join(p.strip().rstrip(".") + "." for p in parts if p.strip())
 
 
+def fit_frame(img: Image.Image, trim: float = 0.0) -> Image.Image:
+    """Cắt bỏ `trim` (tỉ lệ) ở mỗi cạnh rồi cắt/co về đúng khung video 1920×1080."""
+    img = img.convert("RGB")
+    if trim:
+        w, h = img.size
+        dx, dy = round(w * trim), round(h * trim)
+        img = img.crop((dx, dy, w - dx, h - dy))
+    return ImageOps.fit(img, (config.WIDTH, config.HEIGHT), Image.Resampling.LANCZOS)
+
+
 def generate(prompt: str) -> tuple[Path, bool]:
     """Trả về (PNG 1920×1080 trong cache, có gọi API mới hay không)."""
     cached = gemini.cache_path("images", config.IMAGE_MODEL, prompt, suffix=".png")
@@ -50,8 +60,7 @@ def generate(prompt: str) -> tuple[Path, bool]:
     )
     if not data:
         raise RuntimeError(f"model không trả về ảnh (có thể bị chặn nội dung) cho prompt: {prompt[:80]}...")
-    img = Image.open(io.BytesIO(data)).convert("RGB")
-    img = ImageOps.fit(img, (config.WIDTH, config.HEIGHT), Image.Resampling.LANCZOS)
+    img = fit_frame(Image.open(io.BytesIO(data)))
     cached.parent.mkdir(parents=True, exist_ok=True)
     img.save(cached)
     return cached, True

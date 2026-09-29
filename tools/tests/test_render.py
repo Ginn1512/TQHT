@@ -1,12 +1,13 @@
 """Test dựng video thật bằng ffmpeg, ở độ phân giải nhỏ cho nhanh."""
 
 import json
+import shutil
 import wave
 
 import pytest
 from PIL import Image
 
-from tools import assemble, images, media, scenes, thumbnail
+from tools import assemble, config, images, media, scenes, thumbnail
 
 SMALL = (320, 180)
 FPS = 10
@@ -71,3 +72,23 @@ def test_thumbnail_is_1280x720(tmp_path):
     Image.new("RGB", (800, 600), (30, 60, 90)).save(bg)
     out = thumbnail.compose(bg, "Bí mật sức mạnh thật sự của Hashira", tmp_path / "thumb.png")
     assert Image.open(out).size == (1280, 720)
+
+
+def test_draft_speech_seconds_follow_reading_speed():
+    board = scenes.parse(
+        {"languages": ["vi"], "scenes": [{"id": "s1", "narration": {"vi": "a" * 130}, "image_prompt": "p"}]}
+    )
+    assert assemble.draft_speech_seconds(board) == [round(130 / config.CHARS_PER_SECOND["vi"], 3)]
+
+
+def test_draft_renders_without_any_audio_files(tmp_path):
+    video_dir = assemble.make_demo(tmp_path / "demo", size=SMALL)
+    shutil.rmtree(video_dir / "assets" / "audio")
+    final = assemble.run(video_dir, size=SMALL, fps=FPS, draft=True, crf=assemble.DRAFT_CRF)
+    assert final.name == "draft.vi.mp4"
+    board = scenes.load(video_dir)
+    expected = sum(assemble.draft_speech_seconds(board)) + len(board.scenes) * config.SCENE_PADDING_S
+    assert abs(media.probe(final).duration_s - expected) < 0.3
+    report = json.loads((final.parent / "report.json").read_text(encoding="utf-8"))
+    assert "draft" in report and "en" not in report["languages"]
+    assert (final.parent / "subs.vi.srt").exists()

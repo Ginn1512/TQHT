@@ -3,6 +3,7 @@
     python -m tools.assemble videos/<thư-mục>
     python -m tools.assemble videos/<thư-mục> --music assets/music/nhac.mp3
     python -m tools.assemble --demo            # clip thử bằng dữ liệu giả, không cần API key
+    python -m tools.assemble videos/<thư-mục> --draft   # bản nháp KHÔNG TIẾNG 960×540 khi chưa có giọng đọc
 
 Cần có: assets/images/<id>.png và assets/audio/<lang>/<id>.wav cho mọi cảnh.
 Độ dài mỗi cảnh do giọng tiếng Việt quyết định; các bản lồng tiếng khác được khớp theo.
@@ -12,6 +13,7 @@ Kết quả trong render/:
 - audio.<lang>.m4a         bản âm thanh phụ, tải lên mục Ngôn ngữ trong YouTube Studio
 - subs.<lang>.srt          phụ đề cho từng ngôn ngữ
 - chapters.txt             mốc chương để dán vào phần mô tả
+- draft.<lang>.mp4         (chế độ --draft) bản nháp để duyệt hình, độ dài cảnh ước tính theo lời thoại
 """
 
 from __future__ import annotations
@@ -80,7 +82,14 @@ def frame_counts(durations: list[float], fps: int) -> list[int]:
 
 
 def render_segment(
-    image: Path, overlay: Path | None, frames: int, index: int, out: Path, size: tuple[int, int], fps: int
+    image: Path,
+    overlay: Path | None,
+    frames: int,
+    index: int,
+    out: Path,
+    size: tuple[int, int],
+    fps: int,
+    crf: int = 20,
 ) -> None:
     w, h = size
     zoom = ken_burns(index, frames)
@@ -97,7 +106,7 @@ def render_segment(
             "-filter_complex", chain,
             "-map", "[v]",
             "-frames:v", str(frames),
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(fps),
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", str(crf), "-r", str(fps),
             str(out),
         ]
     )
@@ -181,11 +190,32 @@ def write_chapters(board: scenes.Storyboard, starts: list[float], out: Path) -> 
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def draft_speech_seconds(board: scenes.Storyboard, lang: str = config.PRIMARY_LANGUAGE) -> list[float]:
+    """Độ dài giọng ước tính mỗi cảnh (số ký tự ÷ tốc độ đọc), dùng cho bản nháp chưa có giọng."""
+    return [round(len(s.narration.get(lang, "")) / config.CHARS_PER_SECOND[lang], 3) for s in board.scenes]
+
+
+def silent_wavs(seconds: list[float], ids: list[str], folder: Path, rate: int = config.TTS_SAMPLE_RATE) -> list[Path]:
+    paths = []
+    for sid, sec in zip(ids, seconds):
+        path = folder / f"silent_{sid}.wav"
+        media.pcm_to_wav(b"\x00\x00" * int(round(sec * rate)), path, rate=rate)
+        paths.append(path)
+    return paths
+
+
+DRAFT_SIZE = (960, 540)
+DRAFT_FPS = 24
+DRAFT_CRF = 26
+
+
 def run(
     video_dir: Path,
     music: Path | None = None,
     size: tuple[int, int] = (config.WIDTH, config.HEIGHT),
     fps: int = config.FPS,
+    draft: bool = False,
+    crf: int = 20,
 ) -> Path:
     video_dir = Path(video_dir)
     board = scenes.load(video_dir)
@@ -196,7 +226,10 @@ def run(
     tmp.mkdir(parents=True)
 
     images = [assets / "images" / f"{s.id}.png" for s in board.scenes]
-    main_audio = [assets / "audio" / primary / f"{s.id}.wav" for s in board.scenes]
+    if draft:
+        main_audio = silent_wavs(draft_speech_seconds(board), [s.id for s in board.scenes], tmp)
+    else:
+        main_audio = [assets / "audio" / primary / f"{s.id}.wav" for s in board.scenes]
     clips = [assets / "clips" / f"{s.id}.mp4" for s in board.scenes]
     missing = [str(img) for img, clip in zip(images, clips) if not img.exists() and not clip.exists()]
     missing += [str(p) for p in main_audio if not p.exists()]
@@ -220,7 +253,7 @@ def run(
         if clips[i].exists():
             render_clip_segment(clips[i], overlay, frames[i], seg, size, fps)
         else:
-            render_segment(image, overlay, frames[i], i, seg, size, fps)
+            render_segment(image, overlay, frames[i], i, seg, size, fps, crf)
         segments.append(seg)
         print(f"Cảnh {i + 1}/{len(board.scenes)} ({scene.id}, {dur:.1f}s)", flush=True)
     concat_list = tmp / "segments.txt"
@@ -231,7 +264,7 @@ def run(
     # 2. Giọng ngôn ngữ chính + ghép thành video hoàn chỉnh.
     main_track = tmp / f"track.{primary}.wav"
     media.concat_wavs_exact(main_audio, durations, main_track)
-    final = render / f"video.{primary}.mp4"
+    final = render / f"{'draft' if draft else 'video'}.{primary}.mp4"
     encode_audio(main_track, final, total, music, video=silent)
     subs = {primary: [s.narration[primary] for s in board.scenes]}
     (render / f"subs.{primary}.srt").write_text(
@@ -240,8 +273,10 @@ def run(
 
     # 3. Các bản lồng tiếng khác (nếu đã tạo giọng).
     report = {"total_s": total, "length_problem": timing.length_problem(total), "languages": {primary: "ok"}}
+    if draft:
+        report["draft"] = "không tiếng, độ dài cảnh ước tính theo lời thoại"
     for lang in board.languages:
-        if lang == primary:
+        if lang == primary or draft:
             continue
         parts = [assets / "audio" / lang / f"{s.id}.wav" for s in board.scenes]
         if not all(p.exists() for p in parts):
@@ -329,12 +364,16 @@ def main() -> None:
     p.add_argument("video_dir", type=Path, nargs="?")
     p.add_argument("--music", type=Path, help="nhạc nền không bản quyền (ví dụ từ YouTube Audio Library)")
     p.add_argument("--demo", action="store_true")
+    p.add_argument("--draft", action="store_true", help="bản nháp không tiếng 960×540 khi chưa có giọng đọc")
     args = p.parse_args()
 
     video_dir = make_demo(config.CACHE_DIR / "demo") if args.demo else args.video_dir
     if not video_dir:
         p.error("cần video_dir hoặc --demo")
-    final = run(video_dir, music=args.music)
+    if args.draft:
+        final = run(video_dir, music=args.music, size=DRAFT_SIZE, fps=DRAFT_FPS, draft=True, crf=DRAFT_CRF)
+    else:
+        final = run(video_dir, music=args.music)
     info = media.probe(final)
     print(f"\nXong: {final} ({info.duration_s:.1f}s)")
     report = json.loads((final.parent / "report.json").read_text(encoding="utf-8"))
