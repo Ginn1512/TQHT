@@ -1,6 +1,7 @@
 # Kế hoạch nội dung: 30 video đầu tiên
 
-> Cập nhật 2026-09-28. Ngày trong bảng là ngày dự kiến đăng, tính khi đã có key.
+> Cập nhật 2026-09-29. Lịch 90 ngày: 3 video/tuần (thứ Ba, thứ Năm, thứ Bảy) từ 06/10 đến 12/12/2026, cộng 1 Short/ngày. Mục tiêu và mốc kiểm tra: `docs/lo-trinh.md`.
+> Mỗi video có bộ prompt làm tay `prompts.vi.md` (ảnh + giọng) trong thư mục của video.
 > Mọi kịch bản cần kiểm lại các sự thật trong `brief.md` trước khi tạo giọng đọc.
 > Danh sách chủ đề, điểm số và dạng video: `channel/topics.md`. Khung từng dạng: `channel/formats.md`.
 
@@ -46,20 +47,15 @@ Kiểm tra tự động:
 
 ## Chi phí theo tháng
 
-Chi phí tính cho ảnh và giọng tiếng Việt, chưa gồm clip Seedance. Clip làm trên app Dreamina/CapCut bằng credit, hoặc bỏ qua.
+Mặc định làm tay: ảnh bằng Gemini app (gói Gemini Plus), giọng bằng AI Studio hoặc ElevenLabs. Vì vậy **chi phí API gần 0 USD/tháng**. Đổi lại, mỗi tuần mất khoảng 10–12 giờ làm tay (ảnh 1,5–2 giờ và giọng 30–45 phút mỗi video).
 
-| Tháng | Số video | USD | So với ngân sách 38 USD |
-|---|---|---|---|
-| 2026-09 + 2026-10 | 11 | khoảng 37 | Sát trần. Có thể tạo ảnh cho video 1–3 từ cuối tháng 9 |
-| 2026-11 | 8 | khoảng 25 | Còn khoảng 13 USD cho lồng tiếng Anh + Bồ Đào Nha (khoảng 0,3 USD/video) |
-| 2026-12 | 9 | khoảng 27 | Còn khoảng 11 USD |
-| 2027-01 | 2 (video 29–30) | khoảng 6 | Còn nhiều chỗ cho Shorts và lồng tiếng |
+Cột "USD (không clip)" trong bảng trên là chi phí **nếu tạo cả ảnh và giọng bằng API**. Đây là phương án dự phòng, và là mức chi sau khi tự động hóa (xem `docs/tu-dong-hoa.md`).
 
-**Cập nhật 29/09/2026: tạo ảnh bằng Gemini app.** Bạn tự tạo ảnh bằng gói Gemini Plus qua trang "Xưởng ảnh", nên ảnh không còn tốn tiền API.
-- Mỗi video chỉ còn khoảng 0,14 USD tiền giọng đọc, cả 30 video khoảng 4 USD. Bảng trên là chi phí nếu tạo ảnh bằng API (phương án dự phòng).
-- Đổi lại, mỗi video mất khoảng 1,5–2 giờ để tạo và tải ảnh lên.
-
-Từ video 12, lịch đăng giảm còn 2 video/tuần (thứ Ba và thứ Bảy) để không vượt ngân sách.
+| Tháng | Số video dài | Short | USD khi làm tay | USD nếu dùng API |
+|---|---|---|---|---|
+| 2026-10 | 12 (video 1–12) | khoảng 26 | 0 | khoảng 40 |
+| 2026-11 | 12 (video 13–24) | khoảng 30 | 0 | khoảng 39 |
+| 2026-12 | 6 (video 25–30), rồi video 31–39 | khoảng 31 | 0 | khoảng 20, cộng video 31–39 |
 
 ## Vì sao 30 video này đúng chính sách kiếm tiền cho nội dung AI của YouTube
 

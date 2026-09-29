@@ -1,6 +1,6 @@
 ---
 name: yt-studio
-description: Sản xuất một video YouTube phân tích anime từ chủ đề đến MP4 hoàn chỉnh — nghiên cứu, kịch bản tiếng Việt, chia cảnh, giọng đọc Gemini TTS, ảnh AI, dựng video, thumbnail, tiêu đề/mô tả, và các bản lồng tiếng khác. Dùng khi người dùng muốn làm video mới, làm lại một cảnh, hoặc thêm bản lồng tiếng cho video đã có.
+description: Sản xuất một video YouTube phân tích anime từ chủ đề đến MP4 hoàn chỉnh — nghiên cứu, kịch bản tiếng Việt, chia cảnh, bộ prompt ảnh + giọng, trang Xưởng Kaku để người dùng làm tay (Gemini app, AI Studio, ElevenLabs), nhập ảnh/giọng, dựng video, 3 Short, thumbnail, tiêu đề/mô tả, và các bản lồng tiếng khác. Dùng khi người dùng muốn làm video mới, báo "xong ảnh + giọng", làm lại một cảnh, hoặc thêm bản lồng tiếng.
 ---
 
 # yt-studio: từ chủ đề đến video
@@ -11,7 +11,7 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 
 1. `channel/profile.md` phải có dòng `ĐÃ DUYỆT`. Nếu chưa có, chạy `/yt-analyzer` trước.
 2. `pip install -q -r tools/requirements.txt`
-3. Kiểm tra `GEMINI_API_KEY` bằng `python -m tools.gemini models`. Nếu thiếu, hướng dẫn người dùng thêm biến môi trường trong cài đặt môi trường cloud rồi mở phiên mới. Không bao giờ yêu cầu dán key vào chat. Nếu model trong `tools/config.py` không còn trong danh sách, đặt `YT_TTS_MODEL` / `YT_IMAGE_MODEL` hoặc sửa `config.py`.
+3. Chỉ khi sẽ dùng API (ảnh hoặc giọng): kiểm tra `GEMINI_API_KEY` bằng `python -m tools.gemini models`. Làm tay thì không cần key. Nếu thiếu, hướng dẫn người dùng thêm biến môi trường trong cài đặt môi trường cloud rồi mở phiên mới. Không bao giờ yêu cầu dán key vào chat. Nếu model trong `tools/config.py` không còn trong danh sách, đặt `YT_TTS_MODEL` / `YT_IMAGE_MODEL` hoặc sửa `config.py`.
 4. Xem profile đang bật những ngôn ngữ nào. Video 1–3 chỉ làm tiếng Việt.
 
 ## 1. Nghiên cứu → `videos/<YYYY-MM-DD>-<slug>/brief.md`
@@ -39,9 +39,11 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 - Mỗi cảnh gồm 1–3 câu, dài 8–15 giây (khoảng 100–190 ký tự tiếng Việt), tổng khoảng 90–110 cảnh. Id đặt theo dạng `s01`, `s02`, …
 - Chép `style_prompt` và `mascot_prompt` từ profile vào đầu file.
 - `image_prompt` (tiếng Anh):
-  - Mô tả một bố cục tự nghĩ ra.
+  - Mô tả một bố cục tự nghĩ ra: chủ thể + hành động + bối cảnh, **kèm cỡ cảnh / góc máy và ánh sáng** (ví dụ "close-up", "wide establishing shot", "lit by a single desk lamp"). Nếu thiếu, `images.build_prompt` sẽ tự thêm theo quy tắc, nhưng tự ghi thì kiểm soát tốt hơn.
   - **Không ghi tên nhân vật hay tên anime.** Không mô tả lại trang phục hoặc kiểu tóc đặc trưng của nhân vật có bản quyền. Thay vào đó dùng nhân vật kiểu mẫu chung, bóng người, đồ vật tượng trưng, phong cảnh, hoặc cảnh sơ đồ/so sánh.
+  - Không yêu cầu chữ trong ảnh. Chữ được chèn khi dựng.
 - Chạy `python -m tools.prompt_check videos/<thư-mục>`: phải báo "không có vi phạm". Gặp tên hoặc chi tiết đặc trưng mới thì thêm vào `channel/prompt-blocklist.txt`.
+- Chạy `python -m tools.prompt_pack videos/<thư-mục>` để tạo `prompts.vi.md` (prompt ảnh 6 lớp + các đoạn đọc cho Gemini và ElevenLabs). Mỗi lần sửa `scenes.json` thì chạy lại.
 - `on_screen_text` tối đa 8 từ, ưu tiên tên riêng và con số. Chữ này được in cứng vào hình và **mọi bản lồng tiếng đều thấy**, nên đừng viết câu dài.
 - `use_mascot: true` cho mở đầu, chuyển đoạn và kết thúc (khoảng 15% số cảnh).
 - `chapter` ở 6–9 cảnh bắt đầu phần mới. Cảnh đầu tiên luôn có chapter.
@@ -49,30 +51,40 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 ## 4. Báo chi phí và chờ duyệt
 
 ```bash
-python -m tools.costs estimate videos/<thư-mục> --no-images   # ảnh làm bằng Gemini app (mặc định): chỉ tính giọng
-python -m tools.costs estimate videos/<thư-mục>               # nếu tạo ảnh bằng API
+python -m tools.costs estimate videos/<thư-mục> --no-images --no-tts   # làm tay cả ảnh lẫn giọng (mặc định): 0 USD
+python -m tools.costs estimate videos/<thư-mục> --no-images            # nếu tạo giọng bằng API
+python -m tools.costs estimate videos/<thư-mục>                        # nếu tạo cả ảnh bằng API
 ```
 
-Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ước tính, số cảnh, chi phí, số tiền đã chi trong tháng. Người dùng chọn: **Tạo video** / **Sửa kịch bản trước**. Chưa được đồng ý thì không gọi API tốn tiền.
+Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ước tính, số cảnh, chi phí, số tiền đã chi trong tháng. Người dùng chọn: **Tạo video** / **Sửa kịch bản trước**. Chưa được đồng ý thì không gọi API tốn tiền. Khi làm tay hoàn toàn (0 USD) thì chỉ cần người dùng duyệt kịch bản.
 
 ## 5. Ảnh, giọng và dựng video
 
-**Ảnh, cách mặc định: người dùng tạo bằng Gemini app** (gói Gemini Plus, không tốn tiền API):
+**Cách mặc định: người dùng làm tay trên trang "Xưởng Kaku"** (ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs; hướng dẫn trong `docs/huong-dan-lam-tay.md`):
 
-1. `python -m tools.app_images page videos/<thư-mục> --label "video N" > <scratchpad>/xuong-anh-N.html`, rồi đăng bằng Artifact với `capabilities: {"assets": {}, "db": {}}`. Mỗi video một trang.
-2. Gửi link cho người dùng. Trên trang có hướng dẫn: tạo ảnh mẫu Kaku trước, rồi với mỗi cảnh thì sao chép prompt → tạo ảnh trong Gemini → tải ảnh lên.
-3. Khi người dùng báo xong:
-   - đọc danh sách `ArtifactData list images` (dùng `query.limit` 200) để lấy asset id của từng cảnh;
-   - tải từng ảnh về bằng `Artifact read` với `path=<asset id>`, lưu vào một thư mục tạm dưới tên `<scene-id>.<đuôi>`;
-   - chạy `python -m tools.app_images import videos/<thư-mục> --from <thư-mục tạm>` (thêm `--trim 0.05` nếu ảnh có watermark ở góc).
-4. Cảnh nào thiếu ảnh hoặc ảnh hỏng thì báo số cảnh để người dùng làm lại trên trang.
+1. `python -m tools.xuong page videos/<thư-mục> --label "video N" > <scratchpad>/xuong-N.html`, rồi đăng bằng Artifact với `capabilities: {"assets": {}, "db": {}}`. Mỗi video một trang (video 1: https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr). Ghi link vào cột "Link Xưởng" trong Notion.
+2. Gửi link cho người dùng. Trang có 3 tab:
+   - **Ảnh:** sao chép prompt → Gemini → tải ảnh lên. Cảnh có Kaku thì đính kèm ảnh mẫu Kaku.
+   - **Giọng:** chọn công cụ, dán ghi chú đạo diễn, dán từng đoạn đọc `c01`… rồi tải file lên.
+   - **Kiểm tra:** danh sách tiêu chí, và báo "Sẵn sàng dựng" khi đủ.
+3. Khi người dùng báo "xong ảnh + giọng video N":
+   - `ArtifactData list` các collection `images` và `audio` (`query.limit` 200) để lấy asset id.
+   - Tải từng asset bằng `Artifact read` với `path=<asset id>`, lưu vào thư mục tạm:
+     - ảnh đặt tên `<scene-id>.<đuôi>`;
+     - giọng đặt tên `<cNN>.txt`. Đây là gói base64 có dòng đầu `KAKU-AUDIO-B64`, vì kho tệp của trang không nhận file âm thanh.
+   - Ảnh có `redo: true` thì báo lại cho người dùng, chưa nhập.
+   - `python -m tools.app_images import videos/<thư-mục> --from <tạm>` (thêm `--trim 0.05` nếu ảnh có watermark ở góc).
+   - `python -m tools.app_audio import videos/<thư-mục> --from <tạm>`: mỗi đoạn tự được cắt thành giọng từng cảnh tại các khoảng lặng.
+   - Nếu ảnh mẫu Kaku (`images/kaku-ref`) chưa có trong `channel/brand/kaku-ref.png` thì lưu vào đó.
+4. Cảnh hoặc đoạn nào thiếu hay hỏng thì báo số cảnh / số đoạn để người dùng làm lại trên trang.
 
-Chỉ khi người dùng yêu cầu mới tạo ảnh bằng API: `python -m tools.images videos/<thư-mục>` (khoảng 0,034 USD/ảnh).
+Chỉ khi người dùng yêu cầu mới dùng API: `python -m tools.images videos/<thư-mục>` (khoảng 0,034 USD/ảnh), `python -m tools.tts videos/<thư-mục> --lang vi` (khoảng 0,14 USD/video).
 
 ```bash
 python -m tools.assemble videos/<thư-mục> --draft   # bản nháp không tiếng, 960×540, để duyệt hình khi chưa có giọng
-python -m tools.tts videos/<thư-mục> --lang vi
-python -m tools.assemble videos/<thư-mục>        # thêm --music <file> nếu người dùng có nhạc không bản quyền
+python -m tools.assemble videos/<thư-mục>           # thêm --music <file> nếu người dùng có nhạc không bản quyền
+python -m tools.shorts suggest videos/<thư-mục>     # 3 cụm cảnh 35–58 giây
+python -m tools.shorts make videos/<thư-mục> --from s19 --to s24 --title "Câu hỏi ngắn gây tò mò"
 ```
 
 - Muốn có clip chuyển động thật cho vài cảnh "đinh": làm theo skill `/yt-seedance` trước khi chạy `tools.assemble` (tối đa 6 clip × 5 giây).
@@ -80,6 +92,7 @@ python -m tools.assemble videos/<thư-mục>        # thêm --music <file> nếu
 - Dùng Read xem ngẫu nhiên khoảng 5 ảnh. Nếu ảnh có chữ lạ, dị dạng, hoặc quá giống nhân vật có bản quyền, sửa `image_prompt` rồi vẽ lại bằng `python -m tools.images videos/<thư-mục> --only s03,s07`. Ảnh cũ nằm trong cache, không tốn lại.
 - Sửa lời thoại một cảnh thì chỉ cảnh đó bị tạo giọng lại.
 - Xem `render/report.json` và trích 2–3 khung hình để kiểm tra.
+- **Short:** làm 3 cái mỗi video, tiêu đề là một câu hỏi ngắn (tối đa 8 từ). Đăng 1 Short mỗi ngày giữa hai video dài. Mô tả Short gắn link video dài (dùng tính năng "Video liên quan" của YouTube).
 
 ## 6. Thumbnail và thông tin đăng tải
 
@@ -95,11 +108,12 @@ Soạn `metadata.vi.md`:
 
 ## 7. Giao video và duyệt lần cuối
 
-- Gửi `render/video.vi.mp4`, `render/thumbnail.png` và `metadata.vi.md` bằng SendUserFile. Nếu file quá lớn, tải lên Google Drive của người dùng.
+- Gửi `render/video.vi.mp4`, `render/thumbnail.png`, 3 file `render/shorts/*.mp4` và `metadata.vi.md` bằng SendUserFile. Nếu file quá lớn, tải lên Google Drive của người dùng.
 - Dùng AskUserQuestion: **Đăng** / **Sửa** (người dùng ghi rõ cần sửa gì).
 - Sau khi người dùng đồng ý:
   - chạy `python -m tools.costs record videos/<thư-mục>`
   - cập nhật trạng thái chủ đề trong `channel/topics.md`
+  - cập nhật dòng của video trong Notion (CSDL "Video dài": Trạng thái, Link YouTube, Phút, Chi phí USD, Giờ làm tay), và thêm 3 dòng vào CSDL "Shorts"
   - commit (không commit MP4, vì `assets/` và `render/` đã bị gitignore) rồi push.
 - Hướng dẫn đăng video:
   1. App YouTube Studio: tải video lên, dán tiêu đề và mô tả, đặt thumbnail, chọn "Không dành cho trẻ em", hẹn giờ đăng.

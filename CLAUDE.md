@@ -27,9 +27,11 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 
 ## Dự án: kênh YouTube phân tích anime
 
-Kênh tiếng Việt, video phân tích/giải thích anime dài 15–20 phút (tối thiểu 15 phút), hình AI tự vẽ, lồng tiếng thêm theo lộ trình ghi trong `channel/profile.md`.
+Mục tiêu: kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, **đủ điều kiện kiếm tiền (YPP) trong 1–3 tháng**. Video dài 15–20 phút (tối thiểu 15 phút), 3 video/tuần, cộng 1 Short/ngày. Hình AI tự vẽ theo phong cách "Sổ tay Kaku".
 
-Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả trang xem trên điện thoại https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f).
+**Làm tay trước để chi phí gần 0**: ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs, dùng prompt soạn sẵn. **Tự động hóa (Notion + n8n) sau khi được bật kiếm tiền**, xem `docs/tu-dong-hoa.md`.
+
+Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả trang xem trên điện thoại https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f). Trạng thái từng video, lịch và chỉ số: trang Notion "Kênh Cú Kaku · Trung tâm điều khiển" (qua connector Notion).
 
 ### Cấu trúc
 
@@ -39,14 +41,19 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 - `channel/formats.md`: danh mục dạng video (A–R) và khung của từng dạng.
 - `channel/references/nghien-cuu-nganh-<năm>.md` và `nhat-ky-hoc-hoi.md`: nghiên cứu ngách và 3 điều học được mỗi đợt.
 - `channel/costs.md`: sổ chi phí.
-- `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
+- `channel/giong-kaku.json`: giọng Kaku (3 bản mô tả Voice Design, giọng đã chọn, ghi chú đạo diễn, thẻ cho từng công cụ).
+- `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `prompts.vi.md` (tạo tự động bằng `python -m tools.prompt_pack`, không sửa tay), `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
+- `docs/huong-dan-lam-tay.md`: các bước làm ảnh và giọng trên điện thoại. `docs/tu-dong-hoa.md`: lộ trình Notion + n8n.
 - `tools/`: công cụ Python (TranscriptAPI, Gemini TTS/ảnh, ffmpeg). Cài bằng `pip install -r tools/requirements.txt`, chạy test bằng `pytest tools/tests`.
 
 ### Quy trình
 
 1. `/yt-analyzer`: phân tích kênh mẫu, cập nhật `channel/profile.md`.
 2. `/yt-research`: **luôn chạy trước mỗi đợt kịch bản** (hoặc khi nhật ký học hỏi đã quá 2 tuần). Tìm anime hot, xem các kênh anime khác làm gì, ghi 3 điều học được.
-3. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh và gói thông tin đăng tải. Ảnh mặc định do người dùng tạo bằng Gemini app (gói Gemini Plus) qua trang "Xưởng ảnh" (`python -m tools.app_images page`); tạo ảnh bằng API chỉ là dự phòng.
+3. `/yt-studio`: từ chủ đề đến video MP4 hoàn chỉnh, 3 Short và gói thông tin đăng tải.
+   - Ảnh và giọng mặc định do người dùng làm tay qua trang "Xưởng Kaku" (`python -m tools.xuong page`), có 3 tab Ảnh / Giọng / Kiểm tra.
+   - Claude nhập bằng `tools.app_images import` và `tools.app_audio import`.
+   - Tạo ảnh hoặc giọng bằng API chỉ là dự phòng.
 4. `/yt-seedance` (tuỳ chọn): tối đa 6 clip Seedance 2.5 × 5 giây cho cảnh "đinh"; mặc định làm thủ công trên app Dreamina/CapCut.
 
 ### Quy tắc cứng

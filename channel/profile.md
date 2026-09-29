@@ -7,13 +7,14 @@
 ## 1. Định vị (đã chốt)
 
 - **Ngách:** phân tích / giải thích anime: sức mạnh, bí ẩn, lý thuyết, top 10, so sánh.
-- **Định dạng:** video dài **15–20 phút** (bắt buộc, không làm ngắn hơn 15 phút). Shorts làm sau.
+- **Mục tiêu:** đủ điều kiện kiếm tiền (YPP) trong 1–3 tháng, làm tay trước (xem `docs/lo-trinh.md`).
+- **Định dạng:** video dài **15–20 phút** (bắt buộc, không làm ngắn hơn 15 phút), 3 video/tuần. Mỗi ngày 1 Short dọc cắt từ video dài (`tools/shorts.py`): dài 35–58 giây, là một cụm cảnh ở đầu một chương, có phụ đề chữ to.
 - **Hình ảnh:** tranh AI tự vẽ theo phong cách anime, cộng chữ trên màn hình và sơ đồ. **Không dùng cảnh phim, ảnh chụp màn hình, trang manga hay art chính thức.**
 - **Ngôn ngữ:** tiếng Việt là chính. Lồng tiếng thêm theo lộ trình:
   - video 1–3: chỉ tiếng Việt (`vi`)
   - tiếp theo: thêm `en` và `pt-BR`
   - sau cùng: thêm `hi` và `zh-TW`
-- **Ngân sách:** khoảng 38 USD/tháng cho ảnh và giọng đọc.
+- **Ngân sách:** trần khoảng 38 USD/tháng. Khi làm tay (ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs) thì gần như 0 USD.
 
 ## 2. Khán giả (sơ bộ)
 
@@ -38,7 +39,11 @@
 - Xưng "mình", gọi khán giả "các bạn". Thân mật, rõ ràng, không la hét câu view.
 - Câu ngắn; thuật ngữ gốc (Nen, Haki…) giữ nguyên, giải thích bằng tiếng Việt ngay lần đầu xuất hiện.
 - Hài hước nhẹ qua lời Kaku, không mỉa mai nhân vật hay fan.
-- **Giọng TTS:** mặc định `Kore` cho mọi ngôn ngữ (`tools/config.py`). Khi có `GEMINI_API_KEY`, chạy `python -m tools.tts --test` (khoảng 0,01 USD) để nghe thử rồi chốt.
+- **Giọng Kaku** (cấu hình trong `channel/giong-kaku.json`):
+  - 3 bản mô tả cho Voice Design: nam giọng Bắc, nam giọng Nam, nữ giọng Bắc. Bạn nghe thử rồi chọn một; mã giọng đã chọn ghi vào `chosen`.
+  - Ghi chú đạo diễn cố định: giọng ấm, tò mò, tự tin; khoảng 13 ký tự/giây; dừng ngắn trước mỗi điểm bất ngờ; không la hét.
+  - Bảng thẻ cho từng công cụ: Gemini `<short pause>` `<laugh>`; ElevenLabs `[pause]` `[chuckles]` `[curious]`; bản thường không có thẻ.
+- **Làm giọng:** mặc định làm tay trên AI Studio hoặc ElevenLabs, dùng các đoạn đọc soạn sẵn trong trang Xưởng hoặc `prompts.vi.md`. Qua API (`tools/tts.py`, giọng mặc định `Kore`) chỉ là dự phòng, hoặc dùng sau khi tự động hóa.
 
 ## 6. Cấu trúc video chuẩn (sơ bộ)
 
