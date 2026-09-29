@@ -190,20 +190,13 @@
     {
       "id": "s23",
       "narration": {
-        "vi": "Manga của Aoyama Gosho từ 1994, anime từ 1996, hơn 1.000 tập, phim điện ảnh hằng năm; tên Edogawa (Ranpo) + Conan (Doyle); Tổ chức Áo đen; Haibara chế thuốc giải tạm thời; Shinichi từng chơi bóng đá; huy hiệu Đội thám tử nhí có bộ đàm và định vị"
-      },
-      "image_prompt": "cần kiểm lại"
-    },
-    {
-      "id": "s24",
-      "narration": {
         "vi": "Điểm độ thật của viên thuốc: ba trên mười. Có khái niệm khoa học thật làm nền, nhưng hiệu ứng chính là hư cấu hoàn toàn."
       },
       "image_prompt": "a scorecard showing 3 out of 10 next to a capsule icon, close-up, amber ink",
       "on_screen_text": "Độ thật: 3/10"
     },
     {
-      "id": "s25",
+      "id": "s24",
       "narration": {
         "vi": "Nhưng giả giọng chỉ là một nửa. Conan còn phải giả cả cách nói chuyện của ông Mori: từ ngữ, nhịp điệu, cả những câu cửa miệng. Đó là kỹ năng diễn xuất, không phải của máy."
       },
@@ -211,7 +204,7 @@
       "chapter": "Món 2: nơ đổi giọng"
     },
     {
-      "id": "s26",
+      "id": "s25",
       "narration": {
         "vi": "Kaku thử giả giọng của một giáo sư đọc sách rất chán. Kết quả là Kaku tự ngủ trước."
       },
@@ -219,7 +212,7 @@
       "use_mascot": true
     },
     {
-      "id": "s27",
+      "id": "s26",
       "narration": {
         "vi": "Chiếc nơ đổi giọng là món đồ nổi tiếng nhất của Conan. Cậu vặn núm, nói vào nơ, và giọng phát ra giống hệt giọng người khác, thường là ông Mori, để suy luận thay ông."
       },
@@ -227,7 +220,7 @@
       "on_screen_text": "Nơ đổi giọng"
     },
     {
-      "id": "s28",
+      "id": "s27",
       "narration": {
         "vi": "Khoa học thật: thiết bị đổi giọng đã có từ lâu. Chúng thay đổi cao độ và âm sắc, biến giọng trầm thành bổng hoặc ngược lại."
       },
@@ -235,7 +228,7 @@
       "on_screen_text": "Thiết bị đổi giọng: có thật"
     },
     {
-      "id": "s29",
+      "id": "s28",
       "narration": {
         "vi": "Và ngày nay, trí tuệ nhân tạo đã có thể bắt chước giọng của một người cụ thể chỉ từ vài đoạn ghi âm. Nghĩa là về mặt kỹ thuật, chiếc nơ của Conan gần với hiện thực hơn bao giờ hết."
       },
@@ -245,7 +238,7 @@
       "clip_seconds": 5
     },
     {
-      "id": "s30",
+      "id": "s29",
       "narration": {
         "vi": "Nhưng điều này cũng có mặt tối: kẻ gian dùng giọng giả để lừa đảo qua điện thoại. Kaku nhắc bạn: nếu người thân gọi tới xin tiền gấp, hãy gọi lại bằng số quen để kiểm tra."
       },
@@ -253,14 +246,14 @@
       "on_screen_text": "Cẩn thận lừa đảo giọng giả"
     },
     {
-      "id": "s31",
+      "id": "s30",
       "narration": {
         "vi": "Chỗ truyện phóng tay: một chiếc nơ nhỏ như vậy mà giả được mọi giọng tức thì, không cần mẫu ghi âm, là chưa có thật. Nhưng khoảng cách đang hẹp dần."
       },
       "image_prompt": "a tiny collar-mounted voice gadget next to a large computer server rack, humorous size comparison, parchment illustration"
     },
     {
-      "id": "s32",
+      "id": "s31",
       "narration": {
         "vi": "Điểm độ thật của chiếc nơ: bảy trên mười. Món đồ gần hiện thực nhất trong phòng thí nghiệm."
       },
@@ -268,7 +261,7 @@
       "on_screen_text": "Độ thật: 7/10"
     },
     {
-      "id": "s33",
+      "id": "s32",
       "narration": {
         "vi": "Chiếc đồng hồ đeo tay có nắp bật lên, ngắm qua một ô kính nhỏ, và bắn ra một cây kim tẩm thuốc mê. Người trúng kim ngủ ngay lập tức, thường là ông Mori tội nghiệp."
       },
@@ -277,14 +270,14 @@
       "on_screen_text": "Đồng hồ bắn kim"
     },
     {
-      "id": "s34",
+      "id": "s33",
       "narration": {
         "vi": "Thời gian thuốc tác dụng phụ thuộc vào vị trí trúng kim, cân nặng, và loại thuốc. Không có công thức nào vừa nhanh tức thì vừa an toàn cho mọi người."
       },
       "image_prompt": "a veterinarian's clipboard with a weight chart and a clock sketched on it, close-up, clean light"
     },
     {
-      "id": "s35",
+      "id": "s34",
       "narration": {
         "vi": "Khoa học thật: súng bắn phi tiêu gây mê có thật, dùng để bắt động vật hoang dã. Nhưng thuốc mê không bao giờ tác dụng ngay. Con vật thường mất vài phút mới ngủ, và liều phải tính theo cân nặng."
       },
@@ -292,7 +285,7 @@
       "on_screen_text": "Thuốc mê cần vài phút"
     },
     {
-      "id": "s36",
+      "id": "s35",
       "narration": {
         "vi": "Và gây mê là việc cực kỳ nguy hiểm. Sai liều có thể làm người ta ngừng thở. Trong bệnh viện, luôn có bác sĩ gây mê theo dõi từng chỉ số."
       },
@@ -300,7 +293,7 @@
       "on_screen_text": "Gây mê rất nguy hiểm"
     },
     {
-      "id": "s37",
+      "id": "s36",
       "narration": {
         "vi": "Chiếc đồng hồ còn có đèn pin và chỉ mang theo một cây kim mỗi lần. Giới hạn một cây kim là chi tiết khéo của tác giả: Conan phải chọn đúng thời điểm, không thể bắn bừa."
       },
@@ -308,14 +301,14 @@
       "on_screen_text": "Chỉ một cây kim"
     },
     {
-      "id": "s38",
+      "id": "s37",
       "narration": {
         "vi": "Chỗ truyện phóng tay: ngủ ngay lập tức, rồi tỉnh dậy khỏe mạnh vài chục phút sau, lần nào cũng như vậy. Nếu ngoài đời, ông Mori chắc đã phải vào viện rất nhiều lần."
       },
       "image_prompt": "a man slumped comically on a chair with a tiny needle in his neck, a question mark above him, humorous illustration, parchment style"
     },
     {
-      "id": "s39",
+      "id": "s38",
       "narration": {
         "vi": "Kaku nhắc lại: đây không phải hướng dẫn. Đừng bao giờ thử dùng thuốc gây mê với bất kỳ ai."
       },
@@ -323,7 +316,7 @@
       "use_mascot": true
     },
     {
-      "id": "s40",
+      "id": "s39",
       "narration": {
         "vi": "Điểm độ thật của đồng hồ: bốn trên mười. Thiết bị bắn kim có thật, nhưng hiệu ứng tức thì và an toàn là hư cấu."
       },
@@ -331,7 +324,7 @@
       "on_screen_text": "Độ thật: 4/10"
     },
     {
-      "id": "s41",
+      "id": "s40",
       "narration": {
         "vi": "Đôi giày tăng lực có núm vặn bên hông. Khi bật, nó kích thích chân để Conan đá với lực của một vận động viên, thậm chí làm vỡ kính, hạ gục kẻ xấu từ xa."
       },
@@ -340,7 +333,7 @@
       "on_screen_text": "Giày tăng lực"
     },
     {
-      "id": "s42",
+      "id": "s41",
       "narration": {
         "vi": "Trong truyện, giày hoạt động bằng cách kích thích huyệt đạo và dùng điện, từ trường. Khoa học thật có một thứ gần giống: kích thích cơ bằng xung điện, dùng trong vật lý trị liệu và tập luyện."
       },
@@ -348,21 +341,21 @@
       "on_screen_text": "Kích thích cơ bằng điện: có thật"
     },
     {
-      "id": "s43",
+      "id": "s42",
       "narration": {
         "vi": "Nhưng xung điện chỉ làm cơ co lại, không biến cơ của một cậu bé bảy tuổi thành cơ của vận động viên. Và cú đá quá mạnh sẽ làm chính chân người đá bị thương trước."
       },
       "image_prompt": "a diagram comparing a small child's leg bone and a strong adult's leg bone with force arrows, parchment style, amber ink"
     },
     {
-      "id": "s44",
+      "id": "s43",
       "narration": {
         "vi": "Shinichi vốn là cầu thủ bóng đá giỏi hồi cấp hai, nên đá bóng là kỹ năng sẵn có. Tiến sĩ Agasa chỉ chế thiết bị để phóng đại kỹ năng ấy."
       },
       "image_prompt": "a teenage boy practicing soccer kicks alone on a school field at sunset, the ball curving into the goal, wide shot, warm light"
     },
     {
-      "id": "s45",
+      "id": "s44",
       "narration": {
         "vi": "Kết hợp với thắt lưng bắn bóng, Conan có cả một hệ thống vũ khí dựa trên bóng đá. Kaku nghĩ tác giả chắc là người rất mê bóng đá."
       },
@@ -370,7 +363,7 @@
       "on_screen_text": "Thắt lưng bắn bóng"
     },
     {
-      "id": "s46",
+      "id": "s45",
       "narration": {
         "vi": "Điểm độ thật của đôi giày: hai trên mười. Có khái niệm thật, nhưng hiệu quả là hư cấu hoàn toàn."
       },
@@ -378,7 +371,7 @@
       "on_screen_text": "Độ thật: 2/10"
     },
     {
-      "id": "s47",
+      "id": "s46",
       "narration": {
         "vi": "Kính còn có chức năng phóng to như ống nhòm, và về sau được nâng cấp thêm nhiều thứ. Nó giống một chiếc điện thoại thông minh đeo trên mặt, từ trước khi điện thoại thông minh ra đời."
       },
@@ -386,7 +379,7 @@
       "chapter": "Món 5: kính truy tìm"
     },
     {
-      "id": "s48",
+      "id": "s47",
       "narration": {
         "vi": "Cặp kính của Conan có ăng-ten ẩn, màn hình radar hiện ngay trên mắt kính, và có thể dò tìm một thiết bị định vị cách xa hàng chục cây số, kèm chức năng nghe lén."
       },
@@ -394,7 +387,7 @@
       "on_screen_text": "Kính truy tìm"
     },
     {
-      "id": "s49",
+      "id": "s48",
       "narration": {
         "vi": "Khoa học thật: thiết bị định vị nhỏ gọn đã rất phổ biến, từ thẻ định vị chìa khóa tới vòng đeo cổ thú cưng. Và kính thông minh có màn hình hiển thị cũng đã được bán ngoài thị trường."
       },
@@ -402,28 +395,28 @@
       "on_screen_text": "Định vị và kính thông minh: có thật"
     },
     {
-      "id": "s50",
+      "id": "s49",
       "narration": {
         "vi": "Kaku ghi chú: năm 1994, khi truyện ra đời, những thứ này là khoa học viễn tưởng. Ba mươi năm sau, nhiều thứ đã thành đồ dùng hằng ngày. Truyện trinh thám đôi khi đoán trước tương lai."
       },
       "image_prompt": "a split image of a 1990s bulky mobile phone and a modern slim smartphone, symmetrical composition, soft light"
     },
     {
-      "id": "s51",
+      "id": "s50",
       "narration": {
         "vi": "Chỗ truyện phóng tay: kính nhỏ vậy mà có ăng-ten mạnh, pin dùng mãi không hết, và bắt sóng qua cả tòa nhà. Nhưng ý tưởng thì rất gần hiện thực."
       },
       "image_prompt": "a tiny battery icon next to a big question mark on a parchment note, humorous close-up"
     },
     {
-      "id": "s52",
+      "id": "s51",
       "narration": {
         "vi": "Kaku phải nói thêm: định vị và nghe lén người khác mà không được phép là vi phạm quyền riêng tư. Trong truyện Conan dùng để phá án, ngoài đời thì không nên."
       },
       "image_prompt": "a small privacy lock icon glowing over a map with a tracking dot, clean illustration, cool light"
     },
     {
-      "id": "s53",
+      "id": "s52",
       "narration": {
         "vi": "Điểm độ thật của cặp kính: tám trên mười. Món đồ gần hiện thực nhất sau chiếc nơ, thậm chí có mặt còn vượt qua."
       },
@@ -431,7 +424,7 @@
       "on_screen_text": "Độ thật: 8/10"
     },
     {
-      "id": "s54",
+      "id": "s53",
       "narration": {
         "vi": "Ván trượt thường xuất hiện ở những cảnh rượt đuổi hay nhất, khi Conan phải đuổi theo xe hơi của hung thủ. Đó là món đồ cho những pha hành động của một thám tử không biết lái xe."
       },
@@ -439,7 +432,7 @@
       "chapter": "Món 6: ván trượt năng lượng mặt trời"
     },
     {
-      "id": "s55",
+      "id": "s54",
       "narration": {
         "vi": "Chiếc ván trượt của Conan chạy bằng năng lượng mặt trời, tăng tốc đuổi kịp cả ô tô trên đường cao tốc."
       },
@@ -449,14 +442,14 @@
       "clip_seconds": 5
     },
     {
-      "id": "s56",
+      "id": "s55",
       "narration": {
         "vi": "Kaku làm một phép tính nhanh: tấm pin mặt trời bằng cỡ mặt ván chỉ cho công suất nhỏ, đủ sạc chậm cho một chiếc điện thoại, chứ không đủ đẩy một người đi với tốc độ ô tô."
       },
       "image_prompt": "a small solar panel connected to a phone charging slowly, a racing car drawn beside it with a crossed-out arrow, parchment diagram, amber ink"
     },
     {
-      "id": "s57",
+      "id": "s56",
       "narration": {
         "vi": "Khoa học thật: ván trượt điện đã có thật và khá phổ biến. Tấm pin mặt trời cũng có thật. Nhưng tấm pin nhỏ trên mặt ván không thể cung cấp đủ năng lượng để chạy nhanh như ô tô."
       },
@@ -464,14 +457,14 @@
       "on_screen_text": "Ván điện: có thật"
     },
     {
-      "id": "s58",
+      "id": "s57",
       "narration": {
         "vi": "Chạy nhanh như vậy mà không có mũ bảo hiểm thì cực kỳ nguy hiểm. Kaku nhắc: đi ván điện ngoài đời phải có đồ bảo hộ và đúng nơi cho phép."
       },
       "image_prompt": "a helmet, knee pads and elbow pads neatly arranged next to a skateboard, close-up, clean light"
     },
     {
-      "id": "s59",
+      "id": "s58",
       "narration": {
         "vi": "Điểm độ thật của ván trượt: năm trên mười."
       },
@@ -479,7 +472,7 @@
       "on_screen_text": "Độ thật: 5/10"
     },
     {
-      "id": "s60",
+      "id": "s59",
       "narration": {
         "vi": "Đội thám tử nhí, những người bạn cùng lớp của Conan, mỗi người có một chiếc huy hiệu. Nó vừa là bộ đàm để nói chuyện, vừa có thiết bị định vị để tìm nhau."
       },
@@ -488,7 +481,7 @@
       "on_screen_text": "Huy hiệu = bộ đàm + định vị"
     },
     {
-      "id": "s61",
+      "id": "s60",
       "narration": {
         "vi": "Khoa học thật: bộ đàm và thiết bị định vị cho trẻ em đã có thật, như đồng hồ định vị mà nhiều phụ huynh mua cho con."
       },
@@ -496,14 +489,14 @@
       "on_screen_text": "Có thật"
     },
     {
-      "id": "s62",
+      "id": "s61",
       "narration": {
         "vi": "Chỗ truyện phóng tay rất ít: chủ yếu là kích thước nhỏ gọn và pin lâu. Nhiều vụ án được cứu chỉ nhờ một đứa trẻ bấm nút huy hiệu đúng lúc."
       },
       "image_prompt": "a small hand pressing a badge button in a dark storage room, a faint signal wave emanating from it, close-up, dramatic light"
     },
     {
-      "id": "s63",
+      "id": "s62",
       "narration": {
         "vi": "Điểm độ thật của huy hiệu: chín trên mười. Món đồ thật nhất trong cả video."
       },
@@ -511,7 +504,7 @@
       "on_screen_text": "Độ thật: 9/10"
     },
     {
-      "id": "s64",
+      "id": "s63",
       "narration": {
         "vi": "Nhưng đừng quên còn một món nữa, không nằm trong phòng thí nghiệm: những chiếc huy hiệu của Đội thám tử nhí."
       },
@@ -519,7 +512,7 @@
       "chapter": "Bảng điểm độ thật"
     },
     {
-      "id": "s65",
+      "id": "s64",
       "narration": {
         "vi": "Kaku gom lại bảng điểm. Cao nhất là huy hiệu thám tử, chín điểm, rồi cặp kính truy tìm, tám điểm, và chiếc nơ đổi giọng, bảy điểm. Ba món này ngày nay gần như đã có thật."
       },
@@ -527,7 +520,7 @@
       "on_screen_text": "Huy hiệu 9 · Kính 8 · Nơ 7"
     },
     {
-      "id": "s66",
+      "id": "s65",
       "narration": {
         "vi": "Ở giữa là ván trượt, năm điểm, và đồng hồ gây mê, bốn điểm. Cuối bảng là viên thuốc, ba điểm, và đôi giày tăng lực, hai điểm."
       },
@@ -535,14 +528,14 @@
       "on_screen_text": "Ván 5 · Đồng hồ 4 · Thuốc 3 · Giày 2"
     },
     {
-      "id": "s67",
+      "id": "s66",
       "narration": {
         "vi": "Kaku để ý thêm: những món đồ gần hiện thực nhất đều là thứ giúp giao tiếp và tìm kiếm. Conan thật ra là một bộ truyện về thông tin, và ai có thông tin đúng lúc thì thắng."
       },
       "image_prompt": "a web of communication lines connecting small icons of people, a magnifying glass at the center, parchment illustration, amber ink"
     },
     {
-      "id": "s68",
+      "id": "s67",
       "narration": {
         "vi": "Có một quy luật thú vị: những món đồ về thông tin, như giọng nói và định vị, thì gần hiện thực nhất. Những món đồ thay đổi cơ thể người thì xa hiện thực nhất."
       },
@@ -550,7 +543,7 @@
       "on_screen_text": "Thông tin: gần thật · Cơ thể: xa thật"
     },
     {
-      "id": "s69",
+      "id": "s68",
       "narration": {
         "vi": "Kaku nghĩ điều này phản ánh đúng khoa học ngoài đời: máy móc và điện tử tiến rất nhanh, còn cơ thể người thì phức tạp hơn nhiều so với những gì truyện tranh muốn."
       },
@@ -558,7 +551,7 @@
       "use_mascot": true
     },
     {
-      "id": "s70",
+      "id": "s69",
       "narration": {
         "vi": "Nhưng Kaku muốn nói thêm một điều. Trong Conan, tất cả những món đồ này không bao giờ là thứ giải quyết vụ án. Chúng chỉ giúp Conan nói ra được suy luận của mình."
       },
@@ -567,14 +560,14 @@
       "on_screen_text": "Đồ vật chỉ là công cụ"
     },
     {
-      "id": "s71",
+      "id": "s70",
       "narration": {
         "vi": "Rất nhiều vụ án trong Conan xoay quanh những kiến thức có thật: tính chất hóa học, thời gian đông cứng của vật liệu, đặc điểm của ánh sáng, thậm chí thói quen tâm lý của con người."
       },
       "image_prompt": "a notebook page with small sketches of a chemistry flask, an ice cube melting, a beam of light and a thinking face, parchment style, amber ink"
     },
     {
-      "id": "s72",
+      "id": "s71",
       "narration": {
         "vi": "Kaku có một bài tập nhỏ: hôm nay, hãy thử quan sát một người quen thật kỹ, rồi đoán xem họ vừa làm gì trước khi gặp bạn. Không cần đồ nghề, chỉ cần để ý."
       },
@@ -582,7 +575,7 @@
       "on_screen_text": "Bài tập quan sát"
     },
     {
-      "id": "s73",
+      "id": "s72",
       "narration": {
         "vi": "Thứ phá án luôn là quan sát, logic, và kiến thức. Và kiến thức trong Conan, từ hóa học, vật lý tới tâm lý, phần lớn là có thật."
       },
@@ -590,7 +583,7 @@
       "on_screen_text": "Phá án bằng kiến thức thật"
     },
     {
-      "id": "s74",
+      "id": "s73",
       "narration": {
         "vi": "Kaku rất muốn biết: vụ án nào trong Conan khiến bạn nhớ nhất vì một chi tiết khoa học bất ngờ? Kể cho Kaku nghe trong phần bình luận nhé."
       },
@@ -598,14 +591,14 @@
       "use_mascot": true
     },
     {
-      "id": "s75",
+      "id": "s74",
       "narration": {
         "vi": "Kaku nghĩ đó là lý do Conan sống được hơn ba mươi năm và vẫn được yêu thích: truyện dạy người xem cách quan sát và suy luận, những thứ không cần phát minh nào cả."
       },
       "image_prompt": "a child looking carefully through a magnifying glass at a small leaf in a garden, close-up, bright natural light"
     },
     {
-      "id": "s76",
+      "id": "s75",
       "narration": {
         "vi": "Nếu được chọn một món đồ của tiến sĩ Agasa để mang về nhà, bạn chọn món nào, và để làm gì? Kaku đoán nhiều bạn sẽ chọn chiếc nơ để… giả giọng xin nghỉ học. Đừng nhé."
       },
@@ -613,7 +606,7 @@
       "on_screen_text": "Bạn chọn món nào?"
     },
     {
-      "id": "s77",
+      "id": "s76",
       "narration": {
         "vi": "Và nếu một ngày ai đó nói với bạn họ đã chế ra thuốc trẻ hóa, hãy nhớ bảng điểm của Kaku: những gì thay đổi cơ thể người luôn là thứ khó tin nhất."
       },
@@ -621,7 +614,7 @@
       "chapter": "Kết"
     },
     {
-      "id": "s78",
+      "id": "s77",
       "narration": {
         "vi": "Thuốc teo nhỏ thì còn là giấc mơ của tiểu thuyết. Nhưng nơ đổi giọng và kính định vị thì đã ở trong túi chúng ta. Có lẽ tiến sĩ Agasa đi trước thời đại chỉ vài chục năm."
       },
@@ -630,7 +623,7 @@
       "clip_seconds": 5
     },
     {
-      "id": "s79",
+      "id": "s78",
       "narration": {
         "vi": "Video tiếp theo, Kaku quay lại Jujutsu Kaisen với một trò chơi sinh tử: Tử Diệt Hồi Du. Luật chơi là gì, và làm sao để phá nó?"
       },
@@ -638,7 +631,7 @@
       "on_screen_text": "Tiếp theo: luật Tử Diệt Hồi Du"
     },
     {
-      "id": "s80",
+      "id": "s79",
       "narration": {
         "vi": "Nếu bạn thích kiểu video tách bạch thật và hư cấu, hãy đăng ký kênh để Kaku mở thêm nhiều phòng thí nghiệm nữa. Kaku gấp sổ đây, hẹn gặp lại!"
       },

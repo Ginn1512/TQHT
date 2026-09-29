@@ -1,0 +1,643 @@
+{
+  "title": "The One Piece: Những chi tiết cài cắm trong 50 chương đầu",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói về năm mươi chương đầu One Piece, và những chỗ các chi tiết đó được trả lời về sau, có cái tận arc Wano và Egghead. Nếu bạn định xem bản làm lại mà không muốn biết trước, hãy lưu video lại."
+      },
+      "image_prompt": "an old leather-bound logbook lying open on a ship's deck with a spoiler warning card tucked between the pages, close-up, warm dawn light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler: tới Wano, Egghead"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Câu trả lời đã có từ tập đầu tiên. Đó là cảm giác của rất nhiều người khi đọc lại One Piece sau hai mươi năm."
+      },
+      "image_prompt": "a first page of a manga chapter sketched on paper with a tiny glowing mark hidden in the corner, extreme close-up, warm light",
+      "on_screen_text": "Câu trả lời có từ tập đầu"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Đầu năm 2027, Netflix ra mắt The One Piece, bản anime làm lại từ đầu do studio WIT thực hiện, bắt đầu từ biển Đông. Hàng triệu người sẽ xem lại năm mươi chương đầu."
+      },
+      "image_prompt": "a small ship setting sail from a peaceful harbor at sunrise, gulls circling above, wide shot, fresh morning light"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Và năm mươi chương đầu đó chứa những chi tiết mà Oda đã cài từ năm 1997, và phải mất mười, hai mươi, thậm chí hai mươi lăm năm mới được trả lời."
+      },
+      "image_prompt": "a seed planted in the soil beside a tall old tree whose roots reach toward it, symbolic close-up, warm light",
+      "on_screen_text": "Cài từ 1997"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku đặt hai khung cạnh nhau cho mỗi chi tiết: lần đầu xuất hiện, và ý nghĩa về sau. Cuối video là chi tiết cài cắm Kaku thấy hay nhất."
+      },
+      "image_prompt": "the owl mascot holding two picture frames side by side, one empty and one with a question mark",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Năm mươi chương đầu gồm: chương một ở làng Foosha, gặp Zoro ở căn cứ Hải quân, băng Buggy, làng Syrup với Usopp, và bắt đầu nhà hàng trên biển Baratie."
+      },
+      "image_prompt": "a hand-drawn map of a calm sea with a dotted route connecting five small islands, parchment close-up, amber ink",
+      "on_screen_text": "Chương 1–50"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Trang đầu tiên của One Piece mở bằng một cuộc hành quyết. Vua Hải Tặc bị xử tử, và trước khi chết, ông nói với đám đông rằng kho báu của ông đang chờ ai đó tới tìm."
+      },
+      "image_prompt": "a wooden execution platform in a crowded town square under a bright sky, a tall figure standing calmly at its center, wide shot, dramatic light",
+      "chapter": "Chi tiết 1: tên của Vua Hải Tặc",
+      "on_screen_text": "Lần đầu: cuộc hành quyết"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Ở những bản dịch và phiên bản đầu, ông được gọi là Gold Roger. Nghe như một cái tên bình thường, liên quan tới vàng."
+      },
+      "image_prompt": "a wanted poster nailed to a wooden post with a name printed in bold letters, the ink slightly faded, close-up, warm light"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Về sau truyện tiết lộ: tên thật của ông là Gol D. Roger. Chữ D bị Chính phủ Thế giới cố tình giấu đi, vì những người mang chữ D liên quan tới một bí mật mà Chính phủ muốn chôn vùi."
+      },
+      "image_prompt": "a government document with one letter carefully blacked out in a name, extreme close-up, cold official light",
+      "on_screen_text": "Về sau: Gol D. Roger"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Và Luffy, nhân vật chính, tên đầy đủ là Monkey D. Luffy. Chữ D đã nằm trong tên cậu ngay từ chương một, chỉ là ta chưa biết nó có nghĩa gì."
+      },
+      "image_prompt": "a name written on a small ship's registry card with the middle initial circled in pencil, close-up, warm lamplight"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Và câu nói cuối cùng của Roger trên đoạn đầu đài đã mở ra cả Kỷ nguyên Hải tặc. Hàng nghìn người ra khơi chỉ vì một câu nói. Chính Chính phủ đã tự tạo ra cơn sóng mà họ muốn dập tắt."
+      },
+      "image_prompt": "hundreds of small ships setting sail at once from a crowded harbor toward the open sea, wide shot, bright adventurous light",
+      "on_screen_text": "Mở ra Kỷ nguyên Hải tặc"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Kaku để ý: một chữ cái nhỏ, cài từ trang đầu, tới giờ vẫn là một trong những bí ẩn lớn nhất của truyện. Ý chí của chữ D là gì, Oda vẫn chưa nói hết."
+      },
+      "image_prompt": "the owl mascot peering through a magnifying glass at a single letter printed on a page",
+      "use_mascot": true
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Chương một: Shanks, thuyền trưởng tóc đỏ, đặt chiếc mũ rơm lên đầu cậu bé Luffy, và dặn cậu trả lại khi đã trở thành một hải tặc vĩ đại."
+      },
+      "image_prompt": "an old wide-brimmed hat being placed on a small child's head at a harbor dock at sunset, close-up of hands and hat, warm nostalgic light",
+      "chapter": "Chi tiết 2: chiếc mũ và cánh tay",
+      "on_screen_text": "Lần đầu: lời hẹn chiếc mũ"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Cùng chương đó, Shanks mất một cánh tay khi cứu Luffy khỏi một con quái vật biển. Ông nói, đại ý, rằng ông đã đặt cược cánh tay vào thời đại mới."
+      },
+      "image_prompt": "a sea monster's shadow rising beneath a small rowboat on dark water, a figure leaning over the side to shield a child, wide shot, dramatic light",
+      "on_screen_text": "Cánh tay đặt cược cho thời đại mới",
+      "video_prompt": "the sea monster's shadow surges upward beneath the rowboat as waves splash",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Về sau ta biết chiếc mũ vốn thuộc về Roger. Shanks từng là cậu bé tập sự trên tàu Roger, được trao chiếc mũ, rồi trao lại cho Luffy."
+      },
+      "image_prompt": "three hands of different ages passing an old wide-brimmed hat along a line, symbolic close-up, warm golden light",
+      "on_screen_text": "Về sau: mũ của Roger"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Nghĩa là ngay từ chương một, Shanks đã nhìn thấy ở Luffy thứ gì đó giống Roger. Cánh tay và chiếc mũ không phải là quà cho một đứa trẻ, mà là một khoản đầu tư cho tương lai."
+      },
+      "image_prompt": "an old captain's portrait on a cabin wall beside a small child's drawing of a ship, close-up, warm nostalgic light"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Và lời hẹn trả mũ vẫn chưa được thực hiện. Luffy và Shanks chưa gặp lại nhau kể từ chương một. Hơn một nghìn chương, và người đọc vẫn chờ khoảnh khắc đó."
+      },
+      "image_prompt": "an old wide-brimmed hat hanging on a hook beside an empty chair in a ship's cabin, close-up, quiet waiting light",
+      "on_screen_text": "Lời hẹn chưa thực hiện"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kaku rất thích chữ thời đại mới. Nó được nói ở chương một, và cả truyện về sau chính là thời đại mới đó thành hình."
+      },
+      "image_prompt": "a sunrise breaking over a vast ocean horizon with a tiny ship sailing toward it, wide shot, radiant light"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Cũng ở chương một, Shanks có ba vết sẹo trên mắt trái. Không ai giải thích. Người đọc năm 1997 chỉ nghĩ đó là một chi tiết tạo dáng ngầu cho nhân vật."
+      },
+      "image_prompt": "three parallel scratch marks carved into an old wooden mast, extreme close-up, warm sunlight",
+      "chapter": "Chi tiết 3: vết sẹo trên mắt Shanks",
+      "on_screen_text": "Lần đầu: ba vết sẹo"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Phải tới chương 434, gần mười năm sau, Shanks mới nói ra: vết sẹo đó do Râu Đen, Marshall D. Teach, gây ra."
+      },
+      "image_prompt": "a dark silhouette laughing on a stormy cliff with jagged lightning behind it, dramatic low-angle shot, ominous light",
+      "on_screen_text": "Về sau: do Râu Đen gây ra"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Một người đã khiến Shanks, một trong những hải tặc mạnh nhất thế giới, bị thương. Chỉ một chi tiết nhỏ ở chương một đã báo trước sự nguy hiểm của phản diện lớn nhất truyện."
+      },
+      "image_prompt": "a chess board with a single black piece lurking at the far edge while the other pieces face the opposite direction, close-up, dramatic light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Kaku để ý: Râu Đen là người mang chữ D. Shanks thì không. Hai chi tiết nhỏ từ hai thời điểm khác nhau, nhưng đặt cạnh nhau lại gợi ra rất nhiều câu hỏi."
+      },
+      "image_prompt": "two name cards side by side on a table, one with a circled middle initial and one without, close-up, dim mysterious light"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Và hai người đó, Shanks và Râu Đen, cho tới giờ vẫn là hai thế lực mà người đọc chờ đợi được thấy đối mặt nhau một lần nữa."
+      },
+      "image_prompt": "two ships approaching each other from opposite horizons under a heavy sky, wide shot, tense grey light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Chương một: trong một bữa tiệc, Luffy vô tình ăn trái ác quỷ mà băng Shanks mang về. Cậu trở thành người cao su. Shanks nổi giận, nhưng đã quá muộn."
+      },
+      "image_prompt": "a strange swirling fruit resting inside an open wooden treasure chest on a tavern table, close-up, warm festive light",
+      "chapter": "Chi tiết 4: trái ác quỷ trong rương",
+      "on_screen_text": "Lần đầu: trái ác quỷ trong rương"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Suốt hơn một nghìn chương, trái đó được gọi là trái cao su, một trái Paramecia bình thường."
+      },
+      "image_prompt": "a small label tied to a fruit with a simple word written on it, extreme close-up, soft light"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Chương 1044 tiết lộ: tên thật là Hito Hito no Mi, mô hình Nika, một trái Zoan thần thoại mà Chính phủ Thế giới đã săn lùng suốt tám trăm năm."
+      },
+      "image_prompt": "an ancient mural of a laughing sun god painted on weathered stone, close-up, radiant warm light",
+      "on_screen_text": "Về sau: trái của thần Nika",
+      "video_prompt": "the painted sun god on the mural seems to glow brighter as dust drifts in the light",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Và chương 1054 cho thấy: băng Shanks đã cướp trái này từ một con tàu của Chính phủ. Nghĩa là trái ác quỷ trong rương ở chương một không phải là tình cờ."
+      },
+      "image_prompt": "a government transport ship on open sea with smoke rising from its deck and a small pirate ship sailing away, wide shot, dramatic light",
+      "on_screen_text": "Shanks cướp từ tàu Chính phủ"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Câu hỏi còn lại mà fan vẫn tranh luận: Shanks có biết trái đó là gì khi để nó trong rương không? Truyện chưa nói rõ. Đây là vùng lý thuyết."
+      },
+      "image_prompt": "a closed treasure chest with a small question mark tag hanging from its lock, close-up, mysterious warm light",
+      "on_screen_text": "Lý thuyết: Shanks có biết?"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Kaku thấy đây là cú lật tuyệt vời. Một trái cây nằm trong rương ở trang mười mấy của chương một, hóa ra là thứ mà cả thế giới săn đuổi."
+      },
+      "image_prompt": "the owl mascot staring at a small fruit on a plate with wide shocked eyes and its beak open",
+      "use_mascot": true
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Chương một, trong băng Shanks có một người bắn súng tên Yasopp. Anh chỉ xuất hiện vài khung hình, khoe về đứa con trai ở quê nhà."
+      },
+      "image_prompt": "a sharpshooter's rifle leaning against a barrel on a tavern floor beside a mug, close-up, warm festive light",
+      "chapter": "Chi tiết 5: người bắn súng trên tàu Shanks",
+      "on_screen_text": "Lần đầu: Yasopp"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Khoảng hai mươi chương sau, ở làng Syrup, Luffy gặp Usopp, một cậu bé hay nói dối, có tài bắn ná. Và Usopp chính là con trai của Yasopp."
+      },
+      "image_prompt": "a slingshot and a small pouch of pebbles resting on a wooden fence overlooking a quiet village, close-up, warm afternoon light",
+      "on_screen_text": "Về sau: cha của Usopp"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Luffy nhận ra ngay, và kể cho Usopp nghe về người cha đang ở trên biển. Đó là lần đầu một chi tiết cài cắm được trả lời ngay trong năm mươi chương đầu."
+      },
+      "image_prompt": "two young figures sitting on a hilltop overlooking the sea at sunset, one gesturing excitedly toward the horizon, wide shot, warm light"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Trong phim One Piece Film: Red, Usopp lần đầu cảm nhận được sự hiện diện của cha mình qua Haki quan sát. Một cuộc gặp không lời, sau hơn hai mươi năm cài cắm."
+      },
+      "image_prompt": "two distant figures on separate ships sensing each other across a wide sea, faint glowing lines between them, wide shot, soft blue light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Và mối liên hệ đó chưa dừng lại. Hai cha con, một người trên tàu Shanks, một người trên tàu Luffy, là một sợi dây nối hai thế hệ hải tặc."
+      },
+      "image_prompt": "two ships on the horizon connected by a faint glowing thread across the water, symbolic wide shot, soft dusk light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Chương hai: Luffy gặp Coby, một cậu bé nhút nhát làm việc vặt cho một nữ hải tặc. Coby mơ trở thành Hải quân."
+      },
+      "image_prompt": "a timid boy carrying a heavy mop and bucket across a ship's deck, medium shot, harsh daylight",
+      "chapter": "Chi tiết 6: cậu bé muốn làm Hải quân",
+      "on_screen_text": "Lần đầu: Coby"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Luffy khuyến khích Coby theo đuổi giấc mơ. Coby rời đi, gia nhập Hải quân, trở thành người đầu tiên được Luffy truyền cảm hứng."
+      },
+      "image_prompt": "a boy saluting at the gate of a naval base with the sea sparkling behind him, wide shot, bright hopeful light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Hơn một nghìn chương sau, Coby trở thành một anh hùng của Hải quân, nổi tiếng khắp thế giới. Cậu bé nhút nhát ở chương hai đã thật sự làm được."
+      },
+      "image_prompt": "a young naval officer standing confidently on a dock while a crowd cheers in the background, wide shot, bright light",
+      "on_screen_text": "Về sau: anh hùng Hải quân"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Và cùng thời điểm đó còn có Helmeppo, cậu con trai hống hách của một viên chỉ huy Hải quân. Về sau cậu cũng thay đổi, trở thành người đồng hành trung thành của Coby. Oda không bỏ quên cả những nhân vật tưởng như chỉ để làm nền."
+      },
+      "image_prompt": "two young naval recruits scrubbing a deck side by side, one grumbling and one smiling, humorous medium shot, bright light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kaku thấy Coby là chi tiết cài cắm dễ thương nhất. Nó nói rằng tầm ảnh hưởng của Luffy không chỉ nằm ở những người đi cùng cậu, mà cả ở những người đứng phía bên kia."
+      },
+      "image_prompt": "two paths diverging on a map, one toward a pirate flag and one toward a naval flag, both starting from the same small dot, parchment close-up"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Chương tám tới hai mươi mốt: băng hải tặc Buggy, một gã hề nổ tung được thành nhiều mảnh. Nhìn thì như một phản diện hài, đánh xong là quên."
+      },
+      "image_prompt": "a circus tent pitched on a small island with colorful flags and a cannon pointing out of it, wide shot, bright playful light",
+      "chapter": "Chi tiết 7: gã hề và người bạn cũ",
+      "on_screen_text": "Lần đầu: Buggy"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Nhưng trong arc này, Buggy nhắc tới Shanks như một người quen cũ. Hai người từng là cậu bé tập sự trên cùng một con tàu: tàu của Roger."
+      },
+      "image_prompt": "two small boys sweeping the deck of a large ship side by side, sepia flashback style, soft light",
+      "on_screen_text": "Buggy và Shanks cùng tàu Roger"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Về sau, Buggy trốn thoát từ nhà tù, lập một tổ chức mới, và ở chương 1058 trở thành một trong Tứ Hoàng. Gã hề của chương tám đứng ngang hàng với Shanks."
+      },
+      "image_prompt": "a clownish silhouette sitting nervously on a giant throne with a huge bounty poster behind him, humorous wide shot, dramatic light",
+      "on_screen_text": "Về sau: Buggy thành Tứ Hoàng"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Và điều buồn cười là Buggy được lên Tứ Hoàng một phần nhờ danh tiếng được thổi phồng: người ta tin gã là bạn cũ, đối thủ ngang hàng của Shanks. Một chi tiết từ chương tám quay lại theo cách không ai ngờ."
+      },
+      "image_prompt": "a newspaper with a large headline and a clown silhouette on the front page, crumpled slightly, close-up, humorous warm light"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku thích nhất ở Buggy: không ai tin gã sẽ đi xa như vậy, kể cả chính gã. Một nhân vật phụ được cài từ chương tám, và được Oda giữ lại suốt hai mươi năm."
+      },
+      "image_prompt": "a small toy clown figurine placed on a shelf among much larger statues of warriors, close-up, humorous warm light"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Chương năm: hồi ức của Zoro về Kuina, người bạn thời nhỏ. Hai đứa hứa với nhau rằng một trong hai sẽ trở thành kiếm sĩ mạnh nhất thế giới."
+      },
+      "image_prompt": "two small wooden practice swords crossed on the floor of a quiet dojo at dusk, close-up, warm nostalgic light",
+      "chapter": "Chi tiết 8: lời hứa của kiếm sĩ",
+      "on_screen_text": "Lần đầu: lời hứa với Kuina"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Kuina mất sớm. Zoro mang theo thanh kiếm của cô, và lời hứa trở thành mục tiêu cả đời."
+      },
+      "image_prompt": "a single white-handled sword resting on a small memorial shelf with a candle beside it, close-up, soft somber light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Chương bốn mươi chín tới năm mươi hai: Zoro gặp Mihawk, kiếm sĩ mạnh nhất thế giới, và thua một cách tuyệt đối. Zoro quay người lại, không để vết chém rơi vào lưng, và thề sẽ không bao giờ thua nữa."
+      },
+      "image_prompt": "a swordsman standing tall on a floating wreck facing a lone figure in a small boat, the sea glowing at sunset, wide shot, dramatic light",
+      "on_screen_text": "Mihawk xuất hiện",
+      "video_prompt": "the sunset light shifts across the sea as the two figures face each other in silence",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Về sau, sau hai năm cách biệt, chính Mihawk lại là người huấn luyện Zoro. Kẻ đánh bại cậu ở chương năm mươi trở thành người thầy."
+      },
+      "image_prompt": "a quiet castle courtyard on a misty island with two sword silhouettes sparring, wide shot, soft grey light",
+      "on_screen_text": "Về sau: Mihawk dạy Zoro"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Và Mihawk, lúc xuất hiện, là một thành viên Thất Vũ Hải. Hệ thống đó được giới thiệu ngay trong năm mươi chương đầu, và bị bãi bỏ ở chương 956."
+      },
+      "image_prompt": "seven small official seals lined up on a desk with one seal highlighted, close-up, cold official light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kaku để ý: cảnh Zoro thua Mihawk là lần đầu tiên One Piece cho thấy biển cả rộng tới mức nào. Năm mươi chương đầu, và thế giới đã mở ra một cánh cửa rất lớn."
+      },
+      "image_prompt": "the owl mascot looking up at a vast horizon from the edge of a tiny island with awe",
+      "use_mascot": true
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Chương tám: Nami xuất hiện, một cô trộm chuyên ăn cắp của hải tặc. Cô nói rõ rằng mình ghét hải tặc, và chỉ đi cùng Luffy vì lợi ích."
+      },
+      "image_prompt": "a small bag of stolen coins and a folded sea chart hidden inside a cloak pocket, close-up, sly warm light",
+      "chapter": "Chi tiết thêm: cô trộm ghét hải tặc",
+      "on_screen_text": "Lần đầu: Nami ghét hải tặc"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Trong năm mươi chương đầu, Nami có vài khoảnh khắc lạ: buồn bã khi nhìn biển, nói về một khoản tiền cần gom đủ. Người đọc khi đó chưa hiểu."
+      },
+      "image_prompt": "a young woman sitting alone on a ship's railing at night looking at the sea with a troubled expression, back view, soft moonlight"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Về sau, ở arc Arlong, ta biết lý do: làng của Nami bị một băng hải tặc người cá cai trị, và cô gom tiền để mua lại tự do cho cả làng. Cô ghét hải tặc vì một vết thương rất thật."
+      },
+      "image_prompt": "a small seaside village with orange trees in the foreground and a menacing fortress on the horizon, wide shot, heavy overcast light",
+      "on_screen_text": "Về sau: vết thương của Nami"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Và giấc mơ vẽ bản đồ toàn thế giới của cô, được nhắc từ rất sớm, cũng có gốc từ chính quá khứ đó."
+      },
+      "image_prompt": "a half-finished hand-drawn world map pinned to a wooden desk with drawing tools around it, close-up, warm lamplight"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Làng Syrup: Usopp nổi tiếng vì mỗi sáng chạy khắp làng hô hải tặc tới rồi. Chẳng ai tin cậu nữa."
+      },
+      "image_prompt": "a boy running down a village road at dawn waving his arms and shouting while villagers roll their eyes, humorous wide shot, warm morning light",
+      "chapter": "Chi tiết thêm: lời nói dối thành sự thật",
+      "on_screen_text": "Hải tặc tới rồi!"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Rồi một ngày, hải tặc tới thật. Và lời nói dối của Usopp, trong một thoáng, trở thành lời cảnh báo mà cả làng không nghe."
+      },
+      "image_prompt": "a dark pirate ship silhouette appearing on a misty horizon beyond a sleepy village, wide shot, ominous dawn light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Kaku thấy đây là mô-típ của Usopp suốt cả truyện: những lời khoác lác của cậu dần trở thành sự thật. Cậu nói mình là chiến binh dũng cảm của biển cả trước khi thật sự trở thành như vậy."
+      },
+      "image_prompt": "a small handwritten boast on a scrap of paper slowly turning into a real medal pinned beside it, symbolic close-up, warm light"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Chương bốn mươi mốt: Kaya, cô tiểu thư ở làng Syrup, tặng cả nhóm con tàu Going Merry, có chiếc đầu cừu dễ thương ở mũi tàu."
+      },
+      "image_prompt": "a small cozy caravel with a sheep-shaped figurehead moored at a quiet village dock, wide shot, warm afternoon light",
+      "chapter": "Chi tiết 9: con tàu Going Merry",
+      "on_screen_text": "Lần đầu: Going Merry"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Ở năm mươi chương đầu, Merry chỉ là một phương tiện di chuyển. Nhưng Oda cho nó rất nhiều khung hình, rất nhiều khoảnh khắc cả nhóm vui đùa trên boong."
+      },
+      "image_prompt": "a lively ship's deck with laundry hanging, a fishing rod leaning on the rail, and a small table set for a meal, wide shot, sunny light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Về sau, ở chương 430, Merry hỏng nặng không thể sửa. Cả nhóm tiễn con tàu bằng một đám tang trên biển, và Merry cất tiếng cảm ơn họ."
+      },
+      "image_prompt": "a small ship burning gently on a calm sea at night, sparks rising into a starry sky, wide shot, bittersweet orange light",
+      "on_screen_text": "Về sau: đám tang của Merry",
+      "video_prompt": "sparks drift up from the gently burning ship into the starry sky",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Nhiều người đọc nói đó là một trong những cảnh khiến họ khóc nhiều nhất. Và nó chỉ có sức nặng vì năm mươi chương đầu đã cho ta sống cùng con tàu."
+      },
+      "image_prompt": "a small wooden sheep figurine resting on a windowsill beside a folded map, close-up, soft melancholy light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Từ chương bốn mươi ba: nhà hàng Baratie trên biển, và đầu bếp Sanji. Cậu kể về All Blue, một vùng biển huyền thoại nơi mọi loài cá trên thế giới cùng sinh sống."
+      },
+      "image_prompt": "a floating restaurant shaped like a large fish anchored on a calm sea, wide shot, warm evening light",
+      "chapter": "Chi tiết 10: giấc mơ của đầu bếp",
+      "on_screen_text": "Lần đầu: All Blue"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Cậu học giấc mơ đó từ Zeff, người chủ nhà hàng, một cựu hải tặc đã mất một chân. Hai người từng suýt chết đói cùng nhau trên một hòn đảo đá."
+      },
+      "image_prompt": "a small rocky island in the middle of an empty sea with a single wooden crutch planted on top, wide shot, harsh bright light",
+      "on_screen_text": "Zeff và Sanji"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "All Blue tới giờ vẫn chưa được tìm thấy. Nó là một trong những lời hứa được cài từ năm mươi chương đầu mà người đọc vẫn đang chờ được trả lời."
+      },
+      "image_prompt": "a sea chart with a single blue circle drawn in the middle of blank ocean, parchment close-up, amber ink",
+      "on_screen_text": "Vẫn đang chờ"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Cảnh Sanji rời Baratie, quỳ xuống cảm ơn Zeff, nằm ngay sau năm mươi chương đầu. Nhưng toàn bộ sức nặng của cảnh đó được xây từ những chương trước, khi hai người cãi nhau mỗi ngày."
+      },
+      "image_prompt": "a young cook kneeling on the deck of a floating restaurant bowing deeply toward an older man with a wooden leg, wide shot, emotional warm light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Và Kaku để ý: ngay từ năm mươi chương đầu, mỗi thành viên đều có một giấc mơ cụ thể: Vua Hải Tặc, kiếm sĩ mạnh nhất, chiến binh dũng cảm của biển cả, bản đồ thế giới, All Blue. Cả truyện là hành trình của những giấc mơ đó."
+      },
+      "image_prompt": "a row of small handwritten dream cards pinned to a ship's mast, close-up, warm golden light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Và giờ, chi tiết cài cắm Kaku thấy hay nhất. Hãy quay lại trang đầu tiên của chương một."
+      },
+      "image_prompt": "the very first page of an old book slowly turning in a beam of light, close-up, warm dust-filled light",
+      "chapter": "Chi tiết cài cắm hay nhất"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Roger, trên đoạn đầu đài, trước khi chết, mỉm cười. Ông không sợ hãi, không hối hận. Ông cười."
+      },
+      "image_prompt": "a tall silhouette on a wooden platform facing a vast crowd, head tilted upward with a faint smile, wide shot, bright dramatic light",
+      "on_screen_text": "Lần đầu: Roger mỉm cười",
+      "video_prompt": "the camera slowly pushes in on the calm silhouette on the platform as the crowd falls silent",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Hơn chín trăm chương sau, ở chương 967, ta biết: khi Roger tới hòn đảo cuối cùng và thấy kho báu, ông cười lớn tới mức đặt tên hòn đảo là Laugh Tale, câu chuyện của tiếng cười."
+      },
+      "image_prompt": "a group of old sailors laughing on a beach at night under a sky full of stars, wide shot, warm firelight",
+      "on_screen_text": "Về sau: Laugh Tale"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Và Nika, vị thần trong trái ác quỷ của Luffy, là vị thần của tiếng cười và sự giải phóng. Nụ cười của Roger, tiếng cười ở Laugh Tale, và nụ cười của Luffy, có lẽ là cùng một câu trả lời."
+      },
+      "image_prompt": "three small smiling faces drawn in a row on parchment and connected by a single golden line, amber ink close-up",
+      "on_screen_text": "Nụ cười nối ba thời đại"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và ở Loguetown, ngay sau biển Đông, Luffy suýt bị xử tử trên chính đoạn đầu đài của Roger. Và cậu cũng mỉm cười. Oda lặp lại hình ảnh chương một, như một lời nhắc: người thừa kế đã tới."
+      },
+      "image_prompt": "a young figure on an old wooden execution platform grinning in the rain as lightning strikes nearby, wide shot, dramatic stormy light",
+      "on_screen_text": "Luffy cũng mỉm cười"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Kaku thấy đây là chi tiết đẹp nhất: One Piece bắt đầu bằng một người đàn ông mỉm cười khi đối diện cái chết. Và cả bộ truyện đang đi tìm lý do cho nụ cười đó."
+      },
+      "image_prompt": "the owl mascot gently closing the first page of a book and smiling softly",
+      "use_mascot": true
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Tổng kết mười một chi tiết trên hai khung trước và sau. Tên Gold Roger thành Gol D. Roger. Chiếc mũ của Shanks thành mũ của Roger. Ba vết sẹo thành dấu vết của Râu Đen."
+      },
+      "image_prompt": "a two-column chart on parchment with small before-and-after sketches for the first three items, amber ink close-up",
+      "chapter": "Bảng trước và sau"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Trái cao su thành trái thần Nika bị cướp từ tàu Chính phủ. Người bắn súng thành cha của Usopp. Cậu bé nhút nhát thành anh hùng Hải quân. Gã hề thành Tứ Hoàng."
+      },
+      "image_prompt": "the chart with the next four items sketched on both sides, amber ink close-up"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Lời hứa với Kuina và Mihawk. Con tàu Going Merry. Giấc mơ All Blue. Và nụ cười của Roger."
+      },
+      "image_prompt": "the completed chart with a gold star next to the final item, amber ink close-up, warm triumphant light",
+      "on_screen_text": "Toàn bộ chi tiết"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Cộng thêm hai chi tiết tặng kèm: cô trộm ghét hải tặc mang một vết thương thật, và lời nói dối của Usopp dần trở thành sự thật."
+      },
+      "image_prompt": "two small bonus cards clipped to the corner of the chart with an orange doodle and a slingshot doodle, close-up, amber ink"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Khi xem bản làm lại, bạn hãy thử để ý những chi tiết này. Bạn sẽ thấy năm mươi chương đầu không chỉ là phần mở đầu, mà là bản đồ của cả hành trình."
+      },
+      "image_prompt": "a treasure map with many small hidden marks glowing faintly across its surface, close-up, warm adventurous light"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Bạn có biết chi tiết cài cắm nào khác trong năm mươi chương đầu mà Kaku chưa nhắc? Viết vào bình luận nhé, Kaku sẽ gom lại cho một phần hai."
+      },
+      "image_prompt": "a comment card drawn on parchment with a tiny ship doodle and a question mark, close-up, warm light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở bảng xếp hạng anh hùng của One Punch Man, từ hạng C tới hạng S, và cả những cấp độ thảm họa. Theo kiểu thẻ chỉ số game."
+      },
+      "image_prompt": "a stat card sheet with letter grades from C to S and small hero silhouettes, close-up, bright game-style light",
+      "on_screen_text": "Tiếp theo: bảng xếp hạng One Punch Man"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn sắp ra khơi cùng bản làm lại, hãy đăng ký kênh. Kaku sẽ đi cùng bạn qua từng hòn đảo, và chỉ cho bạn những viên sỏi nhỏ mà Oda đã rải trên đường. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot waving from the bow of a tiny paper boat as it drifts toward the sunrise",
+      "use_mascot": true
+    }
+  ]
+}

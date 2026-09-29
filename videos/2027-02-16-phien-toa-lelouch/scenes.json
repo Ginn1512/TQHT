@@ -1,0 +1,674 @@
+{
+  "title": "Phiên tòa: Lelouch vi Britannia — anh hùng hay kẻ ác?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video này có spoiler toàn bộ Code Geass, cả mùa một, mùa hai, và cái kết. Nếu bạn chưa xem hết, hãy lưu video lại. Cái kết của Code Geass là một trong những cái kết đáng xem nhất lịch sử anime."
+      },
+      "image_prompt": "a closed case file with a red spoiler seal resting on a courtroom desk beside a wooden gavel, close-up, warm dim light",
+      "chapter": "Khai mạc phiên tòa",
+      "on_screen_text": "Spoiler toàn bộ Code Geass"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Bị cáo: Lelouch vi Britannia, còn được biết với cái tên Zero. Tội danh: giết người, gây chiến tranh, thao túng ý chí người khác, và tự lập làm hoàng đế độc tài của cả thế giới."
+      },
+      "image_prompt": "an empty defendant's chair in a grand courtroom under a single spotlight, a black chess king piece placed on the seat, wide shot, dramatic light",
+      "on_screen_text": "Bị cáo: Lelouch",
+      "video_prompt": "the spotlight slowly brightens on the empty chair and the black king piece",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Nhưng cũng chính người này đã chấm dứt một đế chế xâm lược, giải phóng nhiều quốc gia, và kết thúc chiến tranh trên toàn thế giới. Bằng cái chết của chính mình."
+      },
+      "image_prompt": "a chess board where a single black king piece lies toppled while all the other pieces stand peacefully together, close-up, bittersweet light"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Người anh hùng hay kẻ ác? Kẻ giải phóng hay kẻ độc tài? Đó là câu hỏi mà người xem Code Geass đã tranh luận gần hai mươi năm."
+      },
+      "image_prompt": "a balance scale on a judge's bench with a white chess piece on one side and a black chess piece on the other, perfectly level, close-up, dramatic light",
+      "on_screen_text": "Anh hùng hay kẻ ác?"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku lại làm thư ký tòa: đọc cáo trạng, ghi lời bào chữa, gọi nhân chứng. Mọi nhân chứng là chi tiết có thật trong phim."
+      },
+      "image_prompt": "the owl mascot wearing a tiny clerk's collar sitting at a small desk with a quill and a thick ledger",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Và như mọi phiên tòa của kênh, Kaku không tuyên án. Bạn là bồi thẩm. Cuối video, Kaku mời bạn bỏ phiếu."
+      },
+      "image_prompt": "a wooden ballot box with a slot on top placed on a courtroom railing, close-up, warm light",
+      "on_screen_text": "Bạn là bồi thẩm"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Một lưu ý: phiên tòa này là để hiểu một nhân vật hư cấu, không phải để cổ vũ hay biện minh cho bạo lực ngoài đời."
+      },
+      "image_prompt": "a small notice card pinned to the courtroom door with a simple scale icon, close-up, soft light"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Code Geass là anime gốc của studio Sunrise, mùa một phát năm 2006, mùa hai năm 2008. Đạo diễn là Taniguchi Goro, kịch bản của Okouchi Ichiro."
+      },
+      "image_prompt": "a stack of old anime DVD cases beside a chessboard on a wooden shelf, close-up, nostalgic warm light",
+      "chapter": "Hồ sơ bị cáo",
+      "on_screen_text": "Sunrise · 2006–2008"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Bối cảnh là một thế giới giả tưởng, nơi đế quốc Britannia hùng mạnh xâm chiếm nhiều quốc gia. Nhật Bản bị chiếm, đổi tên thành Khu vực 11, người Nhật bị gọi là Eleven."
+      },
+      "image_prompt": "a map of the world with large regions painted in a single imperial color and one island nation stamped with a number, parchment close-up, cold red ink",
+      "on_screen_text": "Nhật Bản = Khu vực 11"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Lelouch là một hoàng tử Britannia. Khi còn nhỏ, mẹ cậu bị ám sát ngay trong cung điện. Em gái Nunnally bị mất thị lực và không thể đi lại."
+      },
+      "image_prompt": "a grand palace staircase with scattered flower petals and a small overturned wheelchair at the bottom, wide shot, cold melancholy light",
+      "on_screen_text": "Mẹ bị ám sát"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Khi Lelouch chất vấn cha mình, hoàng đế, về cái chết của mẹ, ông gửi cả hai anh em sang Nhật làm con tin chính trị. Không lâu sau, Britannia tấn công chính nước Nhật."
+      },
+      "image_prompt": "a small boy standing defiantly before a towering throne in a vast hall, the throne's occupant in shadow, wide shot, dramatic cold light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Lelouch lớn lên dưới tên giả Lelouch Lamperouge, một học sinh thông minh, giỏi cờ vua, sống ẩn mình ở Khu vực 11 cùng em gái."
+      },
+      "image_prompt": "a chessboard mid-game on a school desk by a window with sunlight falling across it, close-up, warm afternoon light",
+      "on_screen_text": "Lelouch Lamperouge"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Cậu có hai mục tiêu: tìm ra kẻ đã giết mẹ, và tạo ra một thế giới hiền hòa để em gái được sống yên ổn. Và để làm được, cậu cần phá hủy Britannia."
+      },
+      "image_prompt": "a young figure standing on a rooftop at dusk looking over a city divided between gleaming towers and ruined districts, back view, wide shot, dramatic sunset"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Bạn thân nhất của Lelouch từ thuở nhỏ là Suzaku, một người Nhật. Hai người sẽ gặp lại nhau ở hai phía đối lập của chiến tranh."
+      },
+      "image_prompt": "two small wooden toy soldiers of different colors facing each other on a table, close-up, soft nostalgic light",
+      "on_screen_text": "Suzaku"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Tất cả thay đổi khi Lelouch gặp một cô gái bí ẩn, C.C., và nhận được một năng lực gọi là Geass."
+      },
+      "image_prompt": "a mysterious silhouette of a young woman standing in a dark warehouse beside a glowing capsule, wide shot, eerie light",
+      "chapter": "Vũ khí của bị cáo: Geass"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "C.C. trao Geass cho Lelouch qua một bản khế ước: đổi lại, cậu phải thực hiện một điều ước của cô trong tương lai. Điều ước đó là gì, bộ phim giữ bí mật tới gần cuối."
+      },
+      "image_prompt": "an old parchment contract with a wax seal and a single blank line awaiting a signature, close-up, dim mysterious light",
+      "on_screen_text": "Khế ước với C.C."
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Geass của Lelouch là mệnh lệnh tuyệt đối. Chỉ cần nhìn vào mắt ai đó, cậu có thể ra một lệnh, và người đó sẽ làm theo, không thể cưỡng lại."
+      },
+      "image_prompt": "a glowing eye reflected in another person's eye in extreme close-up, a faint beam of light connecting them, dramatic red light",
+      "on_screen_text": "Geass: mệnh lệnh tuyệt đối",
+      "video_prompt": "the glowing beam connects the two eyes and the reflected light flares red",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Nhưng có giới hạn: mỗi người chỉ bị ra lệnh được một lần, và phải có giao tiếp bằng mắt. Lelouch biến giới hạn này thành một trò chơi chiến lược."
+      },
+      "image_prompt": "a chess board with a few pieces marked with small crossed-out eye symbols, close-up, amber light",
+      "on_screen_text": "Mỗi người chỉ một lần"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Lelouch có một câu nói nổi tiếng, đại ý: nếu quân vua không tự di chuyển, cấp dưới sẽ không đi theo. Cậu luôn tự đứng ở tuyến đầu kế hoạch của mình."
+      },
+      "image_prompt": "a black king piece stepping forward ahead of its pawns on a chess board, close-up, dramatic side light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Và cậu tạo ra một danh tính mới: Zero, người đeo mặt nạ, thủ lĩnh của Hiệp sĩ Đen, tổ chức kháng chiến chống lại Britannia."
+      },
+      "image_prompt": "a long black cloak hanging on a coat stand in a dark room beside a chess king piece on a table, close-up, dramatic shadow light",
+      "on_screen_text": "Zero · Hiệp sĩ Đen"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku để ý: Geass không cho Lelouch sức mạnh thể chất. Nó chỉ cho cậu khả năng điều khiển người khác. Nên mọi tội trong cáo trạng đều liên quan tới một câu hỏi: cậu có quyền điều khiển người khác không?"
+      },
+      "image_prompt": "the owl mascot holding a marionette control bar with strings dangling, looking at it with discomfort",
+      "use_mascot": true
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Thư ký tòa đọc cáo trạng. Tội một: giết người. Ngay từ đầu, Lelouch dùng Geass để giết nhiều binh lính, và tự tay giết anh cùng cha khác mẹ, hoàng tử Clovis, người cai quản Khu vực 11."
+      },
+      "image_prompt": "an official indictment scroll unrolled on the bench with the first charge underlined in red ink, close-up, stark light",
+      "chapter": "Cáo trạng",
+      "on_screen_text": "Tội 1: giết người"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Tội hai: gây thương vong cho dân thường. Trong trận núi Narita, Lelouch cho gây một trận lở đất để tiêu diệt quân Britannia. Trận lở đất cũng cướp đi mạng sống của nhiều người không liên quan."
+      },
+      "image_prompt": "a massive landslide pouring down a mountainside toward a small town in the valley below, wide shot, ominous grey light",
+      "on_screen_text": "Tội 2: trận lở đất Narita",
+      "video_prompt": "the landslide pours down the mountainside in slow motion toward the valley",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Một trong những người chết là cha của Shirley, người bạn cùng lớp đang thầm yêu Lelouch."
+      },
+      "image_prompt": "a single umbrella lying in the mud on an empty mountain road after rain, close-up, somber light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Tội ba, nặng nhất: thảm kịch Khu Đặc khu hành chính. Công chúa Euphemia đề nghị lập một khu vực để người Nhật được sống tự do. Lelouch đồng ý. Nhưng Geass của cậu mất kiểm soát."
+      },
+      "image_prompt": "a large open-air stadium decorated with flags and flowers, crowds gathering in hope, wide shot, bright hopeful light",
+      "on_screen_text": "Tội 3: Đặc khu hành chính"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Một câu nói đùa của Lelouch trở thành mệnh lệnh tuyệt đối. Euphemia, người hiền lành nhất Britannia, ra lệnh tàn sát chính những người Nhật cô muốn bảo vệ. Kaku không mô tả thêm."
+      },
+      "image_prompt": "the same stadium now empty with fallen flags and scattered flowers under a darkened sky, wide shot, somber grey light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Sau đó, Lelouch tự tay kết liễu Euphemia, và dùng chính thảm kịch này để kêu gọi người Nhật nổi dậy trong cuộc Phản loạn Đen."
+      },
+      "image_prompt": "a single white flower lying on a stone floor with a dark cloak's hem passing by, close-up, cold dim light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Tội bổ sung: bỏ rơi đồng đội. Giữa cuộc Phản loạn Đen, khi em gái bị bắt cóc, Lelouch rời chiến trường để đi cứu Nunnally. Hiệp sĩ Đen mất chỉ huy và thất bại."
+      },
+      "image_prompt": "a battlefield map with many unit markers left alone while a single marker moves far away off the map's edge, parchment close-up, red ink",
+      "on_screen_text": "Rời chiến trường"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Tội bốn: thao túng ý chí người khác. Lelouch từng ra lệnh cho Suzaku phải sống. Mệnh lệnh đó về sau buộc Suzaku phóng một vũ khí hủy diệt xuống thủ đô, gây thương vong cực lớn."
+      },
+      "image_prompt": "a bright flash of light blooming over a distant city skyline at night, silhouettes watching from a hill, wide shot, blinding white light",
+      "on_screen_text": "Tội 4: thao túng"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Tội năm: độc tài. Ở cuối truyện, Lelouch lên ngôi hoàng đế Britannia, bắt giữ lãnh đạo các nước, và tự biến mình thành bạo chúa của cả thế giới."
+      },
+      "image_prompt": "a towering throne on a high platform above a vast crowd of kneeling silhouettes, wide shot, cold imperial light",
+      "on_screen_text": "Tội 5: độc tài"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Giờ tới luật sư bào chữa. Luận điểm một: bối cảnh. Britannia là một đế chế xâm lược, chia con người thành người Britannia và người số. Người Nhật bị tước cả tên gọi."
+      },
+      "image_prompt": "a torn identity card with a name crossed out and replaced by a number, extreme close-up, cold harsh light",
+      "chapter": "Lời bào chữa",
+      "on_screen_text": "Bối cảnh: đế chế xâm lược"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Luận điểm hai: động cơ. Lelouch không chiến đấu vì quyền lực hay tiền bạc. Cậu chiến đấu để em gái có một thế giới hiền hòa, và để người bị áp bức được tự do."
+      },
+      "image_prompt": "a small handwritten note on a desk reading a wish for a gentle world, with a pressed flower beside it, close-up, warm light",
+      "on_screen_text": "Động cơ: một thế giới hiền hòa"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Luận điểm ba: thảm kịch Đặc khu là tai nạn. Geass của Lelouch mất kiểm soát, không tắt được nữa. Cậu chưa bao giờ muốn Euphemia làm điều đó, và cậu đau đớn vì nó."
+      },
+      "image_prompt": "a young figure covering one eye with a trembling hand in a dark corridor, medium shot, harsh red light",
+      "on_screen_text": "Tai nạn, không phải ý muốn"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Lelouch cũng từng nói một câu mà chính cậu sống theo tới cuối, đại ý: chỉ những ai sẵn sàng bị bắn mới có quyền bắn. Cậu không bao giờ đứng ngoài cái giá mà mình đặt ra cho người khác."
+      },
+      "image_prompt": "a single chess king piece placed in the line of fire among pawns on a board, symbolic close-up, dramatic light",
+      "on_screen_text": "Sẵn sàng chịu cái giá"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Luận điểm bốn: cái giá cá nhân. Lelouch mất gần như mọi người thân: người bạn thân, người yêu thầm, đồng đội, thậm chí cả tình yêu của em gái trong một thời gian."
+      },
+      "image_prompt": "an empty student council room with chairs pushed back and a forgotten scarf on a table, wide shot, lonely afternoon light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Luận điểm năm, mạnh nhất: kế hoạch Zero Requiem. Lelouch cố ý trở thành bạo chúa để cả thế giới căm ghét mình. Rồi cậu để Suzaku, trong vai Zero, giết mình trước mặt mọi người."
+      },
+      "image_prompt": "a long parade route lined with crowds, an ornate carriage at the center, and a lone masked figure leaping toward it, wide shot, dramatic bright light",
+      "on_screen_text": "Zero Requiem",
+      "video_prompt": "the masked figure leaps through the air toward the ornate carriage as the crowd gasps",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Khi bạo chúa chết, mọi hận thù trên thế giới chết theo. Các quốc gia đoàn kết lại, chiến tranh chấm dứt. Lelouch mang theo mọi tội lỗi, để thế giới được bắt đầu lại."
+      },
+      "image_prompt": "a sunrise over a city where people from different nations stand together in a square, wide shot, warm hopeful light",
+      "on_screen_text": "Mang theo mọi hận thù"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Luật sư bào chữa hỏi bồi thẩm: một người chấp nhận chết như một kẻ ác để thế giới có hòa bình, liệu có thể bị coi là kẻ ác không?"
+      },
+      "image_prompt": "a toppled black king piece resting in the palm of an open hand, close-up, soft warm light"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Nhân chứng thứ nhất: Kururugi Suzaku, người bạn thân nhất và cũng là đối thủ lớn nhất của bị cáo."
+      },
+      "image_prompt": "a witness stand with a folded white knight's cape draped over the railing, close-up, soft courtroom light",
+      "chapter": "Nhân chứng 1: Suzaku",
+      "on_screen_text": "Nhân chứng 1: Suzaku"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Suzaku tin rằng phải thay đổi hệ thống từ bên trong, bằng những cách đúng đắn. Anh gia nhập quân đội Britannia, dù là người Nhật, và phản đối mọi cách làm của Zero."
+      },
+      "image_prompt": "a lone soldier standing at attention in a line of foreign uniforms, looking straight ahead, medium shot, cold disciplined light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Anh từng nói, đại ý: kết quả đạt được bằng cách sai trái thì không có ý nghĩa. Đây là luận điểm mạnh nhất của phía buộc tội."
+      },
+      "image_prompt": "a crossed-out shortcut path on a map beside a longer honest road drawn in careful ink, parchment close-up",
+      "on_screen_text": "Cách làm sai thì kết quả vô nghĩa"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Suzaku căm ghét Lelouch vì cái chết của Euphemia, người anh yêu quý. Nhưng cuối cùng, chính Suzaku lại là người cùng Lelouch thực hiện Zero Requiem."
+      },
+      "image_prompt": "two silhouettes sitting back to back on a rooftop at night, not looking at each other, wide shot, cold moonlight"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Và Suzaku cũng mang một bí mật: khi còn nhỏ, anh đã giết chính cha mình, thủ tướng Nhật, để ngăn một cuộc kháng chiến vô vọng. Anh cũng từng dùng cách sai để đạt kết quả mình tin là đúng."
+      },
+      "image_prompt": "a small child's silhouette standing alone in a traditional house at night, a sliding door half open, wide shot, heavy somber light",
+      "on_screen_text": "Bí mật của Suzaku"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Lời khai của Suzaku vì vậy rất phức tạp. Anh vừa là người buộc tội, vừa là đồng phạm. Và cái giá của anh: phải sống tiếp dưới mặt nạ Zero, không bao giờ được là chính mình."
+      },
+      "image_prompt": "a plain mask resting on a table beside a folded letter, close-up, somber quiet light",
+      "on_screen_text": "Vừa buộc tội, vừa đồng phạm"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Kaku ghi nhận: lời khai của Suzaku không ủng hộ hẳn bên nào. Nhưng nó cho thấy Lelouch không hành động một mình trong phần cuối."
+      },
+      "image_prompt": "the owl mascot writing carefully in a ledger with two columns, pausing thoughtfully",
+      "use_mascot": true
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nhân chứng thứ hai: Shirley Fenette, bạn cùng lớp, người yêu Lelouch."
+      },
+      "image_prompt": "a school bag with a small charm hanging from it resting on the witness stand, close-up, soft warm light",
+      "chapter": "Nhân chứng 2: Shirley",
+      "on_screen_text": "Nhân chứng 2: Shirley"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Cha của Shirley chết trong trận lở đất Narita do Zero gây ra. Khi biết Lelouch chính là Zero, cô đứng giữa hai cảm xúc: đau khổ vì cha, và tình cảm với Lelouch."
+      },
+      "image_prompt": "a girl sitting alone on a bench in the rain holding a closed umbrella, medium shot, grey melancholy light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Và Shirley chọn tha thứ. Cô nói rằng dù Lelouch có là ai, cô vẫn sẽ yêu cậu. Rồi cô mất đi, và Lelouch không thể cứu cô."
+      },
+      "image_prompt": "a single paper crane resting on a windowsill in the early morning light, close-up, gentle bittersweet light",
+      "on_screen_text": "Shirley tha thứ"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Lời khai của Shirley là một lời tha thứ từ chính nạn nhân. Phía bào chữa sẽ dùng nó. Phía buộc tội sẽ hỏi: một người tha thứ có xóa được tội không?"
+      },
+      "image_prompt": "a balance scale with a paper crane on one side and an umbrella on the other, close-up, soft dramatic light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Kaku nghĩ đây là nhân chứng đau lòng nhất. Cô không bảo vệ việc Lelouch làm. Cô chỉ nói rằng con người Lelouch vẫn đáng được yêu thương."
+      },
+      "image_prompt": "a small pressed flower tucked into the pages of a closed school notebook, close-up, warm soft light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Nhân chứng thứ ba: Kallen Kozuki, phi công giỏi nhất của Hiệp sĩ Đen, người đi theo Zero từ ngày đầu."
+      },
+      "image_prompt": "a pilot's helmet resting on the witness stand beside a pair of worn gloves, close-up, dramatic light",
+      "chapter": "Nhân chứng 3: Kallen",
+      "on_screen_text": "Nhân chứng 3: Kallen"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kallen tin vào Zero như tin vào một lá cờ. Nhưng khi Hiệp sĩ Đen phát hiện ra Zero dùng Geass và từng lừa dối họ, cả tổ chức quay lưng với Lelouch."
+      },
+      "image_prompt": "a group of silhouettes turning their backs on a lone figure standing in a dark hangar, wide shot, cold harsh light",
+      "on_screen_text": "Hiệp sĩ Đen quay lưng"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Kallen hỏi Lelouch: cậu có thật lòng với tôi không? Và Lelouch, để bảo vệ cô, chọn không trả lời thật."
+      },
+      "image_prompt": "two silhouettes standing a few steps apart in an empty hangar, one reaching out and one turning away, medium shot, dim cold light"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Lời khai của Kallen cho thấy một tội khác mà cáo trạng chưa ghi: lừa dối những người tin mình. Lelouch dùng niềm tin của người khác như những quân cờ."
+      },
+      "image_prompt": "a chess piece being moved by a hand while other pieces watch, symbolic close-up, cold amber light",
+      "on_screen_text": "Lừa dối người tin mình"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Kaku để ý: Kallen là một trong số ít người mà Lelouch không bao giờ dùng Geass lên để ép theo mình. Cô đi theo Zero bằng ý chí của chính mình."
+      },
+      "image_prompt": "a pilot's glove resting on a railing beside a small badge, close-up, warm steady light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Nhưng Kallen cũng là người hiểu Lelouch sâu nhất ở cuối truyện. Cô nhận ra kế hoạch của cậu, và không ngăn cản."
+      },
+      "image_prompt": "a figure standing alone at a window watching a distant parade, a single tear on her cheek, back view, soft light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Nhân chứng cuối cùng: Nunnally, em gái của Lelouch, người mà mọi việc cậu làm đều hướng về."
+      },
+      "image_prompt": "an empty wheelchair positioned on the witness stand with a folded blanket on its seat, close-up, soft gentle light",
+      "chapter": "Nhân chứng 4: Nunnally",
+      "on_screen_text": "Nhân chứng 4: Nunnally"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Nunnally lớn lên trong vòng tay che chở của anh. Nhưng cô không muốn một thế giới được xây bằng máu vì mình. Cô muốn thay đổi thế giới bằng cách hiền hòa."
+      },
+      "image_prompt": "a small pair of hands folding a paper crane carefully in a sunlit room, close-up, warm gentle light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Khi biết anh mình là Zero, cô đau đớn. Khi anh trở thành hoàng đế độc tài, cô đứng ở phía chống lại anh."
+      },
+      "image_prompt": "two chess pieces of different colors placed on opposite ends of a chess board, close-up, dramatic light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Và ở giây phút cuối, khi chạm vào tay anh, Nunnally nhìn thấy sự thật về Zero Requiem. Cô khóc và nói: anh ơi, em yêu anh."
+      },
+      "image_prompt": "a small hand holding a larger hand that is slowly slipping away, extreme close-up, soft tearful golden light",
+      "on_screen_text": "Anh ơi, em yêu anh",
+      "video_prompt": "the larger hand slowly slips from the small hand as golden light fades",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Và cô cũng là người duy nhất trong truyện dám đứng trước anh mình, ở phía đối lập, để nói rằng anh sai. Tình yêu của cô không phải là sự đồng ý."
+      },
+      "image_prompt": "two figures facing each other across a wide empty hall, one seated and one standing, wide shot, cold dramatic light"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Lời khai của Nunnally không trả lời Lelouch có tội hay không. Nó trả lời một câu hỏi khác: Lelouch có yêu thương thật không. Và câu trả lời là có."
+      },
+      "image_prompt": "a paper crane resting on a gravestone with fresh flowers beside it, close-up, gentle morning light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Kaku thấy đây là cảnh khiến nhiều người xem nhớ mãi. Không có tiếng nổ, không có trận đánh. Chỉ có một người em hiểu ra mọi thứ khi đã quá muộn."
+      },
+      "image_prompt": "the owl mascot quietly closing the ledger and placing its quill down, eyes lowered",
+      "use_mascot": true
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Phía buộc tội tổng kết. Một: Lelouch đã giết, trực tiếp và gián tiếp, rất nhiều người, trong đó có dân thường vô tội."
+      },
+      "image_prompt": "a long list of names written on parchment fading into the distance, close-up, somber light",
+      "chapter": "Luận điểm cuối của công tố",
+      "on_screen_text": "Công tố: rất nhiều người đã chết"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Hai: cậu điều khiển ý chí người khác, tước đi quyền tự quyết định, thứ cơ bản nhất của con người."
+      },
+      "image_prompt": "a set of marionette strings hanging from above over an empty stage, close-up, cold dim light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Ba: một kết thúc tốt đẹp không biện minh được cho mọi phương tiện. Nếu chấp nhận điều đó, bất kỳ ai cũng có thể làm điều ác và nói rằng đó là vì hòa bình."
+      },
+      "image_prompt": "a long road paved with dark stones leading toward a bright horizon, symbolic wide shot, uneasy light"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Phía buộc tội còn nhấn mạnh: Zero Requiem là quyết định của hai người, nhưng số phận của cả thế giới bị đặt vào kế hoạch đó mà không ai được hỏi ý kiến."
+      },
+      "image_prompt": "a globe on a desk with two small chess pieces placed on top of it, symbolic close-up, cold light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Và bốn: Lelouch tự chọn cái chết, nhưng những người đã chết vì cậu thì không được chọn."
+      },
+      "image_prompt": "a row of empty chairs in a quiet memorial hall with candles on each seat, wide shot, solemn light",
+      "on_screen_text": "Người chết không được chọn"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Phía bào chữa tổng kết. Một: Lelouch sinh ra trong một thế giới đã bạo lực từ trước. Cậu không tạo ra chiến tranh, cậu tìm cách chấm dứt nó."
+      },
+      "image_prompt": "a child's toy lying in the rubble of a bombed town, close-up, grey somber light",
+      "chapter": "Luận điểm cuối của bào chữa",
+      "on_screen_text": "Bào chữa: chiến tranh có trước"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Hai: những tội nặng nhất có yếu tố tai nạn. Cậu không muốn thảm kịch Đặc khu xảy ra."
+      },
+      "image_prompt": "a shattered pocket watch lying on a stone floor, its hands frozen, close-up, cold light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Ba: cậu không nhận lấy bất cứ lợi ích nào. Cậu kết thúc bằng cách tự trừng phạt mình, trước cả khi có tòa án nào."
+      },
+      "image_prompt": "an empty throne with a crown resting on the floor beside it, wide shot, quiet melancholy light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Và năm: sau cái chết của Lelouch, Suzaku tiếp tục làm Zero để bảo vệ hòa bình, còn Nunnally trở thành người dẫn dắt Britannia theo cách hiền hòa. Đúng như mong ước ban đầu của Lelouch."
+      },
+      "image_prompt": "a gentle figure in a sunlit hall surrounded by representatives of many nations, a masked guardian standing quietly behind, wide shot, warm light"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và bốn: thế giới sau cái chết của Lelouch là một thế giới hòa bình hơn. Chính những người từng bị áp bức được sống tự do."
+      },
+      "image_prompt": "children from different backgrounds playing together in a peaceful park at sunset, wide shot, warm hopeful light",
+      "on_screen_text": "Thế giới hòa bình hơn"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku không tuyên án, nhưng Kaku muốn chỉ ra câu hỏi thật sự của Code Geass: mục đích có biện minh cho phương tiện không?"
+      },
+      "image_prompt": "a notebook page with two words written at each end of a long arrow, close-up, amber ink",
+      "chapter": "Góc nhìn của Kaku",
+      "on_screen_text": "Mục đích và phương tiện"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Lelouch trả lời là có, và cậu trả giá bằng cả mạng sống. Suzaku trả lời là không, nhưng cuối cùng cũng đồng hành với Lelouch. Bộ phim không cho ta một câu trả lời dễ dàng."
+      },
+      "image_prompt": "two paths merging into one on a hillside at dusk, back view of two figures walking together, wide shot, bittersweet light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Câu hỏi này cũng là một câu hỏi triết học rất cũ ngoài đời: có nên hy sinh một số người để cứu nhiều người hơn không? Người ta đã tranh luận về nó hàng trăm năm mà chưa có câu trả lời chung."
+      },
+      "image_prompt": "an old philosophy book open to a page with a simple diagram of a forked railway track, close-up, warm lamplight",
+      "on_screen_text": "Một câu hỏi triết học cũ"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Kaku nghĩ Code Geass hay chính vì nó không để Lelouch hoàn toàn vô tội, cũng không để cậu hoàn toàn đáng ghét. Nó bắt ta phải tự suy nghĩ."
+      },
+      "image_prompt": "a chess piece that is half white and half black standing alone on a board, close-up, dramatic split light"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Có ba lựa chọn. Một: có tội. Những gì Lelouch làm không thể biện minh, dù kết quả là gì."
+      },
+      "image_prompt": "a ballot paper with three checkboxes and the first one highlighted, close-up, warm light",
+      "chapter": "Bồi thẩm bỏ phiếu",
+      "on_screen_text": "1. Có tội"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Hai: vô tội. Trong hoàn cảnh đó, Lelouch đã làm điều cần làm, và tự trả giá bằng mạng sống."
+      },
+      "image_prompt": "the same ballot with the second checkbox highlighted, close-up, warm light",
+      "on_screen_text": "2. Vô tội"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Ba: có tội, nhưng được khoan hồng. Lelouch phạm tội, nhưng động cơ và sự hy sinh của cậu cần được tính tới."
+      },
+      "image_prompt": "the same ballot with the third checkbox highlighted, close-up, warm light",
+      "on_screen_text": "3. Có tội nhưng khoan hồng"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Viết số một, hai hay ba vào bình luận, kèm một câu lý do. Kaku sẽ tổng hợp kết quả phiên tòa ở một video sau."
+      },
+      "image_prompt": "the owl mascot holding the ballot box out toward the viewer with an encouraging nod",
+      "use_mascot": true
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Lelouch bắt đầu câu chuyện bằng một lời thề phá hủy thế giới, và kết thúc bằng việc để thế giới phá hủy mình. Giữa hai điều đó là một câu hỏi mà mỗi người xem tự trả lời."
+      },
+      "image_prompt": "a chess board at sunset with the black king lying down and all other pieces standing in a circle around it, close-up, golden bittersweet light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku quay về biển Đông, đúng lúc bản làm lại One Piece ra mắt: những chi tiết cài cắm trong năm mươi chương đầu mà chỉ người đọc lại mới thấy."
+      },
+      "image_prompt": "an old wide-brimmed hat resting on a small wooden boat at a quiet harbor at dawn, close-up, fresh morning light",
+      "on_screen_text": "Tiếp theo: cài cắm trong 50 chương đầu One Piece"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Nếu bạn thích những phiên tòa như thế này, hãy đăng ký kênh, và cho Kaku biết bị cáo tiếp theo bạn muốn đưa ra tòa là ai. Phiên tòa tạm hoãn. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot tapping a tiny gavel once on the bench and bowing",
+      "use_mascot": true
+    }
+  ]
+}

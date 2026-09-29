@@ -22,27 +22,27 @@ Cách làm cho mỗi clip: chọn ảnh → video, tải ảnh tham chiếu làm
 5-second cinematic anime shot, 16:9. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. Scene: a gentle diagram of a developing hand shape with the webbing between fingers fading away, scientific illustration style, soft light. Motion and camera: the webbing between the fingers of the diagram fades away gently. Keep the exact art style, colors and characters of the reference image. No text, no logos, no watermark, no dialogue, no lip-sync. Original characters only, do not depict any existing anime character.
 ```
 
-## s29 — 5 giây
+## s28 — 5 giây
 
-- Ảnh tham chiếu: `assets/images/s29.png`
+- Ảnh tham chiếu: `assets/images/s28.png`
 - Lời thoại cảnh này: Và ngày nay, trí tuệ nhân tạo đã có thể bắt chước giọng của một người cụ thể chỉ từ vài đoạn ghi âm. Nghĩa là về mặt kỹ thuật, chiếc nơ của Conan gần với hiện thực hơn bao giờ hết.
 
 ```text
 5-second cinematic anime shot, 16:9. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. Scene: a sound waveform on a screen transforming into another person's silhouette icon, clean digital illustration, cyan light. Motion and camera: the waveform morphs smoothly into a silhouette icon. Keep the exact art style, colors and characters of the reference image. No text, no logos, no watermark, no dialogue, no lip-sync. Original characters only, do not depict any existing anime character.
 ```
 
-## s55 — 5 giây
+## s54 — 5 giây
 
-- Ảnh tham chiếu: `assets/images/s55.png`
+- Ảnh tham chiếu: `assets/images/s54.png`
 - Lời thoại cảnh này: Chiếc ván trượt của Conan chạy bằng năng lượng mặt trời, tăng tốc đuổi kịp cả ô tô trên đường cao tốc.
 
 ```text
 5-second cinematic anime shot, 16:9. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. Scene: a sleek skateboard with small solar panels on its deck speeding along a highway at sunset, dynamic wide shot, warm light. Motion and camera: the solar skateboard speeds along the highway as the sunset glows. Keep the exact art style, colors and characters of the reference image. No text, no logos, no watermark, no dialogue, no lip-sync. Original characters only, do not depict any existing anime character.
 ```
 
-## s78 — 5 giây
+## s77 — 5 giây
 
-- Ảnh tham chiếu: `assets/images/s78.png`
+- Ảnh tham chiếu: `assets/images/s77.png`
 - Lời thoại cảnh này: Thuốc teo nhỏ thì còn là giấc mơ của tiểu thuyết. Nhưng nơ đổi giọng và kính định vị thì đã ở trong túi chúng ta. Có lẽ tiến sĩ Agasa đi trước thời đại chỉ vài chục năm.
 
 ```text

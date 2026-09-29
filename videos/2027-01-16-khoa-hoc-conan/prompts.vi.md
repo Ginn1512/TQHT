@@ -3,7 +3,7 @@
 > Tạo tự động từ `scenes.json` và `channel/giong-kaku.json` bằng `python -m tools.prompt_pack`. **Không sửa tay**: sửa `scenes.json` rồi chạy lại lệnh.
 > Cách làm từng bước: `docs/huong-dan-lam-tay.md`.
 
-- 80 ảnh, 9 đoạn đọc, khoảng 15.6 phút giọng.
+- 79 ảnh, 9 đoạn đọc, khoảng 15.2 phút giọng.
 - Ảnh: dán prompt vào Gemini app (tạo hình ảnh), tải ảnh gốc về, đặt tên theo số cảnh (`s01.png`…).
 - Giọng: dán ghi chú đạo diễn một lần, rồi dán từng đoạn; tải file về, đặt tên theo số đoạn (`c01.wav`…).
 
@@ -15,7 +15,7 @@ Tạo 1 lần, lưu lại, rồi đính kèm làm ảnh tham chiếu cho mọi c
 Wide 16:9 landscape cinematic frame. Character model sheet of the channel mascot on a plain warm parchment background: front view, three-quarter view and side view, full body, identical proportions and colors in every view: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. Even soft studio lighting. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-## 2. Ảnh (80 cảnh)
+## 2. Ảnh (79 cảnh)
 
 Negative prompt, chỉ dùng cho model có ô riêng (Gemini không cần):
 
@@ -201,21 +201,13 @@ Wide 16:9 landscape cinematic frame. a suspicious bottle with a flashy miracle l
 
 ### s23
 
-Lời: Manga của Aoyama Gosho từ 1994, anime từ 1996, hơn 1.000 tập, phim điện ảnh hằng năm; tên Edogawa (Ranpo) + C…
-
-```text
-Wide 16:9 landscape cinematic frame. cần kiểm lại. cinematic medium-wide shot, rule-of-thirds composition. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
-```
-
-### s24
-
 Lời: Điểm độ thật của viên thuốc: ba trên mười. Có khái niệm khoa học thật làm nền, nhưng hiệu ứng chính là hư cấu…
 
 ```text
 Wide 16:9 landscape cinematic frame. a scorecard showing 3 out of 10 next to a capsule icon, close-up, amber ink. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s25 · Món 2: nơ đổi giọng
+### s24 · Món 2: nơ đổi giọng
 
 Lời: Nhưng giả giọng chỉ là một nửa. Conan còn phải giả cả cách nói chuyện của ông Mori: từ ngữ, nhịp điệu, cả nhữ…
 
@@ -223,7 +215,7 @@ Lời: Nhưng giả giọng chỉ là một nửa. Conan còn phải giả cả 
 Wide 16:9 landscape cinematic frame. a young boy hiding behind a sofa whispering into a small device while a sleeping man sits in the armchair in front, humorous medium shot, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s26 · **Kaku** (đính kèm ảnh mẫu)
+### s25 · **Kaku** (đính kèm ảnh mẫu)
 
 Lời: Kaku thử giả giọng của một giáo sư đọc sách rất chán. Kết quả là Kaku tự ngủ trước.
 
@@ -231,7 +223,7 @@ Lời: Kaku thử giả giọng của một giáo sư đọc sách rất chán. 
 Wide 16:9 landscape cinematic frame. the owl mascot asleep on top of an open book, a tiny microphone slipping from its wing. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s27
+### s26
 
 Lời: Chiếc nơ đổi giọng là món đồ nổi tiếng nhất của Conan. Cậu vặn núm, nói vào nơ, và giọng phát ra giống hệt gi…
 
@@ -239,7 +231,7 @@ Lời: Chiếc nơ đổi giọng là món đồ nổi tiếng nhất của Cona
 Wide 16:9 landscape cinematic frame. a tiny collar-mounted voice gadget with small dials on its side resting on a desk beside a microphone, extreme close-up, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s28
+### s27
 
 Lời: Khoa học thật: thiết bị đổi giọng đã có từ lâu. Chúng thay đổi cao độ và âm sắc, biến giọng trầm thành bổng h…
 
@@ -247,7 +239,7 @@ Lời: Khoa học thật: thiết bị đổi giọng đã có từ lâu. Chúng
 Wide 16:9 landscape cinematic frame. a vintage voice-changer device next to a modern audio waveform on a laptop screen, close-up, cool light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s29
+### s28
 
 Lời: Và ngày nay, trí tuệ nhân tạo đã có thể bắt chước giọng của một người cụ thể chỉ từ vài đoạn ghi âm. Nghĩa là…
 
@@ -255,7 +247,7 @@ Lời: Và ngày nay, trí tuệ nhân tạo đã có thể bắt chước giọ
 Wide 16:9 landscape cinematic frame. a sound waveform on a screen transforming into another person's silhouette icon, clean digital illustration, cyan light. medium shot, expressive body language, strong readable silhouette. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s30
+### s29
 
 Lời: Nhưng điều này cũng có mặt tối: kẻ gian dùng giọng giả để lừa đảo qua điện thoại. Kaku nhắc bạn: nếu người th…
 
@@ -263,7 +255,7 @@ Lời: Nhưng điều này cũng có mặt tối: kẻ gian dùng giọng giả 
 Wide 16:9 landscape cinematic frame. a phone showing an incoming call next to a small shield icon and a checklist, close-up, cautionary light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s31
+### s30
 
 Lời: Chỗ truyện phóng tay: một chiếc nơ nhỏ như vậy mà giả được mọi giọng tức thì, không cần mẫu ghi âm, là chưa c…
 
@@ -271,7 +263,7 @@ Lời: Chỗ truyện phóng tay: một chiếc nơ nhỏ như vậy mà giả �
 Wide 16:9 landscape cinematic frame. a tiny collar-mounted voice gadget next to a large computer server rack, humorous size comparison, parchment illustration. cinematic medium-wide shot, rule-of-thirds composition. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s32
+### s31
 
 Lời: Điểm độ thật của chiếc nơ: bảy trên mười. Món đồ gần hiện thực nhất trong phòng thí nghiệm.
 
@@ -279,7 +271,7 @@ Lời: Điểm độ thật của chiếc nơ: bảy trên mười. Món đồ g
 Wide 16:9 landscape cinematic frame. a scorecard showing 7 out of 10 next to a small microphone icon, close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s33 · Món 3: đồng hồ bắn kim gây mê
+### s32 · Món 3: đồng hồ bắn kim gây mê
 
 Lời: Chiếc đồng hồ đeo tay có nắp bật lên, ngắm qua một ô kính nhỏ, và bắn ra một cây kim tẩm thuốc mê. Người trún…
 
@@ -287,7 +279,7 @@ Lời: Chiếc đồng hồ đeo tay có nắp bật lên, ngắm qua một ô k
 Wide 16:9 landscape cinematic frame. a sleek wristwatch with its cover flipped open revealing a tiny aiming lens, extreme close-up, dramatic side light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s34
+### s33
 
 Lời: Thời gian thuốc tác dụng phụ thuộc vào vị trí trúng kim, cân nặng, và loại thuốc. Không có công thức nào vừa…
 
@@ -295,7 +287,7 @@ Lời: Thời gian thuốc tác dụng phụ thuộc vào vị trí trúng kim, 
 Wide 16:9 landscape cinematic frame. a veterinarian's clipboard with a weight chart and a clock sketched on it, close-up, clean light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s35
+### s34
 
 Lời: Khoa học thật: súng bắn phi tiêu gây mê có thật, dùng để bắt động vật hoang dã. Nhưng thuốc mê không bao giờ…
 
@@ -303,7 +295,7 @@ Lời: Khoa học thật: súng bắn phi tiêu gây mê có thật, dùng để
 Wide 16:9 landscape cinematic frame. a wildlife veterinarian silhouette kneeling beside a sleeping large animal in tall grass, wide shot, golden afternoon light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s36
+### s35
 
 Lời: Và gây mê là việc cực kỳ nguy hiểm. Sai liều có thể làm người ta ngừng thở. Trong bệnh viện, luôn có bác sĩ g…
 
@@ -311,7 +303,7 @@ Lời: Và gây mê là việc cực kỳ nguy hiểm. Sai liều có thể làm
 Wide 16:9 landscape cinematic frame. a hospital monitor showing heart and breathing lines beside an anesthesia machine, close-up, clean clinical light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s37
+### s36
 
 Lời: Chiếc đồng hồ còn có đèn pin và chỉ mang theo một cây kim mỗi lần. Giới hạn một cây kim là chi tiết khéo của…
 
@@ -319,7 +311,7 @@ Lời: Chiếc đồng hồ còn có đèn pin và chỉ mang theo một cây ki
 Wide 16:9 landscape cinematic frame. a wristwatch with a small beam of flashlight in a dark room, a single tiny needle visible in its chamber, extreme close-up, dramatic light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s38
+### s37
 
 Lời: Chỗ truyện phóng tay: ngủ ngay lập tức, rồi tỉnh dậy khỏe mạnh vài chục phút sau, lần nào cũng như vậy. Nếu n…
 
@@ -327,7 +319,7 @@ Lời: Chỗ truyện phóng tay: ngủ ngay lập tức, rồi tỉnh dậy kh�
 Wide 16:9 landscape cinematic frame. a man slumped comically on a chair with a tiny needle in his neck, a question mark above him, humorous illustration, parchment style. medium shot, expressive body language, strong readable silhouette. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s39 · **Kaku** (đính kèm ảnh mẫu)
+### s38 · **Kaku** (đính kèm ảnh mẫu)
 
 Lời: Kaku nhắc lại: đây không phải hướng dẫn. Đừng bao giờ thử dùng thuốc gây mê với bất kỳ ai.
 
@@ -335,7 +327,7 @@ Lời: Kaku nhắc lại: đây không phải hướng dẫn. Đừng bao giờ 
 Wide 16:9 landscape cinematic frame. the owl mascot holding up a large stop sign with a serious expression. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s40
+### s39
 
 Lời: Điểm độ thật của đồng hồ: bốn trên mười. Thiết bị bắn kim có thật, nhưng hiệu ứng tức thì và an toàn là hư cấ…
 
@@ -343,7 +335,7 @@ Lời: Điểm độ thật của đồng hồ: bốn trên mười. Thiết b�
 Wide 16:9 landscape cinematic frame. a scorecard showing 4 out of 10 next to a watch icon, close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s41 · Món 4: giày tăng lực
+### s40 · Món 4: giày tăng lực
 
 Lời: Đôi giày tăng lực có núm vặn bên hông. Khi bật, nó kích thích chân để Conan đá với lực của một vận động viên,…
 
@@ -351,7 +343,7 @@ Lời: Đôi giày tăng lực có núm vặn bên hông. Khi bật, nó kích t
 Wide 16:9 landscape cinematic frame. a pair of children's sneakers with a small dial on the side glowing faintly, extreme close-up, dramatic light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s42
+### s41
 
 Lời: Trong truyện, giày hoạt động bằng cách kích thích huyệt đạo và dùng điện, từ trường. Khoa học thật có một thứ…
 
@@ -359,7 +351,7 @@ Lời: Trong truyện, giày hoạt động bằng cách kích thích huyệt đ
 Wide 16:9 landscape cinematic frame. a physical therapy session with small electrode pads on a leg connected to a device, medium shot, soft clinic light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s43
+### s42
 
 Lời: Nhưng xung điện chỉ làm cơ co lại, không biến cơ của một cậu bé bảy tuổi thành cơ của vận động viên. Và cú đá…
 
@@ -367,7 +359,7 @@ Lời: Nhưng xung điện chỉ làm cơ co lại, không biến cơ của mộ
 Wide 16:9 landscape cinematic frame. a diagram comparing a small child's leg bone and a strong adult's leg bone with force arrows, parchment style, amber ink. clean centered composition with the diagram as the clear focal point, flat front view, generous negative space. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s44
+### s43
 
 Lời: Shinichi vốn là cầu thủ bóng đá giỏi hồi cấp hai, nên đá bóng là kỹ năng sẵn có. Tiến sĩ Agasa chỉ chế thiết…
 
@@ -375,7 +367,7 @@ Lời: Shinichi vốn là cầu thủ bóng đá giỏi hồi cấp hai, nên đ
 Wide 16:9 landscape cinematic frame. a teenage boy practicing soccer kicks alone on a school field at sunset, the ball curving into the goal, wide shot, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s45
+### s44
 
 Lời: Kết hợp với thắt lưng bắn bóng, Conan có cả một hệ thống vũ khí dựa trên bóng đá. Kaku nghĩ tác giả chắc là n…
 
@@ -383,7 +375,7 @@ Lời: Kết hợp với thắt lưng bắn bóng, Conan có cả một hệ th�
 Wide 16:9 landscape cinematic frame. a soccer ball inflating from a small belt buckle mid-air, a small figure winding up for a kick, dynamic illustration, bright light. medium shot, expressive body language, strong readable silhouette. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s46
+### s45
 
 Lời: Điểm độ thật của đôi giày: hai trên mười. Có khái niệm thật, nhưng hiệu quả là hư cấu hoàn toàn.
 
@@ -391,7 +383,7 @@ Lời: Điểm độ thật của đôi giày: hai trên mười. Có khái ni�
 Wide 16:9 landscape cinematic frame. a scorecard showing 2 out of 10 next to a sneaker icon, close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s47 · Món 5: kính truy tìm
+### s46 · Món 5: kính truy tìm
 
 Lời: Kính còn có chức năng phóng to như ống nhòm, và về sau được nâng cấp thêm nhiều thứ. Nó giống một chiếc điện…
 
@@ -399,7 +391,7 @@ Lời: Kính còn có chức năng phóng to như ống nhòm, và về sau đư
 Wide 16:9 landscape cinematic frame. a small boy peering through glasses with a zoom reticle overlay at a distant building, close-up, cool light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s48
+### s47
 
 Lời: Cặp kính của Conan có ăng-ten ẩn, màn hình radar hiện ngay trên mắt kính, và có thể dò tìm một thiết bị định…
 
@@ -407,7 +399,7 @@ Lời: Cặp kính của Conan có ăng-ten ẩn, màn hình radar hiện ngay t
 Wide 16:9 landscape cinematic frame. a pair of glasses with a faint green radar grid reflected on one lens, extreme close-up, cool light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s49
+### s48
 
 Lời: Khoa học thật: thiết bị định vị nhỏ gọn đã rất phổ biến, từ thẻ định vị chìa khóa tới vòng đeo cổ thú cưng. V…
 
@@ -415,7 +407,7 @@ Lời: Khoa học thật: thiết bị định vị nhỏ gọn đã rất phổ
 Wide 16:9 landscape cinematic frame. a small modern tracking tag beside a pair of sleek smart glasses on a table, still life, soft daylight. cinematic medium-wide shot, rule-of-thirds composition. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s50
+### s49
 
 Lời: Kaku ghi chú: năm 1994, khi truyện ra đời, những thứ này là khoa học viễn tưởng. Ba mươi năm sau, nhiều thứ đ…
 
@@ -423,7 +415,7 @@ Lời: Kaku ghi chú: năm 1994, khi truyện ra đời, những thứ này là 
 Wide 16:9 landscape cinematic frame. a split image of a 1990s bulky mobile phone and a modern slim smartphone, symmetrical composition, soft light. clean side-by-side panel composition, each part equally balanced. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s51
+### s50
 
 Lời: Chỗ truyện phóng tay: kính nhỏ vậy mà có ăng-ten mạnh, pin dùng mãi không hết, và bắt sóng qua cả tòa nhà. Nh…
 
@@ -431,7 +423,7 @@ Lời: Chỗ truyện phóng tay: kính nhỏ vậy mà có ăng-ten mạnh, pin
 Wide 16:9 landscape cinematic frame. a tiny battery icon next to a big question mark on a parchment note, humorous close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s52
+### s51
 
 Lời: Kaku phải nói thêm: định vị và nghe lén người khác mà không được phép là vi phạm quyền riêng tư. Trong truyện…
 
@@ -439,7 +431,7 @@ Lời: Kaku phải nói thêm: định vị và nghe lén người khác mà kh�
 Wide 16:9 landscape cinematic frame. a small privacy lock icon glowing over a map with a tracking dot, clean illustration, cool light. clean centered composition with the diagram as the clear focal point, flat front view, generous negative space. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s53
+### s52
 
 Lời: Điểm độ thật của cặp kính: tám trên mười. Món đồ gần hiện thực nhất sau chiếc nơ, thậm chí có mặt còn vượt qu…
 
@@ -447,7 +439,7 @@ Lời: Điểm độ thật của cặp kính: tám trên mười. Món đồ g�
 Wide 16:9 landscape cinematic frame. a scorecard showing 8 out of 10 next to a glasses icon, close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s54 · Món 6: ván trượt năng lượng mặt trời
+### s53 · Món 6: ván trượt năng lượng mặt trời
 
 Lời: Ván trượt thường xuất hiện ở những cảnh rượt đuổi hay nhất, khi Conan phải đuổi theo xe hơi của hung thủ. Đó…
 
@@ -455,7 +447,7 @@ Lời: Ván trượt thường xuất hiện ở những cảnh rượt đuổi 
 Wide 16:9 landscape cinematic frame. a small boy crouching low on a speeding skateboard chasing a car through city traffic, dynamic wide shot, golden light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s55
+### s54
 
 Lời: Chiếc ván trượt của Conan chạy bằng năng lượng mặt trời, tăng tốc đuổi kịp cả ô tô trên đường cao tốc.
 
@@ -463,7 +455,7 @@ Lời: Chiếc ván trượt của Conan chạy bằng năng lượng mặt tr�
 Wide 16:9 landscape cinematic frame. a sleek skateboard with small solar panels on its deck speeding along a highway at sunset, dynamic wide shot, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s56
+### s55
 
 Lời: Kaku làm một phép tính nhanh: tấm pin mặt trời bằng cỡ mặt ván chỉ cho công suất nhỏ, đủ sạc chậm cho một chi…
 
@@ -471,7 +463,7 @@ Lời: Kaku làm một phép tính nhanh: tấm pin mặt trời bằng cỡ m�
 Wide 16:9 landscape cinematic frame. a small solar panel connected to a phone charging slowly, a racing car drawn beside it with a crossed-out arrow, parchment diagram, amber ink. clean centered composition with the diagram as the clear focal point, flat front view, generous negative space. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s57
+### s56
 
 Lời: Khoa học thật: ván trượt điện đã có thật và khá phổ biến. Tấm pin mặt trời cũng có thật. Nhưng tấm pin nhỏ tr…
 
@@ -479,7 +471,7 @@ Lời: Khoa học thật: ván trượt điện đã có thật và khá phổ b
 Wide 16:9 landscape cinematic frame. a modern electric skateboard parked beside a small solar panel, still life, bright daylight. cinematic medium-wide shot, rule-of-thirds composition. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s58
+### s57
 
 Lời: Chạy nhanh như vậy mà không có mũ bảo hiểm thì cực kỳ nguy hiểm. Kaku nhắc: đi ván điện ngoài đời phải có đồ…
 
@@ -487,7 +479,7 @@ Lời: Chạy nhanh như vậy mà không có mũ bảo hiểm thì cực kỳ n
 Wide 16:9 landscape cinematic frame. a helmet, knee pads and elbow pads neatly arranged next to a skateboard, close-up, clean light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s59
+### s58
 
 Lời: Điểm độ thật của ván trượt: năm trên mười.
 
@@ -495,7 +487,7 @@ Lời: Điểm độ thật của ván trượt: năm trên mười.
 Wide 16:9 landscape cinematic frame. a scorecard showing 5 out of 10 next to a skateboard icon, close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s60 · Món 7: huy hiệu thám tử
+### s59 · Món 7: huy hiệu thám tử
 
 Lời: Đội thám tử nhí, những người bạn cùng lớp của Conan, mỗi người có một chiếc huy hiệu. Nó vừa là bộ đàm để nói…
 
@@ -503,7 +495,7 @@ Lời: Đội thám tử nhí, những người bạn cùng lớp của Conan, m
 Wide 16:9 landscape cinematic frame. three small children proudly showing their shiny detective badges in a schoolyard, medium shot, bright cheerful light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s61
+### s60
 
 Lời: Khoa học thật: bộ đàm và thiết bị định vị cho trẻ em đã có thật, như đồng hồ định vị mà nhiều phụ huynh mua c…
 
@@ -511,7 +503,7 @@ Lời: Khoa học thật: bộ đàm và thiết bị định vị cho trẻ em 
 Wide 16:9 landscape cinematic frame. a child's smartwatch with a small map on its screen beside a pair of walkie-talkies on a table, still life, soft daylight. medium shot, expressive body language, strong readable silhouette. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s62
+### s61
 
 Lời: Chỗ truyện phóng tay rất ít: chủ yếu là kích thước nhỏ gọn và pin lâu. Nhiều vụ án được cứu chỉ nhờ một đứa t…
 
@@ -519,7 +511,7 @@ Lời: Chỗ truyện phóng tay rất ít: chủ yếu là kích thước nhỏ
 Wide 16:9 landscape cinematic frame. a small hand pressing a badge button in a dark storage room, a faint signal wave emanating from it, close-up, dramatic light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s63
+### s62
 
 Lời: Điểm độ thật của huy hiệu: chín trên mười. Món đồ thật nhất trong cả video.
 
@@ -527,7 +519,7 @@ Lời: Điểm độ thật của huy hiệu: chín trên mười. Món đồ th
 Wide 16:9 landscape cinematic frame. a scorecard showing 9 out of 10 next to a badge icon, close-up, amber ink. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s64 · Bảng điểm độ thật
+### s63 · Bảng điểm độ thật
 
 Lời: Nhưng đừng quên còn một món nữa, không nằm trong phòng thí nghiệm: những chiếc huy hiệu của Đội thám tử nhí.
 
@@ -535,7 +527,7 @@ Lời: Nhưng đừng quên còn một món nữa, không nằm trong phòng th�
 Wide 16:9 landscape cinematic frame. a small shiny detective badge resting on a child's palm, extreme close-up, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s65
+### s64
 
 Lời: Kaku gom lại bảng điểm. Cao nhất là huy hiệu thám tử, chín điểm, rồi cặp kính truy tìm, tám điểm, và chiếc nơ…
 
@@ -543,7 +535,7 @@ Lời: Kaku gom lại bảng điểm. Cao nhất là huy hiệu thám tử, chí
 Wide 16:9 landscape cinematic frame. a ranked chart on parchment with glasses and microphone icons at the top, amber ink, close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s66
+### s65
 
 Lời: Ở giữa là ván trượt, năm điểm, và đồng hồ gây mê, bốn điểm. Cuối bảng là viên thuốc, ba điểm, và đôi giày tăn…
 
@@ -551,7 +543,7 @@ Lời: Ở giữa là ván trượt, năm điểm, và đồng hồ gây mê, b�
 Wide 16:9 landscape cinematic frame. the lower part of the ranked chart with skateboard, watch, capsule and sneaker icons, parchment close-up. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s67
+### s66
 
 Lời: Kaku để ý thêm: những món đồ gần hiện thực nhất đều là thứ giúp giao tiếp và tìm kiếm. Conan thật ra là một b…
 
@@ -559,7 +551,7 @@ Lời: Kaku để ý thêm: những món đồ gần hiện thực nhất đều
 Wide 16:9 landscape cinematic frame. a web of communication lines connecting small icons of people, a magnifying glass at the center, parchment illustration, amber ink. clean centered composition with the diagram as the clear focal point, flat front view, generous negative space. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s68
+### s67
 
 Lời: Có một quy luật thú vị: những món đồ về thông tin, như giọng nói và định vị, thì gần hiện thực nhất. Những mó…
 
@@ -567,7 +559,7 @@ Lời: Có một quy luật thú vị: những món đồ về thông tin, như 
 Wide 16:9 landscape cinematic frame. a two-column diagram: information gadgets on a bright side, body-changing gadgets on a dim side, parchment illustration. clean side-by-side panel composition, each part equally balanced. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s69 · **Kaku** (đính kèm ảnh mẫu)
+### s68 · **Kaku** (đính kèm ảnh mẫu)
 
 Lời: Kaku nghĩ điều này phản ánh đúng khoa học ngoài đời: máy móc và điện tử tiến rất nhanh, còn cơ thể người thì…
 
@@ -575,7 +567,7 @@ Lời: Kaku nghĩ điều này phản ánh đúng khoa học ngoài đời: máy
 Wide 16:9 landscape cinematic frame. the owl mascot holding a tiny circuit board in one wing and a biology textbook in the other, weighing them thoughtfully. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s70 · Góc nhìn của Kaku: khoa học phục vụ suy luận
+### s69 · Góc nhìn của Kaku: khoa học phục vụ suy luận
 
 Lời: Nhưng Kaku muốn nói thêm một điều. Trong Conan, tất cả những món đồ này không bao giờ là thứ giải quyết vụ án…
 
@@ -583,7 +575,7 @@ Lời: Nhưng Kaku muốn nói thêm một điều. Trong Conan, tất cả nh�
 Wide 16:9 landscape cinematic frame. a boy detective pointing confidently at a pinned evidence board full of clues and red strings, medium shot, warm dramatic light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s71
+### s70
 
 Lời: Rất nhiều vụ án trong Conan xoay quanh những kiến thức có thật: tính chất hóa học, thời gian đông cứng của vậ…
 
@@ -591,7 +583,7 @@ Lời: Rất nhiều vụ án trong Conan xoay quanh những kiến thức có t
 Wide 16:9 landscape cinematic frame. a notebook page with small sketches of a chemistry flask, an ice cube melting, a beam of light and a thinking face, parchment style, amber ink. close-up detail shot with shallow depth of field. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s72
+### s71
 
 Lời: Kaku có một bài tập nhỏ: hôm nay, hãy thử quan sát một người quen thật kỹ, rồi đoán xem họ vừa làm gì trước k…
 
@@ -599,7 +591,7 @@ Lời: Kaku có một bài tập nhỏ: hôm nay, hãy thử quan sát một ng�
 Wide 16:9 landscape cinematic frame. a person at a café table observing a friend's muddy shoes and a train ticket sticking out of a pocket, medium shot, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s73
+### s72
 
 Lời: Thứ phá án luôn là quan sát, logic, và kiến thức. Và kiến thức trong Conan, từ hóa học, vật lý tới tâm lý, ph…
 
@@ -607,7 +599,7 @@ Lời: Thứ phá án luôn là quan sát, logic, và kiến thức. Và kiến 
 Wide 16:9 landscape cinematic frame. a desk covered with a chemistry book, a physics diagram and a psychology notebook, a magnifying glass on top, close-up, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s74 · **Kaku** (đính kèm ảnh mẫu)
+### s73 · **Kaku** (đính kèm ảnh mẫu)
 
 Lời: Kaku rất muốn biết: vụ án nào trong Conan khiến bạn nhớ nhất vì một chi tiết khoa học bất ngờ? Kể cho Kaku ng…
 
@@ -615,7 +607,7 @@ Lời: Kaku rất muốn biết: vụ án nào trong Conan khiến bạn nhớ n
 Wide 16:9 landscape cinematic frame. the owl mascot holding a tiny magnifying glass over a comment box drawn on parchment. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s75
+### s74
 
 Lời: Kaku nghĩ đó là lý do Conan sống được hơn ba mươi năm và vẫn được yêu thích: truyện dạy người xem cách quan s…
 
@@ -623,7 +615,7 @@ Lời: Kaku nghĩ đó là lý do Conan sống được hơn ba mươi năm và 
 Wide 16:9 landscape cinematic frame. a child looking carefully through a magnifying glass at a small leaf in a garden, close-up, bright natural light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s76
+### s75
 
 Lời: Nếu được chọn một món đồ của tiến sĩ Agasa để mang về nhà, bạn chọn món nào, và để làm gì? Kaku đoán nhiều bạ…
 
@@ -631,7 +623,7 @@ Lời: Nếu được chọn một món đồ của tiến sĩ Agasa để mang 
 Wide 16:9 landscape cinematic frame. a small wish list on a notepad with gadget icons and checkboxes, a pencil beside it, top-down shot. diagram lines glowing softly in white and amber, deep navy surroundings. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s77 · Kết
+### s76 · Kết
 
 Lời: Và nếu một ngày ai đó nói với bạn họ đã chế ra thuốc trẻ hóa, hãy nhớ bảng điểm của Kaku: những gì thay đổi c…
 
@@ -639,7 +631,7 @@ Lời: Và nếu một ngày ai đó nói với bạn họ đã chế ra thuốc
 Wide 16:9 landscape cinematic frame. a skeptical eyebrow raised in front of a flashy advertisement for a miracle youth pill, close-up, humorous light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s78
+### s77
 
 Lời: Thuốc teo nhỏ thì còn là giấc mơ của tiểu thuyết. Nhưng nơ đổi giọng và kính định vị thì đã ở trong túi chúng…
 
@@ -647,7 +639,7 @@ Lời: Thuốc teo nhỏ thì còn là giấc mơ của tiểu thuyết. Nhưng 
 Wide 16:9 landscape cinematic frame. a kindly elderly inventor silhouette looking at a modern smartphone with delighted surprise, medium shot, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s79
+### s78
 
 Lời: Video tiếp theo, Kaku quay lại Jujutsu Kaisen với một trò chơi sinh tử: Tử Diệt Hồi Du. Luật chơi là gì, và l…
 
@@ -655,7 +647,7 @@ Lời: Video tiếp theo, Kaku quay lại Jujutsu Kaisen với một trò chơi 
 Wide 16:9 landscape cinematic frame. a game board drawn over a city map with glowing point markers and barrier lines, top-down shot, eerie violet light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s80 · **Kaku** (đính kèm ảnh mẫu)
+### s79 · **Kaku** (đính kèm ảnh mẫu)
 
 Lời: Nếu bạn thích kiểu video tách bạch thật và hư cấu, hãy đăng ký kênh để Kaku mở thêm nhiều phòng thí nghiệm nữ…
 
@@ -794,7 +786,7 @@ Kudo Shinichi là một thám tử học sinh cấp ba thiên tài. Một buổi
 
 ### c03 · Món 1: viên thuốc APTX 4869
 
-Khoảng 139 giây · cảnh s15–s24 · 1801 ký tự
+Khoảng 120 giây · cảnh s15–s23 · 1556 ký tự
 
 **Gemini**
 
@@ -814,8 +806,6 @@ Trong truyện, tên thuốc APTX là viết tắt của Apoptoxin, một chất
 <short pause> Nhưng tới phần teo nhỏ thì truyện phóng tay rất xa. Cơ thể một người mười bảy tuổi không thể thu lại thành cơ thể bảy tuổi. Xương đã dài ra thì không co lại, và khối lượng cơ thể không thể tự nhiên biến mất.
 
 <short pause> Và quan trọng nhất: đây là một chất độc trong truyện. Ngoài đời, không có loại thuốc nào biến người lớn thành trẻ con, và mọi thứ gọi là thuốc trẻ hóa thần kỳ đều đáng nghi ngờ.
-
-<short pause> Manga của Aoyama Gosho từ 1994, anime từ 1996, hơn 1.000 tập, phim điện ảnh hằng năm; tên Edogawa (Ranpo) + Conan (Doyle); Tổ chức Áo đen; Haibara chế thuốc giải tạm thời; Shinichi từng chơi bóng đá; huy hiệu Đội thám tử nhí có bộ đàm và định vị
 
 <short pause> Điểm độ thật của viên thuốc: ba trên mười. Có khái niệm khoa học thật làm nền, nhưng hiệu ứng chính là hư cấu hoàn toàn.
 ```
@@ -839,14 +829,12 @@ Trong truyện, tên thuốc APTX là viết tắt của Apoptoxin, một chất
 
 [pause] Và quan trọng nhất: đây là một chất độc trong truyện. Ngoài đời, không có loại thuốc nào biến người lớn thành trẻ con, và mọi thứ gọi là thuốc trẻ hóa thần kỳ đều đáng nghi ngờ.
 
-[pause] Manga của Aoyama Gosho từ 1994, anime từ 1996, hơn 1.000 tập, phim điện ảnh hằng năm; tên Edogawa (Ranpo) + Conan (Doyle); Tổ chức Áo đen; Haibara chế thuốc giải tạm thời; Shinichi từng chơi bóng đá; huy hiệu Đội thám tử nhí có bộ đàm và định vị
-
 [pause] Điểm độ thật của viên thuốc: ba trên mười. Có khái niệm khoa học thật làm nền, nhưng hiệu ứng chính là hư cấu hoàn toàn.
 ```
 
 ### c04 · Món 2: nơ đổi giọng
 
-Khoảng 87 giây · cảnh s25–s32 · 1133 ký tự
+Khoảng 87 giây · cảnh s24–s31 · 1133 ký tự
 
 **Gemini**
 
@@ -890,7 +878,7 @@ Nhưng giả giọng chỉ là một nửa. Conan còn phải giả cả cách n
 
 ### c05 · Món 3: đồng hồ bắn kim gây mê
 
-Khoảng 90 giây · cảnh s33–s40 · 1174 ký tự
+Khoảng 90 giây · cảnh s32–s39 · 1174 ký tự
 
 **Gemini**
 
@@ -934,7 +922,7 @@ Chiếc đồng hồ đeo tay có nắp bật lên, ngắm qua một ô kính nh
 
 ### c06 · Món 4: giày tăng lực / Món 5: kính truy tìm
 
-Khoảng 153 giây · cảnh s41–s53 · 1984 ký tự
+Khoảng 153 giây · cảnh s40–s52 · 1984 ký tự
 
 **Gemini**
 
@@ -998,7 +986,7 @@ Khoảng 153 giây · cảnh s41–s53 · 1984 ký tự
 
 ### c07 · Món 6: ván trượt năng lượng mặt trời / Món 7: huy hiệu thám tử
 
-Khoảng 99 giây · cảnh s54–s63 · 1287 ký tự
+Khoảng 99 giây · cảnh s53–s62 · 1287 ký tự
 
 **Gemini**
 
@@ -1050,7 +1038,7 @@ Ván trượt thường xuất hiện ở những cảnh rượt đuổi hay nh�
 
 ### c08 · Bảng điểm độ thật / Góc nhìn của Kaku: khoa học phục vụ suy luận
 
-Khoảng 152 giây · cảnh s64–s76 · 1979 ký tự
+Khoảng 152 giây · cảnh s63–s75 · 1979 ký tự
 
 **Gemini**
 
@@ -1114,7 +1102,7 @@ Nhưng đừng quên còn một món nữa, không nằm trong phòng thí nghi�
 
 ### c09 · Kết
 
-Khoảng 45 giây · cảnh s77–s80 · 582 ký tự
+Khoảng 45 giây · cảnh s76–s79 · 582 ký tự
 
 **Gemini**
 

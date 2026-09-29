@@ -1,0 +1,696 @@
+{
+  "title": "One Punch Man: Bảng xếp hạng anh hùng và cấp thảm họa — vì sao người mạnh nhất lại hạng C?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime One Punch Man mùa hai và phần đầu mùa ba. Kaku không nói về những gì chỉ có trong manga."
+      },
+      "image_prompt": "a hero's ID card lying on a desk beside a spoiler warning note, close-up, bright office light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Spoiler tới đầu mùa 3"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Thẻ chỉ số của một anh hùng. Tên: Saitama. Điểm thi: bảy mươi mốt. Hạng: C. Thứ hạng trong hạng C: gần bốn trăm. Nhìn thẻ này, bạn nghĩ anh ta mạnh cỡ nào?"
+      },
+      "image_prompt": "a game-style stat card with a plain silhouette, a low letter grade and a large rank number, close-up, bright game UI light",
+      "on_screen_text": "Thẻ chỉ số: hạng C"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Câu trả lời: người mạnh nhất thế giới. Anh hạ mọi đối thủ bằng đúng một cú đấm."
+      },
+      "image_prompt": "a single fist punching forward with a massive shockwave splitting clouds in the sky behind it, dynamic wide shot, dramatic bright light",
+      "on_screen_text": "Người mạnh nhất: một cú đấm",
+      "video_prompt": "the fist punches forward and the shockwave splits the clouds apart",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đó là trò đùa lớn nhất của One Punch Man, và cũng là chủ đề của video hôm nay: một hệ thống xếp hạng anh hùng rất chi tiết, và vì sao những con số của nó lại sai một cách hài hước."
+      },
+      "image_prompt": "a large ranking board with many names and numbers, one name at the very bottom glowing brightly, wide shot, playful light"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Ban đầu, One Punch Man là một truyện tranh mạng ONE tự vẽ bằng nét rất đơn giản. Nó nổi tiếng tới mức được vẽ lại thành manga chuyên nghiệp. Chính câu chuyện ra đời của nó cũng giống Saitama: bắt đầu ở hạng thấp nhất."
+      },
+      "image_prompt": "a simple rough webcomic sketch on a laptop screen next to a polished detailed manga page on a desk, close-up, warm light"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "One Punch Man là truyện của ONE, được Murata Yusuke vẽ lại thành manga. Anime mùa một do Madhouse làm năm 2015, mùa hai và ba do J.C. Staff, mùa ba ra mắt tháng mười năm 2025."
+      },
+      "image_prompt": "a stack of manga volumes beside a TV remote and a hero's cape folded neatly on a shelf, close-up, warm light",
+      "on_screen_text": "ONE · Murata · 2015–2025"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku đọc thẻ chỉ số của thế giới One Punch Man: hạng anh hùng, cấp thảm họa, điểm thi, và giới hạn của những con số. Cuối video là thẻ chỉ số của chính bạn."
+      },
+      "image_prompt": "the owl mascot wearing tiny game headphones holding up a blank stat card",
+      "use_mascot": true
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trong thế giới One Punch Man, quái vật xuất hiện liên tục. Để đối phó, một tổ chức được lập ra: Hiệp hội Anh hùng."
+      },
+      "image_prompt": "a gleaming headquarters tower with a large emblem in the center of a bustling city, wide shot, bright daylight",
+      "chapter": "Thế giới của những anh hùng có hạng",
+      "on_screen_text": "Hiệp hội Anh hùng"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Hiệp hội tuyển anh hùng qua một kỳ thi, rồi xếp họ vào bốn hạng: C, B, A, và S. Mỗi hạng lại có thứ hạng từ một trở xuống."
+      },
+      "image_prompt": "a pyramid diagram with four tiers labeled C, B, A and S from bottom to top, clean infographic style, bright light",
+      "on_screen_text": "4 hạng: C · B · A · S"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Anh hùng làm việc được trả lương, được xếp hạng dựa trên thành tích, và được người dân theo dõi như những ngôi sao. Giống một bảng xếp hạng game online."
+      },
+      "image_prompt": "a smartphone screen showing a leaderboard app with small hero icons and trending arrows, close-up, bright screen light"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Khi một quái vật xuất hiện, Hiệp hội đánh giá cấp thảm họa, rồi cử anh hùng có hạng phù hợp. Về lý thuyết, đây là một hệ thống rất hợp lý."
+      },
+      "image_prompt": "an emergency dispatch screen showing a monster alert with a level tag and a list of assigned hero ranks, close-up, red alert light"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Và quái vật cũng có hạng riêng, gọi là cấp thảm họa, từ Sói tới Thần. Hai hệ thống này ghép lại thành một bảng: anh hùng hạng nào đánh được quái vật cấp nào."
+      },
+      "image_prompt": "two parallel ladders drawn on a whiteboard, one with hero letters and one with animal icons, connected by dotted lines, close-up, bright light",
+      "on_screen_text": "Anh hùng ↔ thảm họa"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Kaku thấy đây là một ý tưởng rất hiện đại. Anh hùng không chỉ cứu người, mà còn phải cạnh tranh thứ hạng, giữ độ nổi tiếng, và chịu áp lực từ bảng xếp hạng."
+      },
+      "image_prompt": "the owl mascot anxiously refreshing a leaderboard on a tiny laptop",
+      "use_mascot": true
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Nghe thì dễ, nhưng hạng C có hàng trăm người, và ai cũng muốn lập thành tích. Có anh hùng hạng C tranh nhau từng vụ trộm vặt để giữ chỉ tiêu."
+      },
+      "image_prompt": "several small hero silhouettes racing toward a single fleeing purse snatcher on a busy street, humorous wide shot, bright light",
+      "chapter": "Chỉ số 1: hạng anh hùng"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Hạng C là hạng thấp nhất. Anh hùng hạng C phải lập ít nhất một thành tích mỗi tuần. Nếu không, họ bị loại khỏi hiệp hội."
+      },
+      "image_prompt": "a weekly calendar with a single checkbox per week, several boxes empty and marked with red warnings, close-up, office light",
+      "on_screen_text": "Hạng C: mỗi tuần một việc tốt"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Hạng B không còn chỉ tiêu hằng tuần. Anh hùng hạng B được kỳ vọng tự đánh bại quái vật cấp Sói."
+      },
+      "image_prompt": "a hero's silhouette standing over a defeated wolf-shaped shadow in an alley, medium shot, dusk light",
+      "on_screen_text": "Hạng B: cấp Sói"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Hạng A là những anh hùng nổi tiếng, đủ sức đánh bại quái vật cấp Hổ một mình. Họ có người hâm mộ, có hình trên quảng cáo."
+      },
+      "image_prompt": "a billboard in a busy street showing a heroic silhouette posing, with a crowd taking photos below, wide shot, bright commercial light",
+      "on_screen_text": "Hạng A: cấp Hổ"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Hạng S là tầng cao nhất, dành cho những người có thể một mình hạ quái vật cấp Quỷ. Số người trong hạng S rất ít, và mỗi người gần như là một siêu anh hùng thật."
+      },
+      "image_prompt": "a small elite gathering of shadowy figures around a long conference table in a high tower, wide shot, dramatic light",
+      "on_screen_text": "Hạng S: cấp Quỷ"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Muốn lên hạng, anh hùng phải leo tới vị trí số một trong hạng hiện tại, rồi chọn lên hạng trên và bắt đầu lại từ dưới cùng."
+      },
+      "image_prompt": "a small figure climbing to the top of one staircase and stepping onto the bottom of a taller staircase, symbolic wide shot, bright light"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Nghĩa là số một hạng C và người cuối cùng hạng B cách nhau chỉ một bước. Có người chọn ở lại làm số một hạng dưới, thay vì làm người cuối hạng trên."
+      },
+      "image_prompt": "a gold medal on a small podium beside a bronze medal on a much taller podium, close-up, bright light"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Kaku để ý: hệ thống này đo thành tích và sức mạnh, nhưng không đo tính cách. Và đó là chỗ nó bắt đầu sai."
+      },
+      "image_prompt": "a measuring tape wrapped around a heart-shaped object with the numbers unreadable, symbolic close-up, soft light"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Giờ tới phía quái vật. Hiệp hội chia mối đe dọa làm năm cấp thảm họa, theo quy mô tàn phá."
+      },
+      "image_prompt": "a five-level warning scale drawn like a thermometer with icons at each level, clean infographic, bright light",
+      "chapter": "Chỉ số 2: cấp thảm họa",
+      "on_screen_text": "5 cấp thảm họa"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Cấp Sói: một mối đe dọa chưa rõ mức độ, có thể gây nguy hiểm cho người. Phần lớn quái vật đường phố thuộc cấp này."
+      },
+      "image_prompt": "a small wolf icon on a warning card beside a quiet street at night, close-up, cool light",
+      "on_screen_text": "Sói"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Cấp Hổ: đe dọa một số lượng lớn người. Cấp Quỷ: đe dọa cả một thành phố."
+      },
+      "image_prompt": "two warning cards side by side, one with a tiger icon and one with a horned demon icon, close-up, orange warning light",
+      "on_screen_text": "Hổ · Quỷ"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Cấp Rồng: đe dọa nhiều thành phố. Cấp Thần: đe dọa sự tồn vong của cả loài người."
+      },
+      "image_prompt": "two warning cards with a dragon icon and a radiant crown icon, glowing ominously, close-up, red and gold light",
+      "on_screen_text": "Rồng · Thần"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Và rồi Saitama tới, trong mưa, và hạ nó bằng một cú đấm. Một mối đe dọa cấp Quỷ, đã đánh bại nhiều anh hùng, kết thúc trong một giây."
+      },
+      "image_prompt": "a single fist impact in heavy rain sending a shockwave through falling water droplets, dynamic close-up, dramatic light"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Ví dụ: vua biển sâu, con quái vật tấn công thành phố trong mùa một, được xếp cấp Quỷ. Nó đánh bại liên tiếp nhiều anh hùng hạng B, hạng A, và cả một anh hùng hạng S."
+      },
+      "image_prompt": "a towering sea creature emerging from a flooded city street in heavy rain, wide shot, dramatic stormy light",
+      "on_screen_text": "Vua biển sâu: cấp Quỷ",
+      "video_prompt": "the sea creature rises from the flooded street as rain pours down",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Thiên thạch lao về thành phố Z cũng được xếp cấp Rồng. Và Saitama phá nó bằng một cú nhảy và một cú đấm."
+      },
+      "image_prompt": "a massive flaming meteor descending over a city skyline while a tiny figure leaps up toward it, wide shot, blazing light",
+      "on_screen_text": "Thiên thạch: cấp Rồng",
+      "video_prompt": "the tiny figure leaps upward toward the flaming meteor as the sky glows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Và cấp Thần? Trong phần anime tới giờ, gần như chưa có mối đe dọa nào được xếp chính thức ở cấp này. Nó giống như một ô trống trên bảng, chờ một ngày được điền vào."
+      },
+      "image_prompt": "a warning scale with the top level glowing faintly but empty, a question mark hovering beside it, close-up, eerie gold light"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Theo bảng, cấp Rồng cần nhiều anh hùng hạng S. Theo thực tế, chỉ cần một người hạng C đi mua đồ giảm giá về."
+      },
+      "image_prompt": "a plastic grocery bag with a discount sticker resting on a rooftop beside a crater, humorous close-up, bright light"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Kỳ thi anh hùng có hai phần: kiểm tra thể lực và bài viết. Điểm tổng quyết định hạng khởi đầu."
+      },
+      "image_prompt": "a test paper and a stopwatch side by side on a desk in an exam hall, close-up, bright fluorescent light",
+      "chapter": "Chỉ số 3: điểm thi",
+      "on_screen_text": "Thi thể lực + bài viết"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Saitama làm phần thể lực hoàn hảo, phá mọi kỷ lục. Nhưng phần viết thì gần như trượt. Tổng điểm bảy mươi mốt, vừa đủ đậu, xếp hạng C."
+      },
+      "image_prompt": "a scoreboard showing a perfect physical score next to a barely passing written score, close-up, humorous bright light",
+      "on_screen_text": "Saitama: 71 điểm"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Trong khi đó Genos, học trò của Saitama, cậu người máy, được điểm tuyệt đối, và được xếp thẳng vào hạng S."
+      },
+      "image_prompt": "a perfect score certificate with a small gear emblem pinned to a wall beside a mirror, close-up, clean bright light",
+      "on_screen_text": "Genos: thẳng hạng S"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Saitama sau đó vẫn leo hạng, lên hạng B rồi hạng A theo thời gian. Nhưng tốc độ leo hạng của anh rất chậm so với sức mạnh thật."
+      },
+      "image_prompt": "a slow snail climbing a tall staircase of rank numbers, humorous close-up, bright light"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Nghĩa là thầy ở hạng C, trò ở hạng S. Và trò vẫn gọi thầy là thầy, đi theo học mỗi ngày."
+      },
+      "image_prompt": "a small apartment with two cups of tea on a low table, one seat humble and one seat eager, wide shot, warm homely light"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Kaku thấy phần thi viết là lời châm biếm rất hay. Một anh hùng có thể mạnh vô địch nhưng không trả lời được câu hỏi trên giấy. Và hệ thống lại coi trọng tờ giấy đó."
+      },
+      "image_prompt": "the owl mascot chewing on a pencil and staring at a blank exam paper with a sweat drop",
+      "use_mascot": true
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Trước khi sang chỉ số tiếp theo, một câu hỏi ai cũng muốn biết: Saitama luyện tập thế nào mà mạnh như vậy?"
+      },
+      "image_prompt": "a worn pair of running shoes beside a simple exercise mat in a small apartment, close-up, morning light",
+      "chapter": "Vì sao Saitama mạnh?"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Theo lời anh kể: một trăm lần hít đất, một trăm lần gập bụng, một trăm lần ngồi xổm, và chạy mười cây số. Mỗi ngày. Suốt ba năm. Không bỏ một ngày nào."
+      },
+      "image_prompt": "a daily checklist pinned to a wall with four exercise icons and hundreds of checkmarks, close-up, bright morning light",
+      "on_screen_text": "100 · 100 · 100 · 10 km"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Kèm theo những điều kiện rất lạ: không bật điều hòa mùa hè, không sưởi mùa đông, ăn uống đầy đủ. Cái giá duy nhất anh nhắc tới: tóc anh rụng hết."
+      },
+      "image_prompt": "a single strand of hair floating down onto an exercise mat, humorous extreme close-up, bright light",
+      "on_screen_text": "Cái giá: rụng tóc"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Genos, và cả người đọc, đều nghĩ phải có bí mật gì đó. Nhưng truyện không bao giờ đưa ra một lời giải thích nghiêm túc. Và đó chính là trò đùa."
+      },
+      "image_prompt": "a thick notebook of scientific formulas with the last page containing only a small doodle of a push-up, close-up, humorous warm light"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Kaku thấy đây là lời châm biếm tuyệt vời nhắm vào thể loại shounen: những bộ truyện khác cần cả chục chương giải thích hệ thống sức mạnh. One Punch Man trả lời bằng một bài tập thể dục ai cũng biết."
+      },
+      "image_prompt": "the owl mascot doing a tiny push-up on a notebook with a determined face",
+      "use_mascot": true
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Để thấy bảng xếp hạng hoạt động thế nào khi nó đúng, hãy xem nhanh vài anh hùng hạng S."
+      },
+      "image_prompt": "a row of seven sealed dossiers on a long table, each stamped with a large letter S, close-up, dramatic office light",
+      "chapter": "Hồ sơ vài anh hùng hạng S"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Số một là Blast, một anh hùng bí ẩn hiếm khi xuất hiện. Gần như không ai biết anh trông thế nào, và đó là lý do anh trở thành huyền thoại."
+      },
+      "image_prompt": "a single dossier with only a shadowy silhouette photo and mostly blank pages, close-up, mysterious dim light",
+      "on_screen_text": "Số 1: bí ẩn"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Số ba là Bang, một võ sư già dạy võ trên núi. Sức mạnh của ông đến từ cả đời luyện tập, không có siêu năng lực."
+      },
+      "image_prompt": "an old martial arts dojo on a mountainside with a single elderly silhouette practicing slow forms at dawn, wide shot, misty light",
+      "on_screen_text": "Số 3: võ sư già"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Có cả một cậu bé thiên tài dùng phát minh để chiến đấu, một samurai kiếm thuật đỉnh cao, và một anh hùng dùng gậy bóng chày. Mỗi người một phong cách, và đa số xứng đáng với thứ hạng."
+      },
+      "image_prompt": "a table with a small robotic gadget, a sheathed katana, and a metal baseball bat laid side by side, still life, bright light"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Nhưng ngay trong hạng S, vẫn có người như King, và vẫn có những người tính cách rất khó chịu. Hạng S là hạng của sức mạnh, không phải hạng của nhân cách."
+      },
+      "image_prompt": "a conference table where some chairs are turned away from each other, symbolic wide shot, tense light"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Chỉ số ẩn quan trọng nhất trong hệ thống: độ nổi tiếng. Thứ hạng không chỉ dựa vào sức mạnh, mà còn dựa vào việc người ta biết bạn đã làm gì."
+      },
+      "image_prompt": "a popularity meter with fan icons filling up beside a hero silhouette, clean infographic, bright light",
+      "chapter": "Chỉ số 4: độ nổi tiếng",
+      "on_screen_text": "Chỉ số ẩn: độ nổi tiếng"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Và Saitama gần như luôn thất bại ở chỉ số này. Anh thường xuất hiện khi mọi thứ gần kết thúc, đấm một cái, rồi về. Không ai thấy."
+      },
+      "image_prompt": "a lone figure walking home down an empty street at sunset carrying a grocery bag, back view, wide shot, quiet golden light"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Có lúc anh cứu cả thành phố khỏi thiên thạch, và người dân lại trách anh vì mảnh vỡ làm hỏng nhà cửa."
+      },
+      "image_prompt": "angry citizens pointing at a small figure amid scattered rubble on a street, humorous wide shot, harsh daylight",
+      "on_screen_text": "Cứu người, bị trách"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Có lúc anh hạ vua biển sâu, rồi cố ý nói rằng các anh hùng khác đã làm quái vật yếu đi, để họ không bị coi thường. Anh nhận tiếng xấu thay cho họ."
+      },
+      "image_prompt": "a lone figure standing in the rain with his back to a crowd, while other heroes are helped up in the background, wide shot, grey rainy light"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Và Saitama cũng không thật sự quan tâm. Anh muốn được công nhận, nhưng không muốn nổi tiếng bằng cách nói dối. Anh chỉ muốn một trận đấu làm tim mình đập nhanh trở lại."
+      },
+      "image_prompt": "a lone figure standing at the edge of a rooftop at dusk looking out at the city lights, back view, wide shot, quiet golden light"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Kaku để ý: độ nổi tiếng trong truyện không đo ai làm tốt nhất, mà đo ai được nhìn thấy nhiều nhất. Nghe có quen với mạng xã hội ngày nay không?"
+      },
+      "image_prompt": "a phone screen with a viral post counter rising rapidly beside a small quiet photo with no likes, close-up, bright screen light"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Giờ tới những ca khiến bảng xếp hạng trở nên thú vị nhất."
+      },
+      "image_prompt": "a ranking board with several entries highlighted in different colors, close-up, bright light",
+      "chapter": "Xếp hạng: những ca đặc biệt"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Ca một: King, anh hùng hạng S thứ bảy, được gọi là người mạnh nhất Trái Đất. Sự thật: anh không có sức mạnh gì cả. Mọi chiến công của anh thật ra là do Saitama làm, và người ta nhầm là King."
+      },
+      "image_prompt": "a tall imposing silhouette with a calm face sitting in a small room playing a video game, humorous medium shot, dim screen light",
+      "on_screen_text": "King: danh tiếng không có thật"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Tiếng tim đập của King khi sợ hãi vang to tới mức kẻ thù nghe thấy, và tưởng đó là âm thanh của một chiến binh sắp ra đòn. Anh thắng nhiều trận chỉ bằng danh tiếng."
+      },
+      "image_prompt": "a heart-shaped sound wave icon pulsing loudly beside a nervous silhouette, humorous infographic style, bright light"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Ca hai: Mumen Rider, anh hùng số một hạng C, đi xe đạp. Anh yếu, và anh biết mình yếu."
+      },
+      "image_prompt": "a simple bicycle leaning against a lamppost with a helmet hanging from the handlebar, close-up, soft afternoon light",
+      "on_screen_text": "Mumen Rider: hạng C số 1"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Nhưng khi vua biển sâu tấn công, Mumen Rider vẫn lao tới, dù biết mình không có cơ hội thắng. Anh nói, đại ý: tôi biết mình không thắng được, nhưng tôi vẫn phải chiến đấu."
+      },
+      "image_prompt": "a small figure standing alone in heavy rain before a towering sea creature, fists raised, wide shot, dramatic grey light",
+      "on_screen_text": "Vẫn phải chiến đấu",
+      "video_prompt": "rain lashes down as the small figure stands firm before the towering creature",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Và đám đông, những người đã trách mọi anh hùng, lại cổ vũ Mumen Rider. Vì họ thấy lòng dũng cảm thật."
+      },
+      "image_prompt": "a crowd under umbrellas cheering toward a small injured figure in the rain, wide shot, emotional warm light breaking through grey"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Ca ba: Tatsumaki, hạng S thứ hai, một nhà ngoại cảm cực mạnh, có thể nâng cả những khối đá khổng lồ. Cô mạnh thật, và danh tiếng của cô xứng đáng."
+      },
+      "image_prompt": "massive chunks of rock floating in the sky above a city, held by an invisible force, wide shot, green-tinted dramatic light",
+      "on_screen_text": "Tatsumaki: hạng S số 2",
+      "video_prompt": "the massive rocks drift slowly upward into the sky, held by an unseen force",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Nghĩa là bảng xếp hạng đôi khi đúng, đôi khi sai, và đôi khi sai theo cả hai chiều: đánh giá thấp người mạnh, đánh giá cao người yếu."
+      },
+      "image_prompt": "a crooked ranking board with some names too high and some too low, arrows pointing to correct them, humorous close-up, bright light"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Có một nhân vật lật ngược cả hệ thống: Garou, kẻ tự gọi mình là thợ săn anh hùng. Hắn đi đánh bại từng anh hùng một."
+      },
+      "image_prompt": "a lone martial artist standing on a rooftop at night surrounded by defeated silhouettes, wide shot, cold moonlight",
+      "chapter": "Anh hùng săn anh hùng",
+      "on_screen_text": "Garou: thợ săn anh hùng"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Garou không tin vào bảng xếp hạng. Hắn nghĩ những anh hùng chỉ là kẻ mạnh bắt nạt kẻ yếu, và quái vật mới là phe bị đối xử bất công."
+      },
+      "image_prompt": "a crumpled hero ranking poster lying on wet pavement under a flickering street lamp, close-up, moody light"
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Điều thú vị là Garou từng là học trò của võ sư Bang, người đứng hạng S thứ ba. Một người được bảng xếp hạng vinh danh, và một người quay lưng với nó, xuất phát từ cùng một võ đường."
+      },
+      "image_prompt": "two pairs of training shoes at the entrance of a mountain dojo, one neatly placed and one kicked aside, close-up, misty morning light"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Hắn cũng là một câu hỏi cho chính hệ thống: nếu anh hùng được đánh giá bằng sức mạnh và danh tiếng, thì ai được coi là người tốt thật sự?"
+      },
+      "image_prompt": "a mirror reflecting a hero's silhouette as a monster's silhouette, symbolic close-up, dramatic split light"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Arc của Garou kéo dài sang mùa ba, và Kaku sẽ không nói trước kết quả. Chỉ biết rằng hắn là một trong những nhân vật được yêu thích nhất truyện."
+      },
+      "image_prompt": "a martial artist's worn wrist wraps lying on a stone step, close-up, dusk light"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Ở mùa hai và mùa ba, thế giới One Punch Man có thêm một hệ thống thứ ba: Hiệp hội Quái vật, một tổ chức của chính các quái vật, với thủ lĩnh và cán bộ riêng."
+      },
+      "image_prompt": "a dark underground lair with a large throne and many shadowy monstrous silhouettes gathered below, wide shot, ominous red light",
+      "chapter": "Khi quái vật cũng có tổ chức",
+      "on_screen_text": "Hiệp hội Quái vật"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Nhiều cán bộ của tổ chức này được xếp cấp Rồng. Nghĩa là cùng lúc có nhiều mối đe dọa cấp Rồng, thứ mà bảng xếp hạng chưa từng tính tới."
+      },
+      "image_prompt": "a warning board with many dragon icons pinned at once and a flashing alarm light, close-up, tense red light"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Cuộc đối đầu giữa hai hiệp hội là phép thử lớn nhất cho bảng xếp hạng. Ai thật sự mạnh, ai chỉ có danh tiếng, sẽ lộ ra khi áp lực đủ lớn."
+      },
+      "image_prompt": "two large emblems facing each other on opposite walls of a ruined hall, dramatic wide shot, cold light"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Kaku sẽ không nói trước diễn biến, vì mùa ba vẫn đang kể phần này. Nhưng nếu bạn thích bảng xếp hạng, arc này là nơi nó bị thử thách nhiều nhất."
+      },
+      "image_prompt": "a ranking board with several cracks spreading across it, close-up, dramatic light"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Vậy những con số trong One Punch Man cho ta biết gì? Kaku thấy có ba giới hạn."
+      },
+      "image_prompt": "a notebook page titled with three numbered lines, close-up, amber ink",
+      "chapter": "Giới hạn của những con số"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Nói cách khác, Hiệp hội chấm điểm theo bằng chứng. Mà Saitama thì luôn đi về trước khi có người tới chụp ảnh."
+      },
+      "image_prompt": "an empty street with a large crater and a news camera crew arriving too late, humorous wide shot, bright light"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Giới hạn một: con số đo cái được nhìn thấy, không đo cái thật. Saitama mạnh nhất nhưng ở hạng thấp, vì không ai thấy anh làm gì."
+      },
+      "image_prompt": "an iceberg drawing with a small visible tip above water and a massive hidden body below, parchment close-up, amber ink",
+      "on_screen_text": "1. Chỉ đo cái được nhìn thấy"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Giới hạn hai: con số không đo được lòng dũng cảm. Mumen Rider yếu, nhưng dũng cảm hơn nhiều anh hùng mạnh hơn anh."
+      },
+      "image_prompt": "a small heart icon on a stat card with the value field showing an infinity symbol, close-up, warm light",
+      "on_screen_text": "2. Không đo được lòng dũng cảm"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Giới hạn ba: con số có thể bị lừa. King ở hạng S chỉ vì danh tiếng. Một hệ thống dựa vào tin đồn sẽ luôn có những King."
+      },
+      "image_prompt": "a stat card with a large fake gold sticker stuck over the real numbers, humorous close-up, bright light",
+      "on_screen_text": "3. Có thể bị lừa"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Và có một giới hạn cuối, rất buồn: Saitama đã mạnh tới mức không còn thấy hứng thú khi chiến đấu. Mọi trận đều kết thúc bằng một cú đấm. Anh mất đi cảm giác hồi hộp."
+      },
+      "image_prompt": "a lone figure sitting on a rooftop staring at the sky with an empty expression, a single cloud drifting by, wide shot, melancholy light",
+      "on_screen_text": "Mạnh nhất, và chán"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Có lẽ vì vậy mà Saitama không quan tâm tới thứ hạng. Thứ anh muốn không phải con số, mà là một đối thủ khiến anh cảm thấy mình đang sống."
+      },
+      "image_prompt": "a single boxing glove hanging from a hook in an empty gym, dust drifting in a beam of light, close-up, melancholy light"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Nghĩa là con số cao nhất cũng có giá. Khi bạn không còn ai để thử thách, sức mạnh trở thành một sự cô đơn."
+      },
+      "image_prompt": "the owl mascot sitting alone on top of a very tall stack of trophies, looking a bit lonely",
+      "use_mascot": true
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Giờ tới lượt bạn. Hãy tự điền thẻ chỉ số anh hùng của mình."
+      },
+      "image_prompt": "a blank hero stat card with empty fields and a pencil resting on it, close-up, bright cheerful light",
+      "chapter": "Trò chơi: thẻ chỉ số của bạn",
+      "on_screen_text": "Thẻ chỉ số của bạn"
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Một: bạn sẽ đậu kỳ thi với bao nhiêu điểm? Thể lực bao nhiêu, bài viết bao nhiêu?"
+      },
+      "image_prompt": "a small exam form with two score boxes, one with a running shoe icon and one with a pencil icon, close-up, bright light"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Hai: bạn thuộc hạng nào, và bạn chọn làm số một hạng dưới, hay người cuối hạng trên?"
+      },
+      "image_prompt": "two podiums of different heights with a small question mark on each, close-up, bright light"
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Ba: bạn đủ sức đối đầu với quái vật cấp nào? Và nếu gặp một con cấp Quỷ, bạn có lao lên như Mumen Rider không?"
+      },
+      "image_prompt": "a small figure standing at the start of a road leading toward a distant silhouette of a giant monster, wide shot, dramatic light"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Năm: nếu bạn giỏi hơn người ở hạng trên mà vẫn bị xếp hạng thấp, bạn sẽ tức giận, hay cứ tiếp tục làm việc của mình như Saitama?"
+      },
+      "image_prompt": "a small calm figure continuing to jog past a ranking board without looking at it, humorous wide shot, bright light"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Bốn, chỉ số ẩn: nếu bạn cứu cả thành phố mà không ai biết, bạn có còn làm không?"
+      },
+      "image_prompt": "a small anonymous thank-you note left on a doorstep with no name signed, close-up, soft morning light",
+      "on_screen_text": "Chỉ số ẩn của bạn"
+    },
+    {
+      "id": "s84",
+      "narration": {
+        "vi": "Thẻ của Kaku: thể lực hai điểm, bài viết mười điểm, hạng C, cấp Sói cũng hơi run. Nhưng chỉ số ẩn thì Kaku tự chấm cao. Còn bạn? Viết vào bình luận nhé."
+      },
+      "image_prompt": "the owl mascot proudly holding up its own stat card showing low numbers and a big heart sticker",
+      "use_mascot": true
+    },
+    {
+      "id": "s85",
+      "narration": {
+        "vi": "One Punch Man là một bộ truyện giả vờ nói về sức mạnh, nhưng thật ra nói về việc con người đánh giá nhau thế nào. Và những con số trên bảng xếp hạng không bao giờ kể hết câu chuyện."
+      },
+      "image_prompt": "a ranking board slowly fading while a small figure walks away carrying groceries in the foreground, wide shot, warm evening light",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s86",
+      "narration": {
+        "vi": "Và lần tới bạn nhìn thấy một bảng xếp hạng, dù ở trường, ở công ty, hay trên mạng, hãy nhớ tới Saitama: con số chỉ là một phần của câu chuyện."
+      },
+      "image_prompt": "a school notice board with ranked names pinned to it, a small smiling doodle drawn in the corner, close-up, warm light"
+    },
+    {
+      "id": "s87",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku mở một cuốn sử hoài niệm: Yu-Gi-Oh! và lịch sử luật bài, từ Fusion, Ritual, tới Synchro, Xyz, Pendulum và Link."
+      },
+      "image_prompt": "a small stack of trading cards fanned out on a table with an old game mat, close-up, nostalgic warm light",
+      "on_screen_text": "Tiếp theo: lịch sử luật bài Yu-Gi-Oh!"
+    },
+    {
+      "id": "s88",
+      "narration": {
+        "vi": "Nếu bạn thích xem Kaku đọc thẻ chỉ số, hãy đăng ký kênh. Thứ hạng của Kaku có thể thấp, nhưng Kaku sẽ tiếp tục ra một video mỗi tuần, như một anh hùng hạng C chăm chỉ. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot riding a tiny bicycle and waving goodbye",
+      "use_mascot": true
+    }
+  ]
+}

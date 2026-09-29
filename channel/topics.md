@@ -80,12 +80,12 @@ Tổng tạm tính trên 3 tiêu chí (tối đa 15), chưa có Bằng chứng.
 | 55 | 2027-02-09 | 10 hiểu lầm phổ biến | One Piece | K · Gỡ hiểu lầm | 5 | ? | 4 | 4 | 13 | `videos/2027-02-09-10-hieu-lam-one-piece/` | Kịch bản xong — chờ kiểm nguồn |
 | 56 | 2027-02-11 | Hồ sơ quái vật (và ăn được không) | Dungeon Meshi | E · Hồ sơ bách khoa | 4 | ? | 5 | 5 | 14 | `videos/2027-02-11-ho-so-quai-vat-dungeon-meshi/` | Kịch bản xong — chờ kiểm nguồn |
 | 57 | 2027-02-13 | Phân tích trận Naruto vs Pain | Naruto | M · Phân tích trận đấu | 5 | ? | 4 | 4 | 13 | `videos/2027-02-13-tran-naruto-pain/` | Kịch bản xong — chờ kiểm nguồn |
-| 58 | 2027-02-16 | Phiên tòa: Lelouch | Code Geass | U · Phiên tòa nhân vật | 4 | ? | 5 | 4 | 13 | `videos/2027-02-16-phien-toa-lelouch/` | Chưa viết |
-| 59 | 2027-02-18 | Chi tiết cài cắm trong 50 chương đầu | One Piece (bản làm lại tháng 2) | R · Cài cắm và chi tiết ẩn | 5 | ? | 4 | 4 | 13 | `videos/2027-02-18-cai-cam-50-chuong-one-piece/` | Chưa viết |
-| 60 | 2027-02-20 | Bảng xếp hạng anh hùng và cấp thảm họa | One Punch Man | F · Bảng chỉ số kiểu game | 4 | ? | 4 | 5 | 13 | `videos/2027-02-20-xep-hang-anh-hung-one-punch-man/` | Chưa viết |
-| 61 | 2027-02-23 | Lịch sử luật bài, từ Fusion đến Link | Yu-Gi-Oh! | C · Lịch sử / tiến hóa | 4 | ? | 5 | 4 | 13 | `videos/2027-02-23-lich-su-luat-bai-yu-gi-oh/` | Chưa viết |
-| 62 | 2027-02-25 | Các dạng Ác ma hợp thể của Asta | Black Clover (mùa 2 đang phát) | G · Bậc thang tiến hóa | 4 | ? | 4 | 4 | 12 | `videos/2027-02-25-ac-ma-hop-the-asta/` | Chưa viết |
-| 63 | 2027-02-27 | Luật của cuốn sổ và cách phá | Death Note | B · Luật chơi và cách phá | 5 | ? | 5 | 4 | 14 | `videos/2027-02-27-luat-death-note/` | Chưa viết |
+| 58 | 2027-02-16 | Phiên tòa: Lelouch | Code Geass | U · Phiên tòa nhân vật | 4 | ? | 5 | 4 | 13 | `videos/2027-02-16-phien-toa-lelouch/` | Kịch bản xong — chờ kiểm nguồn |
+| 59 | 2027-02-18 | Chi tiết cài cắm trong 50 chương đầu | One Piece (bản làm lại tháng 2) | R · Cài cắm và chi tiết ẩn | 5 | ? | 4 | 4 | 13 | `videos/2027-02-18-cai-cam-50-chuong-one-piece/` | Kịch bản xong — chờ kiểm nguồn |
+| 60 | 2027-02-20 | Bảng xếp hạng anh hùng và cấp thảm họa | One Punch Man | F · Bảng chỉ số kiểu game | 4 | ? | 4 | 5 | 13 | `videos/2027-02-20-xep-hang-anh-hung-one-punch-man/` | Kịch bản xong — chờ kiểm nguồn |
+| 61 | 2027-02-23 | Lịch sử luật bài, từ Fusion đến Link | Yu-Gi-Oh! | C · Lịch sử / tiến hóa | 4 | ? | 5 | 4 | 13 | `videos/2027-02-23-lich-su-luat-bai-yu-gi-oh/` | Kịch bản xong — chờ kiểm nguồn |
+| 62 | 2027-02-25 | Các dạng Ác ma hợp thể của Asta | Black Clover (mùa 2 đang phát) | G · Bậc thang tiến hóa | 4 | ? | 4 | 4 | 12 | `videos/2027-02-25-ac-ma-hop-the-asta/` | Kịch bản xong — chờ kiểm nguồn |
+| 63 | 2027-02-27 | Luật của cuốn sổ và cách phá | Death Note | B · Luật chơi và cách phá | 5 | ? | 5 | 4 | 14 | `videos/2027-02-27-luat-death-note/` | Kịch bản xong — chờ kiểm nguồn |
 | 64 | 2027-03-02 | Bảo bối nào làm được ngoài đời thật | Doraemon (phim mới 05/03) | P · Khoa học trong anime | 5 | ? | 5 | 5 | 15 | `videos/2027-03-02-khoa-hoc-doraemon/` | Chưa viết |
 | 65 | 2027-03-04 | Cây phả hệ Joestar và dấu ngôi sao | JoJo | D · Cây phả hệ | 4 | ? | 4 | 4 | 12 | `videos/2027-03-04-cay-pha-he-joestar/` | Chưa viết |
 | 66 | 2027-03-06 | Người Viking thật và Thorfinn thật | Vinland Saga | S · Nguồn gốc ngoài đời thật | 4 | ? | 5 | 5 | 14 | `videos/2027-03-06-viking-that-vinland-saga/` | Chưa viết |

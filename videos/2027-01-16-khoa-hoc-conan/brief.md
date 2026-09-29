@@ -10,6 +10,7 @@
 
 | Sự thật | Nguồn / tình trạng |
 |---|---|
+| Manga của Aoyama Gosho từ 1994, anime từ 1996, hơn 1.000 tập, phim điện ảnh hằng năm; tên Edogawa (Ranpo) + Conan (Doyle); Tổ chức Áo đen; Haibara chế thuốc giải tạm thời; Shinichi từng chơi bóng đá; huy hiệu Đội thám tử nhí có bộ đàm và định vị | cần kiểm lại |
 | APTX 4869 (Apoptoxin) gây chết tế bào theo chương trình, có thành phần liên quan telomerase; do Miyano Shiho phát triển (tiếp nối nghiên cứu của cha); tác dụng phụ hiếm làm teo nhỏ (Shinichi, Shiho) | [Detective Conan Fandom](https://detectiveconan.fandom.com/wiki/APTX_4869), [Detective Conan World](https://www.detectiveconanworld.com/wiki/APTX_4869) |
 | Nơ đổi giọng, đồng hồ bắn kim gây mê (một kim, thường dùng với ông Mori), giày tăng lực, kính truy tìm (khoảng 20 dặm, có nghe lén) | [Shinichi Kudo Fandom: Dr. Agasa](https://shinichikudo.fandom.com/wiki/Dr._Agasa), [Shapes](https://shapes.inc/fandom/case-closed-detective-conan/gadgets), [Detective Conan World](https://www.detectiveconanworld.com/wiki/Voice-Changing_Bowtie) |
 | Apoptosis là quá trình có thật; ngón tay thai nhi tách nhờ apoptosis; telomerase có thật | Kiến thức sinh học phổ thông — cần thêm nguồn trước khi làm giọng |
