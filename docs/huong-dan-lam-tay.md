@@ -21,6 +21,7 @@ Trên trang Xưởng, tab **Giọng**, có 3 bản mô tả giọng (nam giọng
 
 - **Google AI Studio** (miễn phí, cùng tài khoản Google): vào aistudio.google.com, mở phần tạo giọng nói, dùng **Voice Design**. Dán mô tả giọng, đọc thử đoạn mẫu, lưu giọng.
 - **ElevenLabs**: vào Voices → Voice Design, dán mô tả giọng, nghe thử với đoạn mẫu, rồi Save.
+- **VoiceStudio trên PC** (miễn phí, chạy tại máy có card NVIDIA): làm theo `docs/voicestudio.md`, bước 1–3. Chỉ dùng engine VoxCPM2, không dùng OmniVoice (giấy phép phi thương mại).
 
 Nghe cả 3 giọng rồi nhắn mình, ví dụ "chọn giọng nam-bac". Mình sẽ ghi vào `channel/giong-kaku.json`. Từ đó mọi video dùng đúng một giọng này.
 
@@ -55,6 +56,7 @@ Mỗi video chia thành khoảng 7–9 **đoạn đọc** (`c01`, `c02`…), m�
   1. Chọn model **Eleven v3** và giọng Kaku.
   2. Dán **bản ElevenLabs** của đoạn (đã có sẵn các thẻ `[pause]`, `[chuckles]`, `[curious]`).
   3. Bấm Generate rồi tải file về.
+- **Nếu dùng VoiceStudio trên PC:** không cần dán từng đoạn. Chạy `python -m tools.voicestudio run videos/<thư-mục>` trên PC, rồi làm tiếp theo `docs/voicestudio.md`, bước 5.
 - **Sau khi có file:** tải lên đúng thẻ đoạn trên trang Xưởng. Trang sẽ báo nếu thời lượng lệch hơn 20% so với dự kiến.
 - **Lưu ý:**
   - Cả video phải dùng **một công cụ và một giọng**, để các đoạn nối vào nhau liền mạch.

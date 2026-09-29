@@ -78,6 +78,11 @@ Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ư�
    - Nếu ảnh mẫu Kaku (`images/kaku-ref`) chưa có trong `channel/brand/kaku-ref.png` thì lưu vào đó.
 4. Cảnh hoặc đoạn nào thiếu hay hỏng thì báo số cảnh / số đoạn để người dùng làm lại trên trang.
 
+**Giọng bằng VoiceStudio trên PC của người dùng** (0 USD, xem `docs/voicestudio.md`):
+- Người dùng tự chạy `python -m tools.voicestudio run videos/<thư-mục>` trên PC. Lệnh không chạy được trong phiên cloud vì không với tới `localhost:3900`.
+- Chỉ dùng engine `voxcpm2` (Apache-2.0). Không dùng `omnivoice` (CC-BY-NC 4.0, phi thương mại); công cụ tự chặn.
+- Nếu người dùng gửi `giong-vi.zip` (tải từ Google Drive): `python -m tools.voicestudio unpack videos/<thư-mục> --from <zip>`, rồi dựng như bình thường.
+
 Chỉ khi người dùng yêu cầu mới dùng API: `python -m tools.images videos/<thư-mục>` (khoảng 0,034 USD/ảnh), `python -m tools.tts videos/<thư-mục> --lang vi` (khoảng 0,14 USD/video).
 
 ```bash

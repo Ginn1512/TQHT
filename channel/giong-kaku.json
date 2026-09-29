@@ -60,6 +60,14 @@
       "question": ""
     }
   },
+  "voicestudio": {
+    "_ghi_chu": "Tạo giọng tại máy bằng VoiceStudio (python -m tools.voicestudio, xem docs/voicestudio.md). Chỉ dùng engine có giấy phép cho phép kiếm tiền: voxcpm2 (Apache-2.0). Không dùng omnivoice (CC-BY-NC 4.0). Sau khi lưu hồ sơ giọng Kaku trong app, ghi id vào voice_id.",
+    "engine": "voxcpm2",
+    "voice_id": null,
+    "speed": 1.0,
+    "seed": 1234,
+    "language": "vi"
+  },
   "twist_starts": ["Nhưng", "Thật ra", "Hóa ra", "Và đây mới là", "Điều bất ngờ", "Vấn đề là", "Khoan đã", "Tuy nhiên"],
   "max_chunk_chars": 2000
 }
