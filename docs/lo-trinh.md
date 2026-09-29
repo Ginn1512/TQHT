@@ -60,16 +60,16 @@
 | Giai đoạn | Thời gian | Việc chính |
 |---|---|---|
 | Chuẩn bị | 29/09–05/10 | Chọn giọng Kaku, tạo ảnh mẫu Kaku, làm ảnh và giọng video 1–2 |
-| Tháng 1 | 06/10–05/11 | Video 1–13, 1 Short/ngày; đo thời gian làm tay thật; tối ưu thumbnail theo CTR |
-| Tháng 2 | 06/11–05/12 | Video 14–26; làm thêm theo chủ đề thắng; bật YPP mở rộng khi đủ 500 người đăng ký |
-| Tháng 3 | 06/12–04/01/2027 | Video 27–39; đạt 1.000 người đăng ký + 4.000 giờ xem rồi nộp đơn YPP |
+| Tháng 1 | 06/10–05/11 | Video 1–14, 1 Short/ngày; đo thời gian làm tay thật; tối ưu thumbnail theo CTR |
+| Tháng 2 | 06/11–05/12 | Video 15–27; làm thêm theo chủ đề thắng; bật YPP mở rộng khi đủ 500 người đăng ký |
+| Tháng 3 | 06/12–04/01/2027 | Video 28–39; đạt 1.000 người đăng ký + 4.000 giờ xem rồi nộp đơn YPP |
 | Sau YPP | 2–3 tuần | Tự động hóa (Notion + n8n), rồi lồng tiếng |
 
 ### Mốc kiểm tra
 
 | Mốc | Mục tiêu |
 |---|---|
-| Ngày 30 (05/11) | 12 video, khoảng 30 Short; từ 200 người đăng ký, từ 800 giờ xem; CTR từ 5%, tỉ lệ giữ chân từ 35% |
+| Ngày 30 (05/11) | 14 video, khoảng 30 Short; từ 200 người đăng ký, từ 800 giờ xem; CTR từ 5%, tỉ lệ giữ chân từ 35% |
 | Ngày 60 (05/12) | Từ 500 người đăng ký, từ 2.500 giờ xem |
 | Ngày 90 (04/01/2027) | 1.000 người đăng ký + 4.000 giờ xem (hoặc 10 triệu lượt xem Shorts) |
 
