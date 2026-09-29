@@ -6,6 +6,20 @@ Khi viết kịch bản, chỉ đọc file này và `channel/profile.md`, không
 
 ---
 
+## 2026-09-29: trước đợt kịch bản video 31–78
+
+Nguồn: `channel/references/nghien-cuu-nganh-2026.md` (mục "Cập nhật 2026-09-29", chính sách YPP 2027, xu hướng ở Việt Nam).
+
+1. **Điều kiện kiếm tiền tăng gấp đôi từ 01/02/2027; nộp trước ngày đó thì được xét theo mức cũ** (YouTube Blog, 10/8/2026).
+   - **Áp dụng:** tháng 1/2027 chỉ làm chủ đề nhu cầu cao (Jujutsu Kaisen, Conan, Sakamoto Days, Mashle, Kimetsu, Fullmetal Alchemist).
+   - Lộ trình có thêm hạn chót 31/01/2027: đủ điều kiện là nộp đơn ngay.
+2. **Mùa mới và bản làm lại tạo "sóng" tìm kiếm trước ngày phát** (lịch tháng 1–4/2027).
+   - **Áp dụng:** dạng mới **T · Ôn tập trước mùa mới**, đăng 1–2 tuần trước ngày phát (Sakamoto Days, Mashle).
+   - Video "nhập môn" và "cài cắm" đặt ngay trước bộ mới (Kagurabachi, *The One Piece*).
+3. **Bộ gây tranh luận giúp tăng người xem mà không tốn quảng bá** (KILALA, xu hướng 2026).
+   - **Áp dụng:** dạng mới **U · Phiên tòa nhân vật**: người xem làm bồi thẩm, Kaku không tuyên án, kết bằng lời mời bình chọn.
+   - Dạng mới **S · Nguồn gốc ngoài đời thật**: ghép truyện với lịch sử hoặc truyền thuyết có nguồn (Momotaro, Tần Thủy Hoàng, người Viking), vừa có giá trị gốc vừa gây bàn luận.
+
 ## 2026-09-28: trước đợt kịch bản video 12–30
 
 Nguồn: `channel/references/nghien-cuu-nganh-2026.md` (tìm kiếm web, chưa có số liệu TranscriptAPI).

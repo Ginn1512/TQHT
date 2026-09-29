@@ -19,6 +19,26 @@
 | Thu | Cyberpunk: Edgerunners 2, Dragon Ball Super: Beerus, Reincarnated as a Sword mùa 2 | Được chờ nhiều nhất trong bình chọn của Anime Corner (Edgerunners 2 dẫn đầu, 16,42%) | Anime Corner (tìm kiếm trong lúc lập kế hoạch) |
 | 2027 | Dandadan mùa 3 | Science Saru xác nhận tại Jump Festa 2026 | [Collider](https://collider.com/dandadan-season-3-confirmed-2027-release-window/) |
 
+### Cập nhật 2026-09-29 (trước đợt video 31–78)
+
+| Thời điểm | Bộ đáng chú ý | Ghi chú | Nguồn |
+|---|---|---|---|
+| Thu 2026 | Tokyo Revengers mùa 4 "Tam Thiên Chiến" | Từ 03/10/2026 | [Wikipedia](https://en.wikipedia.org/wiki/Tokyo_Revengers), [Hypebeast](https://hypebeast.com/2026/6/tokyo-revengers-war-of-the-three-titans-arc-third-trailer-october-premiere-date) |
+| Thu 2026 | Tougen Anki: arc thác Kegon ở Nikko | Tháng 10/2026; truyện lấy cảm hứng từ truyện cổ Momotaro | [Anime News Network](https://www.animenewsnetwork.com/news/2026-03-29/tougen-anki-nikko-kegon-falls-arc-anime-reveals-october-2026-premiere-new-cast-members/.235912) |
+| Thu 2026 | Dragon Ball Super: Beerus (bản làm lại arc Thần Hủy Diệt) | Từ 11/10/2026 tại Nhật; sau đó làm lại cả arc Frieza Vàng và Vũ trụ 6 | [Dragon Ball Official](https://en.dragon-ball-official.com/news/01_4425.html), [LEVEL UP](https://www.levelup.com/en/news/dragon-ball-super-beerus-reveals-official-release-date-and-confirms-more-anime-arcs-are-coming/) |
+| Thu 2026 | Cyberpunk: Edgerunners 2 (Studio Trigger) | Netflix 20/10/2026, cả 10 tập một lúc; nhóm nhân vật mới | [Netflix Tudum](https://www.netflix.com/tudum/articles/cyberpunk-edgerunners-2-release-date-news) |
+| Thu 2026 | Black Clover mùa 2 | 24 tập (2 phần), vào arc Tấn công Vương quốc Spade | [Game Rant](https://gamerant.com/black-clover-season-2-release-date-october-3/) |
+| Thu 2026 | Ranma ½ mùa 3, Magic Knight Rayearth | Các bộ thập niên 1990 trở lại | [fun-japan](https://www.fun-japan.jp/en/articles/14677) |
+| Tháng 1/2027 | Sakamoto Days mùa 2 (Netflix) | Arc thâm nhập JCC và arc quá khứ của Sakamoto | [Anime News Network](https://www.animenewsnetwork.com/news/2026-06-23/sakamoto-days-season-2-teaser-reveals-new-cast-updated-staff-january-2027-debut/.238861) |
+| Tháng 1/2027 | Mashle mùa 3 (Kỳ thi cuối Thần giác giả) | Chưa có ngày cụ thể | [Anime Corner](https://animecorner.me/mashle-magic-and-muscles-season-3-first-trailer-and-january-2027-release-date-revealed/) |
+| Tháng 1/2027 | Shangri-La Frontier mùa 3 | Chưa có ngày cụ thể | [Anime News Network](https://www.animenewsnetwork.com/news/2026-03-19/shangri-la-frontier-anime-reveals-season-3-january-2027-debut-1st-game-2026-launch/.235485) |
+| Tháng 2/2027 | *The One Piece* (WIT Studio, Netflix) | Làm lại từ đầu: 7 tập khoảng 42 phút, 50 chương đầu | [What's on Netflix](https://www.whats-on-netflix.com/news/the-one-piece-is-coming-to-netflix-in-february-2027/) |
+| 05/03/2027 | Phim Doraemon 2027 (Nobita và chuyến tàu hơi nước thời gian) | Du hành về London thế kỷ 19 | [Anime News Network](https://www.animenewsnetwork.com/news/2026-09-14/2027-doraemon-film-teaser-unveils-march-5-opening-in-japan/.241749) |
+| Tháng 4/2027 | Kagurabachi (studio Cypic) | Chiếu trước tập 1 qua tour thế giới | [Anime Corner](https://animecorner.me/kagurabachi-anime-officially-announced-for-april-2027-reveals-studio-production-details/) |
+| Tháng 4/2027 | Dược sư tự sự mùa 3 phần 2, Blue Lock mùa 3 | Blue Lock mùa 3 dự kiến xuân 2027 | [LiveChart](https://www.livechart.me/spring-2027/tv) |
+| 2027 (chưa có ngày) | Jujutsu Kaisen mùa 4, Chainsaw Man arc Sát thủ, Gachiakuta mùa 2 | Không làm video phụ thuộc ngày phát | [Game Rant](https://gamerant.com/jujutsu-kaisen-season-4-release-date-plot-updates/), [Screen Rant](https://screenrant.com/gachiakuta-season-2-release-date-catch/) |
+| Tháng 10/2027 | Frieren arc Vùng đất Hoàng kim | Dự kiến | [ComicBook](https://comicbook.com/anime/list/5-most-anticipated-upcoming-anime-in-2027-1-is-the-hottest-shonen-jump-series/) |
+
 **Giải Crunchyroll Anime Awards 2026:** Dandadan nhiều đề cử nhất (20), tiếp theo là Dược sư tự sự (17), Gachiakuta (16) và My Hero Academia (15) ([hooked.so](https://www.hooked.so/trends/youtube/anime)).
 
 **Cách dùng cho kênh:** làm video "nhập môn" hoặc "hồ sơ" **trong lúc** bộ đó đang phát (Black Clover, Dược sư tự sự, SBR vào tháng 10–12/2026). Các bộ kinh điển (One Piece, Naruto, Dragon Ball, Bleach) là nền lượt tìm kiếm ổn định.
@@ -42,8 +62,17 @@
 - Video có AI hỗ trợ nhưng **thêm giá trị gốc** (bình luận, kể chuyện, nghiên cứu, góc nhìn riêng) vẫn được kiếm tiền.
 - Nguồn: [Tubefilter](https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/), [OutlierKit](https://outlierkit.com/resources/youtube-ai-slop-crackdown-2026/), [peggyktc](https://www.peggyktc.com/2026/07/youtube-clarifies-inauthentic-content.html).
 
+- **10/8/2026: YouTube viết lại chương trình Đối tác (YPP), áp dụng từ 01/02/2027.**
+  - Kênh **mới** muốn chia sẻ doanh thu quảng cáo cần 1.000 người đăng ký + **8.000 giờ xem** công khai trong 365 ngày (hiện nay 4.000), hoặc **20 triệu** lượt xem Shorts trong 90 ngày (hiện nay 10 triệu).
+  - **Nộp đơn trước 01/02/2027 thì được xét theo mức cũ.** Kênh đã trong YPP không bị ảnh hưởng bởi mức mới, nhưng phải chấp nhận điều khoản mới trước 31/01/2027.
+  - Mốc YPP mở rộng (500 người đăng ký + 3.000 giờ xem hoặc 3 triệu lượt xem Shorts) **giữ nguyên**: mở hội viên và Super Thanks, chưa có tiền quảng cáo.
+  - Từ 01/02/2027, muốn có doanh thu quảng cáo trên Shorts cần 10 triệu lượt xem Shorts trong 90 ngày gần nhất.
+  - Từ 24/8/2026, lượt xem được tính từ khung hình đầu tiên, cho cả video dài lẫn Shorts.
+  - Nguồn: [YouTube Blog](https://blog.youtube/news-and-events/youtube-partner-program-updates-2027-new-opportunities-earn/), [vidIQ](https://vidiq.com/blog/post/youtube-partner-program-changes-2027/), [9to5Google](https://9to5google.com/2026/08/10/youtube-premium-lite-expansion-monetization-changes/), [tbreak](https://tbreak.com/youtube-partner-program-8000-watch-hours/), [AIR Media-Tech](https://air.io/en/monetization/youtube-monetization-policy-changes-2026-a-complete-dated-timeline).
+
 **Hệ quả cho kênh:**
 
+- **Hạn chót thật là 31/01/2027:** đủ 1.000 người đăng ký + 4.000 giờ xem thì nộp đơn ngay, không chờ. Chủ đề tháng 1/2027 dồn vào các bộ có nhu cầu cao nhất.
 - Mỗi dạng video có **khung riêng**: cách mở đầu, số chương, chương đặc thù, cách kết (`channel/formats.md`). Không dùng một câu kết cố định cho mọi video.
 - Nhịp đăng tối đa 2–3 video/tuần.
 - Thumbnail đổi bố cục theo dạng video.
@@ -60,6 +89,13 @@
 | Ani-One Vietnam | — | Kênh bản quyền, phụ đề và lồng tiếng Việt; không phải đối thủ, chỉ là nơi người xem Việt tìm phim | [Cosmolife](https://cosmolife.vn/ra-mat-kenh-ani-one-vietnam-mang-den-mot-loat-noi-dung-anime-ban-quyen-co-phu-de-hoac-long-tieng-viet-21394.html) |
 
 Xu hướng chung: anime gây nhiều **bàn luận và lý thuyết** thì video giữ lượt xem lâu. Shorts giúp người xem mới tìm thấy kênh ([hooked.so](https://www.hooked.so/trends/youtube/anime)).
+
+**Xu hướng ở Việt Nam (29/09/2026):**
+
+- Nhóm 10–20 tuổi đưa anime từ TikTok sang YouTube bằng clip cắt cảnh, nhạc và vũ đạo.
+- Những bộ giàu tính thảo luận sẽ tăng người xem mà không cần nhiều quảng bá ([KILALA](https://kilala.vn/giai-tri/chuyen-gia-du-bao-xu-huong-anime-nam-2026.html)).
+- Kênh Việt "Xem Anime" làm tóm tắt, phân tích, chi tiết ẩn và lý thuyết ([YouTube](https://www.youtube.com/@XemAnimeNe)).
+- Các bộ kinh điển (Conan, Doraemon, Pokémon, Dragon Ball, Naruto, One Piece) vẫn là nền tìm kiếm lớn nhất với người xem Việt, và ít kênh làm chúng theo góc "luật vận hành".
 
 ## 5. Việc còn thiếu (cần key)
 

@@ -178,6 +178,225 @@ Jiraiya
 Obito
 Rock Lee
 Neji
+Tokyo Revengers
+Takemichi
+Mikey
+Draken
+Naoto
+Toman
+Kisaki
+Baji
+Chifuyu
+Beerus
+Whis
+Zeno
+Kaioshin
+Frieza
+Vados
+Champa
+Shenron
+Cyberpunk
+Edgerunners
+Night City
+Arasaka
+Adam Smasher
+Sandevistan
+Lucy
+Rebecca
+Tougen Anki
+Shiki Ichinose
+Ichinose
+Muda
+Renji
+Senbonzakura
+Soul Society
+Tokyo Ghoul
+Kaneki
+Touka
+Rize
+Arima
+Kagune
+Ukaku
+Koukaku
+Rinkaku
+Bikaku
+Pokémon
+Pikachu
+Ash Ketchum
+Charizard
+Eevee
+Mewtwo
+Poke Ball
+Poké Ball
+Zeke
+Historia
+Sakamoto
+Nagumo
+Shishiba
+Osaragi
+Slur
+JCC
+Shangri-La
+Sunraku
+Pencilgon
+Oikatzo
+Wethermon
+Mashle
+Mash
+Burnedead
+Wahlberg
+Innocent Zero
+Easton
+Tensura
+Rimuru
+Veldora
+Benimaru
+Milim
+Great Sage
+My Hero
+Deku
+Izuku
+Midoriya
+All Might
+Bakugo
+Shigaraki
+All For One
+One For All
+Todoroki
+Nana Shimura
+Conan
+Shinichi
+Kudo
+Agasa
+Haibara
+Kaitou Kid
+APTX
+Yuta
+Hakari
+Higuruma
+Kashimo
+Gachiakuta
+Rudo
+Enjin
+Zanka
+Jinki
+Steins
+Okabe
+Kurisu
+Mayuri
+Re:Zero
+Subaru
+Emilia
+Beatrice
+Satella
+Yoriichi
+Kokushibo
+Ubuyashiki
+Tamayo
+Fullmetal
+Edward Elric
+Alphonse
+Elric
+Mustang
+Hohenheim
+Amestris
+Ishval
+Xerxes
+Ei Sei
+Ouki
+Kyoukai
+Hyou
+Aki Hayakawa
+Hayakawa
+Reze
+Yoru
+Mob Psycho
+Shigeo
+Kageyama
+Reigen
+Dimple
+Nika
+Mihawk
+Usopp
+Chopper
+Garp
+Buggy
+Arlong
+Dungeon Meshi
+Laios
+Marcille
+Chilchuck
+Senshi
+Falin
+Nagato
+Konan
+Yahiko
+Akatsuki
+Konoha
+Rasengan
+Code Geass
+Lelouch
+Suzaku
+Nunnally
+Britannia
+Geass
+One Punch
+Saitama
+Genos
+Boros
+Garou
+Tatsumaki
+Yu-Gi-Oh
+Yugi
+Kaiba
+Exodia
+Blue-Eyes
+Dark Magician
+Death Note
+Yagami
+Ryuk
+Misa
+Kira
+Mello
+Doraemon
+Nobita
+Shizuka
+Gian
+Suneo
+Dorami
+Thorfinn
+Askeladd
+Canute
+Thorkell
+Vinland
+Hell's Paradise
+Jigokuraku
+Gabimaru
+Sagiri
+Tensen
+Neverland
+Grace Field
+Isabella
+Shukaku
+Gyuki
+Matatabi
+Isobu
+Kokuo
+Saiken
+Chomei
+Jinchuriki
+Komugi
+Blue Lock
+Isagi
+Bachira
+Barou
+Kagurabachi
+Chihiro
+Rokuhira
+Hishaku
+Enten
+Gaoshun
+Lakan
 
 # Chi tiết thiết kế đặc trưng của nhân vật có bản quyền
 i:straw hat
@@ -195,3 +414,18 @@ i:x-shaped scar
 i:red-haired
 i:white-haired
 i:third eye
+i:eyepatch
+i:eye patch
+i:yellow jumpsuit
+i:millennium puzzle
+i:automail
+i:bow tie
+i:bowtie
+i:pink door
+i:bamboo-copter
+i:bamboo copter
+i:four-dimensional pocket
+i:number tattoo
+i:numbers on the neck
+i:pokeball
+i:lightning-bolt tail

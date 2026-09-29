@@ -284,7 +284,7 @@ Wide 16:9 landscape cinematic frame. three price tags hanging on a chain: an eye
 Lời: Có người đưa một con mắt để đổi lấy khả năng nhìn thấy tương lai gần. Có người trả bằng nhiều năm tuổi thọ để…
 
 ```text
-Wide 16:9 landscape cinematic frame. a hunter with an eyepatch seeing faint future images, another with a shortening glowing lifeline. medium shot, expressive body language, strong readable silhouette. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a hunter whose single remaining eye glows faintly as ghostly future images float before it, another hunter holding a shortening glowing lifeline. medium shot, expressive body language, strong readable silhouette. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s34

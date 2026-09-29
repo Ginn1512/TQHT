@@ -1,0 +1,658 @@
+{
+  "title": "Cyberpunk Edgerunners: Cấy ghép cơ thể và loạn thần máy hoạt động thế nào?",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Với mùa hai vừa ra hồi tháng mười, Kaku chỉ nhắc tiền đề, không kể nội dung."
+      },
+      "image_prompt": "a rainy neon-lit alley at night, a closed notebook resting on a wet crate under a flickering sign, wide establishing shot, magenta and cyan light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Hãy tưởng tượng một thành phố nơi bạn có thể mua một cánh tay mạnh như máy xúc, một đôi mắt nhìn xuyên đêm, hay một con chip làm thời gian quanh bạn như chậm lại."
+      },
+      "image_prompt": "a futuristic clinic display window showing mechanical arms, glowing artificial eyes and small chips on velvet stands, wide shot, cold neon light",
+      "on_screen_text": "Mua một cánh tay mới?"
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Chỉ cần đủ tiền. Và chỉ cần bạn chấp nhận một cái giá không ghi trên hóa đơn: một phần con người của bạn."
+      },
+      "image_prompt": "a receipt printing out of a machine with the last line smeared and unreadable, extreme close-up, harsh fluorescent light",
+      "on_screen_text": "Cái giá không ghi trên hóa đơn"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Đó là Night City trong Cyberpunk: Edgerunners, nơi người ta gọi những bộ phận máy móc gắn vào cơ thể là chrome. Và khi gắn quá nhiều, người ta có thể rơi vào một trạng thái đáng sợ gọi là loạn thần máy."
+      },
+      "image_prompt": "a crowded futuristic street where many pedestrians have subtle glowing mechanical parts, one figure in the center with too many glowing seams, wide shot, rain and neon",
+      "on_screen_text": "Chrome · Loạn thần máy"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Night City là thành phố của các tập đoàn khổng lồ và những băng đảng đường phố. Người giàu sống trên những tòa tháp chọc trời, người nghèo sống bên dưới, và ai cũng tìm cách để không bị giẫm lên."
+      },
+      "image_prompt": "a vertical city composition: gleaming corporate towers above the clouds, crowded dark streets and markets far below, wide shot, neon and fog",
+      "on_screen_text": "Night City"
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình giải thích hệ thống cấy ghép trong Edgerunners hoạt động thế nào: luật nền, các loại chrome, cái giá, và vì sao loạn thần máy xảy ra."
+      },
+      "image_prompt": "the owl mascot wearing a tiny visor, opening its notebook on a workbench full of small mechanical parts, warm lamp light",
+      "use_mascot": true
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Và cuối video, Kaku sẽ tách bạch phần nào có thật ngoài đời, phần nào là hư cấu. Vì chuyện gắn máy vào người nghe thì xa, nhưng không xa như bạn nghĩ."
+      },
+      "image_prompt": "a split image: a futuristic glowing arm on the left, a simple modern prosthetic hand on the right, symmetrical composition, soft light",
+      "on_screen_text": "Thật hay hư cấu?"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Trong Edgerunners, chrome là mọi bộ phận nhân tạo gắn vào cơ thể: tay chân, mắt, da, hệ thần kinh, cả những con chip cắm thẳng vào não."
+      },
+      "image_prompt": "an anatomical diagram of a human silhouette with glowing highlighted zones for arms, eyes, spine and brain, parchment and neon hybrid style",
+      "chapter": "Luật nền: chrome là gì",
+      "on_screen_text": "Chrome = bộ phận nhân tạo"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Người lắp chrome gọi là bác sĩ chợ đen, hay ripperdoc. Có người làm trong phòng khám sạch sẽ, có người làm trong một góc hầm chật chội với dụng cụ cũ."
+      },
+      "image_prompt": "a cramped underground clinic with a reclining chair, hanging cables and old surgical tools under a single swinging lamp, wide shot, green-tinted light",
+      "on_screen_text": "Bác sĩ chợ đen"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Chrome còn là thời trang. Có người gắn hình xăm phát sáng dưới da, có người thay màu mắt theo tâm trạng. Trong thành phố này, cơ thể là thứ để nâng cấp giống như chiếc điện thoại."
+      },
+      "image_prompt": "young people in a night market showing off glowing subdermal tattoos and color-shifting artificial eyes, medium shot, playful neon light",
+      "on_screen_text": "Chrome = thời trang"
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Và cũng giống điện thoại, đồ tốt thì đắt, đồ rẻ thì dễ hỏng, còn đồ lậu thì không ai bảo hành."
+      },
+      "image_prompt": "a shady street stall selling used implants in plastic bins with handwritten price tags, close-up, flickering neon"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Ở Night City, chrome không phải xa xỉ. Nó là công cụ để sống. Người bảo vệ cần tay khỏe, người lái xe cần mắt tốt, người đánh thuê cần phản xạ nhanh hơn đối thủ."
+      },
+      "image_prompt": "a montage of three silhouettes at work: a guard lifting a heavy door, a driver with glowing eyes, a mercenary crouching, triptych composition, neon light",
+      "on_screen_text": "Chrome = công cụ sinh tồn"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Luật nền thứ nhất vì vậy rất đơn giản: chrome cho bạn thêm năng lực, và năng lực càng mạnh thì càng đắt, về cả tiền bạc lẫn cơ thể."
+      },
+      "image_prompt": "a price tag hanging from a mechanical arm, the numbers glowing and rising, close-up, cold light",
+      "on_screen_text": "Mạnh hơn = đắt hơn"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Kaku đã thử nghĩ xem mình nên lắp gì. Kết luận: cặp kính của Kaku đã là chrome duy nhất Kaku cần. Và nó cũng hay bị lệch."
+      },
+      "image_prompt": "the owl mascot adjusting its oversized round glasses in a mirror, the glasses slightly crooked",
+      "use_mascot": true
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Nhánh chrome nổi tiếng nhất trong Edgerunners là bộ tăng tốc phản xạ, trong phim gọi là Sandevistan. Nó gắn dọc sống lưng."
+      },
+      "image_prompt": "a sleek glowing implant running along a spine seen from behind, a faint trail of light behind the silhouette, close-up, cyan light",
+      "chapter": "Nhánh 1: phản xạ và tốc độ",
+      "on_screen_text": "Nhánh 1: tăng tốc phản xạ"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Khi kích hoạt, người dùng di chuyển và phản ứng nhanh tới mức cả thế giới xung quanh như đứng im. Viên đạn lơ lửng, giọt mưa treo giữa không trung."
+      },
+      "image_prompt": "raindrops and a bullet frozen in midair on a neon street, a blurred figure moving between them leaving a rainbow afterimage trail, dynamic wide shot",
+      "on_screen_text": "Thế giới như đứng im",
+      "video_prompt": "raindrops hang motionless as the blurred figure glides between them leaving a rainbow afterimage",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Lần đầu dùng nó, David đang ở trường, trước mặt những kẻ bắt nạt từng coi thường cậu. Trong vài giây, cậu làm được điều mà cả lớp không kịp nhìn thấy."
+      },
+      "image_prompt": "a school hallway where a group of students stand frozen in shock while a teenager appears behind them in a blur of light, wide shot, cold fluorescent light",
+      "on_screen_text": "Lần đầu kích hoạt"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Kaku phải nói thật: nếu Kaku có Sandevistan, Kaku chỉ dùng để kịp chuyến xe buýt buổi sáng. Và chắc vẫn trễ, vì còn bận chọn kính."
+      },
+      "image_prompt": "the owl mascot sprinting comically toward a departing bus with glasses flying off its face",
+      "use_mascot": true
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Nhân vật chính David có được một bộ tăng tốc loại quân sự, loại dành cho binh lính chứ không dành cho một cậu học sinh. Đó là điểm khởi đầu của mọi chuyện."
+      },
+      "image_prompt": "a teenager lying on a clinic chair looking at a military-grade implant case opened beside him, close-up, harsh green light",
+      "on_screen_text": "Loại quân sự cho… một học sinh"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Cái giá của nhánh này là cơ thể và bộ não phải chịu tải khổng lồ. Dùng lâu sẽ đau, chảy máu mũi, choáng váng. Cơ thể người không được thiết kế để sống nhanh gấp nhiều lần như vậy."
+      },
+      "image_prompt": "a teenager kneeling in the rain, one hand on the ground, a trail of fading afterimages behind him, medium shot, cold neon light",
+      "on_screen_text": "Cái giá: cơ thể quá tải"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Nhánh thứ hai là biến chính cơ thể thành vũ khí. Có lưỡi dao gập giấu trong cẳng tay, có cánh tay cơ khí đấm vỡ cả khối bê tông, có sợi dây siêu mảnh cắt được kim loại."
+      },
+      "image_prompt": "three mechanical forearms displayed side by side: one with folding blades, one bulky and armored, one with a thin glowing wire coiled at the wrist, close-up, product lighting",
+      "chapter": "Nhánh 2: vũ khí trong cơ thể",
+      "on_screen_text": "Nhánh 2: cơ thể thành vũ khí"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Maine, thủ lĩnh nhóm đánh thuê mà David gia nhập, có đôi tay cơ khí to và khỏe tới mức lật được cả chiếc xe. Anh là hình mẫu của người đã sống bằng chrome rất nhiều năm."
+      },
+      "image_prompt": "a huge muscular mercenary silhouette with heavy mechanical arms flipping a car on a highway overpass, dynamic low-angle shot, orange sodium light",
+      "on_screen_text": "Người sống bằng chrome"
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Người cầm súng còn có thể bị tước vũ khí. Người mà cánh tay chính là vũ khí thì không. Ở Night City, điều đó có thể là ranh giới giữa sống và chết."
+      },
+      "image_prompt": "a dropped pistol sliding across wet pavement, beside it a mechanical fist clenching, close-up, dramatic rim light"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Nhưng mỗi món vũ khí gắn vào người là một phần cơ thể bị thay thế. Bạn không chỉ thêm vào. Bạn phải bỏ đi một thứ gì đó vốn là của mình."
+      },
+      "image_prompt": "a surgical tray holding a small bandaged natural hand silhouette beside a gleaming mechanical replacement, top-down shot, cold light",
+      "on_screen_text": "Thêm vào = bỏ đi"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Nhánh thứ ba ít ồn ào hơn: mắt quang học zoom xa, phân tích đối thủ, nhìn trong bóng tối. Tai nghe được những âm thanh người thường không nghe."
+      },
+      "image_prompt": "an extreme close-up of an artificial eye with a glowing iris ring and faint targeting overlays reflected in it, cyan light",
+      "chapter": "Nhánh 3: giác quan và mạng",
+      "on_screen_text": "Nhánh 3: giác quan"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Và có cả những người lặn thẳng vào mạng máy tính bằng não: netrunner. Họ cắm dây vào cổ, nằm im, và tâm trí đi vào mạng để đột nhập hệ thống."
+      },
+      "image_prompt": "a figure lying still in a bathtub of ice with cables running from the back of the neck, a vast glowing digital ocean visible above like a dream, wide shot",
+      "on_screen_text": "Netrunner: lặn vào mạng",
+      "video_prompt": "slow push-in on the still body as the digital ocean above ripples and glows",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Thành phố còn có một thứ gọi là braindance: những đoạn ghi lại toàn bộ cảm giác của một người, để người khác cắm vào và sống lại trải nghiệm đó như thật."
+      },
+      "image_prompt": "a figure wearing a sleek headset lying on a bed, surrounded by translucent floating memories of another person's life, medium shot, soft violet light",
+      "on_screen_text": "Braindance: sống ký ức người khác"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Nghe thì như phim ảnh, nhưng nó cho thấy trong thế giới này, ngay cả cảm xúc cũng có thể được thu âm, mua bán và lạm dụng."
+      },
+      "image_prompt": "a market shelf lined with small glowing memory chips labeled only with emotion icons, close-up, cold neon light"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Lucy, người con gái David gặp, là một netrunner tài năng. Cô mơ được lên Mặt Trăng, nơi xa nhất khỏi thành phố này."
+      },
+      "image_prompt": "a lone figure sitting on a rooftop at night looking at a huge bright moon above the neon skyline, back view, soft silver light",
+      "on_screen_text": "Giấc mơ Mặt Trăng"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Cái giá của nhánh này nằm ngay trong đầu. Bị hệ thống phòng thủ phản công, bộ não của netrunner có thể bị cháy theo đúng nghĩa đen. Mạng trong Edgerunners không phải trò chơi."
+      },
+      "image_prompt": "a cracked visor glowing red with error symbols, sparks flickering near a neck port, extreme close-up, harsh red light",
+      "on_screen_text": "Cái giá: não có thể bị cháy"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Ở cực đoan nhất là những người đã thay gần hết cơ thể. Kẻ đáng sợ nhất Edgerunners, Adam Smasher, gần như chỉ còn là một cỗ máy chiến tranh với chút ít phần người sót lại."
+      },
+      "image_prompt": "a towering heavily armored cyborg silhouette standing in smoke, glowing red optics, dwarfing the ruined vehicles around it, low-angle wide shot",
+      "chapter": "Nhánh 4: gần như toàn bộ là máy",
+      "on_screen_text": "Nhánh 4: gần như toàn máy",
+      "video_prompt": "smoke drifts around the towering cyborg as its red optics slowly light up",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Mỗi lần hắn xuất hiện, bầu không khí trong phim thay đổi hẳn. Không có nét biểu cảm, không có sự do dự, chỉ có hiệu quả."
+      },
+      "image_prompt": "a pair of glowing red optics in total darkness, rain streaks reflecting their light, extreme close-up"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Hắn không bị loạn thần máy theo cách mọi người thường thấy. Đây là một chi tiết khiến fan tranh luận nhiều: có phải vì hắn đã không còn đủ phần người để mà mất nữa?"
+      },
+      "image_prompt": "a single small human heart symbol glowing faintly inside a massive mechanical chest diagram, close-up, cold red light",
+      "on_screen_text": "Hết người thì còn gì để mất?"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Kaku ghi chú: đây là lý thuyết của người xem, truyện không nói rõ. Nhưng nó gợi ra một câu hỏi rất đáng sợ về luật chơi của thế giới này."
+      },
+      "image_prompt": "the owl mascot holding a sticky note with a question mark stuck on the chest diagram, looking uneasy",
+      "use_mascot": true
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Giờ đến phần quan trọng nhất: vì sao chrome lại có cái giá? Lớp đầu tiên là sinh học. Cơ thể coi bộ phận lạ là kẻ xâm nhập và tìm cách chống lại nó."
+      },
+      "image_prompt": "a microscopic view of cells surrounding a small metallic fragment, glowing defensive shapes clustering around it, stylized diagram, amber and cyan",
+      "chapter": "Luật nâng cao: cơ thể đào thải",
+      "on_screen_text": "Lớp 1: cơ thể chống lại"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Bác sĩ chợ đen của David nhiều lần cảnh báo. Mỗi món mới lắp vào là một gánh nặng mới, và liều thuốc cứ thế tăng lên."
+      },
+      "image_prompt": "an old ripperdoc silhouette shaking his head while holding an x-ray image full of implants against a light box, medium shot, green light",
+      "on_screen_text": "Lời cảnh báo"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Kaku để ý thấy phim dùng những chi tiết rất đời thường để kể chuyện này: một vỉ thuốc rỗng, một cái rùng mình, một lần chảy máu mũi. Không cần giải thích dài dòng, người xem vẫn thấy cơ thể đang kêu cứu."
+      },
+      "image_prompt": "a single drop of blood falling onto a sink next to an empty blister pack, extreme close-up, cold bathroom light"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Để chrome không bị đào thải, người dùng phải uống thuốc ức chế miễn dịch thường xuyên. David cũng phải dùng thuốc như vậy, và liều ngày càng nhiều."
+      },
+      "image_prompt": "a small pill organizer box with every compartment filled, beside a glass of water on a cluttered desk, close-up, cold neon light",
+      "on_screen_text": "Thuốc ức chế miễn dịch"
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Nhưng thuốc chỉ làm chậm vấn đề, không xóa nó. Mỗi món chrome mới là thêm một cuộc chiến nhỏ bên trong cơ thể."
+      },
+      "image_prompt": "a tug of war rope between a mechanical hand and a human hand, frayed in the middle, close-up, dramatic light"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Lớp thứ hai là tâm lý, và nó có nguồn gốc rất thú vị. Thế giới Cyberpunk bắt đầu từ một trò chơi nhập vai trên bàn của tác giả Mike Pondsmith, ra đời từ cuối những năm tám mươi."
+      },
+      "image_prompt": "a tabletop scene with dice, character sheets and a small cardboard city map under a warm lamp, top-down shot, nostalgic light",
+      "chapter": "Luật nâng cao: chi phí nhân tính",
+      "on_screen_text": "Gốc: trò chơi nhập vai trên bàn"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Trong luật của trò chơi, mỗi nhân vật có chỉ số đồng cảm, tức khả năng kết nối cảm xúc với người khác. Chỉ số này quy ra điểm nhân tính."
+      },
+      "image_prompt": "a character sheet with a single highlighted stat bar labeled with a heart icon, being filled with small tally marks, close-up, amber ink",
+      "on_screen_text": "Đồng cảm → Nhân tính"
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Mỗi món chrome có một chi phí nhân tính. Lắp càng nhiều, điểm nhân tính càng giảm. Khi điểm về dưới không, nhân vật rơi vào loạn thần máy, và người chơi mất quyền điều khiển nhân vật đó."
+      },
+      "image_prompt": "a heart icon bar draining segment by segment as small mechanical part icons are added beside it, diagram style, cyan and red",
+      "on_screen_text": "Nhân tính < 0 → loạn thần máy",
+      "video_prompt": "the heart bar drains segment by segment as new implant icons click into place",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Edgerunners lấy bối cảnh cùng thế giới với trò chơi điện tử Cyberpunk 2077, khoảng một năm trước câu chuyện trong game. Loạn thần máy cũng là chủ đề của nhiều nhiệm vụ trong game đó."
+      },
+      "image_prompt": "a game controller resting on a desk in front of a monitor showing a neon skyline, close-up, cozy dim light",
+      "on_screen_text": "Cùng thế giới với game"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Kaku rất thích luật này. Nó biến một ý tưởng triết học thành một con số. Và nó nói rằng thứ bị mất không phải là sức khỏe, mà là khả năng thấy người khác là người."
+      },
+      "image_prompt": "a hand-drawn chart on parchment with two curves crossing: power rising, empathy falling, amber ink, close-up",
+      "on_screen_text": "Mất khả năng đồng cảm"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Trong Edgerunners, loạn thần máy hiện ra dần dần. Đầu tiên là những thoáng ảo giác, những hình ảnh nhiễu sóng, những giọng nói không có thật."
+      },
+      "image_prompt": "a figure in a dark room seeing glitching distorted shapes in the corners of the vision, a warped overlay effect, medium shot, magenta and cyan light",
+      "chapter": "Loạn thần máy trông như thế nào",
+      "on_screen_text": "Giai đoạn 1: ảo giác, nhiễu sóng"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Rồi là mất kiểm soát cảm xúc: giận dữ vô cớ, không phân biệt được bạn và thù. Maine, người đội trưởng từng dìu dắt David, là ví dụ đau lòng nhất."
+      },
+      "image_prompt": "a large armored figure clutching his head in a burning street, allies backing away in fear, wide shot, red emergency light",
+      "on_screen_text": "Giai đoạn 2: mất kiểm soát"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Điều trớ trêu là chính những người săn loạn thần máy cũng mang rất nhiều chrome. Thành phố chống lại hậu quả của chrome bằng… thêm chrome."
+      },
+      "image_prompt": "an armored enforcer silhouette with glowing implants standing over a fallen cyborg, both looking nearly identical, medium shot, harsh searchlight",
+      "on_screen_text": "Chống chrome bằng chrome"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Ở giai đoạn cuối, người đó trở thành mối nguy cho tất cả. Thành phố có một đơn vị cảnh sát đặc biệt chuyên xử lý những người như vậy, gọi là MaxTac."
+      },
+      "image_prompt": "a squad of heavily armored silhouettes with a flying transport vehicle landing behind them in a smoky street, low-angle wide shot, harsh searchlights",
+      "on_screen_text": "MaxTac"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Với Maine, những dấu hiệu đầu tiên xuất hiện từ khá sớm, và người xung quanh nhìn thấy. Nhưng trong một nghề mà dừng lại đồng nghĩa với chết đói, ai dám bảo anh dừng?"
+      },
+      "image_prompt": "a crew of mercenaries in a van exchanging worried glances while their leader stares blankly out the window, medium shot, dim interior light"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Điều đáng sợ nhất: nạn nhân không phải người xấu. Họ chỉ là người đã thay quá nhiều thứ để sống sót, và không còn nhận ra mình nữa."
+      },
+      "image_prompt": "a broken mirror reflecting a face half human half machine, extreme close-up, cold light",
+      "on_screen_text": "Không phải người xấu"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Trong phim, David được bác sĩ nói là có sức chịu chrome cao bất thường. Cậu gắn được những thứ mà người khác gắn vào đã phát điên."
+      },
+      "image_prompt": "a teenager standing calmly while multiple implants glow along his arms and spine, doctors watching in disbelief behind glass, medium shot, clinical light",
+      "chapter": "Ngoại lệ: cơ thể đặc biệt",
+      "on_screen_text": "Ngoại lệ: sức chịu cao"
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Và sức chịu cao còn tạo ra một cái bẫy: chính vì cậu làm được, người khác bắt đầu trông đợi cậu làm nhiều hơn nữa."
+      },
+      "image_prompt": "a teenager standing in front of a wall of glowing job offers and requests, each one heavier than the last, medium shot, neon light",
+      "on_screen_text": "Làm được → bị trông đợi nhiều hơn"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Nhưng cao bất thường không có nghĩa là vô hạn. Luật vẫn là luật: mỗi lần thêm chrome, cậu tiến gần hơn tới giới hạn của chính mình."
+      },
+      "image_prompt": "a tall glass slowly filling with glowing liquid, the waterline approaching the brim, extreme close-up, cyan light",
+      "on_screen_text": "Cao ≠ vô hạn"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Kaku sẽ không kể chi tiết cái kết của mùa một cho những ai chưa xem. Chỉ nói rằng luật chi phí nhân tính không có ngoại lệ thật sự nào cả."
+      },
+      "image_prompt": "a door slowly closing on a neon-lit room, a faint moon visible through a window inside, medium shot, bittersweet light"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Hiểu lầm thứ nhất: càng nhiều chrome càng mạnh. Sai. Mỗi người có một giới hạn chịu đựng khác nhau, và vượt giới hạn thì sức mạnh trở thành mối nguy."
+      },
+      "image_prompt": "a scale with stacked mechanical parts tipping over dangerously, a red warning glow, close-up",
+      "chapter": "Ba hiểu lầm thường gặp",
+      "on_screen_text": "Hiểu lầm 1: càng nhiều càng mạnh"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Cách phim thể hiện rất rõ: khi nhân vật bị loạn thần, chrome của họ thường còn chạy mạnh hơn bao giờ hết. Cái hỏng không nằm ở máy."
+      },
+      "image_prompt": "a mechanical arm glowing at full power while the person attached to it looks lost and frightened, close-up, split warm and cold light"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Hiểu lầm thứ hai: loạn thần máy là do máy bị hỏng. Không phải. Chrome có thể hoạt động hoàn hảo, thứ bị hỏng là tâm trí và sự gắn kết của con người."
+      },
+      "image_prompt": "a perfectly polished working mechanical arm next to a cracked glass sculpture of a human head, still life composition, cold light",
+      "on_screen_text": "Hiểu lầm 2: do máy hỏng"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Nếu có một liều thuốc chữa thật sự, Night City đã không cần tới một đội cảnh sát chuyên đi săn người loạn thần. Chính sự tồn tại của đội đó đã là câu trả lời."
+      },
+      "image_prompt": "a lonely pharmacy counter with a closed sign under heavy rain, an armored transport flying overhead, wide shot, cold light"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Hiểu lầm thứ ba: có thuốc là chữa được. Thuốc ức chế chỉ giúp cơ thể không đào thải và làm chậm triệu chứng. Nó không trả lại phần nhân tính đã mất."
+      },
+      "image_prompt": "an empty pill bottle lying on its side in a puddle reflecting neon signs, close-up",
+      "on_screen_text": "Hiểu lầm 3: có thuốc là chữa được"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Giờ tới phần Kaku hứa từ đầu. Ngoài đời thật, con người đã gắn máy vào cơ thể từ lâu: máy tạo nhịp tim, ốc tai điện tử, tay chân giả điều khiển bằng tín hiệu cơ bắp."
+      },
+      "image_prompt": "a modern prosthetic hand, a small pacemaker and a cochlear implant displayed on a clean white table, still life, soft daylight",
+      "chapter": "Thật và hư cấu",
+      "on_screen_text": "Đời thật: đã có từ lâu"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Tay giả hiện đại còn bắt đầu có cảm giác: cảm biến ở đầu ngón gửi tín hiệu ngược lại cho dây thần kinh, để người dùng biết mình đang cầm vật mềm hay cứng."
+      },
+      "image_prompt": "a prosthetic fingertip gently holding a ripe strawberry without crushing it, thin sensor lines glowing faintly, extreme close-up, soft daylight",
+      "on_screen_text": "Tay giả biết cảm giác"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Kaku ghi chú: những tiến bộ này giúp con người lấy lại những gì đã mất, chứ không phải để thành siêu nhân. Và nó do bác sĩ thật làm, không phải bác sĩ trong hầm tối."
+      },
+      "image_prompt": "the owl mascot wearing a tiny white coat, holding a clipboard beside a clean modern clinic sign",
+      "use_mascot": true
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Các nhóm nghiên cứu cũng đang thử nghiệm giao diện não máy tính, giúp người bị liệt điều khiển con trỏ máy tính bằng suy nghĩ."
+      },
+      "image_prompt": "a person in a wheelchair looking at a screen with a cursor moving, a thin sensor cap on the head, medium shot, calm lab light",
+      "on_screen_text": "Giao diện não – máy"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Phản ứng của cơ thể với vật lạ và thuốc ức chế miễn dịch sau ghép tạng cũng là chuyện có thật trong y học."
+      },
+      "image_prompt": "a stylized medical diagram of a body outline with a highlighted transplanted organ and small shield icons, clean infographic style"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Còn loạn thần máy thì hoàn toàn là hư cấu. Không có nghiên cứu nào cho thấy gắn thiết bị y tế làm người ta mất khả năng đồng cảm. Đây là nội dung giải trí, không phải lời khuyên y tế."
+      },
+      "image_prompt": "a large stamp reading fiction pressed onto a comic-style illustration of a glitching figure, close-up, playful lighting",
+      "on_screen_text": "Loạn thần máy = hư cấu"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Kaku nghĩ luật chi phí nhân tính thật ra là một câu chuyện về áp lực. Ở Night City, nếu bạn không nâng cấp, bạn bị bỏ lại. Nếu bạn nâng cấp quá mức, bạn mất chính mình."
+      },
+      "image_prompt": "a person running on an endless treadmill made of city streets, other runners with glowing implants overtaking them, wide shot, neon light",
+      "chapter": "Góc nhìn của Kaku: vì sao phải thay mình để sống",
+      "on_screen_text": "Không nâng cấp = bị bỏ lại"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Mẹ David từng mơ con mình vào học ở học viện của tập đoàn lớn nhất thành phố và leo lên tới đỉnh tòa tháp. Cậu đã đi tới đỉnh tháp theo một cách rất khác với những gì bà mong."
+      },
+      "image_prompt": "a mother and a young boy looking up at a gigantic corporate tower from a crowded street, back view, the tower's lights reflecting in their eyes, wide shot",
+      "on_screen_text": "Giấc mơ tòa tháp"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "David không gắn chrome vì ham sức mạnh. Cậu gắn vì muốn thực hiện giấc mơ của mẹ, muốn bảo vệ người mình thương, muốn trở thành người mà thành phố không thể nghiền nát."
+      },
+      "image_prompt": "a teenager looking at an old photograph of his mother under a flickering light, a new implant glowing on his arm, close-up, warm and cold contrast",
+      "on_screen_text": "Vì người khác, không vì sức mạnh"
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Lucy muốn lên Mặt Trăng để thoát khỏi thành phố. David muốn leo lên tòa tháp để chinh phục thành phố. Hai giấc mơ đi ngược hướng nhau, và Kaku nghĩ đó là chỗ phim đau nhất."
+      },
+      "image_prompt": "two arrows drawn on a map, one pointing up toward a moon, the other pointing up a tall tower, diverging, parchment and neon hybrid style"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Và đó là bi kịch: những lý do rất con người lại dẫn cậu tới chỗ mất dần phần con người."
+      },
+      "image_prompt": "a silhouette walking toward a bright moon while leaving mechanical footprints behind, wide shot, bittersweet silver light"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Mùa hai có một nhân vật chính từng là huyền thoại nhưng giờ phải sống không có chrome. Kaku rất tò mò: sau mùa một, liệu câu trả lời của bộ phim có phải là quay về với cơ thể thật?"
+      },
+      "image_prompt": "an aging mercenary silhouette with bare human arms sitting in a quiet diner at night, a box of old implants on the seat beside him, medium shot, warm neon",
+      "on_screen_text": "Mùa 2: sống không có chrome"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Kaku gom lại thành một sơ đồ. Ở trên là bốn nhánh chrome: phản xạ, vũ khí, giác quan và mạng, và thay gần như toàn thân."
+      },
+      "image_prompt": "a clean diagram with four branches spreading from a human silhouette: a speed icon, a blade icon, an eye icon and a full robot icon, parchment and neon style",
+      "chapter": "Sơ đồ tổng kết",
+      "on_screen_text": "4 nhánh chrome"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và bên cạnh là một mũi tên nhỏ chỉ về phía áp lực của thành phố: thứ khiến người ta cứ phải gắn thêm dù đã biết cái giá."
+      },
+      "image_prompt": "a small arrow labeled with a city skyline icon pushing against the diagram from the side, parchment style, amber ink"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Ở giữa là hai lớp cái giá: cơ thể đào thải, phải dùng thuốc; và chi phí nhân tính, làm giảm khả năng đồng cảm."
+      },
+      "image_prompt": "the same diagram with two warning layers drawn beneath the branches: a shield icon and a fading heart icon, close-up"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Ở dưới cùng là điểm cuối nếu vượt giới hạn: loạn thần máy. Và một dòng nhỏ Kaku viết thêm: mỗi người có giới hạn khác nhau, nhưng ai cũng có giới hạn."
+      },
+      "image_prompt": "the bottom of the diagram with a red warning symbol and a small handwritten note beside it, close-up, amber ink",
+      "on_screen_text": "Ai cũng có giới hạn"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Nếu sống ở Night City, bạn sẽ gắn món chrome nào, và dừng lại ở đâu? Kaku đoán nhiều bạn sẽ chọn đôi mắt nhìn xuyên đêm. Viết lựa chọn của bạn vào bình luận nhé."
+      },
+      "image_prompt": "a shop catalog page with several implant options and empty checkboxes, a pen resting on it, top-down shot, neon glow",
+      "on_screen_text": "Bạn sẽ gắn gì?"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Mùa hai đã ra đủ mười tập. Nếu bạn đã xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé."
+      },
+      "image_prompt": "a streaming remote lying on a couch next to the notebook diagram, cozy neon-lit apartment, close-up",
+      "chapter": "Kết"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Edgerunners dùng một hệ thống nghe rất khoa học viễn tưởng để kể một câu chuyện rất cũ: cái giá của việc cố trở thành người khác."
+      },
+      "image_prompt": "a lone figure on a rooftop reaching toward the moon while the neon city glows below, wide shot, silver moonlight",
+      "video_prompt": "slow crane shot rising from the rooftop figure toward the bright full moon",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku đi từ tương lai về quá khứ xa xưa: truyền thuyết cậu bé quả đào Momotaro, và vì sao Tougen Anki lại biến người anh hùng ấy thành kẻ săn đuổi."
+      },
+      "image_prompt": "an ancient Japanese storybook opened to an illustration of a giant peach floating down a river, close-up, warm parchment light",
+      "on_screen_text": "Tiếp theo: Momotaro thật"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Nếu bạn thích những video vừa giải thích vừa tách bạch thật và hư cấu, hãy đăng ký kênh để đi cùng Kaku. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot taking off its tiny visor, closing the notebook and waving goodbye under a neon sign",
+      "use_mascot": true
+    }
+  ]
+}

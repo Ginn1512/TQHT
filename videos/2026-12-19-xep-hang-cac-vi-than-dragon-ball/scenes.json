@@ -1,0 +1,683 @@
+{
+  "title": "Dragon Ball: Xếp hạng các vị thần từ Thượng Đế tới Toàn Vương",
+  "languages": [
+    "vi"
+  ],
+  "style_prompt": "Signature \"Kaku field notebook\" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only",
+  "mascot_prompt": "a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design",
+  "scenes": [
+    {
+      "id": "s01",
+      "narration": {
+        "vi": "Cảnh báo: video có spoiler Dragon Ball Super tới hết Giải đấu Sức mạnh. Bản làm lại Dragon Ball Super: Beerus đang phát cũng nằm trong phần này, nên bạn yên tâm xem."
+      },
+      "image_prompt": "a vast starry sky above a quiet mountain peak with a closed notebook resting on a rock, wide establishing shot, deep navy night light",
+      "chapter": "Mở đầu",
+      "on_screen_text": "Cảnh báo spoiler"
+    },
+    {
+      "id": "s02",
+      "narration": {
+        "vi": "Trong Dragon Ball có một vị thần có thể xóa sổ cả một vũ trụ, với hàng tỉ hành tinh và sự sống, chỉ bằng một cái giơ tay."
+      },
+      "image_prompt": "an entire spiral galaxy dissolving into sparkles of light, a tiny glowing hand silhouette in the foreground, wide cosmic shot, violet and gold light",
+      "on_screen_text": "Xóa sổ cả một vũ trụ",
+      "video_prompt": "the spiral galaxy slowly dissolves into drifting sparkles from its center outward",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s03",
+      "narration": {
+        "vi": "Và vị thần đó lại cư xử như một đứa trẻ, thích chơi, thích có bạn, và đôi khi chẳng biết mình vừa làm điều khủng khiếp tới mức nào."
+      },
+      "image_prompt": "a tiny cute round silhouette sitting on an enormous throne swinging its legs, surrounded by vast emptiness, wide shot, soft surreal light",
+      "on_screen_text": "Mạnh nhất lại như một đứa trẻ"
+    },
+    {
+      "id": "s04",
+      "narration": {
+        "vi": "Nhưng trước khi lên tới đỉnh, có cả một bậc thang các vị thần: từ vị thần chăm lo cho Trái Đất, tới những vị thần phá hủy các hành tinh chỉ vì mất ngủ."
+      },
+      "image_prompt": "a colossal staircase spiraling up through clouds into space, small glowing thrones placed at different heights, wide low-angle shot, amber and violet light",
+      "on_screen_text": "Một bậc thang thần thánh"
+    },
+    {
+      "id": "s05",
+      "narration": {
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay mình xếp hạng các vị thần trong Dragon Ball, từ thấp lên cao. Và như mọi bảng xếp hạng của kênh, Kaku công bố tiêu chí trước."
+      },
+      "image_prompt": "the owl mascot standing at the bottom of a giant cosmic staircase holding a clipboard, looking up with determination",
+      "use_mascot": true
+    },
+    {
+      "id": "s06",
+      "narration": {
+        "vi": "Tiêu chí thứ nhất là sức mạnh: nếu phải chiến đấu, vị thần này mạnh tới đâu. Tiêu chí thứ hai là quyền hạn: họ được phép quyết định những gì."
+      },
+      "image_prompt": "a scorecard on parchment with four empty rows, the first two marked with a fist icon and a crown icon, top-down shot, amber ink",
+      "chapter": "Bốn tiêu chí chấm điểm",
+      "on_screen_text": "1. Sức mạnh · 2. Quyền hạn"
+    },
+    {
+      "id": "s07",
+      "narration": {
+        "vi": "Tiêu chí thứ ba là phạm vi: họ trông coi một hành tinh, một góc vũ trụ, cả vũ trụ, hay toàn bộ các vũ trụ."
+      },
+      "image_prompt": "concentric circles drawn on a chalkboard: a planet, a quadrant, a galaxy, and many galaxies, diagram style, amber chalk",
+      "on_screen_text": "3. Phạm vi"
+    },
+    {
+      "id": "s08",
+      "narration": {
+        "vi": "Tiêu chí thứ tư hơi đặc biệt: sự tự do. Có vị thần mạnh nhưng bị ràng buộc bởi luật lệ hoặc bởi mạng sống của người khác. Ràng buộc càng ít thì điểm càng cao."
+      },
+      "image_prompt": "a powerful silhouette with faint glowing chains around its wrists, close-up, dramatic rim light",
+      "on_screen_text": "4. Tự do"
+    },
+    {
+      "id": "s09",
+      "narration": {
+        "vi": "Vì sao cần bốn tiêu chí? Vì nếu chỉ xếp theo sức mạnh, bảng sẽ rất nhàm chán: ai đánh mạnh hơn thì đứng trên. Còn thần thì không chỉ để đánh nhau."
+      },
+      "image_prompt": "a single tall bar chart labeled with a fist icon looking dull next to a richer four-part chart, parchment diagram, amber ink"
+    },
+    {
+      "id": "s10",
+      "narration": {
+        "vi": "Mỗi tiêu chí chấm từ một tới năm điểm, tối đa hai mươi điểm. Kaku chỉ xếp các chức vụ thần, không xếp các nhân vật phàm trần đã mạnh lên, nên Goku và Vegeta hôm nay chỉ ngồi xem thôi."
+      },
+      "image_prompt": "the owl mascot pointing at a scoreboard labeled with a maximum of 20, two small popcorn buckets on empty seats beside it",
+      "on_screen_text": "Tối đa 20 điểm",
+      "use_mascot": true
+    },
+    {
+      "id": "s11",
+      "narration": {
+        "vi": "Một điều quan trọng trước khi bắt đầu: trong Dragon Ball, thần là một chức vụ. Không phải cứ là thần thì mạnh hơn người phàm. Lát nữa bạn sẽ thấy điều này rõ ràng."
+      },
+      "image_prompt": "a simple office nameplate with a small halo drawn above it lying on a desk, close-up, soft light, humorous tone"
+    },
+    {
+      "id": "s12",
+      "narration": {
+        "vi": "Bậc thấp nhất là Thần Trái Đất, người ta quen gọi là Thượng Đế. Ông sống trên một cung điện lơ lửng trên trời và trông chừng một hành tinh duy nhất."
+      },
+      "image_prompt": "a small white palace floating on a platform high above the clouds, a garden with palm trees, wide shot, bright daylight",
+      "chapter": "Hạng 8: Thần Trái Đất",
+      "on_screen_text": "Hạng 8: Thần Trái Đất"
+    },
+    {
+      "id": "s13",
+      "narration": {
+        "vi": "Thành tựu lớn nhất của chức vụ này là tạo ra bộ Ngọc Rồng của Trái Đất. Bảy viên ngọc, gom đủ thì gọi được rồng thần để thực hiện điều ước."
+      },
+      "image_prompt": "seven small glowing orange orbs arranged in a circle on a stone floor, each with tiny red stars inside, top-down shot, warm light",
+      "on_screen_text": "Tạo ra Ngọc Rồng"
+    },
+    {
+      "id": "s14",
+      "narration": {
+        "vi": "Điểm thú vị là Thần Trái Đất không phải người Trái Đất. Người giữ chức đầu tiên trong truyện và người kế nhiệm Dende đều là người Namek."
+      },
+      "image_prompt": "a calm green-skinned alien elder silhouette with antennae standing at the edge of a sky palace looking down, back view, soft light"
+    },
+    {
+      "id": "s15",
+      "narration": {
+        "vi": "Và vị Thượng Đế đầu tiên có một bí mật. Để trở thành thần, ông đã tách phần ác trong mình ra ngoài. Phần ác ấy trở thành Đại Ma Vương Piccolo."
+      },
+      "image_prompt": "a calm elder silhouette with a dark shadow tearing away from his body and taking the shape of a menacing demon, dramatic split lighting, medium shot",
+      "on_screen_text": "Tách phần ác ra ngoài"
+    },
+    {
+      "id": "s16",
+      "narration": {
+        "vi": "Hai người vốn là một, nên sinh mạng cũng gắn liền. Nếu Đại Ma Vương chết, Thượng Đế cũng chết theo. Một chức vụ thiêng liêng được xây trên một vết nứt rất con người."
+      },
+      "image_prompt": "two figures, one light and one dark, standing back to back with a single thread connecting them, wide shot, grey dusk light",
+      "on_screen_text": "Hai người vốn là một"
+    },
+    {
+      "id": "s17",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh một điểm, vì nhiều chiến binh phàm trần đã vượt xa. Quyền hạn hai điểm. Phạm vi một điểm, chỉ một hành tinh. Tự do hai điểm, vì ngọc rồng gắn liền với mạng sống của người tạo ra chúng."
+      },
+      "image_prompt": "a scorecard showing 1, 2, 1, 2 with a total of 6, pinned on a cloud-shaped board, close-up",
+      "on_screen_text": "Tổng: 6/20"
+    },
+    {
+      "id": "s18",
+      "narration": {
+        "vi": "Chi tiết cuối cùng này rất quan trọng: nếu người giữ chức chết, ngọc rồng cũng biến thành đá. Kaku ghi chú: đây là lần đầu tiên ta thấy một vị thần bị trói buộc bởi mạng sống."
+      },
+      "image_prompt": "seven orbs turning into plain grey stones one by one, close-up, fading light",
+      "on_screen_text": "Thần chết → ngọc hóa đá"
+    },
+    {
+      "id": "s19",
+      "narration": {
+        "vi": "Bước lên một bậc là các Giới Vương. Vũ trụ được chia làm bốn phương Bắc, Nam, Đông, Tây, mỗi phương có một Giới Vương trông coi."
+      },
+      "image_prompt": "a galaxy divided into four quadrants by glowing lines, a tiny planet marked in each quadrant, top-down diagram, navy and amber",
+      "chapter": "Hạng 7: Giới Vương",
+      "on_screen_text": "Hạng 7: Giới Vương"
+    },
+    {
+      "id": "s20",
+      "narration": {
+        "vi": "Người quen thuộc nhất là Bắc Giới Vương, sống trên một hành tinh nhỏ xíu với trọng lực gấp mười lần Trái Đất, cùng một chú khỉ và một con dế."
+      },
+      "image_prompt": "a tiny round planet with a single house, a car and a tree, a small monkey and a cricket sitting on the grass, wide shot, whimsical light",
+      "on_screen_text": "Hành tinh nhỏ, trọng lực x10"
+    },
+    {
+      "id": "s21",
+      "narration": {
+        "vi": "Ông dạy cho nhân vật chính hai kỹ thuật nổi tiếng nhất: Giới Vương Quyền, nhân sức mạnh lên nhiều lần nhưng hành hạ cơ thể, và Genki Dama, gom năng lượng của mọi sinh vật."
+      },
+      "image_prompt": "a fighter surrounded by a red flaming aura, next to a huge sphere of blue energy held above a raised hand, split composition, dramatic light",
+      "on_screen_text": "Giới Vương Quyền · Genki Dama"
+    },
+    {
+      "id": "s22",
+      "narration": {
+        "vi": "Và vị thần này rất thích kể chuyện cười. Muốn làm học trò, bạn phải làm ông cười trước. Kaku đã thử, và ông ấy chỉ gật đầu lịch sự."
+      },
+      "image_prompt": "the owl mascot telling a joke with a tiny microphone while an audience of one small cricket stares blankly",
+      "use_mascot": true
+    },
+    {
+      "id": "s23",
+      "narration": {
+        "vi": "Và vị Giới Vương này còn là một vị thần đã chết. Khi một kẻ thù định tự hủy để phá nổ Trái Đất, nhân vật chính dịch chuyển hắn tới hành tinh của Giới Vương. Cả hành tinh nhỏ biến mất."
+      },
+      "image_prompt": "a tiny round planet exploding in a flash of light, a small car and a tree flying away comically, wide cosmic shot",
+      "on_screen_text": "Một vị thần… đã chết"
+    },
+    {
+      "id": "s24",
+      "narration": {
+        "vi": "Từ đó ông đội một vòng hào quang trên đầu, giống như mọi người ở thế giới bên kia. Nhưng ông vẫn tiếp tục dạy học và kể chuyện cười như chưa có gì xảy ra."
+      },
+      "image_prompt": "a small figure with a glowing halo above his head sitting on a new little planet, telling a joke to a cricket, humorous medium shot, warm light"
+    },
+    {
+      "id": "s25",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh một điểm, quyền hạn hai điểm, phạm vi hai điểm, vì trông coi một phần tư vũ trụ. Tự do bốn điểm, vì không bị ràng buộc gì đặc biệt. Tổng chín điểm."
+      },
+      "image_prompt": "a scorecard showing 1, 2, 2, 4 with a total of 9, close-up, amber ink",
+      "on_screen_text": "Tổng: 9/20"
+    },
+    {
+      "id": "s26",
+      "narration": {
+        "vi": "Trên bốn Giới Vương là Đại Giới Vương, người quản lý cả bốn. Ông sống ở một hành tinh lớn trong thế giới bên kia, nơi những chiến binh xuất sắc đã qua đời được giữ lại thân xác."
+      },
+      "image_prompt": "a large peaceful planet with grand buildings and training grounds, glowing halos floating above the heads of tiny figures, wide shot, golden afterlife light",
+      "chapter": "Hạng 6: Đại Giới Vương",
+      "on_screen_text": "Hạng 6: Đại Giới Vương"
+    },
+    {
+      "id": "s27",
+      "narration": {
+        "vi": "Ở đó, người chết vẫn được luyện tập, thậm chí tổ chức cả giải đấu võ thuật của thế giới bên kia."
+      },
+      "image_prompt": "a tournament arena in the clouds with fighters wearing faint halos, crowds cheering, wide shot, bright light"
+    },
+    {
+      "id": "s28",
+      "narration": {
+        "vi": "Nhưng Đại Giới Vương cũng như các Giới Vương: đứng trên người phàm về chức vụ, còn về sức mạnh thì đã bị bỏ xa. Ở thế giới Dragon Ball, chức vụ không tự làm bạn mạnh lên."
+      },
+      "image_prompt": "a small elderly figure in fancy robes watching a much stronger young fighter train, looking impressed, medium shot, bright light"
+    },
+    {
+      "id": "s29",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh một điểm, quyền hạn ba điểm, phạm vi hai điểm. Tự do bốn điểm. Tổng mười điểm, chỉ nhỉnh hơn Giới Vương một chút."
+      },
+      "image_prompt": "a scorecard showing 1, 3, 2, 4 with a total of 10, close-up",
+      "on_screen_text": "Tổng: 10/20"
+    },
+    {
+      "id": "s30",
+      "narration": {
+        "vi": "Kaku ghi chú: ba bậc đầu tiên này đều là những vị thần trông coi, không phải những vị thần chiến đấu. Từ bậc tiếp theo, mọi thứ bắt đầu khác."
+      },
+      "image_prompt": "a dividing line drawn across the cosmic staircase, lower steps warm and simple, upper steps glowing and intimidating, wide shot",
+      "on_screen_text": "Từ đây mọi thứ khác đi"
+    },
+    {
+      "id": "s31",
+      "narration": {
+        "vi": "Giới Vương Thần là vị thần sáng tạo. Nhiệm vụ của họ là tạo ra các hành tinh, nuôi dưỡng sự sống, và trông coi cả thế giới người sống lẫn thế giới bên kia."
+      },
+      "image_prompt": "a serene figure holding a small glowing newborn planet in cupped hands, a nebula blooming behind, close-up, soft violet light",
+      "chapter": "Hạng 5: Giới Vương Thần",
+      "on_screen_text": "Hạng 5: Giới Vương Thần"
+    },
+    {
+      "id": "s32",
+      "narration": {
+        "vi": "Họ có một bảo vật nổi tiếng: đôi bông tai Potara. Hai người mỗi người đeo một chiếc thì sẽ hợp thể thành một chiến binh mạnh hơn nhiều."
+      },
+      "image_prompt": "a pair of round glowing earrings floating side by side above a velvet cushion, extreme close-up, gold highlights",
+      "on_screen_text": "Bông tai Potara"
+    },
+    {
+      "id": "s33",
+      "narration": {
+        "vi": "Nhưng về sức mạnh chiến đấu, Giới Vương Thần của vũ trụ bảy lại khá yếu. Chính nhân vật chính đã vượt xa ông từ thời arc Majin Buu."
+      },
+      "image_prompt": "a nervous small deity silhouette hiding behind a much larger fighter's shadow, humorous medium shot, warm light"
+    },
+    {
+      "id": "s34",
+      "narration": {
+        "vi": "Và đây là luật quan trọng nhất ở bậc này: mạng sống của Giới Vương Thần gắn liền với mạng sống của Thần Hủy Diệt cùng vũ trụ. Một người chết thì người kia cũng chết theo."
+      },
+      "image_prompt": "two figures standing on opposite sides of a bridge, connected by a single glowing thread tied to their hearts, wide shot, violet and amber light",
+      "on_screen_text": "Hai sinh mạng gắn liền"
+    },
+    {
+      "id": "s35",
+      "narration": {
+        "vi": "Ngày xưa vũ trụ bảy có tới năm Giới Vương Thần. Majin Buu đã tiêu diệt hoặc hấp thụ gần hết. Người còn sống sót là Giới Vương Thần phương Đông."
+      },
+      "image_prompt": "five small thrones in a circle, four of them empty and cracked, one occupied by a lone small figure, wide shot, somber violet light",
+      "on_screen_text": "5 Giới Vương Thần → còn 1"
+    },
+    {
+      "id": "s36",
+      "narration": {
+        "vi": "Ông sau đó hợp thể vĩnh viễn với người hầu Kibito bằng Potara, nên người ta gọi ông là Kibito Thần một thời gian."
+      },
+      "image_prompt": "two silhouettes merging into one in a swirl of light, a pair of earrings glowing at the center, close-up, soft gold light"
+    },
+    {
+      "id": "s37",
+      "narration": {
+        "vi": "Và có cả một vị Lão Giới Vương Thần, sống từ mười lăm đời trước, bị phong ấn trong một thanh kiếm suốt nhiều thiên niên kỷ. Ông biết cách đánh thức sức mạnh tiềm ẩn của người khác."
+      },
+      "image_prompt": "an ancient ornate sword stuck in a stone on a quiet sacred planet, a tiny old figure emerging from a burst of light, wide shot, mystical light",
+      "on_screen_text": "Lão Giới Vương Thần"
+    },
+    {
+      "id": "s38",
+      "narration": {
+        "vi": "Kaku phải khen: một vị thần bị nhốt trong kiếm suốt bao đời mà ra ngoài việc đầu tiên vẫn là than phiền về giới trẻ. Kaku thấy thân quen lạ lùng."
+      },
+      "image_prompt": "the owl mascot nodding along as a tiny old figure lectures with a raised finger",
+      "use_mascot": true
+    },
+    {
+      "id": "s39",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh hai điểm, quyền hạn bốn điểm, phạm vi bốn điểm, cả một vũ trụ. Tự do chỉ một điểm, vì sinh mạng bị ràng buộc. Tổng mười một điểm."
+      },
+      "image_prompt": "a scorecard showing 2, 4, 4, 1 with a total of 11, close-up",
+      "on_screen_text": "Tổng: 11/20"
+    },
+    {
+      "id": "s40",
+      "narration": {
+        "vi": "Nếu có sáng tạo thì phải có hủy diệt. Mỗi vũ trụ có một Thần Hủy Diệt, và ở vũ trụ bảy, người đó là Beerus."
+      },
+      "image_prompt": "a dark silhouette sitting on a giant stone throne, eyes glowing faintly, planets drifting in the background, low-angle shot, violet light",
+      "chapter": "Hạng 4: Thần Hủy Diệt",
+      "on_screen_text": "Hạng 4: Thần Hủy Diệt"
+    },
+    {
+      "id": "s41",
+      "narration": {
+        "vi": "Nhiệm vụ của họ là phá hủy các hành tinh để giữ cân bằng với việc sáng tạo. Chiêu mạnh nhất của họ là Hakai, xóa một thứ khỏi sự tồn tại."
+      },
+      "image_prompt": "a single raised palm with a violet spark, an object in front of it dissolving into drifting light particles, extreme close-up",
+      "on_screen_text": "Hakai: xóa khỏi tồn tại",
+      "video_prompt": "the object in front of the palm crumbles into light particles that swirl away",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s42",
+      "narration": {
+        "vi": "Beerus ngủ hàng chục năm liền. Khi thức dậy, ông có thể phá hủy một hành tinh chỉ vì món ăn không hợp khẩu vị. Và ông đã tìm tới Trái Đất vì một giấc mơ về Thần Saiyan."
+      },
+      "image_prompt": "a sleepy silhouette yawning inside a massive dark temple, a half-eaten bowl of noodles on a table beside the throne, humorous wide shot, dim light",
+      "on_screen_text": "Phá hành tinh vì… đồ ăn"
+    },
+    {
+      "id": "s43",
+      "narration": {
+        "vi": "Arc này chính là thứ đang được làm lại trong Dragon Ball Super: Beerus, với hình ảnh vẽ lại và cách kể mới. Nếu bạn đang xem, bạn đang ở ngay bậc thứ tư của bảng xếp hạng này."
+      },
+      "image_prompt": "a small television on a desk showing a stylized cosmic battle, a calendar beside it marked with a star, close-up, cozy light",
+      "on_screen_text": "Đang được làm lại"
+    },
+    {
+      "id": "s44",
+      "narration": {
+        "vi": "Beerus còn có một người anh em sinh đôi: Champa, Thần Hủy Diệt của vũ trụ sáu. Hai vũ trụ này cũng là cặp song sinh."
+      },
+      "image_prompt": "two mirrored silhouettes, one thin and one round, standing back to back in front of two twin galaxies, symmetrical composition, violet light",
+      "on_screen_text": "Hai anh em sinh đôi"
+    },
+    {
+      "id": "s45",
+      "narration": {
+        "vi": "Hai vị thần này từng tổ chức cả một giải đấu giữa hai vũ trụ chỉ để tranh nhau một hành tinh có đồ ăn ngon. Kaku nghĩ nếu cả hai ăn chung thì đỡ tốn công hơn."
+      },
+      "image_prompt": "a floating arena between two galaxies, a table of steaming dishes set as the prize on a pedestal, humorous wide shot",
+      "on_screen_text": "Đấu vì… đồ ăn"
+    },
+    {
+      "id": "s46",
+      "narration": {
+        "vi": "Mỗi vũ trụ đều có một Thần Hủy Diệt riêng, và sức mạnh của họ không bằng nhau. Nghĩa là Thần Hủy Diệt cũng là một chức vụ, và có người làm tốt hơn người khác."
+      },
+      "image_prompt": "a row of twelve dark throne silhouettes of different sizes on a cosmic bridge, wide shot, violet light",
+      "on_screen_text": "12 vũ trụ, 12 Thần Hủy Diệt"
+    },
+    {
+      "id": "s47",
+      "narration": {
+        "vi": "Đáng nói là Thần Hủy Diệt không thể tự tiện giết Giới Vương Thần, vì chính họ cũng sẽ chết theo. Hai vị thần kìm hãm lẫn nhau."
+      },
+      "image_prompt": "two chess pieces of equal size facing each other on a board, a thread linking their bases, close-up, cold light"
+    },
+    {
+      "id": "s48",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh bốn điểm, quyền hạn bốn điểm, phạm vi bốn điểm. Tự do hai điểm, vì sinh mạng gắn với Giới Vương Thần và vẫn phải nghe lệnh cấp trên. Tổng mười bốn điểm."
+      },
+      "image_prompt": "a scorecard showing 4, 4, 4, 2 with a total of 14, close-up, violet highlights",
+      "on_screen_text": "Tổng: 14/20"
+    },
+    {
+      "id": "s49",
+      "narration": {
+        "vi": "Nếu bạn nghĩ Thần Hủy Diệt đã ở gần đỉnh thì bậc tiếp theo sẽ làm bạn bất ngờ. Bên cạnh mỗi Thần Hủy Diệt luôn có một Thiên sứ, vừa là người hầu, vừa là thầy dạy, vừa là người trông chừng."
+      },
+      "image_prompt": "a tall serene attendant silhouette in flowing robes standing calmly behind a seated dark god, backlit, medium shot, cool silver light",
+      "chapter": "Hạng 3: Thiên sứ",
+      "on_screen_text": "Hạng 3: Thiên sứ"
+    },
+    {
+      "id": "s50",
+      "narration": {
+        "vi": "Thiên sứ của vũ trụ bảy là Whis. Ông lo đồ ăn, đánh thức Beerus, và dạy võ. Nhưng thật ra ông mạnh hơn chính vị thần mà ông phục vụ."
+      },
+      "image_prompt": "a calm attendant effortlessly tapping a furious dark silhouette on the back of the neck, humorous medium shot, bright light",
+      "on_screen_text": "Người hầu mạnh hơn chủ"
+    },
+    {
+      "id": "s51",
+      "narration": {
+        "vi": "Các Thiên sứ làm chủ Bản năng vô cực, trạng thái mà cơ thể tự né và tự phản đòn mà không cần suy nghĩ. Đó cũng là trạng thái nhân vật chính mất rất lâu mới chạm tới."
+      },
+      "image_prompt": "a figure gracefully dodging dozens of incoming attacks with eyes half closed, silver aura flowing like water, dynamic low-angle shot",
+      "on_screen_text": "Bản năng vô cực",
+      "video_prompt": "the figure flows between incoming attacks in slow motion, silver aura rippling like water",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s52",
+      "narration": {
+        "vi": "Whis còn có thể quay ngược thời gian ba phút để sửa một sai lầm. Một năng lực mà Takemichi ở video trước chắc sẽ rất ghen tị."
+      },
+      "image_prompt": "a pocket watch with its hands spinning backwards exactly three ticks, extreme close-up, silver and amber light",
+      "on_screen_text": "Quay ngược 3 phút"
+    },
+    {
+      "id": "s53",
+      "narration": {
+        "vi": "Mỗi Thần Hủy Diệt có một Thiên sứ riêng, và các Thiên sứ là anh chị em với nhau. Ví dụ Vados, Thiên sứ của vũ trụ sáu, là chị của Whis."
+      },
+      "image_prompt": "a line of serene attendant silhouettes standing side by side in flowing robes, each beside a different small galaxy, wide shot, silver light",
+      "on_screen_text": "Các Thiên sứ là anh chị em"
+    },
+    {
+      "id": "s54",
+      "narration": {
+        "vi": "Nhưng Thiên sứ có một luật khắt khe: phải giữ trung lập, không được tự ý can thiệp vào chuyện của người phàm."
+      },
+      "image_prompt": "a glowing boundary line drawn on the ground between a watching attendant and a battle raging beyond it, wide shot, cold light",
+      "on_screen_text": "Luật: trung lập"
+    },
+    {
+      "id": "s55",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh năm điểm, quyền hạn ba điểm, phạm vi bốn điểm. Tự do hai điểm, vì luật trung lập. Tổng mười bốn điểm, bằng với Thần Hủy Diệt, nhưng Kaku xếp Thiên sứ cao hơn vì sức mạnh vượt trội."
+      },
+      "image_prompt": "a scorecard showing 5, 3, 4, 2 with a total of 14 and a small tie-break note beside it, close-up",
+      "on_screen_text": "Tổng: 14/20 (thắng hòa)"
+    },
+    {
+      "id": "s56",
+      "narration": {
+        "vi": "Đứng trên tất cả các Thiên sứ là Đại Thần Quan, cha của các Thiên sứ và là người phụ tá trực tiếp của Toàn Vương."
+      },
+      "image_prompt": "an elder attendant silhouette standing beside an empty tiny throne in a palace floating in white space, wide shot, soft luminous light",
+      "chapter": "Hạng 2: Đại Thần Quan",
+      "on_screen_text": "Hạng 2: Đại Thần Quan"
+    },
+    {
+      "id": "s57",
+      "narration": {
+        "vi": "Ông là người điều hành Giải đấu Sức mạnh, đọc luật, tuyên bố ai bị loại, và truyền đạt ý muốn của Toàn Vương."
+      },
+      "image_prompt": "a massive floating arena made of stone platforms in a void, dozens of tiny fighters, a calm figure announcing from a high balcony, wide shot",
+      "on_screen_text": "Điều hành Giải đấu Sức mạnh"
+    },
+    {
+      "id": "s58",
+      "narration": {
+        "vi": "Truyện gợi ý rằng Đại Thần Quan là một trong những sinh vật mạnh nhất đa vũ trụ. Nhưng ông chưa từng thực sự ra tay, nên con số chính xác là điều fan vẫn tranh luận."
+      },
+      "image_prompt": "a question mark made of light hovering over a calm elder silhouette, close-up, soft glow",
+      "on_screen_text": "Mạnh tới đâu? Chưa ai biết"
+    },
+    {
+      "id": "s59",
+      "narration": {
+        "vi": "Có một chi tiết đáng sợ: khi Giải đấu Sức mạnh kết thúc, các Thiên sứ của những vũ trụ bị xóa vẫn còn đó, bình thản như chưa có gì xảy ra. Họ phục vụ trật tự, không phục vụ một vũ trụ cụ thể."
+      },
+      "image_prompt": "a few serene attendant silhouettes standing calmly on an empty platform while faded outlines of vanished galaxies float behind them, wide shot, cold white light"
+    },
+    {
+      "id": "s60",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh năm điểm, quyền hạn năm điểm, phạm vi năm điểm, toàn bộ các vũ trụ. Tự do ba điểm, vì ông vẫn phục vụ Toàn Vương. Tổng mười tám điểm."
+      },
+      "image_prompt": "a scorecard showing 5, 5, 5, 3 with a total of 18, close-up, white glow",
+      "on_screen_text": "Tổng: 18/20"
+    },
+    {
+      "id": "s61",
+      "narration": {
+        "vi": "Và ở đỉnh cao nhất là Toàn Vương Zeno, vua của mọi thứ. Không có vị thần nào ở trên ông."
+      },
+      "image_prompt": "a tiny glowing throne at the very top of the cosmic staircase, the entire multiverse spread out below like scattered jewels, wide shot, dazzling light",
+      "chapter": "Hạng 1: Toàn Vương",
+      "on_screen_text": "Hạng 1: Toàn Vương"
+    },
+    {
+      "id": "s62",
+      "narration": {
+        "vi": "Theo truyện, ngày xưa có mười tám vũ trụ. Một lần Toàn Vương nổi giận, và sáu vũ trụ biến mất. Giờ chỉ còn mười hai."
+      },
+      "image_prompt": "eighteen small glowing orbs in a circle, six of them fading into nothing, top-down diagram, cold white light",
+      "on_screen_text": "18 → 12 vũ trụ",
+      "video_prompt": "six of the glowing orbs flicker and fade one after another",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s63",
+      "narration": {
+        "vi": "Trong Giải đấu Sức mạnh, các vũ trụ thua cuộc bị xóa sổ ngay tại chỗ, cùng toàn bộ sự sống bên trong. Chỉ bằng một cái giơ tay."
+      },
+      "image_prompt": "a glowing orb representing a universe dissolving into light above the arena, tiny spectators frozen in shock, wide shot",
+      "on_screen_text": "Thua là bị xóa"
+    },
+    {
+      "id": "s64",
+      "narration": {
+        "vi": "Và có tới hai Toàn Vương. Trong arc tương lai, nhân vật chính mang Toàn Vương của một dòng thời gian khác về, vì nghĩ Toàn Vương hiện tại sẽ vui khi có bạn chơi."
+      },
+      "image_prompt": "two identical tiny glowing figures holding hands on twin thrones, dozens of gods staring in shock below, humorous wide shot",
+      "on_screen_text": "Hai Toàn Vương"
+    },
+    {
+      "id": "s65",
+      "narration": {
+        "vi": "Toàn Vương còn tặng nhân vật chính một cái nút bấm để gọi mình bất cứ lúc nào. Một cái nút có thể mang tới vị thần xóa sổ vũ trụ. Kaku mà có thì chắc không dám để trong túi áo."
+      },
+      "image_prompt": "a small simple button device resting in an open palm, glowing ominously, extreme close-up, dramatic light",
+      "on_screen_text": "Nút gọi Toàn Vương"
+    },
+    {
+      "id": "s66",
+      "narration": {
+        "vi": "Nhưng Toàn Vương lại trông và cư xử như một đứa trẻ. Ông vui khi có bạn chơi. Nhân vật chính đối xử với ông như một người bạn, và điều đó vừa buồn cười vừa đáng sợ."
+      },
+      "image_prompt": "a tiny ruler silhouette happily holding a simple handheld button device, while powerful gods kneel nervously around him, humorous medium shot",
+      "on_screen_text": "Như một đứa trẻ"
+    },
+    {
+      "id": "s67",
+      "narration": {
+        "vi": "Chấm điểm: sức mạnh năm điểm, quyền hạn năm, phạm vi năm, và tự do năm. Không ai ra lệnh cho ông. Tổng hai mươi điểm tuyệt đối."
+      },
+      "image_prompt": "a scorecard showing 5, 5, 5, 5 with a total of 20, glowing brightly, close-up",
+      "on_screen_text": "Tổng: 20/20"
+    },
+    {
+      "id": "s68",
+      "narration": {
+        "vi": "Kaku ghi chú: vị thần mạnh nhất đa vũ trụ lại là người ít hiểu hậu quả nhất. Có lẽ đó là lời châm biếm nhẹ nhàng của tác giả về quyền lực tuyệt đối."
+      },
+      "image_prompt": "the owl mascot looking up nervously at a tiny glowing throne, holding its notebook like a shield",
+      "use_mascot": true
+    },
+    {
+      "id": "s69",
+      "narration": {
+        "vi": "Giờ ghép lại toàn bộ bảng xếp hạng. Từ dưới lên: Thần Trái Đất sáu điểm, Giới Vương chín điểm, Đại Giới Vương mười điểm, Giới Vương Thần mười một điểm."
+      },
+      "image_prompt": "the lower half of a cosmic staircase with four glowing plaques showing 6, 9, 10 and 11, wide shot, warm light",
+      "chapter": "Bảng xếp hạng cuối cùng",
+      "on_screen_text": "6 · 9 · 10 · 11"
+    },
+    {
+      "id": "s70",
+      "narration": {
+        "vi": "Thần Hủy Diệt mười bốn điểm, Thiên sứ mười bốn điểm nhưng thắng nhờ sức mạnh, Đại Thần Quan mười tám điểm, và Toàn Vương hai mươi điểm."
+      },
+      "image_prompt": "the upper half of the staircase with four brighter plaques showing 14, 14, 18 and 20, wide shot, violet and gold light",
+      "on_screen_text": "14 · 14 · 18 · 20"
+    },
+    {
+      "id": "s71",
+      "narration": {
+        "vi": "Và các cặp sinh mạng gắn liền xuất hiện ở hai nơi: Thượng Đế với Đại Ma Vương ở dưới đáy, Giới Vương Thần với Thần Hủy Diệt ở giữa. Càng lên cao, các vị thần càng ít bị ràng buộc."
+      },
+      "image_prompt": "a staircase diagram with two pairs of figures linked by glowing threads at the bottom and middle, the top steps free of threads, parchment style, amber ink",
+      "on_screen_text": "Càng lên cao càng ít ràng buộc"
+    },
+    {
+      "id": "s72",
+      "narration": {
+        "vi": "Nhìn bảng, bạn sẽ thấy một điều lạ: sức mạnh và quyền hạn không đi cùng nhau. Thiên sứ mạnh hơn Thần Hủy Diệt nhưng lại phục vụ họ."
+      },
+      "image_prompt": "a balance scale with a fist icon on one side and a crown icon on the other, not quite level, close-up, amber light",
+      "on_screen_text": "Mạnh ≠ có quyền"
+    },
+    {
+      "id": "s73",
+      "narration": {
+        "vi": "Và nhiều người phàm đã mạnh hơn cả những vị thần ở nửa dưới bảng. Nhân vật chính và Vegeta vượt xa Giới Vương Thần từ lâu, và đã từng chạm tay tới sức mạnh của thần."
+      },
+      "image_prompt": "two mortal warrior silhouettes climbing past the lower thrones of the staircase, the lower gods watching in surprise, wide low-angle shot",
+      "on_screen_text": "Người phàm vượt thần"
+    },
+    {
+      "id": "s74",
+      "narration": {
+        "vi": "Kaku nghĩ đây là điểm hay nhất của hệ thống thần trong Dragon Ball. Thần không phải là đích đến cuối cùng của sức mạnh. Thần là một công việc."
+      },
+      "image_prompt": "an office-like celestial hall with desks labeled by small icons: planet, quadrant, universe, multiverse, wide shot, soft light, gently humorous",
+      "chapter": "Góc nhìn của Kaku: thần là chức vụ",
+      "on_screen_text": "Thần là một công việc"
+    },
+    {
+      "id": "s75",
+      "narration": {
+        "vi": "Tác giả Toriyama nổi tiếng là người không quá coi trọng việc thiết lập mọi thứ thật chặt chẽ. Nhưng chính vì vậy, các vị thần của ông mới có tính cách: lười, háu ăn, trẻ con, hay giận dỗi."
+      },
+      "image_prompt": "a whimsical sketchbook page full of doodled deity silhouettes with funny expressions, close-up, warm paper light"
+    },
+    {
+      "id": "s76",
+      "narration": {
+        "vi": "Có thần sáng tạo, thần hủy diệt, thần trông coi, thần phục vụ. Và giống như mọi công việc, có người làm tốt, có người lười, có người ngủ gật suốt nhiều năm."
+      },
+      "image_prompt": "a row of celestial office desks, one occupant snoring with feet on the desk, another busy with stacks of glowing paperwork, humorous wide shot"
+    },
+    {
+      "id": "s77",
+      "narration": {
+        "vi": "Chính vì vậy người phàm mới có thể vươn lên ngang hàng với thần bằng luyện tập. Đó là tinh thần xuyên suốt của Dragon Ball: không ai sinh ra đã ở trên đỉnh, ngoại trừ một người thích chơi."
+      },
+      "image_prompt": "a mortal warrior training alone on a mountain at dawn, the cosmic staircase faintly visible in the sky above, wide shot, golden sunrise"
+    },
+    {
+      "id": "s78",
+      "narration": {
+        "vi": "Kaku đoán nhiều bạn sẽ muốn đẩy Thiên sứ lên trên Đại Thần Quan, hoặc cho Thần Hủy Diệt nhiều điểm tự do hơn. Cứ tranh luận thoải mái, miễn là có lý do."
+      },
+      "image_prompt": "the owl mascot holding two small plaques, hesitating over where to place them on the staircase",
+      "use_mascot": true
+    },
+    {
+      "id": "s79",
+      "narration": {
+        "vi": "Bạn có đồng ý với bảng xếp hạng này không? Nếu là bạn, bạn sẽ đổi vị trí của ai, và chấm lại tiêu chí nào? Viết bảng của bạn vào bình luận nhé."
+      },
+      "image_prompt": "a blank ranking chart with eight empty slots and a pencil lying on it, top-down shot, inviting warm light",
+      "on_screen_text": "Bảng xếp hạng của bạn?"
+    },
+    {
+      "id": "s80",
+      "narration": {
+        "vi": "Từ một vị thần trông coi một hành tinh tới một vị vua có thể xóa cả vũ trụ, bậc thang thần thánh của Dragon Ball cho ta thấy một điều: quyền lực càng lớn thì càng cần người biết giữ nó."
+      },
+      "image_prompt": "the whole cosmic staircase seen from far away, glowing softly, with a tiny figure at the bottom looking up, wide shot, calm starlight",
+      "chapter": "Kết",
+      "video_prompt": "slow crane shot rising up the glowing cosmic staircase toward the tiny throne",
+      "clip_seconds": 5
+    },
+    {
+      "id": "s81",
+      "narration": {
+        "vi": "Nếu bạn đang xem bản làm lại, hãy để ý cách Beerus lần đầu gặp nhân vật chính. Giờ bạn đã biết ông ấy đứng ở bậc nào, và ai đang đứng ngay phía sau ông."
+      },
+      "image_prompt": "a dark god silhouette facing a determined mortal fighter, a serene attendant watching calmly from behind, wide shot, dramatic violet light"
+    },
+    {
+      "id": "s82",
+      "narration": {
+        "vi": "Video tiếp theo, Kaku rời vũ trụ thần thánh để tới một thành phố rất con người: Night City, nơi người ta thay tay chân bằng máy móc và phải trả giá bằng chính tâm trí."
+      },
+      "image_prompt": "a rainy futuristic city skyline glowing with neon signs, a silhouette with a glowing mechanical arm in the foreground, wide shot, magenta and cyan light",
+      "on_screen_text": "Tiếp theo: Night City"
+    },
+    {
+      "id": "s83",
+      "narration": {
+        "vi": "Nếu bạn thích bảng xếp hạng có tiêu chí rõ ràng, hãy đăng ký kênh để không bỏ lỡ bảng tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!"
+      },
+      "image_prompt": "the owl mascot bowing politely at the foot of the cosmic staircase and closing its notebook",
+      "use_mascot": true
+    }
+  ]
+}

@@ -36,6 +36,9 @@ Mỗi video chọn **một** dạng. Mỗi dạng có khung riêng, gồm cách 
 | P | Khoa học trong anime | "Trong đời thật, điều này có thể không?" | Chi tiết trong truyện → nguyên lý khoa học thật → chỗ truyện "phóng tay" | Điểm "độ thật" | Công thức + tranh |
 | Q | Nhập môn cho người mới | "Nếu bạn chưa xem, đây là 15 phút bạn cần" | Thế giới → nhân vật chính → cách sức mạnh vận hành → vì sao nên xem; spoiler thấp | Lộ trình xem (từ đâu, bao nhiêu tập) | Cánh cửa mở |
 | R | Cài cắm và chi tiết ẩn | "Câu trả lời đã có từ tập đầu tiên" | Mỗi chi tiết: lần đầu xuất hiện → ý nghĩa về sau | Chi tiết cài cắm hay nhất | Hai khung "trước/sau" |
+| S | Nguồn gốc ngoài đời thật | "Câu chuyện này có thật hơn bạn nghĩ" | Chi tiết trong truyện → nguồn gốc thật (lịch sử, truyền thuyết) → chỗ tác giả thay đổi và vì sao | Bản đồ "thật / hư cấu" | Nửa tranh cổ, nửa tranh anime |
+| T | Ôn tập trước mùa mới | "Mùa mới ra mắt sau N ngày, đây là 15 phút bạn cần nhớ" | Tình hình hiện tại → luật sức mạnh cần nhớ → các nút thắt còn mở | 3 điều nên để ý ở mùa mới | Lịch đếm ngược |
+| U | Phiên tòa nhân vật | "Bị cáo: …" | Cáo trạng → lời bào chữa → nhân chứng (chi tiết có thật) → luận điểm cuối của hai bên | Người xem là bồi thẩm, bình chọn trong bình luận; Kaku không tuyên án | Cán cân + búa |
 
 ## Ghi chú theo dạng
 
@@ -43,3 +46,6 @@ Mỗi video chọn **một** dạng. Mỗi dạng có khung riêng, gồm cách 
 - **N (bí ẩn) và R (cài cắm):** manh mối phải là chi tiết có thật trong truyện, ghi nguồn chương hoặc tập trong `brief.md`. Giả thuyết luôn nói rõ "đây là lý thuyết".
 - **P (khoa học):** không đưa công thức hay cách làm có thể gây nguy hiểm, như chế thuốc súng, chất độc hay thuốc. Chỉ nói nguyên lý chung. Có câu "đây không phải hướng dẫn".
 - **Q (nhập môn):** spoiler thấp nhất; chỉ nói tới khoảng tập 3–5 của mùa 1.
+- **S (nguồn gốc ngoài đời thật):** mọi sự thật lịch sử, truyền thuyết hay văn hóa phải có nguồn trong `brief.md`. Nói rõ chỗ nào là hư cấu của tác giả. Không vẽ lại chân dung người thật theo ảnh; dùng bóng người và đồ vật thời đó.
+- **T (ôn tập trước mùa mới):** spoiler tới hết mùa anime trước, không đụng tới phần manga mà mùa mới sẽ chiếu. Ghi ngày phát trong `brief.md` và kiểm lại ngay trước khi đăng.
+- **U (phiên tòa nhân vật):** Kaku chỉ trình bày lập luận của cả hai bên, không tuyên án và không cổ vũ bạo lực. Nhân chứng là chi tiết có thật, ghi tập hoặc chương trong `brief.md`. Kết bằng lời mời người xem bình chọn.
