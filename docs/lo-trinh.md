@@ -42,7 +42,7 @@
 - [x] Trang "Xưởng Kaku" cho video 1 (Ảnh / Giọng / Kiểm tra): https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr
 - [x] Công cụ nhập giọng làm tay (tự cắt thành từng cảnh) và công cụ cắt Short dọc
 - [x] Lộ trình tự động hóa Notion + n8n (`docs/tu-dong-hoa.md`)
-- [x] Notion "Kênh Cú Kaku · Trung tâm điều khiển" (riêng tư): https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6
+- [x] Notion "Cú Kaku anime" (riêng tư): https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6
   - bảng Video dài (30 video, có Kanban theo trạng thái và lịch đăng);
   - bảng Shorts;
   - bảng Chỉ số tuần (tự tính % tới điều kiện YPP);

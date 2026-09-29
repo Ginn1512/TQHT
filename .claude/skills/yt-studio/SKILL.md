@@ -113,7 +113,7 @@ Soạn `metadata.vi.md`:
 - Sau khi người dùng đồng ý:
   - chạy `python -m tools.costs record videos/<thư-mục>`
   - cập nhật trạng thái chủ đề trong `channel/topics.md`
-  - cập nhật Notion (trang "Kênh Cú Kaku · Trung tâm điều khiển", cấu trúc trong `docs/tu-dong-hoa.md`):
+  - cập nhật Notion (trang "Cú Kaku anime", cấu trúc trong `docs/tu-dong-hoa.md`):
     - dòng của video trong "Video dài": Trạng thái, Link YouTube, Phút, Chi phí USD, Giờ làm tay;
     - thêm 3 dòng vào "Shorts" (`f057bfe8-e21f-4b2a-8518-87b1b891dd1c`), liên kết tới video gốc.
   - commit (không commit MP4, vì `assets/` và `render/` đã bị gitignore) rồi push.

@@ -31,7 +31,7 @@ Mục tiêu: kênh YouTube tiếng Việt phân tích anime, làm video bằng A
 
 **Làm tay trước để chi phí gần 0**: ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs, dùng prompt soạn sẵn. **Tự động hóa (Notion + n8n) sau khi được bật kiếm tiền**, xem `docs/tu-dong-hoa.md`.
 
-Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả trang xem trên điện thoại https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f). Trạng thái từng video, lịch, Short và chỉ số tuần: trang Notion riêng tư "Kênh Cú Kaku · Trung tâm điều khiển" (https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6, qua connector Notion). Các bảng: "Video dài" (data source `80099179-a3b2-4816-8862-0a4d1d3db805`), "Shorts" (`f057bfe8-e21f-4b2a-8518-87b1b891dd1c`), "Chỉ số tuần" (`01432725-d311-4077-8e7f-4dbd8acb5dfd`). Cấu trúc ghi trong `docs/tu-dong-hoa.md`.
+Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả trang xem trên điện thoại https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f). Trạng thái từng video, lịch, Short và chỉ số tuần: trang Notion riêng tư "Cú Kaku anime" (https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6, qua connector Notion). Các bảng: "Video dài" (data source `80099179-a3b2-4816-8862-0a4d1d3db805`), "Shorts" (`f057bfe8-e21f-4b2a-8518-87b1b891dd1c`), "Chỉ số tuần" (`01432725-d311-4077-8e7f-4dbd8acb5dfd`). Cấu trúc ghi trong `docs/tu-dong-hoa.md`.
 
 ### Cấu trúc
 

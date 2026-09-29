@@ -1,7 +1,7 @@
 # Lộ trình tự động hóa: Notion + n8n
 
 > Nguyên tắc: **làm tay tới khi được bật kiếm tiền**, rồi tự động hóa trong 2–3 tuần. Trong lúc làm tay, mọi thứ được chuẩn bị sẵn để sau này chỉ việc "cắm" vào.
-> Bảng điều khiển: trang Notion riêng tư "Kênh Cú Kaku · Trung tâm điều khiển": https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6. Cấu trúc ghi ở mục "Cấu trúc Notion" cuối file.
+> Bảng điều khiển: trang Notion riêng tư "Cú Kaku anime": https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6. Cấu trúc ghi ở mục "Cấu trúc Notion" cuối file.
 
 ## Nguyên tắc
 
@@ -114,7 +114,7 @@ Trước khi chọn công cụ giọng cho API: đọc cùng đoạn thử bằn
 
 ## Cấu trúc Notion (đã tạo 29/09/2026)
 
-Trang riêng tư **"Kênh Cú Kaku · Trung tâm điều khiển"**. Trên đầu ghi mục tiêu, mốc kiểm tra và luật đổi hướng (giống `docs/lo-trinh.md`). Bên dưới có 3 cơ sở dữ liệu và 1 trang con.
+Trang riêng tư **"Cú Kaku anime"**. Trên đầu ghi mục tiêu, mốc kiểm tra và luật đổi hướng (giống `docs/lo-trinh.md`). Bên dưới có 3 cơ sở dữ liệu và 1 trang con.
 
 **1. Video dài** (30 dòng, lấy từ `channel/topics.md` và `docs/ke-hoach-noi-dung.md`)
 
