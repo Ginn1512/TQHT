@@ -1,6 +1,12 @@
-# Nghiên cứu 7 skill `kaku-` (chưa viết)
+# Nghiên cứu 7 skill `kaku-`
 
-> 2026-09-29. Đây là bản đánh giá, **chưa tạo skill nào**.
+> 2026-09-29. Đây là bản đánh giá.
+>
+> **Đã viết:**
+> - `kaku-canon-ledger`: `tools/canon.py`, `channel/canon-ledger.md`;
+> - `kaku-release-review`: `tools/release_check.py`.
+>
+> Năm skill còn lại chưa viết.
 >
 > Tên đã chốt: tiền tố `kaku-`. Script `scripts/sync-ecc-skills.sh` chỉ xóa những tên có trong `third_party/ecc/skills.txt`, và chỉ chép những tên có trong `keep.txt`. Vì vậy thư mục `kaku-*` an toàn.
 >

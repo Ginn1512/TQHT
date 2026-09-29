@@ -60,6 +60,8 @@ Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ư�
 
 ## 5. Ảnh, giọng và dựng video
 
+**Trước khi làm giọng:** `python -m tools.canon check videos/<thư-mục>` phải đạt. Còn dòng chưa kiểm thì làm theo `/kaku-canon-ledger` trước, vì sửa kịch bản sau khi có giọng là phải làm lại giọng. Ảnh thì làm song song được.
+
 **Cách mặc định: người dùng làm tay trên trang "Xưởng Kaku"** (ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs; hướng dẫn trong `docs/huong-dan-lam-tay.md`):
 
 1. `python -m tools.xuong page videos/<thư-mục> --label "video N" > <scratchpad>/xuong-N.html`, rồi đăng bằng Artifact với `capabilities: {"assets": {}, "db": {}}`. Mỗi video một trang (video 1: https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr). Ghi link vào cột "Link Xưởng" của video trong bảng Notion "Video dài" (data source `80099179-a3b2-4816-8862-0a4d1d3db805`) và đổi Trạng thái sang "Đang làm ảnh".
@@ -105,7 +107,7 @@ python -m tools.shorts make videos/<thư-mục> --from s19 --to s24 --title "Câ
 python -m tools.thumbnail videos/<thư-mục> --text "CHỮ NGẮN 3-6 TỪ" --bg s05
 ```
 
-Soạn `metadata.vi.md`:
+Soạn `metadata.vi.md` **đúng khuôn trong `/kaku-release-review` mục 1**, vì `tools.release_check` đọc theo các tiêu đề `##` của khuôn đó:
 - 3 phương án tiêu đề (≤ 60 ký tự, tên anime đặt ở đầu).
 - Mô tả: 2 dòng mở đầu hấp dẫn, danh sách chương lấy từ `render/chapters.txt`, danh sách nguồn tham khảo, và dòng "Hình minh họa do AI tạo, không phải hình chính thức. Video phân tích của fan."
 - 10–15 tag và 3 hashtag.
@@ -113,6 +115,7 @@ Soạn `metadata.vi.md`:
 
 ## 7. Giao video và duyệt lần cuối
 
+- Làm `/kaku-release-review` trước: `python -m tools.release_check videos/<thư-mục>` không còn LỖI.
 - Gửi `render/video.vi.mp4`, `render/thumbnail.png`, 3 file `render/shorts/*.mp4` và `metadata.vi.md` bằng SendUserFile. Nếu file quá lớn, tải lên Google Drive của người dùng.
 - Dùng AskUserQuestion: **Đăng** / **Sửa** (người dùng ghi rõ cần sửa gì).
 - Sau khi người dùng đồng ý:

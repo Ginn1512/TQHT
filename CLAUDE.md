@@ -23,7 +23,7 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 - `.claude/skills/` chứa 30 skill chọn lọc từ [ECC](https://github.com/affaan-m/ECC) (giấy phép MIT, xem `third_party/ecc/LICENSE`), liệt kê trong `third_party/ecc/keep.txt`. Phiên bản đang dùng ghi trong `third_party/ecc/SOURCE`.
 - Không sửa trực tiếp các skill ECC: lần đồng bộ sau sẽ ghi đè. Muốn tùy biến thì tạo skill mới với tên khác.
 - Cập nhật từ upstream: `scripts/sync-ecc-skills.sh` (hoặc `scripts/sync-ecc-skills.sh <tag>` để chọn phiên bản). Thêm/bớt skill: sửa `keep.txt` rồi chạy lại script.
-- Skill riêng của dự án (tên bắt đầu bằng `yt-`) không nằm trong ECC, được sửa trực tiếp.
+- Skill riêng của dự án (tên bắt đầu bằng `yt-` hoặc `kaku-`) không nằm trong ECC, được sửa trực tiếp. Không đặt tên skill dự án trùng với tên trong `third_party/ecc/keep.txt`.
 
 ## Dự án: kênh YouTube phân tích anime
 
@@ -41,6 +41,7 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 - `channel/formats.md`: danh mục dạng video (A–R) và khung của từng dạng.
 - `channel/references/nghien-cuu-nganh-<năm>.md` và `nhat-ky-hoc-hoi.md`: nghiên cứu ngách và 3 điều học được mỗi đợt.
 - `channel/costs.md`: sổ chi phí.
+- `channel/canon-ledger.md`: sổ khẳng định về anime, tạo tự động từ các `brief.md` bằng `python -m tools.canon build`, không sửa tay.
 - `channel/giong-kaku.json`: giọng Kaku (3 bản mô tả Voice Design, giọng đã chọn, ghi chú đạo diễn, thẻ cho từng công cụ).
 - `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `prompts.vi.md` (tạo tự động bằng `python -m tools.prompt_pack`, không sửa tay), `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
 - `docs/huong-dan-lam-tay.md`: các bước làm ảnh và giọng trên điện thoại. `docs/tu-dong-hoa.md`: lộ trình Notion + n8n.
@@ -54,6 +55,7 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
    - Ảnh và giọng mặc định do người dùng làm tay qua trang "Xưởng Kaku" (`python -m tools.xuong page`), có 3 tab Ảnh / Giọng / Kiểm tra.
    - Claude nhập bằng `tools.app_images import` và `tools.app_audio import`.
    - Tạo ảnh hoặc giọng bằng API chỉ là dự phòng.
+   - Trước khi làm giọng: `/kaku-canon-ledger` (`python -m tools.canon check`) phải đạt. Trước khi giao video: `/kaku-release-review` (`python -m tools.release_check`) không còn lỗi.
 4. `/yt-seedance` (tuỳ chọn): tối đa 6 clip Seedance 2.5 × 5 giây cho cảnh "đinh"; mặc định làm thủ công trên app Dreamina/CapCut.
 
 ### Quy tắc cứng
