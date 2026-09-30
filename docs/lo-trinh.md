@@ -40,7 +40,7 @@
 ## Trạng thái
 
 - [x] 30 skill ECC trong repo
-- [x] Công cụ Python (`tools/`), 138 test đạt
+- [x] Công cụ Python (`tools/`), 168 test đạt
 - [x] Skill `/yt-analyzer`, `/yt-research`, `/yt-studio`, `/yt-seedance`
 - [x] `channel/profile.md` bản sơ bộ, nghiên cứu ngách 2026, nhật ký học hỏi
 - [x] 21 dạng video (`channel/formats.md`, thêm S, T, U), 78 chủ đề (`channel/topics.md`)
@@ -57,6 +57,7 @@
   - chấm nguyên bản 8 tiêu chí (`/kaku-originality-check`);
   - sổ quyền tài sản (`/kaku-rights-audit`);
   - `audit.md` với quyết định đăng của bạn (`/kaku-release-review`).
+- [x] 6 subagent (`.claude/agents/`) và hook chặn hoặc hỏi lại trước thao tác rủi ro (`.claude/hooks/`), 30/09. Đã đối chiếu với repo claude-code-best-practice: chỉ lấy cách làm, không chép repo
 - [x] Notion "Cú Kaku anime" (riêng tư): https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6
   - bảng Video dài (78 video, có Kanban theo trạng thái và lịch đăng);
   - bảng Shorts;

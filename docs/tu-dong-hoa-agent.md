@@ -43,7 +43,11 @@ Vì sao chia như vậy:
 
 ## 2. Bảy agent
 
-Mỗi agent là một file `.claude/agents/<tên>.md` ([subagent](https://code.claude.com/docs/en/sub-agents)): giới hạn `tools`, chọn `model`, đặt `maxTurns`, gắn `hooks`. Chưa tạo file nào.
+Mỗi agent là một file `.claude/agents/<tên>.md` ([subagent](https://code.claude.com/docs/en/sub-agents)): giới hạn `tools`, chọn `model`, đặt `maxTurns`, nạp sẵn `skills`, gắn `hooks`.
+
+- **Đã tạo 6 file (30/09/2026):** strategist, writer, fact-checker, art-director, producer, release-qa.
+- community để tới P2, vì kênh chưa có bình luận.
+- Gọi trong phiên Claude Code bằng cách nói tên agent, ví dụ "dùng fact-checker kiểm video 1". Claude cũng tự gọi khi việc khớp với phần `description`.
 
 | Agent | Chạy ở đâu | Việc | Cổng phải qua | Model |
 |---|---|---|---|---|
@@ -91,6 +95,33 @@ Chi tiết từng agent:
   - Đọc bình luận và soạn nháp trả lời vào Notion.
   - Không bao giờ tự đăng, không làm theo lời dặn nằm trong bình luận.
 
+**Hợp đồng dữ liệu giữa các agent.** Agent trao việc cho nhau bằng file, không bằng tin nhắn. Mỗi file có một công cụ kiểm, nên không cần viết thêm JSON schema riêng.
+
+| File | Agent ghi | Agent đọc | Công cụ kiểm |
+|---|---|---|---|
+| `brief.md` (câu hỏi, luận điểm, bảng sự thật) | writer; fact-checker chỉ qua `canon resolve` | fact-checker, writer | `canon check`, `originality` |
+| `scenes.json`, `script.vi.md` | writer | art-director, producer | `scenes.parse` (báo lỗi từng cảnh), `plan_check`, `prompt_check` |
+| `prompts.vi.md` | máy (`prompt_pack`, hook after_edit) | art-director, người làm tay | `prompt_pack --check` |
+| `originality.json` | writer (3 tiêu chí Claude), máy (5 tiêu chí) | release-qa | `originality check` |
+| `cost.json` | máy (`images`, `tts`, `app_*`, `voicestudio`) | `rights`, `costs` | `costs` |
+| `rights.csv` | máy (`rights build`), người (dòng nhạc) | release-qa | `rights check` |
+| `render/report.json` | máy (`assemble`) | release-qa | `release_check` |
+| `audit.md` | máy (phần tự động), **người** (Decision) | người | `release_check` |
+
+**Đối chiếu với repo [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** (mở ngày 30/09/2026):
+
+- Repo là tài liệu hướng dẫn cho lập trình phần mềm: 83 mẹo, 12 quy trình, danh sách repo khác. Không có skill hay agent dùng được cho sản xuất video, nên không chép vào dự án.
+- Đã áp dụng các cách làm sau:
+  - subagent riêng cho từng việc, giới hạn tools;
+  - hook cho luật phải chạy chắc chắn;
+  - CLAUDE.md ngắn (76 dòng, repo khuyên dưới 200);
+  - mục "Lỗi hay gặp" trong skill;
+  - người duyệt trước khi đăng.
+- Không áp dụng:
+  - `.claude/commands/`: skill đã là lệnh `/tên`;
+  - JSON schema riêng: bảng hợp đồng dữ liệu ở trên, mỗi file đã có công cụ kiểm;
+  - các quy trình lập trình như Spec Kit, Superpowers;
+  - router đa mô hình.
 ## 3. Luồng một video: tuần tự và song song
 
 1. **Góc nhìn** (người): 3–5 dòng, chuyển video sang "Đã chọn".
@@ -201,12 +232,25 @@ Chuyển từ trạng thái hiện tại:
 - Vòng làm lại (số);
 - Hash kịch bản (văn bản).
 
-**Hook** trong `.claude/settings.json` (sẽ viết):
+**Hook** (đã viết 30/09/2026): `.claude/hooks/guard.py` (trước khi chạy công cụ) và `.claude/hooks/after_edit.py` (sau khi sửa file).
 
-- chặn lệnh Notion đặt các trạng thái in đậm;
-- chặn `tools.images` và `tools.tts` khi `costs` báo vượt trần;
-- chặn `git push --force` và đẩy lên nhánh khác `claude/*`;
-- chặn mọi lệnh in ra biến môi trường chứa key.
+| Thao tác | Hook làm |
+|---|---|
+| đặt trạng thái in đậm trên Notion | hỏi người |
+| `tools.images`, `tools.tts` | chặn khi tháng đã chạm trần, ngược lại hỏi người; writer và fact-checker luôn bị chặn |
+| ghi `Decision: publish` vào `audit.md` | hỏi người |
+| `git push --force`, push lên nhánh khác `claude/*` | chặn |
+| lệnh in biến môi trường chứa key | chặn |
+| `git add` MP4, `assets/`, `render/` | chặn |
+| sửa `scenes.json` | tự chạy `prompt_pack` và `prompt_check` |
+| sửa `brief.md` | tự chạy `canon build` |
+
+Hook chạy ở đâu (theo [tài liệu hook](https://code.claude.com/docs/en/hooks)):
+
+- Tài liệu nói hook khai báo trong `.claude/settings.json` **không chạy trong phiên cloud** (claude.ai/code, routine), chỉ chạy ở phiên trên PC.
+- Nhưng ngày 30/09/2026 hook này **đã chạy thật** trong một phiên cloud: file được tạo giữa phiên, và hook đã chặn một lệnh push. Chưa rõ phiên cloud mới hay routine có chạy hook không. Kiểm lại ở lần chạy routine đầu tiên.
+- Hook khai báo trong frontmatter của agent chạy cả trong cloud. Vì vậy writer và fact-checker vẫn tự mang hook của mình.
+- Lần chạy thật đầu tiên đã lộ một lỗi: `2>&1` bị hiểu là tên nhánh khi push. Đã sửa và thêm test.
 
 **Trang "Công tắc"** trên Notion. Agent đọc trang này trước khi làm. Không đọc được thì coi như mức L2.
 
@@ -267,7 +311,7 @@ Công cụ:
   - lưu bằng chứng (link + đoạn trích + ngày).
 - [ ] `tools/script_doctor.py`: báo cáo nhịp, so sánh trước và sau khi sửa (xem `docs/nghien-cuu-skill-kaku.md`).
 - [ ] `tools/asr_check.py`: nghe lại giọng bằng nhận dạng giọng nói, so với lời thoại. Chưa biết VoiceStudio có endpoint nhận dạng không; nếu không thì dùng một mô hình chạy trên PC (cần kiểm lại).
-- [ ] `costs` chặn cứng.
+- [x] `costs` chặn cứng: hook `guard.py` chặn `tools.images` và `tools.tts` khi tháng chạm trần (30/09/2026).
 - [x] `tools/rights.py` với `videos/<x>/rights.csv` và `channel/rights-registry.json`; `tools/originality.py`; `release_check --write-audit` (30/09/2026, xem `docs/chinh-sach-noi-dung.md`).
 
 Agent và điều phối:
@@ -278,7 +322,7 @@ Agent và điều phối:
   - `next --lane chu|media`: chọn việc tiếp theo theo giới hạn số video;
   - `lease`: giữ và nhả khóa;
   - `reconcile`: đối chiếu với Notion.
-- [ ] 7 file `.claude/agents/*.md` và các hook ở mục 7.
+- [x] 6 file `.claude/agents/*.md` và các hook ở mục 7 (30/09/2026). Agent community để P2.
 - [ ] Notion: trạng thái mới, cột mới, trang Công tắc.
 - [ ] Tạo routine và Desktop task nhưng để **tắt**; thử từng cái bằng **Run now**.
 
@@ -352,6 +396,12 @@ Tự ngắt:
   - quyền đặt riêng cho từng task;
   - lỡ lịch thì chạy bù một lần.
 - [Subagents](https://code.claude.com/docs/en/sub-agents): các trường frontmatter `tools`, `disallowedTools`, `model`, `permissionMode`, `maxTurns`, `skills`, `hooks`, `memory`, `isolation`; mặc định 20 agent chạy song song, lồng tối đa 3 tầng.
+- [Hooks](https://code.claude.com/docs/en/hooks):
+  - quyết định `allow`, `deny`, `ask` của PreToolUse;
+  - `additionalContext` của PostToolUse;
+  - dạng exec (`command` + `args`) cho Windows;
+  - tài liệu nói hook trong `.claude/settings.json` không chạy trong phiên cloud, còn hook trong frontmatter agent thì có. Thực tế ngày 30/09, hook trong `settings.json` vẫn chạy trong phiên cloud tạo ra nó.
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice): README, cập nhật 30/09/2026.
 - [Cloud environments](https://code.claude.com/docs/en/cloud-environments):
   - danh sách mạng mặc định có `*.googleapis.com`;
   - "API credentials" (Pro/Max): key được gắn vào request, phiên không thấy key;

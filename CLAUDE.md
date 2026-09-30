@@ -47,6 +47,8 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 - `docs/chinh-sach-noi-dung.md`: 9 nguyên tắc nội dung AI đúng chính sách YouTube và các cổng chặn.
 - `channel/rights-registry.json`: sổ điều khoản của các công cụ (ảnh, giọng, font, clip, nhạc).
 - `docs/huong-dan-lam-tay.md`: các bước làm ảnh và giọng trên điện thoại. `docs/tu-dong-hoa-agent.md`: chiến lược tự động hóa bằng agent (bản cũ n8n: `docs/tu-dong-hoa.md`).
+- `.claude/agents/`: 6 subagent (strategist, writer, fact-checker, art-director, producer, release-qa). Gọi bằng tên, ví dụ "dùng fact-checker kiểm video 1".
+- `.claude/hooks/` + `.claude/settings.json`: hook chặn hoặc hỏi lại trước thao tác rủi ro (API tốn tiền, `Decision: publish`, trạng thái Notion của người, in key, force push, commit MP4) và tự tạo lại `prompts.vi.md`. Tài liệu nói hook trong `settings.json` không chạy ở phiên cloud, nhưng ngày 30/09 hook đã chạy thật trong một phiên cloud. Vì vậy writer và fact-checker vẫn mang hook riêng trong frontmatter.
 - `tools/`: công cụ Python (TranscriptAPI, Gemini TTS/ảnh, VoiceStudio, ffmpeg). Cài bằng `pip install -r tools/requirements.txt`, chạy test bằng `pytest tools/tests`.
 
 ### Quy trình

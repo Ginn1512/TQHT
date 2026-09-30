@@ -146,6 +146,13 @@ Soạn `metadata.vi.md` **đúng khuôn trong `/kaku-release-review` mục 1**, 
   1. App YouTube Studio: tải video lên, dán tiêu đề và mô tả, đặt thumbnail, chọn "Không dành cho trẻ em", hẹn giờ đăng.
   2. YouTube Studio bản web: tải `subs.vi.srt` vào mục Phụ đề.
 
+## Lỗi hay gặp
+
+- Sửa `scenes.json` mà quên chạy lại `prompt_pack` thì `prompts.vi.md` cũ đi và test `prompt_pack --check` hỏng. Trên PC và trong agent writer, hook `after_edit` tự chạy lại.
+- `python -m tools.app_audio import` thiếu `--engine`: sổ quyền ghi giọng là UNKNOWN và chặn đăng.
+- Trong phiên cloud, `localhost:3900` (VoiceStudio) và fandom thường không mở được. Làm giọng trên PC; kiểm nguồn bằng nguồn khác hoặc nhờ người dùng mở trang.
+- Sửa lời thoại có ngày tháng thật ("tuần này", "vừa khép lại") phải khớp lịch đăng trong `channel/topics.md`.
+
 ## 8. Thêm bản lồng tiếng (khi profile đã bật ngôn ngữ đó)
 
 1. Dịch `narration` sang ngôn ngữ mới ngay trong `scenes.json`, thêm mã ngôn ngữ vào `languages`.

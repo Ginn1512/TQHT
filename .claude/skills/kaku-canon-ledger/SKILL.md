@@ -72,3 +72,10 @@ pytest tools/tests/test_canon.py                 # có bài kiểm sổ khớp c
 - `/yt-studio` mục 5: **chỉ làm giọng khi `canon check` của video đó đạt**. Nếu người dùng muốn làm trước, nói rõ rủi ro phải làm lại giọng các cảnh bị sửa, và chỉ làm khi họ đồng ý.
 - `/kaku-release-review`: mục "Nguồn (canon)" là LỖI nếu còn dòng chưa kiểm.
 - Kịch bản mới do `/yt-studio` hoặc công cụ dựng cảnh tạo ra phải ghi ô tình trạng theo đúng các mức ở trên, để sổ đọc được.
+
+## Lỗi hay gặp
+
+- Fandom và nhiều trang tin bị chặn trong phiên cloud. Thử Wikipedia, Anime News Network, trang chính thức. Không mở được thì giữ ở mức chưa kiểm và gửi link cho người dùng mở hộ.
+- Đoạn trích trong kết quả WebSearch không phải là "đã mở trang".
+- Sửa `brief.md` xong phải chạy `python -m tools.canon build`, nếu không test sổ khẳng định hỏng. Trên PC, hook `after_edit` tự chạy.
+- Dòng "Kiến thức chuẩn của truyện" không có link thì tính là không rõ nguồn. Tách dòng và tìm nguồn cho từng chi tiết.

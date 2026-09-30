@@ -142,6 +142,13 @@ Dùng Read xem 3 khung hình và `render/thumbnail.png`. Đạt khi:
 - ảnh không có chữ lạ và không giống nhân vật có bản quyền;
 - chữ trên thumbnail đọc được khi thu nhỏ.
 
+## Lỗi hay gặp
+
+- Chạy `release_check` trước khi chạy lại `rights build` sau khi nhập ảnh và giọng thì báo "rights.csv chưa khớp".
+- Claude **không** tự ghi `Decision: publish`. Hook `guard.py` sẽ hỏi lại người dùng nếu Claude thử ghi.
+- Video dạng S (người, sự kiện thật): `release_check` gợi ý tick khai báo AI. Metadata ghi "Không tick" thì bị báo LƯU Ý.
+- Đăng hơn 1 video/ngày thì `audit.md` ghi rủi ro "inauthentic" là high. Không sửa tay cho thấp đi; nói thật với người dùng.
+
 ## 5. Gửi người dùng duyệt
 
 - Gửi bằng SendUserFile: `render/video.vi.mp4`, `render/thumbnail.png`, 3 Short, `metadata.vi.md` và `audit.md`. File quá lớn thì tải lên Google Drive.
