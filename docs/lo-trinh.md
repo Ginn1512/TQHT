@@ -65,7 +65,7 @@
 - [ ] Chọn giọng Kaku (thử 3 giọng) và tạo ảnh mẫu Kaku
 - [ ] Video 1: làm ảnh và giọng trên trang Xưởng → dựng → đăng 06/10
 - [ ] Cài `TRANSCRIPT_API_KEY`, mở kết nối `transcriptapi.com` → phân tích 5 kênh mẫu bằng dữ liệu thật, chốt profile ([hướng dẫn](https://claude.ai/artifact/CLeMBD8BXXfBLhcVfbzT6S))
-- [ ] **Trước 06/10:** mở trang điều khoản ảnh Gemini API, ghi vào `channel/rights-registry.json`. Chưa kiểm thì cổng quyền tài sản chặn đăng mọi video dùng ảnh API
+- [x] Điều khoản Gemini API (ảnh, giọng TTS, AI Studio) đã kiểm 30/09 từ bản tóm tắt bạn gửi (`docs/dieu-khoan/`): được dùng cho kênh kiếm tiền; 78 video qua cổng quyền tài sản
 - [ ] Thêm dòng "Luận điểm riêng" vào 77 `brief.md`, rồi Claude chấm 3 tiêu chí nguyên bản cho từng video (đi cùng việc kiểm nguồn)
 - [ ] Kiểm lại nguồn trong `brief.md` trước khi làm giọng mỗi video
 - [ ] Video 2–78 theo lịch (đã có kịch bản, trạng thái "chờ kiểm nguồn")

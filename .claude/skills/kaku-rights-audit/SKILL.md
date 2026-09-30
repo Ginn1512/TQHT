@@ -76,7 +76,11 @@ Mở `rights.csv` và thêm một dòng cho mỗi tài sản sau:
    - `notes` = câu trả lời ngắn cho 4 câu hỏi, kèm link;
    - `attribution_required` = `yes` hoặc `no`.
 4. Nếu không đạt: `status` = `cam`, ghi lý do, và báo người dùng đổi công cụ.
-5. Trang bị chặn trong phiên cloud: để nguyên `can-kiem`. Nhờ người dùng mở trang trên điện thoại hoặc PC rồi dán **nội dung điều khoản** (không phải key) vào chat, hoặc tự xác nhận.
+5. Trang bị chặn trong phiên cloud: để nguyên `can-kiem`. Nhờ người dùng mở trang trên điện thoại hoặc PC rồi gửi **nội dung điều khoản** (không phải key), bằng cách dán vào chat hoặc gửi file tóm tắt.
+   - Lưu nguyên văn bản người dùng gửi vào `docs/dieu-khoan/<tên>-<ngày hiệu lực>.md`, thêm 2 dòng đầu ghi rõ đây là bản người dùng gửi, không phải văn bản gốc.
+   - Trả lời 4 câu hỏi ở bước 2 từ chính văn bản đó. Ghi vào `notes` của mục, kèm đường dẫn tới file bằng chứng.
+   - Thiếu câu trả lời cho câu hỏi dùng thương mại thì giữ `can-kiem`.
+   - Ví dụ: `gemini-image-api`, kiểm ngày 30/09/2026.
 
 **Không bao giờ** đánh `da-kiem` khi chưa đọc điều khoản. **Không bao giờ** bịa link.
 

@@ -5,12 +5,12 @@
       "label": "Ảnh tạo bằng Gemini API",
       "type": "image",
       "creator": "Cú Kaku (kênh), tạo bằng Gemini API",
-      "license": "Điều khoản bổ sung của Gemini API (Google)",
+      "license": "Điều khoản bổ sung của Gemini API (Google), hiệu lực 23/03/2026",
       "source_url": "https://ai.google.dev/gemini-api/terms",
-      "attribution_required": "chưa rõ",
-      "status": "can-kiem",
-      "checked": null,
-      "notes": "Cần mở trang điều khoản và xác nhận: quyền dùng thương mại ảnh đầu ra, và việc ảnh có gắn dấu SynthID hay không. Trang này bị chặn trong phiên cloud ngày 30/09/2026."
+      "attribution_required": "no",
+      "status": "da-kiem",
+      "checked": "2026-09-30",
+      "notes": "Đã kiểm 30/09/2026 qua bản tóm tắt người dùng làm từ ảnh chụp trang điều khoản (hiệu lực 23/03/2026), lưu ở docs/dieu-khoan/gemini-api-additional-terms-2026-03-23.md. Dùng thương mại: được, vì AI Studio và Gemini API dành cho mục đích chuyên môn hoặc kinh doanh. Sở hữu: Google không nhận quyền sở hữu nội dung do Services tạo, nhưng có thể tạo nội dung tương tự cho người khác (không độc quyền). Ghi công: không bắt buộc chung, chỉ khi luật yêu cầu; mô tả video đã có dòng 'Hình minh họa do AI tạo'. Gói miễn phí: Google dùng prompt và đầu ra để cải thiện sản phẩm, có người xem, nên không gửi dữ liệu cá nhân hay bí mật; gói trả phí (Cloud Billing) thì không. Điều kiện: người dùng API từ 18 tuổi, ở khu vực được hỗ trợ, tuân thủ Prohibited Use Policy (trang riêng, chưa đọc: https://policies.google.com/terms/generative-ai/use-policy). Không dùng Grounding with Google Search hay Maps. Nên đọc lại văn bản gốc trước quyết định pháp lý lớn."
     },
     "gemini-image-app": {
       "label": "Ảnh làm tay trên ứng dụng Gemini",
@@ -21,29 +21,29 @@
       "attribution_required": "chưa rõ",
       "status": "can-kiem",
       "checked": null,
-      "notes": "Cần xác nhận quyền dùng thương mại ảnh tạo trong ứng dụng Gemini, theo đúng gói tài khoản đang dùng."
+      "notes": "Không thuộc điều khoản Gemini API: ứng dụng Gemini là sản phẩm tiêu dùng, theo điều khoản dịch vụ Google và điều khoản riêng của ứng dụng. Cần xác nhận quyền dùng thương mại ảnh tạo trong ứng dụng, theo đúng gói tài khoản đang dùng. Từ 06/10 ảnh làm qua API, ứng dụng chỉ là dự phòng."
     },
     "gemini-tts-api": {
       "label": "Giọng Gemini TTS qua API",
       "type": "voice",
       "creator": "Cú Kaku (kênh), tạo bằng Gemini TTS",
-      "license": "Điều khoản bổ sung của Gemini API (Google)",
+      "license": "Điều khoản bổ sung của Gemini API (Google), hiệu lực 23/03/2026",
       "source_url": "https://ai.google.dev/gemini-api/terms",
-      "attribution_required": "chưa rõ",
-      "status": "can-kiem",
-      "checked": null,
-      "notes": "Giọng đọc có sẵn của Gemini, không clone người thật. Cần xác nhận quyền dùng thương mại âm thanh đầu ra."
+      "attribution_required": "no",
+      "status": "da-kiem",
+      "checked": "2026-09-30",
+      "notes": "Đã kiểm 30/09/2026 qua bản tóm tắt người dùng làm từ ảnh chụp trang điều khoản (hiệu lực 23/03/2026), lưu ở docs/dieu-khoan/gemini-api-additional-terms-2026-03-23.md. Dùng thương mại: được, vì AI Studio và Gemini API dành cho mục đích chuyên môn hoặc kinh doanh. Sở hữu: Google không nhận quyền sở hữu nội dung do Services tạo, nhưng có thể tạo nội dung tương tự cho người khác (không độc quyền). Ghi công: không bắt buộc chung, chỉ khi luật yêu cầu; mô tả video đã có dòng 'Hình minh họa do AI tạo'. Gói miễn phí: Google dùng prompt và đầu ra để cải thiện sản phẩm, có người xem, nên không gửi dữ liệu cá nhân hay bí mật; gói trả phí (Cloud Billing) thì không. Điều kiện: người dùng API từ 18 tuổi, ở khu vực được hỗ trợ, tuân thủ Prohibited Use Policy (trang riêng, chưa đọc: https://policies.google.com/terms/generative-ai/use-policy). Không dùng Grounding with Google Search hay Maps. Nên đọc lại văn bản gốc trước quyết định pháp lý lớn. Giọng đọc có sẵn của Gemini, không clone người thật."
     },
     "ai-studio-tts": {
       "label": "Giọng làm tay trên Google AI Studio",
       "type": "voice",
       "creator": "Cú Kaku (kênh), tạo trên Google AI Studio",
-      "license": "Điều khoản bổ sung của Gemini API (Google)",
+      "license": "Điều khoản bổ sung của Gemini API (Google), hiệu lực 23/03/2026",
       "source_url": "https://ai.google.dev/gemini-api/terms",
-      "attribution_required": "chưa rõ",
-      "status": "can-kiem",
-      "checked": null,
-      "notes": "Giọng thiết kế bằng mô tả (channel/giong-kaku.json), không clone người thật. Cần xác nhận quyền dùng thương mại."
+      "attribution_required": "no",
+      "status": "da-kiem",
+      "checked": "2026-09-30",
+      "notes": "Đã kiểm 30/09/2026 qua bản tóm tắt người dùng làm từ ảnh chụp trang điều khoản (hiệu lực 23/03/2026), lưu ở docs/dieu-khoan/gemini-api-additional-terms-2026-03-23.md. Dùng thương mại: được, vì AI Studio và Gemini API dành cho mục đích chuyên môn hoặc kinh doanh. Sở hữu: Google không nhận quyền sở hữu nội dung do Services tạo, nhưng có thể tạo nội dung tương tự cho người khác (không độc quyền). Ghi công: không bắt buộc chung, chỉ khi luật yêu cầu; mô tả video đã có dòng 'Hình minh họa do AI tạo'. Gói miễn phí: Google dùng prompt và đầu ra để cải thiện sản phẩm, có người xem, nên không gửi dữ liệu cá nhân hay bí mật; gói trả phí (Cloud Billing) thì không. Điều kiện: người dùng API từ 18 tuổi, ở khu vực được hỗ trợ, tuân thủ Prohibited Use Policy (trang riêng, chưa đọc: https://policies.google.com/terms/generative-ai/use-policy). Không dùng Grounding with Google Search hay Maps. Nên đọc lại văn bản gốc trước quyết định pháp lý lớn. Giọng thiết kế bằng mô tả (channel/giong-kaku.json), không clone người thật. Dùng AI Studio miễn phí là gói miễn phí, trừ khi tài khoản có Cloud Billing."
     },
     "elevenlabs": {
       "label": "Giọng làm tay trên ElevenLabs",

@@ -70,7 +70,11 @@ Luôn làm bằng tay trong YouTube Studio (danh sách cuối lệnh `release_ch
 ## Rủi ro lớn nhất của kênh lúc này
 
 - **Nhịp 3 video/ngày** từ 06/10: cả 78 video dùng chung linh vật, phong cách hình và khung kịch bản. Theo tiêu chí của tài liệu, `audit.md` ghi rủi ro "inauthentic" là **high** cho mọi video đăng hơn 1 video/ngày. Đây là dữ liệu cho lần xét nhịp ngày 25/10 (`docs/lo-trinh.md`).
-- **Điều khoản ảnh Gemini chưa kiểm:** mọi video dùng ảnh Gemini API đều bị chặn ở cổng quyền tài sản cho tới khi mục `gemini-image-api` trong `channel/rights-registry.json` được kiểm. Trang điều khoản bị chặn trong phiên cloud, nên người dùng cần mở trang để xác nhận **trước 06/10**.
+- **Điều khoản Gemini API đã kiểm ngày 30/09/2026:**
+  - Người dùng mở trang và gửi bản tóm tắt; bản này lưu ở `docs/dieu-khoan/gemini-api-additional-terms-2026-03-23.md`.
+  - Kết luận: được dùng ảnh và giọng cho kênh kiếm tiền; Google không nhận quyền sở hữu; ảnh không độc quyền; không bắt buộc ghi công.
+  - Cả 78 video qua cổng quyền tài sản với kế hoạch ảnh API + giọng VoxCPM2.
+  - Còn lại: đọc Prohibited Use Policy và văn bản gốc khi có thể. Ảnh làm tay trên ứng dụng Gemini vẫn ở mức `can-kiem`.
 - **Nguồn:** 33/78 video có dưới một nửa số khẳng định kèm link (đo ngày 30/09/2026). Các video này bị chặn ở tiêu chí `nguon` cho tới khi làm `/kaku-canon-ledger`.
 
 ## Nguồn chính sách cần theo dõi

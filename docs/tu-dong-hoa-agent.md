@@ -334,7 +334,7 @@ Tự ngắt:
 | Video tải lên qua API bị khóa riêng tư khi project chưa kiểm định | người tự tải lên cho tới khi kiểm định đạt |
 | Mất công cụ dựng cảnh | việc đầu tiên của P0 |
 | Giấy phép giọng | chỉ `voxcpm2` (Apache-2.0); `rights check` chặn engine phi thương mại |
-| Điều khoản ảnh Gemini chưa kiểm | `rights check` chặn mọi video dùng ảnh API cho tới khi mục `gemini-image-api` là `da-kiem`; người mở trang điều khoản trước 06/10 |
+| Điều khoản công cụ thay đổi | Gemini API đã kiểm 30/09/2026 (bản tóm tắt trong `docs/dieu-khoan/`); kiểm lại mỗi quý, và khi Google báo đổi điều khoản; mục chưa kiểm thì `rights check` chặn |
 | Bị xem là nội dung hàng loạt (inauthentic) | `originality` từ 12/16, `plan_check`, `originality scan` mỗi đợt; `audit.md` ghi rủi ro high khi đăng hơn 1 video/ngày; xét nhịp 25/10 |
 
 ## 12. Nguồn
