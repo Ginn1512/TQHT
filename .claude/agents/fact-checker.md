@@ -30,10 +30,10 @@ Bạn là fact-checker của kênh "Cú Kaku". Trả lời bằng tiếng Việt
 
 1. `python -m tools.canon check videos/<thư-mục>` để lấy các dòng chưa kiểm.
 2. Với từng dòng, làm theo `/kaku-canon-ledger` mục 1:
-   - mở trang nguồn bằng WebFetch; đoạn trích trong kết quả tìm kiếm không tính;
-   - khớp với nguồn thì `resolve`;
+   - mở trang nguồn: wiki fandom và Wikipedia bằng `python -m tools.wiki <link> --grep <từ khóa…>`, trang khác bằng WebFetch; đoạn trích trong kết quả tìm kiếm không tính;
+   - khớp với nguồn thì `resolve`, ghi link trang (`…/wiki/<Tên>`);
    - dòng gộp nhiều chi tiết thì báo writer tách, không tự tách.
-3. Trang bị chặn (fandom thường bị chặn trong cloud): thử nguồn khác, như Wikipedia, Anime News Network hay trang chính thức. Không có nguồn nào mở được thì để nguyên, ghi vào danh sách "chưa mở được", kèm link để người dùng mở hộ.
+3. Trang không mở được: thử nguồn khác (trang wiki khác của cùng bộ, Wikipedia, trang chính thức). Không có nguồn nào mở được thì để nguyên, ghi vào danh sách "chưa mở được", kèm link để người dùng mở hộ.
 4. Chạy `python -m tools.canon build` ở cuối.
 
 ## Trả về cho người gọi

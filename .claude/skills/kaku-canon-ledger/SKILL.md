@@ -30,7 +30,9 @@ python -m tools.canon check videos/<thư-mục>       # các dòng chưa kiểm 
 
 ## 1. Kiểm từng dòng
 
-1. **Mở trang nguồn** bằng WebFetch. Đoạn trích trong kết quả tìm kiếm không được tính.
+1. **Mở trang nguồn.** Đoạn trích trong kết quả tìm kiếm không được tính.
+   - Wiki fandom và Wikipedia: `python -m tools.wiki <link trang> --grep <từ khóa…>`. Lệnh đọc toàn văn trang qua API của wiki, vì trang fandom mở thẳng bị Cloudflare chặn (403, WebFetch báo 402). Khi `resolve`, ghi link trang (`…/wiki/<Tên>`), không ghi link API.
+   - Trang khác (trang tin, trang chính thức): WebFetch.
    - Nên dùng: wiki của bộ (Fandom), Wikipedia, trang tin anime uy tín (Anime News Network, Crunchyroll News), trang chính thức.
    - Nếu trang bị chặn, thử nguồn khác. Không có nguồn nào mở được thì ghi rõ và để dòng ở mức chưa kiểm.
 2. **Dòng gộp nhiều chi tiết**, ví dụ "tên kỹ năng, tỉ lệ lục giác, lời Wing…": tách thành nhiều dòng trong bảng của `brief.md` trước, mỗi dòng một khẳng định. Sau đó kiểm từng dòng.
@@ -75,7 +77,7 @@ pytest tools/tests/test_canon.py                 # có bài kiểm sổ khớp c
 
 ## Lỗi hay gặp
 
-- Fandom và nhiều trang tin bị chặn trong phiên cloud. Thử Wikipedia, Anime News Network, trang chính thức. Không mở được thì giữ ở mức chưa kiểm và gửi link cho người dùng mở hộ.
+- Fandom và Anime News Network chặn truy cập từ máy chủ bằng Cloudflare (403), WebFetch cũng không vào được. Với fandom và Wikipedia, dùng `python -m tools.wiki`. Mạng của môi trường cloud phải cho phép `*.fandom.com` và `en.wikipedia.org` (đã mở 30/09/2026). Không mở được thì giữ ở mức chưa kiểm và gửi link cho người dùng mở hộ.
 - Đoạn trích trong kết quả WebSearch không phải là "đã mở trang".
 - Sửa `brief.md` xong phải chạy `python -m tools.canon build`, nếu không test sổ khẳng định hỏng. Trên PC, hook `after_edit` tự chạy.
 - Dòng "Kiến thức chuẩn của truyện" không có link thì tính là không rõ nguồn. Tách dòng và tìm nguồn cho từng chi tiết.
