@@ -2,15 +2,15 @@
 
 > Tạo tự động bằng `python -m tools.canon build` từ bảng sự thật trong `videos/*/brief.md`. **Không sửa tay**: sửa `brief.md` (hoặc `python -m tools.canon resolve`), rồi chạy lại `build`.
 
-819 khẳng định trong 78 video. **557 chưa kiểm.** 1/78 video sẵn sàng làm giọng.
+888 khẳng định trong 78 video. **626 chưa kiểm.** 1/78 video sẵn sàng làm giọng.
 
 | Mức | Số dòng |
 |---|---|
 | Đã kiểm | 0 |
 | Có nguồn | 234 |
 | Ý kiến / lý thuyết đã gắn nhãn | 28 |
-| Chưa mở trang | 11 |
-| Cần kiểm lại | 546 |
+| Chưa mở trang | 96 |
+| Cần kiểm lại | 530 |
 | Không rõ nguồn | 0 |
 
 ## Theo video
@@ -18,8 +18,8 @@
 | # | Ngày | Video | Anime | Đã kiểm / có nguồn | Chưa kiểm | Sẵn sàng làm giọng |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-06 | `2026-10-06-nen-hunter-x-hunter` | Hunter x Hunter | 0 | 11 | Chưa |
-| 2 | 2026-10-06 | `2026-10-06-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 8 | Chưa |
-| 3 | 2026-10-06 | `2026-10-06-ma-thuat-frieren` | Frieren | 0 | 8 | Chưa |
+| 2 | 2026-10-06 | `2026-10-06-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 32 | Chưa |
+| 3 | 2026-10-06 | `2026-10-06-ma-thuat-frieren` | Frieren | 0 | 53 | Chưa |
 | 4 | 2026-10-07 | `2026-10-07-haki-one-piece` | One Piece | 0 | 7 | Chưa |
 | 5 | 2026-10-07 | `2026-10-07-cay-pha-he-hoi-tho-kimetsu` | Kimetsu no Yaiba | 0 | 7 | Chưa |
 | 6 | 2026-10-07 | `2026-10-07-trai-ac-quy-one-piece` | One Piece | 0 | 8 | Chưa |
@@ -99,6 +99,132 @@
 ## Chưa kiểm, gom theo bộ
 
 Kiểm cả nhóm một lần: cùng một chi tiết thường xuất hiện ở nhiều video của cùng bộ.
+
+### Jujutsu Kaisen (65)
+
+- Video 2, dòng 1 · Chưa mở trang: Arc Trò chơi tử thần là phần anime đang chiếu vào ngày đăng 06/10/2026 (s01)
+- Video 2, dòng 2 · Chưa mở trang: Chú lực là năng lượng sinh ra từ cảm xúc tiêu cực như sợ hãi, giận dữ, oán hận (s06)
+- Video 2, dòng 3 · Chưa mở trang: Người thường rò rỉ chú lực mà không biết, và phần rò rỉ đó sinh ra chú linh (s07)
+- Video 2, dòng 4 · Chưa mở trang: Thuật thức là năng lực bẩm sinh khắc sẵn trong cơ thể (s08)
+- Video 2, dòng 5 · Chưa mở trang: Bành trướng lãnh địa là dùng chú lực dựng kết giới rồi lấp đầy bên trong bằng thế giới nội tâm của người dùng (sinh đắc lãnh vực) (s11)
+- Video 2, dòng 6 · Chưa mở trang: Người dùng thường kết một thủ ấn để triển khai lãnh địa (s13)
+- Video 2, dòng 7 · Chưa mở trang: Bên trong lãnh địa, người dùng được tăng sức mạnh và thuật thức được nạp sẵn vào không gian (s14–s15)
+- Video 2, dòng 8 · Chưa mở trang: Đòn tấn công bằng thuật thức bên trong lãnh địa là tất trúng (s16)
+- Video 2, dòng 9 · Chưa mở trang: Trong truyện, lãnh địa được gọi là đỉnh cao của chú thuật (s17)
+- Video 2, dòng 10 · Chưa mở trang: Tất trúng chỉ áp dụng cho thuật thức được nạp vào lãnh địa; nắm đấm thường vẫn có thể bị đỡ (s19)
+- Video 2, dòng 11 · Chưa mở trang: Lãnh địa rất tốn chú lực; duy trì lâu còn nặng hơn (s20, s59)
+- Video 2, dòng 12 · Chưa mở trang: Tranh chấp lãnh địa: khi hai lãnh địa va nhau, lãnh địa tinh xảo hơn lấn át bên kia (s23–s24)
+- Video 2, dòng 13 · Chưa mở trang: Giản dị lãnh địa là vùng nhỏ bao quanh người dùng, vô hiệu hóa hiệu ứng tất trúng khi chạm vào (s25)
+- Video 2, dòng 14 · Chưa mở trang: Giản dị lãnh địa được xem là kỹ thuật của kẻ yếu, giúp người không dựng được lãnh địa vẫn có cơ hội sống sót (s26)
+- Video 2, dòng 15 · Chưa mở trang: Các gia tộc lớn có kỹ thuật bí truyền phản đòn tất trúng ngay khi nó chạm vào người (s27)
+- Video 2, dòng 16 · Chưa mở trang: Khuếch đại lãnh địa: bọc cơ thể trong một lớp lãnh địa mỏng, vô hiệu hóa thuật thức chạm vào mình (s28)
+- Video 2, dòng 17 · Chưa mở trang: Trong lúc khuếch đại lãnh địa, người dùng không thể dùng thuật thức của chính mình (s29)
+- Video 2, dòng 18 · Chưa mở trang: Kết giới lãnh địa khó phá từ trong, từ ngoài phá vào dễ hơn (s30)
+- Video 2, dòng 19 · Chưa mở trang: Sau khi lãnh địa kết thúc, người dùng thường không dùng được thuật thức trong một khoảng thời gian (thuật thức bị cháy) (s32)
+- Video 2, dòng 20 · Chưa mở trang: Có nhân vật dùng thuật thức đảo ngược chữa phần não để rút ngắn thời gian thuật thức bị cháy; đây là kỹ năng cực hiếm (s34)
+- Video 2, dòng 21 · Chưa mở trang: Có lãnh địa chưa hoàn chỉnh: dựng được không gian nhưng chưa có tất trúng, vẫn dùng được để tranh chấp (s36–s37)
+- Video 2, dòng 22 · Chưa mở trang: Có lãnh địa không kết giới; truyện ví kỹ thuật này như vẽ tranh lên không khí thay vì lên giấy (s38–s39)
+- Video 2, dòng 23 · Chưa mở trang: Lãnh địa không kết giới chừa đường thoát cho đối thủ; đó là giao ước đổi lấy phạm vi rộng hơn (s40–s41)
+- Video 2, dòng 24 · Chưa mở trang: Arc Trò chơi tử thần có một lãnh địa tòa án: bên trong không ai được dùng bạo lực, mọi thứ quyết định bằng phiên xét xử (s43)
+- Video 2, dòng 25 · Chưa mở trang: Bị kết tội trong lãnh địa tòa án có thể bị tịch thu thuật thức (s44)
+- Video 2, dòng 26 · Chưa mở trang: Arc Trò chơi tử thần có một lãnh địa may rủi: người dùng quay số, trúng lớn thì gần như bất tử trong vài phút (s46)
+- Video 2, dòng 27 · Chưa mở trang: Trong lãnh địa may rủi, đối thủ bị buộc phải chơi cùng dù có muốn hay không (s47)
+- Video 2, dòng 28 · Chưa mở trang: Vô lượng không xứ: bên trong là không gian vô tận, đối thủ bị ép tiếp nhận lượng thông tin không dứt nên đứng im (s51–s52)
+- Video 2, dòng 29 · Chưa mở trang: Phục ma ngự trù tử chính là lãnh địa không kết giới nói ở trên (s54)
+- Video 2, dòng 30 · Chưa mở trang: Bên trong Phục ma ngự trù tử là một ngôi đền; mọi thứ trong phạm vi bị chém liên tục tới khi tan thành từng mảnh (s54–s55)
+- Video 2, dòng 31 · Chưa mở trang: Không bát là kỹ thuật cổ tạo một chiếc giỏ đan quanh người dùng, trung hòa hiệu ứng tất trúng (s70–s71)
+- Video 2, dòng 32 · Chưa mở trang: Giản dị lãnh địa được xem như phiên bản dễ học hơn của các kỹ thuật chống lãnh địa cổ (s72)
+- Video 15, dòng 1 · Cần kiểm lại: Hắc thiểm: chú lực chạm trong khoảng 0,000001 giây sau cú đánh vật lý; không gian méo, sức mạnh tăng mạnh (mô tả lũy thừa 2,5); không ai làm được theo ý muốn
+- Video 15, dòng 2 · Cần kiểm lại: Yuji tạo 4 Hắc thiểm liên tiếp (trận với Hanami, sự kiện giao lưu Kyoto), cân bằng kỷ lục của Nanami
+- Video 15, dòng 3 · Cần kiểm lại: Chú linh sinh ra từ cảm xúc tiêu cực; chú linh cấp đặc biệt thông minh; chú linh thiên tai sinh từ nỗi sợ thiên nhiên; Mahito coi chú linh là con người thật
+- Video 15, dòng 4 · Cần kiểm lại: Thuật thức bẩm sinh khắc trong cơ thể; luyện tập để mở rộng, đảo ngược, tối đa; gia tộc truyền thuật thức theo dòng máu
+- Video 15, dòng 5 · Cần kiểm lại: Chú lực đảo ngược: nhân chú lực âm với âm; hiếm; chữa cho người khác rất hiếm (Ieiri Shoko); không hồi sinh người chết
+- Video 15, dòng 6 · Cần kiểm lại: Lời thề ràng buộc: Nanami giới hạn giờ làm, làm thêm giờ thì mạnh hơn; tiết lộ thuật thức để tăng sức mạnh
+- Video 15, dòng 7 · Cần kiểm lại: Lãnh địa: đòn chắc chắn trúng; Giản dị lãnh địa chống đòn chắc chắn trúng; lãnh địa va chạm, bên tinh xảo hơn thắng (video số 2)
+- Video 15, dòng 8 · Cần kiểm lại: Vô hạ hạn dựa trên khái niệm vô hạn; Lục nhãn giúp dùng chú lực cực kỳ chính xác; Toji dùng Thiên nghịch mâu đâm xuyên (mùa 2, arc Quá khứ); sau đó Gojo tự động hóa Vô hạ hạn
+- Video 15, dòng 9 · Cần kiểm lại: Thập chủng ảnh pháp; thời Keichō, gia chủ Gojo (Lục nhãn + Vô hạ hạn) và gia chủ Zenin (Thập chủng) cùng chết trong một trận đấu; Mahoraga chưa ai thuần phục
+- Video 15, dòng 10 · Cần kiểm lại: Thang cấp chú linh so với vũ khí: cấp 4 gậy gỗ, cấp 3 súng ngắn, cấp 2 súng săn, cấp 1 xe tăng chưa chắc đủ, cấp đặc biệt cần ném bom rải thảm (chương đầu manga)
+- Video 15, dòng 11 · Cần kiểm lại: Sukuna là con người, chú thuật sư thời Heian khoảng 1.000 năm trước; 20 ngón tay thành chú vật; tên mượn từ Ryōmen Sukuna trong Nihon Shoki (hai mặt, bốn tay)
+- Video 25, dòng 1 · Cần kiểm lại: Thời Heian 794–1185, kinh đô Heian-kyō (Kyoto); âm dương sư (onmyōji) có thật; Sugawara no Michizane (845–903) thành oán linh theo truyền thuyết rồi được thờ là Tenjin, thần học vấn
+- Video 25, dòng 2 · Cần kiểm lại: Okkotsu Yuta và Gojo Satoru là hậu duệ xa của Sugawara no Michizane (Jujutsu Kaisen 0)
+- Video 25, dòng 3 · Cần kiểm lại: Thời Heian là thời hoàng kim của chú thuật; Sukuna là chú thuật sư con người; 20 ngón tay thành chú vật; Uraume là người hầu từ thời Heian
+- Video 25, dòng 4 · Cần kiểm lại: Thiên Nguyên (Tengen) sống hơn 1.000 năm, duy trì kết giới khắp Nhật Bản; mỗi 500 năm hợp nhất với vật chứa Tinh Tương để không tiến hóa
+- Video 25, dòng 5 · Cần kiểm lại: Thời Keichō (~400 năm trước): gia chủ Gojo (Lục nhãn + Vô hạ hạn) và gia chủ Zenin (Thập chủng ảnh pháp) cùng chết
+- Video 25, dòng 6 · Cần kiểm lại: Ba gia tộc lớn: Gojo, Zenin, Kamo
+- Video 25, dòng 7 · Cần kiểm lại: Thời Minh Trị: Kamo Noritoshi (bị Kenjaku chiếm xác) tạo Cửu tướng đồ; Choso nhận ra hắn
+- Video 25, dòng 8 · Cần kiểm lại: Kenjaku chiếm cơ thể qua não; đường khâu trên trán; hiện mang cơ thể Geto Suguru; mục đích tiến hóa loài người
+- Video 25, dòng 9 · Cần kiểm lại: 2006: nhiệm vụ hộ tống Amanai Riko; Toji giết Riko; Gojo thức tỉnh; hợp nhất thất bại
+- Video 25, dòng 10 · Cần kiểm lại: 2007: Geto thảm sát một ngôi làng rồi rời đi; 24/12/2017: Bách quỷ dạ hành (phim JJK 0); Gojo kết liễu Geto
+- Video 25, dòng 11 · Cần kiểm lại: Tháng 6/2018: Yuji nuốt ngón tay Sukuna; 31/10/2018: sự kiện Shibuya; Gojo bị phong ấn trong Ngục môn cương
+- Video 25, dòng 12 · Cần kiểm lại: Hai trường chú thuật ở Tokyo và Kyoto; Thiên Nguyên ở sâu dưới trường Tokyo; Trò chơi tử diệt gồm nhiều vùng kết giới (colony) trên khắp Nhật Bản
+- Video 25, dòng 13 · Cần kiểm lại: Trò chơi tử diệt; anime mùa 3 phần 1 phát 9/1–27/3/2026, phần tiếp là mùa 4
+- Video 31, dòng 6 · Cần kiểm lại: Câu "Thiên thượng thiên hạ, duy ngã độc tôn" gắn với truyền thuyết Đức Phật đản sinh
+- Video 31, dòng 7 · Cần kiểm lại: Sự ra đời của Gojo được nói là làm thay đổi cán cân thế giới chú thuật; người có cả Vô hạ hạn và Lục nhãn hàng trăm năm mới xuất hiện
+- Video 31, dòng 8 · Cần kiểm lại: Gojo che mắt để giảm thông tin từ Lục nhãn
+- Video 31, dòng 9 · Cần kiểm lại: Gojo nói "hai chúng ta là mạnh nhất" với Geto; Geto rời đi sau arc Hoài Ngọc / Ngọc Chiết
+- Video 31, dòng 10 · Cần kiểm lại: Lãnh địa Vô Lượng Không Xứ dội vô tận thông tin khiến nạn nhân không hành động được; ở Shibuya Gojo mở lãnh địa khoảng 0,2 giây, người thường bị kẹt bên trong sống sót
+- Video 31, dòng 11 · Cần kiểm lại: Ước mơ của Gojo: thay đổi thế giới chú thuật bằng cách nuôi dạy thế hệ thuật sư mạnh
+- Video 46, dòng 3 · Cần kiểm lại: Kenjaku tạo trò chơi, đánh thức năng lực ở người thường, đưa thuật sư cổ đại tái sinh; có 10 khu kết giới
+- Video 46, dòng 4 · Cần kiểm lại: Tsumiki, em gái của Fushiguro, bị cuốn vào trò chơi; phe Itadori muốn thêm luật cho phép rời trò chơi và chuyển điểm
+- Video 46, dòng 5 · Cần kiểm lại: Tiểu thuyết Battle Royale (Takami Koushun, 1999); phim Trò chơi con mực (Hàn Quốc, 2021) có luật bỏ phiếu dừng trò chơi; thế lưỡng nan của người tù là khái niệm lý thuyết trò chơi
+
+### Frieren (55)
+
+- Video 3, dòng 1 · Chưa mở trang: Ma thuật dựa vào khả năng hình dung: thứ không hình dung được thì không biến thành phép được (s08–s10, s91)
+- Video 3, dòng 2 · Chưa mở trang: Phép bay có nguồn gốc từ ma tộc (s11)
+- Video 3, dòng 3 · Chưa mở trang: Con người dùng được phép bay nhưng không giải thích được hết cơ chế của nó (s11)
+- Video 3, dòng 4 · Chưa mở trang: Zoltraak do ma tộc Qual tạo ra (s13)
+- Video 3, dòng 5 · Chưa mở trang: Zoltraak là phép đầu tiên xuyên thủng được lớp phòng thủ bằng ma lực của con người (s14)
+- Video 3, dòng 6 · Chưa mở trang: Qual bị tổ đội của Himmel, có Frieren, phong ấn (s16)
+- Video 3, dòng 7 · Chưa mở trang: Qual bị phong ấn khoảng 80 năm (s03, s17, s20, s92)
+- Video 3, dòng 8 · Chưa mở trang: Được loài người phân tích, Zoltraak trở thành "ma pháp tấn công thông thường", phép ai học pháp thuật cũng biết (s18, s92)
+- Video 3, dòng 9 · Chưa mở trang: Frieren đè nén ma lực suốt hơn 1.000 năm (s32)
+- Video 3, dòng 10 · Chưa mở trang: Kỹ năng đè nén ma lực do thầy Flamme dạy Frieren (s33)
+- Video 3, dòng 11 · Chưa mở trang: Aura sở hữu cán cân phục tùng (s35)
+- Video 3, dòng 12 · Chưa mở trang: Cán cân so ma lực hai bên; bên ít hơn bị bên kia điều khiển hoàn toàn (s36)
+- Video 3, dòng 13 · Chưa mở trang: Ma lực của Aura tích lũy hơn 500 năm (s36)
+- Video 3, dòng 14 · Chưa mở trang: Fern giấu ma lực tốt tới mức ngay cả Frieren cũng khó nhận ra dao động ma lực của cô (s43)
+- Video 3, dòng 15 · Chưa mở trang: Serie nhìn xuyên được lớp ngụy trang ma lực đó của Fern (s44)
+- Video 3, dòng 16 · Chưa mở trang: Kỳ thi pháp sư hạng nhất do Serie đứng sau (s53)
+- Video 3, dòng 17 · Chưa mở trang: Người đỗ được Serie ban cho một phép thuật mà họ mong muốn (s53)
+- Video 3, dòng 18 · Chưa mở trang: Kỳ thi có mê cung với những bản sao của chính các thí sinh, mang đủ kỹ năng của họ (s56)
+- Video 3, dòng 19 · Chưa mở trang: Frieren thích sưu tầm những phép thuật kỳ lạ, nghe thì vô dụng (s58)
+- Video 3, dòng 20 · Chưa mở trang: Phép làm hoa nở là phép thầy Flamme thích (s60)
+- Video 3, dòng 21 · Chưa mở trang: Phép làm hoa nở gắn với ký ức của Frieren về Himmel (s60)
+- Video 3, dòng 22 · Chưa mở trang: Zoltraak từng được gọi là "ma pháp giết người" (s02, s92)
+- Video 3, dòng 23 · Chưa mở trang: Trong thời gian đó, phần lớn pháp sư và mạo hiểm giả bị giết đều chết bởi Zoltraak (s15)
+- Video 3, dòng 24 · Chưa mở trang: Phép phòng thủ được phát triển để chặn đúng loại tấn công của Zoltraak (s19)
+- Video 3, dòng 25 · Chưa mở trang: Được giải phong ấn, Qual dùng Zoltraak như xưa và nó không còn là vũ khí tất thắng (s20)
+- Video 3, dòng 26 · Chưa mở trang: Theo Frieren, ma tộc học ngôn ngữ chỉ để lừa con người (s24)
+- Video 3, dòng 27 · Chưa mở trang: Ma tộc gọi tên cha mẹ, xin tha như một mồi nhử (s24–s25)
+- Video 3, dòng 28 · Chưa mở trang: Ma tộc không có khái niệm gia đình hay lòng thương theo cách con người hiểu (s25)
+- Video 3, dòng 29 · Chưa mở trang: Mỗi ma tộc thường dành cả đời để hoàn thiện một phép duy nhất (s27)
+- Video 3, dòng 30 · Chưa mở trang: Ma tộc coi ma lực như thước đo địa vị và đánh giá đối thủ qua lượng ma lực tỏa ra (s30–s31)
+- Video 3, dòng 31 · Chưa mở trang: Flamme dạy Frieren giấu ma lực trong mọi khoảnh khắc, cả khi ăn và khi ngủ (s33)
+- Video 3, dòng 32 · Chưa mở trang: Mục đích của việc đè nén ma lực là lừa ma tộc (s34)
+- Video 3, dòng 33 · Chưa mở trang: Khi Frieren thả ma lực thật, cán cân nghiêng về cô và Aura bị chính phép của mình phản lại (s37)
+- Video 3, dòng 34 · Chưa mở trang: Phép nữ thần do tu sĩ dùng và đến từ kinh thánh (s46–s47)
+- Video 3, dòng 35 · Chưa mở trang: Tu sĩ dùng phép nữ thần để chữa thương, giải độc, xua tà; pháp sư thường không làm được (s47)
+- Video 3, dòng 36 · Chưa mở trang: Ngay cả tu sĩ cũng không hiểu hết vì sao phép nữ thần hoạt động (s48)
+- Video 3, dòng 37 · Chưa mở trang: Niềm tin là một phần của phép nữ thần (s48)
+- Video 3, dòng 38 · Chưa mở trang: Tổ đội anh hùng năm xưa có một tu sĩ (s49)
+- Video 3, dòng 39 · Chưa mở trang: Tổ đội mới của Frieren cũng có một tu sĩ đi cùng (s49)
+- Video 3, dòng 40 · Chưa mở trang: Người đỗ chọn những phép khác nhau, có người chọn phép rất đời thường (s54)
+- Video 3, dòng 41 · Chưa mở trang: Trong kỳ thi có phép trói, phép tạo ảo ảnh và phép sao chép chính đối thủ (s55)
+- Video 3, dòng 42 · Chưa mở trang: Frieren có phép làm sạch gỉ trên tượng đồng (s59)
+- Video 3, dòng 43 · Chưa mở trang: Frieren có phép tìm đồ bị mất (s59)
+- Video 3, dòng 44 · Chưa mở trang: Frieren là tiên tộc, đã sống hơn một nghìn năm (s64)
+- Video 3, dòng 45 · Chưa mở trang: Truyện cho thấy có người vẫn vượt trội Frieren (s68)
+- Video 3, dòng 46 · Chưa mở trang: Flamme được xem là người đặt nền móng cho ma thuật của loài người (s70)
+- Video 3, dòng 47 · Chưa mở trang: Flamme từng là học trò của Serie (s70)
+- Video 3, dòng 48 · Chưa mở trang: Flamme mơ về một thời đại mà ma thuật trở nên bình thường, ai cũng có thể học (s71)
+- Video 3, dòng 49 · Chưa mở trang: Thời đại ai cũng học được ma thuật mà Flamme mơ cuối cùng đã tới (s71)
+- Video 3, dòng 50 · Chưa mở trang: Serie là pháp sư tiên tộc cổ xưa, gần như biết mọi phép thuật (s44, s72)
+- Video 3, dòng 51 · Chưa mở trang: Serie nhìn ma thuật chủ yếu qua lăng kính sức mạnh và chiến đấu (s72)
+- Video 3, dòng 52 · Chưa mở trang: Fern dùng phép tấn công cơ bản Zoltraak cực nhanh và cực chính xác (s78)
+- Video 3, dòng 53 · Chưa mở trang: Sau khi Himmel mất, Frieren mới hiểu những khoảnh khắc bên anh quan trọng thế nào và lên đường tìm hiểu con người (s83)
+- Video 70, dòng 6 · Cần kiểm lại: Nhóm anh hùng: Himmel (người), Heiter (tu sĩ, người), Eisen (người lùn), Frieren (elf, sống hơn nghìn năm); Heiter nuôi Fern và nhờ Frieren dạy; Eisen giới thiệu Stark; phép thuật vô dụng từ Flamme
+- Video 70, dòng 7 · Cần kiểm lại: Hoa trăng xanh quê Himmel; Frieren tìm hoa để đặt bên tượng; câu Himmel cũng sẽ làm vậy; Aura và Qual 80 năm sau; hành trình tới nơi linh hồn yên nghỉ (Aureole) để nói chuyện với Himmel; câu chỉ mười năm thôi
 
 ### One Piece (46)
 
@@ -194,50 +320,6 @@ Kiểm cả nhóm một lần: cùng một chi tiết thường xuất hiện �
 - Video 71, dòng 4 · Cần kiểm lại: Làng của từng nhân trụ lực; hình dạng và năng lực từng Vĩ thú; Rin từng mang Tam Vĩ; Son Goku lấy cảm hứng từ Tôn Ngộ Không
 - Video 71, dòng 5 · Cần kiểm lại: Gaara không ngủ được vì Shukaku, sau thành Kazekage; Killer Bee là em nuôi Raikage, dạy Naruto kiểm soát Cửu Vĩ; Naruto hỏi tên Kurama trong Đại chiến lần 4; Akatsuki gom Vĩ thú hồi sinh Thập Vĩ
 - Video 71, dòng 6 · Cần kiểm lại: Vĩ thú ngọc; các cấp biến hình của nhân trụ lực; nhân trụ lực hoàn hảo; Mito và Kushina là nhân trụ lực Cửu Vĩ trước Naruto; tộc Uzumaki; bức tượng Gedo rút Vĩ thú; Chiyo hồi sinh Gaara; Bee giả bị bắt bằng xúc tu; Kazekage phong ấn Shukaku vào Gaara; Kurama ở lại với Naruto
-
-### Jujutsu Kaisen (41)
-
-- Video 2, dòng 1 · Cần kiểm lại: Chú lực sinh ra từ cảm xúc tiêu cực; thuật thức là năng lực bẩm sinh
-- Video 2, dòng 2 · Cần kiểm lại: Bành trướng lãnh địa = kết giới + sinh đắc lãnh vực, nạp thuật thức, đòn thuật thức tất trúng
-- Video 2, dòng 3 · Cần kiểm lại: Tranh chấp lãnh địa: lãnh địa tinh xảo hơn thắng
-- Video 2, dòng 4 · Cần kiểm lại: Giản dị lãnh địa, kỹ thuật bí truyền của các gia tộc lớn, khuếch đại lãnh địa (không dùng được thuật thức của mình khi khuếch đại)
-- Video 2, dòng 5 · Cần kiểm lại: Thuật thức bị cháy sau khi dùng lãnh địa; hồi phục bằng thuật thức đảo ngược lên não
-- Video 2, dòng 6 · Cần kiểm lại: Kết giới lãnh địa khó phá từ trong, dễ hơn từ ngoài
-- Video 2, dòng 7 · Cần kiểm lại: Lãnh địa không kết giới ('vẽ không cần khung'), giao ước chừa đường thoát
-- Video 2, dòng 8 · Cần kiểm lại: Lãnh địa tòa án (tịch thu thuật thức) và lãnh địa may rủi (trúng lớn = gần như bất tử vài phút) trong arc Trò chơi tử thần
-- Video 15, dòng 1 · Cần kiểm lại: Hắc thiểm: chú lực chạm trong khoảng 0,000001 giây sau cú đánh vật lý; không gian méo, sức mạnh tăng mạnh (mô tả lũy thừa 2,5); không ai làm được theo ý muốn
-- Video 15, dòng 2 · Cần kiểm lại: Yuji tạo 4 Hắc thiểm liên tiếp (trận với Hanami, sự kiện giao lưu Kyoto), cân bằng kỷ lục của Nanami
-- Video 15, dòng 3 · Cần kiểm lại: Chú linh sinh ra từ cảm xúc tiêu cực; chú linh cấp đặc biệt thông minh; chú linh thiên tai sinh từ nỗi sợ thiên nhiên; Mahito coi chú linh là con người thật
-- Video 15, dòng 4 · Cần kiểm lại: Thuật thức bẩm sinh khắc trong cơ thể; luyện tập để mở rộng, đảo ngược, tối đa; gia tộc truyền thuật thức theo dòng máu
-- Video 15, dòng 5 · Cần kiểm lại: Chú lực đảo ngược: nhân chú lực âm với âm; hiếm; chữa cho người khác rất hiếm (Ieiri Shoko); không hồi sinh người chết
-- Video 15, dòng 6 · Cần kiểm lại: Lời thề ràng buộc: Nanami giới hạn giờ làm, làm thêm giờ thì mạnh hơn; tiết lộ thuật thức để tăng sức mạnh
-- Video 15, dòng 7 · Cần kiểm lại: Lãnh địa: đòn chắc chắn trúng; Giản dị lãnh địa chống đòn chắc chắn trúng; lãnh địa va chạm, bên tinh xảo hơn thắng (video số 2)
-- Video 15, dòng 8 · Cần kiểm lại: Vô hạ hạn dựa trên khái niệm vô hạn; Lục nhãn giúp dùng chú lực cực kỳ chính xác; Toji dùng Thiên nghịch mâu đâm xuyên (mùa 2, arc Quá khứ); sau đó Gojo tự động hóa Vô hạ hạn
-- Video 15, dòng 9 · Cần kiểm lại: Thập chủng ảnh pháp; thời Keichō, gia chủ Gojo (Lục nhãn + Vô hạ hạn) và gia chủ Zenin (Thập chủng) cùng chết trong một trận đấu; Mahoraga chưa ai thuần phục
-- Video 15, dòng 10 · Cần kiểm lại: Thang cấp chú linh so với vũ khí: cấp 4 gậy gỗ, cấp 3 súng ngắn, cấp 2 súng săn, cấp 1 xe tăng chưa chắc đủ, cấp đặc biệt cần ném bom rải thảm (chương đầu manga)
-- Video 15, dòng 11 · Cần kiểm lại: Sukuna là con người, chú thuật sư thời Heian khoảng 1.000 năm trước; 20 ngón tay thành chú vật; tên mượn từ Ryōmen Sukuna trong Nihon Shoki (hai mặt, bốn tay)
-- Video 25, dòng 1 · Cần kiểm lại: Thời Heian 794–1185, kinh đô Heian-kyō (Kyoto); âm dương sư (onmyōji) có thật; Sugawara no Michizane (845–903) thành oán linh theo truyền thuyết rồi được thờ là Tenjin, thần học vấn
-- Video 25, dòng 2 · Cần kiểm lại: Okkotsu Yuta và Gojo Satoru là hậu duệ xa của Sugawara no Michizane (Jujutsu Kaisen 0)
-- Video 25, dòng 3 · Cần kiểm lại: Thời Heian là thời hoàng kim của chú thuật; Sukuna là chú thuật sư con người; 20 ngón tay thành chú vật; Uraume là người hầu từ thời Heian
-- Video 25, dòng 4 · Cần kiểm lại: Thiên Nguyên (Tengen) sống hơn 1.000 năm, duy trì kết giới khắp Nhật Bản; mỗi 500 năm hợp nhất với vật chứa Tinh Tương để không tiến hóa
-- Video 25, dòng 5 · Cần kiểm lại: Thời Keichō (~400 năm trước): gia chủ Gojo (Lục nhãn + Vô hạ hạn) và gia chủ Zenin (Thập chủng ảnh pháp) cùng chết
-- Video 25, dòng 6 · Cần kiểm lại: Ba gia tộc lớn: Gojo, Zenin, Kamo
-- Video 25, dòng 7 · Cần kiểm lại: Thời Minh Trị: Kamo Noritoshi (bị Kenjaku chiếm xác) tạo Cửu tướng đồ; Choso nhận ra hắn
-- Video 25, dòng 8 · Cần kiểm lại: Kenjaku chiếm cơ thể qua não; đường khâu trên trán; hiện mang cơ thể Geto Suguru; mục đích tiến hóa loài người
-- Video 25, dòng 9 · Cần kiểm lại: 2006: nhiệm vụ hộ tống Amanai Riko; Toji giết Riko; Gojo thức tỉnh; hợp nhất thất bại
-- Video 25, dòng 10 · Cần kiểm lại: 2007: Geto thảm sát một ngôi làng rồi rời đi; 24/12/2017: Bách quỷ dạ hành (phim JJK 0); Gojo kết liễu Geto
-- Video 25, dòng 11 · Cần kiểm lại: Tháng 6/2018: Yuji nuốt ngón tay Sukuna; 31/10/2018: sự kiện Shibuya; Gojo bị phong ấn trong Ngục môn cương
-- Video 25, dòng 12 · Cần kiểm lại: Hai trường chú thuật ở Tokyo và Kyoto; Thiên Nguyên ở sâu dưới trường Tokyo; Trò chơi tử diệt gồm nhiều vùng kết giới (colony) trên khắp Nhật Bản
-- Video 25, dòng 13 · Cần kiểm lại: Trò chơi tử diệt; anime mùa 3 phần 1 phát 9/1–27/3/2026, phần tiếp là mùa 4
-- Video 31, dòng 6 · Cần kiểm lại: Câu "Thiên thượng thiên hạ, duy ngã độc tôn" gắn với truyền thuyết Đức Phật đản sinh
-- Video 31, dòng 7 · Cần kiểm lại: Sự ra đời của Gojo được nói là làm thay đổi cán cân thế giới chú thuật; người có cả Vô hạ hạn và Lục nhãn hàng trăm năm mới xuất hiện
-- Video 31, dòng 8 · Cần kiểm lại: Gojo che mắt để giảm thông tin từ Lục nhãn
-- Video 31, dòng 9 · Cần kiểm lại: Gojo nói "hai chúng ta là mạnh nhất" với Geto; Geto rời đi sau arc Hoài Ngọc / Ngọc Chiết
-- Video 31, dòng 10 · Cần kiểm lại: Lãnh địa Vô Lượng Không Xứ dội vô tận thông tin khiến nạn nhân không hành động được; ở Shibuya Gojo mở lãnh địa khoảng 0,2 giây, người thường bị kẹt bên trong sống sót
-- Video 31, dòng 11 · Cần kiểm lại: Ước mơ của Gojo: thay đổi thế giới chú thuật bằng cách nuôi dạy thế hệ thuật sư mạnh
-- Video 46, dòng 3 · Cần kiểm lại: Kenjaku tạo trò chơi, đánh thức năng lực ở người thường, đưa thuật sư cổ đại tái sinh; có 10 khu kết giới
-- Video 46, dòng 4 · Cần kiểm lại: Tsumiki, em gái của Fushiguro, bị cuốn vào trò chơi; phe Itadori muốn thêm luật cho phép rời trò chơi và chuyển điểm
-- Video 46, dòng 5 · Cần kiểm lại: Tiểu thuyết Battle Royale (Takami Koushun, 1999); phim Trò chơi con mực (Hàn Quốc, 2021) có luật bỏ phiếu dừng trò chơi; thế lưỡng nan của người tù là khái niệm lý thuyết trò chơi
 
 ### Dragon Ball (39)
 
@@ -548,19 +630,6 @@ Kiểm cả nhóm một lần: cùng một chi tiết thường xuất hiện �
 - Video 12, dòng 9 · Cần kiểm lại: Học trò trong xưởng: Agott (gia đình phù thủy danh giá), Tetia, Richeh
 - Video 12, dòng 10 · Cần kiểm lại: Ma thuật cấm gồm vẽ phép lên cơ thể sống; nhóm mũ rộng vành (Brimmed Caps) dùng phép cấm; truyện cho thấy phép cấm có thể được dùng để chữa lành (cám dỗ)
 - Video 12, dòng 11 · Cần kiểm lại: Nơi xem anime có bản quyền tại Việt Nam
-
-### Frieren (10)
-
-- Video 3, dòng 1 · Cần kiểm lại: Ma thuật dựa vào trí tưởng tượng; phép bay có nguồn gốc từ ma tộc, cơ chế chưa được giải thích hết
-- Video 3, dòng 2 · Cần kiểm lại: Zoltraak do ma tộc Qual tạo ra; là phép đầu tiên xuyên thủng phòng thủ ma lực của người
-- Video 3, dòng 3 · Cần kiểm lại: Qual bị tổ đội Himmel phong ấn khoảng 80 năm; Zoltraak trở thành 'ma pháp tấn công thông thường'
-- Video 3, dòng 4 · Cần kiểm lại: Frieren đè nén ma lực hơn 1.000 năm, được Flamme dạy
-- Video 3, dòng 5 · Cần kiểm lại: Aura và cán cân phục tùng; ma lực tích lũy hơn 500 năm
-- Video 3, dòng 6 · Cần kiểm lại: Fern giấu ma lực tốt tới mức Frieren khó nhận ra; Serie nhìn xuyên được
-- Video 3, dòng 7 · Cần kiểm lại: Kỳ thi pháp sư hạng nhất; Serie ban một phép cho người đỗ; mê cung với bản sao thí sinh
-- Video 3, dòng 8 · Cần kiểm lại: Frieren sưu tầm phép 'vô dụng'; phép làm hoa nở gắn với Flamme và Himmel
-- Video 70, dòng 6 · Cần kiểm lại: Nhóm anh hùng: Himmel (người), Heiter (tu sĩ, người), Eisen (người lùn), Frieren (elf, sống hơn nghìn năm); Heiter nuôi Fern và nhờ Frieren dạy; Eisen giới thiệu Stark; phép thuật vô dụng từ Flamme
-- Video 70, dòng 7 · Cần kiểm lại: Hoa trăng xanh quê Himmel; Frieren tìm hoa để đặt bên tượng; câu Himmel cũng sẽ làm vậy; Aura và Qual 80 năm sau; hành trình tới nơi linh hồn yên nghỉ (Aureole) để nói chuyện với Himmel; câu chỉ mười năm thôi
 
 ### Sakamoto Days (9)
 

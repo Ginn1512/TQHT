@@ -5,14 +5,14 @@
     "cau-hoi": {
       "label": "Có câu hỏi hoặc luận điểm riêng",
       "by": "máy",
-      "points": 1,
-      "evidence": "có câu hỏi, chưa có dòng 'Luận điểm riêng' trong brief.md"
+      "points": 2,
+      "evidence": "có câu hỏi và luận điểm: Lãnh địa chỉ 'tất trúng' chứ không 'tất sát': các kỹ thuật phòng thủ chỉ mua thời gian, cò"
     },
     "nguon": {
       "label": "Có nghiên cứu và nguồn được ghi lại",
       "by": "máy",
-      "points": 0,
-      "evidence": "0/8 dòng đã kiểm, 0/8 dòng có link hoặc đã kiểm"
+      "points": 1,
+      "evidence": "0/32 dòng đã kiểm, 32/32 dòng có link hoặc đã kiểm"
     },
     "binh-luan": {
       "label": "Có bình luận hoặc phân tích của người làm kênh",
@@ -23,8 +23,8 @@
     "vi-du-moi": {
       "label": "Có ví dụ hoặc dữ liệu mới",
       "by": "claude",
-      "points": null,
-      "evidence": ""
+      "points": 2,
+      "evidence": "s75–s80: thử nghiệm 'nếu bạn bị kéo vào lãnh địa' 4 bước do kênh tự dựng từ luật tất trúng, cái giá chú lực và thuật thức bị cháy; s64–s69: mô phỏng từng giây một trận tranh chấp lãnh địa (kịch bản ghi rõ là dựa trên cách truyện miêu tả); s56 và s87: so sánh chéo hai kiểu lãnh địa (khóa bằng thông tin / hủy diệt) và so với giao ước Nen; phép so sánh riêng s18 (ván cờ đối thủ đi liên tục), s21 (chiêu tất tay). Giới hạn: không có bảng hay số liệu tự tính."
     },
     "hinh-co-quyen": {
       "label": "Hình minh họa tự tạo hoặc có giấy phép",
@@ -35,8 +35,8 @@
     "khong-paraphrase": {
       "label": "Không phải bản dịch hay paraphrase gần nguyên bản",
       "by": "claude",
-      "points": null,
-      "evidence": ""
+      "points": 1,
+      "evidence": "Chưa so được với nguồn vì mạng chặn (WebFetch bị chặn); chỉ đối chiếu được với đoạn trích WebSearch của wiki fandom. Khung và nhiều chương là của kênh (dạng B; s64–s69, s75–s80, s81–s87 không có trong wiki; các phép so sánh s08, s18, s21). Nhưng vài câu định nghĩa bám sát cách diễn đạt của câu wiki trong đoạn trích: s27 ~ Falling Blossom Emotion 'counter-attacks the moment a domain's guaranteed hit makes contact'; s30 ~ kết giới 'reinforced internally, weak externally'; s52 'Họ nhìn thấy mọi thứ, nên không làm được gì' ~ Unlimited Void 'given everything and yet unable to do anything'; s55 ~ Malevolent Shrine 'relentlessly slashes apart anything until nothing but dust remains'. Chuỗi s25–s41 là một loạt định nghĩa liền nhau; chưa kiểm được có bám thứ tự một bài wiki cụ thể không. Không có đoạn dài dịch nguyên văn nên không phải 0. Chấm 1 thận trọng; chấm lại sau khi mở trang."
     },
     "khac-nhau": {
       "label": "Nội dung cốt lõi khác các video khác của kênh",
@@ -47,11 +47,11 @@
     "gia-tri": {
       "label": "Người xem nhận được giá trị giáo dục hoặc giải trí rõ ràng",
       "by": "claude",
-      "points": null,
-      "evidence": ""
+      "points": 2,
+      "evidence": "Câu hỏi 'vì sao tất sát, làm sao sống sót' được trả lời rõ: s16–s17 (tất trúng, một đòn chắc chắn là đủ), s45 (tất trúng không phải tất sát), s22–s31 năm cách chống kèm cái giá, s58–s61 (vì sao không phải ai cũng dựng được), s73 (phòng thủ chỉ mua thời gian), s75–s80 kế hoạch sống sót 4 bước, s89–s90 tóm tắt. Ý mới dễ nhớ: 'tất trúng không phải tất sát' và 'trận lãnh địa là ván cờ tính giờ' (s05, s35, s78). Điểm này giả định s01, s34, s47 được sửa theo fact-check (xem 'Điều chưa chắc chắn' trong brief.md)."
     }
   },
-  "total": 6,
+  "total": 13,
   "max": 16,
-  "verdict": "chưa chấm đủ"
+  "verdict": "đạt"
 }
