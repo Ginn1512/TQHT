@@ -4,7 +4,7 @@
 
 ## Mở đầu
 
-**s01** — Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, đúng phần anime đang chiếu. Chưa xem tới đó thì bạn lưu video lại nhé.
+**s01** — Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, tính cả bản truyện tranh. Chưa xem hay chưa đọc tới đó thì bạn lưu video lại nhé.
 
 **s02** — Trong Jujutsu Kaisen, có một kỹ thuật mà khi được tung ra, trận đấu gần như kết thúc ngay lập tức. Đối thủ không thể né, không thể chạy.
 

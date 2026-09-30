@@ -25,7 +25,7 @@ text, letters, caption, logo, watermark, signature, photorealistic, photo, 3D re
 
 ### s01 · Mở đầu
 
-Lời: Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, đúng phần anime đang chiếu. Chưa xem tới…
+Lời: Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, tính cả bản truyện tranh. Chưa xem hay ch…
 
 ```text
 Wide 16:9 landscape cinematic frame. a dark stage with a single spotlight on a sealed shrine door covered in glowing talismans. wide establishing shot with deep perspective. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -818,12 +818,12 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu / Chú lực và thuật thức / Lãnh địa là gì?
 
-Khoảng 148 giây · cảnh s01–s15 · 1925 ký tự
+Khoảng 149 giây · cảnh s01–s15 · 1936 ký tự
 
 **Gemini**
 
 ```text
-Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, đúng phần anime đang chiếu. Chưa xem tới đó thì bạn lưu video lại nhé.
+Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, tính cả bản truyện tranh. Chưa xem hay chưa đọc tới đó thì bạn lưu video lại nhé.
 
 <short pause> Trong Jujutsu Kaisen, có một kỹ thuật mà khi được tung ra, trận đấu gần như kết thúc ngay lập tức. Đối thủ không thể né, không thể chạy.
 
@@ -857,7 +857,7 @@ Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần,
 **ElevenLabs**
 
 ```text
-Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, đúng phần anime đang chiếu. Chưa xem tới đó thì bạn lưu video lại nhé.
+Cảnh báo: video có spoiler Jujutsu Kaisen đến arc Trò chơi tử thần, tính cả bản truyện tranh. Chưa xem hay chưa đọc tới đó thì bạn lưu video lại nhé.
 
 [pause] Trong Jujutsu Kaisen, có một kỹ thuật mà khi được tung ra, trận đấu gần như kết thúc ngay lập tức. Đối thủ không thể né, không thể chạy.
 

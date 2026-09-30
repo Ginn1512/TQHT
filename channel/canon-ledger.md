@@ -2,14 +2,14 @@
 
 > Tạo tự động bằng `python -m tools.canon build` từ bảng sự thật trong `videos/*/brief.md`. **Không sửa tay**: sửa `brief.md` (hoặc `python -m tools.canon resolve`), rồi chạy lại `build`.
 
-888 khẳng định trong 78 video. **626 chưa kiểm.** 1/78 video sẵn sàng làm giọng.
+887 khẳng định trong 78 video. **625 chưa kiểm.** 1/78 video sẵn sàng làm giọng.
 
 | Mức | Số dòng |
 |---|---|
 | Đã kiểm | 0 |
 | Có nguồn | 234 |
 | Ý kiến / lý thuyết đã gắn nhãn | 28 |
-| Chưa mở trang | 96 |
+| Chưa mở trang | 95 |
 | Cần kiểm lại | 530 |
 | Không rõ nguồn | 0 |
 
@@ -18,7 +18,7 @@
 | # | Ngày | Video | Anime | Đã kiểm / có nguồn | Chưa kiểm | Sẵn sàng làm giọng |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-06 | `2026-10-06-nen-hunter-x-hunter` | Hunter x Hunter | 0 | 11 | Chưa |
-| 2 | 2026-10-06 | `2026-10-06-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 32 | Chưa |
+| 2 | 2026-10-06 | `2026-10-06-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 31 | Chưa |
 | 3 | 2026-10-06 | `2026-10-06-ma-thuat-frieren` | Frieren | 0 | 53 | Chưa |
 | 4 | 2026-10-07 | `2026-10-07-haki-one-piece` | One Piece | 0 | 7 | Chưa |
 | 5 | 2026-10-07 | `2026-10-07-cay-pha-he-hoi-tho-kimetsu` | Kimetsu no Yaiba | 0 | 7 | Chưa |
@@ -100,40 +100,39 @@
 
 Kiểm cả nhóm một lần: cùng một chi tiết thường xuất hiện ở nhiều video của cùng bộ.
 
-### Jujutsu Kaisen (65)
+### Jujutsu Kaisen (64)
 
-- Video 2, dòng 1 · Chưa mở trang: Arc Trò chơi tử thần là phần anime đang chiếu vào ngày đăng 06/10/2026 (s01)
-- Video 2, dòng 2 · Chưa mở trang: Chú lực là năng lượng sinh ra từ cảm xúc tiêu cực như sợ hãi, giận dữ, oán hận (s06)
-- Video 2, dòng 3 · Chưa mở trang: Người thường rò rỉ chú lực mà không biết, và phần rò rỉ đó sinh ra chú linh (s07)
-- Video 2, dòng 4 · Chưa mở trang: Thuật thức là năng lực bẩm sinh khắc sẵn trong cơ thể (s08)
-- Video 2, dòng 5 · Chưa mở trang: Bành trướng lãnh địa là dùng chú lực dựng kết giới rồi lấp đầy bên trong bằng thế giới nội tâm của người dùng (sinh đắc lãnh vực) (s11)
-- Video 2, dòng 6 · Chưa mở trang: Người dùng thường kết một thủ ấn để triển khai lãnh địa (s13)
-- Video 2, dòng 7 · Chưa mở trang: Bên trong lãnh địa, người dùng được tăng sức mạnh và thuật thức được nạp sẵn vào không gian (s14–s15)
-- Video 2, dòng 8 · Chưa mở trang: Đòn tấn công bằng thuật thức bên trong lãnh địa là tất trúng (s16)
-- Video 2, dòng 9 · Chưa mở trang: Trong truyện, lãnh địa được gọi là đỉnh cao của chú thuật (s17)
-- Video 2, dòng 10 · Chưa mở trang: Tất trúng chỉ áp dụng cho thuật thức được nạp vào lãnh địa; nắm đấm thường vẫn có thể bị đỡ (s19)
-- Video 2, dòng 11 · Chưa mở trang: Lãnh địa rất tốn chú lực; duy trì lâu còn nặng hơn (s20, s59)
-- Video 2, dòng 12 · Chưa mở trang: Tranh chấp lãnh địa: khi hai lãnh địa va nhau, lãnh địa tinh xảo hơn lấn át bên kia (s23–s24)
-- Video 2, dòng 13 · Chưa mở trang: Giản dị lãnh địa là vùng nhỏ bao quanh người dùng, vô hiệu hóa hiệu ứng tất trúng khi chạm vào (s25)
-- Video 2, dòng 14 · Chưa mở trang: Giản dị lãnh địa được xem là kỹ thuật của kẻ yếu, giúp người không dựng được lãnh địa vẫn có cơ hội sống sót (s26)
-- Video 2, dòng 15 · Chưa mở trang: Các gia tộc lớn có kỹ thuật bí truyền phản đòn tất trúng ngay khi nó chạm vào người (s27)
-- Video 2, dòng 16 · Chưa mở trang: Khuếch đại lãnh địa: bọc cơ thể trong một lớp lãnh địa mỏng, vô hiệu hóa thuật thức chạm vào mình (s28)
-- Video 2, dòng 17 · Chưa mở trang: Trong lúc khuếch đại lãnh địa, người dùng không thể dùng thuật thức của chính mình (s29)
-- Video 2, dòng 18 · Chưa mở trang: Kết giới lãnh địa khó phá từ trong, từ ngoài phá vào dễ hơn (s30)
-- Video 2, dòng 19 · Chưa mở trang: Sau khi lãnh địa kết thúc, người dùng thường không dùng được thuật thức trong một khoảng thời gian (thuật thức bị cháy) (s32)
-- Video 2, dòng 20 · Chưa mở trang: Có nhân vật dùng thuật thức đảo ngược chữa phần não để rút ngắn thời gian thuật thức bị cháy; đây là kỹ năng cực hiếm (s34)
-- Video 2, dòng 21 · Chưa mở trang: Có lãnh địa chưa hoàn chỉnh: dựng được không gian nhưng chưa có tất trúng, vẫn dùng được để tranh chấp (s36–s37)
-- Video 2, dòng 22 · Chưa mở trang: Có lãnh địa không kết giới; truyện ví kỹ thuật này như vẽ tranh lên không khí thay vì lên giấy (s38–s39)
-- Video 2, dòng 23 · Chưa mở trang: Lãnh địa không kết giới chừa đường thoát cho đối thủ; đó là giao ước đổi lấy phạm vi rộng hơn (s40–s41)
-- Video 2, dòng 24 · Chưa mở trang: Arc Trò chơi tử thần có một lãnh địa tòa án: bên trong không ai được dùng bạo lực, mọi thứ quyết định bằng phiên xét xử (s43)
-- Video 2, dòng 25 · Chưa mở trang: Bị kết tội trong lãnh địa tòa án có thể bị tịch thu thuật thức (s44)
-- Video 2, dòng 26 · Chưa mở trang: Arc Trò chơi tử thần có một lãnh địa may rủi: người dùng quay số, trúng lớn thì gần như bất tử trong vài phút (s46)
-- Video 2, dòng 27 · Chưa mở trang: Trong lãnh địa may rủi, đối thủ bị buộc phải chơi cùng dù có muốn hay không (s47)
-- Video 2, dòng 28 · Chưa mở trang: Vô lượng không xứ: bên trong là không gian vô tận, đối thủ bị ép tiếp nhận lượng thông tin không dứt nên đứng im (s51–s52)
-- Video 2, dòng 29 · Chưa mở trang: Phục ma ngự trù tử chính là lãnh địa không kết giới nói ở trên (s54)
-- Video 2, dòng 30 · Chưa mở trang: Bên trong Phục ma ngự trù tử là một ngôi đền; mọi thứ trong phạm vi bị chém liên tục tới khi tan thành từng mảnh (s54–s55)
-- Video 2, dòng 31 · Chưa mở trang: Không bát là kỹ thuật cổ tạo một chiếc giỏ đan quanh người dùng, trung hòa hiệu ứng tất trúng (s70–s71)
-- Video 2, dòng 32 · Chưa mở trang: Giản dị lãnh địa được xem như phiên bản dễ học hơn của các kỹ thuật chống lãnh địa cổ (s72)
+- Video 2, dòng 1 · Chưa mở trang: Chú lực là năng lượng sinh ra từ cảm xúc tiêu cực như sợ hãi, giận dữ, oán hận (s06)
+- Video 2, dòng 2 · Chưa mở trang: Người thường rò rỉ chú lực mà không biết, và phần rò rỉ đó sinh ra chú linh (s07)
+- Video 2, dòng 3 · Chưa mở trang: Thuật thức là năng lực bẩm sinh khắc sẵn trong cơ thể (s08)
+- Video 2, dòng 4 · Chưa mở trang: Bành trướng lãnh địa là dùng chú lực dựng kết giới rồi lấp đầy bên trong bằng thế giới nội tâm của người dùng (sinh đắc lãnh vực) (s11)
+- Video 2, dòng 5 · Chưa mở trang: Người dùng thường kết một thủ ấn để triển khai lãnh địa (s13)
+- Video 2, dòng 6 · Chưa mở trang: Bên trong lãnh địa, người dùng được tăng sức mạnh và thuật thức được nạp sẵn vào không gian (s14–s15)
+- Video 2, dòng 7 · Chưa mở trang: Đòn tấn công bằng thuật thức bên trong lãnh địa là tất trúng (s16)
+- Video 2, dòng 8 · Chưa mở trang: Trong truyện, lãnh địa được gọi là đỉnh cao của chú thuật (s17)
+- Video 2, dòng 9 · Chưa mở trang: Tất trúng chỉ áp dụng cho thuật thức được nạp vào lãnh địa; nắm đấm thường vẫn có thể bị đỡ (s19)
+- Video 2, dòng 10 · Chưa mở trang: Lãnh địa rất tốn chú lực; duy trì lâu còn nặng hơn (s20, s59)
+- Video 2, dòng 11 · Chưa mở trang: Tranh chấp lãnh địa: khi hai lãnh địa va nhau, lãnh địa tinh xảo hơn lấn át bên kia (s23–s24)
+- Video 2, dòng 12 · Chưa mở trang: Giản dị lãnh địa là vùng nhỏ bao quanh người dùng, vô hiệu hóa hiệu ứng tất trúng khi chạm vào (s25)
+- Video 2, dòng 13 · Chưa mở trang: Giản dị lãnh địa được xem là kỹ thuật của kẻ yếu, giúp người không dựng được lãnh địa vẫn có cơ hội sống sót (s26)
+- Video 2, dòng 14 · Chưa mở trang: Các gia tộc lớn có kỹ thuật bí truyền phản đòn tất trúng ngay khi nó chạm vào người (s27)
+- Video 2, dòng 15 · Chưa mở trang: Khuếch đại lãnh địa: bọc cơ thể trong một lớp lãnh địa mỏng, vô hiệu hóa thuật thức chạm vào mình (s28)
+- Video 2, dòng 16 · Chưa mở trang: Trong lúc khuếch đại lãnh địa, người dùng không thể dùng thuật thức của chính mình (s29)
+- Video 2, dòng 17 · Chưa mở trang: Kết giới lãnh địa khó phá từ trong, từ ngoài phá vào dễ hơn (s30)
+- Video 2, dòng 18 · Chưa mở trang: Sau khi lãnh địa kết thúc, người dùng thường không dùng được thuật thức trong một khoảng thời gian (thuật thức bị cháy) (s32)
+- Video 2, dòng 19 · Chưa mở trang: Có nhân vật dùng thuật thức đảo ngược chữa phần não để rút ngắn thời gian thuật thức bị cháy; đây là kỹ năng cực hiếm (s34)
+- Video 2, dòng 20 · Chưa mở trang: Có lãnh địa chưa hoàn chỉnh: dựng được không gian nhưng chưa có tất trúng, vẫn dùng được để tranh chấp (s36–s37)
+- Video 2, dòng 21 · Chưa mở trang: Có lãnh địa không kết giới; truyện ví kỹ thuật này như vẽ tranh lên không khí thay vì lên giấy (s38–s39)
+- Video 2, dòng 22 · Chưa mở trang: Lãnh địa không kết giới chừa đường thoát cho đối thủ; đó là giao ước đổi lấy phạm vi rộng hơn (s40–s41)
+- Video 2, dòng 23 · Chưa mở trang: Arc Trò chơi tử thần có một lãnh địa tòa án: bên trong không ai được dùng bạo lực, mọi thứ quyết định bằng phiên xét xử (s43)
+- Video 2, dòng 24 · Chưa mở trang: Bị kết tội trong lãnh địa tòa án có thể bị tịch thu thuật thức (s44)
+- Video 2, dòng 25 · Chưa mở trang: Arc Trò chơi tử thần có một lãnh địa may rủi: người dùng quay số, trúng lớn thì gần như bất tử trong vài phút (s46)
+- Video 2, dòng 26 · Chưa mở trang: Trong lãnh địa may rủi, đối thủ bị buộc phải chơi cùng dù có muốn hay không (s47)
+- Video 2, dòng 27 · Chưa mở trang: Vô lượng không xứ: bên trong là không gian vô tận, đối thủ bị ép tiếp nhận lượng thông tin không dứt nên đứng im (s51–s52)
+- Video 2, dòng 28 · Chưa mở trang: Phục ma ngự trù tử chính là lãnh địa không kết giới nói ở trên (s54)
+- Video 2, dòng 29 · Chưa mở trang: Bên trong Phục ma ngự trù tử là một ngôi đền; mọi thứ trong phạm vi bị chém liên tục tới khi tan thành từng mảnh (s54–s55)
+- Video 2, dòng 30 · Chưa mở trang: Không bát là kỹ thuật cổ tạo một chiếc giỏ đan quanh người dùng, trung hòa hiệu ứng tất trúng (s70–s71)
+- Video 2, dòng 31 · Chưa mở trang: Giản dị lãnh địa được xem như phiên bản dễ học hơn của các kỹ thuật chống lãnh địa cổ (s72)
 - Video 15, dòng 1 · Cần kiểm lại: Hắc thiểm: chú lực chạm trong khoảng 0,000001 giây sau cú đánh vật lý; không gian méo, sức mạnh tăng mạnh (mô tả lũy thừa 2,5); không ai làm được theo ý muốn
 - Video 15, dòng 2 · Cần kiểm lại: Yuji tạo 4 Hắc thiểm liên tiếp (trận với Hanami, sự kiện giao lưu Kyoto), cân bằng kỷ lục của Nanami
 - Video 15, dòng 3 · Cần kiểm lại: Chú linh sinh ra từ cảm xúc tiêu cực; chú linh cấp đặc biệt thông minh; chú linh thiên tai sinh từ nỗi sợ thiên nhiên; Mahito coi chú linh là con người thật

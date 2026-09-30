@@ -4,14 +4,13 @@
 - **Dạng video:** B · Luật chơi và cách phá (xem `channel/formats.md`)
 - **Câu hỏi video trả lời:** Vì sao lãnh địa là 'tất sát' và làm sao để sống sót trong lãnh địa?
 - **Luận điểm riêng:** Lãnh địa chỉ 'tất trúng' chứ không 'tất sát': các kỹ thuật phòng thủ chỉ mua thời gian, còn cái giá chú lực và thuật thức bị cháy biến trận lãnh địa thành một ván cờ tính giờ, nên người yếu hơn sống sót bằng cách trụ tới lúc lãnh địa sụp rồi phản công khi đối thủ tạm mất thuật thức.
-- **Mức spoiler:** Đến arc Trò chơi tử thần (đang chiếu)
+- **Mức spoiler:** Đến arc Trò chơi tử thần (tính cả manga)
 - **Độ dài mục tiêu:** 15–20 phút.
 
 ## Sự thật dùng trong kịch bản
 
 | Sự thật | Nguồn | Tình trạng |
 |---|---|---|
-| Arc Trò chơi tử thần là phần anime đang chiếu vào ngày đăng 06/10/2026 (s01) | [Wikipedia: Jujutsu Kaisen season 3](https://en.wikipedia.org/wiki/Jujutsu_Kaisen_season_3), [ANN: Culling Game Part 1 kết thúc](https://www.animenewsnetwork.com/news/2026-03-19/jujutsu-kaisen-season-3-the-culling-game-part-1-anime-ends-with-extended-27-minute-episode/.235498) | Chỉ thấy trong kết quả tìm kiếm, chưa mở trang |
 | Chú lực là năng lượng sinh ra từ cảm xúc tiêu cực như sợ hãi, giận dữ, oán hận (s06) | [JJK Wiki: Cursed Energy](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Energy) | Chỉ thấy trong kết quả tìm kiếm, chưa mở trang |
 | Người thường rò rỉ chú lực mà không biết, và phần rò rỉ đó sinh ra chú linh (s07) | [JJK Wiki: Cursed Spirit](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Spirit), [JJK Wiki: Cursed Energy](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Energy) | Chỉ thấy trong kết quả tìm kiếm, chưa mở trang |
 | Thuật thức là năng lực bẩm sinh khắc sẵn trong cơ thể (s08) | [JJK Wiki: Cursed Technique](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique) | Chỉ thấy trong kết quả tìm kiếm, chưa mở trang |
@@ -50,7 +49,7 @@
 
 Link trong bảng lấy từ kết quả WebSearch ngày 30/09/2026, chưa mở trang nào. Các điểm dưới đây là chỗ đoạn trích tìm kiếm có vẻ lệch với kịch bản; kịch bản hiện vẫn nói như sự thật, chờ fact-checker mở trang.
 
-- **Tình trạng phát sóng (s01, và "đang chiếu" ở dòng Mức spoiler):** đoạn trích Wikipedia và ANN cho biết mùa 3 "The Culling Game Part 1" chiếu 09/01–27/03/2026, 12 tập; mùa 4 (Part 2) đã công bố, chưa có ngày. Khớp với `channel/references/nghien-cuu-nganh-2026.md`. Nếu đúng, ngày 06/10/2026 anime không còn "đang chiếu".
+- **Tình trạng phát sóng (s01, và "đang chiếu" ở dòng Mức spoiler):** đoạn trích Wikipedia và ANN cho biết mùa 3 "The Culling Game Part 1" chiếu 09/01–27/03/2026, 12 tập; mùa 4 (Part 2) đã công bố, chưa có ngày. Khớp với `channel/references/nghien-cuu-nganh-2026.md`. Nếu đúng, ngày 06/10/2026 anime không còn "đang chiếu". **Đã xử lý 30/09/2026:** s01 bỏ khẳng định "đang chiếu", đổi thành "tính cả bản truyện tranh"; dòng này bị xóa khỏi bảng sự thật.
 - **Mức spoiler (s34):** đoạn trích wiki nói cách phá rồi chữa vùng não khắc thuật thức được tiết lộ ở chương 230 (arc Quyết chiến Shinjuku), sau arc Trò chơi tử thần (chương 159–221). Cảnh báo ở s01 chỉ tới arc Trò chơi tử thần.
 - **Cách hồi phục (s34):** đoạn trích nói nhân vật cố ý phá vùng não khắc thuật thức rồi chữa lại bằng thuật thức đảo ngược, lặp lại nhiều lần thì não tổn thương lâu dài. Kịch bản nói "chữa lại phần não bị cháy, rút ngắn thời gian chờ".
 - **Lãnh địa may rủi (s47):** đoạn trích nói hiệu ứng tất trúng chỉ truyền luật chơi vào đầu đối thủ, vô hại. Kịch bản nói "đối thủ bị buộc phải chơi cùng".
