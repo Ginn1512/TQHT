@@ -27,29 +27,42 @@ Lưu ý thêm:
 
 ## Bước 1. Cài VoiceStudio trên PC (một lần)
 
-- **Windows:** tải bản cài từ trang [Releases](https://github.com/debpalash/VoiceStudio/releases).
-- **Linux:** chạy lệnh cài của tác giả:
-  ```bash
-  curl -fsSL https://voicestudio.sh/install | sh
-  ```
-  Lệnh này chạy một script tải từ internet. Nếu muốn, mở link đó ra đọc trước.
+- **Windows 10 (21H2 trở lên) hoặc 11, 64-bit:**
+  - tải file `VoiceStudio-Electron-<phiên bản>-win-x64.exe` ở trang [Releases](https://github.com/debpalash/VoiceStudio/releases/latest) (bản v0.5.6 ra ngày 23/09/2026);
+  - khi cài, chọn **Install local runtime**.
+  - Windows có thể hiện cảnh báo SmartScreen vì bản cài chưa được ký: bấm **More info → Run anyway**.
+- **Linux:**
+  - tải file `.AppImage` hoặc `.deb` ở cùng trang; hoặc
+  - chạy lệnh cài của tác giả:
+    ```bash
+    curl -fsSL https://voicestudio.sh/install | sh
+    ```
+    Lệnh này chạy một script tải từ internet. Nếu muốn, mở link đó ra đọc trước.
 
 Yêu cầu máy:
 
-- Card NVIDIA với driver mới.
-- Nên có CUDA 12 trở lên.
+- Card NVIDIA với driver mới. Không cần cài CUDA Toolkit riêng.
+- Khoảng 10 GB ổ trống, cộng thêm vài GB cho VoxCPM2.
 - VoxCPM2 cần khoảng 8 GB VRAM. Card ít VRAM hơn vẫn chạy được nhưng chậm.
+- Card dưới 16 GB VRAM mà gặp lỗi hết bộ nhớ: bật **Settings → Performance → Disable torch.compile**.
 
 ## Bước 2. Cài engine VoxCPM2
 
-1. Mở app. Trong phần engine/mô hình, cài **VoxCPM2** (tải vài GB, làm một lần).
-2. Kiểm tra từ repo (trên PC):
+1. Mở app, vào **Model Catalogue → VoxCPM2 → Install**.
+   - Lần tạo giọng đầu tiên, app tải thêm mô hình vài GB từ Hugging Face.
+   - Mỗi thứ chỉ tải một lần.
+2. Kiểm tra từ repo (trên PC, cần Git và Python 3.10 trở lên). Công cụ đang ở nhánh `claude/planning-strategy-98xh5l`:
    ```bash
-   git clone https://github.com/ginn1512/tqht.git && cd tqht
+   git clone -b claude/planning-strategy-98xh5l https://github.com/Ginn1512/TQHT.git tqht && cd tqht
+   python -m venv .venv
+   .venv\Scripts\activate          # Linux: source .venv/bin/activate
    pip install -r tools/requirements.txt
    python -m tools.voicestudio check
    ```
    Kết quả phải có dòng `voxcpm2: dùng được cho kênh kiếm tiền`.
+3. Nếu cổng 3900 bận, app tự chuyển sang 4900, 5900… Khi đó đặt biến trước khi chạy lệnh:
+   - Windows: `set VOICESTUDIO_URL=http://localhost:4900`
+   - Linux: `export VOICESTUDIO_URL=http://localhost:4900`
 
 ## Bước 3. Tạo giọng Kaku (một lần)
 
