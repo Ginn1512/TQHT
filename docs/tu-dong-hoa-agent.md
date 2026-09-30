@@ -5,7 +5,7 @@
 
 ## Tóm tắt
 
-- **Mục tiêu:** agent làm khoảng 85% việc. Người làm khoảng 3,3 giờ/tuần, gom vào 2 buổi.
+- **Mục tiêu:** agent làm khoảng 85% việc. Người làm khoảng 2 giờ/ngày trong tháng 10, khoảng 3–3,5 giờ/ngày khi có kịch bản mới (mục 5).
 - **Bắt đầu ngay**, không chờ bật kiếm tiền:
   - P0 xây nền trong gói Pro (tới 15/10/2026);
   - P1 lên Max 20x và bật từng làn.
@@ -15,7 +15,7 @@
 - **Hai cổng không agent nào làm thay được:**
   - người merge PR, tức là chốt kịch bản;
   - người tự tải lên và đặt lịch trong YouTube Studio.
-- **Nhịp đăng giữ nguyên:** 3 video + 7 Short mỗi tuần. Tự động hóa để giảm giờ làm, không để đăng nhiều hơn.
+- **Nhịp đăng (người chốt ngày 30/09/2026):** 3 video/ngày lúc 06:00, 14:00, 22:00 và 1 Short lúc 18:00, từ 06/10. Xét lại ngày 25/10. Đây là rủi ro chính sách lớn nhất (mục 11).
 
 ## 1. Hai làn
 
@@ -110,10 +110,10 @@ Giới hạn số video cùng lúc:
 
 | Hàng | Giới hạn |
 |---|---|
-| Đang viết | tối đa 3 video |
-| Chờ người duyệt (kịch bản hoặc video) | tối đa 3 video |
+| Đang viết | tối đa 9 video |
+| Chờ người duyệt (kịch bản hoặc video) | tối đa 9 video (3 ngày) |
 | Trên GPU | 1 video |
-| Kho video đã đặt lịch | tối thiểu 3 video |
+| Kho video đã đặt lịch | tối thiểu 3 video (1 ngày), nên có 9 (3 ngày) |
 
 Hàng chờ duyệt đầy thì agent dừng. Máy không bao giờ chạy nhanh hơn người duyệt.
 
@@ -131,19 +131,20 @@ Mỗi vòng có giới hạn. Quá giới hạn thì video chuyển sang "Lỗi"
 
 ## 5. Việc của người
 
-| Buổi | Việc | Phút |
+Từ 06/10/2026 kênh đăng 3 video/ngày, nên việc của người chia theo ngày.
+
+| Lúc | Việc | Phút mỗi ngày |
 |---|---|---|
-| Thứ Hai | Đọc bản ghi nhớ tuần, chốt 3 chủ đề | 15 |
-| Thứ Hai | Viết góc nhìn cho 3 video | 30 |
-| Thứ Hai | Đọc và merge 3 PR kịch bản | 45 |
-| Thứ Năm | Xem bản cuối 3 video, chọn tiêu đề và thumbnail | 60 |
-| Thứ Năm | Tải lên, đặt lịch 3 video và 7 Short | 30 |
-| Thứ Năm | Duyệt nháp trả lời bình luận, ghim bình luận | 20 |
+| Sáng | Xem bản cuối 3 video, chọn tiêu đề và thumbnail | 60 |
+| Sáng | Nghe lại giọng 3 video (VoiceStudio chạy đêm trước) | 30 |
+| Sáng | Tải lên, đặt lịch 3 video và 1 Short | 25 |
+| Tối | Duyệt nháp trả lời bình luận, ghim bình luận | 15 |
+| Từ tháng 11 | Viết góc nhìn và merge 3 PR kịch bản mới | 75 |
 
-Tổng 200 phút, khoảng 3,3 giờ/tuần, so với 10–12 giờ khi làm tay.
-
-- Khoảng 115 phút là phần chỉ người làm được: góc nhìn, gu, quyết định đăng.
-- Đây cũng là bằng chứng "người thêm giá trị" mà chính sách YouTube về nội dung "không chân thực" đòi hỏi.
+- **Tháng 10:** khoảng 2,2 giờ/ngày, vì 78 kịch bản đã viết xong.
+- **Từ tháng 11:** nếu giữ 3 video/ngày, khoảng 3,4 giờ/ngày.
+- Phần chỉ người làm được là góc nhìn, gu và quyết định đăng. Đây là bằng chứng "người thêm giá trị" mà chính sách YouTube về nội dung "không chân thực" đòi hỏi.
+- Ở 3 video/ngày, thời gian người dành cho mỗi video mỏng hơn nhiều so với nhịp 3 video/tuần. Không được bỏ bước xem bản cuối.
 
 Agent không bao giờ tự làm:
 
@@ -153,23 +154,24 @@ Agent không bao giờ tự làm:
 - đăng trả lời bình luận;
 - tăng hạn mức tiền.
 
-## 6. Lịch tuần
+## 6. Lịch một ngày
 
-Mỗi video đi từ chọn chủ đề tới lên sóng mất khoảng 2 tuần, nên luôn có sẵn 3 video đã đặt lịch.
+Video lên sóng ngày D được làm media vào đêm D−2 và được người xem vào sáng D−1. Nhờ vậy luôn có kho 3 video đã đặt lịch.
 
-| Ngày | Làn chữ (cloud) | Làn media (PC, ban đêm) | Người |
+| Giờ | Làn chữ (cloud) | Làn media (PC) | Người |
 |---|---|---|---|
-| Thứ Hai | 07:07 strategist | ảnh và giọng cho 3 kịch bản vừa merge | **Buổi 1** |
-| Thứ Ba | writer viết 3 kịch bản mới | dựng, Short, thumbnail | video lên sóng |
-| Thứ Tư | fact-checker, tối đa 2 vòng | release-qa, sửa theo QA | |
-| Thứ Năm | mở 3 PR kịch bản; community | dự phòng làm lại | **Buổi 2**; video lên sóng |
-| Thứ Sáu | metadata, gợi ý Short | | |
-| Thứ Bảy | | | video lên sóng |
-| Chủ Nhật | tổng hợp số liệu tuần | | |
-| Mỗi đêm | 23:13 đối chiếu Notion với file thật | | |
+| 06:00 | | | video thứ nhất lên sóng |
+| 07:07 | strategist (thứ Hai hằng tuần) | | |
+| Sáng | writer và fact-checker cho 3 kịch bản mới (từ tháng 11) | | xem bản cuối, tải lên, đặt lịch 3 video của ngày mai |
+| 14:00 | | | video thứ hai lên sóng |
+| 18:00 | | | Short lên sóng |
+| 22:00 | | | video thứ ba lên sóng |
+| 23:13 | đối chiếu Notion với file thật | | |
+| Đêm | | ảnh, giọng (lần lượt trên 1 GPU), dựng, Short, thumbnail, release-qa cho 3 video | |
 
+- Mỗi đêm làn media phải xong 3 video. Cần đo thời gian thật trong tuần đầu: giọng VoxCPM2 cho khoảng 48 phút lời thoại, 3 lần dựng, 9 Short.
 - Chọn giờ lệch khỏi đầu giờ (07:07, 23:13) vì routine đặt đúng đầu giờ có thể chạy trễ vài phút.
-- Ước tính khoảng 20 lượt chạy routine mỗi tuần. Tài khoản có trần số lượt mỗi ngày: xem tại https://claude.ai/code/routines.
+- Từ tháng 11, làn chữ cần khoảng 7–8 lượt routine mỗi ngày. Tài khoản có trần số lượt mỗi ngày (xem https://claude.ai/code/routines), nên gói Pro có thể không đủ; nên lên Max 20x sớm.
 - Desktop task bị lỡ lịch vì máy ngủ sẽ chạy bù một lần khi máy thức. Prompt của task phải tự kiểm tra ngày giờ trước khi làm.
 
 ## 7. Trạng thái Notion, hook và công tắc
@@ -216,27 +218,30 @@ Chuyển từ trạng thái hiện tại:
 
 ## 8. Ngân sách
 
-Khoản tốn tiền duy nhất là ảnh qua API: khoảng 32 USD/tháng nếu giữ trần 2,5 USD mỗi video. Con số này dưới trần 38 USD (1.000.000đ).
+Khoản tốn tiền chính là ảnh qua API. Tháng 10 có 78 video: khoảng 195 USD nếu giữ trần 2,5 USD mỗi video, dưới trần tháng 200 USD mà bạn duyệt ngày 30/09/2026.
 
-| Khoản | Mỗi tháng (13 video) | Cách tính |
+| Khoản | Tháng 10 (78 video) | Cách tính |
 |---|---|---|
-| Ảnh qua API | khoảng 32 USD | 0,034 USD/ảnh (cần kiểm lại) × tối đa 73 ảnh/video, kể cả tạo lại |
+| Ảnh qua API | khoảng 195 USD | 0,034 USD/ảnh (cần kiểm lại) × tối đa 73 ảnh/video, kể cả tạo lại |
 | Thẻ chữ, sơ đồ | 0 USD | 20–30% cảnh vẽ bằng code thay vì ảnh AI |
 | Giọng | 0 USD | VoiceStudio + VoxCPM2 trên PC |
 | Dựng, Short, thumbnail | 0 USD | ffmpeg trên PC |
 | Clip Seedance | 0 USD | làm tay trên app Dreamina/CapCut |
 | Gói Claude | trả riêng | Pro trong P0, Max 20x từ P1 |
 
+- **Chưa có thẻ vẽ bằng code** thì mọi cảnh đều là ảnh AI: tháng 10 khoảng 220–236 USD, vượt trần.
+- **Từ tháng 11**, nếu giữ 3 video/ngày (khoảng 90 video/tháng): khoảng 225 USD/tháng, vượt trần 200 USD. Chốt lại khi xét nhịp ngày 25/10.
+
 Luật chi tiền:
 
-1. **Cho tới khi bạn duyệt hạn mức tháng,** luật trong `CLAUDE.md` vẫn giữ: trước mỗi lần gọi API tốn tiền phải báo ước tính (`costs estimate`) và chờ đồng ý. Trong P0, ảnh vẫn làm tay bằng Gemini app.
-2. **Hạn mức tháng đề xuất: 35 USD.** Bạn duyệt một lần, ghi vào `channel/costs.md`. Sau đó agent không hỏi từng lần nữa.
+1. **Luật trong `CLAUDE.md` vẫn giữ:** trước mỗi lần gọi API tốn tiền phải báo ước tính (`costs estimate`) và chờ đồng ý.
+2. **Trần tháng đã duyệt: 200 USD** (30/09/2026). Ghi trong `channel/costs.md` và `tools/config.py` (`MONTHLY_BUDGET_USD`).
 3. **`costs` chặn cứng** (sẽ viết):
    - dừng khi một video vượt 2,5 USD;
-   - dừng khi tháng vượt hạn mức;
+   - dừng khi tháng vượt trần;
    - số ảnh tạo lại tối đa 15%.
 4. **Trần thật nằm trên Google Cloud:** đặt hạn mức số request mỗi ngày cho project của key ảnh. Code có lỗi cũng không tiêu quá được.
-5. **`GEMINI_API_KEY` chỉ để trên PC.** Nếu sau này làn cloud cần gọi Google API, dùng mục "API credentials" của cloud environment (gói Pro/Max có): key được gắn vào request mà phiên không đọc được.
+5. **`GEMINI_API_KEY` không bao giờ dán vào chat.** Tháng 10, trước khi làn media chạy tự động, tạo ảnh bằng `tools.images` ở nơi có key: PC của bạn, hoặc biến môi trường của cloud environment. Nếu làn cloud cần gọi Google API, dùng mục "API credentials" của cloud environment (gói Pro/Max có): key được gắn vào request mà phiên không đọc được.
 
 ## 9. Lộ trình
 
@@ -288,7 +293,7 @@ Việc của bạn:
 
 **Không thay đổi suốt lộ trình:**
 
-- không đăng quá 3 video/tuần;
+- nhịp đăng do người chốt: từ 06/10 là 3 video/ngày, xét lại ngày 25/10, tự ngắt về 1 video/ngày khi có dấu hiệu (`docs/lo-trinh.md`, Luật đổi hướng);
 - giữ hạn chót nộp YPP 31/01/2027;
 - quy trình làm tay (trang Xưởng Kaku, YouTube Studio) luôn chạy được.
 
@@ -298,7 +303,7 @@ Xét sau mỗi 4 tuần liền:
 
 | Chỉ số | Mục tiêu |
 |---|---|
-| Thời gian của người | ≤ 3,5 giờ/tuần |
+| Thời gian của người | ≤ 2,5 giờ/ngày trong tháng 10; ≤ 3,5 giờ/ngày khi có kịch bản mới |
 | Video lên đúng lịch | ≥ 95% |
 | Qua release-qa ngay lần đầu | ≥ 80% |
 | Khẳng định có bằng chứng trước khi làm giọng | 100% |
@@ -315,7 +320,7 @@ Tự ngắt:
 
 | Rủi ro | Cách phòng |
 |---|---|
-| Bị coi là nội dung "không chân thực" | 3 video/tuần cố định; góc nhìn do người viết; người duyệt 2 lần; không tự đăng |
+| Bị coi là nội dung "không chân thực" | **Rủi ro lớn nhất từ 30/09:** 3 video/ngày là đúng kiểu nhịp đăng YouTube dùng để nhận diện nội dung làm hàng loạt. Xét lại ngày 25/10; tự ngắt về 1 video/ngày khi có dấu hiệu; góc nhìn do người viết; người xem từng video; không tự đăng |
 | Agent bịa nguồn | fact-checker độc lập, không sửa kịch bản; `canon --strict`; chỉ tính trang đã mở |
 | Prompt injection từ trang web, bình luận hoặc API `/fire` | nội dung ngoài chỉ là dữ liệu; community không đăng; routine không bật trigger API cho việc ghi; `/fire` vốn gắn nhãn nội dung gửi vào là không tin cậy |
 | Lộ key | key ảnh chỉ ở PC; hook chặn in biến môi trường; không commit `.env` |

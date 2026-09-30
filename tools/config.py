@@ -27,7 +27,8 @@ PRICE_TTS_PER_SECOND = 6.0 / 1_000_000 * 25
 # Seedance 2.5, 720p, không có video đầu vào. Replicate khoảng 0,23 USD/giây, fal khoảng 0,47.
 # Làm thủ công trên app Dreamina/CapCut thì trả bằng credit của gói, không qua API.
 PRICE_VIDEO_PER_SECOND = 0.23
-MONTHLY_BUDGET_USD = 38.0
+# Trần tháng: 200 USD từ 10/2026 (3 video/ngày, ảnh qua API), người dùng chốt ngày 30/09/2026.
+MONTHLY_BUDGET_USD = 200.0
 
 # --- Ngôn ngữ ---
 # Mã ngôn ngữ dùng trong scenes.json -> mã BCP-47 gửi cho TTS và giọng đọc mặc định.

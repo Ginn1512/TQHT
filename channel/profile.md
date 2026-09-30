@@ -8,7 +8,7 @@
 
 - **Ngách:** phân tích / giải thích anime: sức mạnh, bí ẩn, lý thuyết, top 10, so sánh.
 - **Mục tiêu:** đủ điều kiện kiếm tiền (YPP) trong 1–3 tháng, làm tay trước (xem `docs/lo-trinh.md`).
-- **Định dạng:** video dài **15–20 phút** (bắt buộc, không làm ngắn hơn 15 phút), 3 video/tuần. Mỗi ngày 1 Short dọc cắt từ video dài (`tools/shorts.py`): dài 35–58 giây, là một cụm cảnh ở đầu một chương, có phụ đề chữ to.
+- **Định dạng:** video dài **15–20 phút** (bắt buộc, không làm ngắn hơn 15 phút), 3 video/ngày lúc 06:00, 14:00, 22:00. Mỗi ngày 1 Short dọc lúc 18:00, cắt từ video 06:00 cùng ngày (`tools/shorts.py`): dài 35–58 giây, là một cụm cảnh ở đầu một chương, có phụ đề chữ to.
 - **Hình ảnh:** tranh AI tự vẽ theo phong cách anime, cộng chữ trên màn hình và sơ đồ. **Không dùng cảnh phim, ảnh chụp màn hình, trang manga hay art chính thức.**
 - **Ngôn ngữ:** tiếng Việt là chính. Lồng tiếng thêm theo lộ trình:
   - video 1–3: chỉ tiếng Việt (`vi`)

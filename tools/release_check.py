@@ -39,7 +39,7 @@ THUMB_MAX_BYTES = 2 * 1024 * 1024
 LOUDNESS_RANGE = (-16.0, -12.0)  # YouTube chuẩn hóa quanh -14 LUFS
 MANUAL = [
     "Quyết định nhãn 'Altered or synthetic content' (xem mục Nội dung AI trong metadata).",
-    "Đặt lịch đăng đúng ngày trong channel/topics.md, chọn thumbnail, gắn phụ đề subs.vi.srt.",
+    "Đặt lịch đăng đúng ngày và giờ trong channel/topics.md (múi giờ GMT+7), chọn thumbnail, gắn phụ đề subs.vi.srt.",
     "Thêm màn hình kết thúc và thẻ tới video liên quan; ghim bình luận câu hỏi cho người xem.",
     "Nếu giọng làm bằng ElevenLabs: chỉ gói trả phí mới được dùng thương mại.",
     "Sau khi đăng: python -m tools.costs record, cập nhật Notion và channel/topics.md.",

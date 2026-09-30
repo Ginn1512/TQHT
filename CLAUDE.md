@@ -27,7 +27,7 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 
 ## Dự án: kênh YouTube phân tích anime
 
-Mục tiêu: kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, **đủ điều kiện kiếm tiền (YPP) trong 1–3 tháng**. Video dài 15–20 phút (tối thiểu 15 phút), 3 video/tuần, cộng 1 Short/ngày. Hình AI tự vẽ theo phong cách "Sổ tay Kaku".
+Mục tiêu: kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, **đủ điều kiện kiếm tiền (YPP) trong 1–3 tháng**. Video dài 15–20 phút (tối thiểu 15 phút), **3 video/ngày** lúc 06:00, 14:00 và 22:00 (giờ Việt Nam), cộng 1 Short/ngày lúc 18:00 (lịch từ 06/10/2026, xét lại nhịp ngày 25/10; xem `channel/topics.md`). Hình AI tự vẽ theo phong cách "Sổ tay Kaku".
 
 **Làm tay trước để chi phí gần 0**: ảnh bằng Gemini app, giọng bằng AI Studio, ElevenLabs hoặc VoiceStudio chạy trên PC của người dùng (`python -m tools.voicestudio`, engine VoxCPM2; không dùng OmniVoice vì giấy phép phi thương mại; xem `docs/voicestudio.md`), dùng prompt soạn sẵn. **Tự động hóa bằng agent Claude Code bắt đầu ngay**, theo `docs/tu-dong-hoa-agent.md`: 2 làn (chữ trên cloud, media trên PC), 7 agent, người giữ 2 cổng (merge kịch bản, tự tải lên). Luật báo chi phí trước khi gọi API vẫn giữ tới khi người dùng duyệt hạn mức tháng. Bản cũ Notion + n8n (`docs/tu-dong-hoa.md`) chỉ để tham khảo.
 
