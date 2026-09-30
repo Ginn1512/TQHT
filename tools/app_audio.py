@@ -1,7 +1,7 @@
 """Giọng đọc làm tay (AI Studio, ElevenLabs, công cụ khác hoặc tự thu): xuất đoạn đọc và nhập file giọng.
 
     python -m tools.app_audio export videos/<thư-mục> --engine gemini       # đoạn đọc c01, c02… (JSON)
-    python -m tools.app_audio import videos/<thư-mục> --from <folder>       # c01.wav, c02.mp3… → giọng từng cảnh
+    python -m tools.app_audio import videos/<thư-mục> --from <folder> --engine gemini   # c01.wav, c02.mp3… → giọng từng cảnh
                                                                              # (c01.txt: gói base64 tải từ trang Xưởng)
 
 Mỗi đoạn đọc gồm vài chương liền nhau (tối đa khoảng 2.000 ký tự, khoảng 2,5 phút). Khi nhập, mỗi
@@ -183,8 +183,14 @@ def unwrap(src: Path, out: Path) -> Path:
     return out
 
 
-def import_audio(video_dir: Path, folder: Path, lang: str = config.PRIMARY_LANGUAGE) -> tuple[list[str], list[str]]:
-    """Cắt từng file đoạn đọc thành giọng từng cảnh. Trả về (id đoạn đã nhập, id đoạn còn thiếu)."""
+def import_audio(
+    video_dir: Path, folder: Path, lang: str = config.PRIMARY_LANGUAGE, engine: str | None = None
+) -> tuple[list[str], list[str]]:
+    """Cắt từng file đoạn đọc thành giọng từng cảnh. Trả về (id đoạn đã nhập, id đoạn còn thiếu).
+
+    `engine` (gemini / elevenlabs) được ghi vào cost.json (`tts_app_engine`) để sổ quyền biết
+    giọng làm bằng công cụ nào.
+    """
     board = scenes.load(video_dir)
     voice = load_voice()
     sources = find_sources(folder)
@@ -210,6 +216,8 @@ def import_audio(video_dir: Path, folder: Path, lang: str = config.PRIMARY_LANGU
     usage = costs.load_usage(video_dir)
     app = usage.setdefault("tts_app_seconds", {})
     app[lang] = round(app.get(lang, 0.0) + seconds, 1)
+    if engine:
+        usage["tts_app_engine"] = engine
     usage["usd"] = costs.usd_of(usage)
     (Path(video_dir) / costs.COST_FILE).write_text(json.dumps(usage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return done, missing
@@ -223,13 +231,14 @@ def main() -> None:
     i = sub.add_parser("import")
     i.add_argument("video_dir", type=Path)
     i.add_argument("--from", dest="folder", type=Path, required=True)
+    i.add_argument("--engine", choices=["gemini", "elevenlabs"], help="công cụ đã làm giọng, ghi vào sổ quyền")
     args = p.parse_args()
 
     if args.cmd == "export":
         json.dump(export(scenes.load(args.video_dir)), sys.stdout, ensure_ascii=False, indent=1)
         print()
         return
-    done, missing = import_audio(args.video_dir, args.folder)
+    done, missing = import_audio(args.video_dir, args.folder, engine=args.engine)
     print(f"Đã nhập {len(done)} đoạn giọng.")
     if missing:
         print(f"Còn thiếu {len(missing)} đoạn: {', '.join(missing)}")

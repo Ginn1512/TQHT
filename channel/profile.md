@@ -97,3 +97,10 @@ Nét riêng của kênh: mọi ảnh trông như một trang trong sổ tay củ
 - Không vẽ lại chính xác nhân vật có bản quyền. Dùng dáng người, bóng, biểu tượng hoặc cảnh gợi ý.
 - Không đưa thông tin không có nguồn. Tin đồn, leak, lý thuyết phải nói rõ là lý thuyết.
 - Không spoil chương hoặc tập mới mà không cảnh báo trước ở đầu video.
+- Không giả làm chuyên gia (bác sĩ, luật sư, nhà khoa học…). Kaku là cú kể chuyện, nói rõ khi nào là ý kiến của kênh.
+- Không tạo lời phát biểu giả cho người thật (tác giả, diễn viên lồng tiếng, nhân vật lịch sử). Trích lời thì phải có nguồn.
+- Không dùng giọng clone hay khuôn mặt của người thật. Giọng Kaku là giọng thiết kế bằng mô tả (`channel/giong-kaku.json`).
+- Không dùng bot, mua view, like, bình luận hay người đăng ký. Không dùng lời kêu gọi thao túng (hứa thưởng, dọa, đổi like lấy nội dung).
+- Tiêu đề và thumbnail không dùng người nổi tiếng, sự kiện hay cảnh không có trong video, không hứa điều video không có.
+- Không làm hàng loạt video gần như giống nhau chỉ thay tên anime. Mỗi video một luận điểm riêng (`python -m tools.originality`).
+- Thiếu nguồn, giấy phép hay độ chính xác thì ghi UNKNOWN và không đăng. Xem `docs/chinh-sach-noi-dung.md`.

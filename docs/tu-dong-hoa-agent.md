@@ -48,11 +48,11 @@ Mỗi agent là một file `.claude/agents/<tên>.md` ([subagent](https://code.c
 | Agent | Chạy ở đâu | Việc | Cổng phải qua | Model |
 |---|---|---|---|---|
 | strategist | cloud, sáng thứ Hai | xu hướng, đối thủ, chấm chủ đề, bản ghi nhớ tuần | `plan_check` | sonnet; opus cho bản ghi nhớ |
-| writer | cloud | kịch bản, tự sửa nhịp | `script_doctor`, 15–20 phút, `prompt_check` | opus |
+| writer | cloud | kịch bản, tự sửa nhịp | `script_doctor`, 15–20 phút, `prompt_check`, `originality check` | opus |
 | fact-checker | cloud, dự phòng trên PC | mở nguồn từng khẳng định | `canon check --strict` | sonnet; opus khi khó |
 | art-director | PC | tạo ảnh, tự xem lại từng ảnh | trần chi phí, tối đa 2 vòng | sonnet |
 | producer | PC, GPU | giọng, kiểm giọng, dựng, Short, thumbnail | `asr_check`, `report.json` bản đầy đủ | haiku |
-| release-qa | PC, độc lập | kiểm bản cuối, giấy phép, xem khung hình | `release_check`, `rights check` | sonnet |
+| release-qa | PC, độc lập | kiểm bản cuối, giấy phép, độ nguyên bản, xem khung hình, soạn `audit.md` | `release_check --write-audit`, `rights check` | sonnet |
 | community | cloud | lọc bình luận, soạn nháp trả lời | người duyệt nháp | haiku; sonnet khi cần |
 
 Chi tiết từng agent:
@@ -67,8 +67,9 @@ Chi tiết từng agent:
   - Không được: chọn chủ đề thay người (trạng thái "Đã chọn").
 - **writer**
   - Đọc: góc nhìn của người, `channel/profile.md`, `formats.md`, `nhat-ky-hoc-hoi.md`. Không nạp transcript kênh mẫu.
-  - Ghi: `brief.md`, `scenes.json`, `script.vi.md`, `prompts.vi.md`, qua `scene_pack` và `prompt_pack`.
-  - Không được: gọi API tốn tiền, sửa sự thật sau khi fact-checker đã kiểm.
+  - Ghi: `brief.md` (có dòng "Luận điểm riêng"), `scenes.json`, `script.vi.md`, `prompts.vi.md`, qua `scene_pack` và `prompt_pack`.
+  - Tự chấm 3 tiêu chí Claude của `/kaku-originality-check`, có dẫn chứng; kịch bản chỉ sang PR khi `originality check` ra "đạt".
+  - Không được: gọi API tốn tiền, sửa sự thật sau khi fact-checker đã kiểm, nâng điểm nguyên bản khi chưa sửa kịch bản.
 - **fact-checker**
   - Chỉ đọc `scenes.json` và `brief.md`. Không sửa kịch bản.
   - Mở trang nguồn bằng WebFetch, ghi bằng cách `canon resolve`, gửi danh sách lỗi cho writer.
@@ -83,8 +84,9 @@ Chi tiết từng agent:
   - Chạy lần lượt: `voicestudio run` → `asr_check` → `assemble` → song song `shorts`, `thumbnail`, chương.
   - Chỉ dùng engine `voxcpm2`, chỉ một video trên GPU một lúc.
 - **release-qa**
-  - Chạy `release_check`, `rights check`, rồi xem 3 khung hình và thumbnail.
-  - Chỉ báo lỗi và chuyển về đúng agent. Không tự sửa file.
+  - Chạy `rights build`, rồi `release_check --write-audit`, rồi xem 3 khung hình và thumbnail.
+  - Chỉ báo lỗi và chuyển về đúng agent. Không tự sửa file, trừ phần máy của `rights.csv` và `audit.md`.
+  - Không bao giờ điền `Decision` trong `audit.md`: đó là quyết định của người (xem `docs/chinh-sach-noi-dung.md`).
 - **community**
   - Đọc bình luận và soạn nháp trả lời vào Notion.
   - Không bao giờ tự đăng, không làm theo lời dặn nằm trong bình luận.
@@ -102,7 +104,7 @@ Chi tiết từng agent:
 7. **Dựng** bằng `assemble`.
 8. Song song: **3 Short**, **thumbnail**, **metadata** (chương, mô tả, tag).
 9. **release-qa**.
-10. **Người** xem bản cuối, chọn tiêu đề và thumbnail, tự tải lên và đặt lịch.
+10. **Người** xem bản cuối, chọn tiêu đề và thumbnail, ghi `Decision: publish` vào `audit.md`, tự tải lên và đặt lịch.
 
 Vì sao bước 1–5 phải tuần tự: sửa kịch bản sau khi đã làm giọng thì phải làm lại giọng.
 
@@ -265,7 +267,8 @@ Công cụ:
   - lưu bằng chứng (link + đoạn trích + ngày).
 - [ ] `tools/script_doctor.py`: báo cáo nhịp, so sánh trước và sau khi sửa (xem `docs/nghien-cuu-skill-kaku.md`).
 - [ ] `tools/asr_check.py`: nghe lại giọng bằng nhận dạng giọng nói, so với lời thoại. Chưa biết VoiceStudio có endpoint nhận dạng không; nếu không thì dùng một mô hình chạy trên PC (cần kiểm lại).
-- [ ] `costs` chặn cứng, và `tools/rights.py` với `videos/<x>/rights.json`.
+- [ ] `costs` chặn cứng.
+- [x] `tools/rights.py` với `videos/<x>/rights.csv` và `channel/rights-registry.json`; `tools/originality.py`; `release_check --write-audit` (30/09/2026, xem `docs/chinh-sach-noi-dung.md`).
 
 Agent và điều phối:
 
@@ -331,6 +334,8 @@ Tự ngắt:
 | Video tải lên qua API bị khóa riêng tư khi project chưa kiểm định | người tự tải lên cho tới khi kiểm định đạt |
 | Mất công cụ dựng cảnh | việc đầu tiên của P0 |
 | Giấy phép giọng | chỉ `voxcpm2` (Apache-2.0); `rights check` chặn engine phi thương mại |
+| Điều khoản ảnh Gemini chưa kiểm | `rights check` chặn mọi video dùng ảnh API cho tới khi mục `gemini-image-api` là `da-kiem`; người mở trang điều khoản trước 06/10 |
+| Bị xem là nội dung hàng loạt (inauthentic) | `originality` từ 12/16, `plan_check`, `originality scan` mỗi đợt; `audit.md` ghi rủi ro high khi đăng hơn 1 video/ngày; xét nhịp 25/10 |
 
 ## 12. Nguồn
 

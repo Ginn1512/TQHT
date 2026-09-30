@@ -75,6 +75,11 @@ class Claim:
         return self.status in RESOLVED
 
 
+def has_link(source: str) -> bool:
+    """Ô nguồn có link (dạng Markdown hoặc URL trần)."""
+    return bool(_LINK.search(source))
+
+
 def classify(source: str) -> str:
     low = source.lower()
     if _CHECKED.search(source):
@@ -85,7 +90,7 @@ def classify(source: str) -> str:
         return "chua-mo"
     if any(k in low for k in _OPINION):
         return "y-kien"
-    if _LINK.search(source):
+    if has_link(source):
         return "co-nguon"
     return "khong-ro"
 

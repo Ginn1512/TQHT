@@ -1,10 +1,16 @@
-"""Kiểm một video trước khi đăng: bản render, phụ đề, chương, thumbnail, metadata, nguồn, giấy phép giọng.
+"""Cổng đăng của một video: bản render, phụ đề, chương, thumbnail, metadata, nguồn, quyền tài sản,
+độ nguyên bản, khai báo AI và quyết định của người duyệt (audit.md).
 
     python -m tools.release_check videos/<thư-mục>
     python -m tools.release_check videos/<thư-mục> --no-loudness   # bỏ đo độ to (nhanh hơn)
+    python -m tools.release_check videos/<thư-mục> --write-audit   # tạo / cập nhật audit.md cho người duyệt
 
 Mỗi mục có một trong ba mức: ĐẠT, LƯU Ý, LỖI. Còn LỖI thì lệnh trả mã 1 và
 chưa được đăng. Cuối cùng là danh sách việc phải tự làm trong YouTube Studio.
+
+audit.md theo khuôn "Pre-publish audit" của tài liệu Policy Safe. Máy điền phần nguồn, quyền,
+điểm nguyên bản, rủi ro và gợi ý khai báo AI; người điền đóng góp sáng tạo, người duyệt cuối và
+quyết định. Chưa có "Decision: publish" thì chưa được đăng.
 
 Giới hạn của YouTube dùng ở đây:
 - tiêu đề tối đa 100 ký tự;
@@ -20,14 +26,17 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import datetime as dt
 import subprocess
 import sys
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.parse import urlparse
 
 from PIL import Image
 
-from tools import canon, config, media, voicestudio
+from tools import canon, config, media, originality, rights, scenes, voicestudio
 
 OK, WARN, FAIL = "ĐẠT", "LƯU Ý", "LỖI"
 AI_LINE = "Hình minh họa do AI tạo"
@@ -38,12 +47,40 @@ HASHTAG_MAX = 15
 THUMB_MAX_BYTES = 2 * 1024 * 1024
 LOUDNESS_RANGE = (-16.0, -12.0)  # YouTube chuẩn hóa quanh -14 LUFS
 MANUAL = [
-    "Quyết định nhãn 'Altered or synthetic content' (xem mục Nội dung AI trong metadata).",
+    "Quyết định nhãn 'Altered or synthetic content' theo gợi ý trong audit.md và mục Nội dung AI của metadata.",
     "Đặt lịch đăng đúng ngày và giờ trong channel/topics.md (múi giờ GMT+7), chọn thumbnail, gắn phụ đề subs.vi.srt.",
     "Thêm màn hình kết thúc và thẻ tới video liên quan; ghim bình luận câu hỏi cho người xem.",
     "Nếu giọng làm bằng ElevenLabs: chỉ gói trả phí mới được dùng thương mại.",
+    "Nếu có nhạc nền: đã thêm dòng music vào rights.csv (tên bài, link, giấy phép).",
+    "Tiêu đề và thumbnail không dùng người nổi tiếng, sự kiện hay cảnh không có trong video.",
+    "Lời kêu gọi không thao túng: không hứa thưởng, không dọa, không đổi like lấy nội dung.",
+    "Không mua view, like, bình luận hay người đăng ký; không dùng bot hay nhóm tương tác chéo.",
     "Sau khi đăng: python -m tools.costs record, cập nhật Notion và channel/topics.md.",
 ]
+# Tiêu đề câu kéo: hứa điều video không có, hoặc la hét bằng chữ hoa.
+CLICKBAIT = re.compile(
+    r"\bsốc\b|gây sốc|không thể tin|khó tin|100\s?%|chắc chắn 100|bí mật động trời|không ai biết|"
+    r"sự thật kinh hoàng|\bshock|!{2,}",
+    re.I,
+)
+CAPS_RATIO = 0.5
+SHORTENERS = {"bit.ly", "tinyurl.com", "t.co", "goo.gl", "shorturl.at", "cutt.ly", "rb.gy", "is.gd", "ow.ly"}
+AFFILIATE = re.compile(
+    r"[?&](?:ref|aff|affiliate|tag|utm_source)=|amzn\.to|shope\.ee|shopee\.vn|lazada\.vn|tiki\.vn|"
+    r"\baffiliate\b|\bsponsor|được tài trợ|nhà tài trợ|mã giảm giá",
+    re.I,
+)
+DISCLOSE_LINE = re.compile(r"(?im)^\s*tiết lộ\s*:")
+# Từ chỉ ảnh chân thực trong prompt. "photo" đơn lẻ không tính vì hay là tấm ảnh vẽ trong tranh.
+PHOTOREAL = re.compile(
+    r"photo-?realis\w*|hyper-?realis\w*|realistic photo|real photograph|live[- ]action|documentary footage|"
+    r"news footage|\bdslr\b|35mm film|real (?:person|people)|celebrity|likeness of",
+    re.I,
+)
+REAL_WORLD_FORMATS = {"S": "dạng S nói về người, nơi chốn hay sự kiện có thật"}
+AUDIT_NAME = "audit.md"
+AUDIT_HUMAN = ("Owner", "Human creative contribution", "Disclosure completed", "Final reviewer", "Decision", "Reasons")
+DECISIONS = ("publish", "revise", "reject")
 
 
 @dataclass
@@ -246,6 +283,41 @@ def check_metadata(video_dir: Path, lang: str) -> list[Check]:
 
     ai = _section(s, "nội dung ai")
     out.append(Check("Khai báo AI", OK if ai else FAIL, ai.splitlines()[0][:80] if ai else "thiếu mục '## Nội dung AI' ghi quyết định tick hay không"))
+    out += check_title_policy(titles)
+    out += check_links(desc or "")
+    return out
+
+
+def check_title_policy(titles: list[str]) -> list[Check]:
+    """Tiêu đề phản ánh đúng nội dung: không từ câu kéo, không la hét bằng chữ hoa."""
+    problems = []
+    for title in titles:
+        bait = CLICKBAIT.search(title)
+        letters = [c for c in title if c.isalpha()]
+        caps = sum(c.isupper() for c in letters) / len(letters) if len(letters) >= 10 else 0.0
+        if bait:
+            problems.append(f"'{title[:40]}' có '{bait.group(0)}'")
+        elif caps > CAPS_RATIO:
+            problems.append(f"'{title[:40]}' {caps:.0%} chữ hoa")
+    if problems:
+        return [Check("Tiêu đề câu kéo", WARN, "; ".join(problems[:3]) + " (tiêu đề phải khớp nội dung)")]
+    return [Check("Tiêu đề câu kéo", OK, "không có từ câu kéo")]
+
+
+def check_links(desc: str) -> list[Check]:
+    """Link ngoài an toàn và rõ đích; có link tiếp thị liên kết hay tài trợ thì phải có dòng 'Tiết lộ:'."""
+    out: list[Check] = []
+    urls = re.findall(r"https?://[^\s)>\]]+", desc)
+    plain = [u for u in urls if u.startswith("http://")]
+    short = [u for u in urls if urlparse(u).netloc.lower().removeprefix("www.") in SHORTENERS]
+    problems = []
+    if plain:
+        problems.append(f"{len(plain)} link không phải https")
+    if short:
+        problems.append(f"{len(short)} link rút gọn che đích đến")
+    out.append(Check("Link ngoài", WARN if problems else OK, "; ".join(problems) or f"{len(urls)} link, đều https"))
+    if AFFILIATE.search(desc) and not DISCLOSE_LINE.search(desc):
+        out.append(Check("Tiết lộ tài trợ", FAIL, "mô tả có link tiếp thị liên kết hoặc tài trợ nhưng thiếu dòng 'Tiết lộ: …'"))
     return out
 
 
@@ -271,12 +343,224 @@ def check_voice_license(video_dir: Path) -> list[Check]:
     return [Check("Giấy phép giọng", WARN, "cost.json chưa ghi giọng được tạo bằng gì")]
 
 
+def check_rights(video_dir: Path) -> list[Check]:
+    if not (Path(video_dir) / "scenes.json").exists():
+        return [Check("Quyền tài sản", FAIL, "thiếu scenes.json nên chưa lập được rights.csv")]
+    points, issues = rights.check(video_dir)
+    fails = [msg for level, msg in issues if level == rights.FAIL]
+    out = [Check("Quyền tài sản", FAIL if fails else OK, "; ".join(fails[:3]) or f"mọi dòng trong {rights.LEDGER_NAME} đã kiểm")]
+    out += [Check("Quyền tài sản", WARN, msg) for level, msg in issues if level == rights.WARN]
+    return out
+
+
+def check_originality(video_dir: Path) -> list[Check]:
+    if not (Path(video_dir) / "scenes.json").exists():
+        return [Check("Độ nguyên bản", FAIL, "thiếu scenes.json")]
+    result = originality.evaluate(video_dir)
+    pending = [k for k, c in result["criteria"].items() if c["points"] is None]
+    head = f"{result['total']}/{result['max']} · {result['verdict']}"
+    if result["verdict"] == originality.PASS:
+        return [Check("Độ nguyên bản", OK, head)]
+    if pending:
+        return [Check("Độ nguyên bản", FAIL, f"{head}: chưa chấm {', '.join(pending)} (python -m tools.originality score)")]
+    low = [k for k, c in result["criteria"].items() if c["points"] == 0]
+    return [Check("Độ nguyên bản", FAIL, f"{head}; tiêu chí 0 điểm: {', '.join(low) or 'không'}")]
+
+
+def disclosure(video_dir: Path) -> dict:
+    """Gợi ý khai báo 'Altered or synthetic content' theo tài liệu Policy Safe (khối YAML ai_disclosure).
+
+    Không cần khai báo: tranh cách điệu rõ ràng, sơ đồ tự dựng, giọng tổng hợp không mạo danh.
+    Cần xem xét khai báo: cảnh trông như thật, người thật hay sự kiện thật bị mô phỏng.
+    """
+    video_dir = Path(video_dir)
+    reasons = []
+    brief = video_dir / "brief.md"
+    code = originality.brief_field(brief.read_text(encoding="utf-8"), "Dạng video")[:1] if brief.exists() else ""
+    if code in REAL_WORLD_FORMATS:
+        reasons.append(REAL_WORLD_FORMATS[code])
+    if (video_dir / "scenes.json").exists():
+        board = scenes.load(video_dir)
+        prompts = [board.style_prompt] + [f"{s.image_prompt} {s.video_prompt}" for s in board.scenes]
+        hits = sorted({m.group(0).lower() for p in prompts for m in PHOTOREAL.finditer(p)})
+        if hits:
+            reasons.append(f"prompt có từ chỉ ảnh chân thực: {', '.join(hits)}")
+    required = bool(reasons)
+    return {
+        "ai_used": True,
+        "realistic_or_meaningfully_altered": required,
+        "youtube_studio_altered_content": "yes" if required else "no",
+        "reason": "; ".join(reasons) or "tranh minh họa cách điệu kiểu sổ tay, sơ đồ tự dựng, giọng tổng hợp không mạo danh",
+        "viewer_note": "Hình minh họa trong video do AI tạo, không phải hình chính thức.",
+    }
+
+
+def check_disclosure(video_dir: Path, lang: str = config.PRIMARY_LANGUAGE) -> list[Check]:
+    hint = disclosure(video_dir)
+    meta = Path(video_dir) / f"metadata.{lang}.md"
+    chosen = _section(metadata_sections(meta.read_text(encoding="utf-8")), "nội dung ai") if meta.exists() else None
+    ticked = bool(chosen) and not re.match(r"\s*không", chosen, re.I)
+    if hint["realistic_or_meaningfully_altered"] and chosen and not ticked:
+        return [Check("Gợi ý khai báo AI", WARN, f"nên tick: {hint['reason']}")]
+    return [Check("Gợi ý khai báo AI", OK, ("tick" if hint["realistic_or_meaningfully_altered"] else "không cần tick") + f": {hint['reason']}")]
+
+
+def cadence(video_dir: Path, topics: Path | None = None) -> int | None:
+    """Số video đăng cùng ngày với video này theo channel/topics.md (None nếu không có trong lịch)."""
+    numbers = canon.video_numbers(topics or canon.TOPICS)
+    if Path(video_dir).name not in numbers:
+        return None
+    day = numbers[Path(video_dir).name][1]
+    return Counter(d for _, d in numbers.values())[day]
+
+
+def _risk(result: dict, per_day: int | None) -> tuple[str, str, str, str]:
+    """(rủi ro nội dung dùng lại, lý do, rủi ro không chân thực, lý do)."""
+    total, pending = result["total"], result["verdict"] == originality.PENDING
+    if pending or total < originality.GATE:
+        reused = ("high", "điểm nguyên bản chưa đủ hoặc chưa chấm đủ")
+    elif total < originality.STRONG:
+        reused = ("medium", f"điểm nguyên bản {total}/16, dưới {originality.STRONG}")
+    else:
+        reused = ("low", f"điểm nguyên bản {total}/16, kịch bản và hình do kênh tự làm")
+    distinct = result["criteria"]["khac-nhau"]
+    if per_day and per_day > 1:
+        inauth = ("high", f"nhịp {per_day} video/ngày cùng một khuôn dạng dễ bị xem là sản xuất hàng loạt")
+    elif pending or total < originality.STRONG:
+        inauth = ("high", f"điểm nguyên bản {total}/16, dưới {originality.STRONG}")
+    elif distinct["points"] < 2:
+        inauth = ("medium", distinct["evidence"])
+    else:
+        inauth = ("low", "nhịp tối đa 1 video/ngày, nội dung cốt lõi khác các video khác")
+    return reused[0], reused[1], inauth[0], inauth[1]
+
+
+def parse_audit(text: str) -> dict[str, str]:
+    """{khóa: giá trị} của các dòng "- Khóa: giá trị" trong audit.md."""
+    out = {}
+    for line in text.splitlines():
+        m = re.match(r"^- ([A-Za-z][A-Za-z -]+):\s*(.*)$", line)
+        if m and m.group(1) not in out:
+            out[m.group(1).strip()] = m.group(2).strip()
+    return out
+
+
+def write_audit(video_dir: Path, lang: str = config.PRIMARY_LANGUAGE, today: dt.date | None = None) -> Path:
+    """Tạo / cập nhật audit.md. Phần máy được viết lại mỗi lần; phần người điền được giữ."""
+    video_dir = Path(video_dir)
+    if not (video_dir / "scenes.json").exists():
+        raise SystemExit(f"Không thấy {video_dir / 'scenes.json'}: chưa tạo được audit.md")
+    path = video_dir / AUDIT_NAME
+    old = parse_audit(path.read_text(encoding="utf-8")) if path.exists() else {}
+    keep = {k: old.get(k, "") for k in AUDIT_HUMAN}
+    result = originality.evaluate(video_dir)
+    rights_points, rights_issues = rights.check(video_dir)
+    hint = disclosure(video_dir)
+    per_day = cadence(video_dir)
+    reused, reused_why, inauth, inauth_why = _risk(result, per_day)
+    claims = canon.parse_brief(video_dir / "brief.md") if (video_dir / "brief.md").exists() else []
+    resolved = sum(c.resolved for c in claims)
+    links = sum(1 for c in claims if canon.has_link(c.source))
+    meta = video_dir / f"metadata.{lang}.md"
+    titles = (_section(metadata_sections(meta.read_text(encoding="utf-8")), "tiêu đề") or "") if meta.exists() else ""
+    title = next((re.sub(r"^\d+[.)]\s*", "", x).strip() for x in titles.splitlines() if x.strip() and not x.lower().startswith("chọn")), "")
+    required = hint["realistic_or_meaningfully_altered"]
+    rights_fail = [m for lv, m in rights_issues if lv == rights.FAIL]
+    checks = [
+        (result["verdict"] == originality.PASS, "Kịch bản là nội dung nguyên bản, có luận điểm riêng (originality.json)."),
+        (bool(claims) and resolved == len(claims), f"Nguồn nghiên cứu đã lưu và đã kiểm ({resolved}/{len(claims)} dòng)."),
+        (not rights_fail, f"Mọi tài sản đã có quyền sử dụng ({rights.LEDGER_NAME})."),
+        (result["criteria"]["khong-paraphrase"]["points"] == 2, "Không dùng nội dung sao chép hoặc chỉ sửa sơ sài."),
+        (None, "Không có phát ngôn giả, deepfake, mạo danh hoặc giọng clone trái phép."),
+        (None, "Chủ đề sức khỏe, pháp lý, tài chính, chính trị (nếu có) đã kiểm nguồn chính thức."),
+        (None, "Tiêu đề và thumbnail không gây hiểu lầm."),
+        (None, "Đã bật khai báo nội dung đã chỉnh sửa nếu cần."),
+        (result["criteria"]["khac-nhau"]["points"] == 2 and not (per_day and per_day > 1), "Video không phải sản phẩm hàng loạt gần như giống nhau."),
+        (None, "Không có bot, traffic ảo hoặc lời kêu gọi thao túng."),
+    ]
+    lines = [
+        "# Pre-publish audit",
+        "",
+        f"> Tạo bằng `python -m tools.release_check {video_dir} --write-audit`. Máy viết lại các dòng tự động mỗi lần chạy; "
+        "các dòng người điền (Owner, Human creative contribution, Disclosure completed, Final reviewer, Decision, Reasons) được giữ.",
+        "",
+        f"- Video: {video_dir.name}" + (f" · {title}" if title else ""),
+        f"- Date: {(today or dt.date.today()).isoformat()}",
+        f"- Owner: {keep['Owner']}",
+        f"- Human creative contribution: {keep['Human creative contribution']}",
+        f"- Research sources: brief.md, {len(claims)} khẳng định, {links} dòng có link, {resolved} dòng đã kiểm",
+        f"- Asset rights checked: {'yes' if rights_points == 2 and not rights_fail else 'no'}",
+        f"- Reused-content risk: {reused}",
+        f"- Inauthentic-content risk: {inauth}",
+        f"- AI disclosure required: {'yes' if required else 'no'}",
+        f"- Disclosure completed: {keep['Disclosure completed'] or ('no' if required else 'not applicable')}",
+        f"- Final reviewer: {keep['Final reviewer']}",
+        f"- Decision: {keep['Decision']}",
+        f"- Reasons: {keep['Reasons']}",
+        "",
+        "## Máy ghi",
+        "",
+        f"- Độ nguyên bản: {result['total']}/{result['max']}, {result['verdict']}.",
+    ]
+    lines += [f"  - {k}: {'–' if c['points'] is None else c['points']}/2. {c['evidence']}" for k, c in result["criteria"].items()]
+    lines += [
+        f"- Rủi ro nội dung dùng lại ({reused}): {reused_why}.",
+        f"- Rủi ro không chân thực ({inauth}): {inauth_why}.",
+        "- Quyền tài sản: " + ("; ".join(rights_fail[:3]) or "mọi dòng đã kiểm") + ".",
+        "",
+        "```yaml",
+        "ai_disclosure:",
+        f"  ai_used: {str(hint['ai_used']).lower()}",
+        f"  realistic_or_meaningfully_altered: {str(required).lower()}",
+        f"  youtube_studio_altered_content: {hint['youtube_studio_altered_content']}",
+        f"  reason: \"{hint['reason']}\"",
+        f"  viewer_note: \"{hint['viewer_note']}\"",
+        "```",
+        "",
+        "## Checklist trước khi đăng",
+        "",
+        "Máy đánh dấu các mục kiểm được; mục còn lại người duyệt tự xem và tự đánh dấu.",
+        "",
+    ]
+    lines += [f"- [{'x' if ok else ' '}] {text}" + ("" if ok is not None else " (người kiểm)") for ok, text in checks]
+    lines += [
+        "",
+        "## Người duyệt điền",
+        "",
+        "- **Human creative contribution:** phần người đã làm (chọn chủ đề, sửa kịch bản, chọn ảnh, duyệt giọng…).",
+        "- **Final reviewer:** tên người duyệt cuối.",
+        "- **Decision:** `publish`, `revise` hoặc `reject`. Chỉ `publish` mới qua cổng.",
+        "- **Reasons:** lý do, nhất là khi rủi ro ghi `high`.",
+        "",
+    ]
+    path.write_text("\n".join(lines), encoding="utf-8")
+    return path
+
+
+def check_audit(video_dir: Path) -> list[Check]:
+    path = Path(video_dir) / AUDIT_NAME
+    if not path.exists():
+        return [Check("Duyệt của người", FAIL, f"chưa có {AUDIT_NAME}; chạy lại với --write-audit rồi người duyệt điền")]
+    fields = parse_audit(path.read_text(encoding="utf-8"))
+    decision = fields.get("Decision", "").strip().strip("`").lower()
+    missing = [k for k in ("Human creative contribution", "Final reviewer") if not fields.get(k)]
+    if decision != "publish":
+        what = f"quyết định là '{decision}'" if decision in DECISIONS else "chưa có quyết định"
+        return [Check("Duyệt của người", FAIL, f"{what} (cần 'Decision: publish' trong {AUDIT_NAME})")]
+    if missing:
+        return [Check("Duyệt của người", FAIL, f"{AUDIT_NAME} thiếu: {', '.join(missing)}")]
+    note = f"; rủi ro không chân thực: {fields.get('Inauthentic-content risk')}" if fields.get("Inauthentic-content risk") == "high" else ""
+    return [Check("Duyệt của người", WARN if note else OK, f"publish, duyệt bởi {fields['Final reviewer']}{note}")]
+
+
 def check_shorts(video_dir: Path) -> list[Check]:
     n = len(list((video_dir / "render" / "shorts").glob("*.mp4")))
     return [Check("Short", OK if n >= 3 else WARN, f"{n}/3 Short trong render/shorts/")]
 
 
-def run(video_dir: Path, lang: str = config.PRIMARY_LANGUAGE, measure_loudness: bool = True) -> list[Check]:
+def run(
+    video_dir: Path, lang: str = config.PRIMARY_LANGUAGE, measure_loudness: bool = True, audit: bool = False
+) -> list[Check]:
     video_dir = Path(video_dir)
     checks, duration = check_render(video_dir, lang, measure_loudness)
     checks += check_subs(video_dir, lang, duration)
@@ -284,8 +568,14 @@ def run(video_dir: Path, lang: str = config.PRIMARY_LANGUAGE, measure_loudness: 
     checks += check_thumbnail(video_dir)
     checks += check_shorts(video_dir)
     checks += check_metadata(video_dir, lang)
+    checks += check_disclosure(video_dir, lang)
     checks += check_sources(video_dir)
     checks += check_voice_license(video_dir)
+    checks += check_rights(video_dir)
+    checks += check_originality(video_dir)
+    if audit:
+        write_audit(video_dir, lang)
+    checks += check_audit(video_dir)
     return checks
 
 
@@ -294,8 +584,9 @@ def main() -> None:
     p.add_argument("video_dir", type=Path)
     p.add_argument("--lang", default=config.PRIMARY_LANGUAGE, choices=sorted(config.LANGUAGES))
     p.add_argument("--no-loudness", action="store_true", help="bỏ đo độ to")
+    p.add_argument("--write-audit", action="store_true", help="tạo / cập nhật audit.md cho người duyệt")
     args = p.parse_args()
-    checks = run(args.video_dir, args.lang, not args.no_loudness)
+    checks = run(args.video_dir, args.lang, not args.no_loudness, args.write_audit)
     width = max(len(c.name) for c in checks)
     for c in checks:
         print(f"[{c.level:^6}] {c.name:<{width}}  {c.detail}")

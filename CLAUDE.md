@@ -43,7 +43,9 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 - `channel/costs.md`: sổ chi phí.
 - `channel/canon-ledger.md`: sổ khẳng định về anime, tạo tự động từ các `brief.md` bằng `python -m tools.canon build`, không sửa tay.
 - `channel/giong-kaku.json`: giọng Kaku (3 bản mô tả Voice Design, giọng đã chọn, ghi chú đạo diễn, thẻ cho từng công cụ).
-- `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `prompts.vi.md` (tạo tự động bằng `python -m tools.prompt_pack`, không sửa tay), `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
+- `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `prompts.vi.md` (tạo tự động bằng `python -m tools.prompt_pack`, không sửa tay), `metadata.<lang>.md`, `cost.json`, `rights.csv` (`python -m tools.rights build`), `originality.json` và `audit.md`. Hai thư mục `assets/` và `render/` bị gitignore.
+- `docs/chinh-sach-noi-dung.md`: 9 nguyên tắc nội dung AI đúng chính sách YouTube và các cổng chặn.
+- `channel/rights-registry.json`: sổ điều khoản của các công cụ (ảnh, giọng, font, clip, nhạc).
 - `docs/huong-dan-lam-tay.md`: các bước làm ảnh và giọng trên điện thoại. `docs/tu-dong-hoa-agent.md`: chiến lược tự động hóa bằng agent (bản cũ n8n: `docs/tu-dong-hoa.md`).
 - `tools/`: công cụ Python (TranscriptAPI, Gemini TTS/ảnh, VoiceStudio, ffmpeg). Cài bằng `pip install -r tools/requirements.txt`, chạy test bằng `pytest tools/tests`.
 
@@ -55,7 +57,10 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
    - Ảnh và giọng mặc định do người dùng làm tay qua trang "Xưởng Kaku" (`python -m tools.xuong page`), có 3 tab Ảnh / Giọng / Kiểm tra.
    - Claude nhập bằng `tools.app_images import` và `tools.app_audio import`.
    - Tạo ảnh hoặc giọng bằng API chỉ là dự phòng.
-   - Trước khi làm giọng: `/kaku-canon-ledger` (`python -m tools.canon check`) phải đạt. Trước khi giao video: `/kaku-release-review` (`python -m tools.release_check`) không còn lỗi.
+   - Trước khi làm ảnh và giọng: `/kaku-originality-check` (`python -m tools.originality check`) ra "đạt", từ 12/16.
+   - Trước khi làm giọng: `/kaku-canon-ledger` (`python -m tools.canon check`) phải đạt.
+   - Sau khi nhập ảnh và giọng: `/kaku-rights-audit` (`python -m tools.rights build`, rồi `check`).
+   - Trước khi giao video: `/kaku-release-review` (`python -m tools.release_check --write-audit`) không còn lỗi, và người dùng đã ghi `Decision: publish` trong `audit.md`.
 4. `/yt-seedance` (tuỳ chọn): tối đa 6 clip Seedance 2.5 × 5 giây cho cảnh "đinh"; mặc định làm thủ công trên app Dreamina/CapCut.
 
 ### Quy tắc cứng
@@ -67,3 +72,5 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 - **Trước mỗi lần gọi API tốn tiền** (tạo ảnh, giọng đọc): báo ước tính chi phí bằng `python -m tools.costs estimate` và chờ người dùng đồng ý.
 - Key API chỉ đọc từ biến môi trường `TRANSCRIPT_API_KEY` và `GEMINI_API_KEY`. Không bao giờ yêu cầu người dùng dán key vào chat.
 - Video MP4 gửi cho người dùng bằng SendUserFile, không commit lên git.
+- **Thiếu nguồn, giấy phép hay độ chính xác thì ghi UNKNOWN và chặn xuất bản.** Không bịa nguồn, số liệu hay giấy phép. Không giả chuyên gia, không tạo lời phát biểu giả cho người thật, không dùng giọng clone. Chi tiết: `docs/chinh-sach-noi-dung.md`.
+- Claude không tự điền quyết định đăng (`Decision`) trong `audit.md` thay người dùng.

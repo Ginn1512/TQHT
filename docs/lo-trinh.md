@@ -40,7 +40,7 @@
 ## Trạng thái
 
 - [x] 30 skill ECC trong repo
-- [x] Công cụ Python (`tools/`), 117 test đạt
+- [x] Công cụ Python (`tools/`), 138 test đạt
 - [x] Skill `/yt-analyzer`, `/yt-research`, `/yt-studio`, `/yt-seedance`
 - [x] `channel/profile.md` bản sơ bộ, nghiên cứu ngách 2026, nhật ký học hỏi
 - [x] 21 dạng video (`channel/formats.md`, thêm S, T, U), 78 chủ đề (`channel/topics.md`)
@@ -53,6 +53,10 @@
 - [x] Công cụ nhập giọng làm tay (tự cắt thành từng cảnh) và công cụ cắt Short dọc
 - [x] Lộ trình tự động hóa Notion + n8n (`docs/tu-dong-hoa.md`), nay đã được thay
 - [x] Chiến lược tự động hóa bằng agent (`docs/tu-dong-hoa-agent.md`), trang điện thoại: https://claude.ai/code/artifact/7608e62b-19ff-4147-bce4-b6a2a4e15cae
+- [x] Cổng chính sách nội dung (30/09, theo tài liệu "Policy Safe", xem `docs/chinh-sach-noi-dung.md`):
+  - chấm nguyên bản 8 tiêu chí (`/kaku-originality-check`);
+  - sổ quyền tài sản (`/kaku-rights-audit`);
+  - `audit.md` với quyết định đăng của bạn (`/kaku-release-review`).
 - [x] Notion "Cú Kaku anime" (riêng tư): https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6
   - bảng Video dài (78 video, có Kanban theo trạng thái và lịch đăng);
   - bảng Shorts;
@@ -61,6 +65,8 @@
 - [ ] Chọn giọng Kaku (thử 3 giọng) và tạo ảnh mẫu Kaku
 - [ ] Video 1: làm ảnh và giọng trên trang Xưởng → dựng → đăng 06/10
 - [ ] Cài `TRANSCRIPT_API_KEY`, mở kết nối `transcriptapi.com` → phân tích 5 kênh mẫu bằng dữ liệu thật, chốt profile ([hướng dẫn](https://claude.ai/artifact/CLeMBD8BXXfBLhcVfbzT6S))
+- [ ] **Trước 06/10:** mở trang điều khoản ảnh Gemini API, ghi vào `channel/rights-registry.json`. Chưa kiểm thì cổng quyền tài sản chặn đăng mọi video dùng ảnh API
+- [ ] Thêm dòng "Luận điểm riêng" vào 77 `brief.md`, rồi Claude chấm 3 tiêu chí nguyên bản cho từng video (đi cùng việc kiểm nguồn)
 - [ ] Kiểm lại nguồn trong `brief.md` trước khi làm giọng mỗi video
 - [ ] Video 2–78 theo lịch (đã có kịch bản, trạng thái "chờ kiểm nguồn")
 - [ ] Kịch bản video 79 trở đi cho tháng 11: đưa công cụ dựng cảnh vào repo, `/yt-research`, viết (bắt đầu ngay)
@@ -137,7 +143,7 @@ Giá lấy từ nguồn thứ ba tháng 9/2026. Giá giọng đọc qua API đư
 
 | Rủi ro | Cách phòng |
 |---|---|
-| Không được bật kiếm tiền (nội dung "không chân thực") | 21 dạng video, góc nhìn riêng, có nguồn; người xem từng video trước khi đăng. **Rủi ro cao hơn từ 30/09:** 3 video/ngày là đúng kiểu nhịp đăng YouTube dùng để nhận diện nội dung làm hàng loạt. Xét lại 25/10; tự ngắt về 1 video/ngày khi có dấu hiệu (xem Luật đổi hướng) |
+| Không được bật kiếm tiền (nội dung "không chân thực") | 21 dạng video, góc nhìn riêng, có nguồn; người xem từng video trước khi đăng. **Rủi ro cao hơn từ 30/09:** 3 video/ngày là đúng kiểu nhịp đăng YouTube dùng để nhận diện nội dung làm hàng loạt. Xét lại 25/10; tự ngắt về 1 video/ngày khi có dấu hiệu (xem Luật đổi hướng). Từ 30/09, mỗi video phải qua `originality` từ 12/16, và `audit.md` ghi rủi ro "inauthentic" là high khi đăng hơn 1 video/ngày |
 | Không kịp 1–3 tháng | Mốc kiểm tra 25/10, ngày 30 và ngày 60; Short mỗi ngày; đổi chủ đề |
 | Bản quyền anime | Chỉ hình AI tự vẽ; `prompt_check` chặn tên và chi tiết đặc trưng |
 | AI bịa thông tin | Mọi thông tin có nguồn trong `brief.md` |

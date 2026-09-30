@@ -18,10 +18,19 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 
 - Nếu mục mới nhất trong `channel/references/nhat-ky-hoc-hoi.md` đã quá 2 tuần, hoặc bộ anime chưa từng làm: chạy skill `/yt-research` trước.
 - Chọn dạng video trong `channel/formats.md` theo `channel/topics.md` và **theo đúng khung của dạng đó** (mở đầu, chương đặc thù, cách kết). Không lặp khung của video trước.
-- Chủ đề, góc nhìn, câu hỏi mà video trả lời cho người xem.
-- Mức spoiler: tới chương hoặc tập nào.
-- **Danh sách sự thật kèm URL nguồn** (wiki, nguồn chính thức, phỏng vấn tác giả), tìm bằng WebSearch. Lý thuyết của fan phải ghi rõ là lý thuyết.
-- 3 ý tưởng tiêu đề và 1 ý tưởng thumbnail.
+- Đầu `brief.md` là các dòng mà `tools.canon` và `tools.originality` đọc:
+  ```markdown
+  - **Anime:** …
+  - **Dạng video:** <mã> · <tên dạng>
+  - **Câu hỏi video trả lời:** câu hỏi người xem cần giải quyết.
+  - **Luận điểm riêng:** một câu, điều kênh khẳng định mà wiki không viết sẵn.
+  - **Mức spoiler:** tới chương hoặc tập nào.
+  - **Độ dài mục tiêu:** 15–20 phút.
+  ```
+- **Bảng "Sự thật dùng trong kịch bản" kèm URL nguồn** (wiki, nguồn chính thức, phỏng vấn tác giả), tìm bằng WebSearch. Chủ đề cần dữ kiện thật thì có ít nhất 3 nguồn. Phân biệt dữ kiện, suy luận và ý kiến; lý thuyết của fan phải ghi rõ là lý thuyết. Ô tình trạng theo các mức trong `/kaku-canon-ledger`.
+- `## Điều chưa chắc chắn`: chi tiết còn tranh cãi hoặc chưa kiểm được, và cách kịch bản nói về chúng.
+- `## Rủi ro bản quyền/chính sách`: người thật, sự kiện thật, chủ đề nhạy cảm (sức khỏe, pháp lý, tài chính, chính trị), nguy cơ vẽ giống nhân vật có bản quyền. Không có thì ghi "không".
+- 3 ý tưởng tiêu đề không gây hiểu lầm và 1 ý tưởng thumbnail.
 
 ## 2. Kịch bản → `script.vi.md`
 
@@ -30,7 +39,10 @@ Nguồn sự thật duy nhất là `channel/profile.md`. **Không đọc transcr
 - Cứ 60–90 giây có một điểm gây bất ngờ. Kêu gọi đăng ký ở gần cuối, không đặt ở đầu video.
 - Tự kiểm tra trước khi đi tiếp:
   - [ ] Mọi sự thật có nguồn trong brief.
-  - [ ] Không có câu chữ lấy từ kênh khác.
+  - [ ] Không có câu chữ lấy từ kênh khác, không dịch hay viết lại gần nguyên văn một bài viết.
+  - [ ] Có luận điểm riêng, ví dụ hoặc phép so sánh riêng, và nói rõ giới hạn hay điểm chưa chắc chắn.
+  - [ ] Không giả làm chuyên gia, không bịa lời phát biểu của người thật (tác giả, diễn viên lồng tiếng…).
+  - [ ] Lời kêu gọi không thao túng: không hứa thưởng, không dọa, không đổi like lấy nội dung.
   - [ ] Đúng giọng của linh vật.
   - [ ] Độ dài đạt yêu cầu.
 
@@ -60,7 +72,11 @@ Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ư�
 
 ## 5. Ảnh, giọng và dựng video
 
+**Trước khi làm ảnh và giọng:** `python -m tools.originality check videos/<thư-mục>` phải ra "đạt" (xem `/kaku-originality-check`). Dưới 12/16 thì viết lại kịch bản trước.
+
 **Trước khi làm giọng:** `python -m tools.canon check videos/<thư-mục>` phải đạt. Còn dòng chưa kiểm thì làm theo `/kaku-canon-ledger` trước, vì sửa kịch bản sau khi có giọng là phải làm lại giọng. Ảnh thì làm song song được.
+
+**Sau khi nhập ảnh và giọng:** `python -m tools.rights build videos/<thư-mục>` để ghi công cụ thật vào `rights.csv` (xem `/kaku-rights-audit`).
 
 **Cách mặc định: người dùng làm tay trên trang "Xưởng Kaku"** (ảnh bằng Gemini app, giọng bằng AI Studio hoặc ElevenLabs; hướng dẫn trong `docs/huong-dan-lam-tay.md`):
 
@@ -76,7 +92,7 @@ Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ư�
      - giọng đặt tên `<cNN>.txt`. Đây là gói base64 có dòng đầu `KAKU-AUDIO-B64`, vì kho tệp của trang không nhận file âm thanh.
    - Ảnh có `redo: true` thì báo lại cho người dùng, chưa nhập.
    - `python -m tools.app_images import videos/<thư-mục> --from <tạm>` (thêm `--trim 0.05` nếu ảnh có watermark ở góc).
-   - `python -m tools.app_audio import videos/<thư-mục> --from <tạm>`: mỗi đoạn tự được cắt thành giọng từng cảnh tại các khoảng lặng.
+   - `python -m tools.app_audio import videos/<thư-mục> --from <tạm> --engine gemini` (hoặc `elevenlabs`, theo công cụ người dùng đã chọn trên trang): mỗi đoạn tự được cắt thành giọng từng cảnh tại các khoảng lặng. Thiếu `--engine` thì sổ quyền ghi giọng là UNKNOWN và chặn đăng.
    - Nếu ảnh mẫu Kaku (`images/kaku-ref`) chưa có trong `channel/brand/kaku-ref.png` thì lưu vào đó.
 4. Cảnh hoặc đoạn nào thiếu hay hỏng thì báo số cảnh / số đoạn để người dùng làm lại trên trang.
 
@@ -111,11 +127,12 @@ Soạn `metadata.vi.md` **đúng khuôn trong `/kaku-release-review` mục 1**, 
 - 3 phương án tiêu đề (≤ 60 ký tự, tên anime đặt ở đầu).
 - Mô tả: 2 dòng mở đầu hấp dẫn, danh sách chương lấy từ `render/chapters.txt`, danh sách nguồn tham khảo, và dòng "Hình minh họa do AI tạo, không phải hình chính thức. Video phân tích của fan."
 - 10–15 tag và 3 hashtag.
-- Khai báo nội dung AI: tranh anime cách điệu rõ ràng không thật thì **không** cần tick "Altered or synthetic content". Nếu có hình giống người thật hoặc sự kiện thật thì phải tick.
+- Khai báo nội dung AI: tranh anime cách điệu rõ ràng không thật thì **không** cần tick "Altered or synthetic content". Nếu có hình giống người thật hoặc sự kiện thật thì phải tick. `release_check` đưa ra gợi ý và báo LƯU Ý nếu lệch.
+- Có link tiếp thị liên kết hay tài trợ thì thêm dòng `Tiết lộ: …` trong mô tả. Link ngoài dùng `https`, không dùng link rút gọn.
 
 ## 7. Giao video và duyệt lần cuối
 
-- Làm `/kaku-release-review` trước: `python -m tools.release_check videos/<thư-mục>` không còn LỖI.
+- Làm `/kaku-release-review` trước: `python -m tools.release_check videos/<thư-mục> --write-audit`, rồi người dùng điền `audit.md` và ghi `Decision: publish`. Lệnh không còn LỖI mới được đăng.
 - Gửi `render/video.vi.mp4`, `render/thumbnail.png`, 3 file `render/shorts/*.mp4` và `metadata.vi.md` bằng SendUserFile. Nếu file quá lớn, tải lên Google Drive của người dùng.
 - Dùng AskUserQuestion: **Đăng** / **Sửa** (người dùng ghi rõ cần sửa gì).
 - Sau khi người dùng đồng ý:
@@ -124,7 +141,7 @@ Soạn `metadata.vi.md` **đúng khuôn trong `/kaku-release-review` mục 1**, 
   - cập nhật Notion (trang "Cú Kaku anime", cấu trúc trong `docs/tu-dong-hoa.md`):
     - dòng của video trong "Video dài": Trạng thái, Link YouTube, Phút, Chi phí USD, Giờ làm tay;
     - thêm 3 dòng vào "Shorts" (`f057bfe8-e21f-4b2a-8518-87b1b891dd1c`), liên kết tới video gốc.
-  - commit (không commit MP4, vì `assets/` và `render/` đã bị gitignore) rồi push.
+  - commit `rights.csv`, `originality.json`, `audit.md` cùng các file khác (không commit MP4, vì `assets/` và `render/` đã bị gitignore) rồi push.
 - Hướng dẫn đăng video:
   1. App YouTube Studio: tải video lên, dán tiêu đề và mô tả, đặt thumbnail, chọn "Không dành cho trẻ em", hẹn giờ đăng.
   2. YouTube Studio bản web: tải `subs.vi.srt` vào mục Phụ đề.
