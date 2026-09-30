@@ -2,7 +2,7 @@
 
 > Bản chính của lộ trình. Bản xem trên điện thoại: https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f
 > Khi cập nhật file này, cập nhật cả trang đó.
-> Cập nhật lần cuối: 2026-09-29 (mục tiêu YPP trong 1–3 tháng, làm tay trước; Xưởng Kaku; Shorts; lộ trình Notion + n8n; 78 kịch bản; hạn chót YPP 31/01/2027).
+> Cập nhật lần cuối: 2026-09-30 (mục tiêu YPP trong 1–3 tháng, làm tay trước; Xưởng Kaku; Shorts; 78 kịch bản; hạn chót YPP 31/01/2027; tự động hóa bằng agent bắt đầu ngay, P0–P3).
 
 ## Mục tiêu và quyết định đã chốt
 
@@ -10,7 +10,7 @@
 
 - **Cách làm:**
   - **Làm tay trước** để chi phí gần 0: ảnh bằng Gemini app (gói Gemini Plus), giọng bằng Google AI Studio hoặc ElevenLabs, dùng prompt soạn sẵn.
-  - **Tự động hóa sau khi được bật kiếm tiền:** Notion + n8n, xem `docs/tu-dong-hoa.md`.
+  - **Tự động hóa bằng agent Claude Code, bắt đầu ngay:** 2 làn (chữ trên cloud, media trên PC), 7 agent, người giữ 2 cổng (merge kịch bản, tự tải lên). Xem `docs/tu-dong-hoa-agent.md`.
 - **Định dạng:**
   - 3 video dài 15–20 phút mỗi tuần (thứ Ba, thứ Năm, thứ Bảy);
   - 1 Short mỗi ngày, cắt từ video dài.
@@ -36,7 +36,7 @@
 ## Trạng thái
 
 - [x] 30 skill ECC trong repo
-- [x] Công cụ Python (`tools/`), 86 test đạt
+- [x] Công cụ Python (`tools/`), 117 test đạt
 - [x] Skill `/yt-analyzer`, `/yt-research`, `/yt-studio`, `/yt-seedance`
 - [x] `channel/profile.md` bản sơ bộ, nghiên cứu ngách 2026, nhật ký học hỏi
 - [x] 21 dạng video (`channel/formats.md`, thêm S, T, U), 78 chủ đề (`channel/topics.md`)
@@ -47,7 +47,8 @@
 - [x] Bộ prompt làm tay cho cả 78 video (`videos/*/prompts.vi.md`): ảnh, cộng giọng bản Gemini và bản ElevenLabs
 - [x] Trang "Xưởng Kaku" cho video 1 (Ảnh / Giọng / Kiểm tra): https://claude.ai/artifact/JZThW5cMae5U9pbrvRsYSr
 - [x] Công cụ nhập giọng làm tay (tự cắt thành từng cảnh) và công cụ cắt Short dọc
-- [x] Lộ trình tự động hóa Notion + n8n (`docs/tu-dong-hoa.md`)
+- [x] Lộ trình tự động hóa Notion + n8n (`docs/tu-dong-hoa.md`), nay đã được thay
+- [x] Chiến lược tự động hóa bằng agent (`docs/tu-dong-hoa-agent.md`), trang điện thoại: https://claude.ai/code/artifact/7608e62b-19ff-4147-bce4-b6a2a4e15cae
 - [x] Notion "Cú Kaku anime" (riêng tư): https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6
   - bảng Video dài (78 video, có Kanban theo trạng thái và lịch đăng);
   - bảng Shorts;
@@ -60,18 +61,21 @@
 - [ ] Video 2–78 theo lịch (video 31–78 đã có kịch bản, trạng thái "chờ kiểm nguồn")
 - [ ] **Trước 31/01/2027:** nộp đơn YPP ngay khi đủ 1.000 người đăng ký + 4.000 giờ xem (hoặc 10 triệu lượt xem Shorts)
 - [ ] YPP: 1.000 người đăng ký + 4.000 giờ xem (hoặc 10 triệu lượt xem Shorts)
-- [ ] Sau YPP: tự động hóa bằng n8n trong 2–3 tuần, rồi lồng tiếng Anh + Bồ Đào Nha
+- [ ] P0 tự động hóa (tới 15/10): xây nền, chạy thử 2 video (`docs/tu-dong-hoa-agent.md` mục 9)
+- [ ] P1 (16/10–30/11): lên Max 20x, bật làn chữ trước, rồi làn media; người vẫn tự tải lên
+- [ ] P2 (12/2026–01/2027): số liệu và bình luận bằng agent; tải lên qua API nếu kiểm định đạt
+- [ ] P3 (sau YPP): lồng tiếng Anh + Bồ Đào Nha, thử nghiệm A/B
 
 ## Lộ trình 90 ngày (ngày 0 = 06/10/2026)
 
 | Giai đoạn | Thời gian | Việc chính |
 |---|---|---|
-| Chuẩn bị | 29/09–05/10 | Chọn giọng Kaku, tạo ảnh mẫu Kaku, làm ảnh và giọng video 1–2 |
-| Tháng 1 | 06/10–05/11 | Video 1–14, 1 Short/ngày; đo thời gian làm tay thật; tối ưu thumbnail theo CTR |
-| Tháng 2 | 06/11–05/12 | Video 15–27; làm thêm theo chủ đề thắng; bật YPP mở rộng khi đủ 500 người đăng ký |
-| Tháng 3 | 06/12–04/01/2027 | Video 28–39; đạt 1.000 người đăng ký + 4.000 giờ xem rồi nộp đơn YPP |
+| Chuẩn bị | 29/09–05/10 | Chọn giọng Kaku, tạo ảnh mẫu Kaku, làm ảnh và giọng video 1–2; bắt đầu P0 tự động hóa (xây nền) |
+| Tháng 1 | 06/10–05/11 | Video 1–14, 1 Short/ngày; đo thời gian làm tay thật; tối ưu thumbnail theo CTR; P0 xong 15/10 (chạy thử 2 video), từ 16/10 P1 bật làn chữ |
+| Tháng 2 | 06/11–05/12 | Video 15–27; làm thêm theo chủ đề thắng; bật YPP mở rộng khi đủ 500 người đăng ký; P1 bật làn media |
+| Tháng 3 | 06/12–04/01/2027 | Video 28–39; đạt 1.000 người đăng ký + 4.000 giờ xem rồi nộp đơn YPP; P2: số liệu, bình luận |
 | Quý 2 | 05/01–03/04/2027 | Video 40–78; nộp đơn YPP trước hạn chót 31/01/2027; chuẩn bị mùa anime tháng 4 (Kagurabachi, Blue Lock mùa 3, Dược sư tự sự mùa 3 phần 2) |
-| Sau YPP | 2–3 tuần | Tự động hóa (Notion + n8n), rồi lồng tiếng |
+| Sau YPP | từ 02/2027 | P3: lồng tiếng Anh + Bồ Đào Nha, thử nghiệm A/B |
 
 ### Mốc kiểm tra
 
@@ -98,12 +102,14 @@
 | Duyệt video, đăng, trả lời bình luận | 30 phút | 1,5 giờ |
 | Duyệt và đăng Short | 10 phút | khoảng 1 giờ |
 
+Khi tự động hóa chạy đủ 2 làn (P1–P2), phần của người còn khoảng 3,3 giờ/tuần, gom vào 2 buổi thứ Hai và thứ Năm (`docs/tu-dong-hoa-agent.md` mục 5).
+
 ## Ngân sách mỗi video (15–20 phút)
 
-| Khoản | Làm tay (mặc định) | Qua API (sau YPP) |
+| Khoản | Làm tay (mặc định) | Qua API (từ P1, khi đã duyệt hạn mức tháng) |
 |---|---|---|
-| Ảnh (khoảng 90–110 ảnh) | 0, có trong gói Gemini Plus | khoảng 3,0–3,7 USD (0,034/ảnh) |
-| Giọng tiếng Việt | 0, AI Studio miễn phí hoặc gói ElevenLabs của bạn | khoảng 0,15–0,2 USD (Gemini) |
+| Ảnh (khoảng 90–110 ảnh) | 0, có trong gói Gemini Plus | tối đa 2,5 USD (0,034/ảnh; 20–30% cảnh thay bằng thẻ vẽ bằng code) |
+| Giọng tiếng Việt | 0, AI Studio miễn phí hoặc gói ElevenLabs của bạn | 0 với VoiceStudio trên PC; khoảng 0,15–0,2 USD nếu dùng Gemini |
 | Short (3 cái mỗi video) | 0, cắt từ video dài | 0 |
 | TranscriptAPI | 100 credit miễn phí | 0 |
 | Clip Seedance 2.5 (tuỳ chọn, 6 × 5 giây) | 0 nếu dùng credit app Dreamina/CapCut | khoảng 6,9 USD |

@@ -29,7 +29,7 @@ Sau đó mới thực hiện, rồi kết thúc bằng:
 
 Mục tiêu: kênh YouTube tiếng Việt phân tích anime, làm video bằng AI, **đủ điều kiện kiếm tiền (YPP) trong 1–3 tháng**. Video dài 15–20 phút (tối thiểu 15 phút), 3 video/tuần, cộng 1 Short/ngày. Hình AI tự vẽ theo phong cách "Sổ tay Kaku".
 
-**Làm tay trước để chi phí gần 0**: ảnh bằng Gemini app, giọng bằng AI Studio, ElevenLabs hoặc VoiceStudio chạy trên PC của người dùng (`python -m tools.voicestudio`, engine VoxCPM2; không dùng OmniVoice vì giấy phép phi thương mại; xem `docs/voicestudio.md`), dùng prompt soạn sẵn. **Tự động hóa (Notion + n8n) sau khi được bật kiếm tiền**, xem `docs/tu-dong-hoa.md`.
+**Làm tay trước để chi phí gần 0**: ảnh bằng Gemini app, giọng bằng AI Studio, ElevenLabs hoặc VoiceStudio chạy trên PC của người dùng (`python -m tools.voicestudio`, engine VoxCPM2; không dùng OmniVoice vì giấy phép phi thương mại; xem `docs/voicestudio.md`), dùng prompt soạn sẵn. **Tự động hóa bằng agent Claude Code bắt đầu ngay**, theo `docs/tu-dong-hoa-agent.md`: 2 làn (chữ trên cloud, media trên PC), 7 agent, người giữ 2 cổng (merge kịch bản, tự tải lên). Luật báo chi phí trước khi gọi API vẫn giữ tới khi người dùng duyệt hạn mức tháng. Bản cũ Notion + n8n (`docs/tu-dong-hoa.md`) chỉ để tham khảo.
 
 Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả trang xem trên điện thoại https://claude.ai/code/artifact/52493995-899b-4a48-a7b4-440e38690e4f). Trạng thái từng video, lịch, Short và chỉ số tuần: trang Notion riêng tư "Cú Kaku anime" (https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6, qua connector Notion). Các bảng: "Video dài" (data source `80099179-a3b2-4816-8862-0a4d1d3db805`), "Shorts" (`f057bfe8-e21f-4b2a-8518-87b1b891dd1c`), "Chỉ số tuần" (`01432725-d311-4077-8e7f-4dbd8acb5dfd`). Cấu trúc ghi trong `docs/tu-dong-hoa.md`.
 
@@ -44,7 +44,7 @@ Lộ trình và trạng thái: `docs/lo-trinh.md` (khi đổi, cập nhật cả
 - `channel/canon-ledger.md`: sổ khẳng định về anime, tạo tự động từ các `brief.md` bằng `python -m tools.canon build`, không sửa tay.
 - `channel/giong-kaku.json`: giọng Kaku (3 bản mô tả Voice Design, giọng đã chọn, ghi chú đạo diễn, thẻ cho từng công cụ).
 - `videos/<YYYY-MM-DD>-<slug>/`: mỗi video một thư mục gồm `brief.md`, `script.vi.md`, `scenes.json`, `prompts.vi.md` (tạo tự động bằng `python -m tools.prompt_pack`, không sửa tay), `metadata.<lang>.md`, `cost.json`. Hai thư mục `assets/` và `render/` bị gitignore.
-- `docs/huong-dan-lam-tay.md`: các bước làm ảnh và giọng trên điện thoại. `docs/tu-dong-hoa.md`: lộ trình Notion + n8n.
+- `docs/huong-dan-lam-tay.md`: các bước làm ảnh và giọng trên điện thoại. `docs/tu-dong-hoa-agent.md`: chiến lược tự động hóa bằng agent (bản cũ n8n: `docs/tu-dong-hoa.md`).
 - `tools/`: công cụ Python (TranscriptAPI, Gemini TTS/ảnh, VoiceStudio, ffmpeg). Cài bằng `pip install -r tools/requirements.txt`, chạy test bằng `pytest tools/tests`.
 
 ### Quy trình

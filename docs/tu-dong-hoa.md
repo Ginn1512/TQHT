@@ -1,6 +1,8 @@
 # Lộ trình tự động hóa: Notion + n8n
 
-> Nguyên tắc: **làm tay tới khi được bật kiếm tiền**, rồi tự động hóa trong 2–3 tuần. Trong lúc làm tay, mọi thứ được chuẩn bị sẵn để sau này chỉ việc "cắm" vào.
+> **Đã được thay bằng `docs/tu-dong-hoa-agent.md` (30/09/2026):** tự động hóa bằng agent Claude Code, bắt đầu ngay, bỏ VPS và n8n. File này giữ lại để tham khảo, nhất là mục "Cấu trúc Notion" ở cuối.
+>
+> Nguyên tắc cũ: **làm tay tới khi được bật kiếm tiền**, rồi tự động hóa trong 2–3 tuần. Trong lúc làm tay, mọi thứ được chuẩn bị sẵn để sau này chỉ việc "cắm" vào.
 > Bảng điều khiển: trang Notion riêng tư "Cú Kaku anime": https://app.notion.com/p/3ea4a1a7ca3f81ca962ece826fd086f6. Cấu trúc ghi ở mục "Cấu trúc Notion" cuối file.
 
 ## Nguyên tắc
@@ -9,7 +11,8 @@
 - **Một nguồn sự thật cho mỗi loại dữ liệu:**
   - repo git: kịch bản, `scenes.json`, prompt, công cụ;
   - Notion: trạng thái, lịch, link, chỉ số.
-- **Không khóa vào một nhà cung cấp.** Mỗi bước đọc cùng một bộ prompt (`app_images.export`, `app_audio.export`); đổi công cụ chỉ là đổi "adapter".- **Key chỉ nằm trong biến môi trường** trên máy chủ, không bao giờ nằm trong repo hay trong workflow xuất ra.
+- **Không khóa vào một nhà cung cấp.** Mỗi bước đọc cùng một bộ prompt (`app_images.export`, `app_audio.export`); đổi công cụ chỉ là đổi "adapter".
+- **Key chỉ nằm trong biến môi trường** trên máy chủ, không bao giờ nằm trong repo hay trong workflow xuất ra.
 
 ## Giai đoạn 0: bây giờ, 0 USD (chuẩn bị sẵn)
 
@@ -17,7 +20,7 @@
 |---|---|
 | Mọi bước sản xuất đều là lệnh CLI trong `tools/` (prompt, nhập ảnh/giọng, dựng, thumbnail, Short) | Xong |
 | Bộ prompt không phụ thuộc công cụ: ảnh 6 lớp + negative, giọng cho Gemini/ElevenLabs (`prompts.vi.md`) | Xong |
-| Notion: Video dài (30 video), Shorts, Chỉ số tuần; tên trạng thái đúng như workflow sẽ đọc (mục cuối file) | Xong |
+| Notion: Video dài (78 video), Shorts, Chỉ số tuần; tên trạng thái đúng như workflow sẽ đọc (mục cuối file) | Xong |
 | Giọng Kaku: mô tả Voice Design cố định trong `channel/giong-kaku.json`. Khi chọn xong, ghi thêm voice ID (AI Studio hoặc ElevenLabs) | Chờ bạn chọn giọng |
 | Ảnh mẫu Kaku lưu trong `channel/brand/kaku-ref.png` (API ảnh dùng làm ảnh tham chiếu) | Chờ video 1 |
 | Ghi thời gian làm tay và chi phí thật của mỗi video vào bảng Video dài trên Notion | Bắt đầu từ video 1 |
@@ -40,7 +43,7 @@
 
 ### W1. Sản xuất (Notion → video chờ duyệt)
 
-- **Kích hoạt:** Notion Trigger, khi một dòng "Video dài" chuyển sang **Kịch bản đã duyệt**.
+- **Kích hoạt:** Notion Trigger, khi một dòng "Video dài" chuyển sang **Kịch bản đã duyệt**. Notion hiện chưa có trạng thái này; nó nằm trong bộ trạng thái mới ở `docs/tu-dong-hoa-agent.md` mục 7.
 - **Các bước:**
   1. `kaku-worker` chạy `prompt_pack`, rồi `costs estimate`. Nếu chi phí vượt ngân sách tháng thì dừng và báo Telegram.
   2. Ảnh: `images` (API) hoặc chờ ảnh làm tay, tùy cột **Nguồn ảnh**.
@@ -116,16 +119,16 @@ Trước khi chọn công cụ giọng cho API: đọc cùng đoạn thử bằn
 
 Trang riêng tư **"Cú Kaku anime"**. Trên đầu ghi mục tiêu, mốc kiểm tra và luật đổi hướng (giống `docs/lo-trinh.md`). Bên dưới có 3 cơ sở dữ liệu và 1 trang con.
 
-**1. Video dài** (30 dòng, lấy từ `channel/topics.md` và `docs/ke-hoach-noi-dung.md`)
+**1. Video dài** (78 dòng, lấy từ `channel/topics.md` và `docs/ke-hoach-noi-dung.md`)
 
 | Cột | Kiểu | Ghi chú |
 |---|---|---|
 | Tên | Tiêu đề | Tiêu đề làm việc |
-| Số | Số | 1–30 |
+| Số | Số | 1–78 |
 | Anime | Chọn nhiều | |
-| Dạng | Chọn | A–R |
+| Dạng | Chọn | A–U |
 | Ngày đăng | Ngày | Lịch thứ Ba / thứ Năm / thứ Bảy |
-| Trạng thái | Chọn | Kịch bản xong → Đang làm ảnh → Đang làm giọng → Chờ duyệt video → Duyệt đăng → Đã lên lịch → Đã đăng (thêm "Sửa") |
+| Trạng thái | Chọn | Kịch bản xong → Đang làm ảnh → Đang làm giọng → Chờ duyệt video → Duyệt đăng → Đã lên lịch → Đã đăng (thêm "Sửa"). Sẽ đổi sang bộ trạng thái mới ở `docs/tu-dong-hoa-agent.md` mục 7 |
 | Nguồn ảnh / Nguồn giọng | Chọn | Làm tay / API |
 | Thư mục | Văn bản | `videos/<ngày>-<slug>` |
 | Link Xưởng, Link Drive, Link YouTube | URL | |
