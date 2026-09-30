@@ -18,83 +18,83 @@
 | # | Ngày | Video | Anime | Đã kiểm / có nguồn | Chưa kiểm | Sẵn sàng làm giọng |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-06 | `2026-10-06-nen-hunter-x-hunter` | Hunter x Hunter | 0 | 6 | Chưa |
-| 2 | 2026-10-08 | `2026-10-08-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 8 | Chưa |
-| 3 | 2026-10-10 | `2026-10-10-ma-thuat-frieren` | Frieren | 0 | 8 | Chưa |
-| 4 | 2026-10-13 | `2026-10-13-haki-one-piece` | One Piece | 0 | 7 | Chưa |
-| 5 | 2026-10-15 | `2026-10-15-cay-pha-he-hoi-tho-kimetsu` | Kimetsu no Yaiba | 0 | 7 | Chưa |
-| 6 | 2026-10-17 | `2026-10-17-trai-ac-quy-one-piece` | One Piece | 0 | 8 | Chưa |
-| 7 | 2026-10-20 | `2026-10-20-cap-bac-tho-san-solo-leveling` | Solo Leveling | 0 | 7 | Chưa |
-| 8 | 2026-10-22 | `2026-10-22-sharingan-tien-hoa-naruto` | Naruto | 0 | 8 | Chưa |
-| 9 | 2026-10-24 | `2026-10-24-ac-quy-noi-so-chainsaw-man` | Chainsaw Man | 0 | 8 | Chưa |
-| 10 | 2026-10-27 | `2026-10-27-chakra-nen-chu-luc-so-sanh` | Naruto / Hunter x Hunter / Jujutsu Kaisen | 0 | 5 | Chưa |
-| 11 | 2026-10-29 | `2026-10-29-xep-hang-super-saiyan` | Dragon Ball | 0 | 10 | Chưa |
-| 12 | 2026-10-31 | `2026-10-31-nhap-mon-witch-hat-atelier` | Witch Hat Atelier | 0 | 11 | Chưa |
-| 13 | 2026-11-03 | `2026-11-03-khoa-hoc-xoay-steel-ball-run` | JoJo | 0 | 15 | Chưa |
-| 14 | 2026-11-05 | `2026-11-05-ho-so-grimoire-black-clover` | Black Clover | 0 | 13 | Chưa |
-| 15 | 2026-11-07 | `2026-11-07-10-hieu-lam-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 11 | Chưa |
-| 16 | 2026-11-10 | `2026-11-10-neu-ban-song-trong-dandadan` | Dandadan | 0 | 12 | Chưa |
-| 17 | 2026-11-12 | `2026-11-12-bang-chi-so-kaiju-no-8` | Kaiju No. 8 | 0 | 12 | Chưa |
-| 18 | 2026-11-14 | `2026-11-14-shikai-bankai-bleach` | Bleach | 0 | 17 | Chưa |
-| 19 | 2026-11-17 | `2026-11-17-dong-thoi-gian-800-nam-one-piece` | One Piece | 0 | 15 | Chưa |
-| 20 | 2026-11-19 | `2026-11-19-bi-an-luc-dia-den-hunter-x-hunter` | Hunter x Hunter | 0 | 13 | Chưa |
-| 21 | 2026-11-21 | `2026-11-21-phan-tich-tran-tanjiro-rui` | Kimetsu no Yaiba | 0 | 15 | Chưa |
-| 22 | 2026-11-24 | `2026-11-24-cai-cam-attack-on-titan` | Attack on Titan | 0 | 14 | Chưa |
-| 23 | 2026-11-26 | `2026-11-26-10-hieu-lam-naruto` | Naruto | 0 | 14 | Chưa |
-| 24 | 2026-11-28 | `2026-11-28-phong-thoi-gian-tinh-than-dragon-ball` | Dragon Ball | 0 | 13 | Chưa |
-| 25 | 2026-12-01 | `2026-12-01-dong-thoi-gian-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 13 | Chưa |
-| 26 | 2026-12-03 | `2026-12-03-khoa-hoc-that-dr-stone` | Dr. Stone | 0 | 15 | Chưa |
-| 27 | 2026-12-05 | `2026-12-05-nhap-mon-duoc-su-tu-su` | Dược sư tự sự | 0 | 12 | Chưa |
-| 28 | 2026-12-08 | `2026-12-08-lich-su-hamon-stand-jojo` | JoJo | 0 | 14 | Chưa |
-| 29 | 2026-12-10 | `2026-12-10-cay-pha-he-naruto` | Naruto | 0 | 13 | Chưa |
-| 30 | 2026-12-12 | `2026-12-12-so-sanh-ma-thuat-3-the-gioi` | Frieren / Black Clover / Witch Hat Atelier | 0 | 5 | Chưa |
-| 31 | 2026-12-15 | `2026-12-15-vo-ha-han-gojo` | Jujutsu Kaisen | 6 | 6 | Chưa |
-| 32 | 2026-12-17 | `2026-12-17-luat-du-hanh-tokyo-revengers` | Tokyo Revengers | 4 | 7 | Chưa |
-| 33 | 2026-12-19 | `2026-12-19-xep-hang-cac-vi-than-dragon-ball` | Dragon Ball | 6 | 10 | Chưa |
-| 34 | 2026-12-22 | `2026-12-22-cay-ghep-edgerunners` | Cyberpunk Edgerunners | 4 | 3 | Chưa |
-| 35 | 2026-12-24 | `2026-12-24-momotaro-that-tougen-anki` | Tougen Anki | 7 | 9 | Chưa |
-| 36 | 2026-12-26 | `2026-12-26-tran-ichigo-byakuya` | Bleach | 5 | 4 | Chưa |
-| 37 | 2026-12-29 | `2026-12-29-ho-so-kagune-tokyo-ghoul` | Tokyo Ghoul | 4 | 6 | Chưa |
-| 38 | 2026-12-31 | `2026-12-31-lich-su-cac-he-pokemon` | Pokémon | 7 | 5 | Chưa |
-| 39 | 2027-01-02 | `2027-01-02-phien-toa-eren` | Attack on Titan | 5 | 6 | Chưa |
-| 40 | 2027-01-05 | `2027-01-05-on-tap-sakamoto-days` | Sakamoto Days | 2 | 7 | Chưa |
-| 41 | 2027-01-07 | `2027-01-07-bang-chi-so-shangri-la-frontier` | Shangri-La Frontier | 7 | 3 | Chưa |
-| 42 | 2027-01-09 | `2027-01-09-on-tap-mashle` | Mashle | 3 | 5 | Chưa |
-| 43 | 2027-01-12 | `2027-01-12-rimuru-tien-hoa-tensura` | Tensura | 2 | 7 | Chưa |
-| 44 | 2027-01-14 | `2027-01-14-cay-pha-he-one-for-all` | My Hero Academia | 2 | 6 | Chưa |
-| 45 | 2027-01-16 | `2027-01-16-khoa-hoc-conan` | Thám tử lừng danh Conan | 3 | 5 | Chưa |
-| 46 | 2027-01-19 | `2027-01-19-luat-tu-diet-hoi-du` | Jujutsu Kaisen | 3 | 3 | Chưa |
-| 47 | 2027-01-21 | `2027-01-21-neu-ban-thi-jcc-sakamoto-days` | Sakamoto Days | 2 | 2 | Chưa |
-| 48 | 2027-01-23 | `2027-01-23-nhap-mon-gachiakuta` | Gachiakuta | 6 | 5 | Chưa |
-| 49 | 2027-01-26 | `2027-01-26-so-sanh-du-hanh-thoi-gian` | Tokyo Revengers / Steins;Gate / Re:Zero | 7 | 4 | Chưa |
-| 50 | 2027-01-28 | `2027-01-28-dong-thoi-gian-kimetsu` | Kimetsu no Yaiba | 6 | 6 | Chưa |
-| 51 | 2027-01-30 | `2027-01-30-gia-kim-thuat-fullmetal` | Fullmetal Alchemist | 7 | 6 | Chưa |
-| 52 | 2027-02-02 | `2027-02-02-tan-thuy-hoang-that-kingdom` | Kingdom | 14 | 5 | Chưa |
-| 53 | 2027-02-04 | `2027-02-04-bi-an-ac-quy-cua-may` | Chainsaw Man | 7 | 7 | Chưa |
-| 54 | 2027-02-06 | `2027-02-06-mob-psycho-100-phan-tram` | Mob Psycho 100 | 3 | 5 | Chưa |
-| 55 | 2027-02-09 | `2027-02-09-10-hieu-lam-one-piece` | One Piece | 8 | 6 | Chưa |
-| 56 | 2027-02-11 | `2027-02-11-ho-so-quai-vat-dungeon-meshi` | Dungeon Meshi | 8 | 0 | Có |
-| 57 | 2027-02-13 | `2027-02-13-tran-naruto-pain` | Naruto | 7 | 4 | Chưa |
-| 58 | 2027-02-16 | `2027-02-16-phien-toa-lelouch` | Code Geass | 6 | 6 | Chưa |
-| 59 | 2027-02-18 | `2027-02-18-cai-cam-50-chuong-one-piece` | One Piece | 10 | 6 | Chưa |
-| 60 | 2027-02-20 | `2027-02-20-xep-hang-anh-hung-one-punch-man` | One Punch Man | 6 | 4 | Chưa |
-| 61 | 2027-02-23 | `2027-02-23-lich-su-luat-bai-yu-gi-oh` | Yu-Gi-Oh! | 8 | 5 | Chưa |
-| 62 | 2027-02-25 | `2027-02-25-ac-ma-hop-the-asta` | Black Clover | 6 | 5 | Chưa |
-| 63 | 2027-02-27 | `2027-02-27-luat-death-note` | Death Note | 4 | 4 | Chưa |
-| 64 | 2027-03-02 | `2027-03-02-khoa-hoc-doraemon` | Doraemon | 9 | 3 | Chưa |
-| 65 | 2027-03-04 | `2027-03-04-cay-pha-he-joestar` | JoJo | 5 | 5 | Chưa |
-| 66 | 2027-03-06 | `2027-03-06-viking-that-vinland-saga` | Vinland Saga | 10 | 5 | Chưa |
-| 67 | 2027-03-09 | `2027-03-09-tao-hells-paradise` | Hell's Paradise | 8 | 2 | Chưa |
-| 68 | 2027-03-11 | `2027-03-11-neu-ban-o-grace-field` | Miền đất hứa | 2 | 4 | Chưa |
-| 69 | 2027-03-13 | `2027-03-13-dong-thoi-gian-attack-on-titan` | Attack on Titan | 5 | 4 | Chưa |
-| 70 | 2027-03-16 | `2027-03-16-cai-cam-himmel-frieren` | Frieren | 5 | 2 | Chưa |
-| 71 | 2027-03-18 | `2027-03-18-ho-so-vi-thu-naruto` | Naruto | 3 | 4 | Chưa |
-| 72 | 2027-03-20 | `2027-03-20-10-hieu-lam-dragon-ball` | Dragon Ball | 8 | 6 | Chưa |
-| 73 | 2027-03-23 | `2027-03-23-gear-2-den-gear-5` | One Piece | 4 | 4 | Chưa |
-| 74 | 2027-03-25 | `2027-03-25-tran-netero-meruem` | Hunter x Hunter | 3 | 3 | Chưa |
-| 75 | 2027-03-27 | `2027-03-27-xep-hang-vu-khi-blue-lock` | Blue Lock | 2 | 2 | Chưa |
-| 76 | 2027-03-30 | `2027-03-30-nhap-mon-kagurabachi` | Kagurabachi | 5 | 1 | Chưa |
-| 77 | 2027-04-01 | `2027-04-01-bi-an-than-the-jinshi` | Dược sư tự sự | 3 | 3 | Chưa |
-| 78 | 2027-04-03 | `2027-04-03-ba-he-kiem-thuat` | Kimetsu no Yaiba / One Piece / Kagurabachi | 5 | 3 | Chưa |
+| 2 | 2026-10-06 | `2026-10-06-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 8 | Chưa |
+| 3 | 2026-10-06 | `2026-10-06-ma-thuat-frieren` | Frieren | 0 | 8 | Chưa |
+| 4 | 2026-10-07 | `2026-10-07-haki-one-piece` | One Piece | 0 | 7 | Chưa |
+| 5 | 2026-10-07 | `2026-10-07-cay-pha-he-hoi-tho-kimetsu` | Kimetsu no Yaiba | 0 | 7 | Chưa |
+| 6 | 2026-10-07 | `2026-10-07-trai-ac-quy-one-piece` | One Piece | 0 | 8 | Chưa |
+| 7 | 2026-10-08 | `2026-10-08-cap-bac-tho-san-solo-leveling` | Solo Leveling | 0 | 7 | Chưa |
+| 8 | 2026-10-08 | `2026-10-08-sharingan-tien-hoa-naruto` | Naruto | 0 | 8 | Chưa |
+| 9 | 2026-10-08 | `2026-10-08-ac-quy-noi-so-chainsaw-man` | Chainsaw Man | 0 | 8 | Chưa |
+| 10 | 2026-10-09 | `2026-10-09-chakra-nen-chu-luc-so-sanh` | Naruto / Hunter x Hunter / Jujutsu Kaisen | 0 | 5 | Chưa |
+| 11 | 2026-10-09 | `2026-10-09-xep-hang-super-saiyan` | Dragon Ball | 0 | 10 | Chưa |
+| 12 | 2026-10-09 | `2026-10-09-nhap-mon-witch-hat-atelier` | Witch Hat Atelier | 0 | 11 | Chưa |
+| 13 | 2026-10-10 | `2026-10-10-khoa-hoc-xoay-steel-ball-run` | JoJo | 0 | 15 | Chưa |
+| 14 | 2026-10-10 | `2026-10-10-ho-so-grimoire-black-clover` | Black Clover | 0 | 13 | Chưa |
+| 15 | 2026-10-10 | `2026-10-10-10-hieu-lam-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 11 | Chưa |
+| 16 | 2026-10-11 | `2026-10-11-neu-ban-song-trong-dandadan` | Dandadan | 0 | 12 | Chưa |
+| 17 | 2026-10-11 | `2026-10-11-bang-chi-so-kaiju-no-8` | Kaiju No. 8 | 0 | 12 | Chưa |
+| 18 | 2026-10-11 | `2026-10-11-shikai-bankai-bleach` | Bleach | 0 | 17 | Chưa |
+| 19 | 2026-10-12 | `2026-10-12-dong-thoi-gian-800-nam-one-piece` | One Piece | 0 | 15 | Chưa |
+| 20 | 2026-10-12 | `2026-10-12-bi-an-luc-dia-den-hunter-x-hunter` | Hunter x Hunter | 0 | 13 | Chưa |
+| 21 | 2026-10-12 | `2026-10-12-phan-tich-tran-tanjiro-rui` | Kimetsu no Yaiba | 0 | 15 | Chưa |
+| 22 | 2026-10-13 | `2026-10-13-cai-cam-attack-on-titan` | Attack on Titan | 0 | 14 | Chưa |
+| 23 | 2026-10-13 | `2026-10-13-10-hieu-lam-naruto` | Naruto | 0 | 14 | Chưa |
+| 24 | 2026-10-13 | `2026-10-13-phong-thoi-gian-tinh-than-dragon-ball` | Dragon Ball | 0 | 13 | Chưa |
+| 25 | 2026-10-14 | `2026-10-14-dong-thoi-gian-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 13 | Chưa |
+| 26 | 2026-10-14 | `2026-10-14-khoa-hoc-that-dr-stone` | Dr. Stone | 0 | 15 | Chưa |
+| 27 | 2026-10-14 | `2026-10-14-nhap-mon-duoc-su-tu-su` | Dược sư tự sự | 0 | 12 | Chưa |
+| 28 | 2026-10-15 | `2026-10-15-lich-su-hamon-stand-jojo` | JoJo | 0 | 14 | Chưa |
+| 29 | 2026-10-15 | `2026-10-15-cay-pha-he-naruto` | Naruto | 0 | 13 | Chưa |
+| 30 | 2026-10-15 | `2026-10-15-so-sanh-ma-thuat-3-the-gioi` | Frieren / Black Clover / Witch Hat Atelier | 0 | 5 | Chưa |
+| 31 | 2026-10-16 | `2026-10-16-vo-ha-han-gojo` | Jujutsu Kaisen | 6 | 6 | Chưa |
+| 32 | 2026-10-16 | `2026-10-16-luat-du-hanh-tokyo-revengers` | Tokyo Revengers | 4 | 7 | Chưa |
+| 33 | 2026-10-16 | `2026-10-16-xep-hang-cac-vi-than-dragon-ball` | Dragon Ball | 6 | 10 | Chưa |
+| 34 | 2026-10-17 | `2026-10-17-cay-ghep-edgerunners` | Cyberpunk Edgerunners | 4 | 3 | Chưa |
+| 35 | 2026-10-17 | `2026-10-17-momotaro-that-tougen-anki` | Tougen Anki | 7 | 9 | Chưa |
+| 36 | 2026-10-17 | `2026-10-17-tran-ichigo-byakuya` | Bleach | 5 | 4 | Chưa |
+| 37 | 2026-10-18 | `2026-10-18-ho-so-kagune-tokyo-ghoul` | Tokyo Ghoul | 4 | 6 | Chưa |
+| 38 | 2026-10-18 | `2026-10-18-lich-su-cac-he-pokemon` | Pokémon | 7 | 5 | Chưa |
+| 39 | 2026-10-18 | `2026-10-18-phien-toa-eren` | Attack on Titan | 5 | 6 | Chưa |
+| 40 | 2026-10-19 | `2026-10-19-on-tap-sakamoto-days` | Sakamoto Days | 2 | 7 | Chưa |
+| 41 | 2026-10-19 | `2026-10-19-bang-chi-so-shangri-la-frontier` | Shangri-La Frontier | 7 | 3 | Chưa |
+| 42 | 2026-10-19 | `2026-10-19-on-tap-mashle` | Mashle | 3 | 5 | Chưa |
+| 43 | 2026-10-20 | `2026-10-20-rimuru-tien-hoa-tensura` | Tensura | 2 | 7 | Chưa |
+| 44 | 2026-10-20 | `2026-10-20-cay-pha-he-one-for-all` | My Hero Academia | 2 | 6 | Chưa |
+| 45 | 2026-10-20 | `2026-10-20-khoa-hoc-conan` | Thám tử lừng danh Conan | 3 | 5 | Chưa |
+| 46 | 2026-10-21 | `2026-10-21-luat-tu-diet-hoi-du` | Jujutsu Kaisen | 3 | 3 | Chưa |
+| 47 | 2026-10-21 | `2026-10-21-neu-ban-thi-jcc-sakamoto-days` | Sakamoto Days | 2 | 2 | Chưa |
+| 48 | 2026-10-21 | `2026-10-21-nhap-mon-gachiakuta` | Gachiakuta | 6 | 5 | Chưa |
+| 49 | 2026-10-22 | `2026-10-22-so-sanh-du-hanh-thoi-gian` | Tokyo Revengers / Steins;Gate / Re:Zero | 7 | 4 | Chưa |
+| 50 | 2026-10-22 | `2026-10-22-dong-thoi-gian-kimetsu` | Kimetsu no Yaiba | 6 | 6 | Chưa |
+| 51 | 2026-10-22 | `2026-10-22-gia-kim-thuat-fullmetal` | Fullmetal Alchemist | 7 | 6 | Chưa |
+| 52 | 2026-10-23 | `2026-10-23-tan-thuy-hoang-that-kingdom` | Kingdom | 14 | 5 | Chưa |
+| 53 | 2026-10-23 | `2026-10-23-bi-an-ac-quy-cua-may` | Chainsaw Man | 7 | 7 | Chưa |
+| 54 | 2026-10-23 | `2026-10-23-mob-psycho-100-phan-tram` | Mob Psycho 100 | 3 | 5 | Chưa |
+| 55 | 2026-10-24 | `2026-10-24-10-hieu-lam-one-piece` | One Piece | 8 | 6 | Chưa |
+| 56 | 2026-10-24 | `2026-10-24-ho-so-quai-vat-dungeon-meshi` | Dungeon Meshi | 8 | 0 | Có |
+| 57 | 2026-10-24 | `2026-10-24-tran-naruto-pain` | Naruto | 7 | 4 | Chưa |
+| 58 | 2026-10-25 | `2026-10-25-phien-toa-lelouch` | Code Geass | 6 | 6 | Chưa |
+| 59 | 2026-10-25 | `2026-10-25-cai-cam-50-chuong-one-piece` | One Piece | 10 | 6 | Chưa |
+| 60 | 2026-10-25 | `2026-10-25-xep-hang-anh-hung-one-punch-man` | One Punch Man | 6 | 4 | Chưa |
+| 61 | 2026-10-26 | `2026-10-26-lich-su-luat-bai-yu-gi-oh` | Yu-Gi-Oh! | 8 | 5 | Chưa |
+| 62 | 2026-10-26 | `2026-10-26-ac-ma-hop-the-asta` | Black Clover | 6 | 5 | Chưa |
+| 63 | 2026-10-26 | `2026-10-26-luat-death-note` | Death Note | 4 | 4 | Chưa |
+| 64 | 2026-10-27 | `2026-10-27-khoa-hoc-doraemon` | Doraemon | 9 | 3 | Chưa |
+| 65 | 2026-10-27 | `2026-10-27-cay-pha-he-joestar` | JoJo | 5 | 5 | Chưa |
+| 66 | 2026-10-27 | `2026-10-27-viking-that-vinland-saga` | Vinland Saga | 10 | 5 | Chưa |
+| 67 | 2026-10-28 | `2026-10-28-tao-hells-paradise` | Hell's Paradise | 8 | 2 | Chưa |
+| 68 | 2026-10-28 | `2026-10-28-neu-ban-o-grace-field` | Miền đất hứa | 2 | 4 | Chưa |
+| 69 | 2026-10-28 | `2026-10-28-dong-thoi-gian-attack-on-titan` | Attack on Titan | 5 | 4 | Chưa |
+| 70 | 2026-10-29 | `2026-10-29-cai-cam-himmel-frieren` | Frieren | 5 | 2 | Chưa |
+| 71 | 2026-10-29 | `2026-10-29-ho-so-vi-thu-naruto` | Naruto | 3 | 4 | Chưa |
+| 72 | 2026-10-29 | `2026-10-29-10-hieu-lam-dragon-ball` | Dragon Ball | 8 | 6 | Chưa |
+| 73 | 2026-10-30 | `2026-10-30-gear-2-den-gear-5` | One Piece | 4 | 4 | Chưa |
+| 74 | 2026-10-30 | `2026-10-30-tran-netero-meruem` | Hunter x Hunter | 3 | 3 | Chưa |
+| 75 | 2026-10-30 | `2026-10-30-xep-hang-vu-khi-blue-lock` | Blue Lock | 2 | 2 | Chưa |
+| 76 | 2026-10-31 | `2026-10-31-nhap-mon-kagurabachi` | Kagurabachi | 5 | 1 | Chưa |
+| 77 | 2026-10-31 | `2026-10-31-bi-an-than-the-jinshi` | Dược sư tự sự | 3 | 3 | Chưa |
+| 78 | 2026-10-31 | `2026-10-31-ba-he-kiem-thuat` | Kimetsu no Yaiba / One Piece / Kagurabachi | 5 | 3 | Chưa |
 
 ## Chưa kiểm, gom theo bộ
 
