@@ -6,7 +6,7 @@
 
 **s01** — Cảnh báo: video có spoiler Sakamoto Days tới hết anime mùa một, tập hai mươi hai. Kaku không nói gì về phần manga mà mùa hai sẽ chiếu.
 
-**s02** — Mùa hai của Sakamoto Days lên sóng trong tháng một này. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết, đây là mười lăm phút bạn cần.
+**s02** — Mùa hai của Sakamoto Days lên sóng vào tháng một năm 2027. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết, đây là mười lăm phút bạn cần.
 
 **s03** — Kaku sẽ nhắc lại: mùa một đã xảy ra những gì, luật sức mạnh nào cần nhớ, các phe đang đứng ở đâu, và những nút thắt còn mở.
 
@@ -166,7 +166,7 @@
 
 **s71** — Giờ là ba điều Kaku gợi ý bạn để ý khi xem mùa hai.
 
-**s72** — Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa này sẽ có những món vũ khí bất ngờ nhất từ trước tới nay.
+**s72** — Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa hai sẽ có những món vũ khí bất ngờ nhất từ trước tới nay.
 
 **s73** — Một: để ý những đồ vật trong khung hình. Trong mỗi trận đấu, gần như món đồ nào xuất hiện cũng sẽ được dùng. Thử đoán trước xem món nào sẽ thành vũ khí.
 

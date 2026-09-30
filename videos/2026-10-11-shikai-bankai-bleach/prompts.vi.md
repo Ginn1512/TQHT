@@ -25,7 +25,7 @@ text, letters, caption, logo, watermark, signature, photorealistic, photo, 3D re
 
 ### s01 · Mở đầu
 
-Lời: Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối vừa phát xong năm 2026.…
+Lời: Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối phát năm 2026. Nếu bạn…
 
 ```text
 Wide 16:9 landscape cinematic frame. a lone katana stuck in the ground on a hill under a pale moon, wind blowing through tall grass. wide establishing shot with deep perspective. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -57,7 +57,7 @@ Wide 16:9 landscape cinematic frame. the owl mascot drawing a staircase with six
 
 ### s05
 
-Lời: Bộ anime Huyết chiến ngàn năm vừa khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhì…
+Lời: Bộ anime Huyết chiến ngàn năm khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lạ…
 
 ```text
 Wide 16:9 landscape cinematic frame. a final film reel being placed into a box beside a sheathed katana, soft evening light. cinematic medium-wide shot, rule-of-thirds composition. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -746,12 +746,12 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu / Tử thần và thanh kiếm
 
-Khoảng 120 giây · cảnh s01–s10 · 1554 ký tự
+Khoảng 119 giây · cảnh s01–s10 · 1541 ký tự
 
 **Gemini**
 
 ```text
-Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối vừa phát xong năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé.
+Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối phát năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé.
 
 <short pause> Một thanh kiếm Nhật bình thường. Không phát sáng, không có hoa văn đặc biệt. <short pause> Nhưng nếu bạn gọi đúng tên nó, nó sẽ trả lời.
 
@@ -759,7 +759,7 @@ Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn n�
 
 <short pause> Mở sổ ra nào! <laugh> Mình là Kaku. Hôm nay Kaku vẽ một bậc thang sáu nấc, từ thanh kiếm không tên cho tới Bankai. Mỗi nấc có ba dòng: điều kiện, sức mạnh, và cái giá.
 
-<short pause> Bộ anime Huyết chiến ngàn năm vừa khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm.
+<short pause> Bộ anime Huyết chiến ngàn năm khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm.
 
 <short pause> Trước khi leo thang, cần biết tử thần là ai. Trong Bleach, tử thần là những linh hồn chiến binh, dẫn dắt linh hồn người chết sang thế giới bên kia và chiến đấu với ác linh.
 
@@ -775,7 +775,7 @@ Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn n�
 **ElevenLabs**
 
 ```text
-Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối vừa phát xong năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé.
+Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối phát năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé.
 
 [pause] Một thanh kiếm Nhật bình thường. Không phát sáng, không có hoa văn đặc biệt. [pause] Nhưng nếu bạn gọi đúng tên nó, nó sẽ trả lời.
 
@@ -783,7 +783,7 @@ Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn n�
 
 [pause] Mở sổ ra nào! [chuckles] Mình là Kaku. Hôm nay Kaku vẽ một bậc thang sáu nấc, từ thanh kiếm không tên cho tới Bankai. Mỗi nấc có ba dòng: điều kiện, sức mạnh, và cái giá.
 
-[pause] Bộ anime Huyết chiến ngàn năm vừa khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm.
+[pause] Bộ anime Huyết chiến ngàn năm khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm.
 
 [pause] Trước khi leo thang, cần biết tử thần là ai. Trong Bleach, tử thần là những linh hồn chiến binh, dẫn dắt linh hồn người chết sang thế giới bên kia và chiến đấu với ác linh.
 

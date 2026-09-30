@@ -25,8 +25,8 @@
 
 1. Mob Psycho 100: Vì sao sức mạnh đo bằng phần trăm cảm xúc?
 2. Mob Psycho 100: Cậu bé mạnh nhất chỉ muốn được bình thường
-3. Từ 1% đến 100%: bài học cảm xúc cho năm mới
+3. Từ 1% đến 100%: bài học cảm xúc
 
 ## Ý tưởng thumbnail
 
-Bóng một cậu bé đứng giữa phố, phía trên là bộ đếm "100%" phát sáng nhiều màu, bao lì xì đỏ ở góc; Kaku quàng khăn Tết. Chữ: "100% CẢM XÚC" / dòng vàng "SỨC MẠNH LÀ GÌ?"
+Bóng một cậu bé đứng giữa phố, phía trên là bộ đếm "100%" phát sáng nhiều màu, Kaku cầm cuốn sổ ở góc. Chữ: "100% CẢM XÚC" / dòng vàng "SỨC MẠNH LÀ GÌ?"

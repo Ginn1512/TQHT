@@ -1094,7 +1094,7 @@ Thần chết cũng bị ràng buộc bởi luật. Luật quan trọng nhất: 
 
 ### c07 · Bảng luật và cách phá / Góc nhìn của Kaku / Kết
 
-Khoảng 135 giây · cảnh s72–s83 · 1761 ký tự
+Khoảng 136 giây · cảnh s72–s83 · 1762 ký tự
 
 **Gemini**
 
@@ -1119,7 +1119,7 @@ Tổng kết. Luật tên và khuôn mặt: bị phá bằng đôi mắt thần 
 
 <short pause> Bạn thích nước cờ nào nhất trong Death Note? Mảnh giấy trong đồng hồ, tự quên mình là Kira, hay cuốn sổ giả của Near? Viết vào bình luận nhé.
 
-<short pause> Video tiếp theo, Kaku chuyển sang một cuốn sổ vui hơn nhiều: Doraemon, và câu hỏi bảo bối nào có thể làm được ngoài đời thật, đúng dịp phim Doraemon mới ra mắt.
+<short pause> Video tiếp theo, Kaku chuyển sang một cuốn sổ vui hơn nhiều: Doraemon, và câu hỏi bảo bối nào có thể làm được ngoài đời thật, trước khi phim Doraemon mới ra rạp.
 
 <short pause> Nếu bạn thích những video mổ xẻ luật chơi như thế này, hãy đăng ký kênh. Và nếu một ngày nhặt được cuốn sổ đen nào, hãy để nó yên dưới đất. Kaku gấp sổ đây, hẹn gặp lại!
 ```
@@ -1147,7 +1147,7 @@ Tổng kết. Luật tên và khuôn mặt: bị phá bằng đôi mắt thần 
 
 [pause] Bạn thích nước cờ nào nhất trong Death Note? Mảnh giấy trong đồng hồ, tự quên mình là Kira, hay cuốn sổ giả của Near? Viết vào bình luận nhé.
 
-[pause] Video tiếp theo, Kaku chuyển sang một cuốn sổ vui hơn nhiều: Doraemon, và câu hỏi bảo bối nào có thể làm được ngoài đời thật, đúng dịp phim Doraemon mới ra mắt.
+[pause] Video tiếp theo, Kaku chuyển sang một cuốn sổ vui hơn nhiều: Doraemon, và câu hỏi bảo bối nào có thể làm được ngoài đời thật, trước khi phim Doraemon mới ra rạp.
 
 [pause] Nếu bạn thích những video mổ xẻ luật chơi như thế này, hãy đăng ký kênh. Và nếu một ngày nhặt được cuốn sổ đen nào, hãy để nó yên dưới đất. Kaku gấp sổ đây, hẹn gặp lại!
 ```

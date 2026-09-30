@@ -665,10 +665,10 @@ Wide 16:9 landscape cinematic frame. a tall stack of thirty-nine small notebooks
 
 ### s81
 
-Lời: Video này khép lại chín mươi ngày đầu của kênh. Video tiếp theo mở đầu năm mới bằng một món quà cho fan Sakam…
+Lời: Video tiếp theo là một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai…
 
 ```text
-Wide 16:9 landscape cinematic frame. a calendar page turning to a new year with a small countdown circle drawn on it, close-up, fresh morning light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a desk calendar with a small countdown circle drawn on it, close-up, fresh morning light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s82 · **Kaku** (đính kèm ảnh mẫu)
@@ -1086,7 +1086,7 @@ Công tố tổng kết. Bị cáo đã giết phần lớn nhân loại, trong 
 
 ### c08 · Góc nhìn của Kaku: vì sao tác giả không tuyên án / Bồi thẩm bỏ phiếu / Kết
 
-Khoảng 141 giây · cảnh s69–s82 · 1828 ký tự
+Khoảng 136 giây · cảnh s69–s82 · 1763 ký tự
 
 **Gemini**
 
@@ -1115,7 +1115,7 @@ Cái kết của Attack on Titan ra mắt năm 2021 ở manga và năm 2023 ở 
 
 <short pause> Nếu bạn đã đi cùng Kaku từ video đầu tiên về Nen, cảm ơn bạn rất nhiều. Ba mươi chín cuốn sổ đã mở, và Kaku còn rất nhiều cuốn nữa.
 
-<short pause> Video này khép lại chín mươi ngày đầu của kênh. Video tiếp theo mở đầu năm mới bằng một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng.
+<short pause> Video tiếp theo là một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng.
 
 <short pause> <laugh> Nếu bạn thích dạng phiên tòa này và muốn Kaku xử thêm nhân vật khác, hãy đăng ký kênh và đề cử bị cáo tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!
 ```
@@ -1147,7 +1147,7 @@ Cái kết của Attack on Titan ra mắt năm 2021 ở manga và năm 2023 ở 
 
 [pause] Nếu bạn đã đi cùng Kaku từ video đầu tiên về Nen, cảm ơn bạn rất nhiều. Ba mươi chín cuốn sổ đã mở, và Kaku còn rất nhiều cuốn nữa.
 
-[pause] Video này khép lại chín mươi ngày đầu của kênh. Video tiếp theo mở đầu năm mới bằng một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng.
+[pause] Video tiếp theo là một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng.
 
 [pause] [chuckles] Nếu bạn thích dạng phiên tòa này và muốn Kaku xử thêm nhân vật khác, hãy đăng ký kênh và đề cử bị cáo tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!
 ```

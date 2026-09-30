@@ -9,19 +9,19 @@
     {
       "id": "s01",
       "narration": {
-        "vi": "Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn định xem trong kỳ nghỉ Tết, hãy lưu video lại, xem xong rồi quay lại với Kaku."
+        "vi": "Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn chưa xem hết, hãy lưu video lại, xem xong rồi quay lại với Kaku."
       },
-      "image_prompt": "a cozy living room decorated for the lunar new year with a small TV and a closed notebook on the table, close-up, warm festive light",
+      "image_prompt": "a cozy living room with a small TV and a closed notebook on the table, close-up, warm evening light",
       "chapter": "Mở đầu",
       "on_screen_text": "Spoiler tới hết anime"
     },
     {
       "id": "s02",
       "narration": {
-        "vi": "Chúc mừng năm mới! Năm mới người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình."
+        "vi": "Người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình."
       },
-      "image_prompt": "red lucky envelopes and a plate of candied fruit on a wooden table beside a small handwritten card, close-up, warm festive light",
-      "on_screen_text": "Chúc mừng năm mới"
+      "image_prompt": "a few greeting cards and a cup of tea on a wooden table beside a small handwritten card, close-up, warm soft light",
+      "on_screen_text": "Sống thật với cảm xúc"
     },
     {
       "id": "s03",
@@ -49,9 +49,9 @@
     {
       "id": "s06",
       "narration": {
-        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay, ngày đầu năm, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu."
+        "vi": "Mở sổ ra nào! Mình là Kaku. Hôm nay, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu."
       },
-      "image_prompt": "the owl mascot wearing a tiny festive scarf, holding a paintbrush over a blank portrait canvas",
+      "image_prompt": "the owl mascot holding a paintbrush over a blank portrait canvas",
       "use_mascot": true
     },
     {
@@ -270,9 +270,9 @@
     {
       "id": "s34",
       "narration": {
-        "vi": "Đây là lý do Kaku chọn Mob cho video Tết. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì."
+        "vi": "Đây là lý do Kaku chọn Mob cho video này. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì."
       },
-      "image_prompt": "a small heart-shaped lantern glowing among festive red decorations, close-up, warm festive light"
+      "image_prompt": "a small heart-shaped lantern glowing on a windowsill, close-up, warm soft light"
     },
     {
       "id": "s35",
@@ -577,17 +577,17 @@
     {
       "id": "s73",
       "narration": {
-        "vi": "Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?"
+        "vi": "Vậy Mob Psycho 100 muốn nói gì với chúng ta?"
       },
-      "image_prompt": "a small notebook open to a blank page titled with a new year's date, a pen beside it, close-up, soft morning light",
-      "chapter": "Bài học cho năm mới"
+      "image_prompt": "a small notebook open to a blank page, a pen beside it, close-up, soft morning light",
+      "chapter": "Bài học từ Mob"
     },
     {
       "id": "s74",
       "narration": {
         "vi": "Một: cảm xúc không phải là điểm yếu. Giận, buồn, sợ, vui, tất cả đều là một phần của bạn. Khóa chúng lại không làm bạn mạnh hơn."
       },
-      "image_prompt": "a set of colorful paper lanterns hanging in a row, each a different color, wide shot, warm festive light",
+      "image_prompt": "a set of colorful paper lanterns hanging in a row, each a different color, wide shot, warm evening light",
       "on_screen_text": "1. Cảm xúc không phải điểm yếu"
     },
     {
@@ -603,7 +603,7 @@
       "narration": {
         "vi": "Ba: hãy tìm những người như Reigen và câu lạc bộ cơ bắp. Những người không cần bạn mạnh, chỉ cần bạn là chính mình."
       },
-      "image_prompt": "a family and friends gathered around a festive table sharing food and laughing, wide shot, warm lantern light",
+      "image_prompt": "a family and friends gathered around a dinner table sharing food and laughing, wide shot, warm lantern light",
       "on_screen_text": "3. Tìm người bên cạnh"
     },
     {
@@ -617,9 +617,9 @@
     {
       "id": "s78",
       "narration": {
-        "vi": "Kaku đề nghị một thử thách nhỏ cho năm mới: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm."
+        "vi": "Kaku đề nghị một thử thách nhỏ: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm."
       },
-      "image_prompt": "the owl mascot handing a small red envelope with a heart drawn on it toward the viewer",
+      "image_prompt": "the owl mascot handing a small folded note with a heart drawn on it toward the viewer",
       "use_mascot": true
     },
     {
@@ -641,15 +641,15 @@
     {
       "id": "s81",
       "narration": {
-        "vi": "Nếu năm nay bạn chỉ xem một bộ anime cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp."
+        "vi": "Nếu chỉ chọn một bộ anime để xem cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp."
       },
-      "image_prompt": "a family sitting together on a couch under a blanket watching TV with snacks and tea, back view, wide shot, cozy festive light",
+      "image_prompt": "a family sitting together on a couch under a blanket watching TV with snacks and tea, back view, wide shot, cozy warm light",
       "chapter": "Kết"
     },
     {
       "id": "s82",
       "narration": {
-        "vi": "Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, đúng lúc bản làm lại chuẩn bị ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin."
+        "vi": "Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, trước khi bản làm lại ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin."
       },
       "image_prompt": "a small straw-colored treasure map with ten red X marks drawn across it, close-up, warm adventurous light",
       "on_screen_text": "Tiếp theo: 10 hiểu lầm One Piece"
@@ -657,9 +657,9 @@
     {
       "id": "s83",
       "narration": {
-        "vi": "Kaku chúc bạn một năm mới thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn cả năm nhé. Kaku gấp sổ đây, hẹn gặp lại!"
+        "vi": "Kaku chúc bạn thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn nhé. Kaku gấp sổ đây, hẹn gặp lại!"
       },
-      "image_prompt": "the owl mascot bowing deeply with a festive scarf and holding a small lantern",
+      "image_prompt": "the owl mascot bowing deeply and holding a small lantern",
       "use_mascot": true
     }
   ]

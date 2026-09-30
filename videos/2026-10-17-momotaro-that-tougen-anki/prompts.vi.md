@@ -129,7 +129,7 @@ Wide 16:9 landscape cinematic frame. crimson blood forming into a sharp weapon s
 
 ### s14 · **Kaku** (đính kèm ảnh mẫu)
 
-Lời: Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới đang phát từ tháng mười, và Kaku sẽ không kể nội dung của…
+Lời: Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới lên sóng tháng mười năm 2026, và Kaku sẽ không kể nội dung…
 
 ```text
 Wide 16:9 landscape cinematic frame. the owl mascot closing a small book with a peach sticker on the cover and putting it aside politely. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -786,7 +786,7 @@ Cảnh báo: video có spoiler nhẹ tiền đề của Tougen Anki, tương đ�
 
 ### c02 · Tougen Anki trong một phút
 
-Khoảng 77 giây · cảnh s08–s14 · 1006 ký tự
+Khoảng 78 giây · cảnh s08–s14 · 1011 ký tự
 
 **Gemini**
 
@@ -803,7 +803,7 @@ Trước hết, tiền đề của Tougen Anki. Ichinose Shiki là một cậu t
 
 <short pause> Trong thế giới này, quỷ dùng chính máu của mình làm vũ khí: làm nó cứng lại, tạo hình, bắn ra ngoài. Còn phía Momotaro có năng lực riêng và cả một tổ chức lớn, có kỷ luật.
 
-<short pause> <laugh> Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới đang phát từ tháng mười, và Kaku sẽ không kể nội dung của nó ở đây.
+<short pause> <laugh> Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới lên sóng tháng mười năm 2026, và Kaku sẽ không kể nội dung của nó ở đây.
 ```
 
 **ElevenLabs**
@@ -821,7 +821,7 @@ Trước hết, tiền đề của Tougen Anki. Ichinose Shiki là một cậu t
 
 [pause] Trong thế giới này, quỷ dùng chính máu của mình làm vũ khí: làm nó cứng lại, tạo hình, bắn ra ngoài. Còn phía Momotaro có năng lực riêng và cả một tổ chức lớn, có kỷ luật.
 
-[pause] [chuckles] Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới đang phát từ tháng mười, và Kaku sẽ không kể nội dung của nó ở đây.
+[pause] [chuckles] Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới lên sóng tháng mười năm 2026, và Kaku sẽ không kể nội dung của nó ở đây.
 ```
 
 ### c03 · Momotaro mà ai cũng biết

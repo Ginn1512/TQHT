@@ -204,7 +204,7 @@
 
 **s83** — Một hoạn quan không phải hoạn quan. Một người em có thể là con. Và một hũ mật ong nhỏ giữ bí mật của cả hoàng cung. Dược sư tự sự là câu chuyện mà mỗi chi tiết nhỏ đều có thể là một liều thuốc, hoặc một liều độc.
 
-**s84** — Khi phần hai của mùa ba lên sóng vào tháng tư, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi.
+**s84** — Khi phần hai của mùa ba lên sóng vào tháng tư năm 2027, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi.
 
 **s85** — Video tiếp theo, Kaku đặt ba hệ kiếm thuật lên cùng một bàn: Hơi thở của Kimetsu, kiếm Haki của One Piece, và yêu đao của Kagurabachi. Hệ nào mạnh nhất?
 

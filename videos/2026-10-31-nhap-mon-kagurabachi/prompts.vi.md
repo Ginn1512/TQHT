@@ -762,12 +762,12 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu / Hiện tượng Kagurabachi
 
-Khoảng 131 giây · cảnh s01–s11 · 1701 ký tự
+Khoảng 132 giây · cảnh s01–s11 · 1710 ký tự
 
 **Gemini**
 
 ```text
-Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư sẽ kể. Bạn có thể xem thoải mái.
+Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư năm 2027 sẽ kể. Bạn có thể xem thoải mái.
 
 <short pause> Nếu bạn chưa đọc Kagurabachi, đây là mười lăm phút bạn cần. Một cậu con trai của thợ rèn kiếm. Một thanh kiếm có phép. Và một cuộc truy lùng những kẻ đã lấy đi tất cả của cậu.
 
@@ -793,7 +793,7 @@ Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và
 **ElevenLabs**
 
 ```text
-Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư sẽ kể. Bạn có thể xem thoải mái.
+Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư năm 2027 sẽ kể. Bạn có thể xem thoải mái.
 
 [pause] Nếu bạn chưa đọc Kagurabachi, đây là mười lăm phút bạn cần. Một cậu con trai của thợ rèn kiếm. Một thanh kiếm có phép. Và một cuộc truy lùng những kẻ đã lấy đi tất cả của cậu.
 

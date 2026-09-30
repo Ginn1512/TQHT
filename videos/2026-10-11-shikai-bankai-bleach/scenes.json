@@ -9,7 +9,7 @@
     {
       "id": "s01",
       "narration": {
-        "vi": "Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối vừa phát xong năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé."
+        "vi": "Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối phát năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé."
       },
       "image_prompt": "a lone katana stuck in the ground on a hill under a pale moon, wind blowing through tall grass",
       "chapter": "Mở đầu",
@@ -46,10 +46,10 @@
     {
       "id": "s05",
       "narration": {
-        "vi": "Bộ anime Huyết chiến ngàn năm vừa khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm."
+        "vi": "Bộ anime Huyết chiến ngàn năm khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm."
       },
       "image_prompt": "a final film reel being placed into a box beside a sheathed katana, soft evening light",
-      "on_screen_text": "Anime vừa kết thúc"
+      "on_screen_text": "Anime khép lại tháng 10/2026"
     },
     {
       "id": "s06",

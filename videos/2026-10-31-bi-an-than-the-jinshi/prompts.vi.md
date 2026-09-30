@@ -689,7 +689,7 @@ Wide 16:9 landscape cinematic frame. a small honey jar and a porcelain medicine 
 
 ### s84
 
-Lời: Khi phần hai của mùa ba lên sóng vào tháng tư, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiề…
+Lời: Khi phần hai của mùa ba lên sóng vào tháng tư năm 2027, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ…
 
 ```text
 Wide 16:9 landscape cinematic frame. a calendar page for April with a small lantern doodle beside a circled date, close-up, warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -1150,7 +1150,7 @@ Từ đây là vùng spoiler tiểu thuyết. Nếu bạn chỉ muốn xem anime
 
 ### c07 · Câu hỏi mở cho bạn / Kết
 
-Khoảng 77 giây · cảnh s80–s86 · 1007 ký tự
+Khoảng 78 giây · cảnh s80–s86 · 1016 ký tự
 
 **Gemini**
 
@@ -1163,7 +1163,7 @@ Giờ tới lượt bạn. Nếu bạn là Jinshi và biết được sự thậ
 
 <short pause> Một hoạn quan không phải hoạn quan. Một người em có thể là con. Và một hũ mật ong nhỏ giữ bí mật của cả hoàng cung. Dược sư tự sự là câu chuyện mà mỗi chi tiết nhỏ đều có thể là một liều thuốc, hoặc một liều độc.
 
-<short pause> Khi phần hai của mùa ba lên sóng vào tháng tư, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi.
+<short pause> Khi phần hai của mùa ba lên sóng vào tháng tư năm 2027, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi.
 
 <short pause> Video tiếp theo, Kaku đặt ba hệ kiếm thuật lên cùng một bàn: Hơi thở của Kimetsu, kiếm Haki của One Piece, và yêu đao của Kagurabachi. Hệ nào mạnh nhất?
 
@@ -1181,7 +1181,7 @@ Giờ tới lượt bạn. [curious] Nếu bạn là Jinshi và biết được 
 
 [pause] Một hoạn quan không phải hoạn quan. Một người em có thể là con. Và một hũ mật ong nhỏ giữ bí mật của cả hoàng cung. Dược sư tự sự là câu chuyện mà mỗi chi tiết nhỏ đều có thể là một liều thuốc, hoặc một liều độc.
 
-[pause] Khi phần hai của mùa ba lên sóng vào tháng tư, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi.
+[pause] Khi phần hai của mùa ba lên sóng vào tháng tư năm 2027, hãy xem lại những cảnh có Ah-Duo và Thái hậu. Bạn sẽ thấy nhiều ánh mắt mang nghĩa khác đi.
 
 [pause] Video tiếp theo, Kaku đặt ba hệ kiếm thuật lên cùng một bàn: Hơi thở của Kimetsu, kiếm Haki của One Piece, và yêu đao của Kagurabachi. Hệ nào mạnh nhất?
 

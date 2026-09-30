@@ -198,6 +198,6 @@
 
 **s81** — Bạn thích nước cờ nào nhất trong Death Note? Mảnh giấy trong đồng hồ, tự quên mình là Kira, hay cuốn sổ giả của Near? Viết vào bình luận nhé.
 
-**s82** — Video tiếp theo, Kaku chuyển sang một cuốn sổ vui hơn nhiều: Doraemon, và câu hỏi bảo bối nào có thể làm được ngoài đời thật, đúng dịp phim Doraemon mới ra mắt.
+**s82** — Video tiếp theo, Kaku chuyển sang một cuốn sổ vui hơn nhiều: Doraemon, và câu hỏi bảo bối nào có thể làm được ngoài đời thật, trước khi phim Doraemon mới ra rạp.
 
 **s83** — Nếu bạn thích những video mổ xẻ luật chơi như thế này, hãy đăng ký kênh. Và nếu một ngày nhặt được cuốn sổ đen nào, hãy để nó yên dưới đất. Kaku gấp sổ đây, hẹn gặp lại!

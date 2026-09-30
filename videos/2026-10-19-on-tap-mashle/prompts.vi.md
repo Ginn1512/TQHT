@@ -33,7 +33,7 @@ Wide 16:9 landscape cinematic frame. a grand magic academy castle at dusk with g
 
 ### s02
 
-Lời: Mùa ba của Mashle trở lại trong tháng một, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu…
+Lời: Mùa ba của Mashle trở lại vào tháng một năm 2027, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao…
 
 ```text
 Wide 16:9 landscape cinematic frame. a wall calendar showing January with a small cream puff doodle drawn on a date, close-up, bright morning light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -722,14 +722,14 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu
 
-Khoảng 82 giây · cảnh s01–s07 · 1065 ký tự
+Khoảng 82 giây · cảnh s01–s07 · 1072 ký tự
 
 **Gemini**
 
 ```text
 Cảnh báo: video có spoiler Mashle tới hết anime mùa hai, arc kỳ thi ứng viên Thần giác giả. Không có nội dung của mùa ba.
 
-<short pause> Mùa ba của Mashle trở lại trong tháng một, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn.
+<short pause> Mùa ba của Mashle trở lại vào tháng một năm 2027, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn.
 
 <short pause> Mashle là manga của tác giả Komoto Hajime, đăng trên Shonen Jump từ năm 2020 tới 2023. Anime mùa một ra mắt năm 2023 và nổi tiếng khắp thế giới với bài hát mở đầu mà ai nghe cũng muốn nhún nhảy.
 
@@ -747,7 +747,7 @@ Cảnh báo: video có spoiler Mashle tới hết anime mùa hai, arc kỳ thi �
 ```text
 Cảnh báo: video có spoiler Mashle tới hết anime mùa hai, arc kỳ thi ứng viên Thần giác giả. Không có nội dung của mùa ba.
 
-[pause] Mùa ba của Mashle trở lại trong tháng một, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn.
+[pause] Mùa ba của Mashle trở lại vào tháng một năm 2027, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn.
 
 [pause] Mashle là manga của tác giả Komoto Hajime, đăng trên Shonen Jump từ năm 2020 tới 2023. Anime mùa một ra mắt năm 2023 và nổi tiếng khắp thế giới với bài hát mở đầu mà ai nghe cũng muốn nhún nhảy.
 

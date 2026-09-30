@@ -3,7 +3,7 @@
 > Tạo tự động từ `scenes.json` và `channel/giong-kaku.json` bằng `python -m tools.prompt_pack`. **Không sửa tay**: sửa `scenes.json` rồi chạy lại lệnh.
 > Cách làm từng bước: `docs/huong-dan-lam-tay.md`.
 
-- 83 ảnh, 8 đoạn đọc, khoảng 15.0 phút giọng.
+- 83 ảnh, 8 đoạn đọc, khoảng 14.9 phút giọng.
 - Ảnh: dán prompt vào Gemini app (tạo hình ảnh), tải ảnh gốc về, đặt tên theo số cảnh (`s01.png`…).
 - Giọng: dán ghi chú đạo diễn một lần, rồi dán từng đoạn; tải file về, đặt tên theo số đoạn (`c01.wav`…).
 
@@ -28,15 +28,15 @@ text, letters, caption, logo, watermark, signature, photorealistic, photo, 3D re
 Lời: Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn…
 
 ```text
-Wide 16:9 landscape cinematic frame. a cozy living room decorated for the lunar new year with a small TV and a closed notebook on the table, close-up, warm festive light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a cozy living room with a small TV and a closed notebook on the table, close-up, warm evening light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s02
 
-Lời: Chúc mừng năm mới! Năm mới người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một t…
+Lời: Người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được số…
 
 ```text
-Wide 16:9 landscape cinematic frame. red lucky envelopes and a plate of candied fruit on a wooden table beside a small handwritten card, close-up, warm festive light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a few greeting cards and a cup of tea on a wooden table beside a small handwritten card, close-up, warm soft light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s03
@@ -65,10 +65,10 @@ Wide 16:9 landscape cinematic frame. a large number one hundred painted in bold 
 
 ### s06 · **Kaku** (đính kèm ảnh mẫu)
 
-Lời: Mở sổ ra nào! Mình là Kaku. Hôm nay, ngày đầu năm, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối vi…
+Lời: Mở sổ ra nào! Mình là Kaku. Hôm nay, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm…
 
 ```text
-Wide 16:9 landscape cinematic frame. the owl mascot wearing a tiny festive scarf, holding a paintbrush over a blank portrait canvas. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. the owl mascot holding a paintbrush over a blank portrait canvas. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s07 · Ai là Mob?
@@ -289,10 +289,10 @@ Wide 16:9 landscape cinematic frame. an old loudspeaker on a pole with different
 
 ### s34
 
-Lời: Đây là lý do Kaku chọn Mob cho video Tết. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà l…
+Lời: Đây là lý do Kaku chọn Mob cho video này. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà l…
 
 ```text
-Wide 16:9 landscape cinematic frame. a small heart-shaped lantern glowing among festive red decorations, close-up, warm festive light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a small heart-shaped lantern glowing on a windowsill, close-up, warm soft light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s35
@@ -599,12 +599,12 @@ Lời: Và thầy Reigen có mặt ở đó, như mọi lần, để mời Mob �
 Wide 16:9 landscape cinematic frame. a man and a boy sitting at a small ramen stall at night, steam rising from two bowls, wide shot, warm cozy light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
-### s73 · Bài học cho năm mới
+### s73 · Bài học từ Mob
 
-Lời: Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?
+Lời: Vậy Mob Psycho 100 muốn nói gì với chúng ta?
 
 ```text
-Wide 16:9 landscape cinematic frame. a small notebook open to a blank page titled with a new year's date, a pen beside it, close-up, soft morning light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a small notebook open to a blank page, a pen beside it, close-up, soft morning light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s74
@@ -612,7 +612,7 @@ Wide 16:9 landscape cinematic frame. a small notebook open to a blank page title
 Lời: Một: cảm xúc không phải là điểm yếu. Giận, buồn, sợ, vui, tất cả đều là một phần của bạn. Khóa chúng lại khôn…
 
 ```text
-Wide 16:9 landscape cinematic frame. a set of colorful paper lanterns hanging in a row, each a different color, wide shot, warm festive light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a set of colorful paper lanterns hanging in a row, each a different color, wide shot, warm evening light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s75
@@ -628,7 +628,7 @@ Wide 16:9 landscape cinematic frame. a small trophy placed on the same shelf as 
 Lời: Ba: hãy tìm những người như Reigen và câu lạc bộ cơ bắp. Những người không cần bạn mạnh, chỉ cần bạn là chính…
 
 ```text
-Wide 16:9 landscape cinematic frame. a family and friends gathered around a festive table sharing food and laughing, wide shot, warm lantern light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a family and friends gathered around a dinner table sharing food and laughing, wide shot, warm lantern light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s77
@@ -641,10 +641,10 @@ Wide 16:9 landscape cinematic frame. two different potted plants of different he
 
 ### s78 · **Kaku** (đính kèm ảnh mẫu)
 
-Lời: Kaku đề nghị một thử thách nhỏ cho năm mới: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lờ…
+Lời: Kaku đề nghị một thử thách nhỏ: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, h…
 
 ```text
-Wide 16:9 landscape cinematic frame. the owl mascot handing a small red envelope with a heart drawn on it toward the viewer. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. the owl mascot handing a small folded note with a heart drawn on it toward the viewer. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. moody cinematic lighting, warm amber key light, cool navy shadows, soft rim light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s79 · Chân dung trong một câu
@@ -665,15 +665,15 @@ Wide 16:9 landscape cinematic frame. a quiet boy standing in an ordinary sunny s
 
 ### s81 · Kết
 
-Lời: Nếu năm nay bạn chỉ xem một bộ anime cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để…
+Lời: Nếu chỉ chọn một bộ anime để xem cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại…
 
 ```text
-Wide 16:9 landscape cinematic frame. a family sitting together on a couch under a blanket watching TV with snacks and tea, back view, wide shot, cozy festive light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a family sitting together on a couch under a blanket watching TV with snacks and tea, back view, wide shot, cozy warm light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s82
 
-Lời: Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, đúng lúc bản làm lại chuẩn bị ra mắt. Có h…
+Lời: Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, trước khi bản làm lại ra mắt. Có hiểu lầm…
 
 ```text
 Wide 16:9 landscape cinematic frame. a small straw-colored treasure map with ten red X marks drawn across it, close-up, warm adventurous light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -681,10 +681,10 @@ Wide 16:9 landscape cinematic frame. a small straw-colored treasure map with ten
 
 ### s83 · **Kaku** (đính kèm ảnh mẫu)
 
-Lời: Kaku chúc bạn một năm mới thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh…
+Lời: Kaku chúc bạn thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng…
 
 ```text
-Wide 16:9 landscape cinematic frame. the owl mascot bowing deeply with a festive scarf and holding a small lantern. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. the owl mascot bowing deeply and holding a small lantern. The channel mascot: a small round owl scholar mascot with fluffy brown-and-cream feathers, oversized round golden glasses, a red knitted scarf, holding a rolled parchment scroll, big expressive amber eyes, chibi proportions, original character design. medium shot at eye level, the mascot in sharp focus in the foreground. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ## 3. Giọng đọc
@@ -738,14 +738,14 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu
 
-Khoảng 70 giây · cảnh s01–s06 · 910 ký tự
+Khoảng 66 giây · cảnh s01–s06 · 855 ký tự
 
 **Gemini**
 
 ```text
-Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn định xem trong kỳ nghỉ Tết, hãy lưu video lại, xem xong rồi quay lại với Kaku.
+Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn chưa xem hết, hãy lưu video lại, xem xong rồi quay lại với Kaku.
 
-<short pause> Chúc mừng năm mới! Năm mới người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình.
+<short pause> Người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình.
 
 <short pause> Hãy tưởng tượng một cậu bé mười bốn tuổi có sức mạnh siêu nhiên mạnh nhất thế giới. Cậu có thể bẻ cong kim loại, bay lên trời, đánh tan cả những linh hồn ác độc nhất.
 
@@ -753,15 +753,15 @@ Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba m
 
 <short pause> Cậu tên là Kageyama Shigeo, biệt danh Mob. Và bộ truyện của cậu có một con số rất lạ ở ngay trong tên: một trăm.
 
-<short pause> Mở sổ ra nào! <laugh> Mình là Kaku. Hôm nay, ngày đầu năm, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu.
+<short pause> Mở sổ ra nào! <laugh> Mình là Kaku. Hôm nay, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu.
 ```
 
 **ElevenLabs**
 
 ```text
-Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn định xem trong kỳ nghỉ Tết, hãy lưu video lại, xem xong rồi quay lại với Kaku.
+Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn chưa xem hết, hãy lưu video lại, xem xong rồi quay lại với Kaku.
 
-[pause] Chúc mừng năm mới! Năm mới người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình.
+[pause] Người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình.
 
 [pause] Hãy tưởng tượng một cậu bé mười bốn tuổi có sức mạnh siêu nhiên mạnh nhất thế giới. Cậu có thể bẻ cong kim loại, bay lên trời, đánh tan cả những linh hồn ác độc nhất.
 
@@ -769,7 +769,7 @@ Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba m
 
 [pause] Cậu tên là Kageyama Shigeo, biệt danh Mob. Và bộ truyện của cậu có một con số rất lạ ở ngay trong tên: một trăm.
 
-[pause] Mở sổ ra nào! [chuckles] Mình là Kaku. Hôm nay, ngày đầu năm, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu.
+[pause] Mở sổ ra nào! [chuckles] Mình là Kaku. Hôm nay, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu.
 ```
 
 ### c02 · Ai là Mob?
@@ -901,7 +901,7 @@ Khoảng 124 giây · cảnh s29–s40 · 1610 ký tự
 
 <short pause> Nghĩa là sức mạnh của Mob không tốt, không xấu. Nó chỉ khuếch đại cái đang có trong tim cậu. Giống như một chiếc loa: bạn nói gì, nó phát to lên cái đó.
 
-<short pause> Đây là lý do Kaku chọn Mob cho video Tết. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì.
+<short pause> Đây là lý do Kaku chọn Mob cho video này. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì.
 
 <short pause> Kaku rất thích cách anime thể hiện những khoảnh khắc này: màu sắc, nét vẽ, cả phong cách hình thay đổi theo từng cảm xúc. Bạn không cần nghe lời thoại cũng biết Mob đang cảm thấy gì.
 
@@ -929,7 +929,7 @@ Khoảng 124 giây · cảnh s29–s40 · 1610 ký tự
 
 [pause] Nghĩa là sức mạnh của Mob không tốt, không xấu. Nó chỉ khuếch đại cái đang có trong tim cậu. Giống như một chiếc loa: bạn nói gì, nó phát to lên cái đó.
 
-[pause] Đây là lý do Kaku chọn Mob cho video Tết. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì.
+[pause] Đây là lý do Kaku chọn Mob cho video này. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì.
 
 [pause] Kaku rất thích cách anime thể hiện những khoảnh khắc này: màu sắc, nét vẽ, cả phong cách hình thay đổi theo từng cảm xúc. Bạn không cần nghe lời thoại cũng biết Mob đang cảm thấy gì.
 
@@ -1108,14 +1108,14 @@ Có một nhóm nhân vật Kaku rất thích: câu lạc bộ Cải thiện Cơ
 [pause] Và thầy Reigen có mặt ở đó, như mọi lần, để mời Mob đi ăn. Một cái kết nhỏ, bình thường, đúng như điều Mob mong muốn từ đầu.
 ```
 
-### c08 · Bài học cho năm mới / Chân dung trong một câu / Kết
+### c08 · Bài học từ Mob / Chân dung trong một câu / Kết
 
-Khoảng 106 giây · cảnh s73–s83 · 1384 ký tự
+Khoảng 102 giây · cảnh s73–s83 · 1321 ký tự
 
 **Gemini**
 
 ```text
-Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?
+Vậy Mob Psycho 100 muốn nói gì với chúng ta?
 
 <short pause> Một: cảm xúc không phải là điểm yếu. Giận, buồn, sợ, vui, tất cả đều là một phần của bạn. Khóa chúng lại không làm bạn mạnh hơn.
 
@@ -1125,23 +1125,23 @@ Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?
 
 <short pause> Bốn: đừng so sánh mình với người khác theo kiểu ai có năng lực hơn. Mob và Ritsu, mỗi người đều có giá trị riêng, không ai hơn ai.
 
-<short pause> <laugh> Kaku đề nghị một thử thách nhỏ cho năm mới: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm.
+<short pause> <laugh> Kaku đề nghị một thử thách nhỏ: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm.
 
 <short pause> Và giờ, Kaku tóm cả con người Mob trong đúng một câu, như đã hứa ở đầu video.
 
 <short pause> Mob không phải người mạnh nhất học cách kiểm soát sức mạnh. Mob là người học cách không cần sức mạnh để được là chính mình.
 
-<short pause> Nếu năm nay bạn chỉ xem một bộ anime cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp.
+<short pause> Nếu chỉ chọn một bộ anime để xem cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp.
 
-<short pause> Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, đúng lúc bản làm lại chuẩn bị ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin.
+<short pause> Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, trước khi bản làm lại ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin.
 
-<short pause> Kaku chúc bạn một năm mới thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn cả năm nhé. Kaku gấp sổ đây, hẹn gặp lại!
+<short pause> Kaku chúc bạn thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn nhé. Kaku gấp sổ đây, hẹn gặp lại!
 ```
 
 **ElevenLabs**
 
 ```text
-[curious] Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?
+[curious] Vậy Mob Psycho 100 muốn nói gì với chúng ta?
 
 [pause] Một: cảm xúc không phải là điểm yếu. Giận, buồn, sợ, vui, tất cả đều là một phần của bạn. Khóa chúng lại không làm bạn mạnh hơn.
 
@@ -1151,15 +1151,15 @@ Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?
 
 [pause] Bốn: đừng so sánh mình với người khác theo kiểu ai có năng lực hơn. Mob và Ritsu, mỗi người đều có giá trị riêng, không ai hơn ai.
 
-[pause] [chuckles] Kaku đề nghị một thử thách nhỏ cho năm mới: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm.
+[pause] [chuckles] Kaku đề nghị một thử thách nhỏ: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm.
 
 [pause] Và giờ, Kaku tóm cả con người Mob trong đúng một câu, như đã hứa ở đầu video.
 
 [pause] Mob không phải người mạnh nhất học cách kiểm soát sức mạnh. Mob là người học cách không cần sức mạnh để được là chính mình.
 
-[pause] Nếu năm nay bạn chỉ xem một bộ anime cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp.
+[pause] Nếu chỉ chọn một bộ anime để xem cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp.
 
-[pause] Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, đúng lúc bản làm lại chuẩn bị ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin.
+[pause] Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, trước khi bản làm lại ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin.
 
-[pause] Kaku chúc bạn một năm mới thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn cả năm nhé. Kaku gấp sổ đây, hẹn gặp lại!
+[pause] Kaku chúc bạn thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn nhé. Kaku gấp sổ đây, hẹn gặp lại!
 ```

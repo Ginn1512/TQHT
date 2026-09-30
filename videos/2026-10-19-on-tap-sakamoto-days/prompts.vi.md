@@ -33,7 +33,7 @@ Wide 16:9 landscape cinematic frame. a small neighborhood convenience store at n
 
 ### s02
 
-Lời: Mùa hai của Sakamoto Days lên sóng trong tháng một này. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết,…
+Lời: Mùa hai của Sakamoto Days lên sóng vào tháng một năm 2027. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hế…
 
 ```text
 Wide 16:9 landscape cinematic frame. a desk calendar showing January with a small countdown circle drawn around a date, a remote control beside it, close-up, fresh morning light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -593,7 +593,7 @@ Wide 16:9 landscape cinematic frame. the owl mascot holding up three fingers in 
 
 ### s72
 
-Lời: Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa này sẽ…
+Lời: Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa hai sẽ…
 
 ```text
 Wide 16:9 landscape cinematic frame. a wide academy corridor lined with labs, a library and a cafeteria, strange objects visible through each doorway, wide shot, bright light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -730,14 +730,14 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu
 
-Khoảng 60 giây · cảnh s01–s06 · 779 ký tự
+Khoảng 60 giây · cảnh s01–s06 · 782 ký tự
 
 **Gemini**
 
 ```text
 Cảnh báo: video có spoiler Sakamoto Days tới hết anime mùa một, tập hai mươi hai. Kaku không nói gì về phần manga mà mùa hai sẽ chiếu.
 
-<short pause> Mùa hai của Sakamoto Days lên sóng trong tháng một này. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết, đây là mười lăm phút bạn cần.
+<short pause> Mùa hai của Sakamoto Days lên sóng vào tháng một năm 2027. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết, đây là mười lăm phút bạn cần.
 
 <short pause> Kaku sẽ nhắc lại: mùa một đã xảy ra những gì, luật sức mạnh nào cần nhớ, các phe đang đứng ở đâu, và những nút thắt còn mở.
 
@@ -753,7 +753,7 @@ Cảnh báo: video có spoiler Sakamoto Days tới hết anime mùa một, tập
 ```text
 Cảnh báo: video có spoiler Sakamoto Days tới hết anime mùa một, tập hai mươi hai. Kaku không nói gì về phần manga mà mùa hai sẽ chiếu.
 
-[pause] Mùa hai của Sakamoto Days lên sóng trong tháng một này. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết, đây là mười lăm phút bạn cần.
+[pause] Mùa hai của Sakamoto Days lên sóng vào tháng một năm 2027. Nếu bạn xem mùa một từ năm ngoái và đã quên gần hết, đây là mười lăm phút bạn cần.
 
 [pause] Kaku sẽ nhắc lại: mùa một đã xảy ra những gì, luật sức mạnh nào cần nhớ, các phe đang đứng ở đâu, và những nút thắt còn mở.
 
@@ -1103,7 +1103,7 @@ Nút thắt thứ ba không nằm trong cốt truyện, mà nằm trong luật c
 
 <short pause> <laugh> Giờ là ba điều Kaku gợi ý bạn để ý khi xem mùa hai.
 
-<short pause> Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa này sẽ có những món vũ khí bất ngờ nhất từ trước tới nay.
+<short pause> Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa hai sẽ có những món vũ khí bất ngờ nhất từ trước tới nay.
 
 <short pause> Một: để ý những đồ vật trong khung hình. Trong mỗi trận đấu, gần như món đồ nào xuất hiện cũng sẽ được dùng. Thử đoán trước xem món nào sẽ thành vũ khí.
 
@@ -1131,7 +1131,7 @@ Nút thắt thứ ba không nằm trong cốt truyện, mà nằm trong luật c
 
 [pause] [chuckles] Giờ là ba điều Kaku gợi ý bạn để ý khi xem mùa hai.
 
-[pause] Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa này sẽ có những món vũ khí bất ngờ nhất từ trước tới nay.
+[pause] Học viện JCC là một nơi đầy đồ vật lạ: phòng thí nghiệm, thư viện, phòng tập, căng tin. Kaku đoán mùa hai sẽ có những món vũ khí bất ngờ nhất từ trước tới nay.
 
 [pause] Một: để ý những đồ vật trong khung hình. Trong mỗi trận đấu, gần như món đồ nào xuất hiện cũng sẽ được dùng. Thử đoán trước xem món nào sẽ thành vũ khí.
 

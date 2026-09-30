@@ -609,7 +609,7 @@ Wide 16:9 landscape cinematic frame. the final row with a candle icon and a pape
 
 ### s74 · Góc nhìn của Kaku: vì sao luật yếu lại hay
 
-Lời: Tháng một năm sau, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, đ…
+Lời: Trong một video sắp tới, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng k…
 
 ```text
 Wide 16:9 landscape cinematic frame. three different clocks placed side by side on a round table under a spotlight, close-up, amber light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -1094,7 +1094,7 @@ Cách phá thứ tư là cách Kaku thấy tinh tế nhất. Takemichi dần hi�
 
 ### c08 · Bảng tổng kết / Góc nhìn của Kaku: vì sao luật yếu lại hay / Kết
 
-Khoảng 151 giây · cảnh s69–s83 · 1961 ký tự
+Khoảng 151 giây · cảnh s69–s83 · 1967 ký tự
 
 **Gemini**
 
@@ -1109,7 +1109,7 @@ Giờ ghép tất cả vào một bảng. Cột trái là luật, cột phải l
 
 <short pause> Và thứ phá được mọi luật: thay đổi con người, bằng niềm tin. Cái giá là nó dễ vỡ nhất.
 
-<short pause> Tháng một năm sau, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, để xem luật của bộ nào chặt chẽ nhất.
+<short pause> Trong một video sắp tới, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, để xem luật của bộ nào chặt chẽ nhất.
 
 <short pause> Nhiều bộ du hành thời gian cho nhân vật chính một khả năng gần như vô địch. Tokyo Revengers thì ngược lại: khả năng yếu, luật khắt khe, và nhân vật chính còn yếu hơn.
 
@@ -1143,7 +1143,7 @@ Giờ ghép tất cả vào một bảng. Cột trái là luật, cột phải l
 
 [pause] Và thứ phá được mọi luật: thay đổi con người, bằng niềm tin. Cái giá là nó dễ vỡ nhất.
 
-[pause] Tháng một năm sau, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, để xem luật của bộ nào chặt chẽ nhất.
+[pause] Trong một video sắp tới, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, để xem luật của bộ nào chặt chẽ nhất.
 
 [pause] Nhiều bộ du hành thời gian cho nhân vật chính một khả năng gần như vô địch. Tokyo Revengers thì ngược lại: khả năng yếu, luật khắt khe, và nhân vật chính còn yếu hơn.
 

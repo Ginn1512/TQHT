@@ -721,7 +721,7 @@ Wide 16:9 landscape cinematic frame. the owl mascot holding a helmet in one wing
 
 ### s88
 
-Lời: Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, đúng lú…
+Lời: Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, khi bộ…
 
 ```text
 Wide 16:9 landscape cinematic frame. a sword silhouette glowing brighter on each step of a staircase. close-up detail shot with shallow depth of field. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -1182,7 +1182,7 @@ Trước khi tới góc nhìn, chơi một trò nhanh. [chuckles] Kaku đưa ra 
 
 ### c08 · Thẻ chỉ số của bạn / Kết
 
-Khoảng 104 giây · cảnh s79–s89 · 1349 ký tự
+Khoảng 104 giây · cảnh s79–s89 · 1353 ký tự
 
 **Gemini**
 
@@ -1205,7 +1205,7 @@ Giờ tới lượt bạn. Lấy giấy bút ra, Kaku sẽ giúp bạn làm th�
 
 <short pause> Câu hỏi cho bạn: nếu có thể chọn, bạn muốn làm chiến binh mặc giáp với tỉ lệ cao, hay mang trong mình sức mạnh quái thú nhưng phải giữ bí mật?
 
-<short pause> Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, đúng lúc bộ anime vừa khép lại.
+<short pause> Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, khi bộ anime đi tới những tập cuối.
 
 <short pause> Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku tắt màn hình chỉ số đây, hẹn gặp lại!
 ```
@@ -1231,7 +1231,7 @@ Giờ tới lượt bạn. Lấy giấy bút ra, Kaku sẽ giúp bạn làm th�
 
 [pause] Câu hỏi cho bạn: nếu có thể chọn, bạn muốn làm chiến binh mặc giáp với tỉ lệ cao, hay mang trong mình sức mạnh quái thú nhưng phải giữ bí mật?
 
-[pause] Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, đúng lúc bộ anime vừa khép lại.
+[pause] Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, khi bộ anime đi tới những tập cuối.
 
 [pause] Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku tắt màn hình chỉ số đây, hẹn gặp lại!
 ```

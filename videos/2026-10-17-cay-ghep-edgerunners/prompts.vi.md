@@ -25,7 +25,7 @@ text, letters, caption, logo, watermark, signature, photorealistic, photo, 3D re
 
 ### s01 · Mở đầu
 
-Lời: Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Với mùa hai vừa ra hồi tháng mười, Kaku chỉ nhắc t…
+Lời: Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Mùa hai lên Netflix ngày 20 tháng 10 năm 2026, nên…
 
 ```text
 Wide 16:9 landscape cinematic frame. a rainy neon-lit alley at night, a closed notebook resting on a wet crate under a flickering sign, wide establishing shot, magenta and cyan light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -633,7 +633,7 @@ Wide 16:9 landscape cinematic frame. a shop catalog page with several implant op
 
 ### s77 · Kết
 
-Lời: Mùa hai đã ra đủ mười tập. Nếu bạn đã xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi…
+Lời: Mùa hai có mười tập. Khi xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nh…
 
 ```text
 Wide 16:9 landscape cinematic frame. a streaming remote lying on a couch next to the notebook diagram, cozy neon-lit apartment, close-up. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -714,12 +714,12 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu
 
-Khoảng 86 giây · cảnh s01–s07 · 1123 ký tự
+Khoảng 88 giây · cảnh s01–s07 · 1139 ký tự
 
 **Gemini**
 
 ```text
-Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Với mùa hai vừa ra hồi tháng mười, Kaku chỉ nhắc tiền đề, không kể nội dung.
+Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Mùa hai lên Netflix ngày 20 tháng 10 năm 2026, nên Kaku chỉ nhắc tiền đề, không kể nội dung.
 
 <short pause> Hãy tưởng tượng một thành phố nơi bạn có thể mua một cánh tay mạnh như máy xúc, một đôi mắt nhìn xuyên đêm, hay một con chip làm thời gian quanh bạn như chậm lại.
 
@@ -737,7 +737,7 @@ Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Với mùa hai
 **ElevenLabs**
 
 ```text
-Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Với mùa hai vừa ra hồi tháng mười, Kaku chỉ nhắc tiền đề, không kể nội dung.
+Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Mùa hai lên Netflix ngày 20 tháng 10 năm 2026, nên Kaku chỉ nhắc tiền đề, không kể nội dung.
 
 [pause] Hãy tưởng tượng một thành phố nơi bạn có thể mua một cánh tay mạnh như máy xúc, một đôi mắt nhìn xuyên đêm, hay một con chip làm thời gian quanh bạn như chậm lại.
 
@@ -1082,7 +1082,7 @@ Giờ tới phần Kaku hứa từ đầu. Ngoài đời thật, con người đ
 
 ### c08 · Sơ đồ tổng kết / Kết
 
-Khoảng 96 giây · cảnh s72–s80 · 1246 ký tự
+Khoảng 95 giây · cảnh s72–s80 · 1233 ký tự
 
 **Gemini**
 
@@ -1097,7 +1097,7 @@ Kaku gom lại thành một sơ đồ. Ở trên là bốn nhánh chrome: phản
 
 <short pause> Nếu sống ở Night City, bạn sẽ gắn món chrome nào, và dừng lại ở đâu? Kaku đoán nhiều bạn sẽ chọn đôi mắt nhìn xuyên đêm. Viết lựa chọn của bạn vào bình luận nhé.
 
-<short pause> Mùa hai đã ra đủ mười tập. Nếu bạn đã xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé.
+<short pause> Mùa hai có mười tập. Khi xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé.
 
 <short pause> Edgerunners dùng một hệ thống nghe rất khoa học viễn tưởng để kể một câu chuyện rất cũ: cái giá của việc cố trở thành người khác.
 
@@ -1119,7 +1119,7 @@ Kaku gom lại thành một sơ đồ. Ở trên là bốn nhánh chrome: phản
 
 [pause] [curious] Nếu sống ở Night City, bạn sẽ gắn món chrome nào, và dừng lại ở đâu? Kaku đoán nhiều bạn sẽ chọn đôi mắt nhìn xuyên đêm. Viết lựa chọn của bạn vào bình luận nhé.
 
-[pause] Mùa hai đã ra đủ mười tập. Nếu bạn đã xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé.
+[pause] Mùa hai có mười tập. Khi xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé.
 
 [pause] Edgerunners dùng một hệ thống nghe rất khoa học viễn tưởng để kể một câu chuyện rất cũ: cái giá của việc cố trở thành người khác.
 

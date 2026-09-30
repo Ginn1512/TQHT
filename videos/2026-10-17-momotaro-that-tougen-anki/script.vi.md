@@ -32,7 +32,7 @@
 
 **s13** — Trong thế giới này, quỷ dùng chính máu của mình làm vũ khí: làm nó cứng lại, tạo hình, bắn ra ngoài. Còn phía Momotaro có năng lực riêng và cả một tổ chức lớn, có kỷ luật.
 
-**s14** — Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới đang phát từ tháng mười, và Kaku sẽ không kể nội dung của nó ở đây.
+**s14** — Kaku ghi chú: đây chỉ là khung câu chuyện. Arc mới lên sóng tháng mười năm 2026, và Kaku sẽ không kể nội dung của nó ở đây.
 
 ## Momotaro mà ai cũng biết
 

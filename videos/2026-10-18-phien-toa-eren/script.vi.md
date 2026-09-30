@@ -188,6 +188,6 @@
 
 **s80** — Nếu bạn đã đi cùng Kaku từ video đầu tiên về Nen, cảm ơn bạn rất nhiều. Ba mươi chín cuốn sổ đã mở, và Kaku còn rất nhiều cuốn nữa.
 
-**s81** — Video này khép lại chín mươi ngày đầu của kênh. Video tiếp theo mở đầu năm mới bằng một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng.
+**s81** — Video tiếp theo là một món quà cho fan Sakamoto Days: mười lăm phút ôn tập mọi thứ cần nhớ trước khi mùa hai lên sóng.
 
 **s82** — Nếu bạn thích dạng phiên tòa này và muốn Kaku xử thêm nhân vật khác, hãy đăng ký kênh và đề cử bị cáo tiếp theo. Kaku gấp sổ đây, hẹn gặp lại!

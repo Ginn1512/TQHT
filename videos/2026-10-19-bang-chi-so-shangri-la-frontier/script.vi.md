@@ -4,7 +4,7 @@
 
 ## Mở đầu
 
-**s01** — Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một này, và Kaku không nói gì về nội dung của nó.
+**s01** — Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một năm 2027, và Kaku không nói gì về nội dung của nó.
 
 **s02** — Đây là thẻ chỉ số của một người chơi. Sức bền khá. Sức mạnh vừa phải. Nhanh nhẹn rất cao. May mắn rất cao. Còn thể chất? Sáu điểm. Mỏng như một tờ giấy.
 
@@ -178,7 +178,7 @@
 
 **s77** — Shangri-La Frontier cho ta một bảng chỉ số rất chi tiết, rồi dành cả câu chuyện để chứng minh rằng con người sau nhân vật mới là chỉ số quan trọng nhất.
 
-**s78** — Mùa ba lên sóng trong tháng một. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không, và vì sao.
+**s78** — Mùa ba lên sóng vào tháng một năm 2027. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không, và vì sao.
 
 **s79** — Video tiếp theo, Kaku tiếp tục ôn tập trước mùa mới, lần này là Mashle: thế giới nơi phép thuật quyết định địa vị, và một cậu bé không có chút phép thuật nào chỉ dùng… cơ bắp.
 

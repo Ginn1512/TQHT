@@ -4,9 +4,9 @@
 
 ## Mở đầu
 
-**s01** — Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn định xem trong kỳ nghỉ Tết, hãy lưu video lại, xem xong rồi quay lại với Kaku.
+**s01** — Cảnh báo spoiler: video này nói tới hết anime Mob Psycho 100, cả ba mùa, cũng là hết câu chuyện gốc. Nếu bạn chưa xem hết, hãy lưu video lại, xem xong rồi quay lại với Kaku.
 
-**s02** — Chúc mừng năm mới! Năm mới người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình.
+**s02** — Người ta hay chúc nhau sức khỏe, tiền tài, may mắn. Hôm nay Kaku muốn nói về một thứ ít ai chúc nhau: được sống thật với cảm xúc của mình.
 
 **s03** — Hãy tưởng tượng một cậu bé mười bốn tuổi có sức mạnh siêu nhiên mạnh nhất thế giới. Cậu có thể bẻ cong kim loại, bay lên trời, đánh tan cả những linh hồn ác độc nhất.
 
@@ -14,7 +14,7 @@
 
 **s05** — Cậu tên là Kageyama Shigeo, biệt danh Mob. Và bộ truyện của cậu có một con số rất lạ ở ngay trong tên: một trăm.
 
-**s06** — Mở sổ ra nào! Mình là Kaku. Hôm nay, ngày đầu năm, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu.
+**s06** — Mở sổ ra nào! Mình là Kaku. Hôm nay, Kaku vẽ chân dung một cậu bé qua sức mạnh của cậu. Cuối video, Kaku tóm cả con người Mob trong đúng một câu.
 
 ## Ai là Mob?
 
@@ -78,7 +78,7 @@
 
 **s33** — Nghĩa là sức mạnh của Mob không tốt, không xấu. Nó chỉ khuếch đại cái đang có trong tim cậu. Giống như một chiếc loa: bạn nói gì, nó phát to lên cái đó.
 
-**s34** — Đây là lý do Kaku chọn Mob cho video Tết. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì.
+**s34** — Đây là lý do Kaku chọn Mob cho video này. Truyện nói rằng điều quan trọng không phải là bạn mạnh cỡ nào, mà là trong tim bạn đang có gì.
 
 **s35** — Kaku rất thích cách anime thể hiện những khoảnh khắc này: màu sắc, nét vẽ, cả phong cách hình thay đổi theo từng cảm xúc. Bạn không cần nghe lời thoại cũng biết Mob đang cảm thấy gì.
 
@@ -170,9 +170,9 @@
 
 **s72** — Và thầy Reigen có mặt ở đó, như mọi lần, để mời Mob đi ăn. Một cái kết nhỏ, bình thường, đúng như điều Mob mong muốn từ đầu.
 
-## Bài học cho năm mới
+## Bài học từ Mob
 
-**s73** — Vậy Mob Psycho 100 muốn nói gì với chúng ta, trong ngày đầu năm?
+**s73** — Vậy Mob Psycho 100 muốn nói gì với chúng ta?
 
 **s74** — Một: cảm xúc không phải là điểm yếu. Giận, buồn, sợ, vui, tất cả đều là một phần của bạn. Khóa chúng lại không làm bạn mạnh hơn.
 
@@ -182,7 +182,7 @@
 
 **s77** — Bốn: đừng so sánh mình với người khác theo kiểu ai có năng lực hơn. Mob và Ritsu, mỗi người đều có giá trị riêng, không ai hơn ai.
 
-**s78** — Kaku đề nghị một thử thách nhỏ cho năm mới: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm.
+**s78** — Kaku đề nghị một thử thách nhỏ: hãy nói ra một cảm xúc bạn đã giữ quá lâu. Một lời cảm ơn, một lời xin lỗi, hay một lời thương. Trước khi bộ đếm chạm một trăm.
 
 ## Chân dung trong một câu
 
@@ -192,8 +192,8 @@
 
 ## Kết
 
-**s81** — Nếu năm nay bạn chỉ xem một bộ anime cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp.
+**s81** — Nếu chỉ chọn một bộ anime để xem cùng gia đình, Kaku gợi ý Mob Psycho 100. Nó hài hước, nó đẹp, và nó để lại trong bạn một điều ấm áp.
 
-**s82** — Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, đúng lúc bản làm lại chuẩn bị ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin.
+**s82** — Video tiếp theo, Kaku gỡ mười hiểu lầm phổ biến nhất về One Piece, trước khi bản làm lại ra mắt. Có hiểu lầm mà chính fan lâu năm cũng tin.
 
-**s83** — Kaku chúc bạn một năm mới thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn cả năm nhé. Kaku gấp sổ đây, hẹn gặp lại!
+**s83** — Kaku chúc bạn thật nhiều cảm xúc tốt, và đủ can đảm để nói ra cả những cảm xúc khó. Đăng ký kênh để Kaku đồng hành với bạn nhé. Kaku gấp sổ đây, hẹn gặp lại!

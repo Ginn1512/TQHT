@@ -10,7 +10,7 @@
 
 **s03** — Trẻ em Việt Nam hỏi câu này suốt hơn ba mươi năm, từ khi truyện Đôrêmon đến Việt Nam năm 1992. Hôm nay Kaku hỏi một câu khác: bảo bối nào có thể làm được ngoài đời thật?
 
-**s04** — Và đúng dịp này, ngày năm tháng ba năm 2027, bộ phim Doraemon mới ra rạp ở Nhật. Một thời điểm hoàn hảo để mở túi thần kỳ ra xem.
+**s04** — Và ngày năm tháng ba năm 2027, bộ phim Doraemon mới sẽ ra rạp ở Nhật. Trước ngày đó, cùng mở túi thần kỳ ra xem.
 
 **s05** — Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku chấm mười bảo bối theo thang điểm độ thật từ không tới mười: trong truyện làm gì, khoa học thật tới đâu, và truyện phóng tay ở chỗ nào.
 

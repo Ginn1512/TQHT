@@ -4,7 +4,7 @@
 
 ## Mở đầu
 
-**s01** — Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối vừa phát xong năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé.
+**s01** — Cảnh báo: video có spoiler Bleach tới hết anime Huyết chiến ngàn năm, kể cả phần cuối phát năm 2026. Nếu bạn chưa xem hết, hãy lưu video lại nhé.
 
 **s02** — Một thanh kiếm Nhật bình thường. Không phát sáng, không có hoa văn đặc biệt. Nhưng nếu bạn gọi đúng tên nó, nó sẽ trả lời.
 
@@ -12,7 +12,7 @@
 
 **s04** — Mở sổ ra nào! Mình là Kaku. Hôm nay Kaku vẽ một bậc thang sáu nấc, từ thanh kiếm không tên cho tới Bankai. Mỗi nấc có ba dòng: điều kiện, sức mạnh, và cái giá.
 
-**s05** — Bộ anime Huyết chiến ngàn năm vừa khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm.
+**s05** — Bộ anime Huyết chiến ngàn năm khép lại vào tháng 10 năm 2026, sau gần bốn năm. Đây là lúc tốt nhất để nhìn lại toàn bộ con đường của thanh kiếm.
 
 ## Tử thần và thanh kiếm
 

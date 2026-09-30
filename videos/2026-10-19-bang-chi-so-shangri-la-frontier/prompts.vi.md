@@ -3,7 +3,7 @@
 > Tạo tự động từ `scenes.json` và `channel/giong-kaku.json` bằng `python -m tools.prompt_pack`. **Không sửa tay**: sửa `scenes.json` rồi chạy lại lệnh.
 > Cách làm từng bước: `docs/huong-dan-lam-tay.md`.
 
-- 80 ảnh, 9 đoạn đọc, khoảng 15.1 phút giọng.
+- 80 ảnh, 9 đoạn đọc, khoảng 15.2 phút giọng.
 - Ảnh: dán prompt vào Gemini app (tạo hình ảnh), tải ảnh gốc về, đặt tên theo số cảnh (`s01.png`…).
 - Giọng: dán ghi chú đạo diễn một lần, rồi dán từng đoạn; tải file về, đặt tên theo số đoạn (`c01.wav`…).
 
@@ -25,7 +25,7 @@ text, letters, caption, logo, watermark, signature, photorealistic, photo, 3D re
 
 ### s01 · Mở đầu
 
-Lời: Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một này, và Kaku kh…
+Lời: Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một năm 2027, và Ka…
 
 ```text
 Wide 16:9 landscape cinematic frame. a glowing virtual reality headset resting on a desk beside a closed notebook, soft blue screen light in a dark room, wide establishing shot. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -641,7 +641,7 @@ Wide 16:9 landscape cinematic frame. a player taking off a VR headset at dawn, s
 
 ### s78
 
-Lời: Mùa ba lên sóng trong tháng một. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không,…
+Lời: Mùa ba lên sóng vào tháng một năm 2027. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình…
 
 ```text
 Wide 16:9 landscape cinematic frame. a calendar page for January with a small game controller doodle on a date, close-up, fresh light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -714,12 +714,12 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu
 
-Khoảng 87 giây · cảnh s01–s08 · 1134 ký tự
+Khoảng 88 giây · cảnh s01–s08 · 1139 ký tự
 
 **Gemini**
 
 ```text
-Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một này, và Kaku không nói gì về nội dung của nó.
+Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một năm 2027, và Kaku không nói gì về nội dung của nó.
 
 <short pause> Đây là thẻ chỉ số của một người chơi. Sức bền khá. Sức mạnh vừa phải. Nhanh nhẹn rất cao. May mắn rất cao. Còn thể chất? Sáu điểm. Mỏng như một tờ giấy.
 
@@ -739,7 +739,7 @@ Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. M
 **ElevenLabs**
 
 ```text
-Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một này, và Kaku không nói gì về nội dung của nó.
+Cảnh báo: video có spoiler Shangri-La Frontier tới hết anime mùa hai. Mùa ba ra mắt tháng một năm 2027, và Kaku không nói gì về nội dung của nó.
 
 [pause] Đây là thẻ chỉ số của một người chơi. Sức bền khá. Sức mạnh vừa phải. Nhanh nhẹn rất cao. May mắn rất cao. [curious] Còn thể chất? Sáu điểm. Mỏng như một tờ giấy.
 
@@ -1090,7 +1090,7 @@ Nhưng bảng chỉ số cũng có giới hạn. Giới hạn thứ nhất: quá
 
 ### c09 · Trò chơi: thẻ chỉ số của bạn / Kết
 
-Khoảng 113 giây · cảnh s71–s80 · 1473 ký tự
+Khoảng 114 giây · cảnh s71–s80 · 1480 ký tự
 
 **Gemini**
 
@@ -1109,7 +1109,7 @@ Giờ tới lượt bạn. Kaku cho bạn ba mươi điểm để chia vào sáu
 
 <short pause> Shangri-La Frontier cho ta một bảng chỉ số rất chi tiết, rồi dành cả câu chuyện để chứng minh rằng con người sau nhân vật mới là chỉ số quan trọng nhất.
 
-<short pause> Mùa ba lên sóng trong tháng một. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không, và vì sao.
+<short pause> Mùa ba lên sóng vào tháng một năm 2027. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không, và vì sao.
 
 <short pause> Video tiếp theo, Kaku tiếp tục ôn tập trước mùa mới, lần này là Mashle: thế giới nơi phép thuật quyết định địa vị, và một cậu bé không có chút phép thuật nào chỉ dùng… cơ bắp.
 
@@ -1133,7 +1133,7 @@ Giờ tới lượt bạn. Kaku cho bạn ba mươi điểm để chia vào sáu
 
 [pause] Shangri-La Frontier cho ta một bảng chỉ số rất chi tiết, rồi dành cả câu chuyện để chứng minh rằng con người sau nhân vật mới là chỉ số quan trọng nhất.
 
-[pause] Mùa ba lên sóng trong tháng một. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không, và vì sao.
+[pause] Mùa ba lên sóng vào tháng một năm 2027. Xem xong, hãy thử để ý xem Sunraku có thay đổi bản xây dựng của mình không, và vì sao.
 
 [pause] Video tiếp theo, Kaku tiếp tục ôn tập trước mùa mới, lần này là Mashle: thế giới nơi phép thuật quyết định địa vị, và một cậu bé không có chút phép thuật nào chỉ dùng… cơ bắp.
 

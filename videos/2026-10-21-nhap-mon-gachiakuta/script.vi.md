@@ -28,7 +28,7 @@
 
 **s11** — Những người ở khu ổ chuột mang một dấu hiệu trên người, cho biết họ là hậu duệ của tội phạm. Họ chưa làm gì sai, nhưng bị đối xử như đã có tội từ lúc sinh ra.
 
-**s12** — Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ năm nay anime rất quan tâm tới những người bị xã hội gạt ra lề.
+**s12** — Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ những năm gần đây anime rất quan tâm tới những người bị xã hội gạt ra lề.
 
 **s13** — Ở rìa thành phố có một khu ổ chuột, nơi sống những người mang dấu vết của tổ tiên phạm tội. Họ bị kỳ thị chỉ vì dòng dõi.
 

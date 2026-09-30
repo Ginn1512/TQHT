@@ -49,7 +49,7 @@ Wide 16:9 landscape cinematic frame. a worn old comic book on a wooden school de
 
 ### s04
 
-Lời: Và đúng dịp này, ngày năm tháng ba năm 2027, bộ phim Doraemon mới ra rạp ở Nhật. Một thời điểm hoàn hảo để mở…
+Lời: Và ngày năm tháng ba năm 2027, bộ phim Doraemon mới sẽ ra rạp ở Nhật. Trước ngày đó, cùng mở túi thần kỳ ra x…
 
 ```text
 Wide 16:9 landscape cinematic frame. a cinema ticket and a small blue bell charm resting on a table, close-up, warm festive light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
@@ -722,7 +722,7 @@ Bản không có thẻ (công cụ khác hoặc tự thu âm): mỗi cảnh mộ
 
 ### c01 · Mở đầu / Doraemon ở Việt Nam
 
-Khoảng 125 giây · cảnh s01–s10 · 1620 ký tự
+Khoảng 123 giây · cảnh s01–s10 · 1603 ký tự
 
 **Gemini**
 
@@ -733,7 +733,7 @@ Video này gần như không có spoiler, chỉ nói về các bảo bối quen 
 
 <short pause> Trẻ em Việt Nam hỏi câu này suốt hơn ba mươi năm, từ khi truyện Đôrêmon đến Việt Nam năm 1992. Hôm nay Kaku hỏi một câu khác: bảo bối nào có thể làm được ngoài đời thật?
 
-<short pause> Và đúng dịp này, ngày năm tháng ba năm 2027, bộ phim Doraemon mới ra rạp ở Nhật. Một thời điểm hoàn hảo để mở túi thần kỳ ra xem.
+<short pause> Và ngày năm tháng ba năm 2027, bộ phim Doraemon mới sẽ ra rạp ở Nhật. Trước ngày đó, cùng mở túi thần kỳ ra xem.
 
 <short pause> Mở sổ ra nào! <laugh> Mình là Kaku. Hôm nay Kaku chấm mười bảo bối theo thang điểm độ thật từ không tới mười: trong truyện làm gì, khoa học thật tới đâu, và truyện phóng tay ở chỗ nào.
 
@@ -757,7 +757,7 @@ Video này gần như không có spoiler, chỉ nói về các bảo bối quen 
 
 [pause] Trẻ em Việt Nam hỏi câu này suốt hơn ba mươi năm, từ khi truyện Đôrêmon đến Việt Nam năm 1992. Hôm nay Kaku hỏi một câu khác: bảo bối nào có thể làm được ngoài đời thật?
 
-[pause] Và đúng dịp này, ngày năm tháng ba năm 2027, bộ phim Doraemon mới ra rạp ở Nhật. Một thời điểm hoàn hảo để mở túi thần kỳ ra xem.
+[pause] Và ngày năm tháng ba năm 2027, bộ phim Doraemon mới sẽ ra rạp ở Nhật. Trước ngày đó, cùng mở túi thần kỳ ra xem.
 
 [pause] Mở sổ ra nào! [chuckles] Mình là Kaku. Hôm nay Kaku chấm mười bảo bối theo thang điểm độ thật từ không tới mười: trong truyện làm gì, khoa học thật tới đâu, và truyện phóng tay ở chỗ nào.
 

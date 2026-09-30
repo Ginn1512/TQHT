@@ -204,6 +204,6 @@
 
 **s84** — Kaku sẽ không xóa gì cả. Vì Kaku sợ lỡ tay xóa mất bánh su kem.
 
-**s85** — Video tiếp theo đúng dịp Tết. Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc.
+**s85** — Video tiếp theo, Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc.
 
 **s86** — Nếu bạn thích những hồ sơ điều tra như thế này, hãy đăng ký kênh. Hồ sơ Chainsaw Man tạm đóng, nhưng chưa bao giờ đóng hẳn. Kaku gấp sổ đây, hẹn gặp lại!

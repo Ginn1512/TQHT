@@ -766,7 +766,7 @@ Video này gần như không có spoiler. Kaku chỉ nói tới khoảng tập b
 
 ### c02 · Thế giới: tầng trên và hố rác
 
-Khoảng 87 giây · cảnh s07–s14 · 1137 ký tự
+Khoảng 88 giây · cảnh s07–s14 · 1147 ký tự
 
 **Gemini**
 
@@ -781,7 +781,7 @@ Thế giới của Gachiakuta được chia làm hai tầng. Ở trên là một
 
 <short pause> Những người ở khu ổ chuột mang một dấu hiệu trên người, cho biết họ là hậu duệ của tội phạm. Họ chưa làm gì sai, nhưng bị đối xử như đã có tội từ lúc sinh ra.
 
-<short pause> Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ năm nay anime rất quan tâm tới những người bị xã hội gạt ra lề.
+<short pause> Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ những năm gần đây anime rất quan tâm tới những người bị xã hội gạt ra lề.
 
 <short pause> Ở rìa thành phố có một khu ổ chuột, nơi sống những người mang dấu vết của tổ tiên phạm tội. Họ bị kỳ thị chỉ vì dòng dõi.
 
@@ -801,7 +801,7 @@ Thế giới của Gachiakuta được chia làm hai tầng. Ở trên là một
 
 [pause] Những người ở khu ổ chuột mang một dấu hiệu trên người, cho biết họ là hậu duệ của tội phạm. Họ chưa làm gì sai, nhưng bị đối xử như đã có tội từ lúc sinh ra.
 
-[pause] Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ năm nay anime rất quan tâm tới những người bị xã hội gạt ra lề.
+[pause] Kaku để ý: đây là một chủ đề lặp lại trong nhiều bộ anime Kaku làm gần đây. Tougen Anki với dòng máu quỷ, Mashle với người không có phép. Có vẻ những năm gần đây anime rất quan tâm tới những người bị xã hội gạt ra lề.
 
 [pause] Ở rìa thành phố có một khu ổ chuột, nơi sống những người mang dấu vết của tổ tiên phạm tội. Họ bị kỳ thị chỉ vì dòng dõi.
 

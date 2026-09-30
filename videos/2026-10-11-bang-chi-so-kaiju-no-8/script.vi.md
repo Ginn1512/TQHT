@@ -208,6 +208,6 @@
 
 **s87** — Câu hỏi cho bạn: nếu có thể chọn, bạn muốn làm chiến binh mặc giáp với tỉ lệ cao, hay mang trong mình sức mạnh quái thú nhưng phải giữ bí mật?
 
-**s88** — Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, đúng lúc bộ anime vừa khép lại.
+**s88** — Video tới, Kaku sẽ leo từng nấc thang tiến hóa của kiếm Zanpakuto trong Bleach, từ Shikai đến Bankai, khi bộ anime đi tới những tập cuối.
 
 **s89** — Nếu thấy video hữu ích, hãy đăng ký kênh. Kaku tắt màn hình chỉ số đây, hẹn gặp lại!

@@ -6,7 +6,7 @@
 
 **s01** — Cảnh báo: video có spoiler Mashle tới hết anime mùa hai, arc kỳ thi ứng viên Thần giác giả. Không có nội dung của mùa ba.
 
-**s02** — Mùa ba của Mashle trở lại trong tháng một, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn.
+**s02** — Mùa ba của Mashle trở lại vào tháng một năm 2027, sau gần ba năm chờ đợi. Nếu bạn đã quên ai là ai và vì sao một cậu bé không có phép thuật lại đang tranh danh hiệu cao quý nhất giới pháp sư, đây là bài ôn tập của bạn.
 
 **s03** — Mashle là manga của tác giả Komoto Hajime, đăng trên Shonen Jump từ năm 2020 tới 2023. Anime mùa một ra mắt năm 2023 và nổi tiếng khắp thế giới với bài hát mở đầu mà ai nghe cũng muốn nhún nhảy.
 

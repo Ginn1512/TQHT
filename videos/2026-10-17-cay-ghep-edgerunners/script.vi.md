@@ -4,7 +4,7 @@
 
 ## Mở đầu
 
-**s01** — Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Với mùa hai vừa ra hồi tháng mười, Kaku chỉ nhắc tiền đề, không kể nội dung.
+**s01** — Cảnh báo: video có spoiler Cyberpunk: Edgerunners mùa một. Mùa hai lên Netflix ngày 20 tháng 10 năm 2026, nên Kaku chỉ nhắc tiền đề, không kể nội dung.
 
 **s02** — Hãy tưởng tượng một thành phố nơi bạn có thể mua một cánh tay mạnh như máy xúc, một đôi mắt nhìn xuyên đêm, hay một con chip làm thời gian quanh bạn như chậm lại.
 
@@ -184,7 +184,7 @@
 
 ## Kết
 
-**s77** — Mùa hai đã ra đủ mười tập. Nếu bạn đã xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé.
+**s77** — Mùa hai có mười tập. Khi xem xong, hãy thử đối chiếu với sơ đồ hôm nay xem luật chơi có thay đổi gì không. Nhớ đánh dấu spoiler khi bình luận nhé.
 
 **s78** — Edgerunners dùng một hệ thống nghe rất khoa học viễn tưởng để kể một câu chuyện rất cũ: cái giá của việc cố trở thành người khác.
 

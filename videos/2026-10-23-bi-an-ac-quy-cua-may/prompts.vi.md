@@ -697,10 +697,10 @@ Wide 16:9 landscape cinematic frame. the owl mascot protectively holding a cream
 
 ### s85
 
-Lời: Video tiếp theo đúng dịp Tết. Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo…
+Lời: Video tiếp theo, Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần tr…
 
 ```text
-Wide 16:9 landscape cinematic frame. a festive table with a small red envelope and a percentage meter doodle on a notebook, close-up, warm cheerful light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
+Wide 16:9 landscape cinematic frame. a cup of tea beside a percentage meter doodle on a notebook, close-up, warm cheerful light. Signature "Kaku field notebook" look: modern anime illustration, cel-shaded with clean confident line art, faint hand-inked sketch marks and a subtle warm parchment grain toward the edges of the frame, palette of deep navy shadows, warm amber-gold highlights and a single small crimson accent, strong rim light, painterly atmospheric depth, original characters only. No text, no letters, no logos, no watermark, no signature. Original character designs only, not resembling any existing anime or manga character.
 ```
 
 ### s86 · **Kaku** (đính kèm ảnh mẫu)
@@ -1174,7 +1174,7 @@ Giờ Kaku tự phản biện. [curious] Nếu chỉ vì ăn là xóa khái ni�
 
 ### c08 · Kết: câu hỏi mở
 
-Khoảng 40 giây · cảnh s83–s86 · 515 ký tự
+Khoảng 39 giây · cảnh s83–s86 · 502 ký tự
 
 **Gemini**
 
@@ -1183,7 +1183,7 @@ Câu hỏi mở cho bạn: nếu Quỷ Cưa Máy có thể xóa một khái ni�
 
 <short pause> <laugh> Kaku sẽ không xóa gì cả. Vì Kaku sợ lỡ tay xóa mất bánh su kem.
 
-<short pause> Video tiếp theo đúng dịp Tết. Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc.
+<short pause> Video tiếp theo, Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc.
 
 <short pause> Nếu bạn thích những hồ sơ điều tra như thế này, hãy đăng ký kênh. Hồ sơ Chainsaw Man tạm đóng, nhưng chưa bao giờ đóng hẳn. Kaku gấp sổ đây, hẹn gặp lại!
 ```
@@ -1195,7 +1195,7 @@ Câu hỏi mở cho bạn: nếu Quỷ Cưa Máy có thể xóa một khái ni�
 
 [pause] [chuckles] Kaku sẽ không xóa gì cả. Vì Kaku sợ lỡ tay xóa mất bánh su kem.
 
-[pause] Video tiếp theo đúng dịp Tết. Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc.
+[pause] Video tiếp theo, Kaku chọn một bộ nhẹ nhàng và ấm áp: Mob Psycho 100, nơi sức mạnh siêu nhiên đo bằng phần trăm cảm xúc.
 
 [pause] Nếu bạn thích những hồ sơ điều tra như thế này, hãy đăng ký kênh. Hồ sơ Chainsaw Man tạm đóng, nhưng chưa bao giờ đóng hẳn. Kaku gấp sổ đây, hẹn gặp lại!
 ```

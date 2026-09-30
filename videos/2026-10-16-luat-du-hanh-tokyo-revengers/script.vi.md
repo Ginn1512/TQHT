@@ -174,7 +174,7 @@
 
 ## Góc nhìn của Kaku: vì sao luật yếu lại hay
 
-**s74** — Tháng một năm sau, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, để xem luật của bộ nào chặt chẽ nhất.
+**s74** — Trong một video sắp tới, Kaku sẽ đặt Tokyo Revengers lên bàn so sánh với hai bộ du hành thời gian nổi tiếng khác, để xem luật của bộ nào chặt chẽ nhất.
 
 **s75** — Nhiều bộ du hành thời gian cho nhân vật chính một khả năng gần như vô địch. Tokyo Revengers thì ngược lại: khả năng yếu, luật khắt khe, và nhân vật chính còn yếu hơn.
 

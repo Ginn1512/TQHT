@@ -4,7 +4,7 @@
 
 ## Mở đầu
 
-**s01** — Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư sẽ kể. Bạn có thể xem thoải mái.
+**s01** — Video này gần như không có spoiler. Kaku chỉ nói tới tiền đề và vài chương đầu của Kagurabachi, đúng những gì anime tháng tư năm 2027 sẽ kể. Bạn có thể xem thoải mái.
 
 **s02** — Nếu bạn chưa đọc Kagurabachi, đây là mười lăm phút bạn cần. Một cậu con trai của thợ rèn kiếm. Một thanh kiếm có phép. Và một cuộc truy lùng những kẻ đã lấy đi tất cả của cậu.
 
