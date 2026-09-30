@@ -2,22 +2,22 @@
 
 > Tạo tự động bằng `python -m tools.canon build` từ bảng sự thật trong `videos/*/brief.md`. **Không sửa tay**: sửa `brief.md` (hoặc `python -m tools.canon resolve`), rồi chạy lại `build`.
 
-814 khẳng định trong 78 video. **552 chưa kiểm.** 1/78 video sẵn sàng làm giọng.
+819 khẳng định trong 78 video. **557 chưa kiểm.** 1/78 video sẵn sàng làm giọng.
 
 | Mức | Số dòng |
 |---|---|
 | Đã kiểm | 0 |
 | Có nguồn | 234 |
 | Ý kiến / lý thuyết đã gắn nhãn | 28 |
-| Chưa mở trang | 5 |
-| Cần kiểm lại | 547 |
+| Chưa mở trang | 11 |
+| Cần kiểm lại | 546 |
 | Không rõ nguồn | 0 |
 
 ## Theo video
 
 | # | Ngày | Video | Anime | Đã kiểm / có nguồn | Chưa kiểm | Sẵn sàng làm giọng |
 |---|---|---|---|---|---|---|
-| 1 | 2026-10-06 | `2026-10-06-nen-hunter-x-hunter` | Hunter x Hunter | 0 | 6 | Chưa |
+| 1 | 2026-10-06 | `2026-10-06-nen-hunter-x-hunter` | Hunter x Hunter | 0 | 11 | Chưa |
 | 2 | 2026-10-06 | `2026-10-06-lanh-dia-jujutsu-kaisen` | Jujutsu Kaisen | 0 | 8 | Chưa |
 | 3 | 2026-10-06 | `2026-10-06-ma-thuat-frieren` | Frieren | 0 | 8 | Chưa |
 | 4 | 2026-10-07 | `2026-10-07-haki-one-piece` | One Piece | 0 | 7 | Chưa |
@@ -349,6 +349,36 @@ Kiểm cả nhóm một lần: cùng một chi tiết thường xuất hiện �
 - Video 50, dòng 8 · Cần kiểm lại: Câu chuyện chính diễn ra thời Đại Chính (1912–1926)
 - Video 50, dòng 9 · Cần kiểm lại: Nezuko vượt ánh mặt trời ở arc Làng Thợ Rèn; Muzan đổi mục tiêu sang bắt Nezuko
 
+### Hunter x Hunter (27)
+
+- Video 1, dòng 1 · Chưa mở trang: 4 nguyên tắc Ten, Zetsu, Ren, Hatsu và ý nghĩa từng cái
+- Video 1, dòng 2 · Chưa mở trang: 6 hệ: Cường hóa, Biến hóa, Phóng xuất, Cụ hiện hóa, Thao tác, Đặc chất
+- Video 1, dòng 3 · Chưa mở trang: Bói nước: lá trên cốc nước, mỗi hệ một kiểu thay đổi
+- Video 1, dòng 4 · Chưa mở trang: Giới hạn và giao ước: càng khắt khe, năng lực càng mạnh; phá giao ước có thể mất năng lực
+- Video 1, dòng 5 · Chưa mở trang: Gon đổi toàn bộ tiềm năng và Nen để có sức mạnh trước Pitou; sau đó không dùng và không thấy Nen được nữa (điện thoại với Ging, chương 306 trở đi)
+- Video 1, dòng 6 · Chưa mở trang: Tỉ lệ trên hình lục giác: hệ của mình 100%, hai hệ đứng cạnh khoảng 80%, hai hệ cách một ô khoảng 60%, hệ đối diện khoảng 40% (s50–s51)
+- Video 1, dòng 7 · Chưa mở trang: Tên và công dụng 7 kỹ năng nâng cao Gyo, In, En, Shu, Ko, Ken, Ryu (s28–s39)
+- Video 1, dòng 8 · Chưa mở trang: Lúc đầu thầy Wing không dạy Gon và Killua Nen thật mà dạy một phiên bản chỉ nói về ý chí, vì Nen thật nguy hiểm (s11–s12)
+- Video 1, dòng 9 · Chưa mở trang: Kastro chọn năng lực nằm xa hệ tự nhiên của mình, Hisoka gọi đó là "tràn bộ nhớ", và Kastro thua (s66–s68)
+- Video 1, dòng 10 · Chưa mở trang: Thuyết tính cách theo hệ của Hisoka (s61–s62), và chính Hisoka nói nó chỉ như xem nhóm máu đoán tính cách (s63)
+- Video 1, dòng 11 · Chưa mở trang: Emperor Time của Kurapika rút ngắn tuổi thọ của cậu mỗi khi dùng (arc Thừa kế, s76)
+- Video 20, dòng 1 · Cần kiểm lại: Hunter x Hunter của Togashi Yoshihiro, từ 1998; anime 2011 kết thúc ở arc Chọn chủ tịch
+- Video 20, dòng 2 · Cần kiểm lại: Thế giới loài người nằm giữa một hồ cực lớn (hồ Mobius); Lục địa Đen bao quanh (manga ch. 340)
+- Video 20, dòng 3 · Cần kiểm lại: V5 (năm đại quốc) ký hiệp ước cấm tự ý đến Lục địa Đen
+- Video 20, dòng 4 · Cần kiểm lại: Các chuyến thám hiểm phần lớn thất bại; năm tai họa lớn đã được mang về; cũng có báu vật (thuốc chữa bách bệnh, nguồn năng lượng…) (cần kiểm tên từng mục)
+- Video 20, dòng 5 · Cần kiểm lại: Don Freecss viết sách về Lục địa Đen ('Tân Thế giới ký'), chỉ một phần được biết
+- Video 20, dòng 6 · Cần kiểm lại: Kiến chimera có nguồn gốc từ Lục địa Đen
+- Video 20, dòng 7 · Cần kiểm lại: Netero dùng Miniature Rose trong trận với Meruem
+- Video 20, dòng 8 · Cần kiểm lại: Nanika (Alluka) thực hiện điều ước có luật; hình một tai họa (Ai, sinh vật khí) giống Nanika — lý thuyết của fan
+- Video 20, dòng 9 · Cần kiểm lại: Ging nói muốn leo lên đỉnh Cây Thế giới (cuối arc Chọn chủ tịch)
+- Video 20, dòng 10 · Cần kiểm lại: Beyond Netero khởi xướng thám hiểm; vương quốc Kakin tài trợ; Hiệp hội (Zodiacs) tham gia; cuộc chiến kế vị trên tàu Black Whale; tàu chưa tới nơi ở chương mới nhất
+- Video 20, dòng 11 · Cần kiểm lại: Gon hiện không dùng được Nen (sau arc Kiến chimera)
+- Video 20, dòng 12 · Cần kiểm lại: Cần người dẫn đường (案内人) và đi qua vùng được canh giữ để vào Lục địa Đen
+- Video 20, dòng 13 · Cần kiểm lại: Ba giả thuyết A, B, C là suy luận của kênh/fan, đã gắn nhãn
+- Video 74, dòng 4 · Cần kiểm lại: Kế hoạch tách Vua (tấn công từ trên trời của Zeno), Vua tự nguyện đi theo, đề nghị đối thoại, bom nối nhịp tim, chất độc, Meruem và Komugi chơi Gungi tới cuối; Netero hơn 100 tuổi
+- Video 74, dòng 5 · Cần kiểm lại: Meruem biết tên mình (do Nữ hoàng đặt) sau vụ nổ; lối kể bằng người kể chuyện của arc Kiến Chimera; tranh luận 'Netero lúc trẻ có thắng không' là tranh luận của fan
+- Video 74, dòng 6 · Cần kiểm lại: Bông hồng như ẩn dụ cho vũ khí hạt nhân: cách đọc phổ biến của người xem
+
 ### Attack on Titan (24)
 
 - Video 22, dòng 1 · Cần kiểm lại: Attack on Titan của Isayama Hajime, đăng 2009–2021 (Bessatsu Shōnen Magazine); anime 2013–2023 (Wit Studio, MAPPA)
@@ -375,31 +405,6 @@ Kiểm cả nhóm một lần: cùng một chi tiết thường xuất hiện �
 - Video 69, dòng 6 · Cần kiểm lại: Khu cách ly Eldia ở Marley, băng tay; chương trình chiến binh; Grisha Yeager trong phong trào phục quốc; câu hỏi của Eren ở bờ biển; phần kết: cái cây và cậu bé
 - Video 69, dòng 7 · Cần kiểm lại: Gia tộc Ackerman không bị xóa ký ức, bị đàn áp; dòng họ phương Đông của mẹ Mikasa (Hizuru); Marley dùng người khổng lồ, vũ khí hiện đại đuổi kịp; bốn chiến binh Reiner, Bertholdt, Annie, Marcel tới đảo năm 845; Zeke là con của Grisha; người thừa kế Tiến công thấy ký ức trước và sau
 - Video 69, dòng 8 · Cần kiểm lại: Historia lên ngôi nữ hoàng; Marley vừa đánh xong liên minh phía đông (pháo đài Slava); Armin và Reiner trong liên minh; Armin làm đại sứ hòa bình
-
-### Hunter x Hunter (22)
-
-- Video 1, dòng 1 · Chưa mở trang: 4 nguyên tắc Ten, Zetsu, Ren, Hatsu và ý nghĩa từng cái
-- Video 1, dòng 2 · Chưa mở trang: 6 hệ: Cường hóa, Biến hóa, Phóng xuất, Cụ hiện hóa, Thao tác, Đặc chất
-- Video 1, dòng 3 · Chưa mở trang: Bói nước: lá trên cốc nước, mỗi hệ một kiểu thay đổi
-- Video 1, dòng 4 · Chưa mở trang: Giới hạn và giao ước: càng khắt khe, năng lực càng mạnh; phá giao ước có thể mất năng lực
-- Video 1, dòng 5 · Chưa mở trang: Gon đổi toàn bộ tiềm năng và Nen để có sức mạnh trước Pitou; sau đó không dùng và không thấy Nen được nữa (điện thoại với Ging, chương 306 trở đi)
-- Video 1, dòng 6 · Cần kiểm lại: Tỉ lệ lục giác 100/80/60/40%, tên kỹ năng nâng cao (Gyo, In, En, Shu, Ko, Ken, Ryu), lời "Nen = ý chí" Wing nói dối lúc đầu, Kastro và "tràn bộ nhớ", thuyết tính cách của Hisoka, Emperor Time rút ngắn tuổi thọ
-- Video 20, dòng 1 · Cần kiểm lại: Hunter x Hunter của Togashi Yoshihiro, từ 1998; anime 2011 kết thúc ở arc Chọn chủ tịch
-- Video 20, dòng 2 · Cần kiểm lại: Thế giới loài người nằm giữa một hồ cực lớn (hồ Mobius); Lục địa Đen bao quanh (manga ch. 340)
-- Video 20, dòng 3 · Cần kiểm lại: V5 (năm đại quốc) ký hiệp ước cấm tự ý đến Lục địa Đen
-- Video 20, dòng 4 · Cần kiểm lại: Các chuyến thám hiểm phần lớn thất bại; năm tai họa lớn đã được mang về; cũng có báu vật (thuốc chữa bách bệnh, nguồn năng lượng…) (cần kiểm tên từng mục)
-- Video 20, dòng 5 · Cần kiểm lại: Don Freecss viết sách về Lục địa Đen ('Tân Thế giới ký'), chỉ một phần được biết
-- Video 20, dòng 6 · Cần kiểm lại: Kiến chimera có nguồn gốc từ Lục địa Đen
-- Video 20, dòng 7 · Cần kiểm lại: Netero dùng Miniature Rose trong trận với Meruem
-- Video 20, dòng 8 · Cần kiểm lại: Nanika (Alluka) thực hiện điều ước có luật; hình một tai họa (Ai, sinh vật khí) giống Nanika — lý thuyết của fan
-- Video 20, dòng 9 · Cần kiểm lại: Ging nói muốn leo lên đỉnh Cây Thế giới (cuối arc Chọn chủ tịch)
-- Video 20, dòng 10 · Cần kiểm lại: Beyond Netero khởi xướng thám hiểm; vương quốc Kakin tài trợ; Hiệp hội (Zodiacs) tham gia; cuộc chiến kế vị trên tàu Black Whale; tàu chưa tới nơi ở chương mới nhất
-- Video 20, dòng 11 · Cần kiểm lại: Gon hiện không dùng được Nen (sau arc Kiến chimera)
-- Video 20, dòng 12 · Cần kiểm lại: Cần người dẫn đường (案内人) và đi qua vùng được canh giữ để vào Lục địa Đen
-- Video 20, dòng 13 · Cần kiểm lại: Ba giả thuyết A, B, C là suy luận của kênh/fan, đã gắn nhãn
-- Video 74, dòng 4 · Cần kiểm lại: Kế hoạch tách Vua (tấn công từ trên trời của Zeno), Vua tự nguyện đi theo, đề nghị đối thoại, bom nối nhịp tim, chất độc, Meruem và Komugi chơi Gungi tới cuối; Netero hơn 100 tuổi
-- Video 74, dòng 5 · Cần kiểm lại: Meruem biết tên mình (do Nữ hoàng đặt) sau vụ nổ; lối kể bằng người kể chuyện của arc Kiến Chimera; tranh luận 'Netero lúc trẻ có thắng không' là tranh luận của fan
-- Video 74, dòng 6 · Cần kiểm lại: Bông hồng như ẩn dụ cho vũ khí hạt nhân: cách đọc phổ biến của người xem
 
 ### Bleach (21)
 

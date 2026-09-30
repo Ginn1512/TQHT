@@ -6,13 +6,13 @@
       "label": "Có câu hỏi hoặc luận điểm riêng",
       "by": "máy",
       "points": 2,
-      "evidence": "có câu hỏi và luận điểm: giải mã hệ thống sức mạnh bằng sơ đồ (hình lục giác 6 hệ, bảng phần trăm, sơ đồ giao ước)."
+      "evidence": "có câu hỏi và luận điểm: Cú biến đổi của Gon ở arc Kiến Chimera không phải một cơn giận bộc phát khó giải thích như"
     },
     "nguon": {
       "label": "Có nghiên cứu và nguồn được ghi lại",
       "by": "máy",
       "points": 1,
-      "evidence": "0/6 dòng đã kiểm, 5/6 dòng có link hoặc đã kiểm"
+      "evidence": "0/11 dòng đã kiểm, 11/11 dòng có link hoặc đã kiểm"
     },
     "binh-luan": {
       "label": "Có bình luận hoặc phân tích của người làm kênh",
@@ -23,8 +23,8 @@
     "vi-du-moi": {
       "label": "Có ví dụ hoặc dữ liệu mới",
       "by": "claude",
-      "points": null,
-      "evidence": ""
+      "points": 2,
+      "evidence": "s54: công cụ tự đoán hệ bằng câu hỏi 'người này đang làm gì với khí?', trả đúng lời hứa ở s06; s18 và s27: hai phép so sánh riêng (Nen như học bơi; Ten/Zetsu/Ren là bảng chữ cái, Hatsu là bài thơ); s39: bảng nhớ 7 kỹ năng, mỗi cái một động từ; s95: so sánh chéo Kurapika và Gon, năng lực phản ánh cách sống. Giới hạn: không có phép tính nào; bảng phần trăm s50–s51 là số của truyện, không do kênh dựng; s89 so với 'nhiều bộ khác' mà không nêu bộ nào."
     },
     "hinh-co-quyen": {
       "label": "Hình minh họa tự tạo hoặc có giấy phép",
@@ -35,8 +35,8 @@
     "khong-paraphrase": {
       "label": "Không phải bản dịch hay paraphrase gần nguyên bản",
       "by": "claude",
-      "points": null,
-      "evidence": ""
+      "points": 1,
+      "evidence": "Chưa so được với nguồn vì mạng chặn; chỉ so với đoạn trích WebSearch. Khung câu hỏi và trả lời (s02–s06, rồi s79–s86) và chương góc nhìn s87–s98 là của kênh, có phép so sánh riêng (s18, s27). Nhưng phần lõi s19–s63 đi đúng thứ tự mục của bài wiki Nen: 4 nguyên tắc, rồi 7 kỹ năng theo thứ tự Gyo, In, En, Shu, Ko, Ken, Ryu (s29–s37), rồi 6 hệ (s41–s48), lục giác, bói nước theo cùng thứ tự hệ (s57–s60); mỗi cảnh một định nghĩa kiểu từ điển. Vài định nghĩa sát cách diễn đạt của đoạn trích: s30 'In là phiên bản cao cấp của Zetsu… trừ khi họ dùng Gyo' giống 'An advanced version of Zetsu is In… countered with Gyo'; s36 'giữ Ren quanh toàn thân… đỡ đòn từ mọi phía' giống 'maintains Ren over their entire body… defend against attacks from any direction'. Không thấy đoạn nào dịch gần nguyên văn cả một bài."
     },
     "khac-nhau": {
       "label": "Nội dung cốt lõi khác các video khác của kênh",
@@ -47,11 +47,11 @@
     "gia-tri": {
       "label": "Người xem nhận được giá trị giáo dục hoặc giải trí rõ ràng",
       "by": "claude",
-      "points": null,
-      "evidence": ""
+      "points": 2,
+      "evidence": "s79–s85 trả lời thẳng câu hỏi 'vì sao Gon mất Nen' bằng luật giao ước đã dựng ở s71–s78: Gon trả trước toàn bộ tương lai nên hiện tại không còn gì để dùng. Ý mới dễ nhớ ở s78 và s97: không có sức mạnh nào miễn phí, và tương lai là thứ quý nhất đem ra đổi. Lời hứa phụ ở s06 (tự đoán hệ) được trả ở s54; s86 nói rõ chuyện Gon lấy lại Nen chỉ là lý thuyết. Lưu ý: s84 ('Ging vẫn thấy khí quanh Gon') có thể sai theo đoạn trích tìm kiếm Chapter 345; câu trả lời chính ở s85 không dựa vào s84, nhưng phải sửa s84 nếu fact-checker xác nhận."
     }
   },
-  "total": 8,
+  "total": 13,
   "max": 16,
-  "verdict": "chưa chấm đủ"
+  "verdict": "đạt"
 }
