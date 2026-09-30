@@ -127,15 +127,23 @@ Trang riêng tư **"Cú Kaku anime"**. Trên đầu ghi mục tiêu, mốc kiể
 | Số | Số | 1–78 |
 | Anime | Chọn nhiều | |
 | Dạng | Chọn | A–U |
-| Ngày đăng | Ngày | Lịch thứ Ba / thứ Năm / thứ Bảy |
+| Ngày đăng | Ngày | 06:00, 14:00, 22:00 giờ Việt Nam, từ 06/10/2026 |
 | Trạng thái | Chọn | Kịch bản xong → Đang làm ảnh → Đang làm giọng → Chờ duyệt video → Duyệt đăng → Đã lên lịch → Đã đăng (thêm "Sửa"). Sẽ đổi sang bộ trạng thái mới ở `docs/tu-dong-hoa-agent.md` mục 7 |
 | Nguồn ảnh / Nguồn giọng | Chọn | Làm tay / API |
 | Thư mục | Văn bản | `videos/<ngày>-<slug>` |
+| Kịch bản | Công thức | `link("Đọc kịch bản", "https://github.com/Ginn1512/TQHT/blob/HEAD/" + prop("Thư mục") + "/script.vi.md")`: luôn là bản mới nhất |
 | Link Xưởng, Link Drive, Link YouTube | URL | |
 | Số cảnh, Phút, Chi phí USD, Giờ làm tay | Số | |
 | Lượt xem 48h, CTR 48h (%), Giữ chân (%), Người đăng ký tăng | Số | W3 tự điền sau này |
 
 Chế độ xem: Kanban theo Trạng thái, Lịch theo Ngày đăng, Bảng đầy đủ.
+
+**Nội dung trang của mỗi video** là bản chép `script.vi.md`, chỉ để đọc (thêm ngày 30/09/2026, đã chép video 1–9):
+
+- Tạo bằng `python -m tools.notion_export videos/<thư-mục>`, dán bằng `notion-update-page` (`replace_content`).
+- Đầu trang ghi commit của `script.vi.md` lúc chép và link GitHub. Commit khác `git log -1 -- videos/<thư-mục>/script.vi.md` thì chép lại.
+- Chép theo đợt 9 video, sau khi đợt đó kiểm nguồn xong. Trước đó đọc qua cột "Kịch bản".
+- Góp ý bằng bình luận trên trang. Không sửa thẳng, vì lần chép sau sẽ ghi đè. Bản gốc là `scenes.json`.
 
 **2. Shorts:** Tên, Video gốc (liên kết tới Video dài), Cảnh (ví dụ `s19–s24`), Ngày đăng, Trạng thái, Lượt xem.
 

@@ -37,6 +37,7 @@ Vì sao chia như vậy:
 
 - Tổng quản: `tools/pipeline.py` (sẽ viết) và skill `kaku-pipeline`.
 - **Trạng thái suy ra từ file thật**, ví dụ: có `scenes.json` chưa, `canon check` đạt chưa, đủ ảnh chưa, có `render/video.vi.mp4` chưa. Notion chỉ là bản hiển thị.
+- Kịch bản trên Notion cũng chỉ là bản chép để đọc (`tools.notion_export`), có ghi commit. Sửa kịch bản trong repo xong thì chép lại (xem `docs/tu-dong-hoa.md`, mục "Cấu trúc Notion").
 - **Khóa (lease):** trước khi làm một video, agent ghi tên mình và hạn giờ vào cột "Khóa" trên Notion. Nhờ vậy hai phiên không làm cùng một video.
 - **Mỗi đêm đối chiếu** Notion với file thật và sửa chỗ lệch.
 - Bỏ VPS và n8n.

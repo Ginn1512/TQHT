@@ -70,6 +70,13 @@ python -m tools.costs estimate videos/<thư-mục>                        # nế
 
 Dùng AskUserQuestion, kèm tóm tắt: tiêu đề làm việc, độ dài ước tính, số cảnh, chi phí, số tiền đã chi trong tháng. Người dùng chọn: **Tạo video** / **Sửa kịch bản trước**. Chưa được đồng ý thì không gọi API tốn tiền. Khi làm tay hoàn toàn (0 USD) thì chỉ cần người dùng duyệt kịch bản.
 
+Người dùng đọc kịch bản trên Notion:
+
+- Cột "Kịch bản" của bảng "Video dài" luôn dẫn tới bản mới nhất trên GitHub.
+- Khi kịch bản đã kiểm nguồn, chép toàn văn vào trang của video: lấy nội dung từ `python -m tools.notion_export videos/<thư-mục>`, rồi gọi `notion-update-page` với `command: replace_content`. Chép theo đợt 9 video.
+- Trang Notion chỉ để đọc. Người dùng góp ý bằng bình luận; Claude sửa `scenes.json` trong repo rồi chép lại.
+- Đầu trang ghi commit của `script.vi.md` lúc chép. Khác `git log -1 --format=%h -- videos/<thư-mục>/script.vi.md` nghĩa là bản trên Notion đã cũ.
+
 ## 5. Ảnh, giọng và dựng video
 
 **Trước khi làm ảnh và giọng:** `python -m tools.originality check videos/<thư-mục>` phải ra "đạt" (xem `/kaku-originality-check`). Dưới 12/16 thì viết lại kịch bản trước.
