@@ -1,0 +1,57 @@
+{
+  "video": "2026-10-06-nen-hunter-x-hunter",
+  "updated": "2026-09-30",
+  "criteria": {
+    "cau-hoi": {
+      "label": "Có câu hỏi hoặc luận điểm riêng",
+      "by": "máy",
+      "points": 2,
+      "evidence": "có câu hỏi và luận điểm: giải mã hệ thống sức mạnh bằng sơ đồ (hình lục giác 6 hệ, bảng phần trăm, sơ đồ giao ước)."
+    },
+    "nguon": {
+      "label": "Có nghiên cứu và nguồn được ghi lại",
+      "by": "máy",
+      "points": 1,
+      "evidence": "0/6 dòng đã kiểm, 5/6 dòng có link hoặc đã kiểm"
+    },
+    "binh-luan": {
+      "label": "Có bình luận hoặc phân tích của người làm kênh",
+      "by": "máy",
+      "points": 1,
+      "evidence": "3 cụm bình luận của kênh; chương 'Vì sao Gon mất Nen?'"
+    },
+    "vi-du-moi": {
+      "label": "Có ví dụ hoặc dữ liệu mới",
+      "by": "claude",
+      "points": null,
+      "evidence": ""
+    },
+    "hinh-co-quyen": {
+      "label": "Hình minh họa tự tạo hoặc có giấy phép",
+      "by": "máy",
+      "points": 2,
+      "evidence": "mọi tài sản có nguồn và giấy phép đã kiểm"
+    },
+    "khong-paraphrase": {
+      "label": "Không phải bản dịch hay paraphrase gần nguyên bản",
+      "by": "claude",
+      "points": null,
+      "evidence": ""
+    },
+    "khac-nhau": {
+      "label": "Nội dung cốt lõi khác các video khác của kênh",
+      "by": "máy",
+      "points": 2,
+      "evidence": "trùng nhiều nhất 1.1% cụm 5 từ với 2026-10-06-ma-thuat-frieren"
+    },
+    "gia-tri": {
+      "label": "Người xem nhận được giá trị giáo dục hoặc giải trí rõ ràng",
+      "by": "claude",
+      "points": null,
+      "evidence": ""
+    }
+  },
+  "total": 8,
+  "max": 16,
+  "verdict": "chưa chấm đủ"
+}
